@@ -1,0 +1,574 @@
+{
+  "episode_id": "34748488591",
+  "title": "Ivan Moré - Disrupção e Desobediência Produtiva | Extremos",
+  "date_published": 1685605552,
+  "duration": 4509,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Ivan Moré",
+      "role": "guest",
+      "company": "Rede Globo",
+      "title": "Jornalista, Repórter, Apresentador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Tiago Leifert",
+      "role": "mentioned",
+      "company": "Rede Globo",
+      "title": "Jornalista e Apresentador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor e apresentador"
+    },
+    {
+      "name": "Marcão",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": "Cinegrafista"
+    },
+    {
+      "name": "Michael Phelps",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Atleta olímpico"
+    },
+    {
+      "name": "Lewis Hamilton",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Piloto de Fórmula 1"
+    },
+    {
+      "name": "Ronaldo Fenômeno",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Ex-jogador de futebol"
+    },
+    {
+      "name": "Pelé",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Ex-jogador de futebol"
+    },
+    {
+      "name": "Rafael Nadal",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Roger Federer",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nicolas",
+      "role": "mentioned",
+      "company": "",
+      "title": "Braço direito de Ivan Moré"
+    },
+    {
+      "name": "Daniel Alves",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ronaldo",
+      "role": "mentioned",
+      "company": "Corinthians",
+      "title": "Player"
+    },
+    {
+      "name": "Neymar",
+      "role": "mentioned",
+      "company": "Unspecified",
+      "title": "Player"
+    },
+    {
+      "name": "Rafael Coca",
+      "role": "mentioned",
+      "company": "Spark",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Rafa Pinho",
+      "role": "mentioned",
+      "company": "Spark",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Marcos Goleiro",
+      "role": "mentioned",
+      "company": "Palmeiras",
+      "title": "Player"
+    },
+    {
+      "name": "Thiago Leifert",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": "Former Host"
+    },
+    {
+      "name": "Tadeu Schmidt",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": "Host"
+    },
+    {
+      "name": "Tino Marcos",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": "Reporter"
+    },
+    {
+      "name": "Pedro Bassan",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": "Reporter"
+    },
+    {
+      "name": "João Pedro Paes Leme",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Ex-jornalista de TV"
+    },
+    {
+      "name": "Diego Ribas",
+      "role": "mentioned",
+      "company": "Flamengo",
+      "title": "Jogador de futebol"
+    },
+    {
+      "name": "Tino Marques",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": "Repórter"
+    },
+    {
+      "name": "Glenda Kozlowski",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": "Apresentadora"
+    },
+    {
+      "name": "Daniel Ricciardo",
+      "role": "mentioned",
+      "company": "Formula 1",
+      "title": "Piloto"
+    },
+    {
+      "name": "Max Verstappen",
+      "role": "mentioned",
+      "company": "Formula 1",
+      "title": "Piloto"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Rede Globo",
+      "industry": "Media and Entertainment",
+      "context": "Ivan Moré trabalhou por 20 anos na Rede Globo como jornalista e apresentador."
+    },
+    {
+      "name": "Sales Force",
+      "industry": "Technology",
+      "context": "Patrocinador do podcast, fornecendo soluções de CRM."
+    },
+    {
+      "name": "I'M Disruptive Content",
+      "industry": "Consulting",
+      "context": "Empresa fundada por Ivan Moré focada em desobediência produtiva e inovação corporativa."
+    },
+    {
+      "name": "Basic.Com",
+      "industry": "Fashion",
+      "context": "Empresa mencionada por Ivan Moré como produtora de camisetas leves e descontraídas."
+    },
+    {
+      "name": "Reserva",
+      "industry": "Fashion",
+      "context": "Empresa com a qual Ivan Moré é embaixador."
+    },
+    {
+      "name": "Minimals",
+      "industry": "Fashion",
+      "context": "Empresa mencionada por Bruno Nardon como fornecedora de camisas básicas."
+    },
+    {
+      "name": "Tv Globo",
+      "industry": "Media and Entertainment",
+      "context": "Ivan Moré trabalhou como repórter e apresentador na TV Globo."
+    },
+    {
+      "name": "Resenha Digital Club",
+      "industry": "Content Creation",
+      "context": "Founded by Ivan Moré and collaborators"
+    },
+    {
+      "name": "Spark",
+      "industry": "Marketing",
+      "context": "Collaborated with Ivan Moré on Resenha Digital Club"
+    },
+    {
+      "name": "Corinthians",
+      "industry": "Sports",
+      "context": "Ronaldo's team"
+    },
+    {
+      "name": "Palmeiras",
+      "industry": "Sports",
+      "context": "Marcos Goleiro's team"
+    },
+    {
+      "name": "Globo",
+      "industry": "Media",
+      "context": "Empresa onde Ivan Moré trabalhou como jornalista"
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Visitada por Ivan Moré durante sua imersão no Vale do Silício"
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotive",
+      "context": "Visitada por Ivan Moré durante sua imersão no Vale do Silício"
+    },
+    {
+      "name": "Flamengo",
+      "industry": "Sports",
+      "context": "Clube de futebol onde Diego Ribas atua"
+    },
+    {
+      "name": "Delta Airlines",
+      "industry": "Aviação",
+      "context": "Envolvida em evento relacionado à entrevista com Michael Phelps"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Desobediência Produtiva",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Business Management"
+    },
+    {
+      "name": "CRM",
+      "category": "Technology"
+    },
+    {
+      "name": "Mentoria de Podcast",
+      "category": "Education"
+    },
+    {
+      "name": "Intuição",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Confiança",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Coragem",
+      "category": "Personal Development"
+    },
+    {
+      "name": "PDCA",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Gestão de Imagem",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Curadoria de Staff",
+      "category": "Gestão"
+    },
+    {
+      "name": "Networking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Content Viralization",
+      "category": "Marketing"
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Business"
+    },
+    {
+      "name": "Corporate Entrepreneurship",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Impacto social",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Imersão no Vale do Silício",
+      "category": "Professional Development"
+    },
+    {
+      "name": "Criatividade em jornalismo",
+      "category": "Media Practices"
+    },
+    {
+      "name": "Distribuição de Renda",
+      "category": "Economia"
+    },
+    {
+      "name": "Criatividade na Comunicação",
+      "category": "Mídia e Jornalismo"
+    },
+    {
+      "name": "distribuição igualitária de renda",
+      "category": "social"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "20 anos",
+      "context": "Tempo de trabalho de Ivan Moré na Rede Globo."
+    },
+    {
+      "value": "200 quilômetros",
+      "context": "Distância mencionada entre Presidente Venceslau e Assis."
+    },
+    {
+      "value": "13",
+      "context": "Audience rating achieved by Ivan Moré during his tenure at Globo Esporte"
+    },
+    {
+      "value": "30",
+      "context": "Número de pessoas envolvidas na produção do programa Globo Esporte"
+    },
+    {
+      "value": "10 anos",
+      "context": "Tempo de trabalho de Ivan Moré na cobertura de eventos esportivos"
+    },
+    {
+      "value": "1.600 jogos",
+      "context": "Número de jogos cobertos por Ivan Moré durante sua carreira"
+    },
+    {
+      "value": "70 mil pessoas",
+      "context": "Capacidade de público nos shows do Coldplay em São Paulo"
+    },
+    {
+      "value": "80%",
+      "context": "percentual da população do país considerada pobre"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Flamengo",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Coca",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Spark",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Lewis Hamilton",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Daniel Ricciardo",
+      "target_type": "person"
+    },
+    {
+      "source": "Marcos Goleiro",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Palmeiras",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ronaldo Fenômeno",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Resenha Digital Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafa Pinho",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Spark",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Max Verstappen",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rafael Nadal",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rede Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "Sales Force",
+      "source_type": "company",
+      "relation": "sponsored",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Desobediência Produtiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tv Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Daniel Alves",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Distribuição De Renda",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Roger Federer",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Impacto Social",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Imersão No Vale Do Silício",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tiago Leifert",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Michael Phelps",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Tv Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "Ronaldo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Corinthians",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Pelé",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Distribuição Igualitária De Renda",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "I'M Disruptive Content",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Criatividade Em Jornalismo",
+      "target_type": "concept"
+    }
+  ]
+}

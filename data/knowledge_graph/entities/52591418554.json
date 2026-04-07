@@ -1,0 +1,533 @@
+{
+  "episode_id": "52591418554",
+  "title": "DOT ENERGY: A STARTUP QUE CRIOU UM NOVO TIPO DE ENERGÉTICO NO BRASIL | EXTREMOS",
+  "date_published": 1774450800,
+  "duration": 4451,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Ian",
+      "role": "mentioned",
+      "company": "DOT Energy",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Pedrinho",
+      "role": "mentioned",
+      "company": "Bumbum Cream",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Always Fit",
+      "role": "mentioned",
+      "company": "Always Fit",
+      "title": "Founders"
+    },
+    {
+      "name": "Push Pull",
+      "role": "mentioned",
+      "company": "Push Pull",
+      "title": "Founders"
+    },
+    {
+      "name": "Whindersson Nunes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Cariani",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Caíto Maia",
+      "role": "mentioned",
+      "company": "Chilli Beans",
+      "title": "Founder"
+    },
+    {
+      "name": "Monique Evelle",
+      "role": "mentioned",
+      "company": "",
+      "title": "Investor"
+    },
+    {
+      "name": "Bruninho",
+      "role": "mentioned",
+      "company": "Supercoff",
+      "title": "Founder"
+    },
+    {
+      "name": "Monique",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Eric",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Camila",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Dot Energy",
+      "industry": "Bebidas energéticas",
+      "context": "Startup brasileira que criou um novo tipo de energético"
+    },
+    {
+      "name": "Tiktok",
+      "industry": "Tecnologia e redes sociais",
+      "context": "Plataforma utilizada para vendas e marketing"
+    },
+    {
+      "name": "Itaú Bba",
+      "industry": "Serviços financeiros",
+      "context": "Local de estágio mencionado"
+    },
+    {
+      "name": "Newnbev",
+      "industry": "Bebidas",
+      "context": "Local de trabalho mencionado"
+    },
+    {
+      "name": "Bumbum Cream",
+      "industry": "Cosméticos",
+      "context": "Empresa mencionada com faturamento significativo"
+    },
+    {
+      "name": "Tiktok Shop",
+      "industry": "E-commerce",
+      "context": "Plataforma de vendas integrada ao TikTok"
+    },
+    {
+      "name": "Always Fit",
+      "industry": "Fitness Products",
+      "context": "Empresa mencionada como referência em vendas no TikTok Shop"
+    },
+    {
+      "name": "Push Pull",
+      "industry": "Health and Wellness",
+      "context": "Empresa mencionada em relação a produtos com matchá"
+    },
+    {
+      "name": "Canui",
+      "industry": "E-commerce",
+      "context": "Empresa mencionada em relação a estratégias de marketing no YouTube."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Marketplace mencionado como exemplo de práticas de estoque e vendas."
+    },
+    {
+      "name": "Dot",
+      "industry": "Energy Drinks",
+      "context": "Startup focusing on innovative energy drinks in Brazil"
+    },
+    {
+      "name": "Shopify",
+      "industry": "E-commerce",
+      "context": "Platform mentioned for online store integration"
+    },
+    {
+      "name": "Supercoff",
+      "industry": "Coffee Products",
+      "context": "Company scaling with individual sachets on TikTok Shop"
+    },
+    {
+      "name": "Better Dreams",
+      "industry": "Investment",
+      "context": "Investor in DOT Energy"
+    },
+    {
+      "name": "Let'S",
+      "industry": "Consumer Goods",
+      "context": "Competitor in alternative energy products"
+    },
+    {
+      "name": "Red Bull",
+      "industry": "Bebidas energéticas",
+      "context": "Concorrente respeitado mencionado no episódio"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "TikTok Shop",
+      "category": "Plataforma de vendas"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Canal de distribuição"
+    },
+    {
+      "name": "Afiliados",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Inteligência artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Estratégia de negócio",
+      "category": "Conceito de gestão"
+    },
+    {
+      "name": "TikTok Shop Algorithm",
+      "category": "Technology"
+    },
+    {
+      "name": "Affiliate Marketing",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Live Shopping",
+      "category": "E-commerce Strategy"
+    },
+    {
+      "name": "Marketing de influência",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Never sold out",
+      "category": "Estratégia de estoque"
+    },
+    {
+      "name": "TikTok Shop Integration",
+      "category": "E-commerce Strategy"
+    },
+    {
+      "name": "Shark Tank",
+      "category": "Business Pitch Platform"
+    },
+    {
+      "name": "DNVB (Digitally Native Vertical Brand)",
+      "category": "Business Model"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finance"
+    },
+    {
+      "name": "Angel Investment",
+      "category": "Finance"
+    },
+    {
+      "name": "Market Awareness",
+      "category": "Marketing"
+    },
+    {
+      "name": "Product Collab",
+      "category": "Marketing"
+    },
+    {
+      "name": "LLM (Large Language Models)",
+      "category": "Technology"
+    },
+    {
+      "name": "G4 OS",
+      "category": "Technology"
+    },
+    {
+      "name": "L-termina",
+      "category": "Ingrediente"
+    },
+    {
+      "name": "Gaba",
+      "category": "Ingrediente"
+    },
+    {
+      "name": "Awareness",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Marca pessoal",
+      "category": "Estratégia de branding"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "6 milhões",
+      "context": "Faturamento planejado para o ano pela DOT Energy"
+    },
+    {
+      "value": "10 milhões",
+      "context": "Meta de faturamento ajustada após conversa no podcast"
+    },
+    {
+      "value": "400 milhões",
+      "context": "Faturamento mencionado da empresa Bumbum Cream"
+    },
+    {
+      "value": "9 milhões de reais",
+      "context": "Faturamento mensal de uma marca no TikTok Shop"
+    },
+    {
+      "value": "20 produtos por mês",
+      "context": "Lançamentos mensais da Always Fit"
+    },
+    {
+      "value": "R$64",
+      "context": "Preço de um pacote de produtos vendidos no TikTok Shop"
+    },
+    {
+      "value": "300 reais",
+      "context": "Valor pago a Whindersson Nunes em cupons para promover a Canui."
+    },
+    {
+      "value": "30 mil reais",
+      "context": "Custo para um vídeo com Porta dos Fundos na época mencionada."
+    },
+    {
+      "value": "120,000 BRL",
+      "context": "Revenue generated in three days after launch without stock"
+    },
+    {
+      "value": "50,000 BRL",
+      "context": "Monthly commission earned by a top affiliate"
+    },
+    {
+      "value": "300,000 BRL",
+      "context": "Investment deal on Shark Tank for 20% equity"
+    },
+    {
+      "value": "300,000 BRL",
+      "context": "Investment by Caíto Maia and Monique for 20% equity"
+    },
+    {
+      "value": "200,000 BRL",
+      "context": "Investment by Caíto Maia and Monique for 10% equity"
+    },
+    {
+      "value": "2,000,000 BRL",
+      "context": "Initial valuation of DOT Energy"
+    },
+    {
+      "value": "6,000,000 BRL",
+      "context": "Latest valuation of DOT Energy"
+    },
+    {
+      "value": "60 e poucos por cento",
+      "context": "Participação atual dos fundadores na Dot Energy"
+    },
+    {
+      "value": "20",
+      "context": "Porcentagem vendida na última rodada de investimentos"
+    },
+    {
+      "value": "67",
+      "context": "Participação inicial dos fundadores após rodada Family and Friends"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Caíto Maia",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Dot",
+      "target_type": "company"
+    },
+    {
+      "source": "Caíto Maia",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Dot Energy",
+      "target_type": "company"
+    },
+    {
+      "source": "Cariani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Dot Energy",
+      "target_type": "company"
+    },
+    {
+      "source": "Better Dreams",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Dot Energy",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiktok Shop",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Affiliate Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ian",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dot Energy",
+      "target_type": "company"
+    },
+    {
+      "source": "Dot Energy",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Tiktok Shop",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dot",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Supercoff",
+      "target_type": "company"
+    },
+    {
+      "source": "Dot Energy",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Energy Drinks",
+      "target_type": "company"
+    },
+    {
+      "source": "Whindersson Nunes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Canui",
+      "target_type": "company"
+    },
+    {
+      "source": "Always Fit",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Dot Energy",
+      "target_type": "company"
+    },
+    {
+      "source": "Monique",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Dot Energy",
+      "target_type": "company"
+    },
+    {
+      "source": "Dot Energy",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Red Bull",
+      "target_type": "company"
+    },
+    {
+      "source": "Dot Energy",
+      "source_type": "company",
+      "relation": "utilizes",
+      "target": "Tiktok Shop",
+      "target_type": "company"
+    },
+    {
+      "source": "Dot Energy",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "E-Commerce",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dot Energy",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Let'S",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dot",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Tiktok Shop",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedrinho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bumbum Cream",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Os",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Llm (Large Language Models)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Push Pull",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Health And Wellness",
+      "target_type": "company"
+    },
+    {
+      "source": "Monique Evelle",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Dot",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

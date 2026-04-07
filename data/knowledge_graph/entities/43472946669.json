@@ -1,0 +1,411 @@
+{
+  "episode_id": "43472946669",
+  "title": "GROWTH NAS REDES SOCIAIS: O QUE FUNCIONA E O QUE É ILUSÃO? COM FERNANDO MIRANDA | PAPO DE GESTÃO",
+  "date_published": 1759762800,
+  "duration": 3450,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Fernando Miranda",
+      "role": "guest",
+      "company": "V4 Company",
+      "title": "Sócio"
+    },
+    {
+      "name": "Tiago Nigro",
+      "role": "mentioned",
+      "company": "Stage",
+      "title": "Fundador"
+    },
+    {
+      "name": "Jorge Paulo Lemann",
+      "role": "mentioned",
+      "company": "Brahma",
+      "title": "Empresário"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla",
+      "title": "Empresário"
+    },
+    {
+      "name": "Bernard Arnault",
+      "role": "mentioned",
+      "company": "Dior",
+      "title": "Empresário"
+    },
+    {
+      "name": "Giovanni Miguel",
+      "role": "mentioned",
+      "company": "Desconhecida",
+      "title": "Empresário"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Membro"
+    },
+    {
+      "name": "Denner Lippert",
+      "role": "mentioned",
+      "company": "V4 Company",
+      "title": "Sócio"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alex Bering",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gary Vaynerchuk",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thiago Nigro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ronaldo Fenômeno",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Yudi Tamashiro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tarcísio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bolsonaro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dêner",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Xp Inc",
+      "industry": "Financeiro",
+      "context": "Fernando Miranda trabalhou na empresa antes do IPO."
+    },
+    {
+      "name": "V4 Company",
+      "industry": "Marketing",
+      "context": "Fernando Miranda é sócio da empresa."
+    },
+    {
+      "name": "Stage",
+      "industry": "Educação",
+      "context": "Fernando Miranda comprou a empresa de Tiago Nigro."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotivo",
+      "context": "Mencionada como exemplo de empresa comprada por Elon Musk."
+    },
+    {
+      "name": "Dior",
+      "industry": "Moda",
+      "context": "Mencionada como exemplo de empresa comprada por Bernard Arnault."
+    },
+    {
+      "name": "Brahma",
+      "industry": "Bebidas",
+      "context": "Mencionada como exemplo de empresa comprada por Jorge Paulo Lemann."
+    },
+    {
+      "name": "Burger King",
+      "industry": "Food Service",
+      "context": "Discussed in relation to Alex Bering's rationale for acquisition."
+    },
+    {
+      "name": "Duralex",
+      "industry": "Consumer Goods",
+      "context": "Discussed in relation to viral social media content."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Finance",
+      "context": "Mentioned in relation to financial operations."
+    },
+    {
+      "name": "Exame",
+      "industry": "Media",
+      "context": "Discussed as a significant entrepreneurial case."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Growth",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Redes Sociais",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Engajamento",
+      "category": "Métrica de Marketing"
+    },
+    {
+      "name": "Conteúdo Viral",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Inteligência Artificial (IA)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Roteiros Virais",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Teste de Formatos",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "algoritmos de redes sociais",
+      "category": "Technology"
+    },
+    {
+      "name": "lei de grandes números",
+      "category": "Mathematics"
+    },
+    {
+      "name": "viralização",
+      "category": "Marketing"
+    },
+    {
+      "name": "economia real",
+      "category": "Economics"
+    },
+    {
+      "name": "rede social orgânica",
+      "category": "Marketing"
+    },
+    {
+      "name": "Product Market Fit",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "CEO",
+      "category": "Papel de liderança"
+    },
+    {
+      "name": "Influenciador",
+      "category": "Papel profissional"
+    },
+    {
+      "name": "Estrutura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Rede social",
+      "category": "Plataforma digital"
+    },
+    {
+      "name": "C-Level",
+      "category": "Estrutura corporativa"
+    }
+  ],
+  "books": [
+    {
+      "title": "Entre eles de Atenção",
+      "author": "Gary Vaynerchuk"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "551 mil seguidores",
+      "context": "Número de seguidores no Instagram de Fernando Miranda."
+    },
+    {
+      "value": "322 mil seguidores",
+      "context": "Número de seguidores no YouTube de Fernando Miranda."
+    },
+    {
+      "value": "300 mil seguidores",
+      "context": "Número de seguidores no TikTok de Fernando Miranda."
+    },
+    {
+      "value": "200 mil seguidores",
+      "context": "Número de seguidores no Facebook de Fernando Miranda."
+    },
+    {
+      "value": "1.5 bilhão de dólares",
+      "context": "Faturamento anual do maior vendedor de madeiras dos Estados Unidos mencionado na história."
+    },
+    {
+      "value": "500 views",
+      "context": "Views on Alex Bering's podcast about Burger King acquisition."
+    },
+    {
+      "value": "15 million followers",
+      "context": "Gary Vaynerchuk's TikTok followers."
+    },
+    {
+      "value": "10 million followers",
+      "context": "Thiago Nigro's social media followers."
+    },
+    {
+      "value": "7 million views in 24 hours",
+      "context": "Viral video about Duralex."
+    },
+    {
+      "value": "25 thousand followers",
+      "context": "Followers gained from Duralex video."
+    },
+    {
+      "value": "150000",
+      "context": "Número de seguidores de Dêner em redes sociais."
+    },
+    {
+      "value": "194000",
+      "context": "Meta inicial de seguidores para superar Dêner."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Fernando Miranda",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Stage",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Miranda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stage",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Miranda",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Dêner",
+      "target_type": "person"
+    },
+    {
+      "source": "Tiago Nigro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Stage",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Paulo Lemann",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Brahma",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Miranda",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alfredo Soares",
+      "target_type": "person"
+    },
+    {
+      "source": "Gary Vaynerchuk",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Entre Eles De Atenção",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Miranda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "V4 Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Miranda",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Nigro",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Economia Real",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bernard Arnault",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Dior",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Miranda",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Bering",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Burger King",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Tesla",
+      "target_type": "company"
+    }
+  ]
+}

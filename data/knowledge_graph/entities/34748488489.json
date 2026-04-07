@@ -1,0 +1,173 @@
+{
+  "episode_id": "34748488489",
+  "title": "COMO A MAGALU CONVERTE SEGUIDORES EM CLIENTES - COM PEDRO ALVIM (MAGALU) | G4 PODCASTS",
+  "date_published": 1702456200,
+  "duration": 2633,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Pedro Alvim",
+      "role": "guest",
+      "company": "Magazine Luiza",
+      "title": "Especialista em Social Media"
+    },
+    {
+      "name": "Ana Moisés",
+      "role": "mentioned",
+      "company": "LinkedIn América Latina",
+      "title": "Diretora de Marketing e Vendas"
+    },
+    {
+      "name": "Lu",
+      "role": "mentioned",
+      "company": "Magalu",
+      "title": "Virtual Influencer"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Magazine Luiza",
+      "industry": "Retail",
+      "context": "Discussão sobre estratégias de social media e uso da personagem Lu"
+    },
+    {
+      "name": "Linkedin América Latina",
+      "industry": "Technology",
+      "context": "Discussão sobre thought leadership e relevância de líderes nas redes sociais"
+    },
+    {
+      "name": "Meta",
+      "industry": "Technology",
+      "context": "Mencionada como uma das plataformas ocidentais influentes"
+    },
+    {
+      "name": "Twitter",
+      "industry": "Technology",
+      "context": "Mencionada como uma das plataformas ocidentais influentes"
+    },
+    {
+      "name": "Youtube",
+      "industry": "Technology",
+      "context": "Discussão sobre tradução automatizada de conteúdos e impacto na creator economy"
+    },
+    {
+      "name": "Tiktok",
+      "industry": "Technology",
+      "context": "Mencionado como disruptor na hegemonia das plataformas ocidentais"
+    },
+    {
+      "name": "Magalu",
+      "industry": "Retail",
+      "context": "Discussed as the company utilizing the virtual influencer Lu for marketing and social engagement."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Social Media Relevance",
+      "category": "Strategy"
+    },
+    {
+      "name": "Thought Leadership",
+      "category": "Strategy"
+    },
+    {
+      "name": "Creator Economy",
+      "category": "Industry Trend"
+    },
+    {
+      "name": "Translation Automation",
+      "category": "Technology"
+    },
+    {
+      "name": "Control Parental",
+      "category": "Policy"
+    },
+    {
+      "name": "NPC Live Streaming",
+      "category": "Content Format"
+    },
+    {
+      "name": "Artificial Intelligence Generative Technologies",
+      "category": "Technology"
+    },
+    {
+      "name": "Ethical limits in technology",
+      "category": "Ethics"
+    },
+    {
+      "name": "Social responsibility in marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Agenda setting",
+      "category": "Media Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Tiktok",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Twitter",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Alvim",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Youtube",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Translation Automation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiktok",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Meta",
+      "target_type": "company"
+    },
+    {
+      "source": "Ana Moisés",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Linkedin América Latina",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiktok",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Youtube",
+      "target_type": "company"
+    },
+    {
+      "source": "Magazine Luiza",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Lu",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Alvim",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Magalu",
+      "target_type": "company"
+    },
+    {
+      "source": "Lu",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Magalu",
+      "target_type": "company"
+    }
+  ]
+}

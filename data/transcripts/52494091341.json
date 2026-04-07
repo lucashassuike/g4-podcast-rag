@@ -1,0 +1,1059 @@
+{
+  "id": 52494091341,
+  "title": "COMO G4 ESTÁ ESCALANDO AINDA MAIS USANDO INTELIGÊNCIA ARTIFICIAL | O JOGO DA IA - O NOVO PODCAST DO G4",
+  "guest": "",
+  "date_published": 1774033200,
+  "duration": 2969,
+  "text": "Existe um jogo que está acontecendo agora mesmo que a maioria dos empresários ainda nem percebeu. Eu estou falando do jogo da IA e nesse jogo a gente vai chamar os maiores jogadores do mercado brasileiro para a gente discutir e conversar como implementar inteligência artificial de uma forma prática dentro do seu negócio. E eu estou aqui com o meu parceiro, sócio, Iago Martins, que vai me ajudar a conduzir com esse primeiro papo hoje com convidados ilustres. Gente, só para dar aqui um pouco de contexto do que é esse podcast, como hoje é o primeiro que a gente está gravando aqui, então nada melhor do que esse primeiro que a gente está gravando, entender qual que é o jogo da IA que o próprio G4 Educação está jogando. Então vai passar em outros episódios que a gente vai fazer aqui mentes brilhantes de vários outros mercados e a gente vai discutir aqui nessa mesa qual que é o jogo que está sendo jogado no Brasil e fora do Brasil hoje quando a gente fala de inteligência artificial. Então, João Vitor, TG, primeira pergunta aqui para vocês, qual que é o jogo da IA que o G4 está jogando hoje e que imagina para os próximos 3, 5, 10 anos? Primeiro o seguinte, não é educação, mas é G4. Por que aconteceu isso? Porque hoje a educação é um terço do negócio só. Dois terços do negócio não é educação. E essa transformação foi acontecendo principalmente quando a gente viu de fato ali no final de 2022, quando lançou-se o chat APT, a gente percebeu que tinha alguma coisa diferente ali, a gente achou que de fato ia ser uma mudança estrutural. Eu acho que o que aconteceu nesses três anos, quatro agora, vai completar quatro anos no final do ano, desde o lançamento do chat APT, é uma mudança infraestrutural que aconteceu no mundo, na verdade é uma mudança de arquitetura de sociedade. Então quando você pega no final do século XIX que o Thomas Edison plugou a primeira indústria de produção elétrica com Nova York, você vê que demorou-se décadas para que as pessoas se adaptassem a essa inovação exponencial chamada luz elétrica. Então as fábricas que eram basicamente ali alimentadas por steam, vapor, eles basicamente trocaram os motores a vapor por motor elétrico. Por que que isso não causou nenhuma mudança de fato exponencial nos negócios, eles não conseguiram capturar valor rápido em termos de produtividade? Porque na verdade eles só substituíram algo que produzia uma força, ao invés de vapor, substituíram por eletricidade. Demorou-se algumas décadas, aconteceu mais ou menos ali no início do século XX, 1920, para que as fábricas olhassem para si e falassem assim, não, peraí, para que que eu estou usando a mesma arquitetura sistêmica que eu usava de uma tecnologia antiga que era o vapor e uma tecnologia completamente nova que era a energia elétrica? Na verdade eu posso descentralizar essa produção, eu não preciso ter um motor único com um sistema de cintas que vai levando a força para as máquinas, eu posso redesenhar a linha de produção para que eu tenha unidades autônomas, com motores autônomos produzindo força através de energia elétrica e isso mudou, deu um salto quântico em termos de produtividade. O que acontece é que as companhias hoje usam AI da mesma forma que as fábricas estavam usando a energia elétrica no surgimento da energia elétrica. Então pegando uma tecnologia exponencial e usando de forma linear. As empresas ainda não pararam para redesenhar a tua arquitetura de gestão, mas o G4 parou. Então lá em 2022 o João já estudava esse tema, já pesquisava esse tema, mais ou menos em 2023 a gente falou, cara, gasta energia nisso, entende essas coisas, vê o que a gente tem de valor para coletar ali, testa, aprende e com isso a gente vai se adaptando. E trouxemos muita eficiência para o negócio, tanto que os números demonstram, em 2023, em 2022, a gente fechou o ano com 130 milhões de reais, se eu não me engano. Esse ano passado a gente fechou com 508 milhões de reais, gerando 104 milhões de caixa. Esse ano eu vou fazer 750 milhões de reais, gerar 150 milhões de caixa, aumentando 10% da folha só, comparativamente, quando a gente fazia 130 milhões de reais. Ou seja, a gente quintuplicou a receita da companhia, aumentando 10% a folha, e a gente multiplicou por 10 a geração de caixa da companhia, aumentando só 10% a folha. E é só o começo, tá? É só o começo. Eu acredito que vamos dobrar a companhia com o mesmo número de funcionários que eu tenho hoje, que é 450 funcionários. Ano que vem a gente vai fazer 1 bilhão de reais, e eu acho que a gente vai manter o mesmo número de funcionários. Então, o jogo do AI para o G4 é fazer um projeto revisionista de qual é a nova infraestrutura de gestão, dado essa tecnologia exponencial que surgiu e que foi traduzida para a companhia através do trabalho do João. E um ponto, assim, dentro do que tu falou, como é que vocês estão olhando aqui internamente hoje, quando a gente vai olhar para a gente? Porque, assim, cara, a gente conversa muito com o empresário, e ele, cara, mas eu sou da indústria, eu não tenho uma área de tecnologia, eu não tenho meu TI aqui, e a IA não é para mim. Porque as pessoas acabam associando IA com tecnologia, uma área de tech, e aí fica, não, esse jogo de IA, como é que vocês olham aqui para pessoas? É uma pessoa, é uma área? Pensa assim, uma analogia para baixo do zero é o seguinte, onde que a IA, é o que a gente está falando de IA generativa, né? Acho que é bom até para quem está ouvindo, se falar IA é generativa, que tem outros tipos, é diferente, mas beleza. Tudo que um ser humano faz sentado em frente ao computador no seu escritório hoje, potencialmente a IA de alguma forma pode ou fazer ou ajudar ele a fazer melhor. Então, ah, IA não é para mim, porque eu não sei, você tem ser humano no escritório trabalhando sentado em frente ao computador? Tenho. Então, tem potencial de usar IA. Um pouco mais, um pouco menos e assim por diante. O que a gente faz? A gente separa meio duas visões. A gente está cada vez mais forte em todo mundo tem que se virar e usar, então a gente paga IA para todo mundo na empresa, a gente está cada vez mais liberando mais coisas, a gente está construindo um sistema nosso que vai para o mercado em breve, que é o OS, que é muito mais parrudo para todo mundo ter já conectado em todas as nossas bases, então todo mundo ser empoderado para isso. Só que aí no fim do dia é meio que assim, cara, se você não usar, você vai sair, porque você vai ser menos produtivo, a gente, como o Tales falou, a gente vai crescer e não vai aumentar o número de pessoas. O que isso significa? Eu vou querer só as pessoas que usarem e forem mais produtivas. Se não for você, sou sorry, será outro. Em paralelo, nós temos sim uma estrutura focada para os projetos que são mais, vamos dizer, tecnicamente complexos, quando você precisa de um nível, um layer de segurança maior. Então, exemplo, a gente usa muito o Vibecoding. Putz, criar uma solução, uma prova de conceito, algo interno para a sua área, todo mundo tem liberdade de usar o Loveball, o Replit para construir dentro das nossas contas, obviamente, ninguém vai construir na sua conta pessoal. Putz, vamos criar agora, a gente está construindo a nossa própria plataforma de atendimento e suporte. Não vai ser qualquer um que vai falar assim, cara, eu preciso garantir que ela tenha uma escalabilidade, é um negócio que vai ter contato com o meu cliente final, então eu tenho que ter mais controle ali de todas as questões de segurança do que uma plataforma que se você não tiver e-mail do G4, você não consegue acessar de jeito nenhum. Então, dependendo do nível de complexidade e sensibilidade, nós temos dois times hoje que são os responsáveis, mas estruturalmente foi literalmente ontem, no All Hands, o Tales falou, é para todo mundo fazer. Não tem escolha, porque se a gente fala que a gente vai sair 750 milhões esse ano para, vai, 1 bi e 300, 1 bi e meio daqui dois, e que a gente não vai ter uma cadeira a mais no escritório, a única forma possível é cada um dos 450, ao menos que estiverem daqui para frente, conseguirem produzir mais. Eu não enxergo uma forma do cara fazer isso sem usar IA, e aí a gente precisa dar as ferramentas para que a pessoa use. E quando a gente dá as ferramentas de uma maneira organizada na empresa, você consegue ter mais controle, ter mais segurança, eu garantir que está fazendo aquilo de uma maneira mais organizada. Um exemplo que aconteceu dentro do OS ontem, a gente liberou para algumas pessoas o time de audiovisual, a gente está fazendo over-the-lapse faseado, e aí ele chegou e falou, putz, eu queria fazer tal coisa, que era fazer edição e combinação de vídeo em escala, que ele gasta muito tempo fazendo isso hoje manualmente. Falei, cara, me manda o Drive. Ele mandou o Drive, eu subi a pasta do Drive, o OS já está conectado no Google Workspace do G4. Ah, putz, é isso que eu quero fazer, você consegue? Ele falou, peraí, olhou a estrutura\n\nCara, se eu fizer isso, se com 10% a mais de funcionário eu quintuplicar a empresa em receita e multipliquei por 10 caixa, porra, com 20% eu consigo fazer o crescimento que eu fiz lá. É daí que nasce a minha conta, que eu falei, galera, nós vamos multiplicar essa empresa exponencialmente e não vou aumentar a cadeira. Eu tenho convicção de que a gente vai conseguir fazer isso. Eu ainda não sei como. O jogo é matemático. Mas vai rolar. Eu vou te bilizar aqui o que a gente está falando. Primeiro ponto, tem que ser top down do founder. Ah, tem. É top down. Alguém tem que tomar uma decisão. É uma mudança cultural, de certa maneira. E não tem como mudar a cultura sem ser pelo exemplo que vem de cima. Outro ponto, não é uma pessoa da empresa que sabe fazer e todo mundo delega ela porque aí ela vai ser o gargalo. Exato. Que era o que a gente era com o João. Isso. O João era o único cara que fazia esse negócio. João, faz isso, faz isso. Só que chega um momento que o João tem um limite. E ele, como ele é sócio da companhia, ele trabalha enquanto está acordado. Ele trabalha no fim de semana. Ele está no risco da companhia, né? Não, pra caralho. Mas o problema não é esse. O problema é o seguinte, ele tem um gargalo. Ele é sócio ou orca rólique. Essa é a nossa sorte. Porque senão ele não conseguiria estar lá na casa dele fazendo boa vez domingo trabalhando. E ele trabalha. Imagina que deve tomar vários esforços da Jess. Porque eu tomo da Marcela, sei como é que é. Mas, assim, a gente é viciado em trabalho. Então é o vício do cara, é a cachaça dele. É a minha também. A gente gosta dessa porra. Só que como é que eu vou contar que o average Joe que eu tenho na companhia aqui vai ser um João? Ele não vai. Até porque se fosse João, ele seria o João, né? Ele seria sócio. Ele teria 2% da companhia como o João tem. Então, assim, a história aqui é, tem que partir do fundador. E pra que a sua empresa faça um processo de transformação, tem que ser algo tão simples quanto usar Slack. Então é por isso que o João está dedicando boa parte da energia dele agora, desenvolvendo o nosso G4S, que é o sistema operacional da companhia que a gente está desenvolvendo, que eu acredito que em breve vai ser o sistema operacional do empreendedor e que gente no mundo inteiro vai usar isso. Tem um, eu queria trazer um exemplo aqui de uma coisa bem legal que aconteceu. Cara, era um cliente nosso lá e ele é a maior indústria de mamão do Brasil, que é a AGC. Vende dois mil de mamão. Mamão, velho, mamão, velho. Mamão não é que a gente come deles. Tá? O mamão papaya é deles. Legal. Tá? E aí, cara, como é que eu coloco o IA aqui? Aí eu fui lá. Cara, indústria, braçal, 90% da força, né, de trabalho dele, mano, é colhendo, é passando do processo. Eu falei, aqui esquece, porque aqui ele não está sentado na frente do computador. E aí eu fui atacar, né, o gargalo. Aí ele falou, cara, do que é o meu gargalo? Pô, mamão é muito perecível. Desde que tu tira ele em sete a dez dias, ele estraga. Então imagina, o tempo de pegar, de vender. Aí o que ele falou? Cara, eu tenho que conseguir vender muito rápido. Aí eu apertei, tá, mas tu vende mais rápido pra quem? Eu vendo mais rápido pra onde, nos próximos sete dias, vai ter sol. Que é onde a galera consome mais mamão. No ambiente mais quente, não no ambiente mais frio. Eu falei, tá, mas como que tu faz isso? Ele falou, cara, a gente pega a lista, né, de cliente e sai ligando pra todo mundo, cata no Google, entende no Google aonde que vai ser calor e vende. Eu falei, cara, por que não criar uma plataforma, então, de pegar a tua base, né, de cliente, pegar quem não compra de ti no período, né, de compra, olha na região do cara os próximos sete dias e já cria pro vendedor lá, cara. Aborda esses aqui primeiro, porque esses aqui primeiro. O cara falou assim, caralho. E aí fez, né, o que aconteceu, acabou vendendo mais, cresceu o negócio dele, pegando um gargalo real de uma indústria. Só que, né, por que eu tô falando isso, tá? Quer ver se vocês concordam, né, com a minha linha de raciocínio ou se vocês pensam assim também. A empresa passa pelo ponto de ter as pessoas estratégicas, que sabem entender de business, de negócio, elas vão ser as melhores pessoas da empresa pra ter essas ideias, mas a empresa vai precisar de mais mão de obra para executar. Ou seja, a gente não precisa mais de tantas pessoas estratégicas dentro da companhia. Ou seja, a pessoa estratégica passa a não ter mais tanto valor, ok? Porque aí ela tem muita ideia, ela consegue fazer, ela consegue ter isso e mais mão de obra, né, pra executar. É isso que vocês pensam ou ao contrário? É um pouco do que tá acontecendo no sentido da planificação das empresas, né? Você tá vendo o middle management sendo... Acabando porque, cara, antes você tinha lá, até pela teoria das vias de comunicações do Hackman, né, que é um negócio dos números. Quantas pessoas você consegue gerenciar? Quantos projetos você vai tocar em paralelo? Você tinha um limite de quantos você conseguia gerenciar ao mesmo tempo. Se você aumenta isso, você precisa de menos gente com trabalho de gerenciar informação em via de comunicação, só que você ainda vai precisar executar e trabalhar. Você vai ter, então, mais gente trabalhando e executando. Eu acho que o número total de pessoas necessárias para executar algo vai cair de modo geral para mesmo output. Você vai precisar de menos pessoas e ponto. Só que eu concordo com você que onde mais vai cair vai ser onde está mais distante da execução de fato, porque a mesma pessoa antes vai aumentar o número de executores que ela vai conseguir coordenar de maneira eficiente. E eu tenho uma outra tese. Eu acho que o gargalo da escala de AI é o gargalo de implementação na ponta. Ou seja, eu acho que o serviço de consultoria e implementação de AI é um gargalo necessário nesse momento de transformação estrutural que a sociedade está passando. Então, eu acho que software house vai tudo morrer. Acho que essas agências vão tudo morrer e elas vão, se elas sobreviverem, se transformar em implementadoras de AI e que vai surgir aí, eu acredito que o G4 vai ser essa empresa, vai surgir a Oracle SAP de soluções de AI, onde a gente vai fazer um módulo de vendas aqui que a gente usou, que a gente focar nesse negócio é muito legal, deveria ser um produto de prateleira, deveria treinar implementadores e como a gente tem esse right wing, porque a gente já tem quase 100 milhões de empresas como cliente, eu falo, cara, bota nessa base, nesse canal gigante, as nossas redes sociais conjuntas entregam quase meio bilhão de visualizações por mês. Então, a gente tem um canal de distribuição, a gente tem uma marca forte, a gente tem inteligência dentro de casa, a gente tem uma companhia que é fruto daquilo que ela está vendendo, logo, eu vou gerar muita solução proprietária aqui e eventualmente pelo nosso marketplace, o G4 é uma Amazon de solução comparativa, a gente é um marketplace, provavelmente muita gente vai fazer soluções ali como side jobs, são soluções ótimas, vão colocar no nosso marketplace, assim como eu ganhei minha vida colocando um app de transporte dentro da App Store, alguém vai fazer algo disso, vai colocar dentro do G4 Tools e a gente vai ter nossas redes de implementadores e vamos começar a ajudar a pequena e a média empresa diminuir cada vez mais seu handicap operacional e tático frente às grandes companhias porque a gente vai ajudá-la de fato a implementar AI. Eu tenho convicção de que os próximos 5 anos vai ser sobre isso, sobre a gente de fato não é diminuir, é acabar o handicap estratégico e tático que as pequenas e as médias empresas têm com relação às grandes companhias. Eu acho que o seu Zé do interior do Maranhão com uma padaria vai ter a mesma capacidade estratégica e eventualmente até tática que a Microsoft muitas vezes, entendeu? Porque ele vai ter as mesmas ferramentas ali. Vamos lá, inteligência sempre foi capacidade de resolver problema complexo, certo? Esse era o grande parâmetro de inteligência. Então, pô, o cara fez ITA, o cara fez Poli, quer dizer, ele é capaz de resolver problema complexo. Isso hoje é commodity, eu não preciso disso mais. Qualquer problema complexo que você me der, eu resolvi um minuto no Cloud ou até no Chat PT, tanto faz. Então, problema complexo não é mais diferencial. O diferencial hoje é você ter bons insights e fazer a pergunta certa para o modelo. Por enquanto, que daqui a um, dois, três anos quando surgir a DI, nem isso eu preciso. Eu só preciso de direcionamento. Então, a gente está nesse nível de transformação acontecendo. A sensação que dá é igual quando você está aprendendo a surfar, que você toma um caixote, aí você",
+  "text_timestamped": "[00:00] Existe um jogo que está acontecendo agora mesmo que a maioria dos empresários ainda nem percebeu.\n[00:16] Eu estou falando do jogo da IA e nesse jogo a gente vai chamar os maiores jogadores do mercado brasileiro para a gente discutir e conversar como implementar inteligência artificial de uma forma prática dentro do seu negócio.\n[00:54] E eu estou aqui com o meu parceiro, sócio, Iago Martins, que vai me ajudar a conduzir com esse primeiro papo hoje com convidados ilustres.\n[01:18] Gente, só para dar aqui um pouco de contexto do que é esse podcast, como hoje é o primeiro que a gente está gravando aqui, então nada melhor do que esse primeiro que a gente está gravando, entender qual que é o jogo da IA que o próprio G4 Educação está jogando.\n[02:02] Então vai passar em outros episódios que a gente vai fazer aqui mentes brilhantes de vários outros mercados e a gente vai discutir aqui nessa mesa qual que é o jogo que está sendo jogado no Brasil e fora do Brasil hoje quando a gente fala de inteligência artificial.\n[02:48] Então, João Vitor, TG, primeira pergunta aqui para vocês, qual que é o jogo da IA que o G4 está jogando hoje e que imagina para os próximos 3, 5, 10 anos?\n[03:14] Primeiro o seguinte, não é educação, mas é G4.\n[03:22] Por que aconteceu isso?\n[03:26] Porque hoje a educação é um terço do negócio só.\n[03:34] Dois terços do negócio não é educação.\n[03:40] E essa transformação foi acontecendo principalmente quando a gente viu de fato ali no final de 2022, quando lançou-se o chat APT, a gente percebeu que tinha alguma coisa diferente ali, a gente achou que de fato ia ser uma mudança estrutural.\n[04:22] Eu acho que o que aconteceu nesses três anos, quatro agora, vai completar quatro anos no final do ano, desde o lançamento do chat APT, é uma mudança infraestrutural que aconteceu no mundo, na verdade é uma mudança de arquitetura de sociedade.\n[05:03] Então quando você pega no final do século XIX que o Thomas Edison plugou a primeira indústria de produção elétrica com Nova York, você vê que demorou-se décadas para que as pessoas se adaptassem a essa inovação exponencial chamada luz elétrica.\n[05:44] Então as fábricas que eram basicamente ali alimentadas por steam, vapor, eles basicamente trocaram os motores a vapor por motor elétrico.\n[06:08] Por que que isso não causou nenhuma mudança de fato exponencial nos negócios, eles não conseguiram capturar valor rápido em termos de produtividade?\n[06:33] Porque na verdade eles só substituíram algo que produzia uma força, ao invés de vapor, substituíram por eletricidade.\n[06:53] Demorou-se algumas décadas, aconteceu mais ou menos ali no início do século XX, 1920, para que as fábricas olhassem para si e falassem assim, não, peraí, para que que eu estou usando a mesma arquitetura sistêmica que eu usava de uma tecnologia antiga que era o vapor e uma tecnologia completamente nova que era a energia elétrica?\n[07:49] Na verdade eu posso descentralizar essa produção, eu não preciso ter um motor único com um sistema de cintas que vai levando a força para as máquinas, eu posso redesenhar a linha de produção para que eu tenha unidades autônomas, com motores autônomos produzindo força através de energia elétrica e isso mudou, deu um salto quântico em termos de produtividade.\n[08:51] O que acontece é que as companhias hoje usam AI da mesma forma que as fábricas estavam usando a energia elétrica no surgimento da energia elétrica.\n[09:16] Então pegando uma tecnologia exponencial e usando de forma linear.\n[09:27] As empresas ainda não pararam para redesenhar a tua arquitetura de gestão, mas o G4 parou.\n[09:42] Então lá em 2022 o João já estudava esse tema, já pesquisava esse tema, mais ou menos em 2023 a gente falou, cara, gasta energia nisso, entende essas coisas, vê o que a gente tem de valor para coletar ali, testa, aprende e com isso a gente vai se adaptando.\n[10:26] E trouxemos muita eficiência para o negócio, tanto que os números demonstram, em 2023, em 2022, a gente fechou o ano com 130 milhões de reais, se eu não me engano.\n[10:54] Esse ano passado a gente fechou com 508 milhões de reais, gerando 104 milhões de caixa.\n[11:09] Esse ano eu vou fazer 750 milhões de reais, gerar 150 milhões de caixa, aumentando 10% da folha só, comparativamente, quando a gente fazia 130 milhões de reais.\n[11:36] Ou seja, a gente quintuplicou a receita da companhia, aumentando 10% a folha, e a gente multiplicou por 10 a geração de caixa da companhia, aumentando só 10% a folha.\n[12:04] E é só o começo, tá?\n[12:08] É só o começo.\n[12:10] Eu acredito que vamos dobrar a companhia com o mesmo número de funcionários que eu tenho hoje, que é 450 funcionários.\n[12:30] Ano que vem a gente vai fazer 1 bilhão de reais, e eu acho que a gente vai manter o mesmo número de funcionários.\n[12:50] Então, o jogo do AI para o G4 é fazer um projeto revisionista de qual é a nova infraestrutura de gestão, dado essa tecnologia exponencial que surgiu e que foi traduzida para a companhia através do trabalho do João.\n[13:26] E um ponto, assim, dentro do que tu falou, como é que vocês estão olhando aqui internamente hoje, quando a gente vai olhar para a gente?\n[13:49] Porque, assim, cara, a gente conversa muito com o empresário, e ele, cara, mas eu sou da indústria, eu não tenho uma área de tecnologia, eu não tenho meu TI aqui, e a IA não é para mim.\n[14:21] Porque as pessoas acabam associando IA com tecnologia, uma área de tech, e aí fica, não, esse jogo de IA, como é que vocês olham aqui para pessoas?\n[14:46] É uma pessoa, é uma área?\n[14:50] Pensa assim, uma analogia para baixo do zero é o seguinte, onde que a IA, é o que a gente está falando de IA generativa, né?\n[15:11] Acho que é bom até para quem está ouvindo, se falar IA é generativa, que tem outros tipos, é diferente, mas beleza.\n[15:31] Tudo que um ser humano faz sentado em frente ao computador no seu escritório hoje, potencialmente a IA de alguma forma pode ou fazer ou ajudar ele a fazer melhor.\n[15:59] Então, ah, IA não é para mim, porque eu não sei, você tem ser humano no escritório trabalhando sentado em frente ao computador?\n[16:20] Tenho.\n[16:21] Então, tem potencial de usar IA.\n[16:27] Um pouco mais, um pouco menos e assim por diante.\n[16:35] O que a gente faz?\n[16:38] A gente separa meio duas visões.\n[16:44] A gente está cada vez mais forte em todo mundo tem que se virar e usar, então a gente paga IA para todo mundo na empresa, a gente está cada vez mais liberando mais coisas, a gente está construindo um sistema nosso que vai para o mercado em breve, que é o OS, que é muito mais parrudo para todo mundo ter já conectado em todas as nossas bases, então todo mundo ser empoderado para isso.\n[17:49] Só que aí no fim do dia é meio que assim, cara, se você não usar, você vai sair, porque você vai ser menos produtivo, a gente, como o Tales falou, a gente vai crescer e não vai aumentar o número de pessoas.\n[18:25] O que isso significa?\n[18:28] Eu vou querer só as pessoas que usarem e forem mais produtivas.\n[18:39] Se não for você, sou sorry, será outro.\n[18:46] Em paralelo, nós temos sim uma estrutura focada para os projetos que são mais, vamos dizer, tecnicamente complexos, quando você precisa de um nível, um layer de segurança maior.\n[19:16] Então, exemplo, a gente usa muito o Vibecoding.\n[19:24] Putz, criar uma solução, uma prova de conceito, algo interno para a sua área, todo mundo tem liberdade de usar o Loveball, o Replit para construir dentro das nossas contas, obviamente, ninguém vai construir na sua conta pessoal.\n[20:03] Putz, vamos criar agora, a gente está construindo a nossa própria plataforma de atendimento e suporte.\n[20:20] Não vai ser qualquer um que vai falar assim, cara, eu preciso garantir que ela tenha uma escalabilidade, é um negócio que vai ter contato com o meu cliente final, então eu tenho que ter mais controle ali de todas as questões de segurança do que uma plataforma que se você não tiver e-mail do G4, você não consegue acessar de jeito nenhum.\n[21:18] Então, dependendo do nível de complexidade e sensibilidade, nós temos dois times hoje que são os responsáveis, mas estruturalmente foi literalmente ontem, no All Hands, o Tales falou, é para todo mundo fazer.\n[21:53] Não tem escolha, porque se a gente fala que a gente vai sair 750 milhões esse ano para, vai, 1 bi e 300, 1 bi e meio daqui dois, e que a gente não vai ter uma cadeira a mais no escritório, a única forma possível é cada um dos 450, ao menos que estiverem daqui para frente, conseguirem produzir mais.\n[22:44] Eu não enxergo uma forma do cara fazer isso sem usar IA, e aí a gente precisa dar as ferramentas para que a pessoa use.\n[23:05] E quando a gente dá as ferramentas de uma maneira organizada na empresa, você consegue ter mais controle, ter mais segurança, eu garantir que está fazendo aquilo de uma maneira mais organizada.\n[23:37] Um exemplo que aconteceu dentro do OS ontem, a gente liberou para algumas pessoas o time de audiovisual, a gente está fazendo over-the-lapse faseado, e aí ele chegou e falou, putz, eu queria fazer tal coisa, que era fazer edição e combinação de vídeo em escala, que ele gasta muito tempo fazendo isso hoje manualmente.\n[24:32] Falei, cara, me manda o Drive.\n[24:37] Ele mandou o Drive, eu subi a pasta do Drive, o OS já está conectado no Google Workspace do G4.\n[24:53] Ah, putz, é isso que eu quero fazer, você consegue?\n[25:02] Ele falou, peraí, olhou a estrutura\n\nCara, se eu fizer isso, se com 10% a mais de funcionário eu quintuplicar a empresa em receita e multipliquei por 10 caixa, porra, com 20% eu consigo fazer o crescimento que eu fiz lá.\n[25:39] É daí que nasce a minha conta, que eu falei, galera, nós vamos multiplicar essa empresa exponencialmente e não vou aumentar a cadeira.\n[26:02] Eu tenho convicção de que a gente vai conseguir fazer isso.\n[26:12] Eu ainda não sei como.\n[26:16] O jogo é matemático.\n[26:19] Mas vai rolar.\n[26:22] Eu vou te bilizar aqui o que a gente está falando.\n[26:30] Primeiro ponto, tem que ser top down do founder.\n[26:38] Ah, tem.\n[26:40] É top down.\n[26:42] Alguém tem que tomar uma decisão.\n[26:47] É uma mudança cultural, de certa maneira.\n[26:54] E não tem como mudar a cultura sem ser pelo exemplo que vem de cima.\n[27:06] Outro ponto, não é uma pessoa da empresa que sabe fazer e todo mundo delega ela porque aí ela vai ser o gargalo.\n[27:25] Exato.\n[27:26] Que era o que a gente era com o João.\n[27:32] Isso.\n[27:33] O João era o único cara que fazia esse negócio.\n[27:41] João, faz isso, faz isso.\n[27:46] Só que chega um momento que o João tem um limite.\n[27:54] E ele, como ele é sócio da companhia, ele trabalha enquanto está acordado.\n[28:07] Ele trabalha no fim de semana.\n[28:12] Ele está no risco da companhia, né?\n[28:18] Não, pra caralho.\n[28:21] Mas o problema não é esse.\n[28:25] O problema é o seguinte, ele tem um gargalo.\n[28:32] Ele é sócio ou orca rólique.\n[28:37] Essa é a nossa sorte.\n[28:41] Porque senão ele não conseguiria estar lá na casa dele fazendo boa vez domingo trabalhando.\n[28:56] E ele trabalha.\n[28:59] Imagina que deve tomar vários esforços da Jess.\n[29:07] Porque eu tomo da Marcela, sei como é que é.\n[29:14] Mas, assim, a gente é viciado em trabalho.\n[29:22] Então é o vício do cara, é a cachaça dele.\n[29:29] É a minha também.\n[29:32] A gente gosta dessa porra.\n[29:36] Só que como é que eu vou contar que o average Joe que eu tenho na companhia aqui vai ser um João?\n[29:53] Ele não vai.\n[29:55] Até porque se fosse João, ele seria o João, né?\n[30:03] Ele seria sócio.\n[30:05] Ele teria 2% da companhia como o João tem.\n[30:13] Então, assim, a história aqui é, tem que partir do fundador.\n[30:23] E pra que a sua empresa faça um processo de transformação, tem que ser algo tão simples quanto usar Slack.\n[30:41] Então é por isso que o João está dedicando boa parte da energia dele agora, desenvolvendo o nosso G4S, que é o sistema operacional da companhia que a gente está desenvolvendo, que eu acredito que em breve vai ser o sistema operacional do empreendedor e que gente no mundo inteiro vai usar isso.\n[31:31] Tem um, eu queria trazer um exemplo aqui de uma coisa bem legal que aconteceu.\n[31:44] Cara, era um cliente nosso lá e ele é a maior indústria de mamão do Brasil, que é a AGC.\n[31:59] Vende dois mil de mamão.\n[32:03] Mamão, velho, mamão, velho.\n[32:08] Mamão não é que a gente come deles.\n[32:14] Tá?\n[32:15] O mamão papaya é deles.\n[32:19] Legal.\n[32:20] Tá?\n[32:20] E aí, cara, como é que eu coloco o IA aqui?\n[32:27] Aí eu fui lá.\n[32:30] Cara, indústria, braçal, 90% da força, né, de trabalho dele, mano, é colhendo, é passando do processo.\n[32:47] Eu falei, aqui esquece, porque aqui ele não está sentado na frente do computador.\n[33:01] E aí eu fui atacar, né, o gargalo.\n[33:07] Aí ele falou, cara, do que é o meu gargalo?\n[33:14] Pô, mamão é muito perecível.\n[33:19] Desde que tu tira ele em sete a dez dias, ele estraga.\n[33:28] Então imagina, o tempo de pegar, de vender.\n[33:35] Aí o que ele falou?\n[33:39] Cara, eu tenho que conseguir vender muito rápido.\n[33:47] Aí eu apertei, tá, mas tu vende mais rápido pra quem?\n[33:56] Eu vendo mais rápido pra onde, nos próximos sete dias, vai ter sol.\n[34:07] Que é onde a galera consome mais mamão.\n[34:14] No ambiente mais quente, não no ambiente mais frio.\n[34:23] Eu falei, tá, mas como que tu faz isso?\n[34:29] Ele falou, cara, a gente pega a lista, né, de cliente e sai ligando pra todo mundo, cata no Google, entende no Google aonde que vai ser calor e vende.\n[34:55] Eu falei, cara, por que não criar uma plataforma, então, de pegar a tua base, né, de cliente, pegar quem não compra de ti no período, né, de compra, olha na região do cara os próximos sete dias e já cria pro vendedor lá, cara.\n[35:34] Aborda esses aqui primeiro, porque esses aqui primeiro.\n[35:43] O cara falou assim, caralho.\n[35:48] E aí fez, né, o que aconteceu, acabou vendendo mais, cresceu o negócio dele, pegando um gargalo real de uma indústria.\n[36:08] Só que, né, por que eu tô falando isso, tá?\n[36:15] Quer ver se vocês concordam, né, com a minha linha de raciocínio ou se vocês pensam assim também.\n[36:32] A empresa passa pelo ponto de ter as pessoas estratégicas, que sabem entender de business, de negócio, elas vão ser as melhores pessoas da empresa pra ter essas ideias, mas a empresa vai precisar de mais mão de obra para executar.\n[37:11] Ou seja, a gente não precisa mais de tantas pessoas estratégicas dentro da companhia.\n[37:25] Ou seja, a pessoa estratégica passa a não ter mais tanto valor, ok?\n[37:37] Porque aí ela tem muita ideia, ela consegue fazer, ela consegue ter isso e mais mão de obra, né, pra executar.\n[37:56] É isso que vocês pensam ou ao contrário?\n[38:02] É um pouco do que tá acontecendo no sentido da planificação das empresas, né?\n[38:16] Você tá vendo o middle management sendo...\n[38:23] Acabando porque, cara, antes você tinha lá, até pela teoria das vias de comunicações do Hackman, né, que é um negócio dos números.\n[38:45] Quantas pessoas você consegue gerenciar?\n[38:52] Quantos projetos você vai tocar em paralelo?\n[38:59] Você tinha um limite de quantos você conseguia gerenciar ao mesmo tempo.\n[39:12] Se você aumenta isso, você precisa de menos gente com trabalho de gerenciar informação em via de comunicação, só que você ainda vai precisar executar e trabalhar.\n[39:39] Você vai ter, então, mais gente trabalhando e executando.\n[39:49] Eu acho que o número total de pessoas necessárias para executar algo vai cair de modo geral para mesmo output.\n[40:08] Você vai precisar de menos pessoas e ponto.\n[40:15] Só que eu concordo com você que onde mais vai cair vai ser onde está mais distante da execução de fato, porque a mesma pessoa antes vai aumentar o número de executores que ela vai conseguir coordenar de maneira eficiente.\n[40:53] E eu tenho uma outra tese.\n[40:57] Eu acho que o gargalo da escala de AI é o gargalo de implementação na ponta.\n[41:10] Ou seja, eu acho que o serviço de consultoria e implementação de AI é um gargalo necessário nesse momento de transformação estrutural que a sociedade está passando.\n[41:38] Então, eu acho que software house vai tudo morrer.\n[41:47] Acho que essas agências vão tudo morrer e elas vão, se elas sobreviverem, se transformar em implementadoras de AI e que vai surgir aí, eu acredito que o G4 vai ser essa empresa, vai surgir a Oracle SAP de soluções de AI, onde a gente vai fazer um módulo de vendas aqui que a gente usou, que a gente focar nesse negócio é muito legal, deveria ser um produto de prateleira, deveria treinar implementadores e como a gente tem esse right wing, porque a gente já tem quase 100 milhões de empresas como cliente, eu falo, cara, bota nessa base, nesse canal gigante, as nossas redes sociais conjuntas entregam quase meio bilhão de visualizações por mês.\n[43:37] Então, a gente tem um canal de distribuição, a gente tem uma marca forte, a gente tem inteligência dentro de casa, a gente tem uma companhia que é fruto daquilo que ela está vendendo, logo, eu vou gerar muita solução proprietária aqui e eventualmente pelo nosso marketplace, o G4 é uma Amazon de solução comparativa, a gente é um marketplace, provavelmente muita gente vai fazer soluções ali como side jobs, são soluções ótimas, vão colocar no nosso marketplace, assim como eu ganhei minha vida colocando um app de transporte dentro da App Store, alguém vai fazer algo disso, vai colocar dentro do G4 Tools e a gente vai ter nossas redes de implementadores e vamos começar a ajudar a pequena e a média empresa diminuir cada vez mais seu handicap operacional e tático frente às grandes companhias porque a gente vai ajudá-la de fato a implementar AI.\n[46:02] Eu tenho convicção de que os próximos 5 anos vai ser sobre isso, sobre a gente de fato não é diminuir, é acabar o handicap estratégico e tático que as pequenas e as médias empresas têm com relação às grandes companhias.\n[46:39] Eu acho que o seu Zé do interior do Maranhão com uma padaria vai ter a mesma capacidade estratégica e eventualmente até tática que a Microsoft muitas vezes, entendeu?\n[47:07] Porque ele vai ter as mesmas ferramentas ali.\n[47:15] Vamos lá, inteligência sempre foi capacidade de resolver problema complexo, certo?\n[47:29] Esse era o grande parâmetro de inteligência.\n[47:36] Então, pô, o cara fez ITA, o cara fez Poli, quer dizer, ele é capaz de resolver problema complexo.\n[47:53] Isso hoje é commodity, eu não preciso disso mais.\n[48:01] Qualquer problema complexo que você me der, eu resolvi um minuto no Cloud ou até no Chat PT, tanto faz.\n[48:19] Então, problema complexo não é mais diferencial.\n[48:27] O diferencial hoje é você ter bons insights e fazer a pergunta certa para o modelo.\n[48:41] Por enquanto, que daqui a um, dois, três anos quando surgir a DI, nem isso eu preciso.\n[48:56] Eu só preciso de direcionamento.\n[49:02] Então, a gente está nesse nível de transformação acontecendo.\n[49:12] A sensação que dá é igual quando você está aprendendo a surfar, que você toma um caixote, aí você",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 16.55,
+      "timestamp": "00:00",
+      "text": "Existe um jogo que está acontecendo agora mesmo que a maioria dos empresários ainda nem percebeu."
+    },
+    {
+      "start": 16.55,
+      "end": 54.77,
+      "timestamp": "00:16",
+      "text": "Eu estou falando do jogo da IA e nesse jogo a gente vai chamar os maiores jogadores do mercado brasileiro para a gente discutir e conversar como implementar inteligência artificial de uma forma prática dentro do seu negócio."
+    },
+    {
+      "start": 54.77,
+      "end": 78.31,
+      "timestamp": "00:54",
+      "text": "E eu estou aqui com o meu parceiro, sócio, Iago Martins, que vai me ajudar a conduzir com esse primeiro papo hoje com convidados ilustres."
+    },
+    {
+      "start": 78.31,
+      "end": 122.84,
+      "timestamp": "01:18",
+      "text": "Gente, só para dar aqui um pouco de contexto do que é esse podcast, como hoje é o primeiro que a gente está gravando aqui, então nada melhor do que esse primeiro que a gente está gravando, entender qual que é o jogo da IA que o próprio G4 Educação está jogando."
+    },
+    {
+      "start": 122.84,
+      "end": 168.22,
+      "timestamp": "02:02",
+      "text": "Então vai passar em outros episódios que a gente vai fazer aqui mentes brilhantes de vários outros mercados e a gente vai discutir aqui nessa mesa qual que é o jogo que está sendo jogado no Brasil e fora do Brasil hoje quando a gente fala de inteligência artificial."
+    },
+    {
+      "start": 168.22,
+      "end": 194.5,
+      "timestamp": "02:48",
+      "text": "Então, João Vitor, TG, primeira pergunta aqui para vocês, qual que é o jogo da IA que o G4 está jogando hoje e que imagina para os próximos 3, 5, 10 anos?"
+    },
+    {
+      "start": 194.5,
+      "end": 202.35,
+      "timestamp": "03:14",
+      "text": "Primeiro o seguinte, não é educação, mas é G4."
+    },
+    {
+      "start": 202.35,
+      "end": 206.27,
+      "timestamp": "03:22",
+      "text": "Por que aconteceu isso?"
+    },
+    {
+      "start": 206.27,
+      "end": 214.46,
+      "timestamp": "03:26",
+      "text": "Porque hoje a educação é um terço do negócio só."
+    },
+    {
+      "start": 214.46,
+      "end": 220.94,
+      "timestamp": "03:34",
+      "text": "Dois terços do negócio não é educação."
+    },
+    {
+      "start": 220.94,
+      "end": 262.06,
+      "timestamp": "03:40",
+      "text": "E essa transformação foi acontecendo principalmente quando a gente viu de fato ali no final de 2022, quando lançou-se o chat APT, a gente percebeu que tinha alguma coisa diferente ali, a gente achou que de fato ia ser uma mudança estrutural."
+    },
+    {
+      "start": 262.06,
+      "end": 303.35,
+      "timestamp": "04:22",
+      "text": "Eu acho que o que aconteceu nesses três anos, quatro agora, vai completar quatro anos no final do ano, desde o lançamento do chat APT, é uma mudança infraestrutural que aconteceu no mundo, na verdade é uma mudança de arquitetura de sociedade."
+    },
+    {
+      "start": 303.35,
+      "end": 344.98,
+      "timestamp": "05:03",
+      "text": "Então quando você pega no final do século XIX que o Thomas Edison plugou a primeira indústria de produção elétrica com Nova York, você vê que demorou-se décadas para que as pessoas se adaptassem a essa inovação exponencial chamada luz elétrica."
+    },
+    {
+      "start": 344.98,
+      "end": 368.35,
+      "timestamp": "05:44",
+      "text": "Então as fábricas que eram basicamente ali alimentadas por steam, vapor, eles basicamente trocaram os motores a vapor por motor elétrico."
+    },
+    {
+      "start": 368.35,
+      "end": 393.6,
+      "timestamp": "06:08",
+      "text": "Por que que isso não causou nenhuma mudança de fato exponencial nos negócios, eles não conseguiram capturar valor rápido em termos de produtividade?"
+    },
+    {
+      "start": 393.6,
+      "end": 413.56,
+      "timestamp": "06:33",
+      "text": "Porque na verdade eles só substituíram algo que produzia uma força, ao invés de vapor, substituíram por eletricidade."
+    },
+    {
+      "start": 413.56,
+      "end": 469.87,
+      "timestamp": "06:53",
+      "text": "Demorou-se algumas décadas, aconteceu mais ou menos ali no início do século XX, 1920, para que as fábricas olhassem para si e falassem assim, não, peraí, para que que eu estou usando a mesma arquitetura sistêmica que eu usava de uma tecnologia antiga que era o vapor e uma tecnologia completamente nova que era a energia elétrica?"
+    },
+    {
+      "start": 469.87,
+      "end": 531.12,
+      "timestamp": "07:49",
+      "text": "Na verdade eu posso descentralizar essa produção, eu não preciso ter um motor único com um sistema de cintas que vai levando a força para as máquinas, eu posso redesenhar a linha de produção para que eu tenha unidades autônomas, com motores autônomos produzindo força através de energia elétrica e isso mudou, deu um salto quântico em termos de produtividade."
+    },
+    {
+      "start": 531.12,
+      "end": 556.2,
+      "timestamp": "08:51",
+      "text": "O que acontece é que as companhias hoje usam AI da mesma forma que as fábricas estavam usando a energia elétrica no surgimento da energia elétrica."
+    },
+    {
+      "start": 556.2,
+      "end": 567.46,
+      "timestamp": "09:16",
+      "text": "Então pegando uma tecnologia exponencial e usando de forma linear."
+    },
+    {
+      "start": 567.46,
+      "end": 582.81,
+      "timestamp": "09:27",
+      "text": "As empresas ainda não pararam para redesenhar a tua arquitetura de gestão, mas o G4 parou."
+    },
+    {
+      "start": 582.81,
+      "end": 626.66,
+      "timestamp": "09:42",
+      "text": "Então lá em 2022 o João já estudava esse tema, já pesquisava esse tema, mais ou menos em 2023 a gente falou, cara, gasta energia nisso, entende essas coisas, vê o que a gente tem de valor para coletar ali, testa, aprende e com isso a gente vai se adaptando."
+    },
+    {
+      "start": 626.66,
+      "end": 654.47,
+      "timestamp": "10:26",
+      "text": "E trouxemos muita eficiência para o negócio, tanto que os números demonstram, em 2023, em 2022, a gente fechou o ano com 130 milhões de reais, se eu não me engano."
+    },
+    {
+      "start": 654.47,
+      "end": 669.31,
+      "timestamp": "10:54",
+      "text": "Esse ano passado a gente fechou com 508 milhões de reais, gerando 104 milhões de caixa."
+    },
+    {
+      "start": 669.31,
+      "end": 696.61,
+      "timestamp": "11:09",
+      "text": "Esse ano eu vou fazer 750 milhões de reais, gerar 150 milhões de caixa, aumentando 10% da folha só, comparativamente, quando a gente fazia 130 milhões de reais."
+    },
+    {
+      "start": 696.61,
+      "end": 724.93,
+      "timestamp": "11:36",
+      "text": "Ou seja, a gente quintuplicou a receita da companhia, aumentando 10% a folha, e a gente multiplicou por 10 a geração de caixa da companhia, aumentando só 10% a folha."
+    },
+    {
+      "start": 724.93,
+      "end": 728.35,
+      "timestamp": "12:04",
+      "text": "E é só o começo, tá?"
+    },
+    {
+      "start": 728.35,
+      "end": 730.73,
+      "timestamp": "12:08",
+      "text": "É só o começo."
+    },
+    {
+      "start": 730.73,
+      "end": 750.87,
+      "timestamp": "12:10",
+      "text": "Eu acredito que vamos dobrar a companhia com o mesmo número de funcionários que eu tenho hoje, que é 450 funcionários."
+    },
+    {
+      "start": 750.87,
+      "end": 770.15,
+      "timestamp": "12:30",
+      "text": "Ano que vem a gente vai fazer 1 bilhão de reais, e eu acho que a gente vai manter o mesmo número de funcionários."
+    },
+    {
+      "start": 770.15,
+      "end": 806.66,
+      "timestamp": "12:50",
+      "text": "Então, o jogo do AI para o G4 é fazer um projeto revisionista de qual é a nova infraestrutura de gestão, dado essa tecnologia exponencial que surgiu e que foi traduzida para a companhia através do trabalho do João."
+    },
+    {
+      "start": 806.66,
+      "end": 829.86,
+      "timestamp": "13:26",
+      "text": "E um ponto, assim, dentro do que tu falou, como é que vocês estão olhando aqui internamente hoje, quando a gente vai olhar para a gente?"
+    },
+    {
+      "start": 829.86,
+      "end": 861.42,
+      "timestamp": "13:49",
+      "text": "Porque, assim, cara, a gente conversa muito com o empresário, e ele, cara, mas eu sou da indústria, eu não tenho uma área de tecnologia, eu não tenho meu TI aqui, e a IA não é para mim."
+    },
+    {
+      "start": 861.42,
+      "end": 886.5,
+      "timestamp": "14:21",
+      "text": "Porque as pessoas acabam associando IA com tecnologia, uma área de tech, e aí fica, não, esse jogo de IA, como é que vocês olham aqui para pessoas?"
+    },
+    {
+      "start": 886.5,
+      "end": 890.77,
+      "timestamp": "14:46",
+      "text": "É uma pessoa, é uma área?"
+    },
+    {
+      "start": 890.77,
+      "end": 911.92,
+      "timestamp": "14:50",
+      "text": "Pensa assim, uma analogia para baixo do zero é o seguinte, onde que a IA, é o que a gente está falando de IA generativa, né?"
+    },
+    {
+      "start": 911.92,
+      "end": 931.54,
+      "timestamp": "15:11",
+      "text": "Acho que é bom até para quem está ouvindo, se falar IA é generativa, que tem outros tipos, é diferente, mas beleza."
+    },
+    {
+      "start": 931.54,
+      "end": 959.18,
+      "timestamp": "15:31",
+      "text": "Tudo que um ser humano faz sentado em frente ao computador no seu escritório hoje, potencialmente a IA de alguma forma pode ou fazer ou ajudar ele a fazer melhor."
+    },
+    {
+      "start": 959.18,
+      "end": 980.85,
+      "timestamp": "15:59",
+      "text": "Então, ah, IA não é para mim, porque eu não sei, você tem ser humano no escritório trabalhando sentado em frente ao computador?"
+    },
+    {
+      "start": 980.85,
+      "end": 981.88,
+      "timestamp": "16:20",
+      "text": "Tenho."
+    },
+    {
+      "start": 981.88,
+      "end": 987.33,
+      "timestamp": "16:21",
+      "text": "Então, tem potencial de usar IA."
+    },
+    {
+      "start": 987.33,
+      "end": 995.69,
+      "timestamp": "16:27",
+      "text": "Um pouco mais, um pouco menos e assim por diante."
+    },
+    {
+      "start": 995.69,
+      "end": 998.77,
+      "timestamp": "16:35",
+      "text": "O que a gente faz?"
+    },
+    {
+      "start": 998.77,
+      "end": 1004.23,
+      "timestamp": "16:38",
+      "text": "A gente separa meio duas visões."
+    },
+    {
+      "start": 1004.23,
+      "end": 1069.91,
+      "timestamp": "16:44",
+      "text": "A gente está cada vez mais forte em todo mundo tem que se virar e usar, então a gente paga IA para todo mundo na empresa, a gente está cada vez mais liberando mais coisas, a gente está construindo um sistema nosso que vai para o mercado em breve, que é o OS, que é muito mais parrudo para todo mundo ter já conectado em todas as nossas bases, então todo mundo ser empoderado para isso."
+    },
+    {
+      "start": 1069.91,
+      "end": 1105.06,
+      "timestamp": "17:49",
+      "text": "Só que aí no fim do dia é meio que assim, cara, se você não usar, você vai sair, porque você vai ser menos produtivo, a gente, como o Tales falou, a gente vai crescer e não vai aumentar o número de pessoas."
+    },
+    {
+      "start": 1105.06,
+      "end": 1108.64,
+      "timestamp": "18:25",
+      "text": "O que isso significa?"
+    },
+    {
+      "start": 1108.64,
+      "end": 1119.39,
+      "timestamp": "18:28",
+      "text": "Eu vou querer só as pessoas que usarem e forem mais produtivas."
+    },
+    {
+      "start": 1119.39,
+      "end": 1126.04,
+      "timestamp": "18:39",
+      "text": "Se não for você, sou sorry, será outro."
+    },
+    {
+      "start": 1126.04,
+      "end": 1156.24,
+      "timestamp": "18:46",
+      "text": "Em paralelo, nós temos sim uma estrutura focada para os projetos que são mais, vamos dizer, tecnicamente complexos, quando você precisa de um nível, um layer de segurança maior."
+    },
+    {
+      "start": 1156.24,
+      "end": 1164.26,
+      "timestamp": "19:16",
+      "text": "Então, exemplo, a gente usa muito o Vibecoding."
+    },
+    {
+      "start": 1164.26,
+      "end": 1203.16,
+      "timestamp": "19:24",
+      "text": "Putz, criar uma solução, uma prova de conceito, algo interno para a sua área, todo mundo tem liberdade de usar o Loveball, o Replit para construir dentro das nossas contas, obviamente, ninguém vai construir na sua conta pessoal."
+    },
+    {
+      "start": 1203.16,
+      "end": 1220.56,
+      "timestamp": "20:03",
+      "text": "Putz, vamos criar agora, a gente está construindo a nossa própria plataforma de atendimento e suporte."
+    },
+    {
+      "start": 1220.56,
+      "end": 1278.23,
+      "timestamp": "20:20",
+      "text": "Não vai ser qualquer um que vai falar assim, cara, eu preciso garantir que ela tenha uma escalabilidade, é um negócio que vai ter contato com o meu cliente final, então eu tenho que ter mais controle ali de todas as questões de segurança do que uma plataforma que se você não tiver e-mail do G4, você não consegue acessar de jeito nenhum."
+    },
+    {
+      "start": 1278.23,
+      "end": 1313.72,
+      "timestamp": "21:18",
+      "text": "Então, dependendo do nível de complexidade e sensibilidade, nós temos dois times hoje que são os responsáveis, mas estruturalmente foi literalmente ontem, no All Hands, o Tales falou, é para todo mundo fazer."
+    },
+    {
+      "start": 1313.72,
+      "end": 1364.73,
+      "timestamp": "21:53",
+      "text": "Não tem escolha, porque se a gente fala que a gente vai sair 750 milhões esse ano para, vai, 1 bi e 300, 1 bi e meio daqui dois, e que a gente não vai ter uma cadeira a mais no escritório, a única forma possível é cada um dos 450, ao menos que estiverem daqui para frente, conseguirem produzir mais."
+    },
+    {
+      "start": 1364.73,
+      "end": 1385.03,
+      "timestamp": "22:44",
+      "text": "Eu não enxergo uma forma do cara fazer isso sem usar IA, e aí a gente precisa dar as ferramentas para que a pessoa use."
+    },
+    {
+      "start": 1385.03,
+      "end": 1417.96,
+      "timestamp": "23:05",
+      "text": "E quando a gente dá as ferramentas de uma maneira organizada na empresa, você consegue ter mais controle, ter mais segurança, eu garantir que está fazendo aquilo de uma maneira mais organizada."
+    },
+    {
+      "start": 1417.96,
+      "end": 1472.22,
+      "timestamp": "23:37",
+      "text": "Um exemplo que aconteceu dentro do OS ontem, a gente liberou para algumas pessoas o time de audiovisual, a gente está fazendo over-the-lapse faseado, e aí ele chegou e falou, putz, eu queria fazer tal coisa, que era fazer edição e combinação de vídeo em escala, que ele gasta muito tempo fazendo isso hoje manualmente."
+    },
+    {
+      "start": 1472.22,
+      "end": 1477.33,
+      "timestamp": "24:32",
+      "text": "Falei, cara, me manda o Drive."
+    },
+    {
+      "start": 1477.33,
+      "end": 1493.54,
+      "timestamp": "24:37",
+      "text": "Ele mandou o Drive, eu subi a pasta do Drive, o OS já está conectado no Google Workspace do G4."
+    },
+    {
+      "start": 1493.54,
+      "end": 1502.24,
+      "timestamp": "24:53",
+      "text": "Ah, putz, é isso que eu quero fazer, você consegue?"
+    },
+    {
+      "start": 1502.24,
+      "end": 1539.78,
+      "timestamp": "25:02",
+      "text": "Ele falou, peraí, olhou a estrutura\n\nCara, se eu fizer isso, se com 10% a mais de funcionário eu quintuplicar a empresa em receita e multipliquei por 10 caixa, porra, com 20% eu consigo fazer o crescimento que eu fiz lá."
+    },
+    {
+      "start": 1539.78,
+      "end": 1562.64,
+      "timestamp": "25:39",
+      "text": "É daí que nasce a minha conta, que eu falei, galera, nós vamos multiplicar essa empresa exponencialmente e não vou aumentar a cadeira."
+    },
+    {
+      "start": 1562.64,
+      "end": 1572.71,
+      "timestamp": "26:02",
+      "text": "Eu tenho convicção de que a gente vai conseguir fazer isso."
+    },
+    {
+      "start": 1572.71,
+      "end": 1576.46,
+      "timestamp": "26:12",
+      "text": "Eu ainda não sei como."
+    },
+    {
+      "start": 1576.46,
+      "end": 1579.87,
+      "timestamp": "26:16",
+      "text": "O jogo é matemático."
+    },
+    {
+      "start": 1579.87,
+      "end": 1582.26,
+      "timestamp": "26:19",
+      "text": "Mas vai rolar."
+    },
+    {
+      "start": 1582.26,
+      "end": 1590.79,
+      "timestamp": "26:22",
+      "text": "Eu vou te bilizar aqui o que a gente está falando."
+    },
+    {
+      "start": 1590.79,
+      "end": 1598.98,
+      "timestamp": "26:30",
+      "text": "Primeiro ponto, tem que ser top down do founder."
+    },
+    {
+      "start": 1598.98,
+      "end": 1600.35,
+      "timestamp": "26:38",
+      "text": "Ah, tem."
+    },
+    {
+      "start": 1600.35,
+      "end": 1602.22,
+      "timestamp": "26:40",
+      "text": "É top down."
+    },
+    {
+      "start": 1602.22,
+      "end": 1607.85,
+      "timestamp": "26:42",
+      "text": "Alguém tem que tomar uma decisão."
+    },
+    {
+      "start": 1607.85,
+      "end": 1614.85,
+      "timestamp": "26:47",
+      "text": "É uma mudança cultural, de certa maneira."
+    },
+    {
+      "start": 1614.85,
+      "end": 1626.45,
+      "timestamp": "26:54",
+      "text": "E não tem como mudar a cultura sem ser pelo exemplo que vem de cima."
+    },
+    {
+      "start": 1626.45,
+      "end": 1645.56,
+      "timestamp": "27:06",
+      "text": "Outro ponto, não é uma pessoa da empresa que sabe fazer e todo mundo delega ela porque aí ela vai ser o gargalo."
+    },
+    {
+      "start": 1645.56,
+      "end": 1646.58,
+      "timestamp": "27:25",
+      "text": "Exato."
+    },
+    {
+      "start": 1646.58,
+      "end": 1652.89,
+      "timestamp": "27:26",
+      "text": "Que era o que a gente era com o João."
+    },
+    {
+      "start": 1652.89,
+      "end": 1653.75,
+      "timestamp": "27:32",
+      "text": "Isso."
+    },
+    {
+      "start": 1653.75,
+      "end": 1661.77,
+      "timestamp": "27:33",
+      "text": "O João era o único cara que fazia esse negócio."
+    },
+    {
+      "start": 1661.77,
+      "end": 1666.03,
+      "timestamp": "27:41",
+      "text": "João, faz isso, faz isso."
+    },
+    {
+      "start": 1666.03,
+      "end": 1674.39,
+      "timestamp": "27:46",
+      "text": "Só que chega um momento que o João tem um limite."
+    },
+    {
+      "start": 1674.39,
+      "end": 1687.02,
+      "timestamp": "27:54",
+      "text": "E ele, como ele é sócio da companhia, ele trabalha enquanto está acordado."
+    },
+    {
+      "start": 1687.02,
+      "end": 1692.14,
+      "timestamp": "28:07",
+      "text": "Ele trabalha no fim de semana."
+    },
+    {
+      "start": 1692.14,
+      "end": 1698.11,
+      "timestamp": "28:12",
+      "text": "Ele está no risco da companhia, né?"
+    },
+    {
+      "start": 1698.11,
+      "end": 1701.01,
+      "timestamp": "28:18",
+      "text": "Não, pra caralho."
+    },
+    {
+      "start": 1701.01,
+      "end": 1705.44,
+      "timestamp": "28:21",
+      "text": "Mas o problema não é esse."
+    },
+    {
+      "start": 1705.44,
+      "end": 1712.95,
+      "timestamp": "28:25",
+      "text": "O problema é o seguinte, ele tem um gargalo."
+    },
+    {
+      "start": 1712.95,
+      "end": 1717.73,
+      "timestamp": "28:32",
+      "text": "Ele é sócio ou orca rólique."
+    },
+    {
+      "start": 1717.73,
+      "end": 1721.31,
+      "timestamp": "28:37",
+      "text": "Essa é a nossa sorte."
+    },
+    {
+      "start": 1721.31,
+      "end": 1736.84,
+      "timestamp": "28:41",
+      "text": "Porque senão ele não conseguiria estar lá na casa dele fazendo boa vez domingo trabalhando."
+    },
+    {
+      "start": 1736.84,
+      "end": 1739.4,
+      "timestamp": "28:56",
+      "text": "E ele trabalha."
+    },
+    {
+      "start": 1739.4,
+      "end": 1747.41,
+      "timestamp": "28:59",
+      "text": "Imagina que deve tomar vários esforços da Jess."
+    },
+    {
+      "start": 1747.41,
+      "end": 1754.92,
+      "timestamp": "29:07",
+      "text": "Porque eu tomo da Marcela, sei como é que é."
+    },
+    {
+      "start": 1754.92,
+      "end": 1762.09,
+      "timestamp": "29:14",
+      "text": "Mas, assim, a gente é viciado em trabalho."
+    },
+    {
+      "start": 1762.09,
+      "end": 1769.25,
+      "timestamp": "29:22",
+      "text": "Então é o vício do cara, é a cachaça dele."
+    },
+    {
+      "start": 1769.25,
+      "end": 1772.15,
+      "timestamp": "29:29",
+      "text": "É a minha também."
+    },
+    {
+      "start": 1772.15,
+      "end": 1776.59,
+      "timestamp": "29:32",
+      "text": "A gente gosta dessa porra."
+    },
+    {
+      "start": 1776.59,
+      "end": 1793.14,
+      "timestamp": "29:36",
+      "text": "Só que como é que eu vou contar que o average Joe que eu tenho na companhia aqui vai ser um João?"
+    },
+    {
+      "start": 1793.14,
+      "end": 1795.19,
+      "timestamp": "29:53",
+      "text": "Ele não vai."
+    },
+    {
+      "start": 1795.19,
+      "end": 1803.2,
+      "timestamp": "29:55",
+      "text": "Até porque se fosse João, ele seria o João, né?"
+    },
+    {
+      "start": 1803.2,
+      "end": 1805.93,
+      "timestamp": "30:03",
+      "text": "Ele seria sócio."
+    },
+    {
+      "start": 1805.93,
+      "end": 1813.1,
+      "timestamp": "30:05",
+      "text": "Ele teria 2% da companhia como o João tem."
+    },
+    {
+      "start": 1813.1,
+      "end": 1823.34,
+      "timestamp": "30:13",
+      "text": "Então, assim, a história aqui é, tem que partir do fundador."
+    },
+    {
+      "start": 1823.34,
+      "end": 1841.42,
+      "timestamp": "30:23",
+      "text": "E pra que a sua empresa faça um processo de transformação, tem que ser algo tão simples quanto usar Slack."
+    },
+    {
+      "start": 1841.42,
+      "end": 1891.58,
+      "timestamp": "30:41",
+      "text": "Então é por isso que o João está dedicando boa parte da energia dele agora, desenvolvendo o nosso G4S, que é o sistema operacional da companhia que a gente está desenvolvendo, que eu acredito que em breve vai ser o sistema operacional do empreendedor e que gente no mundo inteiro vai usar isso."
+    },
+    {
+      "start": 1891.58,
+      "end": 1904.89,
+      "timestamp": "31:31",
+      "text": "Tem um, eu queria trazer um exemplo aqui de uma coisa bem legal que aconteceu."
+    },
+    {
+      "start": 1904.89,
+      "end": 1919.9,
+      "timestamp": "31:44",
+      "text": "Cara, era um cliente nosso lá e ele é a maior indústria de mamão do Brasil, que é a AGC."
+    },
+    {
+      "start": 1919.9,
+      "end": 1924.0,
+      "timestamp": "31:59",
+      "text": "Vende dois mil de mamão."
+    },
+    {
+      "start": 1924.0,
+      "end": 1928.6,
+      "timestamp": "32:03",
+      "text": "Mamão, velho, mamão, velho."
+    },
+    {
+      "start": 1928.6,
+      "end": 1934.58,
+      "timestamp": "32:08",
+      "text": "Mamão não é que a gente come deles."
+    },
+    {
+      "start": 1934.58,
+      "end": 1935.09,
+      "timestamp": "32:14",
+      "text": "Tá?"
+    },
+    {
+      "start": 1935.09,
+      "end": 1939.01,
+      "timestamp": "32:15",
+      "text": "O mamão papaya é deles."
+    },
+    {
+      "start": 1939.01,
+      "end": 1940.04,
+      "timestamp": "32:19",
+      "text": "Legal."
+    },
+    {
+      "start": 1940.04,
+      "end": 1940.55,
+      "timestamp": "32:20",
+      "text": "Tá?"
+    },
+    {
+      "start": 1940.55,
+      "end": 1947.88,
+      "timestamp": "32:20",
+      "text": "E aí, cara, como é que eu coloco o IA aqui?"
+    },
+    {
+      "start": 1947.88,
+      "end": 1950.1,
+      "timestamp": "32:27",
+      "text": "Aí eu fui lá."
+    },
+    {
+      "start": 1950.1,
+      "end": 1967.5,
+      "timestamp": "32:30",
+      "text": "Cara, indústria, braçal, 90% da força, né, de trabalho dele, mano, é colhendo, é passando do processo."
+    },
+    {
+      "start": 1967.5,
+      "end": 1981.32,
+      "timestamp": "32:47",
+      "text": "Eu falei, aqui esquece, porque aqui ele não está sentado na frente do computador."
+    },
+    {
+      "start": 1981.32,
+      "end": 1987.12,
+      "timestamp": "33:01",
+      "text": "E aí eu fui atacar, né, o gargalo."
+    },
+    {
+      "start": 1987.12,
+      "end": 1994.46,
+      "timestamp": "33:07",
+      "text": "Aí ele falou, cara, do que é o meu gargalo?"
+    },
+    {
+      "start": 1994.46,
+      "end": 1999.24,
+      "timestamp": "33:14",
+      "text": "Pô, mamão é muito perecível."
+    },
+    {
+      "start": 1999.24,
+      "end": 2008.45,
+      "timestamp": "33:19",
+      "text": "Desde que tu tira ele em sete a dez dias, ele estraga."
+    },
+    {
+      "start": 2008.45,
+      "end": 2015.79,
+      "timestamp": "33:28",
+      "text": "Então imagina, o tempo de pegar, de vender."
+    },
+    {
+      "start": 2015.79,
+      "end": 2019.03,
+      "timestamp": "33:35",
+      "text": "Aí o que ele falou?"
+    },
+    {
+      "start": 2019.03,
+      "end": 2027.39,
+      "timestamp": "33:39",
+      "text": "Cara, eu tenho que conseguir vender muito rápido."
+    },
+    {
+      "start": 2027.39,
+      "end": 2036.43,
+      "timestamp": "33:47",
+      "text": "Aí eu apertei, tá, mas tu vende mais rápido pra quem?"
+    },
+    {
+      "start": 2036.43,
+      "end": 2047.86,
+      "timestamp": "33:56",
+      "text": "Eu vendo mais rápido pra onde, nos próximos sete dias, vai ter sol."
+    },
+    {
+      "start": 2047.86,
+      "end": 2054.52,
+      "timestamp": "34:07",
+      "text": "Que é onde a galera consome mais mamão."
+    },
+    {
+      "start": 2054.52,
+      "end": 2063.22,
+      "timestamp": "34:14",
+      "text": "No ambiente mais quente, não no ambiente mais frio."
+    },
+    {
+      "start": 2063.22,
+      "end": 2069.87,
+      "timestamp": "34:23",
+      "text": "Eu falei, tá, mas como que tu faz isso?"
+    },
+    {
+      "start": 2069.87,
+      "end": 2095.46,
+      "timestamp": "34:29",
+      "text": "Ele falou, cara, a gente pega a lista, né, de cliente e sai ligando pra todo mundo, cata no Google, entende no Google aonde que vai ser calor e vende."
+    },
+    {
+      "start": 2095.46,
+      "end": 2134.02,
+      "timestamp": "34:55",
+      "text": "Eu falei, cara, por que não criar uma plataforma, então, de pegar a tua base, né, de cliente, pegar quem não compra de ti no período, né, de compra, olha na região do cara os próximos sete dias e já cria pro vendedor lá, cara."
+    },
+    {
+      "start": 2134.02,
+      "end": 2143.41,
+      "timestamp": "35:34",
+      "text": "Aborda esses aqui primeiro, porque esses aqui primeiro."
+    },
+    {
+      "start": 2143.41,
+      "end": 2148.18,
+      "timestamp": "35:43",
+      "text": "O cara falou assim, caralho."
+    },
+    {
+      "start": 2148.18,
+      "end": 2168.32,
+      "timestamp": "35:48",
+      "text": "E aí fez, né, o que aconteceu, acabou vendendo mais, cresceu o negócio dele, pegando um gargalo real de uma indústria."
+    },
+    {
+      "start": 2168.32,
+      "end": 2175.65,
+      "timestamp": "36:08",
+      "text": "Só que, né, por que eu tô falando isso, tá?"
+    },
+    {
+      "start": 2175.65,
+      "end": 2192.2,
+      "timestamp": "36:15",
+      "text": "Quer ver se vocês concordam, né, com a minha linha de raciocínio ou se vocês pensam assim também."
+    },
+    {
+      "start": 2192.2,
+      "end": 2231.44,
+      "timestamp": "36:32",
+      "text": "A empresa passa pelo ponto de ter as pessoas estratégicas, que sabem entender de business, de negócio, elas vão ser as melhores pessoas da empresa pra ter essas ideias, mas a empresa vai precisar de mais mão de obra para executar."
+    },
+    {
+      "start": 2231.44,
+      "end": 2245.94,
+      "timestamp": "37:11",
+      "text": "Ou seja, a gente não precisa mais de tantas pessoas estratégicas dentro da companhia."
+    },
+    {
+      "start": 2245.94,
+      "end": 2257.37,
+      "timestamp": "37:25",
+      "text": "Ou seja, a pessoa estratégica passa a não ter mais tanto valor, ok?"
+    },
+    {
+      "start": 2257.37,
+      "end": 2276.14,
+      "timestamp": "37:37",
+      "text": "Porque aí ela tem muita ideia, ela consegue fazer, ela consegue ter isso e mais mão de obra, né, pra executar."
+    },
+    {
+      "start": 2276.14,
+      "end": 2282.97,
+      "timestamp": "37:56",
+      "text": "É isso que vocês pensam ou ao contrário?"
+    },
+    {
+      "start": 2282.97,
+      "end": 2296.1,
+      "timestamp": "38:02",
+      "text": "É um pouco do que tá acontecendo no sentido da planificação das empresas, né?"
+    },
+    {
+      "start": 2296.1,
+      "end": 2303.27,
+      "timestamp": "38:16",
+      "text": "Você tá vendo o middle management sendo..."
+    },
+    {
+      "start": 2303.27,
+      "end": 2325.45,
+      "timestamp": "38:23",
+      "text": "Acabando porque, cara, antes você tinha lá, até pela teoria das vias de comunicações do Hackman, né, que é um negócio dos números."
+    },
+    {
+      "start": 2325.45,
+      "end": 2332.27,
+      "timestamp": "38:45",
+      "text": "Quantas pessoas você consegue gerenciar?"
+    },
+    {
+      "start": 2332.27,
+      "end": 2339.78,
+      "timestamp": "38:52",
+      "text": "Quantos projetos você vai tocar em paralelo?"
+    },
+    {
+      "start": 2339.78,
+      "end": 2352.06,
+      "timestamp": "38:59",
+      "text": "Você tinha um limite de quantos você conseguia gerenciar ao mesmo tempo."
+    },
+    {
+      "start": 2352.06,
+      "end": 2379.7,
+      "timestamp": "39:12",
+      "text": "Se você aumenta isso, você precisa de menos gente com trabalho de gerenciar informação em via de comunicação, só que você ainda vai precisar executar e trabalhar."
+    },
+    {
+      "start": 2379.7,
+      "end": 2389.43,
+      "timestamp": "39:39",
+      "text": "Você vai ter, então, mais gente trabalhando e executando."
+    },
+    {
+      "start": 2389.43,
+      "end": 2408.2,
+      "timestamp": "39:49",
+      "text": "Eu acho que o número total de pessoas necessárias para executar algo vai cair de modo geral para mesmo output."
+    },
+    {
+      "start": 2408.2,
+      "end": 2415.53,
+      "timestamp": "40:08",
+      "text": "Você vai precisar de menos pessoas e ponto."
+    },
+    {
+      "start": 2415.53,
+      "end": 2453.24,
+      "timestamp": "40:15",
+      "text": "Só que eu concordo com você que onde mais vai cair vai ser onde está mais distante da execução de fato, porque a mesma pessoa antes vai aumentar o número de executores que ela vai conseguir coordenar de maneira eficiente."
+    },
+    {
+      "start": 2453.24,
+      "end": 2457.67,
+      "timestamp": "40:53",
+      "text": "E eu tenho uma outra tese."
+    },
+    {
+      "start": 2457.67,
+      "end": 2470.64,
+      "timestamp": "40:57",
+      "text": "Eu acho que o gargalo da escala de AI é o gargalo de implementação na ponta."
+    },
+    {
+      "start": 2470.64,
+      "end": 2498.62,
+      "timestamp": "41:10",
+      "text": "Ou seja, eu acho que o serviço de consultoria e implementação de AI é um gargalo necessário nesse momento de transformação estrutural que a sociedade está passando."
+    },
+    {
+      "start": 2498.62,
+      "end": 2507.15,
+      "timestamp": "41:38",
+      "text": "Então, eu acho que software house vai tudo morrer."
+    },
+    {
+      "start": 2507.15,
+      "end": 2617.2,
+      "timestamp": "41:47",
+      "text": "Acho que essas agências vão tudo morrer e elas vão, se elas sobreviverem, se transformar em implementadoras de AI e que vai surgir aí, eu acredito que o G4 vai ser essa empresa, vai surgir a Oracle SAP de soluções de AI, onde a gente vai fazer um módulo de vendas aqui que a gente usou, que a gente focar nesse negócio é muito legal, deveria ser um produto de prateleira, deveria treinar implementadores e como a gente tem esse right wing, porque a gente já tem quase 100 milhões de empresas como cliente, eu falo, cara, bota nessa base, nesse canal gigante, as nossas redes sociais conjuntas entregam quase meio bilhão de visualizações por mês."
+    },
+    {
+      "start": 2617.2,
+      "end": 2762.05,
+      "timestamp": "43:37",
+      "text": "Então, a gente tem um canal de distribuição, a gente tem uma marca forte, a gente tem inteligência dentro de casa, a gente tem uma companhia que é fruto daquilo que ela está vendendo, logo, eu vou gerar muita solução proprietária aqui e eventualmente pelo nosso marketplace, o G4 é uma Amazon de solução comparativa, a gente é um marketplace, provavelmente muita gente vai fazer soluções ali como side jobs, são soluções ótimas, vão colocar no nosso marketplace, assim como eu ganhei minha vida colocando um app de transporte dentro da App Store, alguém vai fazer algo disso, vai colocar dentro do G4 Tools e a gente vai ter nossas redes de implementadores e vamos começar a ajudar a pequena e a média empresa diminuir cada vez mais seu handicap operacional e tático frente às grandes companhias porque a gente vai ajudá-la de fato a implementar AI."
+    },
+    {
+      "start": 2762.05,
+      "end": 2799.41,
+      "timestamp": "46:02",
+      "text": "Eu tenho convicção de que os próximos 5 anos vai ser sobre isso, sobre a gente de fato não é diminuir, é acabar o handicap estratégico e tático que as pequenas e as médias empresas têm com relação às grandes companhias."
+    },
+    {
+      "start": 2799.41,
+      "end": 2827.73,
+      "timestamp": "46:39",
+      "text": "Eu acho que o seu Zé do interior do Maranhão com uma padaria vai ter a mesma capacidade estratégica e eventualmente até tática que a Microsoft muitas vezes, entendeu?"
+    },
+    {
+      "start": 2827.73,
+      "end": 2835.41,
+      "timestamp": "47:07",
+      "text": "Porque ele vai ter as mesmas ferramentas ali."
+    },
+    {
+      "start": 2835.41,
+      "end": 2849.4,
+      "timestamp": "47:15",
+      "text": "Vamos lá, inteligência sempre foi capacidade de resolver problema complexo, certo?"
+    },
+    {
+      "start": 2849.4,
+      "end": 2856.91,
+      "timestamp": "47:29",
+      "text": "Esse era o grande parâmetro de inteligência."
+    },
+    {
+      "start": 2856.91,
+      "end": 2873.63,
+      "timestamp": "47:36",
+      "text": "Então, pô, o cara fez ITA, o cara fez Poli, quer dizer, ele é capaz de resolver problema complexo."
+    },
+    {
+      "start": 2873.63,
+      "end": 2881.99,
+      "timestamp": "47:53",
+      "text": "Isso hoje é commodity, eu não preciso disso mais."
+    },
+    {
+      "start": 2881.99,
+      "end": 2899.56,
+      "timestamp": "48:01",
+      "text": "Qualquer problema complexo que você me der, eu resolvi um minuto no Cloud ou até no Chat PT, tanto faz."
+    },
+    {
+      "start": 2899.56,
+      "end": 2907.75,
+      "timestamp": "48:19",
+      "text": "Então, problema complexo não é mais diferencial."
+    },
+    {
+      "start": 2907.75,
+      "end": 2921.91,
+      "timestamp": "48:27",
+      "text": "O diferencial hoje é você ter bons insights e fazer a pergunta certa para o modelo."
+    },
+    {
+      "start": 2921.91,
+      "end": 2936.58,
+      "timestamp": "48:41",
+      "text": "Por enquanto, que daqui a um, dois, três anos quando surgir a DI, nem isso eu preciso."
+    },
+    {
+      "start": 2936.58,
+      "end": 2942.04,
+      "timestamp": "48:56",
+      "text": "Eu só preciso de direcionamento."
+    },
+    {
+      "start": 2942.04,
+      "end": 2952.45,
+      "timestamp": "49:02",
+      "text": "Então, a gente está nesse nível de transformação acontecendo."
+    },
+    {
+      "start": 2952.45,
+      "end": 2969.0,
+      "timestamp": "49:12",
+      "text": "A sensação que dá é igual quando você está aprendendo a surfar, que você toma um caixote, aí você"
+    }
+  ],
+  "word_count": 3219,
+  "segment_count": 174,
+  "chunks_used": 2,
+  "timestamps_estimated": true
+}

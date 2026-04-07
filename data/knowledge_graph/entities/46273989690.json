@@ -1,0 +1,174 @@
+{
+  "episode_id": "46273989690",
+  "title": "O FIM do GOOGLE? Venda Pelo ChatGPT com a NOVA ERA do SEO com Diego Ivo | TOOLS LIVE",
+  "date_published": 1764946800,
+  "duration": 2760,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Diego Ivo",
+      "role": "guest",
+      "company": "Conversion",
+      "title": "CEO"
+    },
+    {
+      "name": "Sun Altman",
+      "role": "mentioned",
+      "company": "OpenAI",
+      "title": "CEO"
+    },
+    {
+      "name": "Igor",
+      "role": "host",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Discussed in relation to SEO and algorithm updates"
+    },
+    {
+      "name": "Meta",
+      "industry": "Technology",
+      "context": "Discussed in relation to advertising costs"
+    },
+    {
+      "name": "Conversion",
+      "industry": "Marketing",
+      "context": "Discussed as a company implementing AI in SEO and content creation"
+    },
+    {
+      "name": "Grank",
+      "industry": "Education Technology",
+      "context": "Mentioned as a client of Conversion with significant organic traffic"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "SEO (Search Engine Optimization)",
+      "category": "Marketing"
+    },
+    {
+      "name": "branding semântico",
+      "category": "Marketing"
+    },
+    {
+      "name": "long tail",
+      "category": "Marketing"
+    },
+    {
+      "name": "AI first",
+      "category": "Technology"
+    },
+    {
+      "name": "query fan-out",
+      "category": "Technology"
+    },
+    {
+      "name": "SEO",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Link Building",
+      "category": "SEO"
+    },
+    {
+      "name": "Marketing de Conteúdo",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Jornada do Cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "CRM",
+      "category": "Gestão de Relacionamento com o Cliente"
+    }
+  ],
+  "books": [
+    {
+      "title": "Positioning: The Battle for Your Mind",
+      "author": "Al Ries and Jack Trout"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "80%",
+      "context": "Traffic loss due to improper SEO during site migration"
+    },
+    {
+      "value": "5-6 million",
+      "context": "Monthly organic traffic for Grank"
+    },
+    {
+      "value": "800,000",
+      "context": "Active students at Grank"
+    },
+    {
+      "value": "80%",
+      "context": "Meta de atividades realizadas com inteligência artificial na Conversion até 2026."
+    },
+    {
+      "value": "150%",
+      "context": "Aumento de tráfego orgânico em um ano para médias empresas."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Conversion",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Seo (Search Engine Optimization)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Grank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Conversion",
+      "target_type": "company"
+    },
+    {
+      "source": "Conversion",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Inteligência Artificial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Conversion",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Seo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Seo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Diego Ivo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Conversion",
+      "target_type": "company"
+    },
+    {
+      "source": "Sun Altman",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Openai",
+      "target_type": "company"
+    }
+  ]
+}

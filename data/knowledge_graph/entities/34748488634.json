@@ -1,0 +1,265 @@
+{
+  "episode_id": "34748488634",
+  "title": "Florian Bartunek e André Portilho - Cenário Econômico, Eleições | Papo de Gestão com Tallis Gomes",
+  "date_published": 1664786403,
+  "duration": 3864,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do G4 Podcast"
+    },
+    {
+      "name": "Florian Bartunek",
+      "role": "guest",
+      "company": "Constellation",
+      "title": "Gestor de ativos"
+    },
+    {
+      "name": "André Portilho",
+      "role": "guest",
+      "company": "Banco BTG",
+      "title": "Sócio e Head da Exame Academy"
+    },
+    {
+      "name": "Sam Walton",
+      "role": "mentioned",
+      "company": "Walmart",
+      "title": "Fundador"
+    },
+    {
+      "name": "Jeremy Powell",
+      "role": "mentioned",
+      "company": "Federal Reserve",
+      "title": "Chairman"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Organizadora do podcast e iniciativas de educação para gestores"
+    },
+    {
+      "name": "Constellation",
+      "industry": "Gestão de Ativos",
+      "context": "Empresa de Florian Bartunek, com mais de 19 bilhões de reais em ativos sob gestão"
+    },
+    {
+      "name": "Banco Btg",
+      "industry": "Serviços Financeiros",
+      "context": "Empresa onde André Portilho é sócio e lidera iniciativas de moedas digitais"
+    },
+    {
+      "name": "Constellation Asset Management",
+      "industry": "Gestão de investimentos",
+      "context": "Empresa de Florian Bartunek"
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Serviços financeiros",
+      "context": "Empresa de André Portilho"
+    },
+    {
+      "name": "Walmart",
+      "industry": "Varejo",
+      "context": "Fundada por Sam Walton"
+    },
+    {
+      "name": "Federal Reserve",
+      "industry": "Finance",
+      "context": "Discussed in the context of economic policies and interest rate adjustments."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão 4.0",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Black Friday",
+      "category": "Evento de Vendas"
+    },
+    {
+      "name": "Copa do Mundo",
+      "category": "Evento Global"
+    },
+    {
+      "name": "Eleições",
+      "category": "Evento Político"
+    },
+    {
+      "name": "Macroeconomia",
+      "category": "Economia"
+    },
+    {
+      "name": "Microeconomia",
+      "category": "Economia"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Habilidades empresariais"
+    },
+    {
+      "name": "Pivotar",
+      "category": "Estratégias empresariais"
+    },
+    {
+      "name": "Stress test",
+      "category": "Análise de risco"
+    },
+    {
+      "name": "Democracia americana",
+      "category": "Governança política"
+    },
+    {
+      "name": "Polarização política",
+      "category": "Contexto social"
+    },
+    {
+      "name": "Plano Cruzado",
+      "category": "História econômica"
+    },
+    {
+      "name": "Plano Collor",
+      "category": "História econômica"
+    },
+    {
+      "name": "Plano Real",
+      "category": "História econômica"
+    },
+    {
+      "name": "maturidade da companhia",
+      "category": "business strategy"
+    },
+    {
+      "name": "recessão técnica",
+      "category": "economic condition"
+    },
+    {
+      "name": "alavancagem",
+      "category": "financial strategy"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "corporate finance"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "19 bilhões de reais",
+      "context": "Ativos sob gestão pela Constellation"
+    },
+    {
+      "value": "676 milhões de CNPJs",
+      "context": "Número de empresas representadas no público-alvo do G4 Educação"
+    },
+    {
+      "value": "1,5 milhão a 500 milhões de reais",
+      "context": "Faixa de faturamento anual das empresas no público-alvo do G4 Educação"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "André Portilho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Jeremy Powell",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Federal Reserve",
+      "target_type": "company"
+    },
+    {
+      "source": "André Portilho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Exame Academy",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Black Friday",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Eleições",
+      "target_type": "concept"
+    },
+    {
+      "source": "Florian Bartunek",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Constellation",
+      "target_type": "company"
+    },
+    {
+      "source": "Florian Bartunek",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Constellation Asset Management",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Florian Bartunek",
+      "target_type": "person"
+    },
+    {
+      "source": "Florian Bartunek",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "André Portilho",
+      "target_type": "person"
+    },
+    {
+      "source": "Black Friday",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Copa Do Mundo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sam Walton",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Walmart",
+      "target_type": "company"
+    },
+    {
+      "source": "André Portilho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Banco Btg",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "André Portilho",
+      "target_type": "person"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gestão 4.0",
+      "target_type": "concept"
+    }
+  ]
+}

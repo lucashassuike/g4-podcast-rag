@@ -1,0 +1,273 @@
+{
+  "episode_id": "44072309890",
+  "title": "CONTRATAR ERRADO É PIOR QUE LANÇAR PRODUTO RUIM EXPLICA GUSTAVO ARANTES | PAPO DE GESTÃO",
+  "date_published": 1760972400,
+  "duration": 3621,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Gustavo Arantes",
+      "role": "guest",
+      "company": "Cápitas",
+      "title": "Fundador"
+    },
+    {
+      "name": "Natália",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Marcela",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Renê",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Organizadora do G4 Valley e foco em gestão e empreendedorismo."
+    },
+    {
+      "name": "Cápitas",
+      "industry": "Recrutamento e Seleção",
+      "context": "Empresa especializada em recrutamento e parceira do G4 Educação."
+    },
+    {
+      "name": "Amazon",
+      "industry": "Tecnologia e Comércio Eletrônico",
+      "context": "Mencionada como referência em práticas de contratação."
+    },
+    {
+      "name": "Captas",
+      "industry": "Consultoria de Recrutamento e Seleção",
+      "context": "Consultoria especializada em recrutamento para médias e pequenas empresas"
+    },
+    {
+      "name": "Capitas",
+      "industry": "Recrutamento e Seleção",
+      "context": "Empresa mencionada como exemplo de uso de IA em processos de recrutamento."
+    },
+    {
+      "name": "Salesforce",
+      "industry": "Tecnologia",
+      "context": "Ferramenta utilizada pela Capitas para gerenciar dados de recrutamento."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Estratégia empresarial",
+      "category": "Gestão"
+    },
+    {
+      "name": "Recrutamento e seleção",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Fit cultural",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Performance técnica",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Gestão de pessoas",
+      "category": "Gestão"
+    },
+    {
+      "name": "Networking",
+      "category": "Negócios"
+    },
+    {
+      "name": "Imersão empresarial",
+      "category": "Educação"
+    },
+    {
+      "name": "Processo de Recrutamento",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Habilidades Pessoais"
+    },
+    {
+      "name": "Humildade",
+      "category": "Habilidades Pessoais"
+    },
+    {
+      "name": "Track Record",
+      "category": "Gestão de Carreira"
+    },
+    {
+      "name": "ENPS",
+      "category": "Métricas de Recursos Humanos"
+    },
+    {
+      "name": "IA (Inteligência Artificial)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Extreme Ownership",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "Job Description",
+      "category": "Recrutamento"
+    },
+    {
+      "name": "ATS (Applicant Tracking System)",
+      "category": "Tecnologia de Recrutamento"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10 mil empresários",
+      "context": "Número de participantes esperados no evento G4 Valley."
+    },
+    {
+      "value": "Três dias",
+      "context": "Duração do evento G4 Valley."
+    },
+    {
+      "value": "80",
+      "context": "Número médio de executivos abordados para uma vaga"
+    },
+    {
+      "value": "50",
+      "context": "Número médio de contatos telefônicos realizados"
+    },
+    {
+      "value": "25",
+      "context": "Número médio de entrevistas realizadas"
+    },
+    {
+      "value": "5",
+      "context": "Número médio de finalistas apresentados"
+    },
+    {
+      "value": "15 mil a 20 mil reais",
+      "context": "Salário de desenvolvedores sêniores no Brasil."
+    },
+    {
+      "value": "7 a 8 mil dólares",
+      "context": "Salário de desenvolvedores sêniores no exterior."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Capitas",
+      "source_type": "company",
+      "relation": "uses",
+      "target": "Salesforce",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Arantes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cápitas",
+      "target_type": "company"
+    },
+    {
+      "source": "Capitas",
+      "source_type": "company",
+      "relation": "utilizes",
+      "target": "Ia (Inteligência Artificial)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Captas",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Amazon",
+      "source_type": "company",
+      "relation": "mentioned",
+      "target": "Gustavo Arantes",
+      "target_type": "person"
+    },
+    {
+      "source": "Processo De Recrutamento",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Captas",
+      "target_type": "company"
+    },
+    {
+      "source": "Cultura Organizacional",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Captas",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Arantes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Captas",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "organizes",
+      "target": "G4 Valley",
+      "target_type": "company"
+    },
+    {
+      "source": "Cápitas",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

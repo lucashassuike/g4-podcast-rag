@@ -1,0 +1,991 @@
+{
+  "episode_id": "34748488524",
+  "title": "Como Dominar o E-commerce - Com Victor Popper | Extremos",
+  "date_published": 1697802580,
+  "duration": 5828,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Victor Popper",
+      "role": "guest",
+      "company": "Loja Integrada",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Romero Rodrigues",
+      "role": "mentioned",
+      "company": "Buscapé",
+      "title": ""
+    },
+    {
+      "name": "Renato Drummond",
+      "role": "mentioned",
+      "company": "Americanas.com",
+      "title": ""
+    },
+    {
+      "name": "Quiroga",
+      "role": "mentioned",
+      "company": "Americanas.com",
+      "title": ""
+    },
+    {
+      "name": "Xalita",
+      "role": "mentioned",
+      "company": "Americanas.com",
+      "title": ""
+    },
+    {
+      "name": "Flávio Jansen",
+      "role": "mentioned",
+      "company": "Submarino",
+      "title": "Founder"
+    },
+    {
+      "name": "Chinonhara",
+      "role": "mentioned",
+      "company": "Submarino",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Flávio Augusto",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Martim",
+      "role": "mentioned",
+      "company": "Submarino",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Paulo Umber",
+      "role": "mentioned",
+      "company": "Elefante",
+      "title": "Founder"
+    },
+    {
+      "name": "Sidney Breyer",
+      "role": "mentioned",
+      "company": "Elefante",
+      "title": "Founder"
+    },
+    {
+      "name": "Francisco Donato",
+      "role": "mentioned",
+      "company": "Magalu",
+      "title": "VP"
+    },
+    {
+      "name": "Romero",
+      "role": "mentioned",
+      "company": "Buscapé",
+      "title": "Executive"
+    },
+    {
+      "name": "Dudu",
+      "role": "mentioned",
+      "company": "Sax",
+      "title": ""
+    },
+    {
+      "name": "Dedé",
+      "role": "mentioned",
+      "company": "Sax",
+      "title": "Executive"
+    },
+    {
+      "name": "João Binda",
+      "role": "mentioned",
+      "company": "Ogvi",
+      "title": "Former Intern"
+    },
+    {
+      "name": "Elisson Lemos",
+      "role": "mentioned",
+      "company": "Mercado Livre",
+      "title": "Former Executive"
+    },
+    {
+      "name": "Ilka",
+      "role": "mentioned",
+      "company": "Via Varejo",
+      "title": "Executive"
+    },
+    {
+      "name": "Cássio",
+      "role": "mentioned",
+      "company": "Local Web",
+      "title": "Financeiro"
+    },
+    {
+      "name": "Michel",
+      "role": "mentioned",
+      "company": "UIN",
+      "title": "Developer"
+    },
+    {
+      "name": "Cadu",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Geraldinho",
+      "role": "mentioned",
+      "company": "Vitex",
+      "title": ""
+    },
+    {
+      "name": "Dani",
+      "role": "mentioned",
+      "company": "HubSell",
+      "title": ""
+    },
+    {
+      "name": "Carlos André Montenegro",
+      "role": "mentioned",
+      "company": "Saks",
+      "title": ""
+    },
+    {
+      "name": "Ale",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marcelo Ribeiro",
+      "role": "mentioned",
+      "company": "Ricardo Eletro",
+      "title": ""
+    },
+    {
+      "name": "Rodrigo Maia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Cesar Maia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Luciano Huck",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Walter Sabine Jr.",
+      "role": "mentioned",
+      "company": "Virid",
+      "title": "Executive"
+    },
+    {
+      "name": "Giba",
+      "role": "mentioned",
+      "company": "Local Web",
+      "title": "Colaborador"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "Vetex",
+      "title": "Gestor"
+    },
+    {
+      "name": "Janssen",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Geraldo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jansen",
+      "role": "mentioned",
+      "company": "Local Web",
+      "title": "Empresário"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Loja Integrada",
+      "industry": "E-commerce",
+      "context": "Victor Popper é CEO e sócio, liderando um turnaround na empresa."
+    },
+    {
+      "name": "Localweb",
+      "industry": "Technology",
+      "context": "Victor Popper vendeu sua empresa para a LocalWeb e participou do IPO da companhia em 2020."
+    },
+    {
+      "name": "All In",
+      "industry": "Marketing Technology",
+      "context": "Victor Popper fundou a All In, uma das principais plataformas de e-mail marketing do Brasil."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Plataforma mencionada pelos hosts do podcast."
+    },
+    {
+      "name": "Americanas.Com",
+      "industry": "E-commerce",
+      "context": "Renato Drummond, Quiroga e Xalita mencionados como figuras importantes da empresa."
+    },
+    {
+      "name": "Submarino",
+      "industry": "E-commerce",
+      "context": "Flávio Jansen e Chinonhara mencionados como figuras importantes da empresa."
+    },
+    {
+      "name": "Americanas",
+      "industry": "Retail",
+      "context": "Mentioned in relation to Submarino and Central de Desejos."
+    },
+    {
+      "name": "Elefante",
+      "industry": "Technology",
+      "context": "Discussed as a company Victor worked for."
+    },
+    {
+      "name": "Central De Desejos",
+      "industry": "Technology",
+      "context": "Mentioned as acquiring Elefante."
+    },
+    {
+      "name": "Invent",
+      "industry": "Investment",
+      "context": "Mentioned as a fund investing in internet ventures."
+    },
+    {
+      "name": "Portal Terra",
+      "industry": "Media",
+      "context": "Discussed in relation to agreements with Central de Desejos."
+    },
+    {
+      "name": "Magalu",
+      "industry": "Retail",
+      "context": "Mentioned in relation to Francisco Donato."
+    },
+    {
+      "name": "Sax",
+      "industry": "Retail",
+      "context": "Mentioned in relation to Dudu and Dedé."
+    },
+    {
+      "name": "Buscapé",
+      "industry": "E-commerce",
+      "context": "Mentioned as a client."
+    },
+    {
+      "name": "Telefônica",
+      "industry": "Telecommunications",
+      "context": "Mentioned as a client."
+    },
+    {
+      "name": "Honda",
+      "industry": "Automotive",
+      "context": "Mentioned as a client."
+    },
+    {
+      "name": "Finasco",
+      "industry": "Finance",
+      "context": "Mentioned as a client."
+    },
+    {
+      "name": "Som Livre",
+      "industry": "Media",
+      "context": "Mentioned as a company Victor worked for."
+    },
+    {
+      "name": "Google Adsense",
+      "industry": "Advertising",
+      "context": "Mentioned as a competitor in advertising."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Mentioned as a competitor in e-commerce."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Food Delivery",
+      "context": "Mentioned in relation to Elisson Lemos."
+    },
+    {
+      "name": "Via Varejo",
+      "industry": "Retail",
+      "context": "Mentioned in relation to Ilka."
+    },
+    {
+      "name": "Pernambucanas",
+      "industry": "Retail",
+      "context": "Ilka was an intern at Pernambucanas"
+    },
+    {
+      "name": "Gol",
+      "industry": "Airlines",
+      "context": "Cássio was an intern in accounting at Gol"
+    },
+    {
+      "name": "Yepits",
+      "industry": "Technology",
+      "context": "Victor Popper founded Yepits"
+    },
+    {
+      "name": "Vitex",
+      "industry": "Technology",
+      "context": "Geraldinho was programming the platform at Vitex"
+    },
+    {
+      "name": "Hubsell",
+      "industry": "Technology",
+      "context": "Dani is associated with HubSell"
+    },
+    {
+      "name": "Ricardo Eletro",
+      "industry": "Retail",
+      "context": "Marcelo Ribeiro became president of Ricardo Eletro.com"
+    },
+    {
+      "name": "Walmart",
+      "industry": "Retail",
+      "context": "Marcelo Ribeiro was a director at Walmart"
+    },
+    {
+      "name": "Democratas",
+      "industry": "Politics",
+      "context": "Victor Popper consulted for the Democratas party"
+    },
+    {
+      "name": "Uin",
+      "industry": "Technology",
+      "context": "Company founded by Victor Popper, involved in email marketing and later acquired by Local Web."
+    },
+    {
+      "name": "Local Web",
+      "industry": "Technology",
+      "context": "Acquired UIN in 2013."
+    },
+    {
+      "name": "Virid",
+      "industry": "Technology",
+      "context": "Company mentioned as a competitor in the email marketing space."
+    },
+    {
+      "name": "Vetex",
+      "industry": "Tecnologia",
+      "context": "Empresa associada a Mariano, que ofereceu um novo desafio a Victor Popper."
+    },
+    {
+      "name": "Salesforce",
+      "industry": "Tecnologia",
+      "context": "Empresa mencionada em uma oportunidade de trabalho para Victor Popper."
+    },
+    {
+      "name": "Oracle",
+      "industry": "Software",
+      "context": "Mencionada como ferramenta de CRM"
+    },
+    {
+      "name": "Livraria Cultura",
+      "industry": "Retail",
+      "context": "Exemplo de empresa que criou diferenciação no atendimento ao cliente"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "turnaround",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "e-mail marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "customer journey",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "data-driven",
+      "category": "Analytics"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Business"
+    },
+    {
+      "name": "Networking",
+      "category": "Business"
+    },
+    {
+      "name": "Email Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "AdServer",
+      "category": "Technology"
+    },
+    {
+      "name": "Segmented Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "DHTML",
+      "category": "Technology"
+    },
+    {
+      "name": "Inventory Management",
+      "category": "Business"
+    },
+    {
+      "name": "Affiliate Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Product-Market Fit",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Problem-Solution Fit",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Go Horse",
+      "category": "Project Management"
+    },
+    {
+      "name": "Recurring Revenue",
+      "category": "Business Model"
+    },
+    {
+      "name": "ROI (Return on Investment)",
+      "category": "Business Metric"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "category": "Technology"
+    },
+    {
+      "name": "Clipping",
+      "category": "Media Monitoring"
+    },
+    {
+      "name": "CRM (Customer Relationship Management)",
+      "category": "Business Tool"
+    },
+    {
+      "name": "Earn Out",
+      "category": "Termo de Negócios"
+    },
+    {
+      "name": "Valuation",
+      "category": "Termo de Negócios"
+    },
+    {
+      "name": "Churn",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Live e-commerce",
+      "category": "Tendências de mercado"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelos de negócio"
+    },
+    {
+      "name": "Afiliados",
+      "category": "Marketing"
+    },
+    {
+      "name": "Influenciadores",
+      "category": "Marketing"
+    },
+    {
+      "name": "Análise de dados",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Personalização",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Diferenciação",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Empatia",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "TDAH",
+      "category": "Psychology"
+    },
+    {
+      "name": "Dropshipping",
+      "category": "E-commerce"
+    },
+    {
+      "name": "Aquisição de clientes",
+      "category": "Marketing"
+    },
+    {
+      "name": "Causa e efeito",
+      "category": "Business Analysis"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "5 milhões",
+      "context": "Plano de mídia anual apresentado para a Saps."
+    },
+    {
+      "value": "dezenas de milhões de reais",
+      "context": "Valor da venda da empresa de Victor Popper para a LocalWeb."
+    },
+    {
+      "value": "2020",
+      "context": "Ano do IPO da LocalWeb."
+    },
+    {
+      "value": "400 to 15 employees",
+      "context": "Reduction in Elefante's workforce."
+    },
+    {
+      "value": "90% email open rate",
+      "context": "Effectiveness of email marketing in early 2000s."
+    },
+    {
+      "value": "5x sales increase",
+      "context": "Impact of DHTML implementation on DVD sales."
+    },
+    {
+      "value": "400 million",
+      "context": "Saks was sold for 400 million"
+    },
+    {
+      "value": "100 million",
+      "context": "Buscapé's valuation during partnership discussion"
+    },
+    {
+      "value": "10 thousand per month",
+      "context": "Initial funding from Saks for All In"
+    },
+    {
+      "value": "5 thousand per month",
+      "context": "Consulting fee for monitoring software"
+    },
+    {
+      "value": "5,000",
+      "context": "Monthly cost for the initial software service developed by UIN."
+    },
+    {
+      "value": "5 million",
+      "context": "Annual media plan cost proposed by Globo.com for Sax."
+    },
+    {
+      "value": "100,000",
+      "context": "Initial investment in Globo.com media by Sax."
+    },
+    {
+      "value": "2X",
+      "context": "Valor oferecido pela Local Web na aquisição da All In, com possibilidade de earn out adicional de 1 a 2X."
+    },
+    {
+      "value": "9 anos",
+      "context": "Tempo que Victor Popper permaneceu na Local Web após a venda da All In."
+    },
+    {
+      "value": "5 crianças",
+      "context": "Número de filhos de Victor Popper durante o período mencionado."
+    },
+    {
+      "value": "6 meses",
+      "context": "Tempo desde que Victor Popper assumiu na Loja Integrada"
+    },
+    {
+      "value": "3",
+      "context": "Valor pago pela Ricardo Eletro à All In inicialmente."
+    },
+    {
+      "value": "30",
+      "context": "Valor renegociado pela Ricardo Eletro com a All In."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Buscapé",
+      "target_type": "company"
+    },
+    {
+      "source": "Dedé",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sax",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Eletro",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Email Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "All In",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Local Web",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Earn Out",
+      "target_type": "concept"
+    },
+    {
+      "source": "Romero Rodrigues",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Buscapé",
+      "target_type": "company"
+    },
+    {
+      "source": "Martim",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Submarino",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Elisson Lemos",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Ilka",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Via Varejo",
+      "target_type": "company"
+    },
+    {
+      "source": "Central De Desejos",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Elefante",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Uin",
+      "target_type": "company"
+    },
+    {
+      "source": "Chinonhara",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Submarino",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "All In",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ipo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Flávio Jansen",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Submarino",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mariano",
+      "target_type": "person"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "participated_in",
+      "target": "Ipo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Churn",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Drummond",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Americanas.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Dani",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hubsell",
+      "target_type": "company"
+    },
+    {
+      "source": "Invent",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Central De Desejos",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávio Jansen",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Submarino",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Yepits",
+      "target_type": "company"
+    },
+    {
+      "source": "Geraldinho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vitex",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Local Web",
+      "target_type": "company"
+    },
+    {
+      "source": "Portal Terra",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Central De Desejos",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Valuation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Uin",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "All In",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Vetex",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Umber",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Elefante",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Via Varejo",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Salesforce",
+      "target_type": "company"
+    },
+    {
+      "source": "Xalita",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Americanas.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Uin",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Local Web",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávio Jansen",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Local Web",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Ribeiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Walmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Ribeiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ricardo Eletro",
+      "target_type": "company"
+    },
+    {
+      "source": "Chinonhara",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Submarino",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "sold_to",
+      "target": "Localweb",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Elisson Lemos",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Janssen",
+      "target_type": "person"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Geraldo",
+      "target_type": "person"
+    },
+    {
+      "source": "Quiroga",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Americanas.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Sidney Breyer",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Elefante",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Loja Integrada",
+      "target_type": "company"
+    }
+  ]
+}

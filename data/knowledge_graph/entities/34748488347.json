@@ -1,0 +1,423 @@
+{
+  "episode_id": "34748488347",
+  "title": "BRUNO PERINI: SÓCIO, INVESTIDOR E INFLUENTE",
+  "date_published": 1736973000,
+  "duration": 4222,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Perini",
+      "role": "guest",
+      "company": "Grupo Primo",
+      "title": "Sócio"
+    },
+    {
+      "name": "Thiago Nigro",
+      "role": "mentioned",
+      "company": "Grupo Primo",
+      "title": "Sócio e fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do G4 Podcast"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Flávio Augusto Da Silva",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Robert Kiyosaki",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor de 'Pai Rico Pai Pobre'"
+    },
+    {
+      "name": "Yuval Noah Harari",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor"
+    },
+    {
+      "name": "Jeremy Powell",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autoridade monetária dos EUA"
+    },
+    {
+      "name": "Tiago",
+      "role": "mentioned",
+      "company": "Grupo Primo",
+      "title": "Sócio"
+    },
+    {
+      "name": "Natália",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dulce Herbasa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Roberto Campos Neto",
+      "role": "mentioned",
+      "company": "Banco Central do Brasil",
+      "title": "Presidente"
+    },
+    {
+      "name": "Galípolo",
+      "role": "mentioned",
+      "company": "Banco Central do Brasil",
+      "title": "Futuro Presidente"
+    },
+    {
+      "name": "Glaze Hoffman",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Grupo Primo",
+      "industry": "Educação financeira",
+      "context": "Empresa onde Bruno Perini é sócio e Thiago Nigro é fundador."
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Serviços financeiros",
+      "context": "Empresa que adquiriu a Rico."
+    },
+    {
+      "name": "Rico",
+      "industry": "Serviços financeiros",
+      "context": "Plataforma de investimentos mencionada no contexto de Bruno Perini."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Empresa onde Alfredo Soares e Bruno Nardon são sócios."
+    },
+    {
+      "name": "Grupo Carnaúba",
+      "industry": "Turismo e lazer",
+      "context": "Investimento do G4 Educação no Ceará."
+    },
+    {
+      "name": "Minimal",
+      "industry": "Vestuário",
+      "context": "Marca de camisas básicas mencionada no episódio."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Financeiro",
+      "context": "Mencionado como exemplo de banco sólido para investimentos em CDB"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Financeiro",
+      "context": "Mencionado como exemplo de banco sólido para investimentos em CDB"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia",
+      "context": "Parte das 'sete magníficas' do índice S&P 500"
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotivo",
+      "context": "Parte das 'sete magníficas' do índice S&P 500"
+    },
+    {
+      "name": "Meta",
+      "industry": "Tecnologia",
+      "context": "Parte das 'sete magníficas' do índice S&P 500"
+    },
+    {
+      "name": "Alphabet",
+      "industry": "Tecnologia",
+      "context": "Parte das 'sete magníficas' do índice S&P 500"
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Parte das 'sete magníficas' do índice S&P 500"
+    },
+    {
+      "name": "Nvidia",
+      "industry": "Tecnologia",
+      "context": "Parte das 'sete magníficas' do índice S&P 500"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Equity",
+      "category": "Finanças"
+    },
+    {
+      "name": "Infoproduto",
+      "category": "Marketing digital"
+    },
+    {
+      "name": "Criptomoedas",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Relacionamento de longo prazo",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Bull Market",
+      "category": "Mercado Financeiro"
+    },
+    {
+      "name": "Bitcoin",
+      "category": "Criptomoeda"
+    },
+    {
+      "name": "Tesouro Selic",
+      "category": "Investimento"
+    },
+    {
+      "name": "Tesouro IPCA",
+      "category": "Investimento"
+    },
+    {
+      "name": "CDB de liquidez diária",
+      "category": "Investimento"
+    },
+    {
+      "name": "Reserva de emergência",
+      "category": "Planejamento Financeiro"
+    },
+    {
+      "name": "ETF",
+      "category": "Produto financeiro"
+    },
+    {
+      "name": "S&P 500",
+      "category": "Índice de mercado"
+    },
+    {
+      "name": "IVVB11",
+      "category": "Produto financeiro"
+    },
+    {
+      "name": "IVV",
+      "category": "Produto financeiro"
+    }
+  ],
+  "books": [
+    {
+      "title": "Pai Rico Pai Pobre",
+      "author": "Robert Kiyosaki"
+    },
+    {
+      "title": "Em Nome do Povo",
+      "author": "Bruno Perini"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "5 mil pessoas",
+      "context": "Número de participantes no evento de Robert Kiyosaki."
+    },
+    {
+      "value": "300 mil inscritos",
+      "context": "Número de inscritos no canal do Primo Rico na época mencionada."
+    },
+    {
+      "value": "40 mil seguidores",
+      "context": "Número de seguidores de Bruno Perini no Instagram na época mencionada."
+    },
+    {
+      "value": "17 mil reais por mês",
+      "context": "Valor do contrato inicial de Bruno Perini com a Rico."
+    },
+    {
+      "value": "10 milhões",
+      "context": "Vendas orgânicas mencionadas por Bruno Perini."
+    },
+    {
+      "value": "80%",
+      "context": "Margem de lucro do negócio de Bruno Perini."
+    },
+    {
+      "value": "12% ao ano",
+      "context": "Retorno médio do S&P 500 nos últimos 10 anos"
+    },
+    {
+      "value": "22% ao ano",
+      "context": "Retorno composto do S&P 500 considerando valorização do dólar contra o real"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "S&P 500",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Tesla",
+      "target_type": "company"
+    },
+    {
+      "source": "S&P 500",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Primo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cdb De Liquidez Diária",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Grupo Carnaúba",
+      "target_type": "company"
+    },
+    {
+      "source": "S&P 500",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Meta",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "S&P 500",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tesouro Ipca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Robert Kiyosaki",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Pai Rico Pai Pobre",
+      "target_type": "company"
+    },
+    {
+      "source": "S&P 500",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Nvidia",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Em Nome Do Povo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Etf",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ivv",
+      "target_type": "concept"
+    },
+    {
+      "source": "S&P 500",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Primo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Reserva De Emergência",
+      "target_type": "concept"
+    },
+    {
+      "source": "S&P 500",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Alphabet",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ivvb11",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Criptomoedas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tesouro Selic",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Bitcoin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Nigro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Primo",
+      "target_type": "company"
+    }
+  ]
+}

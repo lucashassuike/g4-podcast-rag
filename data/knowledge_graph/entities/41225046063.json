@@ -1,0 +1,127 @@
+{
+  "episode_id": "41225046063",
+  "title": "[CORTE] COMO ELE CONQUISTOU 1 MILHÃO DE ACESSOS EM 1 ANO (DO ZERO)?",
+  "date_published": 1755032400,
+  "duration": 762,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Rafael",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Iago",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Rock Content",
+      "industry": "Content Marketing",
+      "context": "Startup brasileira onde o convidado trabalhou e aprendeu sobre produção de blogs e SEO."
+    },
+    {
+      "name": "Openai",
+      "industry": "Artificial Intelligence",
+      "context": "Mencionada como desenvolvedora de modelos de IA."
+    },
+    {
+      "name": "Eleven Labs",
+      "industry": "Artificial Intelligence",
+      "context": "Utilizada para desenvolver um agente de IA que realiza ligações para candidatos."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "SEO",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Meta Description",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Automação",
+      "category": "Technology"
+    },
+    {
+      "name": "Inteligência Artificial (IA)",
+      "category": "Technology"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Curadoria Humana",
+      "category": "Process Optimization"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "1,200,000",
+      "context": "Acessos ao blog em um ano."
+    },
+    {
+      "value": "36,000",
+      "context": "Cliques no blog."
+    },
+    {
+      "value": "50,000 reais",
+      "context": "Economia em tráfego orgânico anual."
+    },
+    {
+      "value": "500 reais",
+      "context": "Custo mensal para manter o blog ativo."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rafael",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Seo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Automação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Eficiência Operacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Artificial (Ia)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rock Content",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Curadoria Humana",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "episode_id": "40708111731",
+  "title": "VOCÊ REALMENTE SABE O QUE É FRANCHISING? MARCELO CHERTO EXPLICA | PAPO DE GESTÃO",
+  "date_published": 1753693200,
+  "duration": 3950,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Marcelo Cherto",
+      "role": "guest",
+      "company": "Cherto Consultoria",
+      "title": "Fundador"
+    },
+    {
+      "name": "Marília Roca",
+      "role": "mentioned",
+      "company": "Endeavor Brasil",
+      "title": "Fundadora"
+    },
+    {
+      "name": "Edu Lyra",
+      "role": "mentioned",
+      "company": "Gerando Falcões",
+      "title": "Fundador"
+    },
+    {
+      "name": "Le Maestro",
+      "role": "mentioned",
+      "company": "Gerando Falcões",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Edu Lira",
+      "role": "mentioned",
+      "company": "Gerando Falcões",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "Vitex",
+      "title": "Executive"
+    },
+    {
+      "name": "Beto Sicupira",
+      "role": "mentioned",
+      "company": "3G Capital",
+      "title": "Partner"
+    },
+    {
+      "name": "Sandra",
+      "role": "mentioned",
+      "company": "Axer",
+      "title": "Client"
+    },
+    {
+      "name": "João Apolinário",
+      "role": "mentioned",
+      "company": "Polishop",
+      "title": "Founder"
+    },
+    {
+      "name": "Apolinário",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tamila",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Chain",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcast",
+      "industry": "Mídia",
+      "context": "Plataforma do podcast"
+    },
+    {
+      "name": "Endeavor Brasil",
+      "industry": "Empreendedorismo",
+      "context": "Organização mencionada por Marcelo Cherto"
+    },
+    {
+      "name": "Gerando Falcões",
+      "industry": "ONG",
+      "context": "Organização mencionada como exemplo de trabalho com franquias"
+    },
+    {
+      "name": "Axer",
+      "industry": "Consulting",
+      "context": "Franchise and business expansion consulting"
+    },
+    {
+      "name": "Vitex",
+      "industry": "E-commerce",
+      "context": "Digital commerce solutions"
+    },
+    {
+      "name": "O Boticário",
+      "industry": "Cosmetics",
+      "context": "Franchise operations in cosmetics"
+    },
+    {
+      "name": "Burger King",
+      "industry": "Food and Beverage",
+      "context": "Franchise operations in fast food"
+    },
+    {
+      "name": "Outback Steakhouse",
+      "industry": "Food and Beverage",
+      "context": "Franchise operations in casual dining"
+    },
+    {
+      "name": "Coco Bambu",
+      "industry": "Food and Beverage",
+      "context": "Franchise operations in casual dining"
+    },
+    {
+      "name": "Grupo Seb",
+      "industry": "Education",
+      "context": "Mentioned as a client and investor in franchising businesses."
+    },
+    {
+      "name": "Maple Bear",
+      "industry": "Education",
+      "context": "Discussed as a franchising business acquired and expanded by Grupo SEB."
+    },
+    {
+      "name": "Gelato Borelli",
+      "industry": "Food and Beverage",
+      "context": "Discussed as a franchising business acquired by Grupo SEB."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Franchising",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Marketing",
+      "category": "Estratégia de Negócio"
+    },
+    {
+      "name": "Nichos de Mercado",
+      "category": "Estratégia de Negócio"
+    },
+    {
+      "name": "Padronização Operacional",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Engineering Taxation",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Humility in Leadership",
+      "category": "Leadership principles"
+    },
+    {
+      "name": "Multifranchise Ownership",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Physical and Digital Integration",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Sócio Operador",
+      "category": "Business Model"
+    },
+    {
+      "name": "Master Franquia",
+      "category": "Business Model"
+    },
+    {
+      "name": "Family Office",
+      "category": "Finance"
+    }
+  ],
+  "books": [
+    {
+      "title": "Marketing de Brasileiros para Brasileiros",
+      "author": "Marcos Cobra"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "25 anos",
+      "context": "Tempo de atuação da Endeavor no Brasil"
+    },
+    {
+      "value": "60% a 70%",
+      "context": "Proporção de projetos não relacionados a franquias na consultoria de Marcelo Cherto nos últimos três anos"
+    },
+    {
+      "value": "6,600 favelas",
+      "context": "Expansion of Gerando Falcões presence"
+    },
+    {
+      "value": "180 stores",
+      "context": "Franchise operations of O Boticário and Quem Disse Berenice"
+    },
+    {
+      "value": "500-600 million BRL/year",
+      "context": "Revenue of a franchisee of O Boticário"
+    },
+    {
+      "value": "500 stores",
+      "context": "Expansion of Sandra's franchise business"
+    },
+    {
+      "value": "500 lojas",
+      "context": "Number of stores mentioned in the context of a franchising business."
+    },
+    {
+      "value": "15%-17%",
+      "context": "Percentage of global business acquired by Grupo SEB in Maple Bear."
+    },
+    {
+      "value": "100%",
+      "context": "Ownership of Maple Bear global acquired by Grupo SEB."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Edu Lyra",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Seb",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Maple Bear",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Humility In Leadership",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cherto Consultoria",
+      "target_type": "company"
+    },
+    {
+      "source": "Coco Bambu",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sócio Operador",
+      "target_type": "concept"
+    },
+    {
+      "source": "Grupo Seb",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Gelato Borelli",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nichos De Mercado",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Multifranchise Ownership",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Physical And Digital Integration",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Engineering Taxation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marília Roca",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Endeavor Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Axer",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Franchising",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sandra",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Axer",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Axer",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Padronização Operacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Le Maestro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Le Maestro",
+      "source_type": "person",
+      "relation": "co-founded",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Edu Lira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Outback Steakhouse",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sócio Operador",
+      "target_type": "concept"
+    }
+  ]
+}

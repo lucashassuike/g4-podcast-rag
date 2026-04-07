@@ -1,0 +1,522 @@
+{
+  "episode_id": "34748488532",
+  "title": "Como Ele Revolucionou a Publicidade? - Com Allan Barros (Aceleraí) | Papo de Gestão",
+  "date_published": 1696840200,
+  "duration": 4908,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Allan Barros",
+      "role": "guest",
+      "company": "Aceleraí",
+      "title": "Founder"
+    },
+    {
+      "name": "Rodrigo Faro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Celebrity"
+    },
+    {
+      "name": "Kauan Raymond",
+      "role": "mentioned",
+      "company": "",
+      "title": "Celebrity"
+    },
+    {
+      "name": "Juliana Paz",
+      "role": "mentioned",
+      "company": "",
+      "title": "Celebrity"
+    },
+    {
+      "name": "Débora Seco",
+      "role": "mentioned",
+      "company": "",
+      "title": "Celebrity"
+    },
+    {
+      "name": "Giovana Antonelli",
+      "role": "mentioned",
+      "company": "",
+      "title": "Celebrity"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Platform for leadership and business training."
+    },
+    {
+      "name": "Aceleraí",
+      "industry": "Advertising",
+      "context": "Platform for shared advertising content with celebrities."
+    },
+    {
+      "name": "Agência Pulse",
+      "industry": "Advertising",
+      "context": "Advertising agency founded by Allan Barros."
+    },
+    {
+      "name": "Grupo Artplan",
+      "industry": "Advertising",
+      "context": "Parent company of Dreamers, associated with Rock in Rio and The Town."
+    },
+    {
+      "name": "Dreamers",
+      "industry": "Advertising",
+      "context": "Advertising agency known for Rock in Rio and The Town."
+    },
+    {
+      "name": "Máquina De Vendas",
+      "industry": "Retail",
+      "context": "Retail company where Allan Barros worked."
+    },
+    {
+      "name": "Casas Bahia",
+      "industry": "Retail",
+      "context": "Retail company where Allan Barros worked."
+    },
+    {
+      "name": "Insinuante",
+      "industry": "Retail",
+      "context": "Retail company where Allan Barros worked."
+    },
+    {
+      "name": "Marabás",
+      "industry": "Retail",
+      "context": "Retail company where Allan Barros worked."
+    },
+    {
+      "name": "Pulse",
+      "industry": "Marketing e Publicidade",
+      "context": "Empresa fundada por Allan Barros após sua saída do grupo Totalcon."
+    },
+    {
+      "name": "Totalcon",
+      "industry": "Comunicação",
+      "context": "Grupo de comunicação mencionado como antigo empregador de Allan Barros."
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Discussed as an example of e-commerce strategy and challenges."
+    },
+    {
+      "name": "Dafiti",
+      "industry": "E-commerce",
+      "context": "Mentioned in the context of e-commerce competition."
+    },
+    {
+      "name": "Netshoes",
+      "industry": "E-commerce",
+      "context": "Mentioned in the context of e-commerce competition."
+    },
+    {
+      "name": "Centauro",
+      "industry": "Retail",
+      "context": "Mentioned in the context of e-commerce competition."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Discussed as a major competitor in the e-commerce space."
+    },
+    {
+      "name": "B2W",
+      "industry": "E-commerce",
+      "context": "Mentioned as a major competitor in the e-commerce space."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Mentioned as a major competitor in the e-commerce space."
+    },
+    {
+      "name": "Loja 100",
+      "industry": "Retail",
+      "context": "Discussed as a case study in retail strategy."
+    },
+    {
+      "name": "Ibmec",
+      "industry": "Educação",
+      "context": "Instituição de ensino mencionada pelo convidado."
+    },
+    {
+      "name": "Fgv",
+      "industry": "Educação",
+      "context": "Instituição de ensino mencionada pelo convidado."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Leadership",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Business Model"
+    },
+    {
+      "name": "Retail",
+      "category": "Industry"
+    },
+    {
+      "name": "Advertising",
+      "category": "Marketing"
+    },
+    {
+      "name": "Creativity",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Small Business Advertising",
+      "category": "Marketing"
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "category": "Technology"
+    },
+    {
+      "name": "Netflix of Advertising",
+      "category": "Business Model"
+    },
+    {
+      "name": "Churn",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Cohort Analysis",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Lifetime Value (LTV)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Transformação Digital",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Black Friday",
+      "category": "Retail Strategy"
+    },
+    {
+      "name": "Retail Efficiency",
+      "category": "Operational Strategy"
+    },
+    {
+      "name": "Margin Management",
+      "category": "Financial Strategy"
+    },
+    {
+      "name": "Product Recurrence",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Gestão de estoque",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Eficiência na cadeia de suprimentos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Administração",
+      "category": "Educação"
+    },
+    {
+      "name": "Economia",
+      "category": "Educação"
+    },
+    {
+      "name": "Engenharia",
+      "category": "Educação"
+    },
+    {
+      "name": "Especialização em marketing",
+      "category": "Educação"
+    },
+    {
+      "name": "Transformação tecnológica no marketing",
+      "category": "Tendência de mercado"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "7 days free trial",
+      "context": "G4 Skills platform offering for leadership training."
+    },
+    {
+      "value": "25,000 car dealerships",
+      "context": "Number of car dealerships in Brazil studied by Aceleraí."
+    },
+    {
+      "value": "500 million BRL",
+      "context": "Annual investment in advertising by car dealerships in Brazil."
+    },
+    {
+      "value": "10,000 BRL",
+      "context": "Cost for a complete advertising package using celebrities via Aceleraí."
+    },
+    {
+      "value": "70% more engagement",
+      "context": "Increase in engagement when using celebrity content in advertising."
+    },
+    {
+      "value": "2008-2013",
+      "context": "Período em que Allan Barros trabalhou no grupo Totalcon."
+    },
+    {
+      "value": "2015",
+      "context": "Ano de fundação da Pulse por Allan Barros."
+    },
+    {
+      "value": "70%-75%",
+      "context": "Percentage of businesses not meeting their targets as discussed."
+    },
+    {
+      "value": "R$ 49,90",
+      "context": "Threshold for free shipping in early e-commerce strategies."
+    },
+    {
+      "value": "R$ 99,90",
+      "context": "Adjusted threshold for free shipping in Canoe's strategy."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aceleraí",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Transformação Digital",
+      "target_type": "concept"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "studied_at",
+      "target": "Fgv",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Eficiência Na Cadeia De Suprimentos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dreamers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rock In Rio",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Planejamento Estratégico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Churn",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dafiti",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "studied_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Estoque",
+      "target_type": "concept"
+    },
+    {
+      "source": "Agência Pulse",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Grupo Artplan",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "E-Commerce",
+      "target_type": "concept"
+    },
+    {
+      "source": "Grupo Artplan",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dreamers",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Transformação Tecnológica No Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Agência Pulse",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "studied_at",
+      "target": "Ibmec",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Pulse",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Black Friday",
+      "target_type": "concept"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lifetime Value (Ltv)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dreamers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "The Town",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Aceleraí",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Totalcon",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cohort Analysis",
+      "target_type": "concept"
+    }
+  ]
+}

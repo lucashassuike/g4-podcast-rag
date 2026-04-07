@@ -1,0 +1,732 @@
+{
+  "episode_id": "35247301880",
+  "title": "OS DESAFIOS DE UM CHEF 2 ESTRELAS MICHELIN COM ALEX ATALA | VOX LUMINIS",
+  "date_published": 1742806800,
+  "duration": 5722,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Alex Atala",
+      "role": "guest",
+      "company": "Dom",
+      "title": "Chef"
+    },
+    {
+      "name": "Matt Montenegro",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Demian Maia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Jiu-Jitsu Instructor"
+    },
+    {
+      "name": "Marcelo Bering",
+      "role": "mentioned",
+      "company": "",
+      "title": "Jiu-Jitsu Instructor"
+    },
+    {
+      "name": "Caetano Veloso",
+      "role": "mentioned",
+      "company": "",
+      "title": "Musician"
+    },
+    {
+      "name": "Emanuel Araújo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artist"
+    },
+    {
+      "name": "Bobardi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Architect"
+    },
+    {
+      "name": "Ariano Suassuna",
+      "role": "mentioned",
+      "company": "Instituto Onça Malhada",
+      "title": "Escritor"
+    },
+    {
+      "name": "Vila Lobos",
+      "role": "mentioned",
+      "company": "",
+      "title": "Compositor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Guilherme",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Lange",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Flávia Quaresma",
+      "role": "mentioned",
+      "company": "GNT",
+      "title": "Chef"
+    },
+    {
+      "name": "Giovanni",
+      "role": "mentioned",
+      "company": "D.O.M.",
+      "title": "Team Member"
+    },
+    {
+      "name": "Luciano",
+      "role": "mentioned",
+      "company": "D.O.M.",
+      "title": "Team Member"
+    },
+    {
+      "name": "Rubens",
+      "role": "mentioned",
+      "company": "D.O.M.",
+      "title": "Former Team Member"
+    },
+    {
+      "name": "Thaís",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rickson Grace",
+      "role": "mentioned",
+      "company": "",
+      "title": "Martial Artist"
+    },
+    {
+      "name": "Kelly Slater",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfer"
+    },
+    {
+      "name": "Flávio Canto",
+      "role": "mentioned",
+      "company": "",
+      "title": "Judoka"
+    },
+    {
+      "name": "Rickson Gracie",
+      "role": "mentioned",
+      "company": "",
+      "title": "Lutador de Jiu-Jitsu"
+    },
+    {
+      "name": "René Redzepi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Chef"
+    },
+    {
+      "name": "David Chang",
+      "role": "mentioned",
+      "company": "",
+      "title": "Chef"
+    },
+    {
+      "name": "Danilo Gentili",
+      "role": "mentioned",
+      "company": "SBT",
+      "title": "Apresentador"
+    },
+    {
+      "name": "Luiz Felipe",
+      "role": "mentioned",
+      "company": "",
+      "title": "Possível membro da família real"
+    },
+    {
+      "name": "Marquês De Pombal",
+      "role": "mentioned",
+      "company": "",
+      "title": "Historical figure"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Dom",
+      "industry": "Hospitality",
+      "context": "Restaurant owned and managed by Alex Atala"
+    },
+    {
+      "name": "Dalvidito",
+      "industry": "Hospitality",
+      "context": "Restaurant owned by Alex Atala"
+    },
+    {
+      "name": "Sete Gastronomia",
+      "industry": "Hospitality",
+      "context": "Catering business co-owned by Alex Atala"
+    },
+    {
+      "name": "Btg",
+      "industry": "Finance",
+      "context": "Brand associated with Alex Atala"
+    },
+    {
+      "name": "Instituto Onça Malhada",
+      "industry": "Cultura",
+      "context": "Instituição cultural associada a Ariano Suassuna"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Empresa co-fundada pelos hosts do podcast"
+    },
+    {
+      "name": "Gnt",
+      "industry": "Mídia",
+      "context": "Canal de televisão onde Alex Atala apresentou um programa"
+    },
+    {
+      "name": "Dom Restaurante",
+      "industry": "Hospitality",
+      "context": "Alex Atala's primary business and passion"
+    },
+    {
+      "name": "D.O.M.",
+      "industry": "Restaurant",
+      "context": "Alex Atala's restaurant"
+    },
+    {
+      "name": "Time Magazine",
+      "industry": "Mídia",
+      "context": "Alex Atala foi capa da revista em 2015."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Culinária Brasileira",
+      "category": "Cultural Concept"
+    },
+    {
+      "name": "Estrela Michelin",
+      "category": "Culinary Recognition"
+    },
+    {
+      "name": "Menu Degustação",
+      "category": "Culinary Concept"
+    },
+    {
+      "name": "Artesanato e Arte",
+      "category": "Cultural Concept"
+    },
+    {
+      "name": "Cozinha Brasileira",
+      "category": "Gastronomia"
+    },
+    {
+      "name": "Cozinha Autoral",
+      "category": "Gastronomia"
+    },
+    {
+      "name": "Excelência Operacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Construção de Produto",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "CMV (Custo de Mercadoria Vendida)",
+      "category": "Métrica Financeira"
+    },
+    {
+      "name": "Consistência",
+      "category": "Princípio de Negócios"
+    },
+    {
+      "name": "Tailor-made",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "CEO",
+      "category": "Função Executiva"
+    },
+    {
+      "name": "Estrelas Michelin",
+      "category": "Prêmios e Reconhecimentos"
+    },
+    {
+      "name": "Chef's Table",
+      "category": "Conteúdo e Mídia"
+    },
+    {
+      "name": "Cozinha de assinatura",
+      "category": "Modelos de Negócio"
+    },
+    {
+      "name": "Jiu-jitsu",
+      "category": "Esportes e Filosofia de Vida"
+    },
+    {
+      "name": "pandemia",
+      "category": "Event"
+    },
+    {
+      "name": "legado",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "emotional resilience",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Michelin Stars",
+      "category": "Awards"
+    },
+    {
+      "name": "Capex",
+      "category": "Finance"
+    },
+    {
+      "name": "Cost Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Leadership",
+      "category": "Management"
+    },
+    {
+      "name": "Team Building",
+      "category": "Management"
+    },
+    {
+      "name": "Restaurant Margins",
+      "category": "Finance"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "category": "Technology"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Educação alimentar",
+      "category": "Iniciativa social"
+    },
+    {
+      "name": "Biodiversidade",
+      "category": "Sustentabilidade"
+    },
+    {
+      "name": "Hotelaria",
+      "category": "Indústria"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Negócios"
+    },
+    {
+      "name": "subsistence level",
+      "category": "Economic concept"
+    },
+    {
+      "name": "education",
+      "category": "Social concept"
+    },
+    {
+      "name": "healthcare",
+      "category": "Social concept"
+    },
+    {
+      "name": "software update",
+      "category": "Metaphor for societal improvement"
+    },
+    {
+      "name": "education in Brazil",
+      "category": "Historical and social concept"
+    },
+    {
+      "name": "restoration industry",
+      "category": "Business sector"
+    },
+    {
+      "name": "high-performance teams",
+      "category": "Management concept"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Auto da Compadecida",
+      "author": "Ariano Suassuna"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "2",
+      "context": "Number of Michelin stars awarded to Dom"
+    },
+    {
+      "value": "4-5",
+      "context": "Number of podcast episodes recorded per year"
+    },
+    {
+      "value": "50 pessoas por dia",
+      "context": "Capacidade de atendimento do restaurante Dom"
+    },
+    {
+      "value": "12 a 15 passos",
+      "context": "Quantidade de pratos no menu degustação do Dom"
+    },
+    {
+      "value": "25 anos",
+      "context": "Tempo de operação do restaurante Dom"
+    },
+    {
+      "value": "15 anos",
+      "context": "Tempo de operação do restaurante Dovidito"
+    },
+    {
+      "value": "40 anos",
+      "context": "Tempo de experiência profissional de Alex Atala"
+    },
+    {
+      "value": "50 pessoas por dia",
+      "context": "Capacidade de atendimento do restaurante Dom"
+    },
+    {
+      "value": "500 mil assinantes",
+      "context": "Número de assinantes do canal de YouTube de Alex Atala"
+    },
+    {
+      "value": "500,000",
+      "context": "Subscribers on Alex Atala's channel"
+    },
+    {
+      "value": "200,000,000",
+      "context": "Investment in a hotel project by Alex Atala"
+    },
+    {
+      "value": "28 years",
+      "context": "Giovanni and Luciano's tenure at D.O.M."
+    },
+    {
+      "value": "8-10%",
+      "context": "Current restaurant profit margins"
+    },
+    {
+      "value": "12-17%",
+      "context": "Past restaurant profit margins"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jiu-Jitsu",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "D.O.M.",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dom",
+      "target_type": "company"
+    },
+    {
+      "source": "Kelly Slater",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alex Atala",
+      "target_type": "person"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "René Redzepi",
+      "target_type": "person"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Chef'S Table",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Estrelas Michelin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Kelly Slater",
+      "target_type": "person"
+    },
+    {
+      "source": "Dom",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dalvidito",
+      "target_type": "company"
+    },
+    {
+      "source": "Rickson Grace",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alex Atala",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Dom Restaurante",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "D.O.M.",
+      "target_type": "company"
+    },
+    {
+      "source": "Bobardi",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Emanuel Araújo",
+      "target_type": "person"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Marcelo Bering",
+      "target_type": "person"
+    },
+    {
+      "source": "Giovanni",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "D.O.M.",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rickson Gracie",
+      "target_type": "person"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hotelaria",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Dalvidito",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Biodiversidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Flávia Quaresma",
+      "target_type": "person"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dom Restaurante",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Luiz Felipe",
+      "target_type": "person"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sete Gastronomia",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávia Quaresma",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gnt",
+      "target_type": "company"
+    },
+    {
+      "source": "Luciano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "D.O.M.",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Dom",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Btg",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Educação Alimentar",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bobardi",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Maragogipinho",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "David Chang",
+      "target_type": "person"
+    },
+    {
+      "source": "Flávio Canto",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alex Atala",
+      "target_type": "person"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Danilo Gentili",
+      "target_type": "person"
+    },
+    {
+      "source": "Alex Atala",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Demian Maia",
+      "target_type": "person"
+    },
+    {
+      "source": "Bobardi",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Caetano Veloso",
+      "target_type": "person"
+    },
+    {
+      "source": "Ariano Suassuna",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Instituto Onça Malhada",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

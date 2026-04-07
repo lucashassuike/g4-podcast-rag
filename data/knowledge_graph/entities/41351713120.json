@@ -1,0 +1,217 @@
+{
+  "episode_id": "41351713120",
+  "title": "COMO VIRAR O JOGO E LEVAR OS NEGÓCIOS PARA A ERA DE OURO COM LÁSARO DO CARMO | EXTREMOS",
+  "date_published": 1755248400,
+  "duration": 4308,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Lázaro Do Carmo",
+      "role": "guest",
+      "company": "Grupo Silvio Santos",
+      "title": "Conselheiro"
+    },
+    {
+      "name": "Silvio Santos",
+      "role": "mentioned",
+      "company": "Grupo Silvio Santos",
+      "title": "Empresário"
+    },
+    {
+      "name": "Joel J",
+      "role": "mentioned",
+      "company": "",
+      "title": "Podcaster"
+    },
+    {
+      "name": "Paulo Vieira",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Lásaro Do Carmo",
+      "role": "guest",
+      "company": "GQT",
+      "title": "Turnaround Specialist"
+    },
+    {
+      "name": "Sandoval",
+      "role": "mentioned",
+      "company": "Grupo Silvio Santos",
+      "title": "Former President"
+    },
+    {
+      "name": "Marcial",
+      "role": "mentioned",
+      "company": "Grupo Silvio Santos",
+      "title": "Vice-President"
+    },
+    {
+      "name": "Corsi",
+      "role": "mentioned",
+      "company": "Grupo Silvio Santos",
+      "title": "Vice-President"
+    },
+    {
+      "name": "Guilherme Stoliar",
+      "role": "mentioned",
+      "company": "Grupo Silvio Santos",
+      "title": "President"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Oferece programas de educação empresarial para empreendedores."
+    },
+    {
+      "name": "Grupo Silvio Santos",
+      "industry": "Diversos",
+      "context": "Conglomerado de empresas fundado por Silvio Santos."
+    },
+    {
+      "name": "Gqt",
+      "industry": "Cosméticos",
+      "context": "Empresa de cosméticos do Grupo Silvio Santos."
+    },
+    {
+      "name": "Coty",
+      "industry": "Cosméticos",
+      "context": "Empresa internacional de cosméticos mencionada em negociações."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Capital de giro",
+      "category": "Finanças"
+    },
+    {
+      "name": "Turnaround",
+      "category": "Gestão"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão inteligente",
+      "category": "Gestão"
+    },
+    {
+      "name": "Conselho empresarial",
+      "category": "Governança"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Financial Metric"
+    },
+    {
+      "name": "Holding Structure",
+      "category": "Corporate Structure"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "150 empresas",
+      "context": "Número de empresas abertas por Silvio Santos."
+    },
+    {
+      "value": "39 empresas",
+      "context": "Número de empresas atualmente no Grupo Silvio Santos."
+    },
+    {
+      "value": "220 mil",
+      "context": "Número de revendedores na GQT ao final da gestão de Lázaro do Carmo."
+    },
+    {
+      "value": "25 milhões",
+      "context": "Perda financeira em uma negociação nos Estados Unidos."
+    },
+    {
+      "value": "50 million to 400 million",
+      "context": "Revenue growth achieved during a turnaround"
+    },
+    {
+      "value": "80 million",
+      "context": "Revenue from perfume sales in less than a year"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Lásaro Do Carmo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gqt",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Stoliar",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Silvio Santos",
+      "target_type": "company"
+    },
+    {
+      "source": "Silvio Santos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Silvio Santos",
+      "target_type": "company"
+    },
+    {
+      "source": "Lázaro Do Carmo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Joel J",
+      "target_type": "person"
+    },
+    {
+      "source": "Lázaro Do Carmo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Silvio Santos",
+      "target_type": "company"
+    },
+    {
+      "source": "Lázaro Do Carmo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Gqt",
+      "target_type": "company"
+    },
+    {
+      "source": "Lázaro Do Carmo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Paulo Vieira",
+      "target_type": "person"
+    }
+  ]
+}

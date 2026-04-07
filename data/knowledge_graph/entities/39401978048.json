@@ -1,0 +1,205 @@
+{
+  "episode_id": "39401978048",
+  "title": "OBRAS DE LUXO EXIGEM GESTÃO DE ALTO NÍVEL COM ESTEVÃO FARKASVOLGYI | PAPO DE GESTÃO",
+  "date_published": 1751274000,
+  "duration": 4081,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Estevão Farkasvolgyi",
+      "role": "guest",
+      "company": "Boutique Construtora",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Unnamed Bank",
+      "title": "Vice President"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Boutique Construtora",
+      "industry": "Construction",
+      "context": "Specialized in high-value luxury projects"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Provides entrepreneurial education and mentorship"
+    },
+    {
+      "name": "Farkasvolgyi Arquitetura",
+      "industry": "Architecture and Construction",
+      "context": "Estevão Farkasvolgyi is associated with this company."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Club",
+      "category": "Membership Program"
+    },
+    {
+      "name": "Gestão Estratégica",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "High-value luxury construction",
+      "category": "Industry Segment"
+    },
+    {
+      "name": "Instagram",
+      "category": "Social Media"
+    },
+    {
+      "name": "Project Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Construction Quality Standards",
+      "category": "Operational Excellence"
+    },
+    {
+      "name": "Perfil Cliente Ideal (PCI)",
+      "category": "framework"
+    },
+    {
+      "name": "reputação e precificação",
+      "category": "business strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "250 million BRL",
+      "context": "Volume of construction projects in 2012"
+    },
+    {
+      "value": "700-800 million BRL",
+      "context": "Updated volume of construction projects"
+    },
+    {
+      "value": "2 million square meters",
+      "context": "Total constructed area by Estevão Farkasvolgyi"
+    },
+    {
+      "value": "500 obras",
+      "context": "Total number of projects completed by Estevão Farkasvolgyi."
+    },
+    {
+      "value": "2 milhões de metros quadrados",
+      "context": "Total area constructed by Estevão Farkasvolgyi."
+    },
+    {
+      "value": "R$250,000 per month",
+      "context": "Administration fee for luxury houses."
+    },
+    {
+      "value": "R$1,600,000",
+      "context": "Proposed settlement amount in a legal dispute."
+    },
+    {
+      "value": "23.5% ownership",
+      "context": "Estevão Farkasvolgyi's stake in a hotel project."
+    },
+    {
+      "value": "100 milhões de reais",
+      "context": "valor do hotel mencionado no Pará"
+    },
+    {
+      "value": "23,5%",
+      "context": "participação de Estevão Farkasvolgyi no hotel"
+    },
+    {
+      "value": "3 a 4 milhões",
+      "context": "faturamento digital estimado para o ano"
+    },
+    {
+      "value": "mais de 100 milhões",
+      "context": "valor total das obras em 2025"
+    },
+    {
+      "value": "530 metros quadrados",
+      "context": "tamanho do apartamento de Estevão Farkasvolgyi"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Estevão Farkasvolgyi",
+      "source_type": "person",
+      "relation": "member_of",
+      "target": "G4 Club",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Estevão Farkasvolgyi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Project Management",
+      "target_type": "concept"
+    },
+    {
+      "source": "Estevão Farkasvolgyi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Farkasvolgyi Arquitetura",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Unnamed Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Estevão Farkasvolgyi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Construction Quality Standards",
+      "target_type": "concept"
+    },
+    {
+      "source": "Estevão Farkasvolgyi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Instagram",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Perfil Cliente Ideal (Pci)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Estevão Farkasvolgyi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Boutique Construtora",
+      "target_type": "company"
+    },
+    {
+      "source": "Estevão Farkasvolgyi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Hotel No Pará",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "episode_id": "34748488558",
+  "title": "Como viver mais? - As Maiores Lições do Livro Outlive | Sem Atalhos",
+  "date_published": 1692779400,
+  "duration": 1780,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Peter Attia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Médico de Longevidade"
+    },
+    {
+      "name": "Ícaro De Carvalho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Escola de negócios mencionada como local de trabalho de Thay Dantas"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Longevidade",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "Doenças Cardiovasculares",
+      "category": "Saúde"
+    },
+    {
+      "name": "Zona 2 de Exercício",
+      "category": "Saúde e Fitness"
+    },
+    {
+      "name": "VO2 Máximo",
+      "category": "Saúde e Fitness"
+    },
+    {
+      "name": "Exercícios de Força",
+      "category": "Saúde e Fitness"
+    },
+    {
+      "name": "Estilo de Vida Saudável",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "detecção precoce do câncer",
+      "category": "medical"
+    },
+    {
+      "name": "ressonância magnética",
+      "category": "medical"
+    },
+    {
+      "name": "score de cálcio",
+      "category": "medical"
+    },
+    {
+      "name": "colonoscopia",
+      "category": "medical"
+    },
+    {
+      "name": "tomografia de pulmão",
+      "category": "medical"
+    },
+    {
+      "name": "apneia do sono",
+      "category": "medical"
+    },
+    {
+      "name": "doenças metabólicas",
+      "category": "medical"
+    },
+    {
+      "name": "diabetes",
+      "category": "medical"
+    },
+    {
+      "name": "índice glicêmico",
+      "category": "nutrition"
+    },
+    {
+      "name": "doenças neurodegenerativas",
+      "category": "medical"
+    },
+    {
+      "name": "Alzheimer",
+      "category": "medical"
+    },
+    {
+      "name": "rapamycin",
+      "category": "medical"
+    }
+  ],
+  "books": [
+    {
+      "title": "Outlive",
+      "author": "Peter Attia"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "120 minutos por semana",
+      "context": "Tempo mínimo recomendado para exercícios de zona 2"
+    },
+    {
+      "value": "1.8 a 2 gramas de proteína por quilo",
+      "context": "quantidade ideal de proteína para praticantes de exercício físico"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Detecção Precoce Do Câncer",
+      "target_type": "concept"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Apneia Do Sono",
+      "target_type": "concept"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Rapamycin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Doenças Metabólicas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Doenças Neurodegenerativas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Colonoscopia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Índice Glicêmico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ressonância Magnética",
+      "target_type": "concept"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Score De Cálcio",
+      "target_type": "concept"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Diabetes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Outlive",
+      "target_type": "company"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Outlive",
+      "target_type": "company"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alzheimer",
+      "target_type": "concept"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tomografia De Pulmão",
+      "target_type": "concept"
+    }
+  ]
+}

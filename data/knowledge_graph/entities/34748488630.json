@@ -1,0 +1,260 @@
+{
+  "episode_id": "34748488630",
+  "title": "Renan Chieppe (Águia Branca) - Sucessão, Gestão e Inovação em Empresas Familiares | Papo de Gestão",
+  "date_published": 1668069633,
+  "duration": 3012,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Renan Chieppe",
+      "role": "guest",
+      "company": "Grupo Águia Branca",
+      "title": "Presidente"
+    },
+    {
+      "name": "Patrícia",
+      "role": "mentioned",
+      "company": "Grupo Águia Branca",
+      "title": "Diretora Executiva da Área de Logística"
+    },
+    {
+      "name": "David Neeleman",
+      "role": "mentioned",
+      "company": "Azul",
+      "title": "Fundador"
+    },
+    {
+      "name": "David",
+      "role": "mentioned",
+      "company": "Skywest",
+      "title": "Executive"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Grupo Águia Branca",
+      "industry": "Transporte e Logística",
+      "context": "Empresa familiar discutida no episódio"
+    },
+    {
+      "name": "Azul",
+      "industry": "Aviação",
+      "context": "Parceria e investimento do Grupo Águia Branca"
+    },
+    {
+      "name": "Agastur",
+      "industry": "Turismo",
+      "context": "Empresa adquirida pelo Grupo Águia Branca"
+    },
+    {
+      "name": "Skywest",
+      "industry": "Aviação",
+      "context": "Investidor no projeto de aviação do Grupo Águia Branca"
+    },
+    {
+      "name": "Águia Branca",
+      "industry": "Transportation",
+      "context": "Discussed as a family business with strategic growth plans."
+    },
+    {
+      "name": "Trip",
+      "industry": "Aviation",
+      "context": "Discussed in the context of a merger with Azul."
+    },
+    {
+      "name": "Vix Logística",
+      "industry": "Logistics",
+      "context": "Mentioned as a company within the Águia Branca group with governance P3."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Promoted as providing mentorship and business education."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Governança Corporativa",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Profissionalização",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Meritocracia",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia de Crescimento"
+    },
+    {
+      "name": "Aviação Regional",
+      "category": "Indústria"
+    },
+    {
+      "name": "M&A",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Governance P3",
+      "category": "Corporate Governance"
+    },
+    {
+      "name": "Debênture",
+      "category": "Finance"
+    },
+    {
+      "name": "Business Plan",
+      "category": "Strategic Planning"
+    },
+    {
+      "name": "Cash Generation vs Value Generation",
+      "category": "Financial Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "18,000",
+      "context": "Número de colaboradores do Grupo Águia Branca antes da pandemia"
+    },
+    {
+      "value": "85%",
+      "context": "Redução de operações rodoviárias durante a pandemia"
+    },
+    {
+      "value": "700",
+      "context": "Número de participantes esperados no fórum estratégico do Grupo Águia Branca em 22 de novembro"
+    },
+    {
+      "value": "40 ATRs and 20 Embraer jets",
+      "context": "Fleet size discussed in aviation business."
+    },
+    {
+      "value": "26% ownership",
+      "context": "Skywest's stake in the aviation business."
+    },
+    {
+      "value": "7 billion BRL in 2019",
+      "context": "Águia Branca's revenue before the pandemic."
+    },
+    {
+      "value": "15 billion BRL in 2025",
+      "context": "Águia Branca's revenue target in strategic plan."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Renan Chieppe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Debênture",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Skywest",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Trip",
+      "target_type": "company"
+    },
+    {
+      "source": "Renan Chieppe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "M&A",
+      "target_type": "concept"
+    },
+    {
+      "source": "Grupo Águia Branca",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Agastur",
+      "target_type": "company"
+    },
+    {
+      "source": "Trip",
+      "source_type": "company",
+      "relation": "merged_with",
+      "target": "Azul",
+      "target_type": "company"
+    },
+    {
+      "source": "Renan Chieppe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Business Plan",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renan Chieppe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governance P3",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renan Chieppe",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Águia Branca",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Águia Branca",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Skywest",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Águia Branca",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Azul",
+      "target_type": "company"
+    },
+    {
+      "source": "Renan Chieppe",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Águia Branca",
+      "target_type": "company"
+    },
+    {
+      "source": "Renan Chieppe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cash Generation Vs Value Generation",
+      "target_type": "concept"
+    }
+  ]
+}

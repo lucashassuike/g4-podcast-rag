@@ -1,0 +1,297 @@
+{
+  "episode_id": "51653921529",
+  "title": "RAFAEL MILAGRE E YAGO MARTINS: INTELIGÊNCIA ARTIFICIAL COMO VANTAGEM COMPETITIVA | EXTREMOS",
+  "date_published": 1773327600,
+  "duration": 5092,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Rafael Milagre",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Yago Martins",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "João Vítor",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Henrique Feitosa",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Headset de Performance"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação e negócios mencionada no podcast."
+    },
+    {
+      "name": "Nvidia",
+      "industry": "Tecnologia",
+      "context": "Mencionada em relação à substituição de engenheiros por inteligência artificial."
+    },
+    {
+      "name": "Anthropic",
+      "industry": "Tecnologia e Inteligência Artificial",
+      "context": "Mencionada como fornecedora de modelos de IA."
+    },
+    {
+      "name": "Opencloud",
+      "industry": "Tecnologia e Inteligência Artificial",
+      "context": "Discussão sobre sua funcionalidade e configuração de modelos de IA."
+    },
+    {
+      "name": "Viver De A",
+      "industry": "Artificial Intelligence",
+      "context": "Used as an example in the platform demonstration."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Chat GPT",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Growth",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Marketing Digital",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Modelos de Linguagem",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Automação",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Negociação",
+      "category": "Habilidade"
+    },
+    {
+      "name": "Vendas",
+      "category": "Habilidade"
+    },
+    {
+      "name": "Inteligência Artificial (IA)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Language Model (LLM)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Agente de IA Autônomo",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "System Prompt",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Hackathon",
+      "category": "Estratégia de Inovação"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "LLM (Large Language Model)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Prompt Engineering",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Token Cost",
+      "category": "Economia e Tecnologia"
+    },
+    {
+      "name": "Rebranding",
+      "category": "Marketing e Estratégia Empresarial"
+    },
+    {
+      "name": "MVP",
+      "category": "Product Development"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Markdown",
+      "category": "Technology"
+    },
+    {
+      "name": "Scrapping",
+      "category": "Data Extraction"
+    },
+    {
+      "name": "Contextual Personalization",
+      "category": "Marketing"
+    },
+    {
+      "name": "Glossary Intelligent",
+      "category": "Technology"
+    },
+    {
+      "name": "Landing Page",
+      "category": "Web Development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "21 milhões de reais",
+      "context": "Receita gerada nos últimos 8-10 meses mencionados no episódio."
+    },
+    {
+      "value": "100 milhões de reais",
+      "context": "Receita projetada para o ano mencionado no episódio."
+    },
+    {
+      "value": "130",
+      "context": "Número de episódios gravados mencionados no podcast."
+    },
+    {
+      "value": "50",
+      "context": "Número de pessoas no time mencionado durante o hackathon."
+    },
+    {
+      "value": "100,000 BRL/month",
+      "context": "Custo mensal em tokens para uso de IA."
+    },
+    {
+      "value": "Above 20 million per month",
+      "context": "Faturamento da empresa Viver de A."
+    },
+    {
+      "value": "100 million by 2026",
+      "context": "Target revenue for Viver de A."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Yago Martins",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Milagre",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Opencloud",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Llm (Large Language Model)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Viver De A",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Artificial Intelligence",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rebranding",
+      "target_type": "concept"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Vítor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Anthropic",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Llm (Large Language Model)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Henrique Feitosa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

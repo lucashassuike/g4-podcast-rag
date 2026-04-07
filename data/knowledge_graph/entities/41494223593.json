@@ -1,0 +1,309 @@
+{
+  "episode_id": "41494223593",
+  "title": "COMO A LEVEROS SE TORNOU UM NEGÓCIO BILIONÁRIO COM TIZIANO PRAVATO | PAPO DE GESTÃO",
+  "date_published": 1755702000,
+  "duration": 4002,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tiziano Pravato Filho",
+      "role": "guest",
+      "company": "Leveros",
+      "title": "Líder do Grupo Leveros"
+    },
+    {
+      "name": "Tiziano Pravato",
+      "role": "guest",
+      "company": "Leveros",
+      "title": "Executivo"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Leveros",
+      "industry": "Climatização",
+      "context": "Empresa focada em ar-condicionado e soluções para instaladores."
+    },
+    {
+      "name": "2B Capital",
+      "industry": "Investimentos",
+      "context": "Fundo de investimento que investiu na Leveros."
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Financeiro",
+      "context": "Instituição financeira associada ao fundo 2B Capital."
+    },
+    {
+      "name": "Brastemp",
+      "industry": "Eletrodomésticos",
+      "context": "Marca para a qual a Leveros começou como serviço autorizado."
+    },
+    {
+      "name": "Profis",
+      "industry": "Software de gestão",
+      "context": "Unidade de negócio da Leveros, desenvolvida como software de gestão de obras."
+    },
+    {
+      "name": "Electrolux",
+      "industry": "Eletrodomésticos",
+      "context": "Parceira da Leveros para instalação de ar-condicionado."
+    },
+    {
+      "name": "Americanas",
+      "industry": "E-commerce",
+      "context": "Canal de venda de instalação de ar-condicionado pela Leveros."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Canal de venda de instalação de ar-condicionado pela Leveros."
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "E-commerce",
+      "context": "Canal de venda de instalação de ar-condicionado pela Leveros."
+    },
+    {
+      "name": "Conta",
+      "industry": "Fintech",
+      "context": "Startup mencionada como parceira da Leveros para soluções financeiras."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Organização mencionada como parceira para qualificação de profissionais."
+    },
+    {
+      "name": "Multiária",
+      "industry": "HVAC (Heating, Ventilation, and Air Conditioning)",
+      "context": "Mentioned as a predecessor to Leveros."
+    },
+    {
+      "name": "Gelossom",
+      "industry": "HVAC (Heating, Ventilation, and Air Conditioning)",
+      "context": "Mentioned as a predecessor to Leveros."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Jornada do Cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Custo de Aquisição de Cliente (CAC)",
+      "category": "Métrica de Negócio"
+    },
+    {
+      "name": "Lifetime Value (LTV)",
+      "category": "Métrica de Negócio"
+    },
+    {
+      "name": "Ecossistema de Negócios",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Mandala Estratégica",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Software de gestão de obras",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Digitalização de processos",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Private Equity",
+      "category": "Investimento"
+    },
+    {
+      "name": "CNPJ",
+      "category": "Estrutura empresarial"
+    },
+    {
+      "name": "Simples Nacional",
+      "category": "Tributação empresarial"
+    },
+    {
+      "name": "business legalization",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "market growth through education",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "customer experience",
+      "category": "Customer Service"
+    },
+    {
+      "name": "HVAC installation training",
+      "category": "Professional Development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "1.5 bilhões de reais",
+      "context": "Faturamento anual da Leveros em 2022."
+    },
+    {
+      "value": "160 milhões de reais",
+      "context": "EBITDA da Leveros em 2022."
+    },
+    {
+      "value": "70%",
+      "context": "Porcentagem das vendas da Leveros centradas em instaladores."
+    },
+    {
+      "value": "Mais de 10 anos",
+      "context": "Tempo de relacionamento da Leveros com empresas de instalação."
+    },
+    {
+      "value": "6 months",
+      "context": "Duration of the qualification cycle for small business owners."
+    },
+    {
+      "value": "20+ companies",
+      "context": "Number of HVAC installation businesses in Assis influenced by Leveros."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Brastemp",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiziano Pravato",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Leveros",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Profis",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Conta",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Multiária",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "invested_by",
+      "target": "2B Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "2B Capital",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Bradesco",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiziano Pravato Filho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Leveros",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Americanas",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gelossom",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Electrolux",
+      "target_type": "company"
+    }
+  ]
+}

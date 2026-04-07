@@ -1,0 +1,155 @@
+{
+  "episode_id": "34748488608",
+  "title": "Fabrício Carpinejar - Busca pela Felicidade, O que é Inteligência, Estar Presente, Amor e Vocação | Sem Atalhos",
+  "date_published": 1681113622,
+  "duration": 3455,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Fabrício Carpinejar",
+      "role": "guest",
+      "company": "",
+      "title": "Poeta, escritor e jornalista"
+    },
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretora de marca e marketing de produto"
+    },
+    {
+      "name": "Denis",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo"
+    },
+    {
+      "name": "Afonso Cruz",
+      "role": "mentioned",
+      "company": "",
+      "title": "Poeta e autor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa que oferece soluções educacionais para alta performance em negócios"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Vocação",
+      "category": "Conceito de desenvolvimento pessoal"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Estratégia de negócios e desenvolvimento pessoal"
+    },
+    {
+      "name": "Confiança",
+      "category": "Conceito de desenvolvimento pessoal"
+    },
+    {
+      "name": "Potência",
+      "category": "Conceito de desenvolvimento pessoal"
+    },
+    {
+      "name": "Poder",
+      "category": "Conceito de liderança e influência"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de avaliação e desenvolvimento de habilidades"
+    },
+    {
+      "name": "Orientação vocacional",
+      "category": "Estratégia de desenvolvimento pessoal"
+    },
+    {
+      "name": "Amor romântico",
+      "category": "Conceito de relacionamento"
+    },
+    {
+      "name": "Sensibilidade",
+      "category": "Conceito psicológico"
+    },
+    {
+      "name": "Inteligência",
+      "category": "Conceito psicológico"
+    },
+    {
+      "name": "empatia",
+      "category": "conceito"
+    },
+    {
+      "name": "luto",
+      "category": "conceito"
+    }
+  ],
+  "books": [
+    {
+      "title": "Vamos Comprar Um Poeta",
+      "author": "Afonso Cruz"
+    }
+  ],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Fabrício Carpinejar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Orientação Vocacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabrício Carpinejar",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Afonso Cruz",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Vamos Comprar Um Poeta",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabrício Carpinejar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabrício Carpinejar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Amor Romântico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabrício Carpinejar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sensibilidade",
+      "target_type": "concept"
+    }
+  ]
+}

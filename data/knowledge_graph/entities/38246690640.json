@@ -1,0 +1,253 @@
+{
+  "episode_id": "38246690640",
+  "title": "O JOGO DO CRESCIMENTO: LUCRO, VALUATION E EXIT NA PRÁTICA COM MARCO FRANÇA | PAPO DE GESTÃO",
+  "date_published": 1748854800,
+  "duration": 3230,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Marco França",
+      "role": "guest",
+      "company": "Alda",
+      "title": "Sócio e Cofundador"
+    },
+    {
+      "name": "Julián Antonioli",
+      "role": "mentioned",
+      "company": "Alda",
+      "title": "Sócio e Cofundador"
+    },
+    {
+      "name": "Julián",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Plataforma de educação e mentoria para negócios"
+    },
+    {
+      "name": "Alda",
+      "industry": "Consultoria Empresarial",
+      "context": "Consultoria especializada em valuation, M&A e gestão empresarial"
+    },
+    {
+      "name": "Aldas",
+      "industry": "Consultoria",
+      "context": "Mencionado como uma alternativa para mentoria e suporte empresarial."
+    },
+    {
+      "name": "Canuí",
+      "industry": "E-commerce",
+      "context": "Vendida para Dafiti"
+    },
+    {
+      "name": "Dafiti",
+      "industry": "E-commerce",
+      "context": "Comprou a Canuí"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Valuation",
+      "category": "Finanças"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Gestão"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Gestão"
+    },
+    {
+      "name": "Distribuição de Dividendos",
+      "category": "Finanças"
+    },
+    {
+      "name": "Crescimento Empresarial",
+      "category": "Gestão"
+    },
+    {
+      "name": "Modelo de Negócio",
+      "category": "Gestão"
+    },
+    {
+      "name": "Estrutura de Capital",
+      "category": "Finanças"
+    },
+    {
+      "name": "mentoria",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "EBITDA to cash",
+      "category": "Finanças empresariais"
+    },
+    {
+      "name": "capital de giro",
+      "category": "Finanças empresariais"
+    },
+    {
+      "name": "fluxo de caixa",
+      "category": "Finanças empresariais"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Múltiplos de receita",
+      "category": "Finance"
+    },
+    {
+      "name": "SaaS",
+      "category": "Business Model"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "30 milhões de lucro",
+      "context": "Exemplo de geração de lucro em uma empresa mencionada."
+    },
+    {
+      "value": "4 milhões de caixa",
+      "context": "Exemplo de geração de caixa em uma empresa mencionada."
+    },
+    {
+      "value": "10 milhões",
+      "context": "Lucro mencionado em exemplos de valuation"
+    },
+    {
+      "value": "6 milhões",
+      "context": "Geração de caixa em exemplo de SaaS"
+    },
+    {
+      "value": "1 milhão",
+      "context": "Geração de caixa em exemplo de outra empresa"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Alda",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Julián Antonioli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alda",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Julián Antonioli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Alda",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Canuí",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Dafiti",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alda",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "episode_id": "42997399168",
+  "title": "DE CAMELÔ À MIAMI: A HISTÓRIA DA LABELLAMAFIA COM GIULLIANO PUGA | EXTREMOS",
+  "date_published": 1758726000,
+  "duration": 3842,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Giulliano Puga",
+      "role": "guest",
+      "company": "La Bella Mafia",
+      "title": "Fundador"
+    },
+    {
+      "name": "Junão",
+      "role": "mentioned",
+      "company": "Centauro",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "João Neto",
+      "role": "mentioned",
+      "company": "Fontes",
+      "title": "CEO"
+    },
+    {
+      "name": "Felipe Tito",
+      "role": "mentioned",
+      "company": "Fontes",
+      "title": "Collaborator"
+    },
+    {
+      "name": "Igor",
+      "role": "mentioned",
+      "company": "Kings",
+      "title": "CEO"
+    },
+    {
+      "name": "Bob Dylan",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Empresa cofundada por Alfredo Soares e Bruno Nardon, mencionada no contexto do podcast e de programas de imersão."
+    },
+    {
+      "name": "La Bella Mafia",
+      "industry": "Moda",
+      "context": "Marca de moda fundada por Giulliano Puga, com presença internacional."
+    },
+    {
+      "name": "Centauro",
+      "industry": "Varejo Esportivo",
+      "context": "Empresa mencionada como compradora de uma das marcas aconselhadas no Startup Fashion."
+    },
+    {
+      "name": "Foxbit",
+      "industry": "Tecnologia e Criptomoedas",
+      "context": "Patrocinador do podcast, fornecendo serviços relacionados a criptoativos."
+    },
+    {
+      "name": "Labela Máfia",
+      "industry": "Fashion",
+      "context": "Founded by Giulliano Puga, focused on international branding and events."
+    },
+    {
+      "name": "Fontes",
+      "industry": "Fashion",
+      "context": "Implemented strategies leading to significant revenue growth."
+    },
+    {
+      "name": "Kings",
+      "industry": "Fashion",
+      "context": "Discussed challenges in the Brazilian fashion market."
+    },
+    {
+      "name": "Salma",
+      "industry": "Fashion",
+      "context": "New brand launched by Giulliano Puga and partners."
+    },
+    {
+      "name": "Labellamafia",
+      "industry": "Fashion",
+      "context": "Founded by Giulliano Puga"
+    },
+    {
+      "name": "Aura",
+      "industry": "Marketing",
+      "context": "Agency created to support the ecosystem of brands mentored by Giulliano Puga"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Storytelling",
+      "category": "Marketing"
+    },
+    {
+      "name": "Storymaking",
+      "category": "Marketing"
+    },
+    {
+      "name": "Produto Estrela",
+      "category": "Marketing"
+    },
+    {
+      "name": "VSL (Video Sales Letter)",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Traction",
+      "category": "Business Framework"
+    },
+    {
+      "name": "Inside Sales",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Social Selling",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "RJ (Recuperação Judicial)",
+      "category": "Legal Framework"
+    },
+    {
+      "name": "Event Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Ultranicho",
+      "category": "Market Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Traction",
+      "author": "Gabriel Weinberg and Justin Mares"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "40 países",
+      "context": "Presença internacional da marca La Bella Mafia."
+    },
+    {
+      "value": "300 million",
+      "context": "Fontes' annual revenue before implementing new strategies."
+    },
+    {
+      "value": "1.2 billion",
+      "context": "Fontes' annual revenue after implementing new strategies."
+    },
+    {
+      "value": "6 countries",
+      "context": "Salma's international presence."
+    },
+    {
+      "value": "60 marcas",
+      "context": "Number of active brands in Giulliano Puga's ecosystem"
+    },
+    {
+      "value": "50 milhões de reais",
+      "context": "Additional revenue generated by the ecosystem in 12 months"
+    },
+    {
+      "value": "300 mil reais para 3,5-4 milhões de reais",
+      "context": "Revenue growth of a mentored e-commerce business"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "La Bella Mafia",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Tito",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Fontes",
+      "target_type": "company"
+    },
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Labela Máfia",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Centauro",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Startup Fashion",
+      "target_type": "company"
+    },
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rj (Recuperação Judicial)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tony Celestino",
+      "target_type": "person"
+    },
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Aura",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Traction",
+      "target_type": "concept"
+    },
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Salma",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Social Selling",
+      "target_type": "concept"
+    },
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Alfredo Soares",
+      "target_type": "person"
+    },
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Bruno Nardon",
+      "target_type": "person"
+    },
+    {
+      "source": "João Neto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Fontes",
+      "target_type": "company"
+    },
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Event Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Labellamafia",
+      "target_type": "company"
+    },
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inside Sales",
+      "target_type": "concept"
+    },
+    {
+      "source": "Giulliano Puga",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    }
+  ]
+}

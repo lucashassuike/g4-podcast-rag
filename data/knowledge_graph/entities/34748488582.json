@@ -1,0 +1,361 @@
+{
+  "episode_id": "34748488582",
+  "title": "Cici Navarro - De dentista a empresária: Como Usar a Criatividade Para Abrir Caminhos | Sem Atalhos",
+  "date_published": 1687251612,
+  "duration": 2925,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Cici Navarro",
+      "role": "guest",
+      "company": "Doutora Cherie",
+      "title": "Diretora Criativa"
+    },
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia e Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Doutora Chihiro",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Profissional de Saúde"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de treinamentos e desenvolvimento de times"
+    },
+    {
+      "name": "Doutora Cherie",
+      "industry": "Moda e Saúde",
+      "context": "Empresa focada em jalecos e scrubs com design diferenciado"
+    },
+    {
+      "name": "Cc Collection",
+      "industry": "Fashion",
+      "context": "Founded by Cici Navarro, part of her business ecosystem."
+    },
+    {
+      "name": "Acesso Portugal",
+      "industry": "Publishing",
+      "context": "Collaborates with Cici Navarro on the book 'Palavra do Dia'."
+    },
+    {
+      "name": "Café Cherie",
+      "industry": "Food and Beverage",
+      "context": "A café brand created by Cici Navarro as an extension of the Doutora Cherie brand."
+    },
+    {
+      "name": "Cici Collection",
+      "industry": "Fashion",
+      "context": "A fashion line launched by Cici Navarro under the Doutora Cherie brand."
+    },
+    {
+      "name": "Gucci",
+      "industry": "Luxury Fashion",
+      "context": "Mentioned as an example of a luxury brand expanding into experiential offerings like restaurants."
+    },
+    {
+      "name": "Ralph Lauren",
+      "industry": "Luxury Fashion",
+      "context": "Mentioned as an example of a luxury brand expanding into experiential offerings like cafés."
+    },
+    {
+      "name": "Sisi",
+      "industry": "Fashion",
+      "context": "Marca de moda mencionada por Cici Navarro"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Proposta de valor",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Branding pessoal",
+      "category": "Marketing"
+    },
+    {
+      "name": "Work leisure",
+      "category": "Moda"
+    },
+    {
+      "name": "Comunidade de marca",
+      "category": "Marketing"
+    },
+    {
+      "name": "Community Building",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Customer Journey",
+      "category": "Marketing"
+    },
+    {
+      "name": "Business Ecosystem",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Differentiation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Growth Strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Customer-Centric Approach",
+      "category": "Marketing"
+    },
+    {
+      "name": "Intelligence Artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "Skill Development",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Experiential Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Lifestyle Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Creative Ideation",
+      "category": "Innovation"
+    },
+    {
+      "name": "Ecossistema de Negócios",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Gestão de Emoções",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Gestão de Tempo",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "autogestão",
+      "category": "personal development"
+    },
+    {
+      "name": "sucesso pessoal e profissional",
+      "category": "personal development"
+    },
+    {
+      "name": "liberdade",
+      "category": "philosophy"
+    },
+    {
+      "name": "arte de escolher",
+      "category": "philosophy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Palavra do Dia",
+      "author": "Collaborative work with Acesso Portugal"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "2 mil reais",
+      "context": "Capital inicial investido na Doutora Cherie por Cici Navarro e sua irmã"
+    },
+    {
+      "value": "Three companies",
+      "context": "Managed by Cici Navarro"
+    },
+    {
+      "value": "2018",
+      "context": "Year the first Doutora Cherie store was opened"
+    },
+    {
+      "value": "November 2014",
+      "context": "Year Doutora Cherie was founded"
+    },
+    {
+      "value": "7",
+      "context": "Number of physical stores owned by Doutora Cherie."
+    },
+    {
+      "value": "8 years",
+      "context": "Age of the Doutora Cherie brand."
+    },
+    {
+      "value": "3 years",
+      "context": "Period of significant growth for Doutora Cherie."
+    },
+    {
+      "value": "1 year",
+      "context": "Age of the Cici Collection brand."
+    },
+    {
+      "value": "30 brands per month",
+      "context": "Number of fashion brands Cici Navarro collaborated with monthly before focusing on her own brand."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Cici Navarro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Café Cherie",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Customer Journey",
+      "target_type": "concept"
+    },
+    {
+      "source": "Doutora Cherie",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cici Collection",
+      "target_type": "company"
+    },
+    {
+      "source": "Ralph Lauren",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gucci",
+      "target_type": "company"
+    },
+    {
+      "source": "Cici Navarro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cc Collection",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Growth Strategy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Cici Navarro",
+      "source_type": "person",
+      "relation": "collaborates_with",
+      "target": "Acesso Portugal",
+      "target_type": "company"
+    },
+    {
+      "source": "Doutora Cherie",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Café Cherie",
+      "target_type": "company"
+    },
+    {
+      "source": "Cici Navarro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sisi",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ralph Lauren",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Experiential Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Community Building",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Business Ecosystem",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "hosts",
+      "target": "Cici Navarro",
+      "target_type": "person"
+    },
+    {
+      "source": "Cici Navarro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Doutora Cherie",
+      "target_type": "company"
+    },
+    {
+      "source": "Gucci",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Experiential Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Cici Navarro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cici Collection",
+      "target_type": "company"
+    }
+  ]
+}

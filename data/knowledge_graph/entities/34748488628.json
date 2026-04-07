@@ -1,0 +1,290 @@
+{
+  "episode_id": "34748488628",
+  "title": "Ricardo Basaglia - Características de Sucesso, Papel do CEO, Gestão de Lideranças | Papo de Gestão",
+  "date_published": 1669020031,
+  "duration": 3360,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do G4 Podcast"
+    },
+    {
+      "name": "Ricardo Basaglia",
+      "role": "guest",
+      "company": "Michael Page Brasil",
+      "title": "CEO"
+    },
+    {
+      "name": "Bernardinho",
+      "role": "mentioned",
+      "company": "",
+      "title": "Líder e mentor"
+    },
+    {
+      "name": "Vabo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empreendedor serial e mentor"
+    },
+    {
+      "name": "Paulo Moraes",
+      "role": "mentioned",
+      "company": "Espaço Laser",
+      "title": "Co-fundador e ex-CEO"
+    },
+    {
+      "name": "Paulo",
+      "role": "mentioned",
+      "company": "McDonald's",
+      "title": "Ex-CEO"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Twitter",
+      "title": "CEO e principal acionista"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e treinamento",
+      "context": "Organização do podcast e programas de formação executiva"
+    },
+    {
+      "name": "Michael Page Brasil",
+      "industry": "Recrutamento e seleção",
+      "context": "Empresa liderada por Ricardo Basaglia"
+    },
+    {
+      "name": "Espaço Laser",
+      "industry": "Estética e beleza",
+      "context": "Discussão sobre transição de liderança e reestruturação"
+    },
+    {
+      "name": "Mcdonald'S",
+      "industry": "Alimentação",
+      "context": "Referência ao ex-CEO Paulo"
+    },
+    {
+      "name": "Twitter",
+      "industry": "Tecnologia e redes sociais",
+      "context": "Discussão sobre mudanças culturais e layoffs sob liderança de Elon Musk"
+    },
+    {
+      "name": "Michael Page",
+      "industry": "Recrutamento e Seleção",
+      "context": "Citada como fonte de estatísticas sobre habilidades técnicas e comportamentais"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Custo de transação",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Estrutura organizacional",
+      "category": "Gestão de empresas"
+    },
+    {
+      "name": "Onboarding",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Ferramenta de desenvolvimento de competências"
+    },
+    {
+      "name": "Quatro Cs",
+      "category": "Framework de integração"
+    },
+    {
+      "name": "Compliance",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Clarificação",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Conexões",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Chief Revenue Officer (CRO)",
+      "category": "Estrutura organizacional"
+    },
+    {
+      "name": "Dream team",
+      "category": "Gestão de talentos"
+    },
+    {
+      "name": "Soft Skills",
+      "category": "Habilidades interpessoais"
+    },
+    {
+      "name": "Hard Skills",
+      "category": "Habilidades técnicas"
+    },
+    {
+      "name": "Skin in the Game",
+      "category": "Comprometimento e responsabilidade"
+    },
+    {
+      "name": "People Skills",
+      "category": "Habilidades interpessoais"
+    },
+    {
+      "name": "Intencionalidade",
+      "category": "Desenvolvimento pessoal"
+    }
+  ],
+  "books": [
+    {
+      "title": "Lugar de Potência",
+      "author": "Ricardo Basaglia"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1 a cada 6 pessoas",
+      "context": "Taxa de demissão ou intenção de demissão nos primeiros 90 dias"
+    },
+    {
+      "value": "1 a cada 6 pessoas",
+      "context": "Taxa de demissão ou intenção de demissão nos primeiros 90 dias de contratação"
+    },
+    {
+      "value": "10 mil",
+      "context": "Número de pessoas entrevistadas por Ricardo Basaglia"
+    },
+    {
+      "value": "91%",
+      "context": "Pessoas contratadas por habilidades técnicas e demitidas por questões comportamentais segundo Michael Page"
+    },
+    {
+      "value": "85%",
+      "context": "Sucesso profissional e pessoal relacionado a soft skills segundo estudo de Harvard e Yale"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Paulo Moraes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Espaço Laser",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Michael Page Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Lugar De Potência",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Twitter",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Michael Page",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vabo",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mcdonald'S",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Chief Revenue Officer (Cro)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bernardinho",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Espaço Laser",
+      "target_type": "company"
+    },
+    {
+      "source": "Michael Page",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Hard Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Michael Page",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Soft Skills",
+      "target_type": "concept"
+    }
+  ]
+}

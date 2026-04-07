@@ -1,0 +1,436 @@
+{
+  "episode_id": "34748488499",
+  "title": "Como Ele Transformou a WSL (World Surf League) ? - Ivan Martinho | G4 Podcasts",
+  "date_published": 1701160200,
+  "duration": 3988,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Henrique Zilberstein",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Ivan Martinho",
+      "role": "guest",
+      "company": "World Surf League",
+      "title": "CEO"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Fundador"
+    },
+    {
+      "name": "Gabriel Medina",
+      "role": "mentioned",
+      "company": "World Surf League",
+      "title": "Atleta"
+    },
+    {
+      "name": "Ítalo Ferreira",
+      "role": "mentioned",
+      "company": "World Surf League",
+      "title": "Atleta"
+    },
+    {
+      "name": "Adriano De Souza",
+      "role": "mentioned",
+      "company": "World Surf League",
+      "title": "Atleta"
+    },
+    {
+      "name": "Felipe Toledo",
+      "role": "mentioned",
+      "company": "World Surf League",
+      "title": "Atleta"
+    },
+    {
+      "name": "Tati Weston Webb",
+      "role": "mentioned",
+      "company": "World Surf League",
+      "title": "Atleta"
+    },
+    {
+      "name": "Oscar",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Atleta de basquete"
+    },
+    {
+      "name": "Hortência",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Atleta de basquete feminino"
+    },
+    {
+      "name": "Paula",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Atleta de basquete feminino"
+    },
+    {
+      "name": "Ayrton Senna",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Piloto de Fórmula 1"
+    },
+    {
+      "name": "Guga",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Tenista"
+    },
+    {
+      "name": "Falcão",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Jogador de futsal"
+    },
+    {
+      "name": "Colin Kaepernick",
+      "role": "mentioned",
+      "company": "San Francisco 49ers",
+      "title": "Quarterback"
+    },
+    {
+      "name": "Kaká",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Jogador de futebol"
+    },
+    {
+      "name": "Ronaldinho Gaúcho",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Jogador de futebol"
+    },
+    {
+      "name": "Dunga",
+      "role": "mentioned",
+      "company": "",
+      "title": "Técnico de Futebol"
+    },
+    {
+      "name": "Kelly Slater",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta"
+    },
+    {
+      "name": "Raíssa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Skateboarder"
+    },
+    {
+      "name": "Letícia Buffoni",
+      "role": "mentioned",
+      "company": "",
+      "title": "Skateboarder"
+    },
+    {
+      "name": "Mark Occhilupo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfer"
+    }
+  ],
+  "companies": [
+    {
+      "name": "World Surf League",
+      "industry": "Esportes",
+      "context": "Organização de competições de surf"
+    },
+    {
+      "name": "Clivo",
+      "industry": "Saúde",
+      "context": "Fundada por Marcelo Toledo"
+    },
+    {
+      "name": "Banco Do Brasil",
+      "industry": "Financeiro",
+      "context": "Patrocinador do circuito de surf"
+    },
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Empresa onde Ivan Martinho trabalhou"
+    },
+    {
+      "name": "Vivo",
+      "industry": "Telecomunicações",
+      "context": "Empresa onde Ivan Martinho trabalhou"
+    },
+    {
+      "name": "T4F",
+      "industry": "Entretenimento",
+      "context": "Empresa onde Ivan Martinho trabalhou"
+    },
+    {
+      "name": "Michael Page",
+      "industry": "Recrutamento",
+      "context": "Empresa onde Ivan Martinho trabalhou"
+    },
+    {
+      "name": "Trafique Sports",
+      "industry": "Esportes",
+      "context": "Empresa onde Ivan Martinho trabalhou"
+    },
+    {
+      "name": "Flix Media",
+      "industry": "Mídia",
+      "context": "Empresa onde Ivan Martinho foi CEO"
+    },
+    {
+      "name": "Fox",
+      "industry": "Mídia",
+      "context": "Empresa onde Ivan Martinho trabalhou"
+    },
+    {
+      "name": "Fox Sports",
+      "industry": "Mídia",
+      "context": "Empresa onde Ivan Martinho trabalhou"
+    },
+    {
+      "name": "National Geographic",
+      "industry": "Mídia",
+      "context": "Empresa onde Ivan Martinho trabalhou"
+    },
+    {
+      "name": "Spm",
+      "industry": "Educação",
+      "context": "Instituição onde Ivan Martinho é professor"
+    },
+    {
+      "name": "Ibmec Rio",
+      "industry": "Educação",
+      "context": "Instituição onde Ivan Martinho é professor"
+    },
+    {
+      "name": "Cbf Academy",
+      "industry": "Educação",
+      "context": "Instituição onde Ivan Martinho é professor"
+    },
+    {
+      "name": "Instituto Pequenos Grandes Guerreiros",
+      "industry": "Terceiro Setor",
+      "context": "Co-fundado por Ivan Martinho"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Podcast e discussões sobre negócios"
+    },
+    {
+      "name": "Mastercard",
+      "industry": "Serviços Financeiros",
+      "context": "Patrocinador da Copa América 2015"
+    },
+    {
+      "name": "Santander",
+      "industry": "Serviços Financeiros",
+      "context": "Patrocinador da Copa América 2015"
+    },
+    {
+      "name": "Latam",
+      "industry": "Aviação",
+      "context": "Patrocinador da Copa América 2015"
+    },
+    {
+      "name": "Red Bull",
+      "industry": "Beverages",
+      "context": "Sponsor of athletes"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marketing esportivo",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Gestão de crise",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "SAFs (Sociedades Anônimas do Futebol)",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Profissionalização do esporte",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Circuito Banco do Brasil de Surf",
+      "category": "Evento esportivo"
+    },
+    {
+      "name": "Patrocínio Esportivo",
+      "category": "Marketing"
+    },
+    {
+      "name": "Exposição de Marca",
+      "category": "Marketing"
+    },
+    {
+      "name": "Transferência de Audiência",
+      "category": "Estratégia de Mídia"
+    },
+    {
+      "name": "Esportes Olímpicos",
+      "category": "Esportes"
+    },
+    {
+      "name": "Athlete branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Sponsorship",
+      "category": "Business"
+    },
+    {
+      "name": "Social media presence",
+      "category": "Marketing"
+    },
+    {
+      "name": "Sports management",
+      "category": "Business"
+    },
+    {
+      "name": "Olympic sports",
+      "category": "Sports"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "7 títulos mundiais em 10 anos",
+      "context": "Conquistas brasileiras no surf"
+    },
+    {
+      "value": "4 atletas diferentes",
+      "context": "Conquistaram os 7 títulos mundiais mencionados"
+    },
+    {
+      "value": "4 anos e meio",
+      "context": "Tempo de Ivan Martinho como CEO da WSL"
+    },
+    {
+      "value": "200+ países",
+      "context": "Transmissão da Copa América 2015"
+    },
+    {
+      "value": "8 sedes",
+      "context": "Organização da Copa América 2015"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Latam",
+      "source_type": "company",
+      "relation": "sponsored",
+      "target": "Copa América 2015",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Santander",
+      "source_type": "company",
+      "relation": "sponsored",
+      "target": "Copa América 2015",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Medina",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Ítalo Ferreira",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Martinho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Profissionalização Do Esporte",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gabriel Medina",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Adriano De Souza",
+      "target_type": "person"
+    },
+    {
+      "source": "World Surf League",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Esportes Olímpicos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Henrique Zilberstein",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Martinho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "World Surf League",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Medina",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Felipe Toledo",
+      "target_type": "person"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Gestão De Crise",
+      "target_type": "concept"
+    },
+    {
+      "source": "Letícia Buffoni",
+      "source_type": "person",
+      "relation": "sponsored_by",
+      "target": "Red Bull",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Martinho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Gestão De Crise",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ivan Martinho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Marketing Esportivo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mastercard",
+      "source_type": "company",
+      "relation": "sponsored",
+      "target": "Copa América 2015",
+      "target_type": "company"
+    }
+  ]
+}

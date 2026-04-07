@@ -1,0 +1,620 @@
+{
+  "episode_id": "37883132245",
+  "title": "GUDAY: COMO O MARKETING DE INFLUÊNCIA PODE ALAVANCAR SUA EMPRESA COM MANU CIT | EXTREMOS",
+  "date_published": 1748433600,
+  "duration": 4692,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Manu Cit",
+      "role": "guest",
+      "company": "GUDAY",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Gabriel Delgado",
+      "role": "guest",
+      "company": "GUDAY",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Da Supercoffe",
+      "role": "mentioned",
+      "company": "Supercoffe",
+      "title": "Representative"
+    },
+    {
+      "name": "Dudu",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influencer"
+    },
+    {
+      "name": "Manu City",
+      "role": "guest",
+      "company": "Super Coffee",
+      "title": "Influenciadora"
+    },
+    {
+      "name": "Bruninho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jade Picom",
+      "role": "mentioned",
+      "company": "Aura Beauty",
+      "title": "Influenciadora"
+    },
+    {
+      "name": "Ricardinho Dias",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Joel",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Unknown"
+    },
+    {
+      "name": "Lalas",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Unknown"
+    },
+    {
+      "name": "Ethan",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Supplier"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Logan Paul",
+      "role": "mentioned",
+      "company": "",
+      "title": "Content Creator"
+    },
+    {
+      "name": "Iman Gazi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Entrepreneur"
+    },
+    {
+      "name": "Marçal",
+      "role": "mentioned",
+      "company": "",
+      "title": "Content Creator"
+    },
+    {
+      "name": "Malu Borges",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Fundador"
+    },
+    {
+      "name": "Carlinhos Maia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Cacá Diniz",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Manuela City",
+      "role": "guest",
+      "company": "Good Day",
+      "title": "Founder"
+    },
+    {
+      "name": "Virgínia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Guday",
+      "industry": "Health and Wellness",
+      "context": "Company co-founded by Manu Cit and Gabriel Delgado, focusing on creatine and wellness products."
+    },
+    {
+      "name": "Supercoffe",
+      "industry": "Health and Wellness",
+      "context": "Mentioned in relation to a trip and collaboration with Manu Cit."
+    },
+    {
+      "name": "Caffeine",
+      "industry": "Health and Wellness",
+      "context": "Company Manu Cit joined in 2023."
+    },
+    {
+      "name": "Centauro",
+      "industry": "Retail",
+      "context": "Company Dudu collaborated with as an influencer."
+    },
+    {
+      "name": "Adidas",
+      "industry": "Retail",
+      "context": "Company Dudu collaborated with as an influencer."
+    },
+    {
+      "name": "Super Coffee",
+      "industry": "Bebidas e suplementos",
+      "context": "Discussão sobre marketing de influência e sua aplicação na empresa."
+    },
+    {
+      "name": "Aura Beauty",
+      "industry": "Beleza",
+      "context": "Marca mencionada como exemplo de sucesso no uso de influenciadores."
+    },
+    {
+      "name": "Gudi",
+      "industry": "Wellness",
+      "context": "Discussed as a company leveraging influencer marketing and physical distribution."
+    },
+    {
+      "name": "Natural Tech",
+      "industry": "Events",
+      "context": "Mentioned as a major wellness fair in Latin America."
+    },
+    {
+      "name": "Rd",
+      "industry": "Pharmaceuticals",
+      "context": "Mentioned as a potential distribution partner for GUDI."
+    },
+    {
+      "name": "Drogaria São Paulo",
+      "industry": "Pharmaceuticals",
+      "context": "Mentioned as a potential distribution partner for GUDI."
+    },
+    {
+      "name": "Gudei",
+      "industry": "Suplementos Alimentares",
+      "context": "Empresa mencionada como foco principal do episódio, destacando seu uso de marketing de influência e produtos inovadores."
+    },
+    {
+      "name": "Rede Farma",
+      "industry": "Farmacêutico",
+      "context": "Mencionada como exemplo de mercado para negociação de produtos."
+    },
+    {
+      "name": "Nude Project",
+      "industry": "Fashion",
+      "context": "Mentioned as an inspirational brand for community building and content creation."
+    },
+    {
+      "name": "Leme",
+      "industry": "Supplementation",
+      "context": "Referenced as an inspiration for GUDI, known for its potent products and strong community."
+    },
+    {
+      "name": "Palmeiras",
+      "industry": "Sports",
+      "context": "Mentioned in the context of sponsorship by betting companies"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Finance",
+      "context": "Mentioned in relation to Guilherme Benchimol"
+    },
+    {
+      "name": "Good Day",
+      "industry": "Bebidas Naturais",
+      "context": "Empresa mencionada como foco principal do episódio."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Empresa dos hosts Alfredo Soares e Bruno Nardon."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marketing de Influência",
+      "category": "Marketing"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Business"
+    },
+    {
+      "name": "Creatina",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "TikTok",
+      "category": "Social Media"
+    },
+    {
+      "name": "Comunidade",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Geração Z",
+      "category": "Demografia"
+    },
+    {
+      "name": "Conteúdo estruturado",
+      "category": "Produção de conteúdo"
+    },
+    {
+      "name": "Ciclo de consumo",
+      "category": "Comportamento do consumidor"
+    },
+    {
+      "name": "Influencer Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "B2B Sales",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Physical Distribution",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Wellness Industry",
+      "category": "Industry"
+    },
+    {
+      "name": "Comunidade de Marca",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Gamificação",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Community Building",
+      "category": "Brand Strategy"
+    },
+    {
+      "name": "Content Creation",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Endurance Sports",
+      "category": "Lifestyle"
+    },
+    {
+      "name": "YouTube Content Strategy",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Comunicação moderna",
+      "category": "Marketing"
+    },
+    {
+      "name": "Engajamento",
+      "category": "Marketing"
+    },
+    {
+      "name": "Aposta consciente",
+      "category": "Ethics"
+    },
+    {
+      "name": "Gen Z",
+      "category": "Demographics"
+    },
+    {
+      "name": "Divisão de Lucros",
+      "category": "Gestão Financeira"
+    }
+  ],
+  "books": [
+    {
+      "title": "Um dia de 70 horas",
+      "author": "Manu Cit"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7 milhões",
+      "context": "Faturamento anual mencionado por um participante."
+    },
+    {
+      "value": "300 mil seguidores",
+      "context": "Número de seguidores de Manu Cit antes de expandir sua influência."
+    },
+    {
+      "value": "500 mil seguidores",
+      "context": "Crescimento de seguidores de Manu Cit após viralizar."
+    },
+    {
+      "value": "1.1 milhões de seguidores",
+      "context": "Número de seguidores de Manu Cit no TikTok após viralizar."
+    },
+    {
+      "value": "3 vezes mais",
+      "context": "Consumo de produtos influenciados por influenciadores no Brasil comparado aos EUA."
+    },
+    {
+      "value": "300-400 million BRL",
+      "context": "Revenue ceiling for brands in Brazil's wellness industry."
+    },
+    {
+      "value": "150",
+      "context": "Current physical points of sale for GUDI."
+    },
+    {
+      "value": "500",
+      "context": "Número de micro influenciadores associados à Gudei."
+    },
+    {
+      "value": "200,000",
+      "context": "Vendas realizadas durante uma live de lançamento de produto."
+    },
+    {
+      "value": "300,000",
+      "context": "Vendas totais durante a live de lançamento de produto."
+    },
+    {
+      "value": "70.3",
+      "context": "Distance of a triathlon event Manu Cit participated in."
+    },
+    {
+      "value": "10,000",
+      "context": "Amount spent by Cacá Diniz's child on a mobile game"
+    },
+    {
+      "value": "7 milhões",
+      "context": "Meta de faturamento inicial da Good Day para o ano."
+    },
+    {
+      "value": "11 milhões",
+      "context": "Faturamento alcançado pela Good Day no ano mencionado."
+    },
+    {
+      "value": "15 pessoas",
+      "context": "Tamanho atual da equipe da Good Day."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Manu Cit",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gudi",
+      "target_type": "company"
+    },
+    {
+      "source": "Manu City",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Super Coffee",
+      "target_type": "company"
+    },
+    {
+      "source": "Manu Cit",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gudi",
+      "target_type": "company"
+    },
+    {
+      "source": "Manu Cit",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Creatina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gudei",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Comunidade De Marca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gabriel Delgado",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Guday",
+      "target_type": "company"
+    },
+    {
+      "source": "Gudei",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gamificação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Manu City",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gudei",
+      "target_type": "company"
+    },
+    {
+      "source": "Dudu",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Centauro",
+      "target_type": "company"
+    },
+    {
+      "source": "Nude Project",
+      "source_type": "company",
+      "relation": "inspires",
+      "target": "Gudi",
+      "target_type": "company"
+    },
+    {
+      "source": "Logan Paul",
+      "source_type": "person",
+      "relation": "inspires",
+      "target": "Manu Cit",
+      "target_type": "person"
+    },
+    {
+      "source": "Iman Gazi",
+      "source_type": "person",
+      "relation": "inspires",
+      "target": "Manu Cit",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Jade Picom",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aura Beauty",
+      "target_type": "company"
+    },
+    {
+      "source": "Gudi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Centauro",
+      "target_type": "company"
+    },
+    {
+      "source": "Gudi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Natural Tech",
+      "target_type": "company"
+    },
+    {
+      "source": "Manuela City",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Good Day",
+      "target_type": "company"
+    },
+    {
+      "source": "Manu Cit",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Wellness Industry",
+      "target_type": "concept"
+    },
+    {
+      "source": "Manu Cit",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Guday",
+      "target_type": "company"
+    },
+    {
+      "source": "Gudi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rd",
+      "target_type": "company"
+    },
+    {
+      "source": "Gudi",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Wellness Industry",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dudu",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Adidas",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gudi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Drogaria São Paulo",
+      "target_type": "company"
+    },
+    {
+      "source": "Gudei",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Marketing De Influência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gudi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Leme",
+      "target_type": "company"
+    },
+    {
+      "source": "Manu Cit",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bruno Da Supercoffe",
+      "target_type": "person"
+    }
+  ]
+}

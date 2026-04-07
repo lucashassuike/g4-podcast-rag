@@ -1,0 +1,364 @@
+{
+  "episode_id": "34748488357",
+  "title": "EXTREMOS: Especial de Natal",
+  "date_published": 1735120800,
+  "duration": 3206,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "Extremos",
+      "title": "Host"
+    },
+    {
+      "name": "Lázaro Ramos",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rodrigo Da Boalha",
+      "role": "mentioned",
+      "company": "Boalha",
+      "title": ""
+    },
+    {
+      "name": "Lázaro Do Carmo",
+      "role": "mentioned",
+      "company": "SBT",
+      "title": "Former Vice-President"
+    },
+    {
+      "name": "Silvio Santos",
+      "role": "mentioned",
+      "company": "SBT",
+      "title": "Founder"
+    },
+    {
+      "name": "René Girard",
+      "role": "mentioned",
+      "company": "",
+      "title": "Philosopher"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Virgínia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Icaro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Daniel De Oliveira",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ultratriatleta"
+    },
+    {
+      "name": "Giba",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sabo Borges",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dudu",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Silvana",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jenson Button",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gustavo Borges",
+      "role": "mentioned",
+      "company": "Academia Gustavo Borges",
+      "title": "Fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Minimal",
+      "industry": "Fashion",
+      "context": "Mentioned as a brand providing discounts on clothing"
+    },
+    {
+      "name": "Sbt",
+      "industry": "Media",
+      "context": "Discussed in relation to Silvio Santos and Lázaro do Carmo"
+    },
+    {
+      "name": "Boalha",
+      "industry": "Unknown",
+      "context": "Mentioned in relation to Rodrigo da Boalha"
+    },
+    {
+      "name": "Bras Pag",
+      "industry": "Payment Processing",
+      "context": "Sold to Cielo"
+    },
+    {
+      "name": "Cielo",
+      "industry": "Payment Processing",
+      "context": "Acquired Bras Pag"
+    },
+    {
+      "name": "Novo Mercado",
+      "industry": "Education",
+      "context": "Platform for business education"
+    },
+    {
+      "name": "Honda",
+      "industry": "Automotiva",
+      "context": "Mencionada em relação à logística e motorhomes"
+    },
+    {
+      "name": "Academia Gustavo Borges",
+      "industry": "Fitness e Esportes",
+      "context": "Modelo de franquia de academias e piscinas pelo Brasil"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Mencionada em relação ao faturamento de 300 milhões de reais"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Bode Expiatório",
+      "category": "Business Theory"
+    },
+    {
+      "name": "Design do Desejo",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Gestão Empresarial",
+      "category": "Business Management"
+    },
+    {
+      "name": "Desejo Mimético",
+      "category": "Sociology"
+    },
+    {
+      "name": "Chá Revelação",
+      "category": "Consumer Trends"
+    },
+    {
+      "name": "Mêsversário",
+      "category": "Consumer Trends"
+    },
+    {
+      "name": "Triatlon",
+      "category": "Sports"
+    },
+    {
+      "name": "Ironman",
+      "category": "Sports"
+    },
+    {
+      "name": "Stock Car",
+      "category": "Automobilism"
+    },
+    {
+      "name": "Eurofórmula",
+      "category": "Automobilism"
+    },
+    {
+      "name": "Franquia",
+      "category": "Modelo de Negócios"
+    },
+    {
+      "name": "Faturamento",
+      "category": "Métrica Financeira"
+    },
+    {
+      "name": "Rotina e Disciplina",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Movimentação Contínua",
+      "category": "Estratégia de Sucesso"
+    },
+    {
+      "name": "Força Mental",
+      "category": "Desenvolvimento Pessoal"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wanting",
+      "author": "Luke Burgis"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "45 episódios",
+      "context": "Número de episódios do podcast Extremos em 2024"
+    },
+    {
+      "value": "80 milhões de reais",
+      "context": "Faturamento do perfume de 10 reais lançado por Silvio Santos"
+    },
+    {
+      "value": "150 empresas",
+      "context": "Número de empresas abertas por Silvio Santos"
+    },
+    {
+      "value": "39 empresas",
+      "context": "Número de empresas restantes no grupo de Silvio Santos"
+    },
+    {
+      "value": "2 vídeos",
+      "context": "Conteúdo publicado no canal do Bruno Nardon no YouTube"
+    },
+    {
+      "value": "Meio Ironman",
+      "context": "Prova completada por Bruno Nardon"
+    },
+    {
+      "value": "300 milhões de reais",
+      "context": "Faturamento anual da G4 Educação"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "René Girard",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Bode Expiatório",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Desejo Mimético",
+      "target_type": "concept"
+    },
+    {
+      "source": "Daniel De Oliveira",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ironman",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ironman",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Academia Gustavo Borges",
+      "target_type": "company"
+    },
+    {
+      "source": "Bras Pag",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cielo",
+      "target_type": "company"
+    },
+    {
+      "source": "Silvio Santos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sbt",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Extremos",
+      "target_type": "company"
+    },
+    {
+      "source": "Lázaro Do Carmo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sbt",
+      "target_type": "company"
+    },
+    {
+      "source": "Novo Mercado",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Education",
+      "target_type": "company"
+    },
+    {
+      "source": "René Girard",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Wanting",
+      "target_type": "company"
+    },
+    {
+      "source": "René Girard",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Design Do Desejo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Silvio Santos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bras Pag",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Triatlon",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Faturamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luke Burgis",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Wanting",
+      "target_type": "company"
+    }
+  ]
+}

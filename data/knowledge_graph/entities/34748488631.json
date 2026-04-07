@@ -1,0 +1,128 @@
+{
+  "episode_id": "34748488631",
+  "title": "O que fazer no seu negócio com o Lula eleito o novo Presidente do Brasil? | Tallis Gomes",
+  "date_published": 1667229641,
+  "duration": 527,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Florian Bartonek",
+      "role": "mentioned",
+      "company": "",
+      "title": "Investidor"
+    },
+    {
+      "name": "Frederico Trajano",
+      "role": "mentioned",
+      "company": "Magazine Luiza",
+      "title": "CEO"
+    },
+    {
+      "name": "Salim Mata",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empresário"
+    },
+    {
+      "name": "Israel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empresário"
+    },
+    {
+      "name": "Renan Chepe",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empresário"
+    },
+    {
+      "name": "Ayn Rand",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autora"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Mentoria Empresarial",
+      "context": "Empresa mencionada como líder em geração de empregos e formação de empreendedores."
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Varejo",
+      "context": "Empresa mencionada em relação ao CEO Frederico Trajano."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Estoicismo",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Estratégia de crescimento",
+      "category": "Negócios"
+    },
+    {
+      "name": "Networking",
+      "category": "Negócios"
+    },
+    {
+      "name": "Mentoria empresarial",
+      "category": "Educação e Desenvolvimento"
+    },
+    {
+      "name": "Imersão empresarial",
+      "category": "Educação e Desenvolvimento"
+    }
+  ],
+  "books": [
+    {
+      "title": "Atlas Shrugged",
+      "author": "Ayn Rand"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "32,000",
+      "context": "Número de alunos formados pelo G4 Educação."
+    },
+    {
+      "value": "215,000",
+      "context": "Empregos gerados diretamente pelos alunos do G4 Educação."
+    },
+    {
+      "value": "1,000,000",
+      "context": "Meta de empregos a serem gerados até 2030 pelo G4 Educação."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Atlas Shrugged",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ayn Rand",
+      "target_type": "person"
+    },
+    {
+      "source": "Frederico Trajano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

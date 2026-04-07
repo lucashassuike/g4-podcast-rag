@@ -1,0 +1,352 @@
+{
+  "episode_id": "34748488354",
+  "title": "RETROSPECTIVA 2024 DO G4 EDUCAÇÃO | EPISÓDIO ESPECIAL",
+  "date_published": 1735635600,
+  "duration": 4795,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Ex-co-fundador"
+    },
+    {
+      "name": "Misa",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "CEO"
+    },
+    {
+      "name": "Cris Junqueira",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "CEO"
+    },
+    {
+      "name": "Carlos Brito",
+      "role": "mentioned",
+      "company": "",
+      "title": "CEO"
+    },
+    {
+      "name": "Thiago Nigro",
+      "role": "mentioned",
+      "company": "Primo Rico",
+      "title": ""
+    },
+    {
+      "name": "Guilherme Freire",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ernesto Haber Korn",
+      "role": "mentioned",
+      "company": "RP Flex",
+      "title": "Founder"
+    },
+    {
+      "name": "Laércio Cosentino",
+      "role": "mentioned",
+      "company": "TOTS",
+      "title": "Founder and Chairman"
+    },
+    {
+      "name": "Rafa Cosentino",
+      "role": "mentioned",
+      "company": "TOTS",
+      "title": "Successor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Discussão sobre desempenho financeiro, metas e estrutura organizacional"
+    },
+    {
+      "name": "Nauk",
+      "industry": "Tecnologia",
+      "context": "Investimento do G4 Capital."
+    },
+    {
+      "name": "Globo Ventures",
+      "industry": "Mídia e Investimentos",
+      "context": "Exemplo de modelo de media for equity."
+    },
+    {
+      "name": "Primo Rico",
+      "industry": "Educação Financeira",
+      "context": "Mencionado em relação a Thiago Nigro."
+    },
+    {
+      "name": "Brasil Paralelo",
+      "industry": "Produção de Conteúdo",
+      "context": "Mencionado em relação a eventos e discussões."
+    },
+    {
+      "name": "Tots",
+      "industry": "Technology",
+      "context": "Mentioned as a major Brazilian tech company founded by Laércio Cosentino and Ernesto Haber Korn."
+    },
+    {
+      "name": "Rp Flex",
+      "industry": "Technology",
+      "context": "Mentioned as Ernesto Haber Korn's current company."
+    },
+    {
+      "name": "Sap",
+      "industry": "Technology",
+      "context": "Mentioned as a competitor to TOTS."
+    },
+    {
+      "name": "Local Web",
+      "industry": "Technology",
+      "context": "Mentioned as inspired by TOTS in its distribution strategy."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Meta",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Governança corporativa",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Crescimento empresarial",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Zero to One",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "community for equity",
+      "category": "Modelo de investimento"
+    },
+    {
+      "name": "media for equity",
+      "category": "Modelo de investimento"
+    },
+    {
+      "name": "middle market brasileiro",
+      "category": "Segmento de mercado"
+    },
+    {
+      "name": "empresa listada",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "educação empresarial",
+      "category": "Educação"
+    },
+    {
+      "name": "austeridade",
+      "category": "Política e Economia"
+    },
+    {
+      "name": "empreendedorismo",
+      "category": "Negócios"
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Business"
+    },
+    {
+      "name": "Ambition",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Courage",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Risk-taking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Leadership",
+      "category": "Business"
+    },
+    {
+      "name": "Resilience",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "315 milhões",
+      "context": "Receita anual da G4 Educação"
+    },
+    {
+      "value": "56%",
+      "context": "Crescimento anual da G4 Educação de 2022 para 2023"
+    },
+    {
+      "value": "204 milhões",
+      "context": "Meta de vendas atingida durante o recesso de final de ano"
+    },
+    {
+      "value": "nove dígitos",
+      "context": "Resultado financeiro do G4 Educação."
+    },
+    {
+      "value": "50% ao ano",
+      "context": "Taxa de crescimento do G4 Educação."
+    },
+    {
+      "value": "55 mil empresas",
+      "context": "Número de clientes do G4 Educação."
+    },
+    {
+      "value": "27 milhões",
+      "context": "Valor de negócios realizados pelo G4 Capital em seis meses."
+    },
+    {
+      "value": "63 milhões e 800 mil",
+      "context": "Faturamento em novembro."
+    },
+    {
+      "value": "55 mil",
+      "context": "Número de alunos do G4 Educação."
+    },
+    {
+      "value": "700 mil",
+      "context": "Empregos gerados diretamente pelos alunos do G4 Educação."
+    },
+    {
+      "value": "60-80 million",
+      "context": "Revenue of Ernesto Haber Korn's other company."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Nauk",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Community For Equity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Nigro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Primo Rico",
+      "target_type": "company"
+    },
+    {
+      "source": "Laércio Cosentino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tots",
+      "target_type": "company"
+    },
+    {
+      "source": "Misa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Middle Market Brasileiro",
+      "target_type": "concept"
+    },
+    {
+      "source": "Local Web",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Tots",
+      "target_type": "company"
+    },
+    {
+      "source": "Ernesto Haber Korn",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rp Flex",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Sap",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Tots",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafa Cosentino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tots",
+      "target_type": "company"
+    }
+  ]
+}

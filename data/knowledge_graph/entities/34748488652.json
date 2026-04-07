@@ -1,0 +1,281 @@
+{
+  "episode_id": "34748488652",
+  "title": "#026 - Como manter uma rotina de alta performance",
+  "date_published": 1631089817,
+  "duration": 2845,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "John Hopkins",
+      "role": "mentioned",
+      "company": "Johns Hopkins University",
+      "title": "PHD"
+    },
+    {
+      "name": "Doc",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dr. Volpe",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Dra. Marcela",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Escola de negócios que traduz práticas de empresas de alto crescimento."
+    },
+    {
+      "name": "Johns Hopkins University",
+      "industry": "Education",
+      "context": "Mentioned as a leading medical school"
+    },
+    {
+      "name": "Usp (Universidade De São Paulo)",
+      "industry": "Education",
+      "context": "Mentioned as a leading medical school"
+    },
+    {
+      "name": "Startup Israelense",
+      "industry": "Biotecnologia",
+      "context": "Desenvolveu o exame de microbiota mencionado no episódio."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta performance",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Fadiga da decisão",
+      "category": "Psicologia cognitiva"
+    },
+    {
+      "name": "Nootrópicos",
+      "category": "Suplementos cognitivos"
+    },
+    {
+      "name": "Cafeína",
+      "category": "Suplementos cognitivos"
+    },
+    {
+      "name": "Creatina",
+      "category": "Suplementos cognitivos"
+    },
+    {
+      "name": "Tianina",
+      "category": "Suplementos cognitivos"
+    },
+    {
+      "name": "Teacrina",
+      "category": "Suplementos cognitivos"
+    },
+    {
+      "name": "DHA",
+      "category": "Suplementos cognitivos"
+    },
+    {
+      "name": "Bacopa Monnieri",
+      "category": "Fitoterápicos"
+    },
+    {
+      "name": "TDAH (Transtorno de Déficit de Atenção e Hiperatividade)",
+      "category": "Condição médica"
+    },
+    {
+      "name": "Ritalina",
+      "category": "Medicamento"
+    },
+    {
+      "name": "Venvance",
+      "category": "Medicamento"
+    },
+    {
+      "name": "Stavigile",
+      "category": "Medicamento"
+    },
+    {
+      "name": "QI (Quociente de Inteligência)",
+      "category": "Psicologia cognitiva"
+    },
+    {
+      "name": "Transtorno de Déficit de Atenção e Hiperatividade (TDAH)",
+      "category": "Medical Condition"
+    },
+    {
+      "name": "Dieta Cetogênica",
+      "category": "Health and Nutrition"
+    },
+    {
+      "name": "Jejum Intermitente",
+      "category": "Health and Nutrition"
+    },
+    {
+      "name": "Smart Drugs",
+      "category": "Pharmacology"
+    },
+    {
+      "name": "Teacrína",
+      "category": "Stimulant"
+    },
+    {
+      "name": "Adesivos de Nicotina",
+      "category": "Stimulant"
+    },
+    {
+      "name": "Nicotina",
+      "category": "Substância química"
+    },
+    {
+      "name": "Microbiota",
+      "category": "Conceito de saúde"
+    },
+    {
+      "name": "Probióticos",
+      "category": "Conceito de saúde"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "130",
+      "context": "QI de Tallis Gomes, acima da média populacional de 100."
+    },
+    {
+      "value": "130",
+      "context": "QI mencionado como acima da média"
+    },
+    {
+      "value": "100",
+      "context": "QI médio da população"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fadiga Da Decisão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Johns Hopkins University",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Usp (Universidade De São Paulo)",
+      "target_type": "company"
+    },
+    {
+      "source": "Startup Israelense",
+      "source_type": "company",
+      "relation": "developed",
+      "target": "Exame De Microbiota",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alta Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dieta Cetogênica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dra. Marcela",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Exame De Microbiota",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Smart Drugs",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jejum Intermitente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Volpe",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Exame De Microbiota",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Transtorno De Déficit De Atenção E Hiperatividade (Tdah)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tdah (Transtorno De Déficit De Atenção E Hiperatividade)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nootrópicos",
+      "target_type": "concept"
+    }
+  ]
+}

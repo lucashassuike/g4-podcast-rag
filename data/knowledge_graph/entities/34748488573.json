@@ -1,0 +1,340 @@
+{
+  "episode_id": "34748488573",
+  "title": "César Cielo - Seja Excelente em Ser Consistente: Um Mergulho na Mente de um Recordista Mundial | Sem Atalhos",
+  "date_published": 1689584400,
+  "duration": 4429,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "César Cielo",
+      "role": "guest",
+      "company": "Sharks",
+      "title": "Campeão mundial, medalhista olímpico e recordista de natação"
+    },
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, diretora de marca e marketing de produto"
+    },
+    {
+      "name": "Thais",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thay",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nathalia",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tom Brady",
+      "role": "mentioned",
+      "company": "",
+      "title": "Jogador de Futebol Americano"
+    },
+    {
+      "name": "Ana Couto",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e treinamento",
+      "context": "Plataforma de treinamentos e desenvolvimento de times"
+    },
+    {
+      "name": "Sharks",
+      "industry": "Esportes e Lazer",
+      "context": "Clube de raquete em Piracicaba com esportes como pádel, beach tennis e pickleball."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta performance",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de treinamento"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Habilidade pessoal"
+    },
+    {
+      "name": "Eficiência",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Melhoria contínua",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Treinamento de alta performance",
+      "category": "Estratégia de treinamento"
+    },
+    {
+      "name": "Franquia híbrida",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Atleta master",
+      "category": "Categoria esportiva"
+    },
+    {
+      "name": "propósito",
+      "category": "personal development"
+    },
+    {
+      "name": "rituais",
+      "category": "personal development"
+    },
+    {
+      "name": "fisiologia",
+      "category": "personal development"
+    },
+    {
+      "name": "Rituais de performance",
+      "category": "estratégia"
+    },
+    {
+      "name": "Falha produtiva",
+      "category": "conceito"
+    },
+    {
+      "name": "Equilíbrio profissional-pessoal",
+      "category": "conceito"
+    },
+    {
+      "name": "Hall da Fama",
+      "category": "Evento de Reconhecimento"
+    },
+    {
+      "name": "Metas e Indicadores Claros",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Espírito de Aspirante",
+      "category": "Conceito Motivacional"
+    },
+    {
+      "name": "Consistência",
+      "category": "Conceito Motivacional"
+    },
+    {
+      "name": "Transição de carreira",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Objetivos escritos",
+      "category": "Estratégia de desenvolvimento pessoal"
+    },
+    {
+      "name": "Equilíbrio e contraste",
+      "category": "Conceito de vida"
+    },
+    {
+      "name": "Sistema criativo e reflexivo",
+      "category": "Conceito pessoal"
+    },
+    {
+      "name": "Lista de Objetivos",
+      "category": "Estratégia Pessoal"
+    },
+    {
+      "name": "Obsessão",
+      "category": "Mentalidade"
+    },
+    {
+      "name": "Equilíbrio Pessoal",
+      "category": "Bem-estar"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10 mil rotações de braço por semana",
+      "context": "Treinamento de nadadores velocistas"
+    },
+    {
+      "value": "5 mil saídas no ano",
+      "context": "Treinamento de nadadores"
+    },
+    {
+      "value": "6 anos",
+      "context": "Tempo que César Cielo passou treinando nos Estados Unidos"
+    },
+    {
+      "value": "9 vitórias individuais",
+      "context": "Número de finais de mundiais vencidas por César Cielo"
+    },
+    {
+      "value": "4.200",
+      "context": "Número de provas competidas por César Cielo"
+    },
+    {
+      "value": "22",
+      "context": "Número de provas que levaram César Cielo ao reconhecimento"
+    },
+    {
+      "value": "4,200 provas",
+      "context": "Número de competições realizadas por César Cielo"
+    },
+    {
+      "value": "22 provas destacadas",
+      "context": "Provas que levaram César Cielo a ser reconhecido"
+    },
+    {
+      "value": "Milhões de metros nadados",
+      "context": "Distância acumulada por nadadores mencionados"
+    },
+    {
+      "value": "40 medalhas",
+      "context": "Total de medalhas celebradas no Hall da Fama"
+    },
+    {
+      "value": "100 palestras por ano",
+      "context": "Média de palestras realizadas por César Cielo"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Equilíbrio Profissional-Pessoal",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hall Da Fama",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tom Brady",
+      "target_type": "person"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fisiologia",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Transição De Carreira",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Propósito",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Falha Produtiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Consistência",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Equilíbrio E Contraste",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ana Couto",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Objetivos Escritos",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sistema Criativo E Reflexivo",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Objetivos Escritos",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rituais De Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rituais",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Disciplina",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sharks",
+      "target_type": "company"
+    }
+  ]
+}

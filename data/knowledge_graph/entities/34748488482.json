@@ -1,0 +1,220 @@
+{
+  "episode_id": "34748488482",
+  "title": "POR QUE A EXPERIÊNCIA DO CLIENTE NÃO PODE SER MAIS IGNORADA - COM EZEQUIEL VALERO | G4 PODCASTS",
+  "date_published": 1703667600,
+  "duration": 3970,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Ezequiel Valero",
+      "role": "guest",
+      "company": "Criative",
+      "title": "CEO"
+    },
+    {
+      "name": "Maurício De Souza",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Evandro",
+      "role": "mentioned",
+      "company": "Creative",
+      "title": "Leader"
+    },
+    {
+      "name": "Tiago Valero",
+      "role": "mentioned",
+      "company": "Criativa",
+      "title": "Employee"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa cofundada por Tallis Gomes, mencionada no contexto de mentoria e parceria com Criative."
+    },
+    {
+      "name": "Criative",
+      "industry": "Brindes e Materiais Promocionais",
+      "context": "Empresa liderada por Ezequiel Valero, especializada em brindes personalizados."
+    },
+    {
+      "name": "Ibm",
+      "industry": "Tecnologia",
+      "context": "Empresa que colaborou com Criative para criação de uma loja interna."
+    },
+    {
+      "name": "Maurício De Souza Produções",
+      "industry": "Entretenimento",
+      "context": "Empresa onde Ezequiel Valero trabalhou como contador."
+    },
+    {
+      "name": "Creative",
+      "industry": "Promotional Products",
+      "context": "Company founded and operated by Ezequiel Valero"
+    },
+    {
+      "name": "Criativa",
+      "industry": "Promotional Products",
+      "context": "Discussed as a company providing high-quality promotional products and certified by a multinational company."
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Mentioned as a client visiting Criativa."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Engajamento Organizacional",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "Diversificação de Clientes",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Inovação Tecnológica",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Leadership",
+      "category": "Management"
+    },
+    {
+      "name": "Change Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Marketing de Indicação",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Certificação Multinacional",
+      "category": "Business Practice"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "3.500",
+      "context": "Número de clientes ativos da Criative."
+    },
+    {
+      "value": "5.000 metros",
+      "context": "Área total de produção da Criative."
+    },
+    {
+      "value": "27 years",
+      "context": "Time Ezequiel Valero has been leading Creative"
+    },
+    {
+      "value": "5,000 square meters",
+      "context": "Total area of Creative's facilities"
+    },
+    {
+      "value": "4,500 square meters",
+      "context": "Production area within Creative's facilities"
+    },
+    {
+      "value": "500 square meters",
+      "context": "Stock area within Creative's facilities"
+    },
+    {
+      "value": "15 years",
+      "context": "Duration of IBM as a client of Criativa."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Criativa",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Promotional Products",
+      "target_type": "company"
+    },
+    {
+      "source": "Ezequiel Valero",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Criative",
+      "target_type": "company"
+    },
+    {
+      "source": "Ezequiel Valero",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Criativa",
+      "target_type": "company"
+    },
+    {
+      "source": "Criativa",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "Criativa",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ibm",
+      "target_type": "company"
+    },
+    {
+      "source": "Ezequiel Valero",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Creative",
+      "target_type": "company"
+    },
+    {
+      "source": "Criative",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Criative",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Ibm",
+      "target_type": "company"
+    },
+    {
+      "source": "Evandro",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Ezequiel Valero",
+      "target_type": "person"
+    },
+    {
+      "source": "Ezequiel Valero",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Maurício De Souza Produções",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

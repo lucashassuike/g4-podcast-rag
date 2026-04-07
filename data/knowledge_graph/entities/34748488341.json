@@ -1,0 +1,188 @@
+{
+  "episode_id": "34748488341",
+  "title": "GOVERNANÇA CORPORATIVA E SUCESSÃO FAMILIAR COM MARCO FRANÇA | PAPO DE GESTÃO",
+  "date_published": 1739797200,
+  "duration": 3882,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Marco França",
+      "role": "guest",
+      "company": "Aldas",
+      "title": "Convidado"
+    },
+    {
+      "name": "Juliane",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Amanda",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "François Julien",
+      "role": "mentioned",
+      "company": "Aldas",
+      "title": "Executivo"
+    },
+    {
+      "name": "Denis Wang",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Francis Julien",
+      "role": "mentioned",
+      "company": "Aldas",
+      "title": "President"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcast",
+      "industry": "Media",
+      "context": "Podcast focusing on business and management topics."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Referenced as a company involved in professional and business education."
+    },
+    {
+      "name": "Aldas",
+      "industry": "Consultoria",
+      "context": "Consultoria mencionada no contexto de governança corporativa e sucessão familiar"
+    },
+    {
+      "name": "Pátria",
+      "industry": "Investimentos",
+      "context": "Empresa mencionada em contexto de aquisição de negócios"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Governança Corporativa",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Sucessão Familiar",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Holding Patrimonial",
+      "category": "Financial Planning"
+    },
+    {
+      "name": "Offshore",
+      "category": "Financial Planning"
+    },
+    {
+      "name": "Seguro de Vida",
+      "category": "Financial Planning"
+    },
+    {
+      "name": "Testamento",
+      "category": "Legal Planning"
+    },
+    {
+      "name": "C-Level",
+      "category": "Estrutura Organizacional"
+    },
+    {
+      "name": "Modelo de Salas",
+      "category": "Framework de Gestão"
+    },
+    {
+      "name": "Transformação Exponencial",
+      "category": "Estratégia de Crescimento"
+    },
+    {
+      "name": "Profissão Herdeiro",
+      "category": "Conceito de Gestão Familiar"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "150 milhões de reais",
+      "context": "Transformação de dívida em receita por uma cliente mencionada"
+    },
+    {
+      "value": "7 anos",
+      "context": "Tempo para alcançar o crescimento mencionado"
+    },
+    {
+      "value": "600 mil reais",
+      "context": "Dívida inicial transformada em receita mencionada"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Francis Julien",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aldas",
+      "target_type": "company"
+    },
+    {
+      "source": "François Julien",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aldas",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Pátria",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Cliente Mencionada",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Podcast",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Denis Wang",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aldas",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "episode_id": "34748488571",
+  "title": "Christian Dunker - Saúde Mental, Burnout e Como Evitar o Esgotamento | Sem Atalhos",
+  "date_published": 1690189200,
+  "duration": 3816,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Christian Dunker",
+      "role": "guest",
+      "company": "USP",
+      "title": "Professor e pesquisador"
+    },
+    {
+      "name": "Milton Friedman",
+      "role": "mentioned",
+      "company": "University of Chicago",
+      "title": "Economist"
+    },
+    {
+      "name": "Gary Becker",
+      "role": "mentioned",
+      "company": "University of Chicago",
+      "title": "Economist"
+    },
+    {
+      "name": "Cris",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "University Of Chicago",
+      "industry": "Education",
+      "context": "Associated with economic theories influencing management styles"
+    },
+    {
+      "name": "Paidós",
+      "industry": "Publishing",
+      "context": "Publisher of the book 'Biografia da Depressão'"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Burnout",
+      "category": "Mental Health"
+    },
+    {
+      "name": "Enhanced Paradigm",
+      "category": "Medical Paradigm"
+    },
+    {
+      "name": "Administration Calculated of Suffering",
+      "category": "Management Strategy"
+    },
+    {
+      "name": "Depressão",
+      "category": "Mental health"
+    },
+    {
+      "name": "Ansiedade",
+      "category": "Mental health"
+    },
+    {
+      "name": "Soft skills",
+      "category": "Professional skills"
+    },
+    {
+      "name": "Hard skills",
+      "category": "Professional skills"
+    },
+    {
+      "name": "Anedonia",
+      "category": "Mental health"
+    },
+    {
+      "name": "Síndrome",
+      "category": "Medical classification"
+    }
+  ],
+  "books": [
+    {
+      "title": "Biografia da Depressão",
+      "author": "Christian Dunker"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "158 novas doenças mentais em 10 anos",
+      "context": "Número de novas doenças mentais identificadas"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Milton Friedman",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "University Of Chicago",
+      "target_type": "company"
+    },
+    {
+      "source": "Gary Becker",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "University Of Chicago",
+      "target_type": "company"
+    },
+    {
+      "source": "Christian Dunker",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Burnout",
+      "target_type": "concept"
+    },
+    {
+      "source": "Christian Dunker",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Usp",
+      "target_type": "company"
+    },
+    {
+      "source": "Christian Dunker",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Biografia Da Depressão",
+      "target_type": "company"
+    }
+  ]
+}

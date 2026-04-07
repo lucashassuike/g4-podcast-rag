@@ -1,0 +1,326 @@
+{
+  "episode_id": "34748488627",
+  "title": "Ícaro de Carvalho (Parte 1) - Família, Treinos, Saúde, Empresas militantes, Mercado Digital | Papo de Gestão",
+  "date_published": 1671439260,
+  "duration": 5939,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Ícaro De Carvalho",
+      "role": "guest",
+      "company": "Novo Mercado",
+      "title": "Founder"
+    },
+    {
+      "name": "Jonas",
+      "role": "mentioned",
+      "company": "Novo Mercado",
+      "title": "COO"
+    },
+    {
+      "name": "A.C. Arnaud",
+      "role": "mentioned",
+      "company": "HubSpot",
+      "title": "Speaker"
+    },
+    {
+      "name": "Beto",
+      "role": "mentioned",
+      "company": "Empiricus",
+      "title": ""
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "role": "mentioned",
+      "company": "Meta Platforms, Inc.",
+      "title": "CEO"
+    },
+    {
+      "name": "Cris",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Matheus",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Host company of the podcast"
+    },
+    {
+      "name": "Novo Mercado",
+      "industry": "Education",
+      "context": "Company founded by Ícaro de Carvalho, focused on digital education and certifications"
+    },
+    {
+      "name": "Hubspot",
+      "industry": "Technology",
+      "context": "Mentioned in relation to an event attended by Ícaro de Carvalho"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Discussed as a startup founded by Tallis Gomes."
+    },
+    {
+      "name": "Singur",
+      "industry": "Consumer Goods",
+      "context": "Founded by Tallis Gomes and later sold to Natura."
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosmetics",
+      "context": "Acquired Singur."
+    },
+    {
+      "name": "Empiricus",
+      "industry": "Finance",
+      "context": "Mentioned in relation to Beto's investment in a gym."
+    },
+    {
+      "name": "Meta Platforms, Inc.",
+      "industry": "Technology",
+      "context": "Discussed in relation to Mark Zuckerberg's leadership and company challenges."
+    },
+    {
+      "name": "Facebook",
+      "industry": "Tecnologia",
+      "context": "Discussão sobre políticas internas e visão de futuro da empresa"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Creator Economy",
+      "category": "Market Trend"
+    },
+    {
+      "name": "ARR (Annual Recurring Revenue)",
+      "category": "Business Metric"
+    },
+    {
+      "name": "CAC (Customer Acquisition Cost)",
+      "category": "Business Metric"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Business Metric"
+    },
+    {
+      "name": "Ecossistema de Negócios",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Business Model"
+    },
+    {
+      "name": "Certificações Profissionais",
+      "category": "Education"
+    },
+    {
+      "name": "Assistentes Virtuais",
+      "category": "Workforce"
+    },
+    {
+      "name": "Series A, B, C, D Funding",
+      "category": "Startup Financing"
+    },
+    {
+      "name": "Unit Economics",
+      "category": "Business Analysis"
+    },
+    {
+      "name": "CAGR (Compound Annual Growth Rate)",
+      "category": "Financial Metric"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Customer Satisfaction Metric"
+    },
+    {
+      "name": "Stock Options",
+      "category": "Employee Incentive"
+    },
+    {
+      "name": "Deep Work",
+      "category": "Productivity Framework"
+    },
+    {
+      "name": "Stock Option",
+      "category": "Estratégia de Incentivo"
+    },
+    {
+      "name": "Layoff",
+      "category": "Gestão de Recursos Humanos"
+    },
+    {
+      "name": "Negociação",
+      "category": "Habilidade Profissional"
+    },
+    {
+      "name": "Gestão de Empresas",
+      "category": "Administração"
+    },
+    {
+      "name": "Família como suporte",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "valores no desenvolvimento",
+      "category": "personal development"
+    },
+    {
+      "name": "presença do pai",
+      "category": "family dynamics"
+    }
+  ],
+  "books": [
+    {
+      "title": "Obras de G.K. Chesterton",
+      "author": "G.K. Chesterton"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "150,000",
+      "context": "Number of students who have passed through Novo Mercado"
+    },
+    {
+      "value": "65-67 million",
+      "context": "Annual revenue of Novo Mercado"
+    },
+    {
+      "value": "80",
+      "context": "Number of employees at Novo Mercado"
+    },
+    {
+      "value": "30% CAGR",
+      "context": "Minimum growth rate expected by investors."
+    },
+    {
+      "value": "3x to 10x return",
+      "context": "Typical investor returns over 5 years."
+    },
+    {
+      "value": "7,000 subscribers",
+      "context": "Growth metric for G4 Educação's programs."
+    },
+    {
+      "value": "R$9.99 to R$10,000",
+      "context": "Pricing range for G4 Educação's online programs."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Singur",
+      "source_type": "company",
+      "relation": "sold_to",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Família Como Suporte",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Meta Platforms, Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Novo Mercado",
+      "target_type": "company"
+    },
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Matheus",
+      "target_type": "person"
+    },
+    {
+      "source": "Beto",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Empiricus",
+      "target_type": "company"
+    },
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Novo Mercado",
+      "target_type": "company"
+    },
+    {
+      "source": "A.C. Arnaud",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hubspot",
+      "target_type": "company"
+    },
+    {
+      "source": "Facebook",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Stock Option",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jonas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Novo Mercado",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singur",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

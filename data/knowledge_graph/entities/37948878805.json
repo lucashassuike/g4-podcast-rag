@@ -1,0 +1,151 @@
+{
+  "episode_id": "37948878805",
+  "title": "AS PRINCIPAIS REGRAS DE QUEM ENFRENTOU 14 IRONMANS COM CIÇA CARVALHO | A JORNADA",
+  "date_published": 1748509200,
+  "duration": 4250,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Ciça Carvalho",
+      "role": "guest",
+      "company": "",
+      "title": "Nutricionista e Triatleta"
+    },
+    {
+      "name": "Vitor Putinelli",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [],
+  "concepts": [
+    {
+      "name": "Ironman",
+      "category": "sports"
+    },
+    {
+      "name": "Triatlon",
+      "category": "sports"
+    },
+    {
+      "name": "Nutrição esportiva",
+      "category": "health"
+    },
+    {
+      "name": "déficit calórico",
+      "category": "nutrição e emagrecimento"
+    },
+    {
+      "name": "percentual de gordura",
+      "category": "nutrição e saúde"
+    },
+    {
+      "name": "longevidade",
+      "category": "saúde e bem-estar"
+    },
+    {
+      "name": "Ultraman",
+      "category": "esporte e competição"
+    },
+    {
+      "name": "pandemia de COVID-19",
+      "category": "event"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "14 vezes",
+      "context": "Número de participações de Ciça Carvalho no Ironman"
+    },
+    {
+      "value": "9 horas e 43 minutos",
+      "context": "Melhor tempo de Ciça Carvalho no Ironman em Florianópolis"
+    },
+    {
+      "value": "120kg",
+      "context": "Peso de um atleta mencionado durante uma prova de Ironman"
+    },
+    {
+      "value": "11.3%",
+      "context": "Percentual de gordura mencionado como exemplo"
+    },
+    {
+      "value": "13%",
+      "context": "Percentual de gordura mínimo recomendado para mulheres"
+    },
+    {
+      "value": "9%",
+      "context": "Percentual de gordura ideal para desempenho em Ironman"
+    },
+    {
+      "value": "7",
+      "context": "Número de vezes que Ciça Carvalho participou do Ironman em Kona até 2019"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ciça Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Longevidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ciça Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ultraman",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ciça Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Triatlon",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ciça Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pandemia De Covid-19",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ciça Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nutrição Esportiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ciça Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Percentual De Gordura",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ciça Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Déficit Calórico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ciça Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ironman",
+      "target_type": "concept"
+    }
+  ]
+}

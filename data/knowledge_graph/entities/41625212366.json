@@ -1,0 +1,124 @@
+{
+  "episode_id": "41625212366",
+  "title": "[CORTE] \"O SEGREDO DO BRANDING? CLIENTE FELIZ E SASTISFEITO\" DISPARA PEDRO CASTRO",
+  "date_published": 1755896921,
+  "duration": 666,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Pedro Castro",
+      "role": "guest",
+      "company": "Hidrater",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Meta",
+      "industry": "Technology",
+      "context": "Discussed as a platform for branding and performance marketing"
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Mentioned as an example of high-quality branding"
+    },
+    {
+      "name": "Hidrater",
+      "industry": "Cosmetics",
+      "context": "Pedro Castro discusses branding and performance strategies for this company"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Referenced as an organization with insights into branding and performance"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Performance Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Brandformance",
+      "category": "Marketing"
+    },
+    {
+      "name": "Customer Acquisition Cost (CAC)",
+      "category": "Metrics"
+    },
+    {
+      "name": "Recurrence",
+      "category": "Metrics"
+    },
+    {
+      "name": "Omnichannel",
+      "category": "Retail"
+    },
+    {
+      "name": "CTR (Click-Through Rate)",
+      "category": "Metrics"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10,000 BRL",
+      "context": "Example budget for testing branding and performance strategies"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Apple",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hidrater",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Cosmetics",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Meta",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Hidrater",
+      "target_type": "company"
+    }
+  ]
+}

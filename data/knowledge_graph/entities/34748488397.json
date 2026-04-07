@@ -1,0 +1,263 @@
+{
+  "episode_id": "34748488397",
+  "title": "UM CPF FORTE SUSTENTA UM CNPJ DE EXCELÊNCIA COM GUTO GALAMBA | EXTREMOS",
+  "date_published": 1726041600,
+  "duration": 5413,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do G4 Podcast"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do G4 Podcast"
+    },
+    {
+      "name": "Guto Galamba",
+      "role": "guest",
+      "company": "Galamba Treinamentos",
+      "title": "Convidado do episódio"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Empreendedor e co-fundador do G4 Educação"
+    },
+    {
+      "name": "Dona Manoela",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fred Parcos",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação para negócios mencionada no episódio"
+    },
+    {
+      "name": "Uptrend",
+      "industry": "Educação e Treinamento",
+      "context": "Mencionada como uma das empresas analisadas para identificar gargalos."
+    },
+    {
+      "name": "Outfitting",
+      "industry": "Educação e Treinamento",
+      "context": "Mencionada como uma das empresas analisadas para identificar gargalos."
+    },
+    {
+      "name": "Alphacon",
+      "industry": "Educação e Treinamento",
+      "context": "Mencionada como uma das empresas analisadas para identificar gargalos."
+    },
+    {
+      "name": "Galamba Treinamentos",
+      "industry": "Educação e Treinamento",
+      "context": "Empresa do convidado Guto Galamba."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Disciplina empresarial",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Educação alimentar",
+      "category": "Saúde e bem-estar"
+    },
+    {
+      "name": "Podcast como estratégia de funil",
+      "category": "Marketing e comunicação"
+    },
+    {
+      "name": "Outsourcing",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "MGM (Member Get Member)",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Identificação de Gargalos",
+      "category": "Gestão de Processos"
+    },
+    {
+      "name": "Reprise de Lives",
+      "category": "Estratégia de Conteúdo Digital"
+    },
+    {
+      "name": "dopamina",
+      "category": "neuroscience"
+    },
+    {
+      "name": "ajuste de recompensa",
+      "category": "psychology"
+    },
+    {
+      "name": "vício em pornografia",
+      "category": "behavioral studies"
+    },
+    {
+      "name": "prevenção de câncer",
+      "category": "health"
+    },
+    {
+      "name": "tempo de tela",
+      "category": "technology impact"
+    },
+    {
+      "name": "psicologia",
+      "category": "framework"
+    },
+    {
+      "name": "equity",
+      "category": "finance"
+    },
+    {
+      "name": "brand",
+      "category": "marketing"
+    },
+    {
+      "name": "Beach Tennis",
+      "category": "sports"
+    },
+    {
+      "name": "CrossFit",
+      "category": "sports"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "279",
+      "context": "Número de lives realizadas por Guto Galamba."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dopamina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Psicologia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Uptrend",
+      "target_type": "company"
+    },
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Disciplina Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Alphacon",
+      "target_type": "company"
+    },
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Galamba Treinamentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Prevenção De Câncer",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Equity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tempo De Tela",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vício Em Pornografia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Brand",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Outfitting",
+      "target_type": "company"
+    },
+    {
+      "source": "Guto Galamba",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ajuste De Recompensa",
+      "target_type": "concept"
+    }
+  ]
+}

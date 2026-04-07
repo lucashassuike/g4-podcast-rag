@@ -1,0 +1,129 @@
+{
+  "episode_id": "41225046061",
+  "title": "[CORTE] \"EU TENTAVA PREVER O MÁXIMO DO CAMINHO\" JOÃO MORESSI",
+  "date_published": 1755118800,
+  "duration": 666,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "João Moressi",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ricardo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Henrique Do Bugras",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Mencionada como desenvolvedora de ferramentas com AI"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "lógica de programação",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "código limpo",
+      "category": "Desenvolvimento de Software"
+    },
+    {
+      "name": "fluxo de caixa",
+      "category": "Finanças Empresariais"
+    },
+    {
+      "name": "bootstrap",
+      "category": "Financiamento Empresarial"
+    },
+    {
+      "name": "fit cultural",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "inteligência artificial (AI)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "desenvolvimento de software",
+      "category": "Tecnologia"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "90%",
+      "context": "Profissionais realocados após término de projetos"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Artificial (Ai)",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Inteligência Artificial (Ai)",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lógica De Programação",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Bootstrap",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fit Cultural",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fluxo De Caixa",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Código Limpo",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Desenvolvimento De Software",
+      "target_type": "concept"
+    }
+  ]
+}

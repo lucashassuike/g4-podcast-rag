@@ -1,0 +1,167 @@
+{
+  "episode_id": "41582685957",
+  "title": "[CORTE] É UM MERCADO POUCO EXPLORADO E ALTAMENTE LUCRATIVO",
+  "date_published": 1755810000,
+  "duration": 937,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Prado",
+      "role": "mentioned",
+      "company": "Leveros",
+      "title": ""
+    },
+    {
+      "name": "Eugênio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fernandinho Sartori",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Discussão sobre programas de educação e qualificação empresarial."
+    },
+    {
+      "name": "Leveros",
+      "industry": "Climatização",
+      "context": "Discussão sobre mercado de climatização e qualificação de instaladores."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Digitalização",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Jornada do Cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Educação Executiva",
+      "category": "Educação"
+    },
+    {
+      "name": "Mercado de Climatização",
+      "category": "Indústria"
+    },
+    {
+      "name": "Qualificação Profissional",
+      "category": "Educação"
+    },
+    {
+      "name": "Plataforma de Negócios",
+      "category": "Modelo de Negócio"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "100,000 a 110,000",
+      "context": "Número de empresas cadastradas no Brasil como instaladoras de ar-condicionado."
+    },
+    {
+      "value": "100,000",
+      "context": "Número estimado de instaladores informais de ar-condicionado no Brasil."
+    },
+    {
+      "value": "4.5 milhões para 6 milhões",
+      "context": "Crescimento anual de unidades de ar-condicionado vendidas no Brasil."
+    },
+    {
+      "value": "2 milhões por mês",
+      "context": "Faturamento de alguns instaladores de ar-condicionado com a Leveros."
+    },
+    {
+      "value": "30,000",
+      "context": "Número de cadastros ativos de instaladores na Leveros."
+    },
+    {
+      "value": "2,700",
+      "context": "Número de instaladores recorrentes mensais na Leveros."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Mercado De Climatização",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Educação Executiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Prado",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Leveros",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

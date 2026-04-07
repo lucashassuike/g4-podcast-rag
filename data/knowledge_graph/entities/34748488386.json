@@ -1,0 +1,484 @@
+{
+  "episode_id": "34748488386",
+  "title": "O QUE TODO MÉDICO PRECISA SABER SOBRE GESTÃO - COM GUILHERME AZEVEDO (ALICE) | PAPO DE GESTÃO",
+  "date_published": 1728892800,
+  "duration": 4640,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Guilherme Azevedo",
+      "role": "guest",
+      "company": "Alice",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do Papo de Gestão"
+    },
+    {
+      "name": "Davi Velez",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Fundador"
+    },
+    {
+      "name": "Sam Peters",
+      "role": "mentioned",
+      "company": "Dr. Consulta",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Matheus",
+      "role": "mentioned",
+      "company": "Alice",
+      "title": "Co-founder"
+    },
+    {
+      "name": "André",
+      "role": "mentioned",
+      "company": "Alice",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Adriana",
+      "role": "mentioned",
+      "company": "",
+      "title": "Médica ginecologista"
+    },
+    {
+      "name": "Chris Ananiadis",
+      "role": "mentioned",
+      "company": "",
+      "title": "Professional diver"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Alice",
+      "industry": "Saúde e Tecnologia",
+      "context": "Plano de saúde inovador focado em tecnologia e usabilidade"
+    },
+    {
+      "name": "Dr. Consulta",
+      "industry": "Saúde",
+      "context": "Clínicas médicas acessíveis"
+    },
+    {
+      "name": "Gênesis",
+      "industry": "Saúde",
+      "context": "Empresa fundada por Guilherme Azevedo"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Mentoria",
+      "context": "Plataforma de educação e mentoria para empreendedores"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Finanças e Tecnologia",
+      "context": "Banco digital inovador"
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Plataforma de comércio eletrônico"
+    },
+    {
+      "name": "Softbank",
+      "industry": "Investment",
+      "context": "Invested in Alice during its funding rounds."
+    },
+    {
+      "name": "Casec",
+      "industry": "Investment",
+      "context": "Participated in funding Alice."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Sinistralidade",
+      "category": "Saúde e Seguros"
+    },
+    {
+      "name": "Usabilidade",
+      "category": "Tecnologia e Experiência do Cliente"
+    },
+    {
+      "name": "Cultura de Tech",
+      "category": "Tecnologia e Inovação"
+    },
+    {
+      "name": "Alinhamento de Incentivos",
+      "category": "Gestão e Estratégia"
+    },
+    {
+      "name": "Confiança",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Gestão de saúde digital",
+      "category": "Healthcare"
+    },
+    {
+      "name": "Alice Agora",
+      "category": "Healthcare Service"
+    },
+    {
+      "name": "Médico de família",
+      "category": "Healthcare Model"
+    },
+    {
+      "name": "Monthly Active Users (MAU)",
+      "category": "Metric"
+    },
+    {
+      "name": "Healthcare Regulation",
+      "category": "Policy"
+    },
+    {
+      "name": "Clinical Management",
+      "category": "Healthcare"
+    },
+    {
+      "name": "Patient-Centric Care",
+      "category": "Healthcare"
+    },
+    {
+      "name": "Operational Efficiency",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Data-Driven Decision Making",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Prontuário Universal do Cidadão",
+      "category": "Iniciativa de saúde pública"
+    },
+    {
+      "name": "Gestão Estratégica",
+      "category": "Programa educacional"
+    },
+    {
+      "name": "Taxa de cesárea",
+      "category": "Métrica de saúde"
+    },
+    {
+      "name": "Parto normal",
+      "category": "Procedimento médico"
+    },
+    {
+      "name": "Transparência de dados",
+      "category": "Conceito de gestão"
+    },
+    {
+      "name": "Planning",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Health Insurance",
+      "category": "Industry"
+    },
+    {
+      "name": "Technology Integration",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Funding Rounds",
+      "category": "Investment"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Professional development"
+    },
+    {
+      "name": "Psicologia do Adolescente",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Déficit de Atenção",
+      "category": "Saúde Mental"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "40% menor",
+      "context": "Reajuste do plano de saúde Alice comparado ao mercado"
+    },
+    {
+      "value": "5 anos e meio",
+      "context": "Tempo de operação da Alice"
+    },
+    {
+      "value": "200 funcionários",
+      "context": "Equipe da Alice"
+    },
+    {
+      "value": "30 segundos",
+      "context": "SLA de primeira resposta da Alice Agora"
+    },
+    {
+      "value": "30%-35% MAU",
+      "context": "Monthly Active Users da Alice Agora"
+    },
+    {
+      "value": "1%-2% índice de glosa",
+      "context": "Eficiência operacional da Alice comparada ao mercado"
+    },
+    {
+      "value": "70% MAU trimestral",
+      "context": "Engajamento trimestral da base da Alice"
+    },
+    {
+      "value": "30%-40% inefficiency",
+      "context": "Percentage of inefficiency in healthcare operations discussed."
+    },
+    {
+      "value": "10% of GDP",
+      "context": "Healthcare sector's contribution to Brazil's GDP."
+    },
+    {
+      "value": "62%",
+      "context": "Taxa de partos normais na Alice."
+    },
+    {
+      "value": "80%",
+      "context": "Taxa de cesáreas na saúde privada no Brasil."
+    },
+    {
+      "value": "20%",
+      "context": "Taxa recomendada de cesáreas pela OMS."
+    },
+    {
+      "value": "10 milhões de reais",
+      "context": "Faturamento mínimo para empresas participantes do programa Gestão Estratégica."
+    },
+    {
+      "value": "350 million BRL",
+      "context": "Investment in software development by Alice."
+    },
+    {
+      "value": "150",
+      "context": "Number of tech team members at Alice."
+    },
+    {
+      "value": "40% lower",
+      "context": "Alice's health insurance adjustment rate compared to competitors for three consecutive years."
+    },
+    {
+      "value": "22 páginas",
+      "context": "Relatório para planejamento estratégico"
+    },
+    {
+      "value": "27 libras (12,3 quilos)",
+      "context": "Recorde mundial de pesca submarina"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Guilherme Azevedo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Dr. Consulta",
+      "target_type": "company"
+    },
+    {
+      "source": "Alice",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Healthcare Regulation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Azevedo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gênesis",
+      "target_type": "company"
+    },
+    {
+      "source": "Alice",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Alice Agora",
+      "target_type": "concept"
+    },
+    {
+      "source": "Matheus",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alice",
+      "target_type": "company"
+    },
+    {
+      "source": "André",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alice",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Softbank",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Alice",
+      "target_type": "company"
+    },
+    {
+      "source": "Gestão Estratégica",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Chris Ananiadis",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Guilherme Azevedo",
+      "target_type": "person"
+    },
+    {
+      "source": "Alice",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Médico De Família",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alice",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão De Saúde Digital",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alice",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Confiança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Casec",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Alice",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Azevedo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alice",
+      "target_type": "company"
+    },
+    {
+      "source": "Alice Agora",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Monthly Active Users (Mau)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alice",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Patient-Centric Care",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alice",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Operational Efficiency",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alice",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Saúde E Tecnologia",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Azevedo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Alice",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "E-Commerce",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Azevedo",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Davi Velez",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Prontuário Universal Do Cidadão",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Alice",
+      "target_type": "company"
+    }
+  ]
+}

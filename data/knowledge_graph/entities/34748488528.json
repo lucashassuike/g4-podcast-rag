@@ -1,0 +1,390 @@
+{
+  "episode_id": "34748488528",
+  "title": "Como a CIMED faturou 40 milhões em 20 minutos? - Com Eric Shibata | Papo de Gestão",
+  "date_published": 1697445000,
+  "duration": 4017,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Eric Chibata",
+      "role": "guest",
+      "company": "Cimed",
+      "title": "Head de Marketing"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "João Adib",
+      "role": "mentioned",
+      "company": "Cimed",
+      "title": "Presidente"
+    },
+    {
+      "name": "Rodrigo Faro",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Influenciador"
+    },
+    {
+      "name": "Felipe Massa",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Influenciador"
+    },
+    {
+      "name": "Sabrina Sato",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Influenciadora"
+    },
+    {
+      "name": "Luciano Hang",
+      "role": "mentioned",
+      "company": "Havan",
+      "title": "Empresário"
+    },
+    {
+      "name": "Luiza Trajano",
+      "role": "mentioned",
+      "company": "Magazine Luiza",
+      "title": "Presidente"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Eric Shibata",
+      "role": "guest",
+      "company": "CIMED",
+      "title": "Executive"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "CIMED",
+      "title": "Founder"
+    },
+    {
+      "name": "Carla",
+      "role": "mentioned",
+      "company": "CIMED",
+      "title": "Executive"
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Founder"
+    },
+    {
+      "name": "André Esteves",
+      "role": "mentioned",
+      "company": "BTG Pactual",
+      "title": "Executive"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Cimed",
+      "industry": "Farmacêutica",
+      "context": "Discussão sobre estratégias de marketing e crescimento"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Desenvolvimento de plataformas de treinamento como o G4 Skills"
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Varejo",
+      "context": "Exemplo de empresa com forte identidade de liderança"
+    },
+    {
+      "name": "Havan",
+      "industry": "Varejo",
+      "context": "Exemplo de empresa com forte identidade de liderança"
+    },
+    {
+      "name": "Embraer",
+      "industry": "Aeronáutica",
+      "context": "Empresa onde Eric Chibata trabalhou por 15 anos"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Financial Services",
+      "context": "Mentioned in the context of Guilherme Benchimol's leadership."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Financial Services",
+      "context": "Mentioned in the context of André Esteves' leadership."
+    },
+    {
+      "name": "Fini",
+      "industry": "Confectionery",
+      "context": "Collaborated with CIMED for product distribution and a joint product launch."
+    },
+    {
+      "name": "Boticário",
+      "industry": "Cosmetics",
+      "context": "Mentioned in the context of a collaboration with Babalu."
+    },
+    {
+      "name": "Dhl",
+      "industry": "Logistics",
+      "context": "Mentioned in the context of a collaboration with Vetements."
+    },
+    {
+      "name": "Vetements",
+      "industry": "Fashion",
+      "context": "Mentioned in the context of a collaboration with DHL."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de treinamento"
+    },
+    {
+      "name": "Estratégia de redução de custo",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Fast fashion do medicamento",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Inspirar o empreendedor brasileiro",
+      "category": "Missão empresarial"
+    },
+    {
+      "name": "B2B",
+      "category": "Business Model"
+    },
+    {
+      "name": "B2C",
+      "category": "Business Model"
+    },
+    {
+      "name": "Luxury Market",
+      "category": "Industry"
+    },
+    {
+      "name": "Social Media Strategy",
+      "category": "Marketing"
+    },
+    {
+      "name": "Humanizing Brands",
+      "category": "Brand Strategy"
+    },
+    {
+      "name": "Collaboration",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Product Launch",
+      "category": "Marketing"
+    },
+    {
+      "name": "Distribution Channels",
+      "category": "Business Operations"
+    },
+    {
+      "name": "TikTok Marketing",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Consumer Behavior",
+      "category": "Market Analysis"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "40 milhões",
+      "context": "Faturamento em 20 minutos pela Cimed"
+    },
+    {
+      "value": "1 bilhão",
+      "context": "Faturamento anual da Cimed após crescimento"
+    },
+    {
+      "value": "400 milhões",
+      "context": "Faturamento anterior da Cimed antes de atingir 1 bilhão"
+    },
+    {
+      "value": "600 SKUs",
+      "context": "Número de produtos da Cimed"
+    },
+    {
+      "value": "100 marcas",
+      "context": "Número de marcas da Cimed"
+    },
+    {
+      "value": "40 milhões",
+      "context": "Revenue generated by CIMED in 20 minutes."
+    },
+    {
+      "value": "7 milhões",
+      "context": "Combined followers of João and Carla on social media."
+    },
+    {
+      "value": "5 million",
+      "context": "Investment in the production of the product collaboration between CIMED and Fini."
+    },
+    {
+      "value": "450,000 units",
+      "context": "Initial production batch for the collaboration product."
+    },
+    {
+      "value": "5 million units",
+      "context": "Units sold in one month after the product launch."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Luciano Hang",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Havan",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Shibata",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiza Trajano",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adib",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "Boticário",
+      "source_type": "company",
+      "relation": "collaborated_with",
+      "target": "Babalu",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "André Esteves",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Shibata",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Embraer",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Chibata",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "Cimed",
+      "source_type": "company",
+      "relation": "collaborated_with",
+      "target": "Fini",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiza Trajano",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Luciano Hang",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Havan",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Chibata",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Embraer",
+      "target_type": "company"
+    },
+    {
+      "source": "Dhl",
+      "source_type": "company",
+      "relation": "collaborated_with",
+      "target": "Vetements",
+      "target_type": "company"
+    },
+    {
+      "source": "Carla",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

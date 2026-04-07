@@ -1,0 +1,313 @@
+{
+  "episode_id": "34748488376",
+  "title": "COMO FUNCIONA A COMUNIDADE MOTORGRID ? - COM EDU MOTORGRID | EXTREMOS",
+  "date_published": 1730876400,
+  "duration": 5587,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Edu Motorgrid",
+      "role": "guest",
+      "company": "Motorgrid",
+      "title": "Founder"
+    },
+    {
+      "name": "Marcel",
+      "role": "mentioned",
+      "company": "Gran Brasil",
+      "title": "Director"
+    },
+    {
+      "name": "Léo",
+      "role": "mentioned",
+      "company": "Gran Brasil",
+      "title": "Employee"
+    },
+    {
+      "name": "Felipe Massa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Racing Driver"
+    },
+    {
+      "name": "Rubens Barrichello",
+      "role": "mentioned",
+      "company": "",
+      "title": "Racing Driver"
+    },
+    {
+      "name": "Christian",
+      "role": "mentioned",
+      "company": "Audi",
+      "title": ""
+    },
+    {
+      "name": "Kelvin",
+      "role": "mentioned",
+      "company": "Private",
+      "title": ""
+    },
+    {
+      "name": "Júnior",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fanin",
+      "role": "mentioned",
+      "company": "Motorgrid",
+      "title": "Advisor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Motorgrid",
+      "industry": "Automotive",
+      "context": "Community for car enthusiasts"
+    },
+    {
+      "name": "Grande Brasil Bmw",
+      "industry": "Automotive",
+      "context": "Sponsor of Edu Motorgrid"
+    },
+    {
+      "name": "Iwc",
+      "industry": "Luxury Watches",
+      "context": "Former sponsor of Edu Motorgrid"
+    },
+    {
+      "name": "Breitling",
+      "industry": "Luxury Watches",
+      "context": "Potential sponsor discussed"
+    },
+    {
+      "name": "Drizzle",
+      "industry": "Unknown",
+      "context": "Mentioned in relation to Breitling sponsorship"
+    },
+    {
+      "name": "Bmw",
+      "industry": "Automotive",
+      "context": "Manufacturer of M5 and M4 vehicles"
+    },
+    {
+      "name": "Gran Brasil",
+      "industry": "Automotive Dealership",
+      "context": "Dealer involved in the purchase of BMW vehicles"
+    },
+    {
+      "name": "Audi",
+      "industry": "Automotive",
+      "context": "Mentioned in relation to car models and market strategies."
+    },
+    {
+      "name": "Private",
+      "industry": "Luxury Goods",
+      "context": "Mentioned in relation to influence in the watch market."
+    },
+    {
+      "name": "Ferrari",
+      "industry": "Automotive",
+      "context": "Discussed in relation to car models and market strategies."
+    },
+    {
+      "name": "Mclaren",
+      "industry": "Automotive",
+      "context": "Discussed in relation to car models and market strategies."
+    },
+    {
+      "name": "Mercedes",
+      "industry": "Automotive",
+      "context": "Discussed in relation to car models and market strategies."
+    },
+    {
+      "name": "Porsche",
+      "industry": "Automotive",
+      "context": "Discussed in relation to car models and market strategies."
+    },
+    {
+      "name": "Bugatti",
+      "industry": "Automotive",
+      "context": "Discussed in relation to car models and market strategies."
+    },
+    {
+      "name": "Aston Martin",
+      "industry": "Automotive",
+      "context": "Discussed in relation to car models and market strategies."
+    },
+    {
+      "name": "Lamborghini",
+      "industry": "Automotive",
+      "context": "Mentioned in the context of luxury car sales and models like Revuelto."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Community Building",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Sponsorship",
+      "category": "Marketing"
+    },
+    {
+      "name": "Automotive Enthusiast Communities",
+      "category": "Business Model"
+    },
+    {
+      "name": "Car Enthusiast Community",
+      "category": "Community Building"
+    },
+    {
+      "name": "Luxury Sports Cars",
+      "category": "Automotive Industry"
+    },
+    {
+      "name": "Automotive Credibility",
+      "category": "Personal Branding"
+    },
+    {
+      "name": "Carro elétrico",
+      "category": "Automotive"
+    },
+    {
+      "name": "Hypercar",
+      "category": "Automotive"
+    },
+    {
+      "name": "Comunidade de marca",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Luxury Market",
+      "category": "Business"
+    },
+    {
+      "name": "Exclusive Customer Strategies",
+      "category": "Business"
+    },
+    {
+      "name": "Humanized Business Model",
+      "category": "Business"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "3,820",
+      "context": "Number of members in the Motorgrid community"
+    },
+    {
+      "value": "8,000-9,000",
+      "context": "Pending membership requests for Motorgrid"
+    },
+    {
+      "value": "680 HP",
+      "context": "Power of the new C63 car model."
+    },
+    {
+      "value": "0 a 100 em 3 segundos",
+      "context": "Acceleration capability of the new C63 car model."
+    },
+    {
+      "value": "200 mil libras",
+      "context": "Entry fee for McLaren's hypercar launch event."
+    },
+    {
+      "value": "R$1,500",
+      "context": "Cost per person for a luxury dinner, illustrating changing values and behaviors in the luxury market."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Christian",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Audi",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gran Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Edu Motorgrid",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Motorgrid",
+      "target_type": "company"
+    },
+    {
+      "source": "Léo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gran Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Fanin",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Edu Motorgrid",
+      "target_type": "person"
+    },
+    {
+      "source": "Edu Motorgrid",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Breitling",
+      "target_type": "company"
+    },
+    {
+      "source": "Edu Motorgrid",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Iwc",
+      "target_type": "company"
+    },
+    {
+      "source": "Breitling",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Drizzle",
+      "target_type": "company"
+    },
+    {
+      "source": "Edu Motorgrid",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Grande Brasil Bmw",
+      "target_type": "company"
+    },
+    {
+      "source": "Edu Motorgrid",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Motorgrid",
+      "target_type": "company"
+    },
+    {
+      "source": "Kelvin",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Private",
+      "target_type": "company"
+    }
+  ]
+}

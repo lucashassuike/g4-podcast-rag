@@ -1,0 +1,291 @@
+{
+  "episode_id": "34748488436",
+  "title": "CRIS JUNQUEIRA E A JORNADA AO SUCESSO GLOBAL | G4 PODCASTS",
+  "date_published": 1716453000,
+  "duration": 3503,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Cristina Junqueira",
+      "role": "guest",
+      "company": "Nubank",
+      "title": "Cofundadora"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Cris Junqueira",
+      "role": "guest",
+      "company": "Nubank",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "Apple",
+      "title": "Former CEO"
+    },
+    {
+      "name": "Sanjay Nadella",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "CEO"
+    },
+    {
+      "name": "Henry Ford",
+      "role": "mentioned",
+      "company": "Ford Motor Company",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Maite",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "GM de Prevenção à Fraude"
+    },
+    {
+      "name": "Youssef",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Executivo Sênior"
+    },
+    {
+      "name": "Jack",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Executivo Sênior"
+    },
+    {
+      "name": "Matt",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Executivo Sênior"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Nubank",
+      "industry": "Financeiro",
+      "context": "Revolucionou o sistema financeiro no Brasil e expandiu para outros países da América Latina."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Oferece programas de desenvolvimento para empresas e profissionais."
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Mentioned as an example of leadership and cultural shifts"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Discussed in relation to leadership transition and company turnaround"
+    },
+    {
+      "name": "Ford Motor Company",
+      "industry": "Automotive",
+      "context": "Mentioned in relation to innovation and customer understanding"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Gestão"
+    },
+    {
+      "name": "Disciplina pessoal",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Company Culture",
+      "category": "Organizational Behavior"
+    },
+    {
+      "name": "Leadership Transition",
+      "category": "Management"
+    },
+    {
+      "name": "Innovation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Customer Pain Points",
+      "category": "Marketing"
+    },
+    {
+      "name": "Talent Retention",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Growth Mindset",
+      "category": "Estratégia de Desenvolvimento Pessoal"
+    },
+    {
+      "name": "General Managers (GMs)",
+      "category": "Estrutura Organizacional"
+    },
+    {
+      "name": "GM Academy",
+      "category": "Programa de Desenvolvimento"
+    },
+    {
+      "name": "Shared Goals",
+      "category": "Gestão de Equipes"
+    },
+    {
+      "name": "Interdependência Organizacional",
+      "category": "Gestão de Equipes"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "100 milhões de clientes",
+      "context": "Número de clientes alcançado pelo Nubank."
+    },
+    {
+      "value": "3 billion USD",
+      "context": "Capital raised by Nubank during IPO"
+    },
+    {
+      "value": "9 years",
+      "context": "Time since Nubank's foundation at the time of IPO"
+    },
+    {
+      "value": "8 mil funcionários",
+      "context": "Tamanho da equipe do Nubank."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Jack",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Sanjay Nadella",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Steve Jobs",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Maite",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Youssef",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Henry Ford",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ford Motor Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Cris Junqueira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Matt",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Cristina Junqueira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

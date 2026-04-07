@@ -1,0 +1,265 @@
+{
+  "episode_id": "34748488660",
+  "title": "#018 - O que faz o Nubank ser referência, um papo com o fundador David Velez",
+  "date_published": 1626126523,
+  "duration": 2723,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "David Vélez",
+      "role": "guest",
+      "company": "Nubank",
+      "title": "Founder"
+    },
+    {
+      "name": "Pablo Escobar",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "David Velez",
+      "role": "guest",
+      "company": "Nubank",
+      "title": "Founder"
+    },
+    {
+      "name": "Cris",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": ""
+    },
+    {
+      "name": "Arthur",
+      "role": "mentioned",
+      "company": "Wildlife Studios",
+      "title": ""
+    },
+    {
+      "name": "Victor",
+      "role": "mentioned",
+      "company": "Wildlife Studios",
+      "title": ""
+    },
+    {
+      "name": "Vinícius",
+      "role": "host",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Financial Technology",
+      "context": "Referenced as a structured company with strong onboarding and training programs"
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce and Technology",
+      "context": "Referenced as a comparison for growth and organizational structure."
+    },
+    {
+      "name": "Wildlife Studios",
+      "industry": "Gaming",
+      "context": "Mentioned in the context of focused business strategies."
+    },
+    {
+      "name": "Sequoia",
+      "industry": "Venture Capital",
+      "context": "Discussed regarding its potential expansion and investment in Brazil."
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation Technology",
+      "context": "Referenced as a startup idea discussed by Tallis Gomes."
+    },
+    {
+      "name": "Monaxis",
+      "industry": "Venture Capital",
+      "context": "Mentioned as a venture capital firm in Brazil."
+    },
+    {
+      "name": "Kazek",
+      "industry": "Venture Capital",
+      "context": "Mentioned as a venture capital firm in Brazil."
+    },
+    {
+      "name": "Easy Invest",
+      "industry": "Financial Services",
+      "context": "Discussed in the context of promoting investment culture in Brazil."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "onboarding",
+      "category": "Human Resources"
+    },
+    {
+      "name": "training programs",
+      "category": "Human Resources"
+    },
+    {
+      "name": "company culture",
+      "category": "Organizational Behavior"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "customer feedback",
+      "category": "Customer Relationship Management"
+    },
+    {
+      "name": "estrutura organizacional",
+      "category": "Business Management"
+    },
+    {
+      "name": "maratona empresarial",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "foco em negócios",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "diversificação de investimentos",
+      "category": "Finance"
+    },
+    {
+      "name": "ecossistema de startups no Brasil",
+      "category": "Entrepreneurship"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Investment"
+    },
+    {
+      "name": "Emerging Markets",
+      "category": "Economic"
+    },
+    {
+      "name": "Regulatory Challenges",
+      "category": "Business Environment"
+    },
+    {
+      "name": "Investment Culture",
+      "category": "Economic"
+    },
+    {
+      "name": "Financial Inclusion",
+      "category": "Economic"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "36 million",
+      "context": "Number of Nubank customers"
+    },
+    {
+      "value": "25 billion dollars",
+      "context": "Valuation of Nubank"
+    },
+    {
+      "value": "150 billion reais",
+      "context": "Valuation of Nubank in Brazilian currency"
+    },
+    {
+      "value": "3,000 employees",
+      "context": "Amazon's size when compared to Nubank's current stage."
+    },
+    {
+      "value": "25 million dollars",
+      "context": "Amazon's valuation at a comparable stage to Nubank."
+    },
+    {
+      "value": "3%",
+      "context": "Percentage of Brazilian population investing compared to 55% in the United States."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "David Velez",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Victor",
+      "target_type": "person"
+    },
+    {
+      "source": "David Velez",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Cris",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "David Velez",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Arthur",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Sequoia",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "David Vélez",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "David Velez",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "David Velez",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "David Velez",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sequoia",
+      "target_type": "company"
+    }
+  ]
+}

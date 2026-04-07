@@ -1,0 +1,563 @@
+{
+  "episode_id": "34748488434",
+  "title": "COMO IDENTIFICAR E ENTENDER AS DORES DO PÚBLICO - COM TIAGO DALVI (OLIST) | PAPO DE GESTÃO",
+  "date_published": 1716798600,
+  "duration": 4387,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Tiago Dalvi",
+      "role": "guest",
+      "company": "Olist",
+      "title": "Fundador e CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bedi Yang",
+      "role": "mentioned",
+      "company": "500 Startups",
+      "title": "Partner"
+    },
+    {
+      "name": "Alessio Alionço",
+      "role": "mentioned",
+      "company": "Pipefy",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Leila Pereira",
+      "role": "mentioned",
+      "company": "Palmeiras",
+      "title": "President"
+    },
+    {
+      "name": "Abel Ferreira",
+      "role": "mentioned",
+      "company": "Palmeiras",
+      "title": "Coach"
+    },
+    {
+      "name": "Hendrick",
+      "role": "mentioned",
+      "company": "Palmeiras",
+      "title": "Player"
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "SpaceX",
+      "title": "CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Olist",
+      "industry": "E-commerce",
+      "context": "Fundada por Tiago Dalvi, atua como um ecossistema de vendas para negócios de todos os tamanhos."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa que desenvolveu a plataforma G4 Skills para treinamento de equipes."
+    },
+    {
+      "name": "Xp",
+      "industry": "Serviços financeiros",
+      "context": "Mencionada como exemplo de empresa admirável."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Mencionada como exemplo de empresa admirável."
+    },
+    {
+      "name": "Solidarium",
+      "industry": "Artesanato",
+      "context": "Primeira empresa de Tiago Dalvi, que começou como uma rede de lojas de artesanato e evoluiu para um marketplace."
+    },
+    {
+      "name": "500 Startups",
+      "industry": "Startup Accelerator",
+      "context": "Provided acceleration and funding to Tiago Dalvi's business."
+    },
+    {
+      "name": "Americanas",
+      "industry": "E-commerce",
+      "context": "Mentioned as a marketplace where Olist connects sellers."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Mentioned as a marketplace where Olist connects sellers."
+    },
+    {
+      "name": "Elo7",
+      "industry": "Marketplace",
+      "context": "Mentioned as a competitor in the marketplace for artisans."
+    },
+    {
+      "name": "Aero",
+      "industry": "Marketplace",
+      "context": "Mentioned as a competitor in the marketplace for artisans."
+    },
+    {
+      "name": "Pipefy",
+      "industry": "Software",
+      "context": "Mencionada em relação a Alessio Alionço."
+    },
+    {
+      "name": "Ebanks",
+      "industry": "Fintech",
+      "context": "Mencionada como parte do ecossistema de startups de Curitiba."
+    },
+    {
+      "name": "Madeira Madeira",
+      "industry": "E-commerce",
+      "context": "Mencionada como parte do ecossistema de startups de Curitiba."
+    },
+    {
+      "name": "Contabilizei",
+      "industry": "Contabilidade",
+      "context": "Mencionada como parte do ecossistema de startups de Curitiba."
+    },
+    {
+      "name": "Endeavor",
+      "industry": "Entrepreneurship",
+      "context": "Support and mentorship for entrepreneurs"
+    },
+    {
+      "name": "Palmeiras",
+      "industry": "Sports",
+      "context": "Football club"
+    },
+    {
+      "name": "L7",
+      "industry": "E-commerce",
+      "context": "Mencionada como exemplo de empresa que enfrentou dificuldades."
+    },
+    {
+      "name": "Eru",
+      "industry": "E-commerce",
+      "context": "Mencionada como exemplo de empresa que enfrentou dificuldades."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Geração de valor",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métrica de satisfação do cliente"
+    },
+    {
+      "name": "Treinamento de equipes",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Pivotagem",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Transparência com investidores",
+      "category": "Gestão de negócios"
+    },
+    {
+      "name": "pivot",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "marketplace",
+      "category": "Business Model"
+    },
+    {
+      "name": "Demo Day",
+      "category": "Startup Event"
+    },
+    {
+      "name": "seed funding",
+      "category": "Investment"
+    },
+    {
+      "name": "strong conviction loosely held",
+      "category": "Entrepreneurship Philosophy"
+    },
+    {
+      "name": "scarcity-driven creativity",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Modelo de negócio",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Opcionalidade",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Embedded Finance",
+      "category": "Finanças"
+    },
+    {
+      "name": "Sistema operacional para PMEs",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Gestão de estoque",
+      "category": "Operações"
+    },
+    {
+      "name": "Logística integrada",
+      "category": "Operações"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Escalabilidade",
+      "category": "Business"
+    },
+    {
+      "name": "Foco no cliente",
+      "category": "Business"
+    },
+    {
+      "name": "Rede de suporte",
+      "category": "Business"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Business"
+    },
+    {
+      "name": "Disciplina de Agenda",
+      "category": "Produtividade Pessoal"
+    },
+    {
+      "name": "Go to Market",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Land and Expand",
+      "category": "Estratégia de Crescimento"
+    },
+    {
+      "name": "Princípios de Liderança",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Gestão de tempo",
+      "category": "Produtividade"
+    },
+    {
+      "name": "Confiança em equipes",
+      "category": "Gestão de equipes"
+    },
+    {
+      "name": "Gratidão",
+      "category": "Psicologia positiva"
+    }
+  ],
+  "books": [
+    {
+      "title": "Os 5 Desafios das Equipes",
+      "author": "Patrick Lencioni"
+    },
+    {
+      "title": "Principles",
+      "author": "Ray Dalio"
+    },
+    {
+      "title": "Working Backwards",
+      "author": "Colin Bryar e Bill Carr"
+    },
+    {
+      "title": "The Amazon Way",
+      "author": "John Rossman"
+    },
+    {
+      "title": "Sleep",
+      "author": "Nick Littlehales"
+    },
+    {
+      "title": "The Happiness Advantage",
+      "author": "Shawn Achor"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "800,000 USD",
+      "context": "Seed funding raised by Tiago Dalvi for Olist."
+    },
+    {
+      "value": "15,000 artisans",
+      "context": "Number of sellers connected by Olist."
+    },
+    {
+      "value": "150,000 products",
+      "context": "Number of products listed by sellers on Olist."
+    },
+    {
+      "value": "55 milhões",
+      "context": "Número de consumidores finais atendidos anualmente pelo Olist."
+    },
+    {
+      "value": "40 mil",
+      "context": "Número de PMEs clientes ativos do Olist."
+    },
+    {
+      "value": "40,000",
+      "context": "Number of entrepreneurs in the Endeavor network"
+    },
+    {
+      "value": "20 anos",
+      "context": "Tempo que Tiago Dalvi mencionou ter dedicado ao empreendedorismo."
+    },
+    {
+      "value": "38 anos",
+      "context": "Idade de Tiago Dalvi mencionada no contexto de saúde e prática esportiva."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tiago Dalvi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Go To Market",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Dalvi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Olist",
+      "target_type": "company"
+    },
+    {
+      "source": "Abel Ferreira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Palmeiras",
+      "target_type": "company"
+    },
+    {
+      "source": "Madeira Madeira",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Contabilizei",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Dalvi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Solidarium",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Dalvi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Olist",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Endeavor",
+      "source_type": "company",
+      "relation": "mentored_by",
+      "target": "Tiago Dalvi",
+      "target_type": "person"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "developed",
+      "target": "G4 Skills",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Olist",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Americanas",
+      "target_type": "company"
+    },
+    {
+      "source": "Leila Pereira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Palmeiras",
+      "target_type": "company"
+    },
+    {
+      "source": "Olist",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Dalvi",
+      "source_type": "person",
+      "relation": "accelerated_by",
+      "target": "500 Startups",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Dalvi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Disciplina De Agenda",
+      "target_type": "concept"
+    },
+    {
+      "source": "Olist",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Aero",
+      "target_type": "company"
+    },
+    {
+      "source": "Alessio Alionço",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Pipefy",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Dalvi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Warren Buffett",
+      "target_type": "person"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gestão De Tempo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ebanks",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Madeira Madeira",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "mentored_by",
+      "target": "Tiago Dalvi",
+      "target_type": "person"
+    },
+    {
+      "source": "Tiago Dalvi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Princípios De Liderança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ebanks",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Contabilizei",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Dalvi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Land And Expand",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Hendrick",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Palmeiras",
+      "target_type": "company"
+    },
+    {
+      "source": "Olist",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Solidarium",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Dalvi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Olist",
+      "target_type": "company"
+    },
+    {
+      "source": "Olist",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Elo7",
+      "target_type": "company"
+    }
+  ]
+}

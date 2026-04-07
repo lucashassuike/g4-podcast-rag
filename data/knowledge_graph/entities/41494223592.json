@@ -1,0 +1,173 @@
+{
+  "episode_id": "41494223592",
+  "title": "[CORTE] DE 240 MILHÕES A 1,5 BILHÃO! QUAL O SEGREDO?",
+  "date_published": 1755723600,
+  "duration": 719,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Consultora Da Natura",
+      "role": "mentioned",
+      "company": "Natura",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Leveros",
+      "industry": "E-commerce e ar-condicionado",
+      "context": "Empresa mencionada como pioneira em e-commerce e marketplace de ar-condicionado no Brasil."
+    },
+    {
+      "name": "Brastemp",
+      "industry": "Eletrodomésticos",
+      "context": "Leveros começou como serviço autorizado Brastemp."
+    },
+    {
+      "name": "2B Capital",
+      "industry": "Private Equity",
+      "context": "Investidor da Leveros desde 2016."
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Financeiro",
+      "context": "2B Capital é um fundo do Bradesco."
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosméticos",
+      "context": "Mencionada como exemplo de uso de rede de consultoras."
+    },
+    {
+      "name": "Essential",
+      "industry": "Nutrição",
+      "context": "Mencionada como exemplo de uso de prescritores para recomendação de produtos."
+    },
+    {
+      "name": "Itau Bba",
+      "industry": "Financeiro",
+      "context": "Assessor financeiro na rodada de investimento da Leveros."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "E-commerce",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Lifetime Value (LTV)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Custo de Aquisição de Cliente (CAC)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Private Equity",
+      "category": "Investimento"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Investimento"
+    },
+    {
+      "name": "Distribuição de Equity",
+      "category": "Estratégia de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "200 milhões de receita anual",
+      "context": "Receita da Leveros antes do foco no instalador."
+    },
+    {
+      "value": "1,5 bilhões de receita anual",
+      "context": "Receita da Leveros após foco no instalador."
+    },
+    {
+      "value": "250 milhões para 1,5 bilhões",
+      "context": "Crescimento de receita da Leveros entre 2016 e 2024."
+    },
+    {
+      "value": "20 para 160 de EBITDA",
+      "context": "Crescimento de EBITDA da Leveros entre 2016 e 2024."
+    },
+    {
+      "value": "30% ao ano",
+      "context": "Taxa média de crescimento anual da Leveros."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "works_at",
+      "target": "Itau Bba",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "2B Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Essential",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Brastemp",
+      "target_type": "company"
+    },
+    {
+      "source": "2B Capital",
+      "source_type": "company",
+      "relation": "works_at",
+      "target": "Bradesco",
+      "target_type": "company"
+    }
+  ]
+}

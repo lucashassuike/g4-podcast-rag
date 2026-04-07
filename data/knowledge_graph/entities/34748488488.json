@@ -1,0 +1,577 @@
+{
+  "episode_id": "34748488488",
+  "title": "CRIE CONEXÕES REAIS COM OS SEU CLIENTES E COLABORADORES - COM PAULO CORREA (CEO C&A) | EXTREMOS",
+  "date_published": 1702542600,
+  "duration": 6012,
+  "chunks_processed": 9,
+  "people": [
+    {
+      "name": "Paulo Correa",
+      "role": "guest",
+      "company": "C&A",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Founder"
+    },
+    {
+      "name": "Rafa Forte",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Clemens",
+      "role": "mentioned",
+      "company": "C&A",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "August",
+      "role": "mentioned",
+      "company": "C&A",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tereza",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sael",
+      "role": "mentioned",
+      "company": "Amelius",
+      "title": "CEO"
+    },
+    {
+      "name": "Alberto Serrentino",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em Varejo"
+    },
+    {
+      "name": "Mariano Gomide",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Co-CEO"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    }
+  ],
+  "companies": [
+    {
+      "name": "C&A",
+      "industry": "Retail",
+      "context": "Discussed as a company focused on creating emotional connections with customers."
+    },
+    {
+      "name": "Mckinsey & Company",
+      "industry": "Consulting",
+      "context": "Paulo Correa's previous employer before joining C&A."
+    },
+    {
+      "name": "Clivo",
+      "industry": "Healthcare",
+      "context": "Founded by Marcelo Toledo."
+    },
+    {
+      "name": "Oi",
+      "industry": "Telecommunications",
+      "context": "Referenced as a company where leadership skills were applied."
+    },
+    {
+      "name": "Amelius",
+      "industry": "Technology",
+      "context": "Mentioned in the context of IPO processes."
+    },
+    {
+      "name": "B3",
+      "industry": "Finance",
+      "context": "Discussed as the stock exchange where C&A conducted its IPO."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts of the podcast."
+    },
+    {
+      "name": "Vtex",
+      "industry": "Tecnologia",
+      "context": "Fornecedora de plataforma SaaS para e-commerce utilizada pela C&A"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia",
+      "context": "Desenvolveu o Bing com integração ao ChatGPT."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Customer Experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Leadership Development",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Project Management Office (PMO)",
+      "category": "Business Framework"
+    },
+    {
+      "name": "PMO (Project Management Office)",
+      "category": "Gestão de projetos"
+    },
+    {
+      "name": "Capital aberto",
+      "category": "Finanças"
+    },
+    {
+      "name": "Sucessão empresarial",
+      "category": "Gestão"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Management"
+    },
+    {
+      "name": "Roadshow",
+      "category": "Finance"
+    },
+    {
+      "name": "Organizational Structure",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Corporate Culture",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Team Building",
+      "category": "Leadership"
+    },
+    {
+      "name": "Focus and Prioritization",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "MBA",
+      "category": "Education"
+    },
+    {
+      "name": "Retail Cyclicity",
+      "category": "Market Dynamics"
+    },
+    {
+      "name": "Macro-economic Influence",
+      "category": "Economic Factors"
+    },
+    {
+      "name": "Jornada do Cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "SaaS (Software as a Service)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Clique Retire",
+      "category": "Logística e Distribuição"
+    },
+    {
+      "name": "WhatsApp como canal de vendas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Personalização em massa",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Programa de relacionamento Ceia Você",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Penetração de vendas online em países latinos vs anglo-saxões",
+      "category": "Análise de mercado"
+    },
+    {
+      "name": "Desfile Virtual",
+      "category": "Inovação em Marketing"
+    },
+    {
+      "name": "Projeção 3D",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métrica de Satisfação do Cliente"
+    },
+    {
+      "name": "Copywriting",
+      "category": "Comunicação e Marketing"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "ChatGPT",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Bing",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Personalização de Conversas",
+      "category": "Estratégia de Atendimento ao Cliente"
+    },
+    {
+      "name": "engenharia",
+      "category": "Conceito"
+    },
+    {
+      "name": "varejo",
+      "category": "Indústria"
+    },
+    {
+      "name": "arte de resolver problemas",
+      "category": "Conceito"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "15 years",
+      "context": "Paulo Correa's tenure at C&A."
+    },
+    {
+      "value": "7 years",
+      "context": "Paulo Correa's time as CEO of C&A."
+    },
+    {
+      "value": "18 years",
+      "context": "Paulo Correa's total time at C&A."
+    },
+    {
+      "value": "1841",
+      "context": "Ano de fundação da C&A."
+    },
+    {
+      "value": "200 anos",
+      "context": "Quase dois séculos de operação da C&A."
+    },
+    {
+      "value": "5 meses",
+      "context": "Tempo para realizar o IPO da C&A em 2019."
+    },
+    {
+      "value": "2010 até 2019",
+      "context": "Período de baixa abertura de lojas pela C&A comparado à concorrência."
+    },
+    {
+      "value": "100 meetings",
+      "context": "Sael's roadshow during Amelius's IPO."
+    },
+    {
+      "value": "8 AM to 8 PM daily",
+      "context": "Sael's schedule during the IPO roadshow."
+    },
+    {
+      "value": "End of 2020",
+      "context": "Timing of Amelius's IPO."
+    },
+    {
+      "value": "300 stores",
+      "context": "Size of C&A's operations."
+    },
+    {
+      "value": "15,000 employees",
+      "context": "Workforce size at C&A."
+    },
+    {
+      "value": "20,000 models",
+      "context": "Product variety in C&A's inventory at a given time."
+    },
+    {
+      "value": "60-70% turnover in 3 months",
+      "context": "Rate of product model change in C&A's inventory."
+    },
+    {
+      "value": "15 mil colaboradores",
+      "context": "Tamanho da equipe da C&A"
+    },
+    {
+      "value": "De 150 mil para 3,5 milhões de usuários",
+      "context": "Crescimento do app da C&A durante a pandemia"
+    },
+    {
+      "value": "150 mil para 3,5 milhões",
+      "context": "Crescimento de usuários do aplicativo da C&A em poucos meses."
+    },
+    {
+      "value": "15 milhões de pessoas cadastradas",
+      "context": "Número de participantes no programa de relacionamento Ceia Você durante a pandemia."
+    },
+    {
+      "value": "500 vezes o normal",
+      "context": "Aumento no número de downloads de aplicativo em um dia específico."
+    },
+    {
+      "value": "40 mil boletos por mês",
+      "context": "Quantidade de boletos emitidos pela Loja Integrada."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Capital Aberto",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Mckinsey & Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Macro-Economic Influence",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "E-Commerce",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jornada Do Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sael",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Amelius",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "C&A",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Clemens",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "C&A",
+      "target_type": "company"
+    },
+    {
+      "source": "C&A",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "B3",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Inteligência Artificial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Retail Cyclicity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governança Corporativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Roadshow",
+      "target_type": "concept"
+    },
+    {
+      "source": "August",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "C&A",
+      "target_type": "company"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Chatgpt",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "C&A",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano Gomide",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Whatsapp Como Canal De Vendas",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "C&A",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Customer Experience",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Clique Retire",
+      "target_type": "concept"
+    },
+    {
+      "source": "Programa De Relacionamento Ceia Você",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "C&A",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mba",
+      "target_type": "concept"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ipo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Saas (Software As A Service)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

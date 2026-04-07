@@ -1,0 +1,278 @@
+{
+  "episode_id": "34748488400",
+  "title": "COMO TRAZER INOVAÇÃO AO MERCADO E ESCALAR UM NEGÓCIO - COM RODRIGO CARTACHO (SYMPLA) | PAPO DE GESTÃO",
+  "date_published": 1725310800,
+  "duration": 4815,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Rodrigo Cartacho",
+      "role": "guest",
+      "company": "Sympla",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bernardo De Najda",
+      "role": "mentioned",
+      "company": "TM1",
+      "title": ""
+    },
+    {
+      "name": "Léo Farrar",
+      "role": "mentioned",
+      "company": "UMUS",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Sympla",
+      "industry": "Tecnologia e Eventos",
+      "context": "Plataforma de venda de ingressos online e organização de eventos"
+    },
+    {
+      "name": "Eventbrite",
+      "industry": "Tecnologia e Eventos",
+      "context": "Concorrente internacional da Sympla no mercado de ticketing"
+    },
+    {
+      "name": "Linkedin",
+      "industry": "Tecnologia e Redes Sociais",
+      "context": "Comprou a empresa Miando, mencionada como player no mercado de ticketing"
+    },
+    {
+      "name": "Movile",
+      "industry": "Investment and Technology",
+      "context": "Invested in Sympla in 2016."
+    },
+    {
+      "name": "Eventick",
+      "industry": "Event Management",
+      "context": "Acquired by Sympla to strengthen its market position in Brazil."
+    },
+    {
+      "name": "Tm1",
+      "industry": "Tecnologia",
+      "context": "Empresa mencionada em relação a Bernardo de Najda."
+    },
+    {
+      "name": "Umus",
+      "industry": "Disaster Response",
+      "context": "Organization focused on rescue in disaster situations."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Product Market Fit",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Business Model Canvas",
+      "category": "Ferramenta de Planejamento"
+    },
+    {
+      "name": "Proposta de Valor",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Self-Service",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Bootstrap",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Networking Effect",
+      "category": "Business Concept"
+    },
+    {
+      "name": "Destination Strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Long Tail Market",
+      "category": "Market Strategy"
+    },
+    {
+      "name": "Mentalidade Empreendedora",
+      "category": "Entrepreneurship"
+    },
+    {
+      "name": "Sucessão Empresarial",
+      "category": "Business Management"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão estratégica",
+      "category": "Gestão"
+    },
+    {
+      "name": "Product-market fit",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Metodologia de gestão",
+      "category": "Gestão"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Gestão"
+    },
+    {
+      "name": "educação empreendedora",
+      "category": "Education"
+    },
+    {
+      "name": "resgate em situações de colapso",
+      "category": "Disaster Response"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "200-300 milhões de reais",
+      "context": "Faturamento mencionado como exemplo de empresas em diferentes estágios de maturidade"
+    },
+    {
+      "value": "10 anos",
+      "context": "Tempo dedicado por Rodrigo Cartacho ao desenvolvimento da Sympla"
+    },
+    {
+      "value": "300 mil a 500 mil pessoas",
+      "context": "Capacidade de eventos grandes gerenciados pela Sympla"
+    },
+    {
+      "value": "2016",
+      "context": "Year when Movile invested in Sympla."
+    },
+    {
+      "value": "500 funcionários",
+      "context": "Number of employees at Sympla during the COVID-19 pandemic."
+    },
+    {
+      "value": "2 milhões de ingressos por mês",
+      "context": "Number of tickets issued monthly by Sympla during the pandemic."
+    },
+    {
+      "value": "100% ao ano",
+      "context": "Taxa de crescimento anual da Sympla antes da pandemia."
+    },
+    {
+      "value": "200 milhões de reais",
+      "context": "Faturamento mencionado como exemplo de uma etapa de maturidade empresarial."
+    },
+    {
+      "value": "16 mil alunos",
+      "context": "Número de alunos de escola pública impactados diretamente em evento do projeto Crio Impossível."
+    },
+    {
+      "value": "200 mil alunos",
+      "context": "Número de alunos de escola pública impactados nacionalmente pelo projeto Crio Impossível."
+    },
+    {
+      "value": "16,000",
+      "context": "Number of public school students attending the event in Porto Alegre."
+    },
+    {
+      "value": "200,000",
+      "context": "Number of public school students across Brazil who watched the event."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Eventbrite",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Miando",
+      "target_type": "company"
+    },
+    {
+      "source": "Movile",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Sympla",
+      "target_type": "company"
+    },
+    {
+      "source": "Miando",
+      "source_type": "person",
+      "relation": "acquired_by",
+      "target": "Linkedin",
+      "target_type": "company"
+    },
+    {
+      "source": "Léo Farrar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Umus",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Cartacho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sympla",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Cartacho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sympla",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo De Najda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tm1",
+      "target_type": "company"
+    },
+    {
+      "source": "Sympla",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Eventbrite",
+      "target_type": "company"
+    },
+    {
+      "source": "Sympla",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Eventick",
+      "target_type": "company"
+    }
+  ]
+}

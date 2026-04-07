@@ -1,0 +1,670 @@
+{
+  "episode_id": "34748488336",
+  "title": "FRANQUIA NÃO É INVESTIMENTO! OS SEGREDOS DE REINALDO ZANON | | EXTREMOS",
+  "date_published": 1741179600,
+  "duration": 4501,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Reinaldo Zanon",
+      "role": "guest",
+      "company": "Segur Alta",
+      "title": "CEO"
+    },
+    {
+      "name": "Juarez",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Vasco",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Reinaldo (Pai De Reinaldo Zanon)",
+      "role": "mentioned",
+      "company": "Segur Alta",
+      "title": "Founder"
+    },
+    {
+      "name": "Gustavo Zanon",
+      "role": "mentioned",
+      "company": "Seguralta",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Paulo Henrique Amorim",
+      "role": "mentioned",
+      "company": "Domingo Espetacular",
+      "title": "TV Presenter"
+    },
+    {
+      "name": "Gustavo",
+      "role": "mentioned",
+      "company": "Seguralta",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Miguel Krigsner",
+      "role": "mentioned",
+      "company": "O Boticário",
+      "title": "Fundador"
+    },
+    {
+      "name": "Arthur Grynbaum",
+      "role": "mentioned",
+      "company": "O Boticário",
+      "title": "CEO"
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Flávio Augusto",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Piero",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thiago Fonseca",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pablo Marçal",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Kaiser",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jangue",
+      "role": "mentioned",
+      "company": "",
+      "title": "Juiz"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Segur Alta",
+      "industry": "Insurance",
+      "context": "Franchise business specializing in general insurance"
+    },
+    {
+      "name": "Porto Seguro",
+      "industry": "Insurance",
+      "context": "Partner company providing insurance solutions"
+    },
+    {
+      "name": "Itaú",
+      "industry": "Banking and Insurance",
+      "context": "Partner company providing insurance solutions"
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Banking and Insurance",
+      "context": "Partner company providing insurance solutions"
+    },
+    {
+      "name": "Tokio Marine",
+      "industry": "Insurance",
+      "context": "Partner company providing insurance solutions"
+    },
+    {
+      "name": "Allianz",
+      "industry": "Insurance",
+      "context": "Partner company providing insurance solutions"
+    },
+    {
+      "name": "Surrai",
+      "industry": "Insurance",
+      "context": "Partner company providing insurance solutions"
+    },
+    {
+      "name": "Seguralta",
+      "industry": "Insurance",
+      "context": "Discussed as a family business and franchise model"
+    },
+    {
+      "name": "Brasil Insurance",
+      "industry": "Insurance",
+      "context": "Mentioned in the context of market consolidation"
+    },
+    {
+      "name": "Brasil Brokers",
+      "industry": "Real Estate",
+      "context": "Mentioned in the context of market consolidation"
+    },
+    {
+      "name": "Tóquio Marinha",
+      "industry": "Insurance",
+      "context": "Mentioned as a partner in the insurance sector."
+    },
+    {
+      "name": "Mcdonald'S",
+      "industry": "Food and Beverage",
+      "context": "Used as an example in franchise discussions."
+    },
+    {
+      "name": "Burger King",
+      "industry": "Food and Beverage",
+      "context": "Used as an example in franchise discussions."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education and Business Consulting",
+      "context": "Referenced in the context of business creation and franchising."
+    },
+    {
+      "name": "O Boticário",
+      "industry": "Cosméticos e Beleza",
+      "context": "Exemplo de sucesso em franquias no Brasil"
+    },
+    {
+      "name": "Cacau Show",
+      "industry": "Alimentação e Chocolates",
+      "context": "Exemplo de sucesso em franquias no Brasil"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia",
+      "context": "Exemplo de empresa que gerou riqueza para seus colaboradores"
+    },
+    {
+      "name": "Grupo Zanon",
+      "industry": "Insurance",
+      "context": "Operates in insurance and franchising, with proprietary technology and expansion strategies."
+    },
+    {
+      "name": "Flix Seguros",
+      "industry": "Insurance",
+      "context": "Acquired by Grupo Zanon to offer innovative insurance solutions."
+    },
+    {
+      "name": "Aws (Amazon Web Services)",
+      "industry": "Technology",
+      "context": "Awarded Grupo Zanon for their innovative insurance system."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Franchise business model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "CRM",
+      "category": "Technology"
+    },
+    {
+      "name": "Marketing strategies",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Pre-launch strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Digital positioning",
+      "category": "Marketing"
+    },
+    {
+      "name": "Operational and commercial roles",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Franchise University",
+      "category": "Education"
+    },
+    {
+      "name": "Micro Franchise",
+      "category": "Business Model"
+    },
+    {
+      "name": "Marketing Multinível",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Franquia Home Office",
+      "category": "Business Model"
+    },
+    {
+      "name": "Capital de Giro",
+      "category": "Finance"
+    },
+    {
+      "name": "Receita Recorrente",
+      "category": "Finance"
+    },
+    {
+      "name": "Lead Generation",
+      "category": "Marketing"
+    },
+    {
+      "name": "Auditoria Externa",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Franquia",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Recorrência",
+      "category": "Estratégia de Receita"
+    },
+    {
+      "name": "Campanhas de Incentivo",
+      "category": "Estratégia de Motivação"
+    },
+    {
+      "name": "Gestão Estratégia",
+      "category": "Programa de Educação Empresarial"
+    },
+    {
+      "name": "Spin Selling",
+      "category": "Técnica de Vendas"
+    },
+    {
+      "name": "Internacionalização",
+      "category": "Estratégia de Expansão"
+    },
+    {
+      "name": "Investimento em Pessoas",
+      "category": "Gestão de Recursos Humanos"
+    },
+    {
+      "name": "Franchising",
+      "category": "Business Model"
+    },
+    {
+      "name": "Digital Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Equity",
+      "category": "Finance"
+    },
+    {
+      "name": "Technology Authoring",
+      "category": "Technology"
+    },
+    {
+      "name": "Insurance Innovation",
+      "category": "Industry Trend"
+    },
+    {
+      "name": "Franchise",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Tax Reform",
+      "category": "Economic Policy"
+    },
+    {
+      "name": "Meritocracy",
+      "category": "Social Concept"
+    },
+    {
+      "name": "Education",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "1 billion reais",
+      "context": "Insurance premiums issued by Segur Alta in a year"
+    },
+    {
+      "value": "30 million reais",
+      "context": "Monthly revenue from partnership with Porto Seguro"
+    },
+    {
+      "value": "130 franchises",
+      "context": "Number of franchises sold in a single month during Segcred launch"
+    },
+    {
+      "value": "220 franchises",
+      "context": "Number of franchises sold in a single month during a digital launch"
+    },
+    {
+      "value": "2,000 franchisees",
+      "context": "Number of franchisees under Segur Alta"
+    },
+    {
+      "value": "56 years",
+      "context": "Age of Segur Alta since its founding in 1968"
+    },
+    {
+      "value": "33 quilos em 40 dias",
+      "context": "Weight loss achieved by Reinaldo Zanon's mother using the products"
+    },
+    {
+      "value": "15 mil reais por mês em 2005-2006",
+      "context": "Income earned by Reinaldo Zanon from selling products"
+    },
+    {
+      "value": "200 mil reais em 2008",
+      "context": "Investment required to franchise Seguralta"
+    },
+    {
+      "value": "400 franquias",
+      "context": "Projected franchise count for Seguralta"
+    },
+    {
+      "value": "36",
+      "context": "Initial number of franchises commercialized by Seguralta."
+    },
+    {
+      "value": "100",
+      "context": "Target number of franchises after marketing efforts."
+    },
+    {
+      "value": "30 milhões de reais",
+      "context": "Monthly revenue generated with Porto Seguro."
+    },
+    {
+      "value": "1 milhão de reais",
+      "context": "First significant investment milestone achieved by Seguralta founders."
+    },
+    {
+      "value": "3,000 franquias",
+      "context": "Número de franquias mencionadas para uma empresa"
+    },
+    {
+      "value": "60 milhões de prêmio",
+      "context": "Faturamento de um franqueado mencionado"
+    },
+    {
+      "value": "10 milhões de reais por ano",
+      "context": "Faturamento mínimo recomendado para o programa Gestão Estratégia"
+    },
+    {
+      "value": "2 milhões de reais por ano",
+      "context": "Lucro mínimo recomendado para o programa Gestão Estratégia"
+    },
+    {
+      "value": "700 million",
+      "context": "Revenue target for G4 Educação by 2030."
+    },
+    {
+      "value": "300 million",
+      "context": "Projected revenue for G4 Educação in the current year."
+    },
+    {
+      "value": "240 thousand",
+      "context": "Subscribers on Thiago Fonseca's YouTube channel."
+    },
+    {
+      "value": "6.6 million",
+      "context": "Revenue generated in 5 days from a digital launch."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Reinaldo Zanon",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Segur Alta",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Allianz",
+      "target_type": "company"
+    },
+    {
+      "source": "Reinaldo Zanon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Seguralta",
+      "target_type": "company"
+    },
+    {
+      "source": "Aws (Amazon Web Services)",
+      "source_type": "company",
+      "relation": "awarded",
+      "target": "Grupo Zanon",
+      "target_type": "company"
+    },
+    {
+      "source": "Reinaldo Zanon",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Franquia Home Office",
+      "target_type": "concept"
+    },
+    {
+      "source": "Seguralta",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Bradesco",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Reinaldo Zanon",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Paulo Henrique Amorim",
+      "target_type": "person"
+    },
+    {
+      "source": "Reinaldo Zanon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Zanon",
+      "target_type": "company"
+    },
+    {
+      "source": "Bill Gates",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Reinaldo Zanon",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Marketing Multinível",
+      "target_type": "concept"
+    },
+    {
+      "source": "Arthur Grynbaum",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "O Boticário",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Reinaldo Zanon",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Reinaldo (Pai De Reinaldo Zanon)",
+      "target_type": "person"
+    },
+    {
+      "source": "Grupo Zanon",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Flix Seguros",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Seguralta",
+      "target_type": "company"
+    },
+    {
+      "source": "Reinaldo Zanon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Segur Alta",
+      "target_type": "company"
+    },
+    {
+      "source": "Segur Alta",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Tokio Marine",
+      "target_type": "company"
+    },
+    {
+      "source": "Segur Alta",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Surrai",
+      "target_type": "company"
+    },
+    {
+      "source": "Segur Alta",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Insurance",
+      "target_type": "company"
+    },
+    {
+      "source": "Segur Alta",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Porto Seguro",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel Krigsner",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "O Boticário",
+      "target_type": "company"
+    },
+    {
+      "source": "Reinaldo Zanon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Segcred",
+      "target_type": "company"
+    },
+    {
+      "source": "Reinaldo Zanon",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Micro Franchise",
+      "target_type": "concept"
+    },
+    {
+      "source": "Seguralta",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Insurance",
+      "target_type": "company"
+    },
+    {
+      "source": "Segur Alta",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Itaú",
+      "target_type": "company"
+    },
+    {
+      "source": "Seguralta",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Porto Seguro",
+      "target_type": "company"
+    },
+    {
+      "source": "Segur Alta",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Bradesco",
+      "target_type": "company"
+    },
+    {
+      "source": "Jangue",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Education",
+      "target_type": "concept"
+    },
+    {
+      "source": "Seguralta",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Tóquio Marinha",
+      "target_type": "company"
+    }
+  ]
+}

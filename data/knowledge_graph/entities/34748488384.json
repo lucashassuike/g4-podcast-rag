@@ -1,0 +1,148 @@
+{
+  "episode_id": "34748488384",
+  "title": "O QUE TEM QUE SER FEITO PARA ESCALAR SUA EMPRESA - COM MARCELO ABRITTA (BUSER) | G4 PODCASTS",
+  "date_published": 1729238400,
+  "duration": 1198,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Marcelo Abritta",
+      "role": "guest",
+      "company": "Buser",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Rodrigão",
+      "role": "mentioned",
+      "company": "Buser",
+      "title": ""
+    },
+    {
+      "name": "Júlia",
+      "role": "mentioned",
+      "company": "Buser",
+      "title": "CFO"
+    },
+    {
+      "name": "Tiago",
+      "role": "mentioned",
+      "company": "Buser",
+      "title": ""
+    },
+    {
+      "name": "Lídia",
+      "role": "mentioned",
+      "company": "Buser",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Buser",
+      "industry": "Transporte rodoviário",
+      "context": "Empresa mencionada como exemplo de crescimento e sustentabilidade financeira."
+    },
+    {
+      "name": "99",
+      "industry": "Transporte urbano",
+      "context": "Empresa de origem de Lídia, mencionada como parte da equipe da Buser."
+    },
+    {
+      "name": "Softbank",
+      "industry": "Investimentos",
+      "context": "Investidor mencionado em relação a rodadas de investimento na Buser."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Estratégia de crescimento",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Sustentabilidade financeira",
+      "category": "Finanças"
+    },
+    {
+      "name": "Regulação de mercado",
+      "category": "Política e regulação"
+    },
+    {
+      "name": "Barreiras de entrada",
+      "category": "Economia"
+    },
+    {
+      "name": "Expansão orgânica",
+      "category": "Estratégia de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "4 milhões",
+      "context": "Número de usuários na base da Buser."
+    },
+    {
+      "value": "250 para 500 funcionários",
+      "context": "Crescimento e ajuste no tamanho da equipe da Buser."
+    },
+    {
+      "value": "30%",
+      "context": "Meta de crescimento orgânico da Buser para o ano."
+    },
+    {
+      "value": "10 meses",
+      "context": "Tempo de vida financeira da Buser antes de ajustes."
+    },
+    {
+      "value": "20 meses",
+      "context": "Tempo de vida financeira após ajustes na queima de caixa."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Softbank",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Buser",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Abritta",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Buser",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Buser",
+      "target_type": "company"
+    },
+    {
+      "source": "Lídia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Buser",
+      "target_type": "company"
+    },
+    {
+      "source": "Buser",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "99",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "episode_id": "34748488503",
+  "title": "Ele Revolucionou a Experiência nos Aeroportos - Com Aldo Junior (DOOG) | Extremos",
+  "date_published": 1700557200,
+  "duration": 3530,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Aldo Junior",
+      "role": "guest",
+      "company": "DOOG",
+      "title": "Fundador"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Fundador"
+    },
+    {
+      "name": "Guga",
+      "role": "mentioned",
+      "company": "Unnamed healthy food brand in the USA",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Calas",
+      "role": "mentioned",
+      "company": "Calas Media",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Doog",
+      "industry": "Alimentação",
+      "context": "Empresa de cachorro-quente em aeroportos"
+    },
+    {
+      "name": "Clivo",
+      "industry": "Saúde",
+      "context": "Fundada por Marcelo Toledo"
+    },
+    {
+      "name": "Oi",
+      "industry": "Telecomunicações",
+      "context": "Empresa onde Marcelo Toledo trabalhou"
+    },
+    {
+      "name": "Max Milhas",
+      "industry": "Travel and Tourism",
+      "context": "Created a lounge in an airport"
+    },
+    {
+      "name": "Pizzaria Do Umbusco",
+      "industry": "Food and Beverage",
+      "context": "Operates a pizza business in Brasília"
+    },
+    {
+      "name": "A3",
+      "industry": "Media",
+      "context": "Rebranded to B.O.H., operates in airport media services"
+    },
+    {
+      "name": "B.O.H.",
+      "industry": "Media",
+      "context": "Specializes in airport media services"
+    },
+    {
+      "name": "Calas Media",
+      "industry": "Media",
+      "context": "Competes in airport media services"
+    },
+    {
+      "name": "Gc Do Co",
+      "industry": "Media",
+      "context": "Competes in airport media services"
+    },
+    {
+      "name": "Elemedia",
+      "industry": "Media",
+      "context": "Competes in airport media services"
+    },
+    {
+      "name": "Eletromídia",
+      "industry": "Media",
+      "context": "Competes in airport media services"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "comida saudável",
+      "category": "Indústria Alimentícia"
+    },
+    {
+      "name": "comfort food",
+      "category": "Indústria Alimentícia"
+    },
+    {
+      "name": "mídia aeroportuária",
+      "category": "Publicidade"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Ferramenta de Desenvolvimento Pessoal"
+    },
+    {
+      "name": "pandemia",
+      "category": "Evento Global"
+    },
+    {
+      "name": "mall",
+      "category": "Conceito de Varejo"
+    },
+    {
+      "name": "não lugar",
+      "category": "Conceito Sociológico"
+    },
+    {
+      "name": "Customer Journey Mapping",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Stress Management in Decision Making",
+      "category": "Psychology and Business"
+    },
+    {
+      "name": "Airport Concessions",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Training Programs",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Digital Media Circuit",
+      "category": "Media Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "A carrocinha de cachorro-quente milionária",
+      "author": "Aldo Junior"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "2 milhões de passageiros",
+      "context": "Movimento em Congonhas em junho de 2019"
+    },
+    {
+      "value": "40 mil passageiros",
+      "context": "Movimento em Congonhas em junho de 2020"
+    },
+    {
+      "value": "50 vezes menor",
+      "context": "Redução de público em aeroportos durante a pandemia"
+    },
+    {
+      "value": "180 seconds",
+      "context": "Target time for customer service at DOOG"
+    },
+    {
+      "value": "180 seconds",
+      "context": "Target time for customer service at DOOG operations"
+    },
+    {
+      "value": "Contracts of several years",
+      "context": "Duration of airport media concessions"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "A3",
+      "source_type": "company",
+      "relation": "rebranded_to",
+      "target": "B.O.H.",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Guga",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Unnamed Healthy Food Brand In The Usa",
+      "target_type": "company"
+    },
+    {
+      "source": "Doog",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Airports",
+      "target_type": "company"
+    },
+    {
+      "source": "Aldo Junior",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "A3",
+      "target_type": "company"
+    },
+    {
+      "source": "B.O.H.",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Calas Media",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Max Milhas",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Airports",
+      "target_type": "company"
+    },
+    {
+      "source": "B.O.H.",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Gc Do Co",
+      "target_type": "company"
+    },
+    {
+      "source": "B.O.H.",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Eletromídia",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Oi",
+      "target_type": "company"
+    },
+    {
+      "source": "Aldo Junior",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Doog",
+      "target_type": "company"
+    },
+    {
+      "source": "B.O.H.",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Elemedia",
+      "target_type": "company"
+    }
+  ]
+}

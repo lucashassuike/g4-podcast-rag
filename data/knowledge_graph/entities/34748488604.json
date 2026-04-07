@@ -1,0 +1,470 @@
+{
+  "episode_id": "34748488604",
+  "title": "Fernando Soares (CEO Domino´s) - A Coragem de Inovar e Tomar Riscos | Podcast Extremos",
+  "date_published": 1681937726,
+  "duration": 5216,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Fernando Soares",
+      "role": "guest",
+      "company": "Domino's",
+      "title": "CEO"
+    },
+    {
+      "name": "Will Físio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Natália",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Salesforce",
+      "industry": "Tecnologia",
+      "context": "Solução 360 para gestão de clientes"
+    },
+    {
+      "name": "Domino'S",
+      "industry": "Alimentação",
+      "context": "Rede de pizzarias com operações no Brasil"
+    },
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Empresa onde Fernando Soares trabalhou anteriormente"
+    },
+    {
+      "name": "Unilever",
+      "industry": "Bens de consumo",
+      "context": "Empresa onde Fernando Soares iniciou sua carreira corporativa"
+    },
+    {
+      "name": "Caloi",
+      "industry": "Bicicletas",
+      "context": "Empresa onde Fernando Soares trabalhou no início de sua carreira"
+    },
+    {
+      "name": "Puc",
+      "industry": "Educação",
+      "context": "Universidade onde Fernando Soares cursou administração"
+    },
+    {
+      "name": "Fgv",
+      "industry": "Educação",
+      "context": "Instituição onde Fernando Soares fez pós-graduação"
+    },
+    {
+      "name": "Insead",
+      "industry": "Educação",
+      "context": "Escola de negócios onde Fernando Soares fez MBA"
+    },
+    {
+      "name": "Domino'S Brasil",
+      "industry": "Food and Beverage",
+      "context": "Discussed as a private equity investment and growth story in Brazil"
+    },
+    {
+      "name": "Grupo Modelo",
+      "industry": "Beverage",
+      "context": "Mentioned as the manufacturer of Corona beer in Mexico"
+    },
+    {
+      "name": "Corona",
+      "industry": "Beverage",
+      "context": "Discussed in the context of its market positioning in Mexico"
+    },
+    {
+      "name": "Supercoff",
+      "industry": "Consumer Goods",
+      "context": "Discussed in the context of growth strategies and market expansion"
+    },
+    {
+      "name": "Bold",
+      "industry": "Consumer Goods",
+      "context": "Discussed in the context of operational efficiency and factory acquisition"
+    },
+    {
+      "name": "Gummy Hair",
+      "industry": "Consumer Goods",
+      "context": "Discussed in the context of product diversification and brand creation"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education and Consulting",
+      "context": "Hosts of the podcast and mentioned in the context of business education."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Mentioned in the context of a group interaction during an MBA program."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão 360",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Franquias",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "MBA",
+      "category": "Educação executiva"
+    },
+    {
+      "name": "Programa de Trainee",
+      "category": "Desenvolvimento de carreira"
+    },
+    {
+      "name": "Private Equity",
+      "category": "Finance"
+    },
+    {
+      "name": "Middle Market",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Networking",
+      "category": "Professional Development"
+    },
+    {
+      "name": "Market Positioning",
+      "category": "Marketing"
+    },
+    {
+      "name": "Growth Strategies",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Operational Efficiency",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Product Diversification",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Reavaliação de rota",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Mudança de comportamento do consumidor",
+      "category": "Market Trends"
+    },
+    {
+      "name": "Taxa de juros alta",
+      "category": "Macroeconomics"
+    },
+    {
+      "name": "Home office e trabalho híbrido",
+      "category": "Workplace Trends"
+    },
+    {
+      "name": "Master franquia",
+      "category": "Business Model"
+    },
+    {
+      "name": "Immersive Learning",
+      "category": "Education"
+    },
+    {
+      "name": "Leadership Development",
+      "category": "Business"
+    },
+    {
+      "name": "Cross-cultural Interaction",
+      "category": "Business"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "500 milhões de reais",
+      "context": "Faturamento anual da Domino's no Brasil"
+    },
+    {
+      "value": "1 milhão de pizzas por mês",
+      "context": "Volume de vendas da Domino's no Brasil"
+    },
+    {
+      "value": "300 lojas",
+      "context": "Número de unidades da Domino's no Brasil"
+    },
+    {
+      "value": "Company doubled in size over three years",
+      "context": "Growth of Domino's Brasil under Fernando Soares"
+    },
+    {
+      "value": "Holy Supes achieved 23 million in revenue in 14 months",
+      "context": "Example of rapid growth in consumer goods"
+    },
+    {
+      "value": "Projected 40 million revenue for Holy Supes",
+      "context": "Future growth projection"
+    },
+    {
+      "value": "Desenchar and Supercoff reaching 180-200 million revenue",
+      "context": "Examples of high revenue consumer goods companies"
+    },
+    {
+      "value": "200 milhões",
+      "context": "Revenue of a company discussed in the context of business evaluation."
+    },
+    {
+      "value": "15%",
+      "context": "Profit margin of a company discussed."
+    },
+    {
+      "value": "Duplicação do tamanho da empresa",
+      "context": "Growth achieved by Domino's under Fernando Soares' leadership."
+    },
+    {
+      "value": "20 years",
+      "context": "Fernando Soares mentioned working for 20 years in the same company."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gummy Hair",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Corona",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Product Diversification",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Grupo Modelo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Bold",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Domino'S",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "studied_at",
+      "target": "Fgv",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Operational Efficiency",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Unilever",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mba",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Leadership Development",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "studied_at",
+      "target": "Insead",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Market Positioning",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Growth Strategies",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Immersive Learning",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cross-Cultural Interaction",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Private Equity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Networking",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Domino'S Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Supercoff",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "studied_at",
+      "target": "Puc",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Middle Market",
+      "target_type": "concept"
+    }
+  ]
+}

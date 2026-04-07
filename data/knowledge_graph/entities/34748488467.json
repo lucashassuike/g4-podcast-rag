@@ -1,0 +1,192 @@
+{
+  "episode_id": "34748488467",
+  "title": "COMO ENCARAR AS CRISES COM POSITIVIDADE? - Com Geraldo Rufino | Extremos",
+  "date_published": 1707814800,
+  "duration": 4158,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Geraldo Rufino",
+      "role": "guest",
+      "company": "JR Diesel",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Chairman and Co-founder"
+    },
+    {
+      "name": "Arthur Rufino",
+      "role": "mentioned",
+      "company": "JR Diesel",
+      "title": "Executive"
+    },
+    {
+      "name": "Guilherme Rufino",
+      "role": "mentioned",
+      "company": "JR Diesel",
+      "title": "Executive"
+    },
+    {
+      "name": "Gabriela Rufino",
+      "role": "mentioned",
+      "company": "JR Diesel",
+      "title": "Executive"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Jr Diesel",
+      "industry": "Recycling",
+      "context": "Largest recycler in Latin America"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "G4 Skills",
+      "industry": "Education Technology",
+      "context": "Tool for team development and training"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Humanização",
+      "category": "Social Responsibility"
+    },
+    {
+      "name": "Propósito",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Foco",
+      "category": "Productivity"
+    },
+    {
+      "name": "Educação",
+      "category": "Knowledge Acquisition"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Conceito"
+    },
+    {
+      "name": "Ambição",
+      "category": "Conceito"
+    },
+    {
+      "name": "Vaidade",
+      "category": "Conceito"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Conceito"
+    },
+    {
+      "name": "Empreendedorismo no Brasil",
+      "category": "Conceito"
+    },
+    {
+      "name": "felicidade",
+      "category": "conceito"
+    },
+    {
+      "name": "gratidão",
+      "category": "conceito"
+    },
+    {
+      "name": "humildade",
+      "category": "conceito"
+    },
+    {
+      "name": "solidariedade",
+      "category": "conceito"
+    },
+    {
+      "name": "valores pessoais",
+      "category": "conceito"
+    }
+  ],
+  "books": [
+    {
+      "title": "Catador de Sonhos",
+      "author": "Geraldo Rufino"
+    },
+    {
+      "title": "O Poder da Positividade",
+      "author": "Geraldo Rufino"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "16 hours",
+      "context": "Dedicated work hours for achieving goals"
+    },
+    {
+      "value": "39%",
+      "context": "Crescimento nos negócios durante a pandemia, conforme mencionado por Geraldo Rufino."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Geraldo Rufino",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Catador De Sonhos",
+      "target_type": "company"
+    },
+    {
+      "source": "Geraldo Rufino",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Arthur Rufino",
+      "target_type": "person"
+    },
+    {
+      "source": "Geraldo Rufino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Jr Diesel",
+      "target_type": "company"
+    },
+    {
+      "source": "Geraldo Rufino",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Guilherme Rufino",
+      "target_type": "person"
+    },
+    {
+      "source": "Geraldo Rufino",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gabriela Rufino",
+      "target_type": "person"
+    },
+    {
+      "source": "Geraldo Rufino",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "O Poder Da Positividade",
+      "target_type": "company"
+    },
+    {
+      "source": "Geraldo Rufino",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    }
+  ]
+}

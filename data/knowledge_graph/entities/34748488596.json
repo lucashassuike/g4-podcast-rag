@@ -1,0 +1,600 @@
+{
+  "episode_id": "34748488596",
+  "title": "Dr. Rodrigo Duprat - Os Caminhos Para a Alta Performance Mental | Sem Atalhos",
+  "date_published": 1684227659,
+  "duration": 5744,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Rodrigo Duprat",
+      "role": "guest",
+      "company": "",
+      "title": "Médico, Cirurgião Plástico, Professor, Autor"
+    },
+    {
+      "name": "Américo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Padrasto de Rodrigo Duprat"
+    },
+    {
+      "name": "Renê",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cirurgião Geral"
+    },
+    {
+      "name": "Antônio Damasio",
+      "role": "mentioned",
+      "company": "",
+      "title": "Neurocientista"
+    },
+    {
+      "name": "Dr. Rodrigo Duprat",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Chalmers",
+      "role": "mentioned",
+      "company": "",
+      "title": "neurocientist"
+    },
+    {
+      "name": "Carl Jung",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Albert Einstein",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Salvador Dali",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de aprendizado e desenvolvimento de habilidades"
+    },
+    {
+      "name": "G4 Skills",
+      "industry": "Educação",
+      "context": "Plataforma de avaliação de habilidades e trilhas de aprendizado personalizada"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta performance mental",
+      "category": "Estratégia de desenvolvimento pessoal"
+    },
+    {
+      "name": "Medicina integrativa",
+      "category": "Abordagem médica"
+    },
+    {
+      "name": "Neurociência",
+      "category": "Campo científico"
+    },
+    {
+      "name": "Yoga",
+      "category": "Prática de bem-estar"
+    },
+    {
+      "name": "Dopamina",
+      "category": "Neurotransmissor"
+    },
+    {
+      "name": "motivação",
+      "category": "psicologia"
+    },
+    {
+      "name": "heurísticas",
+      "category": "psicologia"
+    },
+    {
+      "name": "decisões automáticas",
+      "category": "psicologia"
+    },
+    {
+      "name": "decisões conscientes",
+      "category": "psicologia"
+    },
+    {
+      "name": "estado de flow",
+      "category": "psicologia"
+    },
+    {
+      "name": "Citiocolina",
+      "category": "Neurociência"
+    },
+    {
+      "name": "Zumbis mentais",
+      "category": "Neurociência"
+    },
+    {
+      "name": "Agenesia de cerebelo",
+      "category": "Neurociência"
+    },
+    {
+      "name": "Sistema talamocortical",
+      "category": "Neurociência"
+    },
+    {
+      "name": "Prática deliberada",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Feedback negativo",
+      "category": "Gestão e liderança"
+    },
+    {
+      "name": "Feedback",
+      "category": "estratégia"
+    },
+    {
+      "name": "Níveis de Consciência",
+      "category": "conceito"
+    },
+    {
+      "name": "Punição",
+      "category": "estratégia"
+    },
+    {
+      "name": "Reforço Positivo",
+      "category": "estratégia"
+    },
+    {
+      "name": "Genes e memes",
+      "category": "conceito"
+    },
+    {
+      "name": "Espaço peripessoal",
+      "category": "conceito"
+    },
+    {
+      "name": "Sono REM",
+      "category": "termo técnico"
+    },
+    {
+      "name": "Sono deep",
+      "category": "termo técnico"
+    },
+    {
+      "name": "Arquitetura do sono",
+      "category": "termo técnico"
+    },
+    {
+      "name": "Sistema glinfático",
+      "category": "termo técnico"
+    },
+    {
+      "name": "Yoga Nidra",
+      "category": "prática"
+    },
+    {
+      "name": "Consolidação de memória",
+      "category": "processo cognitivo"
+    },
+    {
+      "name": "Suplementação de colina",
+      "category": "estratégia"
+    },
+    {
+      "name": "Venvance",
+      "category": "medicação"
+    },
+    {
+      "name": "Ômega 3",
+      "category": "suplemento"
+    },
+    {
+      "name": "Neuroproteção",
+      "category": "conceito"
+    },
+    {
+      "name": "Neuroinflamação",
+      "category": "conceito"
+    },
+    {
+      "name": "Brain fog",
+      "category": "conceito"
+    },
+    {
+      "name": "DHA",
+      "category": "nutrition"
+    },
+    {
+      "name": "neuroplasticidade",
+      "category": "neuroscience"
+    },
+    {
+      "name": "noradrenalina",
+      "category": "neuroscience"
+    },
+    {
+      "name": "jejum intermitente",
+      "category": "nutrition"
+    },
+    {
+      "name": "metabolismo flex",
+      "category": "health"
+    },
+    {
+      "name": "corpos cetônicos",
+      "category": "nutrition"
+    },
+    {
+      "name": "dieta cetogênica",
+      "category": "nutrition"
+    },
+    {
+      "name": "ciclo circadiano",
+      "category": "health"
+    }
+  ],
+  "books": [
+    {
+      "title": "Os Sete Níveis da Consciência",
+      "author": "Rodrigo Duprat"
+    },
+    {
+      "title": "Os Sete Níveis de Consciência",
+      "author": "Dr. Rodrigo Duprat"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7 dias",
+      "context": "Período gratuito de uso da plataforma G4 Skills"
+    },
+    {
+      "value": "86 bilhões de neurônios",
+      "context": "Número total de neurônios no cérebro humano"
+    },
+    {
+      "value": "70 bilhões de neurônios",
+      "context": "Número de neurônios no cerebelo"
+    },
+    {
+      "value": "16 bilhões de neurônios",
+      "context": "Número de neurônios no circuito talamocortical"
+    },
+    {
+      "value": "6 a 8 horas",
+      "context": "Duração recomendada de sono para alta performance"
+    },
+    {
+      "value": "2 a 3 horas",
+      "context": "Duração recomendada de sono profundo"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Motivação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Feedback Negativo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Níveis De Consciência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Arquitetura Do Sono",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Consolidação De Memória",
+      "target_type": "concept"
+    },
+    {
+      "source": "Chalmers",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Zumbis Mentais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Prática Deliberada",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Genes E Memes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Yoga",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Os Sete Níveis De Consciência",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dopamina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Neuroproteção",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sistema Talamocortical",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sono Deep",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Neuroinflamação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Brain Fog",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Neurociência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estado De Flow",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carl Jung",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Sonhos",
+      "target_type": "company"
+    },
+    {
+      "source": "Albert Einstein",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Teoria Da Relatividade",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Citiocolina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Salvador Dali",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Técnica De Criatividade Com Chave",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Antônio Damasio",
+      "target_type": "person"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Heurísticas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alta Performance Mental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ômega 3",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Decisões Conscientes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alta Performance Mental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Agenesia De Cerebelo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Venvance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sistema Glinfático",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Espaço Peripessoal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Yoga Nidra",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Decisões Automáticas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Zumbis Mentais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sono Rem",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão E Liderança",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Os Sete Níveis Da Consciência",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Medicina Integrativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Suplementação De Colina",
+      "target_type": "concept"
+    }
+  ]
+}

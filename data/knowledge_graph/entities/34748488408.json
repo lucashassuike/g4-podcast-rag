@@ -1,0 +1,708 @@
+{
+  "episode_id": "34748488408",
+  "title": "ALTA PERFORMANCE NA NATAÇÃO, NOS NEGÓCIOS E NA VIDA COM GUSTAVO BORGES | EXTREMOS",
+  "date_published": 1723104000,
+  "duration": 6070,
+  "chunks_processed": 9,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Gustavo Borges",
+      "role": "guest",
+      "company": "Gustavo Borges Academia",
+      "title": "Empreendedor e ex-nadador olímpico"
+    },
+    {
+      "name": "Fernando",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Bárbara",
+      "role": "mentioned",
+      "company": "",
+      "title": "Esposa de Gustavo Borges"
+    },
+    {
+      "name": "Luiz Gustavo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filho de Gustavo Borges"
+    },
+    {
+      "name": "Gabi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filha de Gustavo Borges"
+    },
+    {
+      "name": "Michael Phelps",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Giba",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-jogador de Vôlei"
+    },
+    {
+      "name": "Gabriela",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filha de Gustavo Borges"
+    },
+    {
+      "name": "Novak Djokovic",
+      "role": "mentioned",
+      "company": "",
+      "title": "Tenista"
+    },
+    {
+      "name": "Joel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influenciador e Embaixador Olímpico"
+    },
+    {
+      "name": "Greg Troy",
+      "role": "mentioned",
+      "company": "",
+      "title": "Treinador"
+    },
+    {
+      "name": "Xuxa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta"
+    },
+    {
+      "name": "Tony Robbins",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor e Palestrante Motivacional"
+    },
+    {
+      "name": "Henry Ford",
+      "role": "mentioned",
+      "company": "",
+      "title": "Industrial e Fundador da Ford Motor Company"
+    },
+    {
+      "name": "Jeovaldo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thiago",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Antônio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Empresa mencionada como organizadora de programas de liderança e gestão."
+    },
+    {
+      "name": "Cafeine Army",
+      "industry": "Health and Wellness",
+      "context": "Mentioned as the producer of Koala and Super Coffee products"
+    },
+    {
+      "name": "Vitex",
+      "industry": "Tecnologia e comércio eletrônico",
+      "context": "Empresa mencionada em relação a transições empresariais"
+    },
+    {
+      "name": "Academias Gustavo Borges",
+      "industry": "Fitness e Educação",
+      "context": "Empresa fundada por Gustavo Borges focada em academias de natação e metodologia educacional."
+    },
+    {
+      "name": "Les Mills",
+      "industry": "Fitness e Educação",
+      "context": "Empresa mencionada como inspiração para o modelo de aulas coreografadas nas academias."
+    },
+    {
+      "name": "Grupo Positivo",
+      "industry": "Educação",
+      "context": "Modelo de franquias educacionais estudado por Gustavo Borges para desenvolver seu negócio."
+    },
+    {
+      "name": "Prudente",
+      "industry": "Seguros",
+      "context": "Mencionada como seguradora utilizada por Gustavo Borges"
+    },
+    {
+      "name": "Dow Chemical",
+      "industry": "Química",
+      "context": "Empregadora da filha de Gustavo Borges"
+    },
+    {
+      "name": "Mgb",
+      "industry": "Educação e Esportes",
+      "context": "Empresa de Gustavo Borges focada em educação por meio da natação."
+    },
+    {
+      "name": "Esporte Tv",
+      "industry": "Mídia e Entretenimento",
+      "context": "Canal de televisão mencionado como entregador de público para esportes."
+    },
+    {
+      "name": "Globo",
+      "industry": "Mídia e Entretenimento",
+      "context": "Empresa mencionada como entregadora de público para esportes."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta performance",
+      "category": "Estratégia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Modelo mental",
+      "category": "Psicologia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Gestão",
+      "category": "Negócios"
+    },
+    {
+      "name": "Liderança",
+      "category": "Negócios"
+    },
+    {
+      "name": "Crescimento com eficiência",
+      "category": "Negócios"
+    },
+    {
+      "name": "Higiene do sono",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Administração da mente",
+      "category": "Mental Health"
+    },
+    {
+      "name": "Produtividade",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Vila Olímpica",
+      "category": "Evento Esportivo"
+    },
+    {
+      "name": "Classificação Olímpica",
+      "category": "Processo Esportivo"
+    },
+    {
+      "name": "Faturamento",
+      "category": "Métrica Empresarial"
+    },
+    {
+      "name": "Caixa",
+      "category": "Métrica Empresarial"
+    },
+    {
+      "name": "Lucro",
+      "category": "Métrica Empresarial"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Hábito e Mentalidade"
+    },
+    {
+      "name": "Rotina",
+      "category": "Hábito e Mentalidade"
+    },
+    {
+      "name": "Transição de carreira",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Força mental",
+      "category": "Psicologia e negócios"
+    },
+    {
+      "name": "Modelo de recorrência",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Licenciamento",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Churn",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Mastermind",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Gestão Aquática",
+      "category": "Indústria de Fitness"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Gestão de Processos",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Esporte competitivo",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Paternidade",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Educação internacional",
+      "category": "Investimento em educação"
+    },
+    {
+      "name": "Humildade intelectual",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Pivotar carreira",
+      "category": "Estratégia de carreira"
+    },
+    {
+      "name": "Educação por meio da natação",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Sedentarismo",
+      "category": "Saúde Pública"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "DALL-E",
+      "category": "Ferramenta de Inteligência Artificial"
+    },
+    {
+      "name": "ChatGPT",
+      "category": "Ferramenta de Inteligência Artificial"
+    },
+    {
+      "name": "Modelo Mental de Líder",
+      "category": "Liderança e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Alto Rendimento",
+      "category": "Performance e Esportes"
+    }
+  ],
+  "books": [
+    {
+      "title": "Prepara Vai",
+      "author": "Gustavo Borges"
+    },
+    {
+      "title": "Todos Somos Uma Marca",
+      "author": "Desconhecido"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "19 medalhas",
+      "context": "Conquistas de Gustavo Borges em Jogos Pan-Americanos"
+    },
+    {
+      "value": "3 recordes mundiais",
+      "context": "Conquistas de Gustavo Borges na natação"
+    },
+    {
+      "value": "10 milhões de reais",
+      "context": "Faturamento mínimo sugerido para participação em programas do G4 Educação"
+    },
+    {
+      "value": "300 milhões de reais",
+      "context": "Faturamento anual da G4 Educação"
+    },
+    {
+      "value": "43 milhões de metros",
+      "context": "Distância total nadada por Gustavo Borges em sua carreira"
+    },
+    {
+      "value": "43 milhões de metros",
+      "context": "Distância acumulada nadada por Gustavo Borges em sua carreira"
+    },
+    {
+      "value": "28 medalhas",
+      "context": "Número de medalhas olímpicas conquistadas por Michael Phelps"
+    },
+    {
+      "value": "5 Olimpíadas",
+      "context": "Participações olímpicas de Michael Phelps"
+    },
+    {
+      "value": "420 academias licenciadas",
+      "context": "Número de academias licenciadas pelo modelo de negócios de Gustavo Borges."
+    },
+    {
+      "value": "200 mil alunos",
+      "context": "Número de alunos atendidos pela rede de academias licenciadas."
+    },
+    {
+      "value": "7 anos",
+      "context": "Tempo médio de permanência dos clientes no modelo de recorrência."
+    },
+    {
+      "value": "Menos de 10% de churn anual",
+      "context": "Meta de retenção de clientes estabelecida para o ano."
+    },
+    {
+      "value": "7 anos",
+      "context": "Tempo médio de permanência dos clientes nas academias."
+    },
+    {
+      "value": "50 pessoas",
+      "context": "Tamanho da equipe que cuida da estratégia e operação das academias."
+    },
+    {
+      "value": "80 palestras por ano",
+      "context": "Número de palestras realizadas por Gustavo Borges anualmente."
+    },
+    {
+      "value": "70 a 120 mil reais por loja",
+      "context": "Faturamento médio mensal das cafeterias mencionadas."
+    },
+    {
+      "value": "5 lojas",
+      "context": "Número de cafeterias operadas antes de encerrar o negócio."
+    },
+    {
+      "value": "Mais de um milhão de seguidores",
+      "context": "Número de seguidores de Giba nas redes sociais"
+    },
+    {
+      "value": "16 anos",
+      "context": "Idade até a qual os filhos de Gustavo Borges deveriam praticar esporte competitivo"
+    },
+    {
+      "value": "25 anos",
+      "context": "Idade atual do filho de Gustavo Borges, que é atleta profissional"
+    },
+    {
+      "value": "35 anos",
+      "context": "Idade máxima mencionada para atletas profissionais"
+    },
+    {
+      "value": "15 anos",
+      "context": "Tempo médio de alta performance de um atleta profissional"
+    },
+    {
+      "value": "Universidade de Michigan",
+      "context": "Instituição onde Gustavo Borges e seus filhos estudaram"
+    },
+    {
+      "value": "10 quilômetros",
+      "context": "Maior treino de natação realizado por Gustavo Borges"
+    },
+    {
+      "value": "70 quilômetros",
+      "context": "Distância máxima nadada em uma semana por Gustavo Borges"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gustavo Borges Academia",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Michael Phelps",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Bárbara",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Cafeine Army",
+      "target_type": "company"
+    },
+    {
+      "source": "Academias Gustavo Borges",
+      "source_type": "company",
+      "relation": "utilizes",
+      "target": "Vitex",
+      "target_type": "company"
+    },
+    {
+      "source": "Academias Gustavo Borges",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Les Mills",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rotina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gabriela",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dow Chemical",
+      "target_type": "company"
+    },
+    {
+      "source": "Joel",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Luiz Gustavo",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cafeine Army",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Caixa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Giba",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gustavo Borges",
+      "target_type": "person"
+    },
+    {
+      "source": "Joel",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Esporte Tv",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Prepara Vai",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Faturamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Fernando",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vila Olímpica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Universidade De Michigan",
+      "target_type": "company"
+    },
+    {
+      "source": "Michael Phelps",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Gustavo Borges",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Gabriela",
+      "target_type": "person"
+    },
+    {
+      "source": "Novak Djokovic",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gustavo Borges",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Educação Por Meio Da Natação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mgb",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Disciplina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Classificação Olímpica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Academias Gustavo Borges",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Grupo Positivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lucro",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Gabi",
+      "target_type": "person"
+    },
+    {
+      "source": "Greg Troy",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Gustavo Borges",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Academias Gustavo Borges",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

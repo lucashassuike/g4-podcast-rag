@@ -1,0 +1,296 @@
+{
+  "episode_id": "34748488335",
+  "title": "BRASIL É O MELHOR PAÍS PARA SE INVESTIR | PAPO DE GESTÃO",
+  "date_published": 1741629600,
+  "duration": 3712,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Fernando Cinelli",
+      "role": "guest",
+      "company": "Apex Partners",
+      "title": "Fundador e Presidente"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Frederic Bastiat",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Frederico Bastiá",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Apex Partners",
+      "industry": "Investimentos",
+      "context": "Empresa independente de investimento no Brasil, focada em democratizar o acesso ao mercado de capitais."
+    },
+    {
+      "name": "Cicobe Do Espírito Santo",
+      "industry": "Financeiro",
+      "context": "Instituição financeira com 850 mil correntistas e 29 bilhões de ativos totais."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação para empreendedores e líderes empresariais."
+    },
+    {
+      "name": "Apex",
+      "industry": "Consultoria e Investimentos",
+      "context": "Discussão sobre destravar potencial econômico e apoio a empresas regionais."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Mercado de capitais",
+      "category": "Finanças"
+    },
+    {
+      "name": "Private equity",
+      "category": "Finanças"
+    },
+    {
+      "name": "Fusões e aquisições",
+      "category": "Finanças"
+    },
+    {
+      "name": "Desconcentração econômica",
+      "category": "Economia"
+    },
+    {
+      "name": "Efeito de rede",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Cross-sell e up-sell",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Regionalização de investimentos",
+      "category": "Finanças"
+    },
+    {
+      "name": "Instrumentos financeiros",
+      "category": "Finanças"
+    },
+    {
+      "name": "Responsabilidade Fiscal",
+      "category": "Economia"
+    },
+    {
+      "name": "Planejamento Financeiro",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "Inflação",
+      "category": "Economia"
+    },
+    {
+      "name": "Pesquisa Econômica",
+      "category": "Economia"
+    },
+    {
+      "name": "Gestão Estratégica",
+      "category": "Educação Empresarial"
+    },
+    {
+      "name": "Diversificação de investimentos",
+      "category": "Finanças"
+    },
+    {
+      "name": "Gestão patrimonial",
+      "category": "Finanças"
+    },
+    {
+      "name": "Volatilidade de mercado",
+      "category": "Finanças"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Negócios"
+    },
+    {
+      "name": "Reforma tributária",
+      "category": "Política e Economia"
+    }
+  ],
+  "books": [
+    {
+      "title": "O que se vê e o que não se vê",
+      "author": "Frederic Bastiat"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "850 mil",
+      "context": "Número de correntistas do Cicobe do Espírito Santo."
+    },
+    {
+      "value": "29 bilhões",
+      "context": "Ativos totais do Cicobe do Espírito Santo."
+    },
+    {
+      "value": "1.2 bilhões",
+      "context": "Lucro do Cicobe do Espírito Santo."
+    },
+    {
+      "value": "12 anos",
+      "context": "Tempo de operação da Apex Partners desde sua fundação em 2013."
+    },
+    {
+      "value": "2.2 a 2.3 trilhões de dólares",
+      "context": "PIB aproximado do Brasil em dólares."
+    },
+    {
+      "value": "33%",
+      "context": "Proporção do PIB brasileiro concentrado em São Paulo."
+    },
+    {
+      "value": "40%",
+      "context": "Proporção do PIB brasileiro concentrado em Rio-São Paulo."
+    },
+    {
+      "value": "60%",
+      "context": "Proporção do PIB brasileiro nos outros 25 estados."
+    },
+    {
+      "value": "60%",
+      "context": "Empreendedores que vêm de fora do eixo Sudeste para o G4 Educação."
+    },
+    {
+      "value": "13 anos",
+      "context": "Nota A+ do Espírito Santo no Tesouro Nacional."
+    },
+    {
+      "value": "5,70",
+      "context": "Valor do dólar mencionado como referência para remessa de dinheiro."
+    },
+    {
+      "value": "5,79",
+      "context": "Valor do dólar mencionado como referência atual comparativa."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Apex",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Private Equity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fernando Cinelli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Apex Partners",
+      "target_type": "company"
+    },
+    {
+      "source": "Frederic Bastiat",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "O Que Se Vê E O Que Não Se Vê",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Cinelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Apex Partners",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Apex",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Mercado De Capitais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Frederico Bastiá",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "O Que Se Vê E O Que Não Se Vê",
+      "target_type": "company"
+    },
+    {
+      "source": "Apex",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Planejamento Financeiro",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Apex",
+      "target_type": "company"
+    },
+    {
+      "source": "Apex",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Fusões E Aquisições",
+      "target_type": "concept"
+    }
+  ]
+}

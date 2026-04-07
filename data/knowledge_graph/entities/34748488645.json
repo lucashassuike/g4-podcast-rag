@@ -1,0 +1,385 @@
+{
+  "episode_id": "34748488645",
+  "title": "#033 - Varejo 4.0 e estratégia de lançamento, com Giulliano da La BellaMafia",
+  "date_published": 1635323406,
+  "duration": 2192,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Giulliano",
+      "role": "guest",
+      "company": "La BellaMafia",
+      "title": "Executive"
+    },
+    {
+      "name": "Fred",
+      "role": "mentioned",
+      "company": "Magazine Luiza",
+      "title": "CEO"
+    },
+    {
+      "name": "Thales Teixeira",
+      "role": "mentioned",
+      "company": "Harvard University",
+      "title": "Professor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Júlio",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Advisor"
+    },
+    {
+      "name": "Edu Schuller",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Melissa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Kim",
+      "role": "mentioned",
+      "company": "TikTok",
+      "title": "Head de Marketing Latam"
+    },
+    {
+      "name": "João Adib",
+      "role": "mentioned",
+      "company": "Grupo Cimed",
+      "title": "Presidente"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "La Bellamafia",
+      "industry": "Fashion",
+      "context": "Fashion and apparel"
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Retail",
+      "context": "Retail and e-commerce"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Ride-hailing service"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Finance",
+      "context": "Digital banking and financial services"
+    },
+    {
+      "name": "Banco Do Brasil",
+      "industry": "Finance",
+      "context": "Traditional banking"
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Exemplo de diversidade e capacidade de adaptação."
+    },
+    {
+      "name": "Singus Tecnologia",
+      "industry": "Tecnologia",
+      "context": "Discussão sobre diversidade em equipes de desenvolvimento."
+    },
+    {
+      "name": "Tiktok",
+      "industry": "Technology",
+      "context": "Kim's current employer"
+    },
+    {
+      "name": "Booking.Com",
+      "industry": "Travel",
+      "context": "Kim's former employer"
+    },
+    {
+      "name": "Grupo Cimed",
+      "industry": "Pharmaceuticals",
+      "context": "João Adib's company"
+    },
+    {
+      "name": "Singoo",
+      "industry": "Beauty Services",
+      "context": "Tallis Gomes' company"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Varejo 4.0",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Squads",
+      "category": "Organizational structure"
+    },
+    {
+      "name": "Decoupling",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Social Selling",
+      "category": "Sales strategy"
+    },
+    {
+      "name": "CAC (Customer Acquisition Cost)",
+      "category": "Business metric"
+    },
+    {
+      "name": "DRE (Demonstrativo de Resultados do Exercício)",
+      "category": "Financial metric"
+    },
+    {
+      "name": "Método de lançamento",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Live commerce",
+      "category": "Estratégia de marketing digital"
+    },
+    {
+      "name": "Diversidade em equipes",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Inside sales",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Growth",
+      "category": "Estratégia de crescimento"
+    },
+    {
+      "name": "Black Friday",
+      "category": "Evento de vendas"
+    },
+    {
+      "name": "Fórmula de lançamento de infoproduto",
+      "category": "Estratégia de marketing digital"
+    },
+    {
+      "name": "Diversificação de equipe",
+      "category": "Team Management"
+    },
+    {
+      "name": "Gestão libertária",
+      "category": "Management Philosophy"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Key Accounts",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Tecnologias disruptivas",
+      "category": "Innovation"
+    },
+    {
+      "name": "PPU (Pay Per Use)",
+      "category": "Business Model"
+    },
+    {
+      "name": "Smartphone Adoption",
+      "category": "Technology"
+    },
+    {
+      "name": "Credit Card Usage in Taxis",
+      "category": "Financial Innovation"
+    },
+    {
+      "name": "Retail Margins",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Oxigênio",
+      "author": "Unknown"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "134 billion USD",
+      "context": "Uber's valuation"
+    },
+    {
+      "value": "8 billion USD",
+      "context": "Uber's annual loss"
+    },
+    {
+      "value": "25 billion USD",
+      "context": "Nubank's valuation"
+    },
+    {
+      "value": "14 billion BRL",
+      "context": "Banco do Brasil's quarterly profit"
+    },
+    {
+      "value": "50 milhões",
+      "context": "Faturamento total da La BellaMafia em 2019."
+    },
+    {
+      "value": "58 milhões",
+      "context": "Faturamento da La BellaMafia no Brasil em 3 meses de 2020."
+    },
+    {
+      "value": "2 milhões de reais por dia",
+      "context": "Faturamento médio diário do canal B2B da La BellaMafia em 2020."
+    },
+    {
+      "value": "4%",
+      "context": "População brasileira com smartphone em 2011"
+    },
+    {
+      "value": "5%",
+      "context": "Credit card transaction fee at the time."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Singoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Teixeira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Harvard University",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Giulliano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "La Bellamafia",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Kim",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tiktok",
+      "target_type": "company"
+    },
+    {
+      "source": "Kim",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "La Bellamafia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "La Bellamafia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adib",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "Kim",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Booking.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Edu Schuller",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Melissa",
+      "target_type": "person"
+    }
+  ]
+}

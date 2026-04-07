@@ -1,0 +1,241 @@
+{
+  "episode_id": "38246690634",
+  "title": "CONSTRUINDO O MERCADO CRIPTO: A VISÃO DOS FUNDADORES DA FOXBIT | EXTREMOS",
+  "date_published": 1749038400,
+  "duration": 4201,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "João Canhada",
+      "role": "guest",
+      "company": "Foxbit",
+      "title": "Fundador"
+    },
+    {
+      "name": "Ricardo Dantas",
+      "role": "guest",
+      "company": "Foxbit",
+      "title": "Sócio"
+    },
+    {
+      "name": "Canhada",
+      "role": "guest",
+      "company": "Foxbit",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Dantas",
+      "role": "guest",
+      "company": "Foxbit",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Guto",
+      "role": "mentioned",
+      "company": "Foxbit",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Cananda",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gabi",
+      "role": "mentioned",
+      "company": "Foxbit",
+      "title": "Marketing"
+    },
+    {
+      "name": "Bruno",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Foxbit",
+      "industry": "Criptomoedas",
+      "context": "Uma das maiores corretoras de criptoativos do Brasil, parceira do G4 Educação."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Parceira da Foxbit na produção de conteúdo educacional sobre criptomoedas."
+    },
+    {
+      "name": "Múltiplos",
+      "industry": "Fidelidade",
+      "context": "Empresa onde um dos convidados trabalhou antes de entrar no mercado de criptomoedas."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Criptomoedas",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Bitcoin",
+      "category": "Criptomoeda"
+    },
+    {
+      "name": "Blockchain",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Peer-to-peer",
+      "category": "Modelo de transação"
+    },
+    {
+      "name": "Volatilidade de mercado",
+      "category": "Finanças"
+    },
+    {
+      "name": "Halving",
+      "category": "Tecnologia de mineração"
+    },
+    {
+      "name": "DCA (Dollar-Cost Averaging)",
+      "category": "Estratégia de investimento"
+    },
+    {
+      "name": "Multisig (Multi-signature)",
+      "category": "Segurança em criptomoedas"
+    },
+    {
+      "name": "Cripto autocustódia",
+      "category": "Cryptocurrency"
+    },
+    {
+      "name": "Gerenciamento de risco",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "LGPD",
+      "category": "Data Protection"
+    },
+    {
+      "name": "Kit pirâmideiro",
+      "category": "Fraud Identification"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "500 mil reais",
+      "context": "Volume negociado no primeiro mês de operação da Foxbit em dezembro de 2014."
+    },
+    {
+      "value": "43 milhões de reais",
+      "context": "Volume negociado pela Foxbit em 2015."
+    },
+    {
+      "value": "350 milhões de reais",
+      "context": "Volume negociado pela Foxbit em 2016."
+    },
+    {
+      "value": "3,5 bilhões de reais",
+      "context": "Volume negociado pela Foxbit em 2017."
+    },
+    {
+      "value": "1.500 reais",
+      "context": "Valor aproximado do Bitcoin no final de 2013."
+    },
+    {
+      "value": "500 mil reais",
+      "context": "Dívida acumulada por João Canhada em 2013."
+    },
+    {
+      "value": "6 anos",
+      "context": "Tempo de experiência de um dos convidados no mercado de criptomoedas."
+    },
+    {
+      "value": "2019",
+      "context": "Ano em que a Foxbit foi resetada e passou por uma reestruturação."
+    },
+    {
+      "value": "2010",
+      "context": "Year mentioned as the starting point of familiarity with Foxbit."
+    },
+    {
+      "value": "2015",
+      "context": "Year mentioned as the first time the speaker traded on Foxbit."
+    },
+    {
+      "value": "50",
+      "context": "Number of comments required to trigger a second episode."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ricardo Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Foxbit",
+      "target_type": "company"
+    },
+    {
+      "source": "João Canhada",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Foxbit",
+      "target_type": "company"
+    },
+    {
+      "source": "Foxbit",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dantas",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Foxbit",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Foxbit",
+      "target_type": "company"
+    },
+    {
+      "source": "Foxbit",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Foxbit",
+      "target_type": "company"
+    },
+    {
+      "source": "Canhada",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Foxbit",
+      "target_type": "company"
+    }
+  ]
+}

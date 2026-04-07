@@ -1,0 +1,641 @@
+{
+  "episode_id": "35556084844",
+  "title": "FOOD BUSINESS E FRANQUIAS COM RODRIGO BARROS | PAPO DE GESTÃO",
+  "date_published": 1743411600,
+  "duration": 4325,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Rodrigo Barros",
+      "role": "guest",
+      "company": "Boale",
+      "title": "Fundador e CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Cadu",
+      "role": "mentioned",
+      "company": "Boale",
+      "title": "Country Manager"
+    },
+    {
+      "name": "Fabrício",
+      "role": "mentioned",
+      "company": "Prosus",
+      "title": "Presidente"
+    },
+    {
+      "name": "Deco",
+      "role": "mentioned",
+      "company": "Boale Portugal",
+      "title": "Sócio"
+    },
+    {
+      "name": "Country Manager",
+      "role": "mentioned",
+      "company": "Boale Portugal",
+      "title": "Country Manager"
+    },
+    {
+      "name": "Diego",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pathy",
+      "role": "mentioned",
+      "company": "Taste",
+      "title": "Operations Manager"
+    },
+    {
+      "name": "Adriano",
+      "role": "mentioned",
+      "company": "Boali",
+      "title": "Franchise Owner"
+    },
+    {
+      "name": "Patrícia",
+      "role": "mentioned",
+      "company": "Boali",
+      "title": "Store Management Leader"
+    },
+    {
+      "name": "Rodrigo (Rods)",
+      "role": "mentioned",
+      "company": "Taste",
+      "title": "Architectural Area Leader"
+    },
+    {
+      "name": "Elaine",
+      "role": "mentioned",
+      "company": "Boali",
+      "title": "Expansion Leader"
+    },
+    {
+      "name": "Paty",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Guto Galamba",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Boale",
+      "industry": "Alimentação saudável",
+      "context": "Maior rede de alimentação saudável do Brasil, com 118 unidades em 21 estados"
+    },
+    {
+      "name": "Salad Creations",
+      "industry": "Alimentação saudável",
+      "context": "Empresa que deu origem à Boale"
+    },
+    {
+      "name": "Just Salad",
+      "industry": "Alimentação saudável",
+      "context": "Companhia similar à Boale nos Estados Unidos"
+    },
+    {
+      "name": "Sweet Green",
+      "industry": "Alimentação saudável",
+      "context": "Companhia com capital aberto nos Estados Unidos"
+    },
+    {
+      "name": "Cava",
+      "industry": "Alimentação saudável",
+      "context": "Companhia com capital aberto nos Estados Unidos"
+    },
+    {
+      "name": "Cisco",
+      "industry": "Distribuição de food service",
+      "context": "Maior distribuidora de food service do mundo"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Tecnologia e delivery",
+      "context": "Principal canal de distribuição para a Boale"
+    },
+    {
+      "name": "Prosus",
+      "industry": "Investimentos e Tecnologia",
+      "context": "Proprietária do iFood e compradora da Just Eat"
+    },
+    {
+      "name": "Just Eat",
+      "industry": "Food Delivery",
+      "context": "Empresa adquirida pela Prosus"
+    },
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Mencionada como exemplo de empresa brasileira que se internacionalizou"
+    },
+    {
+      "name": "Sweetgreen",
+      "industry": "Alimentação Saudável",
+      "context": "Referência no mercado americano mencionada como inspiração para outras marcas"
+    },
+    {
+      "name": "Fresh",
+      "industry": "Alimentação Saudável",
+      "context": "Marca canadense mencionada como competidora no mercado internacional"
+    },
+    {
+      "name": "Taste",
+      "industry": "Food Business",
+      "context": "Empresa mencionada em comparação ao modelo de operação da Boale."
+    },
+    {
+      "name": "Boali",
+      "industry": "Food and Beverage",
+      "context": "Franchise business model and expansion strategies"
+    },
+    {
+      "name": "Mcdonald'S",
+      "industry": "Food and Beverage",
+      "context": "Elaine's previous experience"
+    },
+    {
+      "name": "Bob'S",
+      "industry": "Food and Beverage",
+      "context": "Elaine's previous experience"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education and Business Consulting",
+      "context": "Host do podcast"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Internacionalização",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Eficiência operacional",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Tropicalização",
+      "category": "Estratégia de mercado"
+    },
+    {
+      "name": "Monoproduto",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finanças empresariais"
+    },
+    {
+      "name": "Expansão Internacional",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Franquias",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Corporate Stores",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Master Franqueado",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Cadeia de Suprimentos",
+      "category": "Operações"
+    },
+    {
+      "name": "Alocação de Capital",
+      "category": "Finanças"
+    },
+    {
+      "name": "Mercado Saudável",
+      "category": "Indústria"
+    },
+    {
+      "name": "CMV (Custo de Mercadoria Vendida)",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "SKU (Stock Keeping Unit)",
+      "category": "Inventory Management"
+    },
+    {
+      "name": "LTO (Limited Time Offer)",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Recorrência",
+      "category": "Customer Retention"
+    },
+    {
+      "name": "Ticket Médio",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Margem de Contribuição",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Framework de decisão",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Healthy food",
+      "category": "Segmento de mercado"
+    },
+    {
+      "name": "Clean label",
+      "category": "Conceito de produto"
+    },
+    {
+      "name": "Sous vide",
+      "category": "Técnica de preparo de alimentos"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão de empresas"
+    },
+    {
+      "name": "Franchise Business Model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Geofusion",
+      "category": "Technology"
+    },
+    {
+      "name": "Boali Run",
+      "category": "Event"
+    },
+    {
+      "name": "Back Office Operations",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Custo de ocupação",
+      "category": "Financial Management"
+    },
+    {
+      "name": "Liderança personalizada",
+      "category": "Leadership"
+    },
+    {
+      "name": "Canal de distribuição",
+      "category": "Marketing Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Versão Beta",
+      "author": "Rodrigo Barros"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "200 milhões de dólares",
+      "context": "Levantamento de capital pela Just Salad"
+    },
+    {
+      "value": "1 bilhão de dólares",
+      "context": "Valuation da Just Salad"
+    },
+    {
+      "value": "118 unidades",
+      "context": "Número de unidades da Boale no Brasil"
+    },
+    {
+      "value": "1,5 milhão de pessoas",
+      "context": "Impacto anual da Boale"
+    },
+    {
+      "value": "30%",
+      "context": "Vendas realizadas pelo iFood no negócio de Rodrigo Barros"
+    },
+    {
+      "value": "70%",
+      "context": "Vendas realizadas no balcão no negócio de Rodrigo Barros"
+    },
+    {
+      "value": "118",
+      "context": "Operações no Brasil mencionadas por Rodrigo Barros"
+    },
+    {
+      "value": "14",
+      "context": "Franqueados com mais de 3 lojas no Brasil"
+    },
+    {
+      "value": "150",
+      "context": "Potencial de operações na Flórida em 5 anos"
+    },
+    {
+      "value": "20",
+      "context": "Operações planejadas em Riyadh, Arábia Saudita"
+    },
+    {
+      "value": "52%",
+      "context": "Weekly customer recurrence achieved by Boale in 2023."
+    },
+    {
+      "value": "133 SKUs",
+      "context": "Current number of stock keeping units managed by Boale."
+    },
+    {
+      "value": "27 SKUs",
+      "context": "Finalized product offerings in Boale's menu."
+    },
+    {
+      "value": "27%",
+      "context": "Percentual de CMV discutido no contexto de análise de produtos."
+    },
+    {
+      "value": "31%",
+      "context": "Percentual de CMV para produtos com maior popularidade."
+    },
+    {
+      "value": "3%-4%",
+      "context": "Percentual de vendas de produtos veganos no portfólio."
+    },
+    {
+      "value": "12 stores",
+      "context": "Number of stores managed by Adriano"
+    },
+    {
+      "value": "180 days",
+      "context": "Timeframe for presenting a commercial point after signing a pre-contract"
+    },
+    {
+      "value": "100 mapped points",
+      "context": "Potential locations for Boali expansion"
+    },
+    {
+      "value": "100 pontos mapeados",
+      "context": "Identificação de locais estratégicos para operações"
+    },
+    {
+      "value": "4h24",
+      "context": "Tempo do meio Iron Man realizado por Bruno"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Margem De Contribuição",
+      "target_type": "concept"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Taste",
+      "target_type": "company"
+    },
+    {
+      "source": "Boali",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Custo De Ocupação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sku (Stock Keeping Unit)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Sweetgreen",
+      "target_type": "company"
+    },
+    {
+      "source": "Elaine",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Bob'S",
+      "target_type": "company"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Elaine",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Mcdonald'S",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Boale",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Recorrência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Elaine",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Boali",
+      "target_type": "company"
+    },
+    {
+      "source": "Pathy",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Taste",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lto (Limited Time Offer)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Boale",
+      "target_type": "company"
+    },
+    {
+      "source": "Boali",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Franquias",
+      "target_type": "concept"
+    },
+    {
+      "source": "Prosus",
+      "source_type": "company",
+      "relation": "owns",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Boali",
+      "target_type": "company"
+    },
+    {
+      "source": "Prosus",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Just Eat",
+      "target_type": "company"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cisco",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Food Delivery",
+      "target_type": "company"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Fresh",
+      "target_type": "company"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Food Business",
+      "target_type": "company"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Just Salad",
+      "target_type": "company"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Sweet Green",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ticket Médio",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Boali",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo (Rods)",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Taste",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabrício",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Prosus",
+      "target_type": "company"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Cava",
+      "target_type": "company"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Salad Creations",
+      "target_type": "company"
+    },
+    {
+      "source": "Boali",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Canal De Distribuição",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cmv (Custo De Mercadoria Vendida)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Boali",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Taste",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo (Rods)",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Boali",
+      "target_type": "company"
+    }
+  ]
+}

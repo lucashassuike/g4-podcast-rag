@@ -1,0 +1,312 @@
+{
+  "episode_id": "39079697436",
+  "title": "MINIMAL: A MENTE POR TRÁS DE UMA MARCA DESEJADA | EXTREMOS",
+  "date_published": 1750852800,
+  "duration": 3782,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Advisory and Investor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bento Meireles",
+      "role": "guest",
+      "company": "Moon Ventures",
+      "title": "CEO"
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "Home",
+      "title": "CEO"
+    },
+    {
+      "name": "Virgínia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fred",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bento",
+      "role": "mentioned",
+      "company": "Mínimo",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Minimal Club",
+      "industry": "Fashion",
+      "context": "DNVB focusing on minimalist and high-quality clothing"
+    },
+    {
+      "name": "Home",
+      "industry": "Home Goods",
+      "context": "DNVB specializing in luxury-quality bedding and towels"
+    },
+    {
+      "name": "Moon Ventures",
+      "industry": "Venture Building",
+      "context": "Company building DNVBs"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Finance",
+      "context": "Largest investment office in Minas Gerais"
+    },
+    {
+      "name": "Minimal",
+      "industry": "Fashion",
+      "context": "Discussed as a direct-to-consumer brand with exponential growth."
+    },
+    {
+      "name": "Grupo Arezzo",
+      "industry": "Fashion",
+      "context": "Mentioned in the context of operating through multibrand and franchise models."
+    },
+    {
+      "name": "Grupo Soma",
+      "industry": "Fashion",
+      "context": "Mentioned in relation to Grupo Arezzo's operational model."
+    },
+    {
+      "name": "Mínimo",
+      "industry": "Fashion",
+      "context": "Discussed as a brand targeting aspirational customers and expanding into other markets like Home."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Referenced as a model for creating a brand that connects with entrepreneurs."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "DNVB",
+      "category": "Business Model"
+    },
+    {
+      "name": "Marketing Digital",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Copywriting",
+      "category": "Marketing"
+    },
+    {
+      "name": "Creative Advertising",
+      "category": "Marketing"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC)",
+      "category": "Business Model"
+    },
+    {
+      "name": "Markup",
+      "category": "Pricing Strategy"
+    },
+    {
+      "name": "Digital Native Vertical Brand (DNVB)",
+      "category": "Business Model"
+    },
+    {
+      "name": "Pareto Principle (80-20 Rule)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Direct-to-Consumer",
+      "category": "Business Model"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "400,000 BRL per month",
+      "context": "Revenue mentioned in the context of business operations"
+    },
+    {
+      "value": "Annual doubling or tripling",
+      "context": "Growth rate of Minimal Club"
+    },
+    {
+      "value": "4 million",
+      "context": "Minimal's revenue in its first year (2021)."
+    },
+    {
+      "value": "16 million",
+      "context": "Minimal's revenue in its second year."
+    },
+    {
+      "value": "35 million",
+      "context": "Minimal's revenue in its third year."
+    },
+    {
+      "value": "70% growth",
+      "context": "Minimal's revenue growth in the last year."
+    },
+    {
+      "value": "70%",
+      "context": "Percentage of customers who are graduated or post-graduated."
+    },
+    {
+      "value": "Three years",
+      "context": "Duration Alfredo Soares has been an advisory and investor at Mínimo."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bento Meireles",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Home",
+      "target_type": "company"
+    },
+    {
+      "source": "Minimal",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Grupo Arezzo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bento",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mínimo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bento Meireles",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Moon Ventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Minimal",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Digital Native Vertical Brand (Dnvb)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Minimal Club",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Dnvb",
+      "target_type": "concept"
+    },
+    {
+      "source": "Minimal Club",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Home",
+      "target_type": "company"
+    },
+    {
+      "source": "Home",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Dnvb",
+      "target_type": "concept"
+    },
+    {
+      "source": "Minimal",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Grupo Soma",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Home",
+      "target_type": "company"
+    },
+    {
+      "source": "Mínimo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Home",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mínimo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bento Meireles",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Moon Ventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Minimal",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Direct-To-Consumer (Dtc)",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bento Meireles",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Minimal Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Mínimo",
+      "target_type": "company"
+    }
+  ]
+}

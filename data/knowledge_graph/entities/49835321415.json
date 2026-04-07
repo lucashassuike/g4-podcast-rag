@@ -1,0 +1,211 @@
+{
+  "episode_id": "49835321415",
+  "title": "PODCAST TOOLS LIVE THIAGO BARRETO",
+  "date_published": 1770667112,
+  "duration": 2507,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Igor Torka",
+      "role": "host",
+      "company": "G4 Tools",
+      "title": "C-Level responsável"
+    },
+    {
+      "name": "Thiago Barreto",
+      "role": "guest",
+      "company": "TB Consulting",
+      "title": "Fundador e Consultor"
+    },
+    {
+      "name": "Pai De Thiago Barreto",
+      "role": "mentioned",
+      "company": "Empresa da Família Barreto",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Tools",
+      "industry": "Consultoria e Marketplace",
+      "context": "Plataforma de soluções empresariais discutida no podcast"
+    },
+    {
+      "name": "Tb Consulting",
+      "industry": "Consultoria",
+      "context": "Empresa fundada por Thiago Barreto focada em entregar resultados para clientes"
+    },
+    {
+      "name": "Empresa Da Família Barreto",
+      "industry": "Agro, Tecnologia e Private Equity",
+      "context": "Negócio familiar gerido por Thiago Barreto após acidente do pai"
+    },
+    {
+      "name": "Mckinsey & Company",
+      "industry": "Consultoria",
+      "context": "Consultoria mencionada como exemplo de abordagem tradicional."
+    },
+    {
+      "name": "Bain & Company",
+      "industry": "Consultoria",
+      "context": "Consultoria mencionada como exemplo de abordagem tradicional."
+    },
+    {
+      "name": "Boston Consulting Group (Bcg)",
+      "industry": "Consultoria",
+      "context": "Consultoria mencionada como exemplo de abordagem tradicional."
+    },
+    {
+      "name": "Magalu",
+      "industry": "Varejo e Marketplace",
+      "context": "Cliente mencionado em relação a conexões de marketplace."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Modelo de Gestão EMS",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Stop Shop",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Margem de Contribuição",
+      "category": "Financeiro e Contabilidade"
+    },
+    {
+      "name": "Success fee",
+      "category": "Modelo de remuneração"
+    },
+    {
+      "name": "Skin in the game",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Produto market fit (PMF)",
+      "category": "Estratégia de produto"
+    },
+    {
+      "name": "Fulfillment",
+      "category": "Logística e operações"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "8 milhões",
+      "context": "Faturamento da empresa no ano anterior"
+    },
+    {
+      "value": "32,5 milhões",
+      "context": "Faturamento projetado para o ano atual"
+    },
+    {
+      "value": "400 milhões",
+      "context": "Faturamento da Empresa da Família Barreto em 2018"
+    },
+    {
+      "value": "400 funcionários",
+      "context": "Tamanho da equipe da Empresa da Família Barreto em 2018"
+    },
+    {
+      "value": "8 milhões",
+      "context": "Faturamento inicial da empresa mencionada em 2024."
+    },
+    {
+      "value": "32,5 milhões",
+      "context": "Faturamento projetado da empresa mencionada após consultoria."
+    },
+    {
+      "value": "4 a 5 funcionários",
+      "context": "Número de funcionários da empresa mencionada."
+    },
+    {
+      "value": "120 dias de crédito",
+      "context": "Condição de financiamento obtida para a empresa mencionada."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Thiago Barreto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Success Fee",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pai De Thiago Barreto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Empresa Da Família Barreto",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Barreto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Produto Market Fit (Pmf)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Barreto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fulfillment",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Barreto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tb Consulting",
+      "target_type": "company"
+    },
+    {
+      "source": "Igor Torka",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Tools",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Barreto",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Magalu",
+      "source_type": "company",
+      "relation": "client_of",
+      "target": "Thiago Barreto",
+      "target_type": "person"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "episode_id": "34748488590",
+  "title": "Guilherme Benchimol - Para o Empreendedor, Não Existe Chegar Lá | Papo de Gestão",
+  "date_published": 1685955300,
+  "duration": 3626,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "guest",
+      "company": "XP Inc",
+      "title": "Founder"
+    },
+    {
+      "name": "Júlio",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Former Partner"
+    },
+    {
+      "name": "Thales",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Discussed as the host's company and its initiatives like G4 Skills."
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Financial Services",
+      "context": "Discussed as the company founded by Guilherme Benchimol."
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Mentioned as a company founded by Tallis Gomes."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Seleção natural",
+      "category": "Recruitment Strategy"
+    },
+    {
+      "name": "Treinamento de equipes",
+      "category": "Human Resources"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Product Offering"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "Gestão",
+      "category": "Business Management"
+    },
+    {
+      "name": "Capital de risco",
+      "category": "Finance"
+    },
+    {
+      "name": "Ultramaratona empresarial",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Sonho grande",
+      "category": "Valores empresariais"
+    },
+    {
+      "name": "Mente aberta",
+      "category": "Valores empresariais"
+    },
+    {
+      "name": "Espírito empreendedor",
+      "category": "Valores empresariais"
+    },
+    {
+      "name": "Testar hipóteses",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Preservação de caixa",
+      "category": "Gestão financeira"
+    },
+    {
+      "name": "Disciplina pessoal",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Competitividade empreendedora",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Rotina saudável",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Foco e concentração",
+      "category": "Habilidades pessoais"
+    },
+    {
+      "name": "Cumplicidade no casamento",
+      "category": "Relações pessoais"
+    },
+    {
+      "name": "Prioridades e dizer não",
+      "category": "Gestão de tempo"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "6,000 employees",
+      "context": "Current size of XP Inc as mentioned by Guilherme Benchimol."
+    },
+    {
+      "value": "10,000 BRL",
+      "context": "Initial capital of Guilherme Benchimol when starting XP Inc."
+    },
+    {
+      "value": "5,000 BRL",
+      "context": "Loan provided by Júlio to Guilherme Benchimol during XP Inc's early days."
+    },
+    {
+      "value": "23 anos",
+      "context": "Tempo de experiência de Guilherme Benchimol na XP Inc."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "collaborates_with",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Thales",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Júlio",
+      "target_type": "person"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

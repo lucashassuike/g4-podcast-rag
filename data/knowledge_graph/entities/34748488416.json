@@ -1,0 +1,360 @@
+{
+  "episode_id": "34748488416",
+  "title": "A MENTE DE AARON ROSS: CRIADOR DO BEST-SELLER \"RECEITA PREVISÍVEL\" | VOX LUMINIS",
+  "date_published": 1721206800,
+  "duration": 5754,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Aaron Ross",
+      "role": "guest",
+      "company": "Predictable Revenue Inc.",
+      "title": "Author"
+    },
+    {
+      "name": "Kevin Bacon",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Founder"
+    },
+    {
+      "name": "Camille Ferrani",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tiago",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts and organizes the podcast and business programs."
+    },
+    {
+      "name": "Salesforce.Com",
+      "industry": "Technology",
+      "context": "Aaron Ross worked here and developed the sales process described in his book."
+    },
+    {
+      "name": "Lease Exchange",
+      "industry": "Technology",
+      "context": "Aaron Ross's previous company that failed."
+    },
+    {
+      "name": "Azorro Crm",
+      "industry": "Technology",
+      "context": "Partnered to facilitate the podcast recording."
+    },
+    {
+      "name": "Easytaxi",
+      "industry": "Transportation",
+      "context": "Founded by Tallis Gomes and expanded to 35 countries."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Mentioned in relation to Bill Gates."
+    },
+    {
+      "name": "Predictable Revenue",
+      "industry": "Sales Consulting",
+      "context": "Aaron Ross founded and worked at this company."
+    },
+    {
+      "name": "Zoho",
+      "industry": "Software",
+      "context": "Mentioned as a CRM provider."
+    },
+    {
+      "name": "Toyota",
+      "industry": "Automotive",
+      "context": "Referenced in relation to their manufacturing process and problem-solving approach."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Gestão e Estratégia",
+      "category": "Business Program"
+    },
+    {
+      "name": "Receita Previsível",
+      "category": "Sales Framework"
+    },
+    {
+      "name": "Outbound Sales",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Specialization in Sales Teams",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "AI in Sales",
+      "category": "Technology"
+    },
+    {
+      "name": "Sales Development Representatives (SDRs)",
+      "category": "Business"
+    },
+    {
+      "name": "Consulting",
+      "category": "Business"
+    },
+    {
+      "name": "Product Launch",
+      "category": "Business"
+    },
+    {
+      "name": "Emotional Intelligence",
+      "category": "Personal Development"
+    },
+    {
+      "name": "AI and content commoditization",
+      "category": "Technology"
+    },
+    {
+      "name": "Income Operating System",
+      "category": "Book Concept"
+    },
+    {
+      "name": "Trust in online reviews",
+      "category": "Consumer Behavior"
+    },
+    {
+      "name": "Paradox of Choice",
+      "category": "Decision Making"
+    },
+    {
+      "name": "CRM systems",
+      "category": "Sales Technology"
+    },
+    {
+      "name": "Sales acceleration tools",
+      "category": "Sales Technology"
+    },
+    {
+      "name": "Toyota Way",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "metrics",
+      "category": "business"
+    },
+    {
+      "name": "pipeline",
+      "category": "business"
+    }
+  ],
+  "books": [
+    {
+      "title": "Predictable Revenue",
+      "author": "Aaron Ross"
+    },
+    {
+      "title": "Paradox of Choice",
+      "author": "Barry Schwartz"
+    },
+    {
+      "title": "Receita Previsível",
+      "author": "Aaron Ross"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "150-200",
+      "context": "Number of employees at Salesforce.com when Aaron Ross joined."
+    },
+    {
+      "value": "20-25 million USD",
+      "context": "Revenue of Salesforce.com when Aaron Ross joined."
+    },
+    {
+      "value": "35 countries",
+      "context": "Expansion of EasyTaxi under Tallis Gomes."
+    },
+    {
+      "value": "4% smartphone penetration",
+      "context": "Brazilian market context during EasyTaxi's founding."
+    },
+    {
+      "value": "80 to 100 hours per week",
+      "context": "Aaron Ross's work hours during investment banking."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Predictable Revenue",
+      "target_type": "company"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Toyota Way",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Predictable Revenue",
+      "target_type": "company"
+    },
+    {
+      "source": "Azorro Crm",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Receita Previsível",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Receita Previsível",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bill Gates",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Toyota Way",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Toyota",
+      "target_type": "company"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Lease Exchange",
+      "target_type": "company"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Income Operating System",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easytaxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Crm Systems",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sales Acceleration Tools",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Camille Ferrani",
+      "target_type": "person"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gestão E Estratégia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Trust In Online Reviews",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Salesforce.Com",
+      "target_type": "company"
+    }
+  ]
+}

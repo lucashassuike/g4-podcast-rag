@@ -1,0 +1,237 @@
+{
+  "episode_id": "34748488594",
+  "title": "Tallis Gomes - A Excelência através da Ambição, Inovação e Disciplina | Conectando os Pontos",
+  "date_published": 1684915251,
+  "duration": 4196,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Jorge Rocha",
+      "role": "mentioned",
+      "company": "",
+      "title": "Mentor e figura paterna de Tallis Gomes"
+    },
+    {
+      "name": "Daniel Coen",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empreendedor e colaborador em projeto de startup"
+    },
+    {
+      "name": "Alexandre",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Carlos Magno",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Plataforma utilizada por Tallis Gomes para revenda de celulares"
+    },
+    {
+      "name": "Xiaomi",
+      "industry": "Tecnologia",
+      "context": "Fornecedor de celulares em um projeto mencionado"
+    },
+    {
+      "name": "Gaia Silva Gaed",
+      "industry": "Advocacia",
+      "context": "Escritório de advocacia que ajudou Tallis Gomes em um processo trabalhista"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Founded by Tallis Gomes, discussed as a startup in the taxi industry."
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Venture Capital",
+      "context": "Mentioned as a venture capital firm creating copycat businesses."
+    },
+    {
+      "name": "Claro",
+      "industry": "Telecommunications",
+      "context": "Discussed as providing data plans for smartphones."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Discussed as a business venture founded by Tallis Gomes."
+    },
+    {
+      "name": "Simbu",
+      "industry": "Technology",
+      "context": "Mentioned as a previous venture of Tallis Gomes."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Fluxo de caixa",
+      "category": "Finanças"
+    },
+    {
+      "name": "Startup",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "MVP (Minimum Viable Product)",
+      "category": "Desenvolvimento de Produto"
+    },
+    {
+      "name": "Roadshow",
+      "category": "Captação de Recursos"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Finance"
+    },
+    {
+      "name": "Business Growth",
+      "category": "Strategy"
+    },
+    {
+      "name": "Personal Discipline",
+      "category": "Self-improvement"
+    },
+    {
+      "name": "Physical Training",
+      "category": "Lifestyle"
+    },
+    {
+      "name": "Copycat Business Model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "High-performance companies",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Business ecosystem",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Habit formation",
+      "category": "Personal development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "30 mil habitantes",
+      "context": "População da cidade de Carangola, onde Tallis Gomes iniciou suas atividades empreendedoras"
+    },
+    {
+      "value": "20 taxists",
+      "context": "Initial user base for Easy Taxi."
+    },
+    {
+      "value": "60-70 hours per week",
+      "context": "Work hours mentioned by Tallis Gomes."
+    },
+    {
+      "value": "36%",
+      "context": "Tallis Gomes' body fat percentage during a period of unhealthy habits."
+    },
+    {
+      "value": "3%",
+      "context": "Percentage of the population with a biological need for less sleep, as mentioned by Tallis Gomes."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gaia Silva Gaed",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Simbu",
+      "target_type": "company"
+    },
+    {
+      "source": "Gaia Silva Gaed",
+      "source_type": "company",
+      "relation": "mentioned",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Xiaomi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Jorge Rocha",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

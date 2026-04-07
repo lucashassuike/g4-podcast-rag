@@ -1,0 +1,456 @@
+{
+  "episode_id": "34748488675",
+  "title": "#002 - Cultura, trabalho remoto e novas formas de gestão em tempos de distanciamento",
+  "date_published": 1599671852,
+  "duration": 2670,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Gustavo Caetano",
+      "role": "mentioned",
+      "company": "Samba Tech",
+      "title": "Founder"
+    },
+    {
+      "name": "Denis",
+      "role": "mentioned",
+      "company": "Easy Taxi",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Gustavo Vaz",
+      "role": "mentioned",
+      "company": "Easy Taxi",
+      "title": "CEO Global"
+    },
+    {
+      "name": "Jordão",
+      "role": "mentioned",
+      "company": "Xtech Commerce",
+      "title": "COO"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nardon",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gustavo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação para negócios"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Tecnologia/Transporte",
+      "context": "Empresa mencionada como exemplo de trabalho remoto e expansão"
+    },
+    {
+      "name": "Singu",
+      "industry": "Tecnologia/Beleza",
+      "context": "Empresa mencionada em contexto de expansão"
+    },
+    {
+      "name": "Rappi",
+      "industry": "Tecnologia/Delivery",
+      "context": "Empresa mencionada em contexto de expansão e trabalho remoto"
+    },
+    {
+      "name": "Yahoo",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de tentativa de trabalho remoto"
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de cultura organizacional e ambiente de trabalho"
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Mencionada em contexto de práticas de trabalho"
+    },
+    {
+      "name": "Dafiti",
+      "industry": "E-commerce",
+      "context": "Mencionada em contexto de práticas de trabalho"
+    },
+    {
+      "name": "Facebook",
+      "industry": "Tecnologia",
+      "context": "Mencionado em relação à adoção de trabalho remoto permanente."
+    },
+    {
+      "name": "Twitter",
+      "industry": "Tecnologia",
+      "context": "Mencionado em relação à adoção de trabalho remoto permanente."
+    },
+    {
+      "name": "Mckinsey",
+      "industry": "Consultoria",
+      "context": "Mencionado como exemplo de empresa tradicional em comparação com startups."
+    },
+    {
+      "name": "Gestão 4.0",
+      "industry": "Education",
+      "context": "Business education and frameworks"
+    },
+    {
+      "name": "Xtech Commerce",
+      "industry": "E-commerce",
+      "context": "E-commerce platform"
+    },
+    {
+      "name": "Pagarm",
+      "industry": "Fintech",
+      "context": "Payment solutions"
+    },
+    {
+      "name": "Brex",
+      "industry": "Fintech",
+      "context": "Corporate credit cards and financial services"
+    },
+    {
+      "name": "Samba Tech",
+      "industry": "Technology",
+      "context": "Video streaming solutions"
+    },
+    {
+      "name": "Xtec",
+      "industry": "Technology",
+      "context": "Discussed in the context of changing business strategies and scaling operations."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Trabalho remoto",
+      "category": "Gestão"
+    },
+    {
+      "name": "Ritos e rituais empresariais",
+      "category": "Gestão"
+    },
+    {
+      "name": "Inteligência coletiva",
+      "category": "Psicologia organizacional"
+    },
+    {
+      "name": "Onboarding",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Off-site",
+      "category": "Gestão de equipes"
+    },
+    {
+      "name": "Home office",
+      "category": "Gestão"
+    },
+    {
+      "name": "Ritos e rituais",
+      "category": "Gestão"
+    },
+    {
+      "name": "Governança corporativa",
+      "category": "Gestão"
+    },
+    {
+      "name": "Turnover",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Metrics"
+    },
+    {
+      "name": "Gestão descentralizada",
+      "category": "Management"
+    },
+    {
+      "name": "Gestão libertária",
+      "category": "Management"
+    },
+    {
+      "name": "Trade-off",
+      "category": "Decision-making"
+    },
+    {
+      "name": "Framework",
+      "category": "Management"
+    },
+    {
+      "name": "startup",
+      "category": "business"
+    },
+    {
+      "name": "technology as a means",
+      "category": "strategy"
+    },
+    {
+      "name": "high-performance team",
+      "category": "management"
+    },
+    {
+      "name": "routine meetings",
+      "category": "management"
+    },
+    {
+      "name": "communication tools",
+      "category": "management"
+    }
+  ],
+  "books": [
+    {
+      "title": "Artigo de Harvard",
+      "author": "Não especificado"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "35 countries in 18 months",
+      "context": "Expansion of Easy Taxi"
+    },
+    {
+      "value": "Funding infinito",
+      "context": "Brex's financial capacity"
+    },
+    {
+      "value": "three months",
+      "context": "Time taken by Xtec to organize operations and make strategic decisions."
+    },
+    {
+      "value": "millions of reais",
+      "context": "Investment required for a competent technology team."
+    },
+    {
+      "value": "90% WhatsApp, 10% email",
+      "context": "Proportion of communication methods used in management."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Mariano",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Routine Meetings",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Yahoo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Trabalho Remoto",
+      "target_type": "concept"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Trabalho Remoto",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xtech Commerce",
+      "target_type": "company"
+    },
+    {
+      "source": "Xtec",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Startup",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rappi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Trabalho Remoto",
+      "target_type": "concept"
+    },
+    {
+      "source": "Singu",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Trabalho Remoto",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Vaz",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Trabalho Remoto",
+      "target_type": "concept"
+    },
+    {
+      "source": "Brex",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Pagarm",
+      "target_type": "company"
+    },
+    {
+      "source": "Dafiti",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Off-Site",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mckinsey",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Startups",
+      "target_type": "company"
+    },
+    {
+      "source": "Facebook",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Technology",
+      "target_type": "company"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Technology",
+      "target_type": "company"
+    },
+    {
+      "source": "Twitter",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Trabalho Remoto",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Vaz",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "High-Performance Team",
+      "target_type": "concept"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Off-Site",
+      "target_type": "concept"
+    },
+    {
+      "source": "Facebook",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Trabalho Remoto",
+      "target_type": "concept"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

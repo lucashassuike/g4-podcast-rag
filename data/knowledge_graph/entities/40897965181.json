@@ -1,0 +1,103 @@
+{
+  "episode_id": "40897965181",
+  "title": "[CORTE] QUANDO VOCÊ ENCONTRA O PARCEIRO CERTO, TUDO MUDA!",
+  "date_published": 1754427600,
+  "duration": 811,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação e negócios mencionada no contexto do podcast."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cobrança automatizada",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Boleto DDA",
+      "category": "Tecnologia financeira"
+    },
+    {
+      "name": "Clusterização de dados",
+      "category": "Análise de dados"
+    },
+    {
+      "name": "Black Friday para escolas",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Fluxo de caixa",
+      "category": "Gestão financeira"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "600 escolas",
+      "context": "Número de escolas atendidas pelo sistema mencionado."
+    },
+    {
+      "value": "80% dos pais pagam em dia",
+      "context": "Taxa de pagamento em dia mencionada no contexto de escolas."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

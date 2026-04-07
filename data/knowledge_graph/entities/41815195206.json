@@ -1,0 +1,263 @@
+{
+  "episode_id": "41815195206",
+  "title": "DO AÇAÍ À EXPANSÃO: O CASE DE CRESCIMENTO QUE DEU MUITO CERTO",
+  "date_published": 1756306800,
+  "duration": 5527,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bragato",
+      "role": "mentioned",
+      "company": "The Best Açaí",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Sérgio",
+      "role": "mentioned",
+      "company": "The Best Açaí",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "The Best Açaí",
+      "industry": "Food and Beverage",
+      "context": "Discussed as a successful franchise and industry model"
+    },
+    {
+      "name": "Ben & Jerry'S",
+      "industry": "Food and Beverage",
+      "context": "Referência em sorvetes com pedaços e texturas diferenciadas."
+    },
+    {
+      "name": "Mcdonald'S",
+      "industry": "Food and Beverage",
+      "context": "Citado como exemplo de marca ausente em feiras de franquias."
+    },
+    {
+      "name": "Bk (Burger King)",
+      "industry": "Food and Beverage",
+      "context": "Citado como exemplo de marca ausente em feiras de franquias."
+    },
+    {
+      "name": "Cacau Show",
+      "industry": "Food and Beverage",
+      "context": "Citado como exemplo de marca ausente em feiras de franquias."
+    },
+    {
+      "name": "Boticário",
+      "industry": "Cosmetics",
+      "context": "Citado como exemplo de marca ausente em feiras de franquias."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Franchise Model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Royalties",
+      "category": "Financial Model"
+    },
+    {
+      "name": "Industry Integration",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Payback Period",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Rebrand",
+      "category": "Marketing"
+    },
+    {
+      "name": "Incentivos fiscais",
+      "category": "Economia"
+    },
+    {
+      "name": "Extrativismo",
+      "category": "Economia"
+    },
+    {
+      "name": "Cadeia de produção",
+      "category": "Logística"
+    },
+    {
+      "name": "ROI (Retorno sobre Investimento)",
+      "category": "Finance"
+    },
+    {
+      "name": "Franquias",
+      "category": "Business Model"
+    },
+    {
+      "name": "Certificação MAPA",
+      "category": "Regulation"
+    },
+    {
+      "name": "Segurança Alimentar",
+      "category": "Food Safety"
+    },
+    {
+      "name": "atividade física",
+      "category": "health"
+    },
+    {
+      "name": "corrida",
+      "category": "event"
+    },
+    {
+      "name": "pôquer",
+      "category": "game"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "15,000 reais",
+      "context": "Initial investment to start the first store"
+    },
+    {
+      "value": "105,000 reais",
+      "context": "Average monthly revenue per store"
+    },
+    {
+      "value": "70,000 reais",
+      "context": "Franchise fee"
+    },
+    {
+      "value": "18-22%",
+      "context": "Average profit margin per store"
+    },
+    {
+      "value": "12-13 months",
+      "context": "Average payback period for franchisees"
+    },
+    {
+      "value": "380 lojas",
+      "context": "Número de lojas em 2003"
+    },
+    {
+      "value": "1.500 lojas",
+      "context": "Capacidade de produção atual"
+    },
+    {
+      "value": "17 reais por quilo",
+      "context": "Preço do açaí em 2025"
+    },
+    {
+      "value": "17 reais",
+      "context": "Preço do quilo do açaí em 2018."
+    },
+    {
+      "value": "100 lojas",
+      "context": "Número de franquias vendidas em um evento."
+    },
+    {
+      "value": "2023",
+      "context": "ano em que ocorreu a corrida mencionada"
+    },
+    {
+      "value": "5KM",
+      "context": "distância inicial planejada para a corrida"
+    },
+    {
+      "value": "10KM",
+      "context": "distância real da corrida em que foi inscrito"
+    },
+    {
+      "value": "1.500 reais",
+      "context": "valor associado ao assento no jogo de pôquer"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ben & Jerry'S",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rebrand",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bragato",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "The Best Açaí",
+      "target_type": "company"
+    },
+    {
+      "source": "Sérgio",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "The Best Açaí",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alfredo Soares",
+      "target_type": "person"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rebrand",
+      "target_type": "concept"
+    }
+  ]
+}

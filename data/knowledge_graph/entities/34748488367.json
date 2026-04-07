@@ -1,0 +1,435 @@
+{
+  "episode_id": "34748488367",
+  "title": "ESSE HOMEM SIMPLIFICOU SUA VIDA SEM VOCÊ SABER COM BERTHIER RIBEIRO-NETO | PAPO DE GESTÃO",
+  "date_published": 1733122800,
+  "duration": 5396,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Berthier Ribeiro-Neto",
+      "role": "guest",
+      "company": "Google",
+      "title": "Former Director of Engineering"
+    },
+    {
+      "name": "José Reinaldo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dick Mads",
+      "role": "mentioned",
+      "company": "University of California",
+      "title": "Professor"
+    },
+    {
+      "name": "Larry Page",
+      "role": "mentioned",
+      "company": "Google",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Sergey Brin",
+      "role": "mentioned",
+      "company": "Google",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Salar Kamangar",
+      "role": "mentioned",
+      "company": "Google",
+      "title": "Economist"
+    },
+    {
+      "name": "Luiz André Barroso",
+      "role": "mentioned",
+      "company": "Google",
+      "title": "Engineer"
+    },
+    {
+      "name": "Wayne Rosen",
+      "role": "mentioned",
+      "company": "Google",
+      "title": "Vice-presidente de Engenharia"
+    },
+    {
+      "name": "Guilherme Emrich",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Paulo Guga",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Engineer"
+    },
+    {
+      "name": "Davi Reis",
+      "role": "mentioned",
+      "company": "Log",
+      "title": "CTO"
+    },
+    {
+      "name": "Rosa",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Finance Manager"
+    },
+    {
+      "name": "Ivan Moura Campos",
+      "role": "mentioned",
+      "company": "Comitê Gestor da Internet no Brasil",
+      "title": "Former President"
+    },
+    {
+      "name": "Peter Drucker",
+      "role": "mentioned",
+      "company": "",
+      "title": "Economist"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Discussed as the largest search engine and its operations in Brazil."
+    },
+    {
+      "name": "Acuan",
+      "industry": "Technology",
+      "context": "Founded by Berthier Ribeiro-Neto and acquired by Google."
+    },
+    {
+      "name": "Ufmg (Universidade Federal De Minas Gerais)",
+      "industry": "Education",
+      "context": "Berthier Ribeiro-Neto was a professor here and developed projects."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Mentioned as a search tool."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Mentioned as a search tool."
+    },
+    {
+      "name": "Log",
+      "industry": "Logistics",
+      "context": "Mentioned in relation to Davi Reis"
+    },
+    {
+      "name": "Stone",
+      "industry": "Finance",
+      "context": "Mentioned in relation to Luiz André Barroso"
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Varejo",
+      "context": "Exemplo de empresa mencionada em contexto de marketing e vendas"
+    },
+    {
+      "name": "Tiktok",
+      "industry": "Mídias sociais",
+      "context": "Mencionado como plataforma de vídeos curtos e concorrente em atenção do usuário"
+    },
+    {
+      "name": "Instagram",
+      "industry": "Mídias sociais",
+      "context": "Mencionado como plataforma de interação social e concorrente em atenção do usuário"
+    },
+    {
+      "name": "Pinterest",
+      "industry": "Mídias sociais",
+      "context": "Mencionado como plataforma de inspiração visual"
+    },
+    {
+      "name": "Comitê Gestor Da Internet No Brasil",
+      "industry": "Technology",
+      "context": "Ivan Moura Campos was mentioned as a former president of this organization."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Search Engine Optimization",
+      "category": "Technology"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Business"
+    },
+    {
+      "name": "Academic Research",
+      "category": "Education"
+    },
+    {
+      "name": "Innovation Ecosystem",
+      "category": "Business"
+    },
+    {
+      "name": "Search Engine",
+      "category": "Technology"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Startup Ecosystem",
+      "category": "Business Environment"
+    },
+    {
+      "name": "Transparency in Workspace Design",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Benchmarking",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Funil de compras",
+      "category": "Marketing e vendas"
+    },
+    {
+      "name": "Experiência do usuário",
+      "category": "Design e tecnologia"
+    },
+    {
+      "name": "Reconhecimento no trabalho",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Missão organizacional",
+      "category": "Gestão de empresas"
+    },
+    {
+      "name": "Processo seletivo",
+      "category": "Recursos humanos"
+    },
+    {
+      "name": "Estágio como método de avaliação",
+      "category": "Recursos humanos"
+    },
+    {
+      "name": "Soft Skills",
+      "category": "Professional Development"
+    },
+    {
+      "name": "Feedback",
+      "category": "Communication"
+    },
+    {
+      "name": "Mentorship",
+      "category": "Leadership"
+    },
+    {
+      "name": "Interview Process",
+      "category": "Recruitment"
+    },
+    {
+      "name": "Trainee Programs",
+      "category": "Recruitment"
+    }
+  ],
+  "books": [
+    {
+      "title": "Outlive",
+      "author": "Peter Attia"
+    },
+    {
+      "title": "Various works by Peter Drucker",
+      "author": "Peter Drucker"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "24 years",
+      "context": "Berthier Ribeiro-Neto's tenure at Google."
+    },
+    {
+      "value": "1 million dollars",
+      "context": "Funding received for a research project at UFMG in 1988."
+    },
+    {
+      "value": "300 employees",
+      "context": "Google's size when Luiz André Barroso joined"
+    },
+    {
+      "value": "5 years",
+      "context": "Duration of the guest's company before acquisition discussions"
+    },
+    {
+      "value": "25 páginas",
+      "context": "Tamanho do e-book mencionado por Bruno Nardon sobre escolha de canais de vendas"
+    },
+    {
+      "value": "24 years",
+      "context": "Berthier Ribeiro-Neto's career span in the technology industry."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Berthier Ribeiro-Neto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Search Engine",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luiz André Barroso",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moura Campos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Comitê Gestor Da Internet No Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Davi Reis",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Log",
+      "target_type": "company"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Tiktok",
+      "target_type": "company"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Instagram",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Peter Drucker",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Various Works By Peter Drucker",
+      "target_type": "company"
+    },
+    {
+      "source": "Wayne Rosen",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Transparency In Workspace Design",
+      "target_type": "concept"
+    },
+    {
+      "source": "Berthier Ribeiro-Neto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ufmg (Universidade Federal De Minas Gerais)",
+      "target_type": "company"
+    },
+    {
+      "source": "Berthier Ribeiro-Neto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marketplace",
+      "target_type": "concept"
+    },
+    {
+      "source": "Larry Page",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Berthier Ribeiro-Neto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Sergey Brin",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz André Barroso",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Stone",
+      "target_type": "company"
+    },
+    {
+      "source": "Berthier Ribeiro-Neto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Startup Ecosystem",
+      "target_type": "concept"
+    },
+    {
+      "source": "Berthier Ribeiro-Neto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Acuan",
+      "target_type": "company"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Acuan",
+      "target_type": "company"
+    },
+    {
+      "source": "Berthier Ribeiro-Neto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ipo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Berthier Ribeiro-Neto",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Outlive",
+      "target_type": "company"
+    },
+    {
+      "source": "Wayne Rosen",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Google",
+      "target_type": "company"
+    }
+  ]
+}

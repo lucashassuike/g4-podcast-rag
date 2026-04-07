@@ -1,0 +1,741 @@
+{
+  "episode_id": "34748488491",
+  "title": "COMO ELE CRIOU A MAIOR ASSESSORIA DE MARKETING DO BRASIL - COM DENER LIPPERT | PAPO DE GESTÃO",
+  "date_published": 1702313301,
+  "duration": 4584,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Denner Lippert",
+      "role": "guest",
+      "company": "V4 Company",
+      "title": "Fundador e CEO"
+    },
+    {
+      "name": "Dener Lippert",
+      "role": "guest",
+      "company": "V4 Company",
+      "title": "Founder"
+    },
+    {
+      "name": "Jim Collins",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Rodolfo Medina",
+      "role": "mentioned",
+      "company": "Artplan",
+      "title": "Executive"
+    },
+    {
+      "name": "Jorge",
+      "role": "mentioned",
+      "company": "Artplan",
+      "title": "CFO"
+    },
+    {
+      "name": "Maurício Bassos",
+      "role": "mentioned",
+      "company": "Arezzo",
+      "title": "CIO/CDO"
+    },
+    {
+      "name": "Fernando",
+      "role": "mentioned",
+      "company": "Shift",
+      "title": "Investor"
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Lisandro Lopes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Eric Shibata",
+      "role": "mentioned",
+      "company": "Cimédia",
+      "title": "Executive"
+    },
+    {
+      "name": "Adib",
+      "role": "mentioned",
+      "company": "Cimédia",
+      "title": "Executive"
+    },
+    {
+      "name": "Carla",
+      "role": "mentioned",
+      "company": "Cimédia",
+      "title": "Executive"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "",
+      "title": "Entrepreneur"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de treinamento e capacitação de equipes"
+    },
+    {
+      "name": "V4 Company",
+      "industry": "Marketing Digital",
+      "context": "Empresa fundada por Denner Lippert focada em marketing digital"
+    },
+    {
+      "name": "Modali",
+      "industry": "Design e Cenografia",
+      "context": "Parceira do G4 Educação na construção de cenários e experiências"
+    },
+    {
+      "name": "Terra Corporate",
+      "industry": "Imobiliário",
+      "context": "Localização do escritório do G4 Educação em São Paulo"
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Referenced as a benchmark in the e-commerce industry during the early days of V4 Company."
+    },
+    {
+      "name": "Nike",
+      "industry": "Retail",
+      "context": "Mentioned in the context of e-commerce evolution."
+    },
+    {
+      "name": "Surfskate Shop",
+      "industry": "Retail",
+      "context": "Identified as one of the first major clients of V4 Company."
+    },
+    {
+      "name": "Visacom",
+      "industry": "Retail",
+      "context": "Mentioned as an early client of V4 Company."
+    },
+    {
+      "name": "Pwc",
+      "industry": "Consulting",
+      "context": "Referenced as an example of centralized service models."
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Finance",
+      "context": "Mentioned as a benchmark for success."
+    },
+    {
+      "name": "Artplan",
+      "industry": "Advertising",
+      "context": "Discussed in relation to its partnership with V4 Company and its history in the advertising industry."
+    },
+    {
+      "name": "Arezzo",
+      "industry": "Retail",
+      "context": "Mentioned in relation to Maurício Bassos' contributions to its e-commerce growth."
+    },
+    {
+      "name": "Shift",
+      "industry": "Investment",
+      "context": "Discussed in the context of a declined investment in V4 Company."
+    },
+    {
+      "name": "Salesforce",
+      "industry": "Technology",
+      "context": "Mentioned as a CRM provider."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Mentioned as a CRM provider."
+    },
+    {
+      "name": "Hubspot",
+      "industry": "Technology",
+      "context": "Mentioned as a CRM provider."
+    },
+    {
+      "name": "Insider",
+      "industry": "Technology",
+      "context": "Mentioned as a CRM provider."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Discussed in relation to digital advertising investments."
+    },
+    {
+      "name": "Facebook",
+      "industry": "Technology",
+      "context": "Discussed in relation to digital advertising investments."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Finance",
+      "context": "Discussed as a case study for profitability and customer engagement."
+    },
+    {
+      "name": "Cimédia",
+      "industry": "Healthcare",
+      "context": "Discussed in the context of personal branding strategies for executives."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Finance",
+      "context": "Referenced as a brand archetype for trust and reliability."
+    },
+    {
+      "name": "Spotify",
+      "industry": "Technology",
+      "context": "Mentioned as an example of a successful product simplifying acquisition efforts."
+    },
+    {
+      "name": "Mckinsey & Company",
+      "industry": "Consultoria",
+      "context": "Autor do livro Valuation mencionado na conversa"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Treinamento"
+    },
+    {
+      "name": "Gestão 4.0",
+      "category": "Modelo de Gestão"
+    },
+    {
+      "name": "Marketing Digital",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Inside Sales",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "Social Media",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "live marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "franchise model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "MRR (Monthly Recurring Revenue)",
+      "category": "Metrics"
+    },
+    {
+      "name": "marketplace model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "skin in the game",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "humildade intelectual",
+      "category": "Personal Development"
+    },
+    {
+      "name": "curiosidade genuína",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Lifestyle Business",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Corporate Management"
+    },
+    {
+      "name": "Serendipidade",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Líderes Nível 5",
+      "category": "Leadership Framework"
+    },
+    {
+      "name": "PIF (Profissional, Intelectual, Físico, Emocional)",
+      "category": "Personal Development Framework"
+    },
+    {
+      "name": "Conselho de Administração",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Partnership",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Culture Building",
+      "category": "Organizational Development"
+    },
+    {
+      "name": "Low CAC and High LTV",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Net Revenue Retention (NRR)",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Logo Churn",
+      "category": "Customer Retention"
+    },
+    {
+      "name": "Revenue Churn",
+      "category": "Customer Retention"
+    },
+    {
+      "name": "Return on Investment (ROI)",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Return on Advertising Spend (ROAS)",
+      "category": "Marketing Metrics"
+    },
+    {
+      "name": "Customer Relationship Management (CRM)",
+      "category": "Technology"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "ROAS (Return on Advertising Spend)",
+      "category": "Metric"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Metric"
+    },
+    {
+      "name": "CRM (Customer Relationship Management)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Brand Archetype",
+      "category": "Marketing"
+    },
+    {
+      "name": "Bootstrap",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finance"
+    },
+    {
+      "name": "alocação de capital",
+      "category": "Finanças"
+    },
+    {
+      "name": "ROIC (Return on Invested Capital)",
+      "category": "Métrica financeira"
+    },
+    {
+      "name": "IPO (Initial Public Offering)",
+      "category": "Finanças"
+    }
+  ],
+  "books": [
+    {
+      "title": "Unknown",
+      "author": "Denner Lippert"
+    },
+    {
+      "title": "Good to Great",
+      "author": "Jim Collins"
+    },
+    {
+      "title": "Criatividade S.A.",
+      "author": "Ed Catmull"
+    },
+    {
+      "title": "Finance Book by McKinsey",
+      "author": "McKinsey"
+    },
+    {
+      "title": "Valuation",
+      "author": "McKinsey & Company"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7 dias",
+      "context": "Período de acesso gratuito ao G4 Skills"
+    },
+    {
+      "value": "11 anos",
+      "context": "Tempo de existência da V4 Company"
+    },
+    {
+      "value": "750 pessoas",
+      "context": "Número de participantes na primeira festa organizada por Denner Lippert"
+    },
+    {
+      "value": "10 mil reais",
+      "context": "Lucro obtido na primeira festa organizada por Denner Lippert"
+    },
+    {
+      "value": "11 years",
+      "context": "Duration of V4 Company's operation."
+    },
+    {
+      "value": "270 franchises",
+      "context": "Current scale of V4 Company's franchise network."
+    },
+    {
+      "value": "3,500 people",
+      "context": "Number of individuals in V4 Company's network."
+    },
+    {
+      "value": "6,000 clients",
+      "context": "Number of clients served by V4 Company."
+    },
+    {
+      "value": "300,000 BRL",
+      "context": "Initial MRR of V4 Company's franchise network."
+    },
+    {
+      "value": "27,000,000 BRL",
+      "context": "Current MRR of V4 Company's franchise network."
+    },
+    {
+      "value": "50,000,000 BRL",
+      "context": "Monthly ad spend managed by V4 Company."
+    },
+    {
+      "value": "2 milhões",
+      "context": "Monthly Recurring Revenue (MRR) of V4 Company at the time of the deal."
+    },
+    {
+      "value": "73%",
+      "context": "Equity retained by Dener Lippert in V4 Company after the deal."
+    },
+    {
+      "value": "13%",
+      "context": "Equity held by the partner group in V4 Company after the deal."
+    },
+    {
+      "value": "200 milhões de receita anual",
+      "context": "Crescimento do e-commerce da Arezzo sob a liderança de Maurício Bassos."
+    },
+    {
+      "value": "30 milhões de reais",
+      "context": "Investimento proposto pela Shift na V4 Company."
+    },
+    {
+      "value": "30 billion BRL",
+      "context": "Investment in digital media in Brazil in 2023."
+    },
+    {
+      "value": "1 trillion USD",
+      "context": "Projected global media investment in 2024."
+    },
+    {
+      "value": "70%",
+      "context": "Percentage of venture capital funds allocated to Google and Facebook for customer acquisition."
+    },
+    {
+      "value": "330 million USD",
+      "context": "Nubank's profit"
+    },
+    {
+      "value": "1.5 billion USD",
+      "context": "Nubank's quarterly revenue"
+    },
+    {
+      "value": "90 million",
+      "context": "Nubank's daily active users"
+    },
+    {
+      "value": "6,000",
+      "context": "Active clients of V4 Company"
+    },
+    {
+      "value": "100,000",
+      "context": "Subscribers on V4 Company's YouTube channel"
+    },
+    {
+      "value": "400,000",
+      "context": "Followers on V4 Company's Instagram account"
+    },
+    {
+      "value": "130,000",
+      "context": "Followers on Dener Lippert's Instagram account"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Artplan",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "V4 Company",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Modali",
+      "target_type": "company"
+    },
+    {
+      "source": "Valuation",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Mckinsey & Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Denner Lippert",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tony Celestino",
+      "target_type": "person"
+    },
+    {
+      "source": "Facebook",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Digital Advertising",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Denner Lippert",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "V4 Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Digital Advertising",
+      "target_type": "company"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Finance",
+      "target_type": "company"
+    },
+    {
+      "source": "Shift",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "V4 Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Dener Lippert",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "V4 Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "V4 Company",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Surfskate Shop",
+      "target_type": "company"
+    },
+    {
+      "source": "V4 Company",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Dener Lippert",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Valuation",
+      "target_type": "concept"
+    },
+    {
+      "source": "V4 Company",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Spotify",
+      "target_type": "company"
+    },
+    {
+      "source": "Dener Lippert",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Dener Lippert",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Artplan",
+      "target_type": "company"
+    },
+    {
+      "source": "V4 Company",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Nike",
+      "target_type": "company"
+    },
+    {
+      "source": "Jim Collins",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Good To Great",
+      "target_type": "company"
+    },
+    {
+      "source": "Carla",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimédia",
+      "target_type": "company"
+    },
+    {
+      "source": "V4 Company",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Pwc",
+      "target_type": "company"
+    },
+    {
+      "source": "V4 Company",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Visacom",
+      "target_type": "company"
+    },
+    {
+      "source": "Denner Lippert",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Terra Corporate",
+      "target_type": "company"
+    },
+    {
+      "source": "V4 Company",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurício Bassos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Arezzo",
+      "target_type": "company"
+    },
+    {
+      "source": "Adib",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimédia",
+      "target_type": "company"
+    },
+    {
+      "source": "Dener Lippert",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Shibata",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimédia",
+      "target_type": "company"
+    }
+  ]
+}

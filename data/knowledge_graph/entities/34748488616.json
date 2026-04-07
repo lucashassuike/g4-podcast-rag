@@ -1,0 +1,490 @@
+{
+  "episode_id": "34748488616",
+  "title": "Guilherme Freire (Parte 2) - Filosofia Grega e a construção de bons hábitos | Papo de Gestão",
+  "date_published": 1678698025,
+  "duration": 4658,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Guilherme Freire",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fábio De Jó",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alexandre Grande",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Carlos Marques",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jordan Peterson",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fabio Gugel",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Musashi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Hideaki Anno",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pedro Cláver",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Afonso Rodrigues",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sócrates",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Júlio César",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marco Antônio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Otávio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Michelangelo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rafael",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dom Manuel",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nuno Álvares Pereira",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Otto Von Habsburgo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Joseph Haydn",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gabriel Pedro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gabriel Kanner",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Produtora do podcast Papo de Gestão"
+    },
+    {
+      "name": "Singoo",
+      "industry": "Beleza e Estética",
+      "context": "Empresa mencionada como vendida para a Natura"
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosméticos",
+      "context": "Compradora da Singoo"
+    },
+    {
+      "name": "Spotify",
+      "industry": "Tecnologia e Streaming",
+      "context": "Mencionada em contexto de expansão de mercado."
+    },
+    {
+      "name": "Coca-Cola",
+      "industry": "Bebidas",
+      "context": "Mencionada como exemplo em explicação sobre análise e síntese."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão",
+      "category": "Administração"
+    },
+    {
+      "name": "Liderança",
+      "category": "Administração"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Educação clássica",
+      "category": "Educação"
+    },
+    {
+      "name": "Consistência",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Rotina",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "vida virtuosa",
+      "category": "filosofia"
+    },
+    {
+      "name": "vida viciosa",
+      "category": "filosofia"
+    },
+    {
+      "name": "autoritas",
+      "category": "conceito romano"
+    },
+    {
+      "name": "imperium",
+      "category": "conceito romano"
+    },
+    {
+      "name": "potestas",
+      "category": "conceito romano"
+    },
+    {
+      "name": "oligarquia",
+      "category": "sistema político"
+    },
+    {
+      "name": "monarquia",
+      "category": "sistema político"
+    },
+    {
+      "name": "Democracia",
+      "category": "Política"
+    },
+    {
+      "name": "Excelência",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Educação e Desenvolvimento"
+    },
+    {
+      "name": "Networking",
+      "category": "Negócios"
+    },
+    {
+      "name": "Mindset",
+      "category": "Psicologia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "educação empresarial",
+      "category": "estratégia de negócios"
+    },
+    {
+      "name": "inteligência coletiva",
+      "category": "colaboração"
+    },
+    {
+      "name": "habilidades sociais",
+      "category": "desenvolvimento pessoal"
+    },
+    {
+      "name": "skin in the game",
+      "category": "filosofia de risco"
+    },
+    {
+      "name": "SPQR",
+      "category": "historical concept"
+    },
+    {
+      "name": "Cristianismo",
+      "category": "philosophy"
+    },
+    {
+      "name": "Arquitetura manuelina",
+      "category": "art and architecture"
+    },
+    {
+      "name": "Cultura Alpina",
+      "category": "Cultura"
+    },
+    {
+      "name": "Espírito Empreendedor",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Burocracia",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Palácios da Memória",
+      "category": "Técnica de Memorização"
+    },
+    {
+      "name": "Storytelling",
+      "category": "Técnica de Comunicação"
+    },
+    {
+      "name": "Análise e Síntese",
+      "category": "Técnica de Estudo"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Senhor dos Anéis",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "title": "Skin in the Game",
+      "author": "Nassim Nicholas Taleb"
+    },
+    {
+      "title": "Macbeth",
+      "author": "William Shakespeare"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "9 dígitos",
+      "context": "Receita anual mencionada para a companhia do host"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Habilidades Sociais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Palácios Da Memória",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Musashi",
+      "target_type": "person"
+    },
+    {
+      "source": "Júlio César",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Otávio",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Fabio Gugel",
+      "target_type": "person"
+    },
+    {
+      "source": "Otto Von Habsburgo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Joseph Haydn",
+      "target_type": "person"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Pedro Cláver",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Hideaki Anno",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Macbeth",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Arquitetura Manuelina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Storytelling",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Educação Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Skin In The Game",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Espírito Empreendedor",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Coletiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jordan Peterson",
+      "target_type": "person"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Afonso Rodrigues",
+      "target_type": "person"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Análise E Síntese",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mindset",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Alpina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Educação Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Singoo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "episode_id": "34748488529",
+  "title": "Como Atingir a Alta Performance? | G4 Podcasts",
+  "date_published": 1697101200,
+  "duration": 3019,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "CEO"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla, SpaceX",
+      "title": "CEO"
+    },
+    {
+      "name": "Fábio Ventura",
+      "role": "mentioned",
+      "company": "",
+      "title": "Patient"
+    },
+    {
+      "name": "Rafinha Bastos",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comedian"
+    },
+    {
+      "name": "Thales",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Joel",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Roberta",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Matt Walker",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Daniel Chambliss",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Platform for leadership training and team development"
+    },
+    {
+      "name": "Exitax",
+      "industry": "Transportation",
+      "context": "Founded by a speaker in the podcast"
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Mentioned in the context of Jeff Bezos"
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotive",
+      "context": "Mentioned in the context of Elon Musk"
+    },
+    {
+      "name": "Spacex",
+      "industry": "Aerospace",
+      "context": "Mentioned in the context of Elon Musk"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Leadership",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Motivation",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Performance",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Hormonal Replacement Therapy",
+      "category": "Health"
+    },
+    {
+      "name": "Discipline",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Implante hormonal",
+      "category": "medicina"
+    },
+    {
+      "name": "Alta performance",
+      "category": "desempenho pessoal"
+    },
+    {
+      "name": "Hipogonadismo hipergonadotrófico",
+      "category": "medicina"
+    },
+    {
+      "name": "Beta-endorfina",
+      "category": "neurociência"
+    },
+    {
+      "name": "Núcleo ventromedial do córtex pré-frontal",
+      "category": "neurociência"
+    },
+    {
+      "name": "Fosfato de ilcerina",
+      "category": "suplementação"
+    },
+    {
+      "name": "N-acetilcisteína",
+      "category": "suplementação"
+    },
+    {
+      "name": "Vitamina B12 metilada",
+      "category": "suplementação"
+    },
+    {
+      "name": "Burnout",
+      "category": "saúde mental"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Nutrição",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "Treinamento",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Foco",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Autocontrole",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Evolução Contínua",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Ciclos Circadianos",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "ciclo circadiano",
+      "category": "saúde e bem-estar"
+    },
+    {
+      "name": "rotina de sono",
+      "category": "saúde e bem-estar"
+    },
+    {
+      "name": "atividade física intensa",
+      "category": "saúde e bem-estar"
+    },
+    {
+      "name": "constância",
+      "category": "desenvolvimento pessoal"
+    },
+    {
+      "name": "neurociência",
+      "category": "ciência"
+    },
+    {
+      "name": "Hábito",
+      "category": "Psicologia e Comportamento"
+    },
+    {
+      "name": "Motivação",
+      "category": "Psicologia e Comportamento"
+    },
+    {
+      "name": "Networking",
+      "category": "Estratégia de Negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wall Street Journal",
+      "author": "Various Authors"
+    },
+    {
+      "title": "Forbes",
+      "author": "Various Authors"
+    },
+    {
+      "title": "Por que nós dormimos",
+      "author": "Matt Walker"
+    },
+    {
+      "title": "Garra",
+      "author": "Angela Duckworth"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7% body fat",
+      "context": "Fábio Ventura's physical condition"
+    },
+    {
+      "value": "70-80 hours per week",
+      "context": "Work hours mentioned by the speaker"
+    },
+    {
+      "value": "30+ countries",
+      "context": "Travel experience shared by the speaker"
+    },
+    {
+      "value": "90%",
+      "context": "Porcentagem de complicações atendidas no consultório"
+    },
+    {
+      "value": "86%",
+      "context": "Porcentagem de pessoas com alterações psíquicas após Covid"
+    },
+    {
+      "value": "150 minutos por semana",
+      "context": "tempo recomendado de atividade física intensa segundo a OMS"
+    },
+    {
+      "value": "66 dias",
+      "context": "Tempo médio para formar um hábito segundo pesquisa científica."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tesla",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Networking",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Chambliss",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Garra",
+      "target_type": "company"
+    },
+    {
+      "source": "Matt Walker",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Por Que Nós Dormimos",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Spacex",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Amazon",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "episode_id": "34748488485",
+  "title": "ESSES SERÃO OS DESAFIOS QUE OS LÍDERES ENFRENTARÃO NO FUTURO - COM DADO SCHNEIDER | G4 PODCASTS",
+  "date_published": 1703062800,
+  "duration": 2781,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Marcela Zayden",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia e Diretora de Pessoas"
+    },
+    {
+      "name": "Dado Schneider",
+      "role": "guest",
+      "company": "PUC",
+      "title": "Professor Doutor em Comunicação"
+    },
+    {
+      "name": "Robert De Niro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação para negócios"
+    },
+    {
+      "name": "Rd Summit",
+      "industry": "Eventos",
+      "context": "Evento de negócios e marketing"
+    },
+    {
+      "name": "For All",
+      "industry": "Technology",
+      "context": "Hub de fintechs, datatechs, marketecks, fashion techs localizado no Rio Grande do Sul"
+    },
+    {
+      "name": "V4 Company",
+      "industry": "Marketing Digital",
+      "context": "Empresa onde Dado Schneider realizou estágio em marketing digital"
+    },
+    {
+      "name": "Claro",
+      "industry": "Telecomunicações",
+      "context": "Marca criada por Dado Schneider"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Customer Experience",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Jornada do Cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Geração Z",
+      "category": "Demografia"
+    },
+    {
+      "name": "Geração Y",
+      "category": "Demografia"
+    },
+    {
+      "name": "Geração X",
+      "category": "Demografia"
+    },
+    {
+      "name": "Baby Boomers",
+      "category": "Demografia"
+    },
+    {
+      "name": "Geração Silenciosa",
+      "category": "Demografia"
+    },
+    {
+      "name": "Estrutura Organizacional Horizontal",
+      "category": "Gestão"
+    },
+    {
+      "name": "Estrutura Organizacional Vertical",
+      "category": "Gestão"
+    },
+    {
+      "name": "Sustentabilidade",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Inclusão",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Diversidade",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Cooperação",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Colaboração",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Compartilhamento",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Métodos Ágeis",
+      "category": "Metodologia"
+    },
+    {
+      "name": "Scrum",
+      "category": "Metodologia"
+    },
+    {
+      "name": "Canvas",
+      "category": "Metodologia"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Middle Management",
+      "category": "Estrutura Corporativa"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Mundo Mudou Bem na Minha Vez",
+      "author": "Dado Schneider"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "70%",
+      "context": "Dias em que a pessoa não acorda motivada"
+    },
+    {
+      "value": "7 mil",
+      "context": "Salário inicial em concursos públicos mencionados"
+    },
+    {
+      "value": "62 anos",
+      "context": "Idade de Dado Schneider"
+    },
+    {
+      "value": "49 anos",
+      "context": "Tempo de vida restante estimado por Dado Schneider"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Dado Schneider",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "For All",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dado Schneider",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "V4 Company",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rd Summit",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcela Zayden",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dado Schneider",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Puc",
+      "target_type": "company"
+    },
+    {
+      "source": "Dado Schneider",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "O Mundo Mudou Bem Na Minha Vez",
+      "target_type": "company"
+    },
+    {
+      "source": "Dado Schneider",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Claro",
+      "target_type": "company"
+    }
+  ]
+}

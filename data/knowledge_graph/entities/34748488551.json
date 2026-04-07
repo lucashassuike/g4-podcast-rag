@@ -1,0 +1,438 @@
+{
+  "episode_id": "34748488551",
+  "title": "Como Ele Inovou com Inteligência Artificial em 2007? - Com João Bernartt, CIO Stone | Extremos",
+  "date_published": 1693989000,
+  "duration": 4914,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "João Bernartt",
+      "role": "guest",
+      "company": "Stone",
+      "title": "Chief Information Officer"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": ""
+    },
+    {
+      "name": "Ivan Moré",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bosco",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nardom",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Geraldo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marcos",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "VP"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Stone",
+      "industry": "Financial Services",
+      "context": "João Bernartt é CIO da empresa."
+    },
+    {
+      "name": "Yalo Inc",
+      "industry": "Technology",
+      "context": "João Bernartt é investidor e ajudou a trazer as operações para o Brasil."
+    },
+    {
+      "name": "Meta",
+      "industry": "Technology",
+      "context": "Relacionada à Yalo Inc como BSP."
+    },
+    {
+      "name": "Caordic",
+      "industry": "Technology",
+      "context": "Fundada por João Bernartt e vendida para a Lynx."
+    },
+    {
+      "name": "Lynx",
+      "industry": "Technology",
+      "context": "Comprou a Caordic."
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entertainment",
+      "context": "Relacionada ao início da Caordic."
+    },
+    {
+      "name": "Sarayva",
+      "industry": "Retail",
+      "context": "Primeiro cliente da Caordic."
+    },
+    {
+      "name": "Saraiva",
+      "industry": "Varejo",
+      "context": "Cliente da Caótica e mencionada em relação a projetos de inovação."
+    },
+    {
+      "name": "Caótica",
+      "industry": "Tecnologia",
+      "context": "Empresa fundada por João Bernartt, especializada em tecnologia de recomendação."
+    },
+    {
+      "name": "Buscapé",
+      "industry": "Tecnologia",
+      "context": "Mencionada como referência no setor de tecnologia."
+    },
+    {
+      "name": "Rocket",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de empresa com abordagem analítica."
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Mencionada em relação a sistemas de e-commerce."
+    },
+    {
+      "name": "Tricay",
+      "industry": "E-commerce",
+      "context": "Mencionada em relação a sistemas de e-commerce."
+    },
+    {
+      "name": "Mobley",
+      "industry": "E-commerce",
+      "context": "Mencionada em relação a sistemas de e-commerce."
+    },
+    {
+      "name": "Centauro",
+      "industry": "Varejo",
+      "context": "Mencionada em relação a sistemas de e-commerce."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Mentioned in relation to Marcos, a VP at the company."
+    },
+    {
+      "name": "Hortifruti Natural Da Terra",
+      "industry": "Retail",
+      "context": "Mentioned as a company João Bernartt advised."
+    },
+    {
+      "name": "Loja Integrada",
+      "industry": "E-commerce",
+      "context": "Mentioned as a company João Bernartt advised."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inteligência Artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "Mineração de Dados",
+      "category": "Technology"
+    },
+    {
+      "name": "Aprendizado de Máquina",
+      "category": "Technology"
+    },
+    {
+      "name": "Conversation Commerce",
+      "category": "Business"
+    },
+    {
+      "name": "Bootstrapping",
+      "category": "Business"
+    },
+    {
+      "name": "Custo Por Clique (CPC)",
+      "category": "Marketing"
+    },
+    {
+      "name": "Fomento e Inovação",
+      "category": "Financiamento Público"
+    },
+    {
+      "name": "Earn Out",
+      "category": "Estratégia de Aquisição"
+    },
+    {
+      "name": "Data-Driven",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Earn-out",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Planning Strategic",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Advisory Role",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Decentralization",
+      "category": "Organizational Structure"
+    },
+    {
+      "name": "OKR",
+      "category": "Framework de gestão"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Ambidestria organizacional",
+      "category": "Gestão empresarial"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "80%",
+      "context": "Porcentagem do e-commerce concentrado em um evento mencionado."
+    },
+    {
+      "value": "7 meses",
+      "context": "Tempo que demorou para usar o dinheiro após vender a empresa."
+    },
+    {
+      "value": "2021",
+      "context": "Ano em que João Bernartt ajudou a trazer as operações da Yalo Inc para o Brasil."
+    },
+    {
+      "value": "2009",
+      "context": "Ano de fundação da Caordic."
+    },
+    {
+      "value": "2018",
+      "context": "Ano de venda da Caordic para a Lynx."
+    },
+    {
+      "value": "20",
+      "context": "Número de pessoas na equipe da Caordic em uma fase inicial."
+    },
+    {
+      "value": "2010",
+      "context": "Ano em que a Caótica operou com financiamento público e recursos próprios."
+    },
+    {
+      "value": "2015",
+      "context": "Ano em que a Caótica foi vendida."
+    },
+    {
+      "value": "2,000+",
+      "context": "Number of people under João Bernartt's directorship at Stone."
+    },
+    {
+      "value": "2 mil pessoas",
+      "context": "Tamanho da equipe mencionada na Stone"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "João Bernartt",
+      "source_type": "person",
+      "relation": "consulted_for",
+      "target": "Lynx",
+      "target_type": "company"
+    },
+    {
+      "source": "João Bernartt",
+      "source_type": "person",
+      "relation": "advised",
+      "target": "Loja Integrada",
+      "target_type": "company"
+    },
+    {
+      "source": "Stone",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Okr",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caótica",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Saraiva",
+      "target_type": "company"
+    },
+    {
+      "source": "João Bernartt",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Caótica",
+      "target_type": "company"
+    },
+    {
+      "source": "Caótica",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Stone",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ambidestria Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caótica",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mobley",
+      "target_type": "company"
+    },
+    {
+      "source": "João Bernartt",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Yalo Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Caordic",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Netflix",
+      "target_type": "company"
+    },
+    {
+      "source": "Caótica",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Tricay",
+      "target_type": "company"
+    },
+    {
+      "source": "Caótica",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Buscapé",
+      "target_type": "company"
+    },
+    {
+      "source": "João Bernartt",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Caordic",
+      "target_type": "company"
+    },
+    {
+      "source": "Yalo Inc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Meta",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "João Bernartt",
+      "source_type": "person",
+      "relation": "advised",
+      "target": "Hortifruti Natural Da Terra",
+      "target_type": "company"
+    },
+    {
+      "source": "Caótica",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rocket",
+      "target_type": "company"
+    },
+    {
+      "source": "Caordic",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sarayva",
+      "target_type": "company"
+    },
+    {
+      "source": "Stone",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Planejamento Estratégico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caordic",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Lynx",
+      "target_type": "company"
+    },
+    {
+      "source": "Caótica",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Centauro",
+      "target_type": "company"
+    },
+    {
+      "source": "João Bernartt",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stone",
+      "target_type": "company"
+    }
+  ]
+}

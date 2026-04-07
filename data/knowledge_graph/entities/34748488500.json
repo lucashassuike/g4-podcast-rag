@@ -1,0 +1,497 @@
+{
+  "episode_id": "34748488500",
+  "title": "De Cartuchos de Impressora a um Faturamento de Bilhões - Com Alexandre Ostrowiecki | Papo de Gestão",
+  "date_published": 1701073800,
+  "duration": 3106,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alexandre Ostrowiecki",
+      "role": "guest",
+      "company": "Mult",
+      "title": "CEO"
+    },
+    {
+      "name": "Israel Ostrowiecki",
+      "role": "mentioned",
+      "company": "Mult",
+      "title": "Founder"
+    },
+    {
+      "name": "Edmond Safra",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Renato",
+      "role": "mentioned",
+      "company": "Escola Aleph",
+      "title": "Sócio"
+    },
+    {
+      "name": "Reed Hastings",
+      "role": "mentioned",
+      "company": "Netflix",
+      "title": "Autor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Walter Isaacson",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jack Ma",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mark Horowitz",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Phil Knight",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Desenvolvimento de habilidades e treinamento corporativo"
+    },
+    {
+      "name": "Mult",
+      "industry": "Eletrônicos e Tecnologia",
+      "context": "Empresa brasileira especializada em eletrônicos e tecnologia, anteriormente conhecida como Multilaser"
+    },
+    {
+      "name": "Unilever",
+      "industry": "Bens de Consumo",
+      "context": "Empregadora anterior de Alexandre Ostrowiecki"
+    },
+    {
+      "name": "Accenture",
+      "industry": "Consultoria e Estratégia",
+      "context": "Empregadora anterior de Alexandre Ostrowiecki"
+    },
+    {
+      "name": "Multilaser",
+      "industry": "Electronics",
+      "context": "Discussed as a major player in electronics manufacturing and distribution in Brazil."
+    },
+    {
+      "name": "Zte",
+      "industry": "Telecommunications",
+      "context": "Partnered with Multilaser for manufacturing routers."
+    },
+    {
+      "name": "Toshiba",
+      "industry": "Electronics",
+      "context": "Partnered with Multilaser for manufacturing TVs."
+    },
+    {
+      "name": "Dji",
+      "industry": "Electronics",
+      "context": "Partnered with Multilaser for distributing drones in Brazil."
+    },
+    {
+      "name": "Multi",
+      "industry": "Electronics and Consumer Goods",
+      "context": "Discussed as a company producing a wide range of products and operating with a democratic technology approach."
+    },
+    {
+      "name": "Escola Aleph",
+      "industry": "Education",
+      "context": "Operates campuses in São Paulo, including one in Paraisópolis."
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entertainment",
+      "context": "Referenced in relation to cultural feedback practices."
+    },
+    {
+      "name": "Americanas",
+      "industry": "Retail",
+      "context": "Mentioned in a story about a student from Escola Aleph."
+    },
+    {
+      "name": "Nike",
+      "industry": "Retail",
+      "context": "Discussed in relation to Phil Knight's book."
+    },
+    {
+      "name": "Starbucks",
+      "industry": "Food and Beverage",
+      "context": "Discussed in relation to a book about the company."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Treinamento"
+    },
+    {
+      "name": "Custo Brasil",
+      "category": "Desafios Econômicos e Regulatórios"
+    },
+    {
+      "name": "Cinco Forças de Porter",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Síndrome do Impostor",
+      "category": "Psicologia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Alavancagem de canal",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Lei do Bem",
+      "category": "Government Policy"
+    },
+    {
+      "name": "BOM list",
+      "category": "Manufacturing"
+    },
+    {
+      "name": "Injeção plástica",
+      "category": "Manufacturing"
+    },
+    {
+      "name": "Direct to Consumer (DTC)",
+      "category": "Business Model"
+    },
+    {
+      "name": "Capital de Giro",
+      "category": "Finance"
+    },
+    {
+      "name": "Squads",
+      "category": "Organizational Structure"
+    },
+    {
+      "name": "Burnout",
+      "category": "Health"
+    },
+    {
+      "name": "Leadership",
+      "category": "Management"
+    },
+    {
+      "name": "Feedback Culture",
+      "category": "Management"
+    },
+    {
+      "name": "Responsibility Individual",
+      "category": "Education"
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Education"
+    },
+    {
+      "name": "Economic Freedom",
+      "category": "Education"
+    },
+    {
+      "name": "audiobook",
+      "category": "Media"
+    },
+    {
+      "name": "biographies of business leaders",
+      "category": "Literature"
+    },
+    {
+      "name": "YouTube",
+      "category": "Media"
+    }
+  ],
+  "books": [
+    {
+      "title": "Edmond Safra: A história da vida dele",
+      "author": "Unknown"
+    },
+    {
+      "title": "No Rules Rules: Netflix and the Culture of Reinvention",
+      "author": "Reed Hastings"
+    },
+    {
+      "title": "A Banker's Journey",
+      "author": "Edmond Safra"
+    },
+    {
+      "title": "Elon Musk",
+      "author": "Walter Isaacson"
+    },
+    {
+      "title": "The Hard Thing About Hard Things",
+      "author": "Mark Horowitz"
+    },
+    {
+      "title": "Shoe Dog",
+      "author": "Phil Knight"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "20 milhões",
+      "context": "Faturamento anual da Multilaser antes da diversificação de produtos"
+    },
+    {
+      "value": "5 bilhões",
+      "context": "Annual revenue of Multilaser."
+    },
+    {
+      "value": "5 mil produtos",
+      "context": "Product portfolio of Multilaser."
+    },
+    {
+      "value": "5 mil funcionários",
+      "context": "Employee count at Multilaser."
+    },
+    {
+      "value": "200 milhões",
+      "context": "Revenue of Multilaser in 2007."
+    },
+    {
+      "value": "5,000 employees",
+      "context": "Total workforce at Multi"
+    },
+    {
+      "value": "13 plastic injection machines",
+      "context": "Production capacity at Multi's facility in Minas Gerais"
+    },
+    {
+      "value": "15 business units",
+      "context": "Organizational structure of Multi"
+    },
+    {
+      "value": "400",
+      "context": "Number of students at Escola Bialik before transformation."
+    },
+    {
+      "value": "1000",
+      "context": "Current number of students at Escola Aleph."
+    },
+    {
+      "value": "100",
+      "context": "Number of students at the Paraisópolis campus of Escola Aleph."
+    },
+    {
+      "value": "2010",
+      "context": "Year Alexandre Ostrowiecki assumed presidency of Escola Bialik."
+    },
+    {
+      "value": "2013",
+      "context": "Year the Paraisópolis campus was inaugurated."
+    },
+    {
+      "value": "15 years",
+      "context": "Age of Alexandre Ostrowiecki's eldest son."
+    },
+    {
+      "value": "13 years",
+      "context": "Age of Alexandre Ostrowiecki's daughter."
+    },
+    {
+      "value": "10 years",
+      "context": "Age of Alexandre Ostrowiecki's youngest son."
+    },
+    {
+      "value": "2-3 books per month",
+      "context": "Reading habit of Alexandre Ostrowiecki."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alexandre Ostrowiecki",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Elon Musk",
+      "target_type": "person"
+    },
+    {
+      "source": "Multilaser",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Zte",
+      "target_type": "company"
+    },
+    {
+      "source": "Reed Hastings",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "No Rules Rules: Netflix And The Culture Of Reinvention",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Ostrowiecki",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Escola Aleph",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Ostrowiecki",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Accenture",
+      "target_type": "company"
+    },
+    {
+      "source": "Phil Knight",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Nike",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Ostrowiecki",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Shoe Dog",
+      "target_type": "company"
+    },
+    {
+      "source": "Israel Ostrowiecki",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mult",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Ostrowiecki",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Multilaser",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Ostrowiecki",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Multi",
+      "target_type": "company"
+    },
+    {
+      "source": "Escola Aleph",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Paraisópolis",
+      "target_type": "company"
+    },
+    {
+      "source": "Multi",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Electronics And Consumer Goods",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Ostrowiecki",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Unilever",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Escola Aleph",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Ostrowiecki",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mult",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Ostrowiecki",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "The Hard Thing About Hard Things",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Ostrowiecki",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "A Banker'S Journey",
+      "target_type": "company"
+    },
+    {
+      "source": "Multilaser",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Toshiba",
+      "target_type": "company"
+    },
+    {
+      "source": "Multilaser",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dji",
+      "target_type": "company"
+    }
+  ]
+}

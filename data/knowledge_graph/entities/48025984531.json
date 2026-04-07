@@ -1,0 +1,342 @@
+{
+  "episode_id": "48025984531",
+  "title": "Por Dentro de uma Multimarcas de Sucesso: Os Bastidores do Negócio de Carros do Daniel Ribeiro",
+  "date_published": 1767798000,
+  "duration": 4253,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Daniel Ribeiro",
+      "role": "guest",
+      "company": "DSM Multimarcas",
+      "title": "Empresário e Vendedor de Carros"
+    },
+    {
+      "name": "Thales",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Amadeu",
+      "role": "mentioned",
+      "company": "Royal 4x4",
+      "title": ""
+    },
+    {
+      "name": "Danilo Ribeiro",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Braço direito de Daniel Ribeiro"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Dsm Multimarcas",
+      "industry": "Automotivo",
+      "context": "Empresa de venda de carros consignados gerida por Daniel Ribeiro."
+    },
+    {
+      "name": "Royal 4X4",
+      "industry": "Automotivo",
+      "context": "Empresa mencionada como referência no setor automotivo."
+    },
+    {
+      "name": "Ifood Benefícios",
+      "industry": "Tecnologia e Benefícios Corporativos",
+      "context": "Patrocinador do G4 Podcast, oferecendo soluções de benefícios para empresas."
+    },
+    {
+      "name": "Ams",
+      "industry": "Automotivo",
+      "context": "Concorrente mencionada no setor automotivo em Curitiba."
+    },
+    {
+      "name": "Tiktok",
+      "industry": "Tecnologia",
+      "context": "Plataforma onde Daniel Ribeiro viralizou com seu vídeo de negociação"
+    },
+    {
+      "name": "Instagram",
+      "industry": "Tecnologia",
+      "context": "Plataforma onde Daniel Ribeiro aumentou seus seguidores após viralizar no TikTok"
+    },
+    {
+      "name": "Dsm Multimarca",
+      "industry": "Automotivo",
+      "context": "Empresa mencionada como exemplo de sucesso na estratégia de marketing digital."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Modelo de Negócio Consignado",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Gestão de Garantias",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Criação de Conteúdo para Vendas",
+      "category": "Marketing e Vendas"
+    },
+    {
+      "name": "Mesa Redonda",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Estratégia de vendas",
+      "category": "Negócios"
+    },
+    {
+      "name": "estratégia de marketing digital",
+      "category": "estratégia"
+    },
+    {
+      "name": "criação de conteúdo",
+      "category": "estratégia"
+    },
+    {
+      "name": "segmentação de público",
+      "category": "estratégia"
+    },
+    {
+      "name": "engajamento de equipe",
+      "category": "cultura organizacional"
+    },
+    {
+      "name": "constância na publicação",
+      "category": "estratégia"
+    },
+    {
+      "name": "métricas de visualização",
+      "category": "métricas"
+    },
+    {
+      "name": "ferramentas de redes sociais",
+      "category": "tecnologia"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "8 mil",
+      "context": "Lucro mínimo por carro vendido pela DSM Multimarcas."
+    },
+    {
+      "value": "2,3 milhões de reais",
+      "context": "Dívida enfrentada por Daniel Ribeiro em 2018."
+    },
+    {
+      "value": "150 carros por mês",
+      "context": "Quantidade de carros vendidos mensalmente pela DSM Multimarcas."
+    },
+    {
+      "value": "28 milhões de visualizações por mês",
+      "context": "Audiência acumulada nos canais de Daniel Ribeiro."
+    },
+    {
+      "value": "4 milhões de reais",
+      "context": "Valor gerado na última mentoria de Daniel Ribeiro."
+    },
+    {
+      "value": "346 mil seguidores",
+      "context": "Número de seguidores no TikTok após viralizar"
+    },
+    {
+      "value": "396 mil seguidores",
+      "context": "Número de seguidores no Instagram após viralizar"
+    },
+    {
+      "value": "17 milhões de visualizações",
+      "context": "Visualizações do vídeo viral no TikTok"
+    },
+    {
+      "value": "600 mil curtidas",
+      "context": "Curtidas no vídeo viral no TikTok"
+    },
+    {
+      "value": "34 mil comentários",
+      "context": "Comentários no vídeo viral no TikTok"
+    },
+    {
+      "value": "16 carros vendidos",
+      "context": "Número de carros vendidos em um dia após viralização"
+    },
+    {
+      "value": "36 funcionários",
+      "context": "Número de funcionários na equipe de Daniel Ribeiro"
+    },
+    {
+      "value": "2 milhões e meio de reais",
+      "context": "Dívida inicial de Daniel Ribeiro"
+    },
+    {
+      "value": "2 milhões e meio de reais",
+      "context": "Valor do carro atual de Daniel Ribeiro, uma McLaren Arthur 2024"
+    },
+    {
+      "value": "30 conteúdos por dia",
+      "context": "Quantidade de conteúdos criados diariamente por Daniel Ribeiro para engajar diferentes públicos."
+    },
+    {
+      "value": "151 posts em menos de 30 dias",
+      "context": "Número de posts no Instagram 'Daniel Cortes' em um curto período."
+    },
+    {
+      "value": "2 mil seguidores em menos de 30 dias",
+      "context": "Crescimento de seguidores no Instagram 'Daniel Cortes'."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Daniel Ribeiro",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Gestão De Garantias",
+      "target_type": "concept"
+    },
+    {
+      "source": "Daniel Ribeiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Constância Na Publicação",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Estratégia De Marketing Digital",
+      "target_type": "concept"
+    },
+    {
+      "source": "Daniel Ribeiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mesa Redonda",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Estratégia De Marketing Digital",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Dsm Multimarca",
+      "target_type": "company"
+    },
+    {
+      "source": "Segmentação De Público",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Estratégia De Marketing Digital",
+      "target_type": "concept"
+    },
+    {
+      "source": "Engajamento De Equipe",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Dsm Multimarca",
+      "target_type": "company"
+    },
+    {
+      "source": "Criação De Conteúdo",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Estratégia De Marketing Digital",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ifood Benefícios",
+      "source_type": "company",
+      "relation": "sponsors",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Ribeiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tiktok",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Ribeiro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Dsm Multimarcas",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Ribeiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Instagram",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Ribeiro",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Criação De Conteúdo Para Vendas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Daniel Ribeiro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Dsm Multimarca",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Ribeiro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Danilo Ribeiro",
+      "target_type": "person"
+    },
+    {
+      "source": "Daniel Ribeiro",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Modelo De Negócio Consignado",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Amadeu",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Royal 4X4",
+      "target_type": "company"
+    }
+  ]
+}

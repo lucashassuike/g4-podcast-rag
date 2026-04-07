@@ -1,0 +1,252 @@
+{
+  "episode_id": "34748488564",
+  "title": "Pioneirismo e Inovação no Setor Gastronômico - Com o Fundador da Let´s Poke | Extremos",
+  "date_published": 1691571600,
+  "duration": 3347,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Eduardo Lira",
+      "role": "mentioned",
+      "company": "Gerando Falcões",
+      "title": ""
+    },
+    {
+      "name": "Ricardo Bottura",
+      "role": "guest",
+      "company": "Let's Poke",
+      "title": "Founder"
+    },
+    {
+      "name": "Júlia",
+      "role": "mentioned",
+      "company": "Let's Poke",
+      "title": "CFO"
+    },
+    {
+      "name": "Felipe Toledo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista"
+    },
+    {
+      "name": "Filipinho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Felipe",
+      "role": "guest",
+      "company": "Let's Poke",
+      "title": "Surfista Brasileiro"
+    },
+    {
+      "name": "Ítalo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista Brasileiro"
+    },
+    {
+      "name": "The Rock",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mark Wahlberg",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gustavo Lima",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcast",
+      "industry": "Media",
+      "context": "Hub de conteúdo sobre negócios, gestão e liderança"
+    },
+    {
+      "name": "Let'S Poke",
+      "industry": "Food and Beverage",
+      "context": "Restaurante especializado em poke"
+    },
+    {
+      "name": "Gerando Falcões",
+      "industry": "Social Impact",
+      "context": "Projeto social mencionado no episódio"
+    },
+    {
+      "name": "Rápido Entregas",
+      "industry": "Logistics",
+      "context": "Parceira de delivery mencionada no episódio"
+    },
+    {
+      "name": "Hurley",
+      "industry": "Sportswear",
+      "context": "Mentioned as a sponsor in an event where Let's Poke was promoted."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Soft Skills",
+      "category": "Business Skills"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Educational Platform"
+    },
+    {
+      "name": "Delivery",
+      "category": "Business Model"
+    },
+    {
+      "name": "Alimentação Saudável",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Media for Equity",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Franchise Model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Healthy Eating",
+      "category": "Consumer Trend"
+    },
+    {
+      "name": "Delivery Service",
+      "category": "Business Model"
+    },
+    {
+      "name": "Franchising",
+      "category": "Business Expansion"
+    },
+    {
+      "name": "Marketing Strategy",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "60%",
+      "context": "Porcentagem de vendas realizadas nos salões antes da pandemia"
+    },
+    {
+      "value": "2017",
+      "context": "Year Let's Poke was founded"
+    },
+    {
+      "value": "Five units",
+      "context": "Current number of Let's Poke locations"
+    },
+    {
+      "value": "2017",
+      "context": "Year Let's Poke was launched."
+    },
+    {
+      "value": "Itaim",
+      "context": "Location of the most successful Let's Poke store."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Let'S Poke",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Food And Beverage",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Let'S Poke",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Bottura",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Felipe Toledo",
+      "target_type": "person"
+    },
+    {
+      "source": "Ricardo Bottura",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Júlia",
+      "target_type": "person"
+    },
+    {
+      "source": "Ricardo Bottura",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Let'S Poke",
+      "target_type": "company"
+    },
+    {
+      "source": "Let'S Poke",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Rápido Entregas",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe",
+      "source_type": "person",
+      "relation": "partnered_with",
+      "target": "Let'S Poke",
+      "target_type": "company"
+    },
+    {
+      "source": "Hurley",
+      "source_type": "company",
+      "relation": "sponsored",
+      "target": "Felipe",
+      "target_type": "person"
+    },
+    {
+      "source": "Felipe",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Let'S Poke",
+      "target_type": "company"
+    }
+  ]
+}

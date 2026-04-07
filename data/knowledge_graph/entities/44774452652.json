@@ -1,0 +1,229 @@
+{
+  "episode_id": "44774452652",
+  "title": "COMO O IFOOD ESTÁ REVOLUCIONANDO O MERCADO CORPORATIVO | EXTREMOS",
+  "date_published": 1762354800,
+  "duration": 3691,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Arthur Freitas",
+      "role": "guest",
+      "company": "iFood Benefícios",
+      "title": "Diretor-Geral"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Diego",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": "CEO"
+    },
+    {
+      "name": "Blue Eyes",
+      "role": "mentioned",
+      "company": "Prosus",
+      "title": "CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Ifood Benefícios",
+      "industry": "Tecnologia e Benefícios Corporativos",
+      "context": "Discussão sobre sua atuação e impacto no mercado de benefícios corporativos"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Parceiro estratégico do iFood Benefícios"
+    },
+    {
+      "name": "Bcg (Boston Consulting Group)",
+      "industry": "Consultoria Empresarial",
+      "context": "Empresa onde Arthur Freitas iniciou sua carreira"
+    },
+    {
+      "name": "Rappi",
+      "industry": "Tecnologia e Delivery",
+      "context": "Concorrente do iFood na Colômbia"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Food Delivery",
+      "context": "Discussed as a leading company in Brazil with a strong culture and innovative practices."
+    },
+    {
+      "name": "Prosus",
+      "industry": "Investment",
+      "context": "Mentioned in relation to Blue Eyes' leadership."
+    },
+    {
+      "name": "Zoop",
+      "industry": "Fintech",
+      "context": "Mentioned as part of iFood's ecosystem."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Internacionalização",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Gestão de Benefícios",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Mercado de Benefícios Corporativos",
+      "category": "Indústria"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "iFood Benefícios",
+      "category": "Product"
+    },
+    {
+      "name": "Ambidestria organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Conflito produtivo",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Intraempreendedorismo",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Corporate Benefits",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Innovation in Payment Systems",
+      "category": "Technology"
+    },
+    {
+      "name": "Employee Meal Solutions",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Program of Worker’s Food",
+      "category": "Regulation"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Mais de 1 milhão de pessoas",
+      "context": "Número de usuários do iFood Benefícios"
+    },
+    {
+      "value": "Mercado de 150 bilhões de reais",
+      "context": "Tamanho do mercado de benefícios corporativos na América Latina"
+    },
+    {
+      "value": "350,000+",
+      "context": "Number of delivery personnel associated with iFood."
+    },
+    {
+      "value": "8x growth in 6 months",
+      "context": "Growth target for iFood Benefícios."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Arthur Freitas",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Bcg (Boston Consulting Group)",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood Benefícios",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Corporate Benefits",
+      "target_type": "concept"
+    },
+    {
+      "source": "Diego",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Blue Eyes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Prosus",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ifood Benefícios",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Zoop",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood Benefícios",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Arthur Freitas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood Benefícios",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood Benefícios",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Innovation In Payment Systems",
+      "target_type": "concept"
+    }
+  ]
+}

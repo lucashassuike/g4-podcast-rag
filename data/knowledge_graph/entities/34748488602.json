@@ -1,0 +1,191 @@
+{
+  "episode_id": "34748488602",
+  "title": "Dr. Thiago Volpi - Como ter uma Rotina de Excelência, Jejum e Dietas Alimentares e a Importância do Sono | Sem Atalhos",
+  "date_published": 1682409624,
+  "duration": 3385,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Tiago Volpe",
+      "role": "guest",
+      "company": "Espaço Volpe",
+      "title": "CEO"
+    },
+    {
+      "name": "Lucas Riedo",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "CEO"
+    },
+    {
+      "name": "Dr. Thiago Volpi",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Organização responsável pelo G4 Podcast e G4 Skills"
+    },
+    {
+      "name": "Espaço Volpe",
+      "industry": "Saúde e Bem-Estar",
+      "context": "Empresa liderada por Tiago Volpe"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Fadiga da Decisão",
+      "category": "Psicologia e Produtividade"
+    },
+    {
+      "name": "Ritmo Circadiano",
+      "category": "Saúde e Biologia"
+    },
+    {
+      "name": "Jejum Intermitente",
+      "category": "Nutrição e Saúde"
+    },
+    {
+      "name": "Grelina",
+      "category": "Hormônios e Metabolismo"
+    },
+    {
+      "name": "Leptina",
+      "category": "Hormônios e Metabolismo"
+    },
+    {
+      "name": "Higienização do Sono",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "Calorias boas e ruins",
+      "category": "Conceito nutricional"
+    },
+    {
+      "name": "Epigenética",
+      "category": "Conceito científico"
+    },
+    {
+      "name": "Ômega 3 e DHA",
+      "category": "Conceito nutricional"
+    },
+    {
+      "name": "Detox de cafeína",
+      "category": "Estratégia de saúde"
+    },
+    {
+      "name": "Rotinas de relaxamento",
+      "category": "Estratégia de bem-estar"
+    },
+    {
+      "name": "rotina de relaxamento",
+      "category": "estratégia"
+    },
+    {
+      "name": "performance mental",
+      "category": "conceito"
+    },
+    {
+      "name": "suplementação",
+      "category": "estratégia"
+    },
+    {
+      "name": "creatina",
+      "category": "suplemento"
+    },
+    {
+      "name": "ômega 3",
+      "category": "suplemento"
+    },
+    {
+      "name": "magnésio",
+      "category": "suplemento"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "97%",
+      "context": "Porcentagem de pessoas que apresentaram queda na performance mental ao dormir menos de 6 horas e meia, segundo estudo com mais de 400 mil participantes."
+    },
+    {
+      "value": "3 a 5 gramas",
+      "context": "dosagem recomendada de creatina"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Dr. Thiago Volpi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Suplementação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Thiago Volpi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Creatina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Riedo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Thiago Volpi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Magnésio",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Volpe",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Espaço Volpe",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Thiago Volpi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Performance Mental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Thiago Volpi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ômega 3",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Thiago Volpi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rotina De Relaxamento",
+      "target_type": "concept"
+    }
+  ]
+}

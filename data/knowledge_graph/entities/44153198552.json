@@ -1,0 +1,301 @@
+{
+  "episode_id": "44153198552",
+  "title": "BRUNO DE OLIVEIRA VENDEU TUDO E FEZ O MELHOR NEGÓCIO DA DÉCADA | EXTREMOS",
+  "date_published": 1761145200,
+  "duration": 3851,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Oliveira",
+      "role": "guest",
+      "company": "Efeito Empreendedor",
+      "title": "CEO"
+    },
+    {
+      "name": "Alex Muro",
+      "role": "mentioned",
+      "company": "Efeito Empreendedor",
+      "title": ""
+    },
+    {
+      "name": "Bruno De Oliveira",
+      "role": "guest",
+      "company": "Nuvemshop",
+      "title": "VP de Educação"
+    },
+    {
+      "name": "Guilherme Pedroso",
+      "role": "mentioned",
+      "company": "Nuvemshop",
+      "title": "Team Member"
+    },
+    {
+      "name": "Alex Moro",
+      "role": "mentioned",
+      "company": "Consultoria de E-commerce",
+      "title": "Founder"
+    },
+    {
+      "name": "Robson",
+      "role": "mentioned",
+      "company": "Gammy Hair",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Organizador do evento G4 Valley e parceiro da Fluency Pass"
+    },
+    {
+      "name": "Efeito Empreendedor",
+      "industry": "Educação e Negócios",
+      "context": "Empresa liderada por Bruno Oliveira, com foco em ecossistemas de negócios"
+    },
+    {
+      "name": "Cloud Shop",
+      "industry": "Tecnologia e E-commerce",
+      "context": "Adquiriu o E-commerce na Prática"
+    },
+    {
+      "name": "Fluency Pass",
+      "industry": "Educação",
+      "context": "Parceria com G4 Educação para ensino de inglês"
+    },
+    {
+      "name": "E-Commerce Na Prática",
+      "industry": "Educação e E-commerce",
+      "context": "Fundada por Bruno Oliveira, maior escola de e-commerce do Brasil"
+    },
+    {
+      "name": "Vitex",
+      "industry": "E-commerce",
+      "context": "Mencionada como potencial compradora em um M&A"
+    },
+    {
+      "name": "Crm Bônus",
+      "industry": "Tecnologia",
+      "context": "Empresa mencionada no contexto de M&A"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Delivery",
+      "context": "Mencionada no contexto de M&A"
+    },
+    {
+      "name": "Nuvemshop",
+      "industry": "E-commerce",
+      "context": "Empresa onde Bruno de Oliveira atuou como VP de Educação"
+    },
+    {
+      "name": "Efeito Pro",
+      "industry": "E-commerce",
+      "context": "Discussed as a business model and ecosystem"
+    },
+    {
+      "name": "Gammy Hair",
+      "industry": "Personal Care",
+      "context": "Mentioned as a client of Efeito Pro"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "GMV (Gross Merchandise Value)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Networking",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Multicanalidade no Varejo",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "GMV (Gross Merchandise Volume)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Consultoria 360",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Indústria"
+    },
+    {
+      "name": "Transição Digital",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "partnership",
+      "category": "business strategy"
+    },
+    {
+      "name": "dropshipping",
+      "category": "business model"
+    },
+    {
+      "name": "marketplace",
+      "category": "business model"
+    },
+    {
+      "name": "brand ownership",
+      "category": "business model"
+    },
+    {
+      "name": "profit margin",
+      "category": "financial metric"
+    },
+    {
+      "name": "investment",
+      "category": "financial strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Crie Seu Mercado no Mundo Digital",
+      "author": "Bruno Oliveira"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "10,000",
+      "context": "Número de empresários presentes no evento G4 Valley"
+    },
+    {
+      "value": "1 bilhão de reais",
+      "context": "GMV movimentado pelo Efeito Pro"
+    },
+    {
+      "value": "500,000",
+      "context": "Empreendedores impactados diretamente pelos conteúdos de Bruno Oliveira"
+    },
+    {
+      "value": "10 bilhões de reais",
+      "context": "Meta de GMV a ser gerado pelos mentorados de Bruno de Oliveira"
+    },
+    {
+      "value": "10 mil negócios",
+      "context": "Meta de negócios dentro do ecossistema de Bruno de Oliveira"
+    },
+    {
+      "value": "100-200 million",
+      "context": "Potential investment amount discussed"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Fluency Pass",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno De Oliveira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Robson",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gammy Hair",
+      "target_type": "company"
+    },
+    {
+      "source": "Gammy Hair",
+      "source_type": "company",
+      "relation": "client_of",
+      "target": "Efeito Pro",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Oliveira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Efeito Empreendedor",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Oliveira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "E-Commerce Na Prática",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno De Oliveira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nuvemshop",
+      "target_type": "company"
+    },
+    {
+      "source": "E-Commerce Na Prática",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Cloud Shop",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Moro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Consultoria De E-Commerce",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitex",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Nuvemshop",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno De Oliveira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Efeito Pro",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "episode_id": "34748488510",
+  "title": "De um Burnout a Fundador da Barbearia Corleone - Com Bruno Van Enck | Extremos",
+  "date_published": 1699605000,
+  "duration": 4542,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Van Enck",
+      "role": "guest",
+      "company": "Barbearia Corleone",
+      "title": "Fundador"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Fundador"
+    },
+    {
+      "name": "Thiago Ventura",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Doutor Tiago Volpe",
+      "role": "mentioned",
+      "company": "Novo Negócio",
+      "title": "Medical Partner"
+    },
+    {
+      "name": "Paulinha",
+      "role": "mentioned",
+      "company": "Gabriel Wickbold Studio",
+      "title": "Galerist"
+    },
+    {
+      "name": "Gabriel Wickbold",
+      "role": "mentioned",
+      "company": "Gabriel Wickbold Studio",
+      "title": "Photographer"
+    },
+    {
+      "name": "Paulo Del Valle",
+      "role": "mentioned",
+      "company": "",
+      "title": "Fotógrafo"
+    },
+    {
+      "name": "Volpi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Paulo Muzi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thiago Wobben",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Lucas Rosa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Luísa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Spouse"
+    },
+    {
+      "name": "Paulo Moraes",
+      "role": "mentioned",
+      "company": "Espaço Laser",
+      "title": "Executive"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Barbearia Corleone",
+      "industry": "Beleza e cuidados pessoais",
+      "context": "Fundada por Bruno Van Enck, mencionada como um local de relacionamento e lifestyle."
+    },
+    {
+      "name": "Clivo",
+      "industry": "Saúde",
+      "context": "Fundada por Marcelo Toledo, mencionada no contexto de mentoria e liderança."
+    },
+    {
+      "name": "Oi",
+      "industry": "Telecomunicações",
+      "context": "Mencionada como uma empresa onde experiências de liderança foram adquiridas."
+    },
+    {
+      "name": "X-Tech",
+      "industry": "Tecnologia",
+      "context": "Mencionada como uma empresa promovida por Bruno Van Enck."
+    },
+    {
+      "name": "Loja Integrada",
+      "industry": "E-commerce",
+      "context": "Mencionada como uma empresa promovida por Bruno Van Enck."
+    },
+    {
+      "name": "Vitex",
+      "industry": "E-commerce",
+      "context": "Mencionada no contexto de eventos e palestras."
+    },
+    {
+      "name": "Novo Negócio",
+      "industry": "Healthcare",
+      "context": "Associated with medical services and partnerships."
+    },
+    {
+      "name": "Gabriel Wickbold Studio",
+      "industry": "Art and Photography",
+      "context": "Operates in the field of artistic photography and gallery management."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Plataforma de ensino mencionada por Tallis Gomes"
+    },
+    {
+      "name": "Espaço Laser",
+      "industry": "Beauty and Wellness",
+      "context": "Mentioned by Paulo Moraes"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Liderança adaptativa",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Over delivery",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Evangelização de vendas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Burnout",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Reinvention",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Experience Design",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Photography",
+      "category": "Art and Hobby"
+    },
+    {
+      "name": "Fotografia",
+      "category": "Hobby"
+    },
+    {
+      "name": "Tecnologia",
+      "category": "Inovação"
+    },
+    {
+      "name": "Redes sociais",
+      "category": "Comunicação digital"
+    },
+    {
+      "name": "Democratização",
+      "category": "Impacto social"
+    },
+    {
+      "name": "Engajamento",
+      "category": "Mídia digital"
+    },
+    {
+      "name": "Web 3.0",
+      "category": "Technology"
+    },
+    {
+      "name": "Content Strategy",
+      "category": "Marketing"
+    },
+    {
+      "name": "Brand Positioning",
+      "category": "Marketing"
+    },
+    {
+      "name": "Social Media Engagement",
+      "category": "Marketing"
+    },
+    {
+      "name": "Customer-centric Approach",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Differential Competitive Advantage",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Home Office",
+      "category": "Workplace"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "category": "Technology"
+    },
+    {
+      "name": "Construction Metaphor",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "Business Resilience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Family Support",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bora Vender",
+      "author": "Alfredo Soares"
+    },
+    {
+      "title": "Organizações Exponenciais",
+      "author": "Salim Ismail"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "700 mil reais",
+      "context": "Valor arrecadado em crowdfunding mencionado por Bruno Van Enck."
+    },
+    {
+      "value": "25% above 2019 revenue",
+      "context": "Performance of Barbearia Corleone post-pandemic."
+    },
+    {
+      "value": "100,000 BRL",
+      "context": "Donation for a Gabriel Wickbold artwork auction."
+    },
+    {
+      "value": "Quadruplicou",
+      "context": "Consumo de remédios anti-ansiolíticos após a pandemia"
+    },
+    {
+      "value": "1,200",
+      "context": "Number of people dependent on Bruno Van Enck's business"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Organizações Exponenciais",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Differential Competitive Advantage",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Moraes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Espaço Laser",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Rosa",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Social Media Engagement",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Van Enck",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Barbearia Corleone",
+      "target_type": "company"
+    },
+    {
+      "source": "Luísa",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Bruno Van Enck",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Van Enck",
+      "source_type": "person",
+      "relation": "participated_in",
+      "target": "Vitex Day",
+      "target_type": "company"
+    },
+    {
+      "source": "Doutor Tiago Volpe",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Novo Negócio",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Wobben",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Burnout",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Van Enck",
+      "source_type": "person",
+      "relation": "promoted",
+      "target": "Loja Integrada",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Van Enck",
+      "source_type": "person",
+      "relation": "promoted",
+      "target": "X-Tech",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Del Valle",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Fotografia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gabriel Wickbold",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gabriel Wickbold Studio",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Bora Vender",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulinha",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gabriel Wickbold Studio",
+      "target_type": "company"
+    }
+  ]
+}

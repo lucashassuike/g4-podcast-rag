@@ -1,0 +1,130 @@
+{
+  "episode_id": "41017441420",
+  "title": "[CORTE] O VOTO DEVE SER IMPRESSO NO BRASIL? - ROMEU ZEMA DÁ SUA OPINIÃO SOBRE O ASSUNTO",
+  "date_published": 1754672400,
+  "duration": 790,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Romeu Zema",
+      "role": "guest",
+      "company": "Governo de Minas Gerais",
+      "title": "Governador"
+    },
+    {
+      "name": "Matheus",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thales",
+      "role": "host",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Copasa",
+      "industry": "Utilities",
+      "context": "Empresa subsidiária mencionada no contexto de privatizações em Minas Gerais."
+    },
+    {
+      "name": "Cemig",
+      "industry": "Utilities",
+      "context": "Empresa subsidiária mencionada no contexto de privatizações e energia solar em Minas Gerais."
+    },
+    {
+      "name": "Codemig",
+      "industry": "Utilities",
+      "context": "Empresa subsidiária mencionada no contexto de privatizações em Minas Gerais."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Voto impresso",
+      "category": "Sistema eleitoral"
+    },
+    {
+      "name": "Energia fotovoltaica",
+      "category": "Energia renovável"
+    },
+    {
+      "name": "Privatização",
+      "category": "Política pública"
+    },
+    {
+      "name": "Estado eficiente",
+      "category": "Governança pública"
+    },
+    {
+      "name": "Headhunter",
+      "category": "Recrutamento executivo"
+    }
+  ],
+  "books": [
+    {
+      "title": "A República",
+      "author": "Platão"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "500 MB",
+      "context": "Capacidade instalada de energia solar em Minas Gerais antes da gestão de Romeu Zema."
+    },
+    {
+      "value": "13 GB",
+      "context": "Capacidade instalada de energia solar em Minas Gerais após seis anos de gestão de Romeu Zema."
+    },
+    {
+      "value": "80 bilhões",
+      "context": "Investimento em energia fotovoltaica em Minas Gerais durante a gestão de Romeu Zema."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Romeu Zema",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Privatização",
+      "target_type": "concept"
+    },
+    {
+      "source": "Romeu Zema",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Energia Fotovoltaica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Romeu Zema",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estado Eficiente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Romeu Zema",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Headhunter",
+      "target_type": "concept"
+    },
+    {
+      "source": "Romeu Zema",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Voto Impresso",
+      "target_type": "concept"
+    },
+    {
+      "source": "Romeu Zema",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Governo De Minas Gerais",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "episode_id": "34748488419",
+  "title": "COMO APROVEITAR OPORTUNIDADES E EVITAR ERROS FINANCEIROS - COM HULISSES DIAS (TIO HULI) | EXTREMOS",
+  "date_published": 1719822600,
+  "duration": 5166,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Warren Buffett",
+      "role": "mentioned",
+      "company": "Berkshire Hathaway",
+      "title": "Chairman and CEO"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Hulisses Dias",
+      "role": "guest",
+      "company": "N/A",
+      "title": "Educador financeiro"
+    },
+    {
+      "name": "Pedro Scooby",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pablito",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Michael Douglas",
+      "role": "mentioned",
+      "company": "",
+      "title": "Coprodutor"
+    },
+    {
+      "name": "Cris",
+      "role": "mentioned",
+      "company": "",
+      "title": "Irmão de Hulisses Dias"
+    },
+    {
+      "name": "Marçal",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Co-fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Plataforma de educação para empresários"
+    },
+    {
+      "name": "Ortobon",
+      "industry": "Colchões e móveis",
+      "context": "Empresa fundada pelo pai de Hulisses Dias"
+    },
+    {
+      "name": "Vale",
+      "industry": "Mining",
+      "context": "Discussed in the context of stock trading and financial strategies."
+    },
+    {
+      "name": "Ibmec",
+      "industry": "Education",
+      "context": "Mentioned as the institution where Hulisses Dias studied."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Banking",
+      "context": "Discussed in the context of initial stock investments."
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Banking",
+      "context": "Discussed in the context of initial stock investments."
+    },
+    {
+      "name": "Fosfertio",
+      "industry": "Chemical",
+      "context": "Discussed in the context of initial stock investments."
+    },
+    {
+      "name": "Coteminas",
+      "industry": "Textile",
+      "context": "Discussed in the context of initial stock investments."
+    },
+    {
+      "name": "Suzano",
+      "industry": "Paper and Pulp",
+      "context": "Discussed in the context of initial stock investments."
+    },
+    {
+      "name": "Hotmart",
+      "industry": "Technology",
+      "context": "Mentioned in the context of online sales and digital platforms."
+    },
+    {
+      "name": "Hortobono",
+      "industry": "Manufacturing",
+      "context": "Discussed as the company founded by Hulisses Dias' father."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Mentioned in relation to Bill Gates"
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "industry": "Finance",
+      "context": "Mentioned in relation to Warren Buffett"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alocação de capital",
+      "category": "Estratégia financeira"
+    },
+    {
+      "name": "Inteligência financeira",
+      "category": "Educação financeira"
+    },
+    {
+      "name": "Gestão e estratégia",
+      "category": "Educação empresarial"
+    },
+    {
+      "name": "Venda de Put",
+      "category": "Financial Strategy"
+    },
+    {
+      "name": "Megatrend",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Close Friends",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "CDI",
+      "category": "Financial Metric"
+    },
+    {
+      "name": "Return on Equity",
+      "category": "Financial Metric"
+    },
+    {
+      "name": "Infoprodutor",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "MBA",
+      "category": "Educação"
+    },
+    {
+      "name": "Cultura de Vendas",
+      "category": "Gestão e Estratégia"
+    },
+    {
+      "name": "Financial habits",
+      "category": "Personal finance"
+    },
+    {
+      "name": "Wealth management",
+      "category": "Personal finance"
+    },
+    {
+      "name": "Business impact",
+      "category": "Entrepreneurship"
+    }
+  ],
+  "books": [
+    {
+      "title": "Eclesiastes",
+      "author": "Bíblia"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "R$500.000,00",
+      "context": "Perda financeira de Hulisses Dias em operações com ações da Vale"
+    },
+    {
+      "value": "R$500,000",
+      "context": "Loss incurred during stock trading after the Mariana disaster."
+    },
+    {
+      "value": "R$65,00",
+      "context": "Current stock price of Vale compared to R$10,00 before the disaster."
+    },
+    {
+      "value": "130% of CDI",
+      "context": "Target return calculated by Hulisses Dias for financial independence."
+    },
+    {
+      "value": "160,000",
+      "context": "Revenue generated during a mini-launch of Close Friends."
+    },
+    {
+      "value": "100,000",
+      "context": "Valor pago por treinamento mencionado como exemplo de comprometimento."
+    },
+    {
+      "value": "1,800,000",
+      "context": "Faturamento inicial de Hulisses Dias com conteúdo gratuito."
+    },
+    {
+      "value": "10,000,000",
+      "context": "Vendas totais realizadas com Michael Douglas."
+    },
+    {
+      "value": "1,500,000",
+      "context": "Faturamento em um lançamento específico."
+    },
+    {
+      "value": "350,000",
+      "context": "Faturamento em uma live de vendas."
+    },
+    {
+      "value": "120,000",
+      "context": "Gastos mensais mencionados por Hulisses Dias."
+    },
+    {
+      "value": "25,000 families",
+      "context": "Number of families depending on a business mentioned in the discussion"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Suzano",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Warren Buffett",
+      "target_type": "person"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Bradesco",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "studied_at",
+      "target": "Ibmec",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tio Huli",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vale",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Itaú",
+      "target_type": "company"
+    },
+    {
+      "source": "Bill Gates",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alocação De Capital",
+      "target_type": "concept"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Berkshire Hathaway",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Coteminas",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Fosfertio",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hotmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "Inteligência Financeira",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Marçal",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Hortobono",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Hotmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Banana Jack",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tio Huli",
+      "target_type": "company"
+    },
+    {
+      "source": "Hulisses Dias",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "Ortobon",
+      "target_type": "company"
+    }
+  ]
+}

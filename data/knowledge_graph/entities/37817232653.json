@@ -1,0 +1,413 @@
+{
+  "episode_id": "37817232653",
+  "title": "SEM CORPO SAUDÁVEL NÃO EXISTE ALTA PERFORMANCE COM VICTOR CASTELLO BRANCO | A JORNADA",
+  "date_published": 1748271600,
+  "duration": 5132,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Victor Castelo Branco",
+      "role": "guest",
+      "company": "Z2 Foods",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Victor Castello Branco",
+      "role": "guest",
+      "company": "Z2",
+      "title": "Founder"
+    },
+    {
+      "name": "Gabriel",
+      "role": "mentioned",
+      "company": "Bold",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno",
+      "role": "mentioned",
+      "company": "Cafeine",
+      "title": "Founder"
+    },
+    {
+      "name": "Lohan",
+      "role": "mentioned",
+      "company": "Desenchar",
+      "title": "Founder"
+    },
+    {
+      "name": "Reinaldo Colucci",
+      "role": "mentioned",
+      "company": "",
+      "title": "Triathlete"
+    },
+    {
+      "name": "André Lopes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Triathlete"
+    },
+    {
+      "name": "Reinaldo",
+      "role": "mentioned",
+      "company": "SESI",
+      "title": "Influencer"
+    },
+    {
+      "name": "André",
+      "role": "mentioned",
+      "company": "SESI",
+      "title": "Influencer"
+    },
+    {
+      "name": "Messias",
+      "role": "mentioned",
+      "company": "SESI",
+      "title": "Influencer"
+    },
+    {
+      "name": "Luísa",
+      "role": "mentioned",
+      "company": "SESI",
+      "title": "Influencer"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "Factory",
+      "title": "Owner"
+    },
+    {
+      "name": "Alexandre Borsato",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Friend"
+    },
+    {
+      "name": "Neymar",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Currieiros",
+      "industry": "Logistics",
+      "context": "Founded by Victor Castelo Branco and sold to Americanas"
+    },
+    {
+      "name": "Americanas",
+      "industry": "Retail",
+      "context": "Acquired Currieiros"
+    },
+    {
+      "name": "Z2 Foods",
+      "industry": "Food and Beverage",
+      "context": "Founded by Victor Castelo Branco, focused on endurance athletes"
+    },
+    {
+      "name": "Z2",
+      "industry": "Sports Nutrition",
+      "context": "Founded by Victor Castello Branco"
+    },
+    {
+      "name": "Bold",
+      "industry": "Unknown",
+      "context": "Mentioned by Victor Castello Branco"
+    },
+    {
+      "name": "Cafeine",
+      "industry": "Unknown",
+      "context": "Mentioned by Victor Castello Branco"
+    },
+    {
+      "name": "Desenchar",
+      "industry": "Tea Products",
+      "context": "Mentioned by Victor Castello Branco"
+    },
+    {
+      "name": "B2W",
+      "industry": "E-commerce",
+      "context": "Victor Castello Branco worked there before founding Z2"
+    },
+    {
+      "name": "Sesi",
+      "industry": "Sports and Education",
+      "context": "Mentioned as an organization where influencers like Reinaldo, André, Messias, and Luísa are involved."
+    },
+    {
+      "name": "Factory",
+      "industry": "Manufacturing",
+      "context": "Operates as a supplier for Z2, owned by João."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Earn Out",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Last Mile Logistics",
+      "category": "Logistics"
+    },
+    {
+      "name": "Endurance Sports",
+      "category": "Sports"
+    },
+    {
+      "name": "Earn-out",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Triathlon",
+      "category": "Sports"
+    },
+    {
+      "name": "Ironman",
+      "category": "Sports"
+    },
+    {
+      "name": "Community Building",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Product Development",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Logistics Business",
+      "category": "Industry"
+    },
+    {
+      "name": "CNPJ Structuring",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Crisis Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "verticalização da operação",
+      "category": "business strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Ironman on June 1st",
+      "context": "Victor Castelo Branco's personal goal"
+    },
+    {
+      "value": "Founded Currieiros and sold to Americanas",
+      "context": "Victor Castelo Branco's entrepreneurial achievements"
+    },
+    {
+      "value": "Two years",
+      "context": "Time taken by Desenchar to launch its first product"
+    },
+    {
+      "value": "May 2020",
+      "context": "Victor Castello Branco resigned from B2W to focus on Z2"
+    },
+    {
+      "value": "Nine hours",
+      "context": "Duration of an Ironman competition."
+    },
+    {
+      "value": "Seven years",
+      "context": "Duration Victor spent building a logistics business."
+    },
+    {
+      "value": "1 mês",
+      "context": "tempo sem faturar devido a problemas nas embalagens"
+    },
+    {
+      "value": "1 a cada 1000",
+      "context": "taxa de ocorrência de problemas nas embalagens"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ironman",
+      "target_type": "concept"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Z2",
+      "target_type": "company"
+    },
+    {
+      "source": "Luísa",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Sesi",
+      "target_type": "company"
+    },
+    {
+      "source": "Currieiros",
+      "source_type": "company",
+      "relation": "sold_to",
+      "target": "Americanas",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Triathlon",
+      "target_type": "concept"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Z2",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "B2W",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Reinaldo Colucci",
+      "target_type": "person"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Triathlon",
+      "target_type": "concept"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Factory",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Earn-Out",
+      "target_type": "concept"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Lohan",
+      "target_type": "person"
+    },
+    {
+      "source": "Reinaldo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Sesi",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Castelo Branco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Z2 Foods",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Z2",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Verticalização Da Operação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bruno",
+      "target_type": "person"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "André Lopes",
+      "target_type": "person"
+    },
+    {
+      "source": "Messias",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Sesi",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ironman",
+      "target_type": "concept"
+    },
+    {
+      "source": "André",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Sesi",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Product Development",
+      "target_type": "concept"
+    },
+    {
+      "source": "Victor Castelo Branco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Currieiros",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gabriel",
+      "target_type": "person"
+    },
+    {
+      "source": "Victor Castello Branco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Community Building",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,892 @@
+{
+  "episode_id": "46538877636",
+  "title": "ERICO ROCHA: O HOMEM QUE ENSINOU LANÇAMENTOS NO BRASIL | EXTREMOS",
+  "date_published": 1765378800,
+  "duration": 6058,
+  "chunks_processed": 9,
+  "people": [
+    {
+      "name": "Érico Rocha",
+      "role": "guest",
+      "company": "Fórmula de Lançamento",
+      "title": "Fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio e Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio e Host"
+    },
+    {
+      "name": "Flávio Passos",
+      "role": "mentioned",
+      "company": "Low Ego",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Pablo Marçal",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Diogo",
+      "role": "mentioned",
+      "company": "Fluence Pass",
+      "title": ""
+    },
+    {
+      "name": "Erico Rocha",
+      "role": "guest",
+      "company": "Fórmula de Lançamento",
+      "title": "Fundador"
+    },
+    {
+      "name": "Tiago Nigro",
+      "role": "mentioned",
+      "company": "Primo Rico",
+      "title": "Fundador"
+    },
+    {
+      "name": "Leandro Ladeira",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Perini",
+      "role": "mentioned",
+      "company": "Você MAIS Rico",
+      "title": "Fundador"
+    },
+    {
+      "name": "Jeff Walker",
+      "role": "mentioned",
+      "company": "Product Launch Formula",
+      "title": "Criador"
+    },
+    {
+      "name": "Hugo Rocha",
+      "role": "mentioned",
+      "company": "Fórmula de Lançamento",
+      "title": "Sócio"
+    },
+    {
+      "name": "Tiago Nigo",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "CVO"
+    },
+    {
+      "name": "Lázaro",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Rodrigo Góes",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Fake Neri"
+    },
+    {
+      "name": "Ladeirinha",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Thiago Nigro",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Gary Vaynerchuk",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Especialista em marketing e criação de audiência"
+    },
+    {
+      "name": "Weber Carvalho",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Flávio Augusto",
+      "role": "mentioned",
+      "company": "Pura Vida",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Gary Vee",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Empreendedor e Comunicador"
+    },
+    {
+      "name": "Pedro Superte",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em Diferenciação"
+    },
+    {
+      "name": "Thiago",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Denner",
+      "role": "mentioned",
+      "company": "V4 Company",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Flávio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marcos Marques",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Ed Sheeran",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cantor e Compositor"
+    },
+    {
+      "name": "Howard Stern",
+      "role": "mentioned",
+      "company": "",
+      "title": "Apresentador de Podcast"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Fórmula De Lançamento",
+      "industry": "Marketing Digital",
+      "context": "Método de lançamento de produtos digitais"
+    },
+    {
+      "name": "Hotmart",
+      "industry": "Tecnologia e Educação",
+      "context": "Plataforma de venda de produtos digitais"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Podcast e plataforma de educação empresarial"
+    },
+    {
+      "name": "Fluence Pass",
+      "industry": "Educação",
+      "context": "Curso de inglês"
+    },
+    {
+      "name": "Low Ego",
+      "industry": "Empreendedorismo",
+      "context": "Empreendimento de Flávio Passos"
+    },
+    {
+      "name": "Primo Rico",
+      "industry": "Educação Financeira",
+      "context": "Empresa de Tiago Nigro"
+    },
+    {
+      "name": "Você Mais Rico",
+      "industry": "Educação Financeira",
+      "context": "Empresa de Bruno Perini"
+    },
+    {
+      "name": "Product Launch Formula",
+      "industry": "Educação e Marketing Digital",
+      "context": "Método criado por Jeff Walker"
+    },
+    {
+      "name": "Puríssima",
+      "industry": "Health and Wellness",
+      "context": "Founded by Érico Rocha and Flávio Passos, focusing on intelligent supplementation."
+    },
+    {
+      "name": "Nestlé",
+      "industry": "Food and Beverage",
+      "context": "Mentioned as acquiring a company from Flávio Passos."
+    },
+    {
+      "name": "Brasil Paralelo",
+      "industry": "Media and Education",
+      "context": "Invested in by Érico Rocha, mentioned as using the formula de lançamento."
+    },
+    {
+      "name": "Ignição Digital",
+      "industry": "Education",
+      "context": "Érico Rocha's group of companies in the education sector."
+    },
+    {
+      "name": "Fht",
+      "industry": "Education",
+      "context": "Part of Érico Rocha's investments in education."
+    },
+    {
+      "name": "Ultralize",
+      "industry": "Education",
+      "context": "Part of Érico Rocha's investments in education."
+    },
+    {
+      "name": "Não Especificado",
+      "industry": "Educação",
+      "context": "Mercado de cursos e treinamentos"
+    },
+    {
+      "name": "Pura Vida",
+      "industry": "Saúde e Bem-estar",
+      "context": "Empresa fundada por Flávio Augusto e vendida por centenas de milhões de reais"
+    },
+    {
+      "name": "V4 Company",
+      "industry": "Marketing Digital",
+      "context": "Modelo de negócio inovador e estratégia de bolhas empresariais"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marketing Digital",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Fórmula de Lançamento",
+      "category": "Método de Negócios"
+    },
+    {
+      "name": "Desenvolvimento Pessoal",
+      "category": "Educação e Crescimento"
+    },
+    {
+      "name": "Live Streaming",
+      "category": "Ferramenta de Comunicação"
+    },
+    {
+      "name": "Lives no Instagram",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Engajamento de audiência",
+      "category": "Métrica de Marketing"
+    },
+    {
+      "name": "6 em 7",
+      "category": "Estratégia de Lançamento"
+    },
+    {
+      "name": "Alavancas de crescimento",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Produção de conteúdo consistente",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Processo de criação de conteúdo",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Método de Lançamento",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Royalties",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Homeschooling",
+      "category": "Educação"
+    },
+    {
+      "name": "Copywriting",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Mastermind",
+      "category": "Networking e Aprendizado"
+    },
+    {
+      "name": "Dark Side of the Moon",
+      "category": "Metáfora e Cultura"
+    },
+    {
+      "name": "Verticalization",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Efficiency Operational",
+      "category": "Business Concept"
+    },
+    {
+      "name": "CVO (Chief Visionary Officer)",
+      "category": "Business Role"
+    },
+    {
+      "name": "Burn Rate",
+      "category": "Financial Metric"
+    },
+    {
+      "name": "Open Doors",
+      "category": "Financial Strategy"
+    },
+    {
+      "name": "36 meses de caixa",
+      "category": "Financial Strategy"
+    },
+    {
+      "name": "Margem líquida",
+      "category": "Financial Metric"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Lançamentos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Criação de audiência",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Inteligência coletiva",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Comunicação Estratégica",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Psicologia Aplicada ao Marketing",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Lançamento",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Bolhas empresariais",
+      "category": "Estratégia de Mercado"
+    },
+    {
+      "name": "Gatilhos mentais",
+      "category": "Psicologia e Marketing"
+    },
+    {
+      "name": "Desconto como ferramenta de vendas",
+      "category": "Estratégia de Precificação"
+    },
+    {
+      "name": "Repertório",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Elevator Pitch",
+      "category": "Comunicação e Vendas"
+    },
+    {
+      "name": "YouTube",
+      "category": "Plataforma de Conteúdo"
+    },
+    {
+      "name": "Instagram",
+      "category": "Plataforma de Conteúdo"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dark Side of the Moon",
+      "author": "Pink Floyd"
+    },
+    {
+      "title": "Fórmula de Lançamento",
+      "author": "Érico Rocha"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "23 milhões de reais",
+      "context": "Maior lançamento da Fórmula de Lançamento"
+    },
+    {
+      "value": "64 milhões de reais",
+      "context": "Maior Black Friday na Hotmart"
+    },
+    {
+      "value": "5 mil dólares",
+      "context": "Investimento inicial no curso de Fórmula de Lançamento"
+    },
+    {
+      "value": "360 dias por ano",
+      "context": "Frequência de lives realizadas por Érico Rocha"
+    },
+    {
+      "value": "7 anos",
+      "context": "Tempo de realização de lives diárias por Erico Rocha"
+    },
+    {
+      "value": "360 dias por ano",
+      "context": "Frequência de lives realizadas por Erico Rocha"
+    },
+    {
+      "value": "9 dígitos",
+      "context": "Faturamento do negócio de Erico Rocha"
+    },
+    {
+      "value": "65%",
+      "context": "Clientes iniciantes no empreendedorismo atendidos por Erico Rocha"
+    },
+    {
+      "value": "35%",
+      "context": "Empreendedores experientes atendidos por Erico Rocha"
+    },
+    {
+      "value": "10 mil a 20 mil visualizações",
+      "context": "Alcance médio das lives de Erico Rocha"
+    },
+    {
+      "value": "23 milhões de reais",
+      "context": "Maior lançamento da Fórmula de Lançamento"
+    },
+    {
+      "value": "64 milhões de reais",
+      "context": "Maior Black Friday na Hotmart"
+    },
+    {
+      "value": "40 milhões de reais",
+      "context": "Faturamento nas primeiras 24 horas de um lançamento"
+    },
+    {
+      "value": "53 alunos",
+      "context": "Primeiro lançamento da Fórmula de Lançamento em 2013"
+    },
+    {
+      "value": "52 times EBITDA",
+      "context": "Transaction value for Flávio Passos' company sold to Nestlé."
+    },
+    {
+      "value": "12 million reais",
+      "context": "Investment in a factory for Puríssima."
+    },
+    {
+      "value": "163 milhões de reais",
+      "context": "Faturamento anual da empresa de Érico Rocha em 2022"
+    },
+    {
+      "value": "41%",
+      "context": "Margem líquida da empresa de Érico Rocha em 2022"
+    },
+    {
+      "value": "155",
+      "context": "Número de funcionários na empresa de Érico Rocha"
+    },
+    {
+      "value": "104 membros",
+      "context": "Número de participantes no grupo 10+ de Mastermind"
+    },
+    {
+      "value": "Seis dígitos a mais de dez milhões por ano",
+      "context": "Faixas de faturamento dos grupos de Mastermind"
+    },
+    {
+      "value": "800 mil",
+      "context": "Número de assinantes ativos da Brasil Paralelo"
+    },
+    {
+      "value": "400 milhões",
+      "context": "Faturamento anual estimado de Weber Carvalho"
+    },
+    {
+      "value": "53 milhões",
+      "context": "Valor de um lançamento realizado por Weber Carvalho"
+    },
+    {
+      "value": "3 bilhões",
+      "context": "Faturamento discutido como objetivo de negócios"
+    },
+    {
+      "value": "5 mil dólares",
+      "context": "Custo da compra da Fórmula de Lançamento"
+    },
+    {
+      "value": "365 vídeos",
+      "context": "Quantidade de vídeos publicados no YouTube por Érico Rocha"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Desconto Como Ferramenta De Vendas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Criação De Audiência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Puríssima",
+      "target_type": "company"
+    },
+    {
+      "source": "Erico Rocha",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gary Vee",
+      "target_type": "person"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hotmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Fórmula De Lançamento",
+      "target_type": "company"
+    },
+    {
+      "source": "Erico Rocha",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bruno Perini",
+      "target_type": "person"
+    },
+    {
+      "source": "Erico Rocha",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Flávio Augusto",
+      "target_type": "person"
+    },
+    {
+      "source": "Erico Rocha",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Weber Carvalho",
+      "target_type": "person"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Brasil Paralelo",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Marketing Digital",
+      "target_type": "concept"
+    },
+    {
+      "source": "Denner",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "V4 Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hotmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Nigro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Primo Rico",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lançamentos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Brasil Paralelo",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mastermind",
+      "target_type": "concept"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marketing Digital",
+      "target_type": "concept"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Youtube",
+      "target_type": "concept"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Fórmula De Lançamento",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Puríssima",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Burn Rate",
+      "target_type": "concept"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ladeirinha",
+      "target_type": "person"
+    },
+    {
+      "source": "Flávio Passos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Puríssima",
+      "target_type": "company"
+    },
+    {
+      "source": "Gary Vaynerchuk",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Criação De Audiência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Flávio Passos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Low Ego",
+      "target_type": "company"
+    },
+    {
+      "source": "Jeff Walker",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Product Launch Formula",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Coletiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "36 Meses De Caixa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lançamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Open Doors",
+      "target_type": "concept"
+    },
+    {
+      "source": "Erico Rocha",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Fórmula De Lançamento",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Você Mais Rico",
+      "target_type": "company"
+    },
+    {
+      "source": "Hugo Rocha",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Fórmula De Lançamento",
+      "target_type": "company"
+    },
+    {
+      "source": "V4 Company",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Fórmula De Lançamento",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Fht",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Instagram",
+      "target_type": "concept"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tiago Nigo",
+      "target_type": "person"
+    },
+    {
+      "source": "Erico Rocha",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tiago Nigro",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rodrigo Góes",
+      "target_type": "person"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ignição Digital",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Lázaro",
+      "target_type": "person"
+    },
+    {
+      "source": "Erico Rocha",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Leandro Ladeira",
+      "target_type": "person"
+    },
+    {
+      "source": "Erico Rocha",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jeff Walker",
+      "target_type": "person"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Ultralize",
+      "target_type": "company"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Jeff Walker",
+      "target_type": "person"
+    },
+    {
+      "source": "Flávio Augusto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Pura Vida",
+      "target_type": "company"
+    },
+    {
+      "source": "Diogo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Fluence Pass",
+      "target_type": "company"
+    }
+  ]
+}

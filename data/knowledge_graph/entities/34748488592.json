@@ -1,0 +1,522 @@
+{
+  "episode_id": "34748488592",
+  "title": "Joel Jota - Qual é a prioridade de um dos maiores influenciadores do país | Extremos",
+  "date_published": 1685521807,
+  "duration": 8103,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio e fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Joel Jota",
+      "role": "guest",
+      "company": "Grupo J",
+      "title": "Empresário, influenciador digital, professor, mentor e educador"
+    },
+    {
+      "name": "Lalas",
+      "role": "mentioned",
+      "company": "",
+      "title": "Esposa de Joel Jota"
+    },
+    {
+      "name": "Tony Robbins",
+      "role": "mentioned",
+      "company": "",
+      "title": "Motivational Speaker"
+    },
+    {
+      "name": "Marcos Mion",
+      "role": "mentioned",
+      "company": "",
+      "title": "TV Host"
+    },
+    {
+      "name": "Daniel Castanho",
+      "role": "mentioned",
+      "company": "Ânima Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Marquinhos",
+      "role": "mentioned",
+      "company": "",
+      "title": "Friend"
+    },
+    {
+      "name": "Lala",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rosa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fábio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Renata",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Paulinha",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Grazi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Paulinho Mosca",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thiago Nigro",
+      "role": "mentioned",
+      "company": "Grupo Primo",
+      "title": "Fundador"
+    },
+    {
+      "name": "Bruno Perini",
+      "role": "mentioned",
+      "company": "Grupo Primo",
+      "title": "Sócio"
+    },
+    {
+      "name": "Larissa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Relacionada a Joel Jota"
+    },
+    {
+      "name": "Malu Perini",
+      "role": "mentioned",
+      "company": "Grupo Primo",
+      "title": "Sócia"
+    },
+    {
+      "name": "Bernardinho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e negócios",
+      "context": "Empresa cofundada por Alfredo Soares e Bruno Nardon, foco em educação empresarial"
+    },
+    {
+      "name": "Grupo Primo",
+      "industry": "Educação financeira",
+      "context": "Empresa da qual Joel Jota foi sócio"
+    },
+    {
+      "name": "Grupo J",
+      "industry": "Alta performance e lifestyle",
+      "context": "Empresa liderada por Joel Jota"
+    },
+    {
+      "name": "J Company",
+      "industry": "Health and Performance",
+      "context": "Joel Jota's centralized brand ecosystem"
+    },
+    {
+      "name": "Ânima Educação",
+      "industry": "Education",
+      "context": "Mentioned in the podcast"
+    },
+    {
+      "name": "Finclass",
+      "industry": "Educação Financeira",
+      "context": "Iniciativa do Grupo Primo para educação financeira."
+    },
+    {
+      "name": "Stage",
+      "industry": "Educação e Eventos",
+      "context": "Iniciativa do Grupo Primo para eventos e treinamentos."
+    },
+    {
+      "name": "Start",
+      "industry": "Educação e Negócios",
+      "context": "Iniciativa do Grupo Primo para startups e negócios."
+    },
+    {
+      "name": "Speech",
+      "industry": "Educação e Comunicação",
+      "context": "Iniciativa do Grupo Primo para comunicação e oratória."
+    },
+    {
+      "name": "Grão",
+      "industry": "Educação Financeira",
+      "context": "Iniciativa do Grupo Primo para microinvestimentos."
+    },
+    {
+      "name": "Top Invest",
+      "industry": "Educação Financeira",
+      "context": "Iniciativa do Grupo Primo para investimentos."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta performance",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Construção de valor",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Monetização",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Equity",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Marca pessoal",
+      "category": "Marketing"
+    },
+    {
+      "name": "Planejamento diário",
+      "category": "Produtividade"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Audience Building",
+      "category": "Marketing"
+    },
+    {
+      "name": "High Performance",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Organic Growth",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "ROE",
+      "category": "Métrica Financeira"
+    },
+    {
+      "name": "Escala",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Growth",
+      "category": "Estratégia de Crescimento"
+    },
+    {
+      "name": "Produção de Conteúdo",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Eventos Presenciais",
+      "category": "Marketing e Engajamento"
+    },
+    {
+      "name": "Compliance",
+      "category": "Governança Corporativa"
+    },
+    {
+      "name": "Due Diligence",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Marketing e Finanças"
+    },
+    {
+      "name": "Gestão de Emoções",
+      "category": "Saúde e Comportamento"
+    },
+    {
+      "name": "Performance",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "life equity",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "lançamento",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "gestão das emoções",
+      "category": "Psicologia e Saúde"
+    },
+    {
+      "name": "partnership",
+      "category": "Modelos de Negócios"
+    },
+    {
+      "name": "storytelling",
+      "category": "estratégia de comunicação"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bora Vender",
+      "author": "Alfredo Soares"
+    },
+    {
+      "title": "Bora Varejo",
+      "author": "Alfredo Soares"
+    },
+    {
+      "title": "Meu Amor é Cego",
+      "author": "Unknown"
+    },
+    {
+      "title": "Invencível",
+      "author": "Bernardinho"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "29 milhões de contas por mês",
+      "context": "Alcance de Joel Jota no Instagram"
+    },
+    {
+      "value": "4 milhões de visualizações",
+      "context": "Corte de podcast com Joel Jota"
+    },
+    {
+      "value": "130,000",
+      "context": "Total students in Joel Jota's educational programs"
+    },
+    {
+      "value": "72,000",
+      "context": "Previous count of students in Joel Jota's programs"
+    },
+    {
+      "value": "20 mil pessoas",
+      "context": "Número de participantes no projeto 'Senha'."
+    },
+    {
+      "value": "300 funcionários",
+      "context": "Número de funcionários no Grupo Primo durante a gestão de Joel Jota."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rosa",
+      "target_type": "person"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Compliance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Primo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Lalas",
+      "target_type": "person"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Marquinhos",
+      "target_type": "person"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Roe",
+      "target_type": "concept"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "J Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Emoções",
+      "target_type": "concept"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo J",
+      "target_type": "company"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Produção De Conteúdo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Thiago Nigro",
+      "target_type": "person"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ânima Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bernardinho",
+      "target_type": "person"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Bruno Perini",
+      "target_type": "person"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Eventos Presenciais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Life Equity",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Equity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo J",
+      "target_type": "company"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Paulinho Mosca",
+      "target_type": "person"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Due Diligence",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Nigro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Primo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Primo",
+      "target_type": "company"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Equity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Malu Perini",
+      "target_type": "person"
+    }
+  ]
+}

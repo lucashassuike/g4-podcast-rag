@@ -1,0 +1,324 @@
+{
+  "episode_id": "34748488437",
+  "title": "COMO LIDERAR EM MARÉS DIFÍCEIS - COM CARLOS BURLE | EXTREMOS",
+  "date_published": 1716366600,
+  "duration": 4752,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Carlos Burle",
+      "role": "guest",
+      "company": "Burle Experience",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Pedro De Cour",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Felipe Cesarano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Maia Gaveira",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ayrton Senna",
+      "role": "mentioned",
+      "company": "",
+      "title": "Piloto de Fórmula 1"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts of the podcast and sponsors of G4 Skills"
+    },
+    {
+      "name": "Burle Experience",
+      "industry": "Sports and Adventure",
+      "context": "Founded by Carlos Burle"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "OPM (Owner/President Management)",
+      "category": "Education"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Business Development"
+    },
+    {
+      "name": "Teamwork",
+      "category": "Leadership"
+    },
+    {
+      "name": "Technology in Surfing",
+      "category": "Innovation"
+    },
+    {
+      "name": "Legacy Building",
+      "category": "Leadership"
+    },
+    {
+      "name": "zona de conforto",
+      "category": "psicologia e desenvolvimento pessoal"
+    },
+    {
+      "name": "legado",
+      "category": "liderança e impacto"
+    },
+    {
+      "name": "empreendedorismo esportivo",
+      "category": "negócios e esportes"
+    },
+    {
+      "name": "treinamento de apneia",
+      "category": "preparação física"
+    },
+    {
+      "name": "ondas gigantes",
+      "category": "surf e esportes radicais"
+    },
+    {
+      "name": "Construção de Autoridade",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Disciplina e Foco",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Condicionamento Mental",
+      "category": "Psicologia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Habilidade"
+    },
+    {
+      "name": "Foco",
+      "category": "Habilidade"
+    },
+    {
+      "name": "Determinação",
+      "category": "Habilidade"
+    },
+    {
+      "name": "Ambientes Estressantes",
+      "category": "Conceito"
+    },
+    {
+      "name": "Coragem",
+      "category": "Habilidade"
+    }
+  ],
+  "books": [
+    {
+      "title": "Profissão Surfista",
+      "author": "Carlos Burle"
+    },
+    {
+      "title": "Hábitos Atômicos",
+      "author": "James Clear"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "22.6 meters",
+      "context": "Height of a wave surfed by Carlos Burle in Mavericks"
+    },
+    {
+      "value": "30 meters",
+      "context": "Height of a wave surfed by Carlos Burle in Nazaré"
+    },
+    {
+      "value": "5 minutos e 45 segundos",
+      "context": "recorde pessoal de apneia estática de Carlos Burle"
+    },
+    {
+      "value": "40 anos",
+      "context": "Tempo de experiência de Carlos Burle como surfista de ondas grandes"
+    },
+    {
+      "value": "3 metros e meio",
+      "context": "Altura da maior onda surfada na Macumba, Rio de Janeiro"
+    },
+    {
+      "value": "20 a 30 metros",
+      "context": "Altura das maiores ondas surfadas por Carlos Burle"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ambientes Estressantes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Technology In Surfing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Foco",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Resiliência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Legacy Building",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Teamwork",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Coragem",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Disciplina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ayrton Senna",
+      "target_type": "person"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Profissão Surfista",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Determinação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Burle Experience",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Hábitos Atômicos",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Carlos Burle",
+      "target_type": "person"
+    }
+  ]
+}

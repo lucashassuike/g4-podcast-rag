@@ -1,0 +1,259 @@
+{
+  "episode_id": "34748488427",
+  "title": "COMO ENFRENTAR A JORNADA ATÉ O TOPO - COM DANIEL DE OLIVEIRA | EXTREMOS",
+  "date_published": 1718247900,
+  "duration": 3603,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Daniel De Oliveira",
+      "role": "guest",
+      "company": "Associação Internacional de Ultra Triatlon",
+      "title": "Ultramaratonista"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Sérgio Cordeiro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Betz Knechtel",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gulben Trista",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma mencionada no contexto de desenvolvimento de habilidades e mentoria"
+    },
+    {
+      "name": "Associação Internacional De Ultra Triatlon",
+      "industry": "Esportes",
+      "context": "Daniel de Oliveira é vice-presidente da organização."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Ironman",
+      "category": "Esporte de resistência"
+    },
+    {
+      "name": "Ultramaratona",
+      "category": "Esporte de resistência"
+    },
+    {
+      "name": "Planejamento com objetivos e metas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Abstinência de sono",
+      "category": "Técnica de treinamento extremo"
+    },
+    {
+      "name": "gestão de dor",
+      "category": "estratégia de resiliência"
+    },
+    {
+      "name": "triathlon",
+      "category": "esporte"
+    },
+    {
+      "name": "maratona",
+      "category": "esporte"
+    },
+    {
+      "name": "musculação pesada",
+      "category": "treinamento físico"
+    },
+    {
+      "name": "Ultra Triathlon",
+      "category": "Esportes"
+    },
+    {
+      "name": "Double Deca",
+      "category": "Esportes"
+    },
+    {
+      "name": "Destruindo o Impossível",
+      "category": "Motivação"
+    }
+  ],
+  "books": [
+    {
+      "title": "Destruindo o Impossível",
+      "author": "Daniel de Oliveira"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "422 km",
+      "context": "Distância corrida por Daniel de Oliveira com uma perna"
+    },
+    {
+      "value": "76 km",
+      "context": "Distância nadada por Daniel de Oliveira"
+    },
+    {
+      "value": "51 horas",
+      "context": "Tempo levado por Daniel de Oliveira para completar uma prova de natação"
+    },
+    {
+      "value": "40 horas",
+      "context": "Tempo reduzido por Daniel de Oliveira em uma segunda tentativa de natação"
+    },
+    {
+      "value": "114 km",
+      "context": "Distância de natação em prova de Ironman contínuo"
+    },
+    {
+      "value": "5.400 km",
+      "context": "Distância de ciclismo em prova de Ironman contínuo"
+    },
+    {
+      "value": "1.266 km",
+      "context": "Distância de corrida em prova de Ironman contínuo"
+    },
+    {
+      "value": "422km",
+      "context": "distância corrida por Daniel de Oliveira com uma perna lesionada"
+    },
+    {
+      "value": "120km",
+      "context": "distância corrida por Daniel de Oliveira com uma perna lesionada antes de piorar a lesão"
+    },
+    {
+      "value": "3 horas e 5 minutos",
+      "context": "tempo de conclusão da maratona de Miami por Daniel de Oliveira após lesão"
+    },
+    {
+      "value": "28 anos",
+      "context": "tempo de experiência de Daniel de Oliveira em esportes"
+    },
+    {
+      "value": "314 Ironman",
+      "context": "Betz Knechtel possui 314 provas de Ironman no currículo."
+    },
+    {
+      "value": "3.600 km",
+      "context": "Distância do Double Deca mencionada."
+    },
+    {
+      "value": "19 km nadados, 900 km pedalados, 211 km corridos",
+      "context": "Prova realizada por Sérgio Cordeiro aos 69 anos."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Daniel De Oliveira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Associação Internacional De Ultra Triatlon",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel De Oliveira",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ironman",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Betz Knechtel",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ironman",
+      "target_type": "concept"
+    },
+    {
+      "source": "Daniel De Oliveira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Destruindo O Impossível",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sérgio Cordeiro",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ironman",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gulben Trista",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ironman",
+      "target_type": "concept"
+    },
+    {
+      "source": "Daniel De Oliveira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Daniel De Oliveira",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ultramaratona",
+      "target_type": "concept"
+    },
+    {
+      "source": "Daniel De Oliveira",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Destruindo O Impossível",
+      "target_type": "concept"
+    }
+  ]
+}

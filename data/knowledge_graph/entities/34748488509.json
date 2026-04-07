@@ -1,0 +1,309 @@
+{
+  "episode_id": "34748488509",
+  "title": "Decifrando o Crescimento da Franquia O Boticário - Com Artur Grynbaum | Papo de Gestão",
+  "date_published": 1699864200,
+  "duration": 3635,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Artur Grynbaum",
+      "role": "guest",
+      "company": "Grupo Boticário",
+      "title": "Vice-presidente do Conselho e Sócio"
+    },
+    {
+      "name": "Miguel Krigsner",
+      "role": "mentioned",
+      "company": "Grupo Boticário",
+      "title": "Fundador"
+    },
+    {
+      "name": "Caíto Maia",
+      "role": "mentioned",
+      "company": "Chili Beans",
+      "title": "Fundador"
+    },
+    {
+      "name": "Miguel Milano",
+      "role": "mentioned",
+      "company": "Fundação Boticário",
+      "title": "Presidente"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Miguel",
+      "role": "mentioned",
+      "company": "O Boticário",
+      "title": "Presidente do Conselho"
+    },
+    {
+      "name": "Bruno",
+      "role": "host",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de treinamento de times e gestão"
+    },
+    {
+      "name": "Grupo Boticário",
+      "industry": "Beleza e Cosméticos",
+      "context": "Maior franquia de beleza e cosméticos do mundo"
+    },
+    {
+      "name": "Chili Beans",
+      "industry": "Óculos e Acessórios",
+      "context": "Empresa mencionada como exemplo de sucesso em franquias"
+    },
+    {
+      "name": "Eudora",
+      "industry": "Cosméticos e Beleza",
+      "context": "Parte do Grupo Boticário, mencionada como unidade de negócio"
+    },
+    {
+      "name": "Quem Disse, Berenice",
+      "industry": "Cosméticos e Beleza",
+      "context": "Parte do Grupo Boticário, mencionada como unidade de negócio"
+    },
+    {
+      "name": "Vult",
+      "industry": "Cosméticos e Beleza",
+      "context": "Aquisição pelo Grupo Boticário"
+    },
+    {
+      "name": "Dr. Jones",
+      "industry": "Cosméticos e Beleza",
+      "context": "Aquisição pelo Grupo Boticário"
+    },
+    {
+      "name": "Trust",
+      "industry": "Cosméticos e Beleza",
+      "context": "Aquisição pelo Grupo Boticário"
+    },
+    {
+      "name": "Ui",
+      "industry": "Alta Perfumaria",
+      "context": "Desenvolvida pelo Grupo Boticário na França"
+    },
+    {
+      "name": "Beleza Na Web",
+      "industry": "E-commerce de Cosméticos",
+      "context": "Aquisição pelo Grupo Boticário"
+    },
+    {
+      "name": "O Boticário",
+      "industry": "Cosméticos",
+      "context": "Empresa familiar discutida no episódio"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Treinamento de equipes",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Modelo de franquias",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Inovação",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Foco no consumidor",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "ESG (Environmental, Social, and Governance)",
+      "category": "Sustentabilidade e Governança"
+    },
+    {
+      "name": "Modelo Matricial",
+      "category": "Estratégia Organizacional"
+    },
+    {
+      "name": "Jornadas de Consumidor",
+      "category": "Estratégia de Experiência do Cliente"
+    },
+    {
+      "name": "Plano Real",
+      "category": "Contexto Econômico"
+    },
+    {
+      "name": "Unidade de Negócio",
+      "category": "Estratégia Organizacional"
+    },
+    {
+      "name": "Gestão profissionalizada",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Dança dos chapéus",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Empresa familiar",
+      "category": "Modelo de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "46 anos",
+      "context": "Tempo de existência do Grupo Boticário"
+    },
+    {
+      "value": "13 anos",
+      "context": "Tempo de Artur Grynbaum como CEO do Grupo Boticário"
+    },
+    {
+      "value": "2 mil lojas",
+      "context": "Meta alcançada pelo Grupo Boticário no ano 2000"
+    },
+    {
+      "value": "800 pessoas",
+      "context": "Movimentação de funcionários durante reestruturação organizacional"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Artur Grynbaum",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Boticário",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Boticário",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Beleza Na Web",
+      "target_type": "company"
+    },
+    {
+      "source": "Artur Grynbaum",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Miguel",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Boticário",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ui",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel Milano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Fundação Boticário",
+      "target_type": "company"
+    },
+    {
+      "source": "Artur Grynbaum",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "O Boticário",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Boticário",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Trust",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Boticário",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Quem Disse, Berenice",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Boticário",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Vult",
+      "target_type": "company"
+    },
+    {
+      "source": "Caíto Maia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Chili Beans",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "O Boticário",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel Krigsner",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Boticário",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Boticário",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dr. Jones",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Boticário",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Eudora",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Boticário",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Cosméticos E Beleza",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "episode_id": "40455338414",
+  "title": "[CORTE] \"A GENTE VIU QUE O CLIENTE ERA MUITO COMPLICADO\" EXPLICA VINICIUS MOTTA",
+  "date_published": 1753477200,
+  "duration": 661,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Vinicius Motta",
+      "role": "guest",
+      "company": "Minha Casa Financiada",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Minha Casa Financiada",
+      "industry": "Real Estate",
+      "context": "Operates in the real estate sector, focusing on building and selling houses."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Finance",
+      "context": "Mentioned as distributing investment opportunities related to real estate."
+    },
+    {
+      "name": "Amazon Prime",
+      "industry": "Media and Entertainment",
+      "context": "Platform where the reality series will be available in 2025."
+    },
+    {
+      "name": "Redetv",
+      "industry": "Media and Entertainment",
+      "context": "Broadcasted the reality series related to Minha Casa Financiada."
+    },
+    {
+      "name": "Lifetime",
+      "industry": "Media and Entertainment",
+      "context": "Channel where the reality series will be aired."
+    },
+    {
+      "name": "History Channel",
+      "industry": "Media and Entertainment",
+      "context": "Related to Lifetime, mentioned in the context of airing the reality series."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Real Estate Development",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Audience Engagement",
+      "category": "Marketing"
+    },
+    {
+      "name": "Reality Series",
+      "category": "Media Production"
+    },
+    {
+      "name": "Investment Funds",
+      "category": "Finance"
+    },
+    {
+      "name": "VGV (Valor Geral de Vendas)",
+      "category": "Real Estate Metrics"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "28% to 30%",
+      "context": "Average profit margin for construction projects without third-party capital."
+    },
+    {
+      "value": "18% to 20%",
+      "context": "Profit margin when using third-party capital."
+    },
+    {
+      "value": "12 million",
+      "context": "Example house selling price."
+    },
+    {
+      "value": "5 million",
+      "context": "Cost of producing the reality series."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Minha Casa Financiada",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "History Channel",
+      "target_type": "company"
+    },
+    {
+      "source": "Minha Casa Financiada",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Amazon Prime",
+      "target_type": "company"
+    },
+    {
+      "source": "Minha Casa Financiada",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Redetv",
+      "target_type": "company"
+    },
+    {
+      "source": "Minha Casa Financiada",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Minha Casa Financiada",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Lifetime",
+      "target_type": "company"
+    },
+    {
+      "source": "Vinicius Motta",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Minha Casa Financiada",
+      "target_type": "company"
+    }
+  ]
+}

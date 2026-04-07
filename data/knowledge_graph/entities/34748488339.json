@@ -1,0 +1,268 @@
+{
+  "episode_id": "34748488339",
+  "title": "AS PRINCIPAIS CARACTERÍSTICAS DE UM CAMPEÃO COM FÁBIO GURGEL | VOX LUMINIS",
+  "date_published": 1740427200,
+  "duration": 5313,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Fábio Gurgel",
+      "role": "guest",
+      "company": "Aliança",
+      "title": "CEO"
+    },
+    {
+      "name": "Jerry Bolander",
+      "role": "mentioned",
+      "company": "UFC",
+      "title": "Fighter"
+    },
+    {
+      "name": "Michael",
+      "role": "mentioned",
+      "company": "",
+      "title": "Competitor"
+    },
+    {
+      "name": "Leandro Loda",
+      "role": "mentioned",
+      "company": "",
+      "title": "Competitor"
+    },
+    {
+      "name": "Marcela",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bochecha",
+      "role": "mentioned",
+      "company": "",
+      "title": "Competitor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla, SpaceX",
+      "title": "CEO"
+    },
+    {
+      "name": "David Sachs",
+      "role": "mentioned",
+      "company": "Craft Ventures",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Mark Andreessen",
+      "role": "mentioned",
+      "company": "Andreessen Horowitz",
+      "title": "Co-founder"
+    },
+    {
+      "name": "William Bonner",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": "Jornalista"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Aliança",
+      "industry": "Fitness and Martial Arts",
+      "context": "One of the largest and most respected jiu-jitsu academy networks globally, 14-time world champion."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts the podcast and provides business education."
+    },
+    {
+      "name": "Ufc",
+      "industry": "Sports and Entertainment",
+      "context": "Mentioned in the context of Fábio Gurgel's participation in UFC 11."
+    },
+    {
+      "name": "Vox Luminis",
+      "industry": "Education",
+      "context": "Discussed as a platform for personal and professional development."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotive",
+      "context": "Mentioned in relation to Elon Musk."
+    },
+    {
+      "name": "Spacex",
+      "industry": "Aerospace",
+      "context": "Mentioned in relation to Elon Musk."
+    },
+    {
+      "name": "Craft Ventures",
+      "industry": "Venture Capital",
+      "context": "Mentioned in relation to David Sachs."
+    },
+    {
+      "name": "Andreessen Horowitz",
+      "industry": "Venture Capital",
+      "context": "Mentioned in relation to Mark Andreessen."
+    },
+    {
+      "name": "Fluminense Football Club",
+      "industry": "Sports",
+      "context": "Mentioned in relation to training location"
+    },
+    {
+      "name": "Fluminense",
+      "industry": "Sports",
+      "context": "Mentioned as a location in Laranjeiras."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Homeschooling",
+      "category": "Education"
+    },
+    {
+      "name": "Adaptability",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Grit",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Jiu-Jitsu",
+      "category": "Martial Arts"
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Business"
+    },
+    {
+      "name": "Philosophy",
+      "category": "Academic Discipline"
+    },
+    {
+      "name": "Freedom of Expression",
+      "category": "Political Concept"
+    },
+    {
+      "name": "Political Ideologies",
+      "category": "Social Science"
+    },
+    {
+      "name": "Meritocracia",
+      "category": "Social concept"
+    },
+    {
+      "name": "Conservadorismo",
+      "category": "Political ideology"
+    },
+    {
+      "name": "Revolução Francesa",
+      "category": "Historical event"
+    },
+    {
+      "name": "Treinamento com adversidades",
+      "category": "Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Os Intelectuais da Revolução Francesa",
+      "author": "Daniel Mornet"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "14-time world champion",
+      "context": "Achievements of Aliança in jiu-jitsu championships."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tesla",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "David Sachs",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Craft Ventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio Gurgel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vox Luminis",
+      "target_type": "company"
+    },
+    {
+      "source": "Mark Andreessen",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Andreessen Horowitz",
+      "target_type": "company"
+    },
+    {
+      "source": "Aliança",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Homeschooling",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fábio Gurgel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aliança",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Education",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio Gurgel",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jerry Bolander",
+      "target_type": "person"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Spacex",
+      "target_type": "company"
+    },
+    {
+      "source": "William Bonner",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tv Globo",
+      "target_type": "company"
+    }
+  ]
+}

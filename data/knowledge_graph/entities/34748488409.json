@@ -1,0 +1,230 @@
+{
+  "episode_id": "34748488409",
+  "title": "MARKETING NA PRÁTICA: AS ESTRATÉGIAS E INOVAÇÕES DO SETOR COM RICARDO DIAS (ADVENTURES) | PAPO DE GESTÃO",
+  "date_published": 1723050133,
+  "duration": 4506,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Ricardo Dias",
+      "role": "guest",
+      "company": "Adventures",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Anitta",
+      "role": "mentioned",
+      "company": "Skol Beats",
+      "title": "Collaborator"
+    },
+    {
+      "name": "Renata",
+      "role": "mentioned",
+      "company": "Copenhagen",
+      "title": ""
+    },
+    {
+      "name": "Adão",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Boca Rosa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Virginia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tab",
+      "role": "mentioned",
+      "company": "G4",
+      "title": "Empreendedor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Adventures",
+      "industry": "Marketing and Branding",
+      "context": "Company co-founded by Ricardo Dias, focused on creating brands driven by celebrities and creators."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Beverages",
+      "context": "Ricardo Dias led marketing strategies here, including disruptive campaigns."
+    },
+    {
+      "name": "Skol Beats",
+      "industry": "Beverages",
+      "context": "Brand associated with a notable marketing campaign involving Anitta."
+    },
+    {
+      "name": "Nike",
+      "industry": "Sportswear and Equipment",
+      "context": "Discussed as an example of a brand shaping culture."
+    },
+    {
+      "name": "Copenhagen",
+      "industry": "Confectionery",
+      "context": "Discussed in the context of marketing decisions regarding product naming."
+    },
+    {
+      "name": "Skull Beats",
+      "industry": "Bebidas",
+      "context": "Colaboração com a influenciadora Anitta."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Empresa mencionada no contexto do podcast"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marketing",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Polarization of Society",
+      "category": "Social Dynamics"
+    },
+    {
+      "name": "Echo Chamber",
+      "category": "Digital Media"
+    },
+    {
+      "name": "Share of Voice",
+      "category": "Marketing Metrics"
+    },
+    {
+      "name": "Agile Marketing",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Marketing digital",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Influenciadores digitais",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "DNVB (Digitally Native Vertical Brands)",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "OKR (Objectives and Key Results)",
+      "category": "Metodologia de gestão"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Liderança",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Intraempreendedorismo",
+      "category": "Empreendedorismo"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "More than two decades",
+      "context": "Ricardo Dias's experience in marketing."
+    },
+    {
+      "value": "30% decrease in sales",
+      "context": "Hypothetical impact of product naming controversy on Copenhagen's sales."
+    },
+    {
+      "value": "30%",
+      "context": "Queda nas vendas mencionada como exemplo de impacto de decisões de marketing."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Renata",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Copenhagen",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Anitta",
+      "source_type": "person",
+      "relation": "collaborated_with",
+      "target": "Skull Beats",
+      "target_type": "company"
+    },
+    {
+      "source": "Tab",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ricardo Dias",
+      "target_type": "person"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Adventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Adventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Anitta",
+      "source_type": "person",
+      "relation": "collaborated_with",
+      "target": "Skol Beats",
+      "target_type": "company"
+    }
+  ]
+}

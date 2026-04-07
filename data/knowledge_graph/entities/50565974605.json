@@ -1,0 +1,359 @@
+{
+  "episode_id": "50565974605",
+  "title": "COMO USAR IA PARA AUTOMATIZAR COM ESTRATÉGIA | G4 TOOLS LIVE – ERIC LUCIANO",
+  "date_published": 1771779601,
+  "duration": 4940,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Eric Luciano",
+      "role": "guest",
+      "company": "Expert Integrado",
+      "title": "Founder and CEO"
+    },
+    {
+      "name": "Bruno Cunha",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alex Hermoz",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Expert Integrado",
+      "industry": "Artificial Intelligence",
+      "context": "Provides AI services for education and software development."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Mentioned as a disruptive technology company"
+    },
+    {
+      "name": "Kd",
+      "industry": "Technology",
+      "context": "Mentioned as a predecessor to Google"
+    },
+    {
+      "name": "Eleven Labs",
+      "industry": "Technology",
+      "context": "Company specializing in voice cloning and conversational agents for telephony."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Company utilizing AI for internal processes and customer engagement."
+    },
+    {
+      "name": "Multibook",
+      "industry": "Technology",
+      "context": "A social network exclusively for AI interactions."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "prompt engineering",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "name": "inteligência artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "Google AdWords",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "ROI",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "cultura organizacional",
+      "category": "business"
+    },
+    {
+      "name": "AI First",
+      "category": "strategy"
+    },
+    {
+      "name": "educação por conhecimento",
+      "category": "education"
+    },
+    {
+      "name": "curadoria",
+      "category": "business"
+    },
+    {
+      "name": "capitalismo",
+      "category": "economics"
+    },
+    {
+      "name": "espiritualidade",
+      "category": "philosophy"
+    },
+    {
+      "name": "filosofia econômica",
+      "category": "philosophy"
+    },
+    {
+      "name": "SaaS (Software as a Service)",
+      "category": "technology"
+    },
+    {
+      "name": "Inteligência Artificial (IA)",
+      "category": "Technology"
+    },
+    {
+      "name": "Super SDR",
+      "category": "Product"
+    },
+    {
+      "name": "Vibecoding",
+      "category": "Technology"
+    },
+    {
+      "name": "Customer-centric",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Cold Call",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "VoIP",
+      "category": "Technology"
+    },
+    {
+      "name": "Clonagem de Voz",
+      "category": "Technology"
+    },
+    {
+      "name": "Agentes Conversacionais",
+      "category": "Technology"
+    },
+    {
+      "name": "Startup",
+      "category": "Business Model"
+    },
+    {
+      "name": "Escalabilidade",
+      "category": "Business Concept"
+    },
+    {
+      "name": "Escalonabilidade",
+      "category": "Business Concept"
+    },
+    {
+      "name": "Inteligência Artificial Geral (AGI)",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "name": "Cloud Bot",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "name": "assistente virtual",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "name": "Jarvis",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "name": "filme Ela",
+      "category": "Entertainment"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "16 years",
+      "context": "Duration Eric Luciano operated his music school."
+    },
+    {
+      "value": "7 rooms",
+      "context": "Expansion of Eric Luciano's music school in a commercial building."
+    },
+    {
+      "value": "20 vezes",
+      "context": "Impacto na produtividade sem o uso de inteligência artificial"
+    },
+    {
+      "value": "5 vezes mais",
+      "context": "Tempo adicional necessário para tarefas sem inteligência artificial"
+    },
+    {
+      "value": "70%",
+      "context": "Percentage of businesses in Brazil related to professional services."
+    },
+    {
+      "value": "200,000 to 300,000 leads",
+      "context": "Number of leads qualified monthly by Super SDR's AI."
+    },
+    {
+      "value": "2,700 USD",
+      "context": "Amount spent by an AI on a course to learn how to create a website."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Expert Integrado",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Elon Musk",
+      "target_type": "person"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Capitalismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Espiritualidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Super Sdr",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Curadoria",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alex Hermoz",
+      "target_type": "person"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Expert Integrado",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Eleven Labs",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Saas (Software As A Service)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vibecoding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cloud Bot",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Customer-Centric",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ai First",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Multibook",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Artificial Geral (Agi)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Filosofia Econômica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Artificial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Luciano",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Educação Por Conhecimento",
+      "target_type": "concept"
+    }
+  ]
+}

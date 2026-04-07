@@ -1,0 +1,379 @@
+{
+  "episode_id": "34748488343",
+  "title": "QUAL O SEGREDO DAS STARTUPS DE SUCESSO? | PAPO DE GESTÃO",
+  "date_published": 1739217600,
+  "duration": 3862,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alex Anton",
+      "role": "guest",
+      "company": "Hike",
+      "title": "Consultor de Estratégia e Inovação"
+    },
+    {
+      "name": "Fabrício Bloise",
+      "role": "mentioned",
+      "company": "Prosus",
+      "title": "CEO"
+    },
+    {
+      "name": "Carlos",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": "CFO/CEO"
+    },
+    {
+      "name": "Luciana Gimenez",
+      "role": "mentioned",
+      "company": "Móveli",
+      "title": "Colaboradora em campanhas"
+    },
+    {
+      "name": "Oliver Summer",
+      "role": "mentioned",
+      "company": "Sequoia",
+      "title": "Investidor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Ifood",
+      "industry": "Tecnologia/Delivery",
+      "context": "Empresa mencionada como exemplo de startup bem-sucedida."
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Tecnologia/Transporte",
+      "context": "Empresa mencionada em relação à expansão internacional para a Malásia."
+    },
+    {
+      "name": "Global Founders Capital (Gfc)",
+      "industry": "Investimentos",
+      "context": "Fundo de investimento global onde Alex Anton foi sócio."
+    },
+    {
+      "name": "Hike",
+      "industry": "Consultoria",
+      "context": "Consultoria de estratégia e inovação liderada por Alex Anton."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação/Empreendedorismo",
+      "context": "Plataforma de educação mencionada como local de mentoria de Alex Anton."
+    },
+    {
+      "name": "Mckinsey & Company",
+      "industry": "Consultoria",
+      "context": "Carreira do convidado"
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Investimentos e Incubação",
+      "context": "Investidora da Easy Taxi"
+    },
+    {
+      "name": "Móveli",
+      "industry": "Tecnologia e Serviços Digitais",
+      "context": "Investidora do iFood e outras startups"
+    },
+    {
+      "name": "Grab",
+      "industry": "Mobilidade",
+      "context": "Concorrente da Easy Taxi na Malásia"
+    },
+    {
+      "name": "Rappi",
+      "industry": "Delivery de Alimentos",
+      "context": "Concorrente do iFood"
+    },
+    {
+      "name": "Simpla",
+      "industry": "Eventos e Tickets",
+      "context": "Investimento da Móveli"
+    },
+    {
+      "name": "Play Kids",
+      "industry": "Conteúdo Infantil",
+      "context": "Produto da Móveli"
+    },
+    {
+      "name": "Leiturinha",
+      "industry": "Conteúdo Infantil",
+      "context": "Aquisição pela Móveli"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Série B",
+      "category": "Financiamento"
+    },
+    {
+      "name": "Série C",
+      "category": "Financiamento"
+    },
+    {
+      "name": "Série D",
+      "category": "Financiamento"
+    },
+    {
+      "name": "Product-Market Fit (PMF)",
+      "category": "Estratégia de Produto"
+    },
+    {
+      "name": "Pitch",
+      "category": "Apresentação de Negócios"
+    },
+    {
+      "name": "Cohort Analysis",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Capital Semente",
+      "category": "Financiamento"
+    },
+    {
+      "name": "Investimento Anjo",
+      "category": "Financiamento"
+    },
+    {
+      "name": "Gestão em tempos difíceis",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Expansão internacional",
+      "category": "Estratégia"
+    },
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Gestão"
+    },
+    {
+      "name": "Economia real",
+      "category": "Mercado"
+    },
+    {
+      "name": "Winner takes all",
+      "category": "Estratégia de mercado"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Due Diligence",
+      "category": "Processos de Negócios"
+    },
+    {
+      "name": "Earn Out",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "CLT e PJ",
+      "category": "Estrutura Organizacional"
+    },
+    {
+      "name": "Regimes Tributários (Simples, Real, Presumido)",
+      "category": "Estratégia Fiscal"
+    },
+    {
+      "name": "P&L (Profit and Loss)",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Multiplo de EBITDA e Receita",
+      "category": "Avaliação de Empresas"
+    }
+  ],
+  "books": [
+    {
+      "title": "E-book sobre gestão em tempos difíceis",
+      "author": "G4 Educação"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "20 páginas",
+      "context": "Tamanho do e-book mencionado"
+    },
+    {
+      "value": "7 meses",
+      "context": "Duração da experiência na Malásia"
+    },
+    {
+      "value": "15 M&As",
+      "context": "Número de aquisições realizadas pelo iFood"
+    },
+    {
+      "value": "700, 800, um bi de reais por ano",
+      "context": "Faturamento de companhias na economia real mencionado como exemplo."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Móveli",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Móveli",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Play Kids",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Anton",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Global Founders Capital (Gfc)",
+      "target_type": "company"
+    },
+    {
+      "source": "Móveli",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Simpla",
+      "target_type": "company"
+    },
+    {
+      "source": "Móveli",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Leiturinha",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabrício Bloise",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Prosus",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Anton",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Grab",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "M&A (Fusões E Aquisições)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alex Anton",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Planejamento Estratégico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Hike",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Anton",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alex Anton",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hike",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

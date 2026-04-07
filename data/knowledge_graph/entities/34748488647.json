@@ -1,0 +1,618 @@
+{
+  "episode_id": "34748488647",
+  "title": "#031 - Como ser um líder de alta performance com Fabio Gurgel",
+  "date_published": 1634113804,
+  "duration": 3800,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Fábio Gurgel",
+      "role": "guest",
+      "company": "Aliança",
+      "title": "CEO"
+    },
+    {
+      "name": "Jacaré",
+      "role": "mentioned",
+      "company": "Aliança",
+      "title": "Professor de Jiu-Jitsu"
+    },
+    {
+      "name": "Gracie",
+      "role": "mentioned",
+      "company": "Gracie Jiu-Jitsu",
+      "title": "Fundador"
+    },
+    {
+      "name": "Lucas",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "CEO"
+    },
+    {
+      "name": "Fabio Gurgel",
+      "role": "guest",
+      "company": "Alliance Jiu-Jitsu",
+      "title": "Professor e Gestor"
+    },
+    {
+      "name": "Hélio Gracie",
+      "role": "mentioned",
+      "company": "Academia Gracie",
+      "title": "Fundador"
+    },
+    {
+      "name": "Denis",
+      "role": "mentioned",
+      "company": "Zipax",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Vaz",
+      "role": "mentioned",
+      "company": "Zipax",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tenente Coronel Nunes",
+      "role": "mentioned",
+      "company": "BOPE do Rio de Janeiro",
+      "title": "Comandante"
+    },
+    {
+      "name": "Caio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jimmy",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ang",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação para empreendedores"
+    },
+    {
+      "name": "Aliança",
+      "industry": "Esportes e Educação",
+      "context": "Rede de academias de Jiu-Jitsu"
+    },
+    {
+      "name": "Gracie Jiu-Jitsu",
+      "industry": "Esportes e Educação",
+      "context": "Academia e estilo de Jiu-Jitsu"
+    },
+    {
+      "name": "Nestlé",
+      "industry": "Alimentação",
+      "context": "Empresa onde o pai de Fábio Gurgel trabalhou como executivo"
+    },
+    {
+      "name": "Alliance Jiu-Jitsu",
+      "industry": "Esportes e Treinamento",
+      "context": "Academia de Jiu-Jitsu mencionada por Fabio Gurgel"
+    },
+    {
+      "name": "Academia Gracie",
+      "industry": "Esportes e Artes Marciais",
+      "context": "Academia pioneira no ensino de jiu-jitsu mencionada como origem de metodologias de ensino."
+    },
+    {
+      "name": "Zipax",
+      "industry": "Tecnologia e Mobilidade",
+      "context": "Empresa mencionada no contexto de expansão internacional e aplicação de playbooks."
+    },
+    {
+      "name": "Bope Do Rio De Janeiro",
+      "industry": "Security",
+      "context": "Elite police force in Rio de Janeiro"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Liderança",
+      "category": "Gestão"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Networking",
+      "category": "Negócios"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Educação"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Negócios"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Missão compartilhada",
+      "category": "Gestão"
+    },
+    {
+      "name": "Mindset Infinito",
+      "category": "Estratégia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Virtude do Egoísmo",
+      "category": "Filosofia e Ética"
+    },
+    {
+      "name": "Criação de Oportunidades",
+      "category": "Liderança e Gestão"
+    },
+    {
+      "name": "Ética no Ambiente de Trabalho",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "Mindset de faixa branca",
+      "category": "Estratégia de aprendizado contínuo"
+    },
+    {
+      "name": "Sistematização de ensino",
+      "category": "Metodologia educacional"
+    },
+    {
+      "name": "Delegação",
+      "category": "Gestão e liderança"
+    },
+    {
+      "name": "Expansão internacional",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Meritocracia",
+      "category": "Gestão e avaliação de desempenho"
+    },
+    {
+      "name": "Metodologia de Ensino",
+      "category": "Educação"
+    },
+    {
+      "name": "Playbook",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Escalabilidade",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Gestão de Academias",
+      "category": "Gestão"
+    },
+    {
+      "name": "Decisão sob Pressão",
+      "category": "Liderança"
+    },
+    {
+      "name": "Leadership",
+      "category": "Management"
+    },
+    {
+      "name": "Responsibility",
+      "category": "Management"
+    },
+    {
+      "name": "Decision-making under pressure",
+      "category": "Management"
+    },
+    {
+      "name": "Framework",
+      "category": "Management"
+    },
+    {
+      "name": "G4 Leadership",
+      "category": "Education"
+    },
+    {
+      "name": "NPS",
+      "category": "Métrica de satisfação do cliente"
+    },
+    {
+      "name": "Imersão",
+      "category": "Método de aprendizado"
+    },
+    {
+      "name": "Jiu-jitsu",
+      "category": "Esporte e filosofia aplicada à liderança"
+    },
+    {
+      "name": "Zona de conforto",
+      "category": "Conceito de desenvolvimento pessoal"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Virtude do Egoísmo",
+      "author": "Ayn Rand"
+    },
+    {
+      "title": "Meditações",
+      "author": "Marco Aurélio"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "29 países",
+      "context": "Presença da Aliança"
+    },
+    {
+      "value": "300 unidades",
+      "context": "Número de academias da Aliança"
+    },
+    {
+      "value": "12 vezes campeã mundial",
+      "context": "Títulos da equipe Aliança"
+    },
+    {
+      "value": "300 unidades",
+      "context": "Número de academias da Alliance Jiu-Jitsu mencionadas como parte de sua expansão global."
+    },
+    {
+      "value": "29 países",
+      "context": "Número de países onde a Alliance Jiu-Jitsu opera."
+    },
+    {
+      "value": "50 mil alunos",
+      "context": "Número de alunos mencionados em relação ao mestre de kung fu na Alemanha."
+    },
+    {
+      "value": "50,000",
+      "context": "Número de alunos de um mestre de kung fu na Alemanha."
+    },
+    {
+      "value": "600-1,000",
+      "context": "Número de alunos em academias de jiu-jitsu modernas com metodologia aplicada."
+    },
+    {
+      "value": "35 países em 18 meses",
+      "context": "Expansão internacional da Zipax."
+    },
+    {
+      "value": "420 escritórios",
+      "context": "Número de escritórios abertos pela Zipax em 18 meses."
+    },
+    {
+      "value": "12 times world champion",
+      "context": "Achievements of Aliança"
+    },
+    {
+      "value": "29 countries",
+      "context": "Global presence of Aliança"
+    },
+    {
+      "value": "300 academies",
+      "context": "Scale of Aliança's operations"
+    },
+    {
+      "value": "38,000 students",
+      "context": "Number of students at G4 Educação"
+    },
+    {
+      "value": "2 years",
+      "context": "Age of G4 Educação"
+    },
+    {
+      "value": "38 mil alunos",
+      "context": "Número de alunos da G4 Educação."
+    },
+    {
+      "value": "dois anos",
+      "context": "Tempo de operação da G4 Educação."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Leadership",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Virtude Do Egoísmo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Expansão Internacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jacaré",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aliança",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Jacaré",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "G4 Leadership",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jacaré",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Alliance Jiu-Jitsu",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Metodologia De Ensino",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mindset De Faixa Branca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sistematização De Ensino",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Framework",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Leadership",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Virtude Do Egoísmo",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Criação De Oportunidades",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alliance Jiu-Jitsu",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Academia Gracie",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio Gurgel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aliança",
+      "target_type": "company"
+    },
+    {
+      "source": "Gracie",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gracie Jiu-Jitsu",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Delegação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alliance Jiu-Jitsu",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mindset Infinito",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tenente Coronel Nunes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bope Do Rio De Janeiro",
+      "target_type": "company"
+    },
+    {
+      "source": "Hélio Gracie",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Academia Gracie",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ética No Ambiente De Trabalho",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Alliance Jiu-Jitsu",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aliança",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Academias",
+      "target_type": "concept"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Zipax",
+      "target_type": "company"
+    },
+    {
+      "source": "Vaz",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Zipax",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Decision-Making Under Pressure",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Framework",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Playbook",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jiu-Jitsu",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Nps",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Liderança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Meritocracia",
+      "target_type": "concept"
+    }
+  ]
+}

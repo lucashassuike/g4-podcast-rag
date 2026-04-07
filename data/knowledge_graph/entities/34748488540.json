@@ -1,0 +1,147 @@
+{
+  "episode_id": "34748488540",
+  "title": "Melhorar a Alimentação É Possível - Com Thaisa Leal | Sem Atalhos",
+  "date_published": 1695803400,
+  "duration": 2815,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Thaisa Leal",
+      "role": "guest",
+      "company": "",
+      "title": "Nutricionista"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma mencionada como contexto de comemoração de metas."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Déficit calórico",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Superávit calórico",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Gasto calórico total",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Carboidratos",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Proteínas",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Gorduras",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Coenzima Q10",
+      "category": "Suplementação"
+    },
+    {
+      "name": "Derribose",
+      "category": "Suplementação"
+    },
+    {
+      "name": "Ômega 3",
+      "category": "Suplementação e Saúde"
+    },
+    {
+      "name": "Antioxidantes",
+      "category": "Nutrição e Saúde"
+    },
+    {
+      "name": "Radicais Livres",
+      "category": "Biologia e Saúde"
+    },
+    {
+      "name": "Hidratação",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Eletrolitos",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Cafeína",
+      "category": "Nutrição e Saúde"
+    }
+  ],
+  "books": [],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thaisa Leal",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

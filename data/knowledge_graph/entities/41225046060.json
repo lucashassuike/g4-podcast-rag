@@ -1,0 +1,148 @@
+{
+  "episode_id": "41225046060",
+  "title": "[CORTE] \"NÃO VAMOS DEMITIR NINGUÉM\" JOÃO MORESSI REVELA",
+  "date_published": 1755205200,
+  "duration": 731,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "João Moressi",
+      "role": "guest",
+      "company": "OPA",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Opa",
+      "industry": "Technology",
+      "context": "Specializes in technology delivery and software development."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts of the podcast and a business education company."
+    },
+    {
+      "name": "Xtech",
+      "industry": "Technology",
+      "context": "Mentioned in the context of software development and innovation."
+    },
+    {
+      "name": "Vetex",
+      "industry": "Technology",
+      "context": "Mentioned in the context of software development and innovation."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Agile",
+      "category": "Software Development Methodology"
+    },
+    {
+      "name": "Scrum",
+      "category": "Software Development Framework"
+    },
+    {
+      "name": "XP (Extreme Programming)",
+      "category": "Software Development Framework"
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "category": "Technology"
+    },
+    {
+      "name": "Innovation Mindset",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Efficiency through Technology",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "3-4 out of 10",
+      "context": "Average maturity level of Brazilian entrepreneurs in using technology."
+    },
+    {
+      "value": "2.5-3 times growth",
+      "context": "Growth of G4 Educação over two and a half years with the same team size."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Opa",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Scrum",
+      "target_type": "concept"
+    },
+    {
+      "source": "Opa",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Xp (Extreme Programming)",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Opa",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Efficiency Through Technology",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mariano",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Innovation Mindset",
+      "target_type": "concept"
+    },
+    {
+      "source": "Opa",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Agile",
+      "target_type": "concept"
+    }
+  ]
+}

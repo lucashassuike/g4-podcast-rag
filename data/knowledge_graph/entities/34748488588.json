@@ -1,0 +1,338 @@
+{
+  "episode_id": "34748488588",
+  "title": "Bruno Nardon - Criação de Conexões para a Resolução de Problemas | Conectando os Pontos",
+  "date_published": 1686214808,
+  "duration": 3876,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "guest",
+      "company": "Canoe",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Thales Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Empresa co-fundada por Bruno Nardon"
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Investimentos e Startups",
+      "context": "Fundo de investimento que apoiou a Canoe"
+    },
+    {
+      "name": "Airbus",
+      "industry": "Aeroespacial",
+      "context": "Empresa onde Bruno Nardon trabalhou como engenheiro"
+    },
+    {
+      "name": "Netshoes",
+      "industry": "E-commerce",
+      "context": "Concorrente mencionada no setor de moda e esportes"
+    },
+    {
+      "name": "Centauro",
+      "industry": "E-commerce",
+      "context": "Concorrente mencionada no setor de moda e esportes"
+    },
+    {
+      "name": "Dafiti",
+      "industry": "E-commerce",
+      "context": "Concorrente mencionada no setor de moda e esportes"
+    },
+    {
+      "name": "Element",
+      "industry": "Moda",
+      "context": "Marca de skate mencionada como parte do portfólio de produtos."
+    },
+    {
+      "name": "Oakley",
+      "industry": "Moda",
+      "context": "Marca de skate mencionada como parte do portfólio de produtos."
+    },
+    {
+      "name": "Quicksilver",
+      "industry": "Moda",
+      "context": "Marca de skate mencionada como parte do portfólio de produtos."
+    },
+    {
+      "name": "Dafite",
+      "industry": "E-commerce",
+      "context": "Empresa mencionada em contexto de fusão com a Canoe."
+    },
+    {
+      "name": "Rappi",
+      "industry": "Tecnologia",
+      "context": "Empresa mencionada em contexto de expansão para o Brasil."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa cofundada por Bruno Nardon, Thales Gomes, Alfredo Soares e Tony Celestino."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Mencionada como exemplo de grande empresa no Brasil."
+    },
+    {
+      "name": "Unilever",
+      "industry": "Bens de consumo",
+      "context": "Mencionada como exemplo de grande empresa no Brasil."
+    },
+    {
+      "name": "Vale",
+      "industry": "Mineração",
+      "context": "Mencionada como exemplo de grande empresa no Brasil."
+    },
+    {
+      "name": "Procter & Gamble",
+      "industry": "Bens de consumo",
+      "context": "Mencionada como exemplo de grande empresa no Brasil."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Método Científico",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Ecossistema de Startups",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Propósito no Trabalho",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Google AdWords",
+      "category": "Marketing"
+    },
+    {
+      "name": "Facebook Ads",
+      "category": "Marketing"
+    },
+    {
+      "name": "Gestão de equipes",
+      "category": "Liderança"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelos de negócio"
+    },
+    {
+      "name": "Private label",
+      "category": "Modelos de negócio"
+    },
+    {
+      "name": "Fluxo de caixa",
+      "category": "Finanças"
+    },
+    {
+      "name": "Rebranding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Gestão de clientes"
+    },
+    {
+      "name": "Customer Success",
+      "category": "Gestão de clientes"
+    },
+    {
+      "name": "Educação corporativa",
+      "category": "Educação"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Negócios"
+    },
+    {
+      "name": "Desemprego",
+      "category": "Economia"
+    },
+    {
+      "name": "Reinvestimento empresarial",
+      "category": "Finanças"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "20, 30, 50, 100, 200 milhões por ano",
+      "context": "Faturamento de empresas mencionadas como público-alvo do G4 Educação."
+    },
+    {
+      "value": "70% a 85%",
+      "context": "Porcentagem de empregos gerados por pequenas e médias empresas no Brasil."
+    },
+    {
+      "value": "2%",
+      "context": "Taxa de desemprego em Santa Catarina."
+    },
+    {
+      "value": "15% a 20%",
+      "context": "Taxa de desemprego em outros estados do Brasil."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Centauro",
+      "target_type": "company"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Netshoes",
+      "target_type": "company"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dafite",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Customer Success",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Airbus",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Educação Corporativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rocket Internet",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Customer Experience",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Empreendedorismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Eficiência Operacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Dafiti",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Canoe",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "episode_id": "39590552876",
+  "title": "VOCÊ AINDA COMPRA? A GERAÇÃO NOVA PREFERE USAR, NÃO POSSUIR | PAPO DE GESTÃO",
+  "date_published": 1751878800,
+  "duration": 3865,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Podcasts",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcasts",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcasts",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Podcasts",
+      "title": ""
+    },
+    {
+      "name": "Cadu Guerra",
+      "role": "guest",
+      "company": "Alu",
+      "title": "Fundador e CEO"
+    },
+    {
+      "name": "Ofli",
+      "role": "mentioned",
+      "company": "Melios",
+      "title": "Fundador"
+    },
+    {
+      "name": "Renato",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Zuckerberg",
+      "role": "mentioned",
+      "company": "Facebook",
+      "title": "CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Alu",
+      "industry": "Tecnologia e Aluguel de Eletrônicos",
+      "context": "Startup que oferece assinatura de eletrônicos."
+    },
+    {
+      "name": "Melios",
+      "industry": "Tecnologia e Cashback",
+      "context": "Startup mencionada como parte do ecossistema de startups de BH."
+    },
+    {
+      "name": "Maxmilhas",
+      "industry": "Tecnologia e Viagens",
+      "context": "Startup mencionada como parte do ecossistema de startups de BH."
+    },
+    {
+      "name": "Hotmart",
+      "industry": "Tecnologia e Educação",
+      "context": "Startup mencionada como parte do ecossistema de startups de BH."
+    },
+    {
+      "name": "Polar",
+      "industry": "Tecnologia e Wearables",
+      "context": "Parceira da Alu para assinatura de relógios de corrida."
+    },
+    {
+      "name": "Nestlé",
+      "industry": "Alimentos e Bebidas",
+      "context": "Parceira da Alu para assinatura de cafeteiras."
+    },
+    {
+      "name": "Acer",
+      "industry": "Tecnologia e Computadores",
+      "context": "Parceira da Alu para assinatura de notebooks e periféricos."
+    },
+    {
+      "name": "Inco",
+      "industry": "Finanças e Investimentos",
+      "context": "Plataforma mencionada como referência para emissão de investimentos."
+    },
+    {
+      "name": "Mutuau",
+      "industry": "Finanças e Investimentos",
+      "context": "Plataforma mencionada como referência para emissão de investimentos."
+    },
+    {
+      "name": "Nexus",
+      "industry": "Finanças e Investimentos",
+      "context": "Plataforma mencionada como referência para emissão de investimentos."
+    },
+    {
+      "name": "Iou",
+      "industry": "Finanças e Investimentos",
+      "context": "Plataforma mencionada como referência para emissão de investimentos."
+    },
+    {
+      "name": "Facebook",
+      "industry": "Technology",
+      "context": "Discussed in relation to bold moves by CEOs"
+    },
+    {
+      "name": "Meta",
+      "industry": "Technology",
+      "context": "Transformation of Facebook into Meta"
+    },
+    {
+      "name": "Mckinsey",
+      "industry": "Consulting",
+      "context": "Conducted a study on high-performing CEOs"
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Referenced as a benchmark for global impact in e-commerce"
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Referenced as a benchmark for global impact in e-commerce"
+    },
+    {
+      "name": "Grover",
+      "industry": "Subscription Economy",
+      "context": "Mentioned as a competitor in strong economies"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Economia Colaborativa",
+      "category": "Modelo Econômico"
+    },
+    {
+      "name": "Economia Circular",
+      "category": "Modelo Econômico"
+    },
+    {
+      "name": "Startup Weekend",
+      "category": "Evento de Empreendedorismo"
+    },
+    {
+      "name": "Assinatura de Eletrônicos",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Dívida Estruturada",
+      "category": "Finanças"
+    },
+    {
+      "name": "Debênture",
+      "category": "Finanças"
+    },
+    {
+      "name": "FDIC",
+      "category": "Finanças"
+    },
+    {
+      "name": "Análise de Risco de Fraude",
+      "category": "Gestão de Riscos"
+    },
+    {
+      "name": "Análise de Crédito",
+      "category": "Gestão de Riscos"
+    },
+    {
+      "name": "Assinatura de produtos eletrônicos",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Funding",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "Parcerias estratégicas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Perfil de cliente ideal",
+      "category": "Marketing e Vendas"
+    },
+    {
+      "name": "70-20-10 Framework",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "CEO Excellence",
+      "category": "Leadership"
+    },
+    {
+      "name": "Economia da Assinatura",
+      "category": "Business Model"
+    }
+  ],
+  "books": [
+    {
+      "title": "CEO Excellence",
+      "author": "McKinsey"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "R$ 90,00 a R$ 400,00",
+      "context": "Faixa de preço mensal para assinatura de iPhones."
+    },
+    {
+      "value": "300 milhões de reais",
+      "context": "Valor captado pela Alu para financiar operações."
+    },
+    {
+      "value": "0 a 1.000 iPhones alugados",
+      "context": "Crescimento da Alu de janeiro de 2020 a janeiro de 2021."
+    },
+    {
+      "value": "40.000 iPhones alugados",
+      "context": "Número atual de iPhones alugados pela Alu."
+    },
+    {
+      "value": "200 milhões de reais",
+      "context": "Valor estimado dos iPhones alugados."
+    },
+    {
+      "value": "180 colaboradores",
+      "context": "Tamanho atual da equipe da Alu."
+    },
+    {
+      "value": "450 a 500 reais por mês",
+      "context": "Custo de aluguel do iPhone mais caro."
+    },
+    {
+      "value": "90 reais por mês",
+      "context": "Custo de aluguel do iPhone mais barato."
+    },
+    {
+      "value": "30-40 milhões de reais",
+      "context": "Revenue range for companies where the 70-20-10 framework is applicable"
+    },
+    {
+      "value": "1 milhão de assinaturas ativas",
+      "context": "Grover's active subscriptions"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Facebook",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Meta",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Grover",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Economia Da Assinatura",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alu",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Inco",
+      "target_type": "company"
+    },
+    {
+      "source": "Alu",
+      "source_type": "company",
+      "relation": "collaborates_with",
+      "target": "Acer",
+      "target_type": "company"
+    },
+    {
+      "source": "Alu",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Nestlé",
+      "target_type": "company"
+    },
+    {
+      "source": "Alu",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Nexus",
+      "target_type": "company"
+    },
+    {
+      "source": "Alu",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Polar",
+      "target_type": "company"
+    },
+    {
+      "source": "Alu",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Mutuau",
+      "target_type": "company"
+    },
+    {
+      "source": "Mckinsey",
+      "source_type": "company",
+      "relation": "authored",
+      "target": "Ceo Excellence",
+      "target_type": "concept"
+    },
+    {
+      "source": "Zuckerberg",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Facebook",
+      "target_type": "company"
+    },
+    {
+      "source": "Cadu Guerra",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alu",
+      "target_type": "company"
+    },
+    {
+      "source": "Alu",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Iou",
+      "target_type": "company"
+    },
+    {
+      "source": "Cadu Guerra",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ofli",
+      "target_type": "person"
+    },
+    {
+      "source": "Alu",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Acer",
+      "target_type": "company"
+    },
+    {
+      "source": "Amazon",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    }
+  ]
+}

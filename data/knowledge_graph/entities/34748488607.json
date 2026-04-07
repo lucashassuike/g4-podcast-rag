@@ -1,0 +1,180 @@
+{
+  "episode_id": "34748488607",
+  "title": "Isabelle Randon - Sucessão Familiar na Prática, Autoconhecimento e Empresas Familiares | Conectando os Pontos",
+  "date_published": 1681200058,
+  "duration": 2832,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Isabelle Randon",
+      "role": "guest",
+      "company": "IR Family Business",
+      "title": "Fundadora"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do podcast Conectando os Pontos"
+    },
+    {
+      "name": "Família Veiga",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Nino Randon",
+      "role": "mentioned",
+      "company": "Randon S.A.",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Host do podcast Conectando os Pontos"
+    },
+    {
+      "name": "Ir Family Business",
+      "industry": "Consultoria para Empresas Familiares",
+      "context": "Fundada por Isabelle Randon"
+    },
+    {
+      "name": "Randon",
+      "industry": "Automotivo e Financeiro",
+      "context": "Empresa familiar com faturamento de mais de 11 bilhões de reais e 16 mil colaboradores"
+    },
+    {
+      "name": "Randon S.A.",
+      "industry": "Automotive and Logistics",
+      "context": "Discussed as a family business undergoing professionalization."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Governança Corporativa",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Sucessão Familiar",
+      "category": "Gestão de Empresas Familiares"
+    },
+    {
+      "name": "Conselho de Administração",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Acordo de Sócios",
+      "category": "Gestão de Empresas Familiares"
+    },
+    {
+      "name": "Profissionalização de Empresas Familiares",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "90%",
+      "context": "Porcentagem de empresas familiares no Brasil"
+    },
+    {
+      "value": "65%",
+      "context": "Contribuição das empresas familiares para o PIB nacional"
+    },
+    {
+      "value": "75%",
+      "context": "Porcentagem de trabalhadores empregados por empresas familiares no Brasil"
+    },
+    {
+      "value": "11 bilhões de reais",
+      "context": "Faturamento anual da Randon"
+    },
+    {
+      "value": "16 mil",
+      "context": "Número de colaboradores da Randon"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Isabelle Randon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ir Family Business",
+      "target_type": "company"
+    },
+    {
+      "source": "Nino Randon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Randon S.A.",
+      "target_type": "company"
+    },
+    {
+      "source": "Isabelle Randon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Randon S.A.",
+      "target_type": "company"
+    },
+    {
+      "source": "Isabelle Randon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ir Family Business",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

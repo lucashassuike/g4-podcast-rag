@@ -1,0 +1,107 @@
+{
+  "episode_id": "34748488552",
+  "title": "Como Conciliar Trabalho e Vida Afetiva? - Com Ana Canosa | Sem Atalhos",
+  "date_published": 1693902600,
+  "duration": 2117,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Ana Canosa",
+      "role": "guest",
+      "company": "",
+      "title": "Psicóloga, Terapeuta e Educadora Sexual"
+    },
+    {
+      "name": "Sigmund Freud",
+      "role": "mentioned",
+      "company": "",
+      "title": "Psicanalista"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa mencionada como criadora do G4 Skills e produtora do podcast Sem Atalhos"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de treinamento e desenvolvimento de equipes"
+    },
+    {
+      "name": "Bem-estar global",
+      "category": "Conceito de bem-estar relacionado a projetos de vida"
+    },
+    {
+      "name": "Bem-estar pessoal",
+      "category": "Conceito de bem-estar relacionado ao cotidiano"
+    },
+    {
+      "name": "Libido",
+      "category": "Conceito psicanalítico de energia de vida e desejo"
+    },
+    {
+      "name": "Tédio sexual",
+      "category": "Conceito relacionado à perda de interesse sexual em relações de longo prazo"
+    },
+    {
+      "name": "Satisfação cotidiana",
+      "category": "psicologia"
+    },
+    {
+      "name": "Intimidade conjugal",
+      "category": "relacionamentos"
+    },
+    {
+      "name": "Educação digital",
+      "category": "tecnologia e sociedade"
+    }
+  ],
+  "books": [],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ana Canosa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Libido",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sigmund Freud",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Libido",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ana Canosa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tédio Sexual",
+      "target_type": "concept"
+    }
+  ]
+}

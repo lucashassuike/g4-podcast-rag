@@ -1,0 +1,322 @@
+{
+  "episode_id": "34748488352",
+  "title": "O QUE TEM QUE SER FEITO PARA ENTREGAR O RESULTADO ESSE ANO | G4 PODCASTS | DAVID LEDSON",
+  "date_published": 1735894800,
+  "duration": 2208,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Heitor Silveira",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretor e Sócio"
+    },
+    {
+      "name": "David Letson",
+      "role": "guest",
+      "company": "Garantia BR, Involve",
+      "title": "Mentor e Sócio"
+    },
+    {
+      "name": "Mônica",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "David Ledson",
+      "role": "guest",
+      "company": "Garantia BR",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Maria Antônia",
+      "role": "mentioned",
+      "company": "Garantia BR",
+      "title": "CEO"
+    },
+    {
+      "name": "Diogo",
+      "role": "mentioned",
+      "company": "Garantia BR",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Heitor",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa organizadora do podcast e programas de mentoria mencionados."
+    },
+    {
+      "name": "Votorantim",
+      "industry": "Diversos",
+      "context": "Empresa onde David Letson trabalhou."
+    },
+    {
+      "name": "Simpla",
+      "industry": "Tecnologia e Eventos",
+      "context": "Empresa onde David Letson foi sócio."
+    },
+    {
+      "name": "Sólides",
+      "industry": "Recursos Humanos",
+      "context": "Empresa onde David Letson foi sócio e liderou captação."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Tecnologia e Alimentação",
+      "context": "Empresa onde David Letson foi sócio."
+    },
+    {
+      "name": "Móvile",
+      "industry": "Tecnologia",
+      "context": "Empresa onde David Letson trabalhou."
+    },
+    {
+      "name": "Locamerica Frotas",
+      "industry": "Frotas e Logística",
+      "context": "Empresa onde David Letson trabalhou."
+    },
+    {
+      "name": "Sesc",
+      "industry": "Serviços",
+      "context": "Empresa onde David Letson trabalhou."
+    },
+    {
+      "name": "Garantia Br",
+      "industry": "Financeiro",
+      "context": "Empresa liderada por David Letson."
+    },
+    {
+      "name": "Involve",
+      "industry": "Tecnologia",
+      "context": "Empresa liderada por David Letson."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Bancário",
+      "context": "Cliente da Garantia BR"
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Bancário",
+      "context": "Cliente da Garantia BR"
+    },
+    {
+      "name": "Solids",
+      "industry": "Tecnologia e Recursos Humanos",
+      "context": "Empresa mencionada como experiência anterior de David Ledson"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Foco Estratégico",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Captação de Recursos",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "Oceano Azul",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "ICP (Ideal Customer Profile)",
+      "category": "Marketing e Vendas"
+    },
+    {
+      "name": "Pitch Deck",
+      "category": "Ferramenta de Apresentação"
+    },
+    {
+      "name": "SLA (Service Level Agreement)",
+      "category": "Gestão de Serviços"
+    },
+    {
+      "name": "IA (Inteligência Artificial)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Due Diligence",
+      "category": "Processo de Avaliação"
+    },
+    {
+      "name": "G4 Traction",
+      "category": "Programa de Mentoria"
+    }
+  ],
+  "books": [
+    {
+      "title": "Essencialismo",
+      "author": "Greg McKeown"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "Mais de 10 empresas",
+      "context": "Número de empresas em que David Letson investiu."
+    },
+    {
+      "value": "Mais de 9 mil empreendedores presenciais e 6 mil online",
+      "context": "Participantes do evento mencionado."
+    },
+    {
+      "value": "Mais de mil alunos por mês",
+      "context": "Número de alunos que passam pelos programas do G4 Educação."
+    },
+    {
+      "value": "3 milhões",
+      "context": "Faturamento anual da Garantia BR após um ano de operação"
+    },
+    {
+      "value": "4 horas",
+      "context": "SLA médio da Garantia BR para análise de crédito em bancos"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "David Ledson",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Traction",
+      "target_type": "concept"
+    },
+    {
+      "source": "David Ledson",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Garantia Br",
+      "target_type": "company"
+    },
+    {
+      "source": "Diogo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Garantia Br",
+      "target_type": "company"
+    },
+    {
+      "source": "David Letson",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Votorantim",
+      "target_type": "company"
+    },
+    {
+      "source": "Garantia Br",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Itaú",
+      "target_type": "company"
+    },
+    {
+      "source": "David Letson",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Simpla",
+      "target_type": "company"
+    },
+    {
+      "source": "Heitor Silveira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "David Letson",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Garantia Br",
+      "target_type": "company"
+    },
+    {
+      "source": "David Letson",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Móvile",
+      "target_type": "company"
+    },
+    {
+      "source": "David Letson",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Locamerica Frotas",
+      "target_type": "company"
+    },
+    {
+      "source": "David Letson",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Sesc",
+      "target_type": "company"
+    },
+    {
+      "source": "Garantia Br",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Bradesco",
+      "target_type": "company"
+    },
+    {
+      "source": "David Letson",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "David Letson",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Sólides",
+      "target_type": "company"
+    },
+    {
+      "source": "David Letson",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Involve",
+      "target_type": "company"
+    },
+    {
+      "source": "Maria Antônia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Garantia Br",
+      "target_type": "company"
+    },
+    {
+      "source": "Garantia Br",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Tecnologia E Crédito Imobiliário",
+      "target_type": "company"
+    },
+    {
+      "source": "David Letson",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Essencialismo",
+      "target_type": "company"
+    }
+  ]
+}

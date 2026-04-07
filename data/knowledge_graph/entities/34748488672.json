@@ -1,0 +1,393 @@
+{
+  "episode_id": "34748488672",
+  "title": "#005 - Como fazer seu negócio crescer de forma sustentável com Gabriel, CMO da Singu",
+  "date_published": 1601485164,
+  "duration": 2756,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Gabriel",
+      "role": "guest",
+      "company": "Singu",
+      "title": "CMO"
+    },
+    {
+      "name": "Eric",
+      "role": "mentioned",
+      "company": "Resultados Digitais",
+      "title": "CEO"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "Singu",
+      "title": "CEO"
+    },
+    {
+      "name": "Débora Seco",
+      "role": "mentioned",
+      "company": "Singu",
+      "title": "Investidora e sócia"
+    },
+    {
+      "name": "Marina Rui Barbosa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pini",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empresária de Débora Seco"
+    },
+    {
+      "name": "Débora",
+      "role": "mentioned",
+      "company": "Singu",
+      "title": "Investor"
+    },
+    {
+      "name": "Ashton Kutcher",
+      "role": "mentioned",
+      "company": "",
+      "title": "Investor"
+    },
+    {
+      "name": "Jay-Z",
+      "role": "mentioned",
+      "company": "",
+      "title": "Investor"
+    },
+    {
+      "name": "Rafael Reis",
+      "role": "mentioned",
+      "company": "",
+      "title": "Advisor"
+    },
+    {
+      "name": "Christian",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "Singu",
+      "industry": "Beauty and Wellness",
+      "context": "Marketplace for beauty services"
+    },
+    {
+      "name": "Resultados Digitais",
+      "industry": "Marketing Technology",
+      "context": "Digital marketing solutions"
+    },
+    {
+      "name": "Uber",
+      "industry": "Transportation",
+      "context": "Ride-sharing services"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Food Delivery",
+      "context": "Food delivery services"
+    },
+    {
+      "name": "Rappi",
+      "industry": "Food Delivery",
+      "context": "Food delivery services"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Taxi-hailing services"
+    },
+    {
+      "name": "Airbnb",
+      "industry": "Hospitality",
+      "context": "Short-term rental marketplace"
+    },
+    {
+      "name": "Vogue",
+      "industry": "Media and Fashion",
+      "context": "Partnered with Singu for model services"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Unit Economics",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Customer Acquisition Cost (CAC)",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Lifetime Value (LTV)",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "LTV/CAC Ratio",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Addressable Market",
+      "category": "Market Analysis"
+    },
+    {
+      "name": "Growth Strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Sustainable Growth",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "North Star Metric",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica financeira"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Métrica financeira"
+    },
+    {
+      "name": "Cohort Analysis",
+      "category": "Análise de dados"
+    },
+    {
+      "name": "Gestão libertária",
+      "category": "Estilo de gestão"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "LTV sobre CAC",
+      "category": "Métricas de Negócios"
+    },
+    {
+      "name": "Member Get Member",
+      "category": "Estratégias de Marketing"
+    },
+    {
+      "name": "Retenção de Clientes",
+      "category": "Métricas de Negócios"
+    },
+    {
+      "name": "Net Promoter Score (NPS)",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Churn",
+      "category": "Metrics"
+    },
+    {
+      "name": "Customer Persona",
+      "category": "Marketing"
+    },
+    {
+      "name": "Quantitative Research",
+      "category": "Customer Insights"
+    },
+    {
+      "name": "Qualitative Research",
+      "category": "Customer Insights"
+    },
+    {
+      "name": "dado qualitativo",
+      "category": "análise de dados"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Clientes)",
+      "category": "métrica de negócios"
+    },
+    {
+      "name": "cash-burning",
+      "category": "modelo de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "$30 billion",
+      "context": "Size of the Brazilian beauty market"
+    },
+    {
+      "value": "$15 billion",
+      "context": "Addressable market for beauty services in Brazil"
+    },
+    {
+      "value": "$12 billion",
+      "context": "Projected size of the ride-sharing market in Brazil by 2024"
+    },
+    {
+      "value": "500x",
+      "context": "Revenue growth of Resultados Digitais over 5 years"
+    },
+    {
+      "value": "87 to 13",
+      "context": "Reduction in CAC for Singu in one year"
+    },
+    {
+      "value": "1.40 in 30 days",
+      "context": "LTV/CAC ratio achieved by Singu"
+    },
+    {
+      "value": "50 milhões de reais por mês",
+      "context": "Gasto de uma empresa em terceirização de mão de obra comparado à eficiência da Singu."
+    },
+    {
+      "value": "100 mil reais por mês",
+      "context": "Investimento em influenciadores para atrair público de 18 a 24 anos."
+    },
+    {
+      "value": "830%",
+      "context": "Retenção maior de clientes que não usaram voucher no primeiro pedido"
+    },
+    {
+      "value": "35% a 38%",
+      "context": "Proporção de novos clientes adquiridos via estratégia de member get member em 2019"
+    },
+    {
+      "value": "150,000 to 200,000",
+      "context": "Number of customers in Singu's database"
+    },
+    {
+      "value": "50% discount",
+      "context": "Investment terms offered to Débora"
+    },
+    {
+      "value": "150,000 a 200,000",
+      "context": "Número de clientes na base da Singu."
+    },
+    {
+      "value": "3,000 a 5,000",
+      "context": "Número de respostas em pesquisas realizadas pela Singu."
+    },
+    {
+      "value": "80%",
+      "context": "Redução nos gastos de mídia em dois meses e meio."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singu",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Singu",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Vogue",
+      "target_type": "company"
+    },
+    {
+      "source": "Débora Seco",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Singu",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Singu",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Resultados Digitais",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Singu",
+      "target_type": "company"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Singu",
+      "target_type": "company"
+    },
+    {
+      "source": "Pini",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Débora Seco",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Débora",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Singu",
+      "target_type": "company"
+    }
+  ]
+}

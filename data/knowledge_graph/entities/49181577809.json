@@ -1,0 +1,196 @@
+{
+  "episode_id": "49181577809",
+  "title": "COMO FÁBIO FERRAZ ECONOMIZOU MEIO BILHÃO EM IMPOSTOS PARA SEUS CLIENTES | EXTREMOS",
+  "date_published": 1769617860,
+  "duration": 3031,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Fábio Ferraz",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Plataforma mencionada como ambiente de aprendizado e troca de conhecimento para empresários."
+    },
+    {
+      "name": "Receita Federal",
+      "industry": "Administração Pública",
+      "context": "Entidade mencionada em relação à fiscalização tributária e instruções sobre tributação."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Reforma Tributária",
+      "category": "Política e Economia"
+    },
+    {
+      "name": "Planejamento Tributário",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "Perda Tributária Invisível",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "Cadastro de Mercadorias",
+      "category": "Gestão Operacional"
+    },
+    {
+      "name": "IVA (Imposto sobre Valor Agregado)",
+      "category": "Tributação"
+    },
+    {
+      "name": "PIX",
+      "category": "Tecnologia Financeira"
+    },
+    {
+      "name": "Operação Cartão Vermelho",
+      "category": "Fiscalização Tributária"
+    },
+    {
+      "name": "Deep Dive",
+      "category": "estratégia"
+    },
+    {
+      "name": "Tributação de Empresas nos Estados Unidos",
+      "category": "conceito"
+    },
+    {
+      "name": "Tributação de Empresas no Brasil",
+      "category": "conceito"
+    },
+    {
+      "name": "Dedução de Despesas Tributárias",
+      "category": "conceito"
+    },
+    {
+      "name": "Ecossistema Jurídico-Contábil-Societário",
+      "category": "estratégia"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "92,50 reais por cada mil reais de pão vendido",
+      "context": "Perda tributária devido a erro de cadastro de mercadorias."
+    },
+    {
+      "value": "16 milhões de reais",
+      "context": "Economia identificada em trabalho de recuperação tributária para uma empresa de grande porte."
+    },
+    {
+      "value": "80 mil reais por mês",
+      "context": "Economia mensal identificada para uma empresa com ajustes tributários."
+    },
+    {
+      "value": "980 mil reais por ano",
+      "context": "Economia anual identificada para uma empresa com ajustes tributários."
+    },
+    {
+      "value": "2016",
+      "context": "Ano em que Fábio Ferraz teve o insight sobre integrar jurídico, contábil e societário."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Receita Federal",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Planejamento Tributário",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fábio Ferraz",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Deep Dive",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fábio Ferraz",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dedução De Despesas Tributárias",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fábio Ferraz",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ecossistema Jurídico-Contábil-Societário",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fábio Ferraz",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Reforma Tributária",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fábio Ferraz",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Reforma Tributária",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Iva (Imposto Sobre Valor Agregado)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fábio Ferraz",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tributação De Empresas No Brasil",
+      "target_type": "concept"
+    },
+    {
+      "source": "Receita Federal",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cadastro De Mercadorias",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fábio Ferraz",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tributação De Empresas Nos Estados Unidos",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "episode_id": "38246690630",
+  "title": "O MERCADO DE RELÓGIOS DE LUXO COM KELVYN BENITES | EXTREMOS",
+  "date_published": 1749124800,
+  "duration": 5415,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Kelvyn Benites",
+      "role": "guest",
+      "company": "New Old",
+      "title": "Proprietário"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Eric",
+      "role": "mentioned",
+      "company": "New Old",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Marçal",
+      "role": "mentioned",
+      "company": "Private",
+      "title": "Client"
+    },
+    {
+      "name": "Tássio",
+      "role": "mentioned",
+      "company": "Private",
+      "title": "Club Member"
+    },
+    {
+      "name": "Flávio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Jay-Z",
+      "role": "mentioned",
+      "company": "",
+      "title": "Musician"
+    },
+    {
+      "name": "Tom Brady",
+      "role": "mentioned",
+      "company": "",
+      "title": "Athlete"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Rolex",
+      "industry": "Relógios de luxo",
+      "context": "Mencionado como símbolo de status"
+    },
+    {
+      "name": "Bmw",
+      "industry": "Automotivo",
+      "context": "Mencionado como comparação de status"
+    },
+    {
+      "name": "Mercedes",
+      "industry": "Automotivo",
+      "context": "Mencionado como comparação de status"
+    },
+    {
+      "name": "Suzano",
+      "industry": "Papel e celulose",
+      "context": "Mencionada em relação a ações"
+    },
+    {
+      "name": "Libre",
+      "industry": "Financeiro",
+      "context": "Empresa onde Kelvyn Benites foi sócio"
+    },
+    {
+      "name": "Armani",
+      "industry": "Moda",
+      "context": "Relacionada à venda de produtos pela New Old"
+    },
+    {
+      "name": "Diesel",
+      "industry": "Moda",
+      "context": "Relacionada à venda de produtos pela New Old"
+    },
+    {
+      "name": "New Old",
+      "industry": "Moda e varejo",
+      "context": "Empresa fundada por Kelvyn Benites e Eric"
+    },
+    {
+      "name": "Corleone",
+      "industry": "Barbearia",
+      "context": "Inspirou a criação de uma barbearia pela New Old"
+    },
+    {
+      "name": "Private",
+      "industry": "Luxury Goods",
+      "context": "Luxury watch retail and trading company"
+    },
+    {
+      "name": "Richard Mille",
+      "industry": "Luxury Watches",
+      "context": "Luxury watch brand mentioned in the context of high-end watches"
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Banking",
+      "context": "Bank associated with Private banking services"
+    },
+    {
+      "name": "Hsbc",
+      "industry": "Banking",
+      "context": "Bank associated with Private banking services"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and networking platform"
+    },
+    {
+      "name": "Cartier",
+      "industry": "Luxury Watches",
+      "context": "Mentioned in the context of luxury watch brands."
+    },
+    {
+      "name": "Patek Philippe",
+      "industry": "Luxury Watches",
+      "context": "Mentioned as a high-end watch brand."
+    },
+    {
+      "name": "Tag Heuer",
+      "industry": "Luxury Watches",
+      "context": "Mentioned as an entry-level luxury watch brand."
+    },
+    {
+      "name": "Ferrari",
+      "industry": "Automotive",
+      "context": "Discussed as a luxury car brand."
+    },
+    {
+      "name": "Lamborghini",
+      "industry": "Automotive",
+      "context": "Discussed as a luxury car brand."
+    },
+    {
+      "name": "Porsche",
+      "industry": "Automotive",
+      "context": "Discussed as a luxury car brand."
+    },
+    {
+      "name": "Aston Martin",
+      "industry": "Automotive",
+      "context": "Discussed as a luxury car brand."
+    },
+    {
+      "name": "Audemars Piguet",
+      "industry": "Luxury Watches",
+      "context": "Discussed in relation to Turbilhão watches"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Empreendedorismo",
+      "category": "Negócios"
+    },
+    {
+      "name": "All-in",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finanças"
+    },
+    {
+      "name": "Comissão",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Marca própria",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Luxury watch market",
+      "category": "Industry"
+    },
+    {
+      "name": "Brand positioning",
+      "category": "Marketing"
+    },
+    {
+      "name": "Luxury goods",
+      "category": "Market Segment"
+    },
+    {
+      "name": "Networking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Economic impact of the COVID-19 pandemic",
+      "category": "Economic Trend"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Luxury Market",
+      "category": "Industry"
+    },
+    {
+      "name": "Second-hand Dealers",
+      "category": "Business Model"
+    },
+    {
+      "name": "Mentorship",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Turbilhão",
+      "category": "Watchmaking"
+    },
+    {
+      "name": "Luxury Watches",
+      "category": "Industry"
+    },
+    {
+      "name": "Asset Investment",
+      "category": "Finance"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "80 mil reais",
+      "context": "Valor no caixa mencionado para viagens e investimentos"
+    },
+    {
+      "value": "400 páginas",
+      "context": "Tamanho do imposto de renda de Kelvyn Benites em um ano"
+    },
+    {
+      "value": "3 milhões de reais",
+      "context": "Faturamento do primeiro ano da marca própria da New Old"
+    },
+    {
+      "value": "R$60,00 per square meter",
+      "context": "Initial investment in land in Campo Grande"
+    },
+    {
+      "value": "R$700,00 per square meter",
+      "context": "Value after urban development in Campo Grande"
+    },
+    {
+      "value": "R$300,000 annually",
+      "context": "Cost of the highest-tier G4 Educação program"
+    },
+    {
+      "value": "Three years",
+      "context": "Kelvyn Benites mentions using security for his family for three years."
+    },
+    {
+      "value": "2019",
+      "context": "Kelvyn Benites mentions the year he started noticing customer progression in luxury watch purchases."
+    },
+    {
+      "value": "4 per year",
+      "context": "Production rate of Cartier Crash watches"
+    },
+    {
+      "value": "1 million reais",
+      "context": "Potential resale value of Cartier Crash watch"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marçal",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Private",
+      "target_type": "company"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Customer Experience",
+      "target_type": "concept"
+    },
+    {
+      "source": "New Old",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Diesel",
+      "target_type": "company"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mentorship",
+      "target_type": "concept"
+    },
+    {
+      "source": "New Old",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Armani",
+      "target_type": "company"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jay-Z",
+      "target_type": "person"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cartier",
+      "target_type": "company"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tom Brady",
+      "target_type": "person"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Audemars Piguet",
+      "target_type": "company"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Asset Investment",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tássio",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Private",
+      "target_type": "company"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Luxury Watches",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Private",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Private",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "New Old",
+      "target_type": "company"
+    },
+    {
+      "source": "New Old",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Corleone",
+      "target_type": "company"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Luxury Market",
+      "target_type": "concept"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Turbilhão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Second-Hand Dealers",
+      "target_type": "concept"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Private",
+      "target_type": "company"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Richard Mille",
+      "target_type": "company"
+    },
+    {
+      "source": "Kelvyn Benites",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "New Old",
+      "target_type": "company"
+    }
+  ]
+}

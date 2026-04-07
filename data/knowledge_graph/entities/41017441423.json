@@ -1,0 +1,120 @@
+{
+  "episode_id": "41017441423",
+  "title": "[CORTE] \"A KANUI FEZ EU DESCOBRIR QUE DAVA PARA GANHAR DINHEIRO COM A INTERNET\"",
+  "date_published": 1754514000,
+  "duration": 705,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Whindersson Nunes",
+      "role": "mentioned",
+      "company": "YouTube",
+      "title": "Influencer"
+    },
+    {
+      "name": "Felipe Suleiman",
+      "role": "mentioned",
+      "company": "Canoe",
+      "title": "Team Member"
+    },
+    {
+      "name": "Felipe Camargo",
+      "role": "mentioned",
+      "company": "Canoe",
+      "title": "Team Member"
+    },
+    {
+      "name": "Rod Filmes",
+      "role": "mentioned",
+      "company": "YouTube",
+      "title": "Content Creator"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Discussed as a pioneer in influencer marketing on YouTube"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Influencer Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Google Analytics",
+      "category": "Analytics Tool"
+    },
+    {
+      "name": "Last Click Attribution",
+      "category": "Digital Marketing Metric"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "300 reais",
+      "context": "Paid to Whindersson Nunes for YouTube promotion"
+    },
+    {
+      "value": "40%",
+      "context": "Revenue attributed to YouTube influencer marketing"
+    },
+    {
+      "value": "200-300 channels",
+      "context": "Number of YouTube channels sponsored by Canoe"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Influencer Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Google Analytics",
+      "target_type": "concept"
+    },
+    {
+      "source": "Felipe Camargo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Whindersson Nunes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Rod Filmes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Suleiman",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Last Click Attribution",
+      "target_type": "concept"
+    }
+  ]
+}

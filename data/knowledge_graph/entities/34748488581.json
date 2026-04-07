@@ -1,0 +1,372 @@
+{
+  "episode_id": "34748488581",
+  "title": "Lucas Lucco - Para Além do Artista: A Face Empreendedora de Lucas Lucco | Extremos",
+  "date_published": 1687338015,
+  "duration": 5461,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Lucas Lucco",
+      "role": "guest",
+      "company": "Lucas Lucco",
+      "title": "Cantor e empreendedor"
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Avô de Lucas Lucco"
+    },
+    {
+      "name": "Rodrigo Bissa",
+      "role": "mentioned",
+      "company": "Lucas Lucco",
+      "title": "Comercial"
+    },
+    {
+      "name": "Gustavo",
+      "role": "mentioned",
+      "company": "Gustavo Lima",
+      "title": "Cantor e Empreendedor"
+    },
+    {
+      "name": "Tito",
+      "role": "mentioned",
+      "company": "",
+      "title": "Mentor de Lucas Lucco"
+    },
+    {
+      "name": "Sérgio Lima",
+      "role": "mentioned",
+      "company": "",
+      "title": "Conector na criação da Skyfit"
+    },
+    {
+      "name": "Bruno Berardo",
+      "role": "mentioned",
+      "company": "Skyfit",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do G4 Podcast"
+    },
+    {
+      "name": "Dr. Thiago Bianco",
+      "role": "mentioned",
+      "company": "Homens",
+      "title": "Medical Specialist"
+    },
+    {
+      "name": "Lorena",
+      "role": "mentioned",
+      "company": "",
+      "title": "Spouse"
+    },
+    {
+      "name": "Luca",
+      "role": "mentioned",
+      "company": "",
+      "title": "Son"
+    },
+    {
+      "name": "Pabllo Vittar",
+      "role": "mentioned",
+      "company": "",
+      "title": "Collaborator"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e negócios",
+      "context": "Mencionado como parte do podcast Extremos"
+    },
+    {
+      "name": "Ford Models",
+      "industry": "Modelagem",
+      "context": "Lucas Lucco mencionou que a Hawaii Models se tornou Ford Models."
+    },
+    {
+      "name": "Calvin Klein",
+      "industry": "Moda",
+      "context": "Lucas Lucco trabalhou na Calvin Klein durante dois anos."
+    },
+    {
+      "name": "Puma",
+      "industry": "Moda",
+      "context": "Lucas Lucco trabalhou na Puma após a Calvin Klein."
+    },
+    {
+      "name": "Skyfit",
+      "industry": "Fitness",
+      "context": "Franquia de academias cofundada por Lucas Lucco"
+    },
+    {
+      "name": "Topo",
+      "industry": "Suplementos alimentares",
+      "context": "Marca de suplementos alimentares focada em saúde mental"
+    },
+    {
+      "name": "Homens",
+      "industry": "Estética masculina",
+      "context": "Clínica estética para homens, focada em implante capilar e tratamento para calvície"
+    },
+    {
+      "name": "Mais Mu",
+      "industry": "Alimentos saudáveis",
+      "context": "Case de sucesso mencionado por Lucas Lucco"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "franquias",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "burnout",
+      "category": "Saúde mental e trabalho"
+    },
+    {
+      "name": "inteligência emocional",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Empreendedorismo Artístico",
+      "category": "Negócios"
+    },
+    {
+      "name": "Sertanejo Universitário",
+      "category": "Música"
+    },
+    {
+      "name": "Criação de Conteúdo",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Projeto Sua História",
+      "category": "Iniciativa Musical"
+    },
+    {
+      "name": "Saúde mental",
+      "category": "Bem-estar"
+    },
+    {
+      "name": "Alimentos saudáveis",
+      "category": "Indústria alimentícia"
+    },
+    {
+      "name": "Implante capilar",
+      "category": "Medical Procedure"
+    },
+    {
+      "name": "Tratamento para calvície",
+      "category": "Medical Procedure"
+    },
+    {
+      "name": "Pandemia",
+      "category": "Event"
+    },
+    {
+      "name": "Divórcio",
+      "category": "Personal Event"
+    },
+    {
+      "name": "Fama",
+      "category": "Social Concept"
+    },
+    {
+      "name": "Hate",
+      "category": "Social Concept"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10 anos",
+      "context": "Carreira musical de Lucas Lucco"
+    },
+    {
+      "value": "250 franquias vendidas",
+      "context": "Meta de vendas de academias mencionada por Lucas Lucco"
+    },
+    {
+      "value": "180 shows por ano",
+      "context": "Número de shows realizados por Lucas Lucco em anos anteriores"
+    },
+    {
+      "value": "50,000 reais",
+      "context": "Orçamento para gravação de um DVD no Projeto Sua História."
+    },
+    {
+      "value": "2020",
+      "context": "Ano de criação da Skyfit"
+    },
+    {
+      "value": "89 a 149 reais",
+      "context": "Faixa de preço de planos na Skyfit"
+    },
+    {
+      "value": "2 anos",
+      "context": "Age of Lucas Lucco's son, Luca"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Luca",
+      "target_type": "person"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gustavo",
+      "target_type": "person"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Emocional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Topo",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Lorena",
+      "target_type": "person"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Homens",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tito",
+      "target_type": "person"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Empreendedorismo Artístico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Projeto Sua História",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Lucas Lucco",
+      "target_type": "person"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sertanejo Universitário",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ford Models",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Hawaii Models",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Pabllo Vittar",
+      "target_type": "person"
+    },
+    {
+      "source": "Rodrigo Bissa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Lucas Lucco",
+      "target_type": "person"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Dr. Thiago Bianco",
+      "target_type": "person"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Criação De Conteúdo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Franquias",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Skyfit",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Calvin Klein",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Burnout",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Mais Mu",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Lucco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Puma",
+      "target_type": "company"
+    }
+  ]
+}

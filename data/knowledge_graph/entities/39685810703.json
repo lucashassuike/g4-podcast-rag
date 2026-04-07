@@ -1,0 +1,443 @@
+{
+  "episode_id": "39685810703",
+  "title": "PRESSÃO E PODER: OS BASTIDORES DE UMA STARTUP DE AVIAÇÃO POR ASSINATURA | EXTREMOS",
+  "date_published": 1752069448,
+  "duration": 4373,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Rogério Andrade",
+      "role": "guest",
+      "company": "Avanto",
+      "title": "Fundador e CEO"
+    },
+    {
+      "name": "Flávio",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Chefe de Audiovisual"
+    },
+    {
+      "name": "Silvio De Barros",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pablo Marçal",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Adib",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nelson Williams",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Cezinha",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rogério",
+      "role": "guest",
+      "company": "Avanto",
+      "title": "CEO"
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "TecnaT",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Avanto",
+      "industry": "Aviação Executiva",
+      "context": "Empresa de aviação executiva fundada por Rogério Andrade, oferecendo serviços de compartilhamento de aeronaves e administração de aviões e helicópteros."
+    },
+    {
+      "name": "Rio Bravo",
+      "industry": "Investimentos",
+      "context": "Principal sócia da Avanto, envolvida no processo de fundação e aceleração da empresa."
+    },
+    {
+      "name": "Embraer",
+      "industry": "Aviation",
+      "context": "Manufacturer of Phenom 100, Phenom 300, and Legacy 500 aircraft"
+    },
+    {
+      "name": "Vant",
+      "industry": "Aviation",
+      "context": "Operates a fleet of aircraft including Epic, Phenom 100, Phenom 300, and Legacy 500"
+    },
+    {
+      "name": "United Airlines",
+      "industry": "Aviation",
+      "context": "Economia de combustível devido à redução de peso dos passageiros"
+    },
+    {
+      "name": "Tecnat",
+      "industry": "Technology",
+      "context": "Comentário sobre economia de combustível"
+    },
+    {
+      "name": "Epic",
+      "industry": "Aviação",
+      "context": "Fabricante de aeronaves mencionada no contexto de aquisição e homologação no Brasil."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Propriedade Compartilhada",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Aviação Executiva",
+      "category": "Indústria"
+    },
+    {
+      "name": "Segmento de Luxo",
+      "category": "Mercado"
+    },
+    {
+      "name": "Tempo como Ativo",
+      "category": "Conceito de Valor"
+    },
+    {
+      "name": "Cota de aeronave",
+      "category": "Modelo de negócio"
+    },
+    {
+      "name": "Custo fixo e variável",
+      "category": "Estratégia financeira"
+    },
+    {
+      "name": "Manutenção de aeronaves",
+      "category": "Operações"
+    },
+    {
+      "name": "Voo visual e por instrumentos",
+      "category": "Aviação"
+    },
+    {
+      "name": "aviation safety",
+      "category": "concept"
+    },
+    {
+      "name": "fleet expansion",
+      "category": "strategy"
+    },
+    {
+      "name": "cost management",
+      "category": "strategy"
+    },
+    {
+      "name": "Certificação de qualidade em segurança de voo",
+      "category": "Aviation"
+    },
+    {
+      "name": "Propriedade compartilhada de aeronaves",
+      "category": "Business Model"
+    },
+    {
+      "name": "Empty leg",
+      "category": "Aviation"
+    },
+    {
+      "name": "Know Your Client (KYC)",
+      "category": "Compliance"
+    },
+    {
+      "name": "Homologação de aeronaves",
+      "category": "Regulamentação"
+    },
+    {
+      "name": "Fidic",
+      "category": "Financiamento"
+    },
+    {
+      "name": "Modelo de assinatura",
+      "category": "Estratégia de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "250 mil dólares",
+      "context": "Cota de investimento mencionada no contexto de aviação executiva."
+    },
+    {
+      "value": "45 aeronaves",
+      "context": "Número de aeronaves administradas pela Avanto."
+    },
+    {
+      "value": "500 famílias",
+      "context": "Número de clientes atendidos pela Avanto."
+    },
+    {
+      "value": "34 aeronaves",
+      "context": "Quantidade de aeronaves adquiridas recentemente pela Avanto."
+    },
+    {
+      "value": "204 bilhões de dólares",
+      "context": "Valor mencionado no contexto de investimentos na aviação executiva."
+    },
+    {
+      "value": "100 mil dólares",
+      "context": "Custo de entrada para a menor cota de helicóptero (esquilo)."
+    },
+    {
+      "value": "17 mil reais",
+      "context": "Custo fixo mensal para a menor cota de helicóptero (esquilo)."
+    },
+    {
+      "value": "5.500 reais",
+      "context": "Custo por hora de voo para a menor cota de helicóptero (esquilo)."
+    },
+    {
+      "value": "250 mil dólares",
+      "context": "Custo de entrada para a cota de helicóptero Augusta."
+    },
+    {
+      "value": "30 mil reais",
+      "context": "Custo fixo mensal para a cota de helicóptero Augusta."
+    },
+    {
+      "value": "9.500 reais",
+      "context": "Custo por hora de voo para a cota de helicóptero Augusta."
+    },
+    {
+      "value": "34",
+      "context": "Number of Epic aircraft purchased by Vant"
+    },
+    {
+      "value": "200,000 BRL",
+      "context": "Monthly fixed cost of a Phenom 100 aircraft"
+    },
+    {
+      "value": "1,750,000 USD",
+      "context": "Investment cost for a Phenom 300 aircraft"
+    },
+    {
+      "value": "40,000 BRL",
+      "context": "Monthly fixed cost of an Epic aircraft"
+    },
+    {
+      "value": "13 treinamentos anuais",
+      "context": "Treinamentos realizados por pilotos da Avanto"
+    },
+    {
+      "value": "500 famílias",
+      "context": "Clientes que utilizam os serviços da Avanto"
+    },
+    {
+      "value": "210 cotistas",
+      "context": "Número de cotistas da Avanto"
+    },
+    {
+      "value": "45 aeronaves",
+      "context": "Frota da Avanto"
+    },
+    {
+      "value": "10 mil aeronaves privadas",
+      "context": "Tamanho da frota de aviões privados no Brasil."
+    },
+    {
+      "value": "4 mil aeronaves",
+      "context": "Número de jatos, turbo-hélices e helicópteros no Brasil."
+    },
+    {
+      "value": "45 aeronaves",
+      "context": "Quantidade de aeronaves sob gestão da Avanto."
+    },
+    {
+      "value": "45 aeronaves",
+      "context": "Tamanho da frota da Avanto"
+    },
+    {
+      "value": "34 EPICs",
+      "context": "Decisão de compra de aeronaves pela Avanto"
+    },
+    {
+      "value": "575 mil dólares",
+      "context": "Custo de uma cota de aeronave"
+    },
+    {
+      "value": "25 mil reais por mês",
+      "context": "Custo mensal de uma cota de aeronave"
+    },
+    {
+      "value": "5 mil reais por hora de voo",
+      "context": "Custo por hora de voo"
+    },
+    {
+      "value": "4 mil reais para 4 pessoas",
+      "context": "Custo de voo de 45 minutos entre São Paulo e Rio de Janeiro"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Avanto",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Propriedade Compartilhada De Aeronaves",
+      "target_type": "concept"
+    },
+    {
+      "source": "Avanto",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Aviação",
+      "target_type": "company"
+    },
+    {
+      "source": "Avanto",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Propriedade Compartilhada",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tecnat",
+      "target_type": "company"
+    },
+    {
+      "source": "Avanto",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Epic",
+      "target_type": "company"
+    },
+    {
+      "source": "Avanto",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Cota De Aeronave",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vant",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Aviation Safety",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Avanto",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Cezinha",
+      "target_type": "person"
+    },
+    {
+      "source": "Avanto",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Aviação Executiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rogério",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Avanto",
+      "target_type": "company"
+    },
+    {
+      "source": "Rogério Andrade",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Avanto",
+      "target_type": "company"
+    },
+    {
+      "source": "Avanto",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Certificação De Qualidade Em Segurança De Voo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Avanto",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Homologação De Aeronaves",
+      "target_type": "concept"
+    },
+    {
+      "source": "Silvio De Barros",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Avanto",
+      "target_type": "company"
+    },
+    {
+      "source": "Vant",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Embraer",
+      "target_type": "company"
+    },
+    {
+      "source": "Rio Bravo",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Avanto",
+      "target_type": "company"
+    },
+    {
+      "source": "Avanto",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Know Your Client (Kyc)",
+      "target_type": "concept"
+    },
+    {
+      "source": "United Airlines",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Empty Leg",
+      "target_type": "concept"
+    },
+    {
+      "source": "Avanto",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Manutenção De Aeronaves",
+      "target_type": "concept"
+    }
+  ]
+}

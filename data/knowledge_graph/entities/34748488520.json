@@ -1,0 +1,170 @@
+{
+  "episode_id": "34748488520",
+  "title": "Construa uma Marca Forte e Saiba Posicioná-la | G4 Podcasts",
+  "date_published": 1698309000,
+  "duration": 1919,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação para negócios"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Feedback",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Protagonismo de marca",
+      "category": "Estratégia de marca"
+    },
+    {
+      "name": "Gestão de valor",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Growth marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Gestão 4.0",
+      "category": "Educação e Negócios"
+    },
+    {
+      "name": "User Generated Content (UGC)",
+      "category": "Marketing"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Métricas de Negócios"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métricas de Negócios"
+    },
+    {
+      "name": "TikTok",
+      "category": "Plataforma de Mídia Social"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "8,7 vezes mais influência",
+      "context": "Conteúdo criado por consumidores comparado a publiposts de macro influenciadores"
+    },
+    {
+      "value": "65%",
+      "context": "Proporção de leads e receita gerados pelo Instagram do G4 Educação."
+    },
+    {
+      "value": "8.7 vezes",
+      "context": "Influência maior do conteúdo gerado por consumidores em comparação a publicações de macro influenciadores."
+    },
+    {
+      "value": "63%",
+      "context": "Proporção de brasileiros que usam mídias sociais para buscar informações sobre produtos e serviços."
+    },
+    {
+      "value": "57%",
+      "context": "Proporção de brasileiros que usam o Google para buscar informações sobre produtos e serviços."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "User Generated Content (Ugc)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Tiktok",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gestão 4.0",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "episode_id": "34748488665",
+  "title": "#013 - 100 milhões e a expansão inteligente da Zee.Dog, com Thadeu Diz",
+  "date_published": 1606401284,
+  "duration": 3345,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Thadeu Diz",
+      "role": "guest",
+      "company": "Zee.Dog",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Founder"
+    },
+    {
+      "name": "Tabata Amaral",
+      "role": "mentioned",
+      "company": "",
+      "title": "Deputada"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Zee.Dog",
+      "title": "Co-fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação para negócios"
+    },
+    {
+      "name": "Zee.Dog",
+      "industry": "Produtos para pets",
+      "context": "Empresa focada em produtos para pets com abordagem multicanal"
+    },
+    {
+      "name": "Zee.Now",
+      "industry": "Logística e entrega",
+      "context": "Serviço de entrega rápida de produtos para pets"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Finance",
+      "context": "Mentioned in the context of work culture and infrastructure."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Mencionada como exemplo de eficiência logística e atendimento ao cliente."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Omni-Channel",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métrica de satisfação do cliente"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica financeira"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Métrica financeira"
+    },
+    {
+      "name": "LTV sobre CAC",
+      "category": "Métrica de eficiência financeira"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Gestão e liderança"
+    },
+    {
+      "name": "Crescimento sustentável",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Home Office Perene",
+      "category": "Workplace Strategy"
+    },
+    {
+      "name": "Four-day work week",
+      "category": "Workplace Strategy"
+    },
+    {
+      "name": "Administração 4.0",
+      "category": "Educational Framework"
+    },
+    {
+      "name": "Infraestrutura logística",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Segurança jurídica",
+      "category": "Legal Framework"
+    },
+    {
+      "name": "LGPD (Lei Geral de Proteção de Dados)",
+      "category": "Regulation"
+    },
+    {
+      "name": "Crescimento saudável",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Foco no cliente",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Inspiração de equipe",
+      "category": "Leadership"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "450",
+      "context": "Número de funcionários globais combinados da Zee.Dog e Zee.Now"
+    },
+    {
+      "value": "90-91",
+      "context": "NPS da Zee.Dog, indicando excelência"
+    },
+    {
+      "value": "4.3",
+      "context": "LTV sobre CAC em 30 dias"
+    },
+    {
+      "value": "4.9",
+      "context": "Média de avaliação de serviço"
+    },
+    {
+      "value": "5 mil",
+      "context": "Número de mulheres trabalhando na empresa mencionada"
+    },
+    {
+      "value": "4 dias",
+      "context": "Semana de trabalho na Zee.Dog"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Zee.Dog",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Nps (Net Promoter Score)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Amazon",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Infraestrutura Logística",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thadeu Diz",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Zee.Dog",
+      "target_type": "company"
+    },
+    {
+      "source": "Zee.Dog",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Zee.Now",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Thadeu Diz",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tabata Amaral",
+      "target_type": "person"
+    },
+    {
+      "source": "Zee.Dog",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Omni-Channel",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

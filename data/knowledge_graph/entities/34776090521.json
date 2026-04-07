@@ -1,0 +1,282 @@
+{
+  "episode_id": "34776090521",
+  "title": "O PODER DO SOUDBRANDING COM ZANNA | EXTREMOS",
+  "date_published": 1741784400,
+  "duration": 3914,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Zanna Sound",
+      "role": "guest",
+      "company": "Zanna Sound",
+      "title": "Especialista em Sound Branding"
+    },
+    {
+      "name": "Zanna",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "James Brown",
+      "role": "mentioned",
+      "company": "",
+      "title": "Musician"
+    },
+    {
+      "name": "Herbie Hancock",
+      "role": "mentioned",
+      "company": "",
+      "title": "Musician"
+    },
+    {
+      "name": "Patrícia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Discussão sobre identidade musical e branding sensorial."
+    },
+    {
+      "name": "Banco Do Brasil",
+      "industry": "Serviços Financeiros",
+      "context": "Primeiro cliente de Zanna Sound para identidade sonora."
+    },
+    {
+      "name": "Netflix",
+      "industry": "Streaming de Vídeo",
+      "context": "Discussão sobre identidade sonora com o som 'Tundum'."
+    },
+    {
+      "name": "Globo",
+      "industry": "Mídia e Entretenimento",
+      "context": "Discussão sobre identidade sonora com o som 'Plim-plim'."
+    },
+    {
+      "name": "Pepsi",
+      "industry": "Bebidas",
+      "context": "Mencionada como exemplo de marca."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Serviços Financeiros",
+      "context": "Discussão sobre identidade sonora com melodia característica."
+    },
+    {
+      "name": "Coca-Cola",
+      "industry": "Beverages",
+      "context": "Discussed in the context of branding and market strategy."
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Mencionada como marca preferida para projeto de som"
+    },
+    {
+      "name": "Vivo",
+      "industry": "Telecomunicações",
+      "context": "Projeto desafiador mencionado pela convidada"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Sound Branding",
+      "category": "Branding e Marketing"
+    },
+    {
+      "name": "Branding Sensorial",
+      "category": "Branding e Marketing"
+    },
+    {
+      "name": "Identidade Sonora",
+      "category": "Branding e Marketing"
+    },
+    {
+      "name": "Método Manifesta",
+      "category": "Estratégia e Desenvolvimento"
+    },
+    {
+      "name": "Soundbranding",
+      "category": "Branding"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Awareness",
+      "category": "Marketing"
+    },
+    {
+      "name": "Exclusivity in distribution",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Corporate identity",
+      "category": "Branding"
+    },
+    {
+      "name": "Emotional purchase",
+      "category": "Consumer Behavior"
+    },
+    {
+      "name": "Autenticidade",
+      "category": "Comportamento profissional"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "200 anos",
+      "context": "Campanha do Banco do Brasil desenvolvida por Zanna Sound."
+    },
+    {
+      "value": "2 meses",
+      "context": "Duração média de processos de branding realizados por Zanna Sound."
+    },
+    {
+      "value": "120 years",
+      "context": "Duration of Coca-Cola's logo usage."
+    },
+    {
+      "value": "22 milhões",
+      "context": "Número de pessoas alcançadas diariamente pela música no metrô"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Zanna Sound",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Zanna Sound",
+      "target_type": "person"
+    },
+    {
+      "source": "Zanna Sound",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Zanna Sound",
+      "target_type": "person"
+    },
+    {
+      "source": "Zanna Sound",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Identidade Sonora",
+      "target_type": "concept"
+    },
+    {
+      "source": "Zanna Sound",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Banco Do Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Zanna Sound",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Sound Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Zanna",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Soundbranding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Zanna Sound",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Branding Sensorial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Zanna Sound",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Netflix",
+      "target_type": "company"
+    },
+    {
+      "source": "Zanna Sound",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "Zanna",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Zanna Sound",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Itaú",
+      "target_type": "company"
+    },
+    {
+      "source": "Zanna",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "Coca-Cola",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Exclusivity In Distribution",
+      "target_type": "concept"
+    },
+    {
+      "source": "Coca-Cola",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Pepsi",
+      "target_type": "company"
+    },
+    {
+      "source": "Zanna",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vivo",
+      "target_type": "company"
+    }
+  ]
+}

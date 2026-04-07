@@ -1,0 +1,2751 @@
+{
+  "id": 34748488456,
+  "title": "COMO ELE CRIOU A MAIOR PLATAFORMA DE GESTÃO DE PROCESSOS - ALESSIO ALIONCO (PIPEFY) | PAPO DE GESTÃO",
+  "guest": "",
+  "date_published": 1710785842,
+  "duration": 5099,
+  "text": "esse desafio de ser remoto em primeiro lugar. Falar um tema que eu sei que vocês adoram falar sobre. Ah, é mais produtivo do que presencial? Não é, cara. Tem que parar de buchitar, não é. O fato é que a gente cresceu dois terços durante a pandemia, já era mais ou menos remoto, contratou remoto pra caramba, gente do mundo inteiro, a gente precisa de especialistas, pessoas que top 1%, que às vezes é um cara que mora do Texas, que tem um know-how específico que a gente precisa contratar, contratou remoto. Não tem, eu vou convencer o cara, ó, agora vamos voltar pro escritório? Vem pro Brasil. Se muda lá pra Curitiba, já era. O que todo mundo tem que entender é, sim, um lugar que você mais tem serendipity, que você mais vai se desenvolver em um time, se eu estivesse começando uma startup hoje, eu faria presencial. E presencial é a referência, é o benchmark, é 100% de produtividade. O que a gente conseguiu ao longo do tempo foi, através de boas práticas de colaboração remota, comunicação, documentação, como a gente mede o sucesso das pessoas, eu avalio a performance, a gente conseguiu chegar o mais próximo possível da produtividade que você tem trabalhando dentro do escritório. Mas é um gap que nunca vai ser 100%, ou me desculpe aí o pessoal que vende isso, não vai ser mais do que 100%. Quais outras dificuldades e dores você vê desses empresários quando eles estão falando de transformação digital e implementar ferramentas como a Pipefire? Um lado do extremo tá era de negócio que tá com um problema no colo. E que é punido se não bater meta, é quem toma prejuízo na cabeça, ou quem vai ouvir a bronca do cliente se a experiência não for boa. E esse extremo ele conhece tudo sobre o problema, ele provavelmente também deveria ser a fonte das melhores ideias de como resolver o problema. Só que o desafio é que esse pedaço aqui do cérebro, ele não conhece nada de tecnologia. E ele não gosta de tecnologia. Ele ouve AI, ele não tá nem aí. Ele não quer saber o que é transformação digital, ele não quer saber o que é Big Data, ele não tá nem aí, não é nada tech savvy. No outro extremo da escala tá o oposto exato disso, que é o cara do TI. Que conhece de tecnologia, gosta de tecnologia, ficava antes só cilada dentro, mantendo o RP ligado dentro do time dele. Que ele conhece muito, não só as potenciais melhores tecnologias, mas ele também conhece os problemas que podem acontecer quando a tecnologia é mal usada. Só que esse cara que tá no outro lado extremo da escala, ele não tem a mínima ideia das dores de negócio. E aí fica meio Stranger Things, os dois mundos que não se conversam, e um com uma visão completamente enviesada do outro. E às vezes chega até a ser uma relação conflituosa. E a maioria das empresas que tem uma dificuldade de se beneficiar com tecnologia, sabe o que que é? É quando um desses dois lados tenta ser herói. Explica um pouquinho mais disso. Fala galera, bem-vindos a mais um Papo de Gestão. E pra você que acompanha a gente aqui, você deve se perguntar, por que que eu vou dedicar tempo pra treinar as pessoas do meu time, se elas podem ir embora? Porque se você não treiná-las e elas ficarem na sua empresa, aí sim você vai ter um problemão. Afinal, uma empresa é formada pelas pessoas que a compõem. E o resultado do negócio depende diretamente da performance desses colaboradores. Sabendo do desafio que é treinar e capacitar a gente, nós desenvolvemos o G4 Skills, que é a plataforma de treinamento de times aqui do G4 Educação, que avalia as lacunas de habilidades e a maturidade do seu colaborador, e cria uma trilha personalizada de desenvolvimento pra cada membro do seu time, com as nossas formações aqui do G4. Pra você conhecer o G4 Skills, eu liberei 7 dias de acesso gratuito à nossa plataforma. Basta você escanear o QR Code que tá aqui nessa tela, ou clicar no link do descritivo desse episódio. Então, aproveita, vai lá com o teu time, que você vai aprender muito. E agora, esse episódio aqui do Papo de Gestão tá sensacional. Espero que você goste. E hoje eu recebo aqui esse meu amigo empreendedor serial, um cara que eu admiro muito, aprendo muito com ele, empreendedor Endeavor, que já teve aí algumas histórias de empreendedorismo, que é meu colega também no curso que tô fazendo lá em Harvard, no OPM, mas que, nada mais nada menos, fundou um dos maiores cases de sucesso de SaaS, Software Como Serviço, aqui do Brasil. Alessio Alionso, fundador e CEO da PipeFi, prazer bater esse papo aqui com você, meu querido. Valeu. Bem-vindo. Obrigado pelo convite aí. Boa, finalmente saiu, né? Saiu, né? Faz uns dois anos já que a gente tá tentando. Boa. Galera, ó, tô muito animado com esse episódio aqui. O Alessio, ele vai falar aqui um pouquinho sobre como realizar a transformação digital na sua empresa, a gente vai falar um pouquinho sobre isso, sobre as dificuldades e dores nesse processo, né? E também vai contar um pouquinho sobre a jornada empreendedora dele, sobre como ele começou, um pouquinho sobre o PipeFi, como o PipeFi se tornou esse case global, a gente tava conversando um pouquinho agora há pouco sobre os benefícios e os contras de ter um negócio global. Então, ó, já pega a caneta aqui, pega papel também pra anotar todos os insights que ele vai dar aqui pra gente. Galera, começando aqui, eu falo muito sobre a importância de você ter pessoas boas nos lugares certos, nas posições corretas na empresa e com bons processos, né? Então eu sempre falo muito sobre isso. Mas é muito difícil também ficar só limitado a pessoas e processos. A gente sabe que o negócio, se você tem pessoas boas, processos bons, ele vai progredir, mas uma hora você vai bater num teto, né? E eu sempre falo nisso, né? Que é pessoas, processos e tecnologia. Você pega ali 20, 30% dos seus processos que mais dão trabalho pra você, que dão 80% do trabalho pro seu time, coloca uma tecnologia, isso vai fazer com que o teu time seja 5 vezes, 10 vezes mais eficiente, né? E daí, eu tenho uma pergunta aqui pra você pra gente começar. Qual que, no teu ponto de vista, é o impacto das pessoas terem essa falta de tecnologia na empresa e como que isso pode impactar diretamente os resultados da empresa? Cara, a gente, lá no Wi-Fi, a gente vê muito essas dores do dia a dia e acho que tem algumas consequências, assim. Primeiro é falta de competitividade e lucratividade no negócio, na operação que o time, a empresa está tocando. Então, custo maior do que deveria ser, falta de agilidade da empresa responder a mudança de mercado, falta de agilidade em entregar o produto ou serviço pro cliente, a qualidade do produto ou serviço em si é super inconsistente, porque você fica confiando só em pessoas, né? Às vezes na memória das pessoas pra garantir que essa entrega do produto ou serviço vai acontecer bem, isso gera vários problemas de estabilidade. A gente vê muito problema de SLA, né? Instabilidade, assim, cliente, pô, às vezes demora pra caramba, perde pedido e tudo isso acaba afetando a competitividade do negócio, né? E é legal que a gente atende todo tipo de setor, às vezes vários concorrentes, a gente vê a diferença de quanto mais ou menos tech enabled a empresa é. Entre todas as camadas dela de execução, parece uma incrível coincidência, mas quem é mais esperto em relação a isso, você vê que o cara tá crescendo, tá ganhando margem, tá crescendo, né? Com certeza tem um ponto em comum ali de você conseguir saber extrair valor disso. E acho que isso tá acontecendo em todo setor, não é só em empresas que já tá bem mais avançado, mas hoje empresas ou funções mais tradicionais que historicamente não se beneficiavam com tecnologia, agora a gente tá vendo também essa transformação acontecer. Pô, cara, assim, isso é um negócio que quando você olha o mundo como um todo, né? Você olha que aqueles países que são mais competitivos, eles acabam começando na frente a ganhar eficiência, né? Uma das teses que a gente tem aqui no G4 é muito sobre isso, né? A gente é um país que a gente tem um alto desemprego, se você comparar com Estados Unidos, que é um país de pleno emprego, mas quando a gente olha o macro do Brasil, a gente tem um desemprego de 3%, né? Que basicamente é um pleno emprego, é um estado muito parecido no fim do dia com aquilo que acontece nos Estados Unidos. E o que que acontece quando você tem o pleno emprego? O que acontece é que as empresas que têm mão de obra desqualificada, né? Que elas necessitam dessa mão de obra desqualificada, acabam não conseguindo achar essa mão de obra, porque é caro pra ela rodar a operação dela com uma mão de obra desqualificada. E o que faz com que ela se force a ganhar eficiência? E quando ela se força a ganhar eficiência, basicamente ela tá subindo uma barrinha de eficiência, né? Onde ela precisa melhorar as pessoas que ela tem lá, pagar melhor pra elas, melhorar os processos e colocar tecnologia pra que aquele time, mesmo sendo mais enxuto, entregue muito mais valor, que é o valor no fim do dia que ele vai gerar pro cliente final\n\nconhece de tecnologia, gosta de tecnologia, ficava antes só silada, mantendo o RP ligado dentro do time dele, que ele conhece muito, não só as potenciais melhores tecnologias, mas ele também conhece os problemas que podem acontecer quando a tecnologia é mal usada. Só que esse cara que tá no outro lado extremo da escala, ele não tem a mínima ideia das dores de negócio. Perfeito. E aí fica meio Stranger Things, os dois mundos que não se conversam, e um com uma visão completamente enviesada do outro. E às vezes chega até a ser uma relação conflituosa. E a maioria das empresas que tem uma dificuldade de se beneficiar com tecnologia, sabe o que que é? É quando um desses dois lados tenta ser herói. Explica um pouquinho mais disso. Quando tecnologia acha que sabe o que que tá acontecendo e sabe qual é a melhor solução, quantas empresas você vê aí com projetos de instalação de sistema do RP que deu errado depois de um, dois anos? A grande maioria. E todo mundo fala, ah, tá vendo? Olha aí, olha aquele sistema lá, falei que não ia funcionar. Por quê? Porque eles tinham conhecimento da tecnologia, mas não entendiam. Ou a realidade do negócio, mas principalmente não entendiam e não engajavam as pessoas que iam usar aquela tecnologia no dia a dia. Perfeito. O outro extremo que tá acontecendo agora muito com a AI, por exemplo, é a área de negócio tentar bancar de ser herói. Aí o cara pega dado sensível da empresa, vai lá no chat PT e joga no ventilador e corre um risco danado. Então esses dois extremos que a gente vê que acaba gerando conflito. E é o mais comum. Todo mundo tem história triste, assim, desses projetos de inovação que acabaram virando elefante branco e ninguém conseguiu adotar. E qual o conselho você dá pra essa galera? Como que você viu os casos de empresas que tiveram mais sucesso numa implantação ou numa transformação digital bem feita? Nossa, cara. Aí eu tenho várias coisas que a gente vê. O que são as melhores práticas quando você pensa, putz, eu vou entrar nesse cliente, esse é o meu sonho de cliente pra entrar porque, putz, esse daqui eu sei que vai dar certo e tá com as melhores práticas que eles fazem. Porque eu entendi que você tem os dois extremos que tipicamente só acontecem porque eles não se conversam. E eu imagino que o oposto disso seja quando esses dois extremos se aproximam e existe uma convivência, um respeito e uma conversa que um entende como o arru do outro. O negócio tentando educar tecnologia e tecnologia tentando educar negócios, né? E no meio talvez você tenha ali um time de Product Owners, Product Managers que fazem muito bem esse Chinese Wall. Nem Chinese Wall, né? Mas talvez muito mais um lugar que eles recebam todo mundo e eduquem todo mundo pra que sirvam mais como tradutores, né? De um lado pro outro. Porque essa é a dificuldade. Como você pega o que alguém tá falando pra traduzir pro outro lado e vice-versa, né? Quais são as melhores práticas ou recomendações que você dá caso a empresa da pessoa ali que tá do empreendedor que tá ouvindo a gente vá passar por uma transformação digital ou quer implementar uma ferramenta? Qual a dica que você dá pra ele fazer isso bem? Cara, eu vejo claramente alguns padrões, tá? A gente atende pô, os bancos, a gente atende todo mundo. Mas esses bancos mais novos, mais ágeis, né? Um bancão de investimento, parceiro de vocês, sempre tá aí com coisa ou roxinho lá que todo mundo usa, né? O que a gente vê de diferencial? São alguns comportamentos, mindsets e a forma como esses times colaboram. Pra começar, esses times trabalham com uma abordagem cross-funcional. E eles colocam na mesma sala pessoas exatamente com backgrounds diferentes que conseguem ter uma visão 360 sobre o problema e sobre possíveis soluções praquele problema do ponto de vista tecnológico. Então, geralmente, times cross-funcionais pra resolver um problema específico tendem a dar mais certo. Então, um time cross-funcional basicamente é um time que você vai colocar lá uma pessoa de tecnologia, uma pessoa de negócios, uma pessoa talvez de produto e esses três vão conversar bastante pra conseguir chegar na solução. E olha lá, produto a gente que daí é produteiro, né? Que tem uma abordagem mais sofisticada. Mas pensando em dia-a-dia, melhoria contínua dentro da operação, às vezes nem precisa de produto. Mas é importante ter uma pessoa com viés da solução da tecnologia e uma pessoa com entendimento profundo do problema. Primeiro coisa, ou essas duas no mínimo e ou algumas pessoas que conhecem muito ou do cliente ou do mundador ou que... É um problema jurídico? Bom, coloca alguém grande no legal ali pra resolver. Às vezes depende muito do que aquele problema tá demandando e quem são os stakeholders impactados por aquilo. Então, basicamente aqui o que a gente tá falando é assim, traz o problema. Qual o problema eu quero resolver? Porque muitas vezes quem sabe o problema e quer imaginar a solução, que no caso você falou que é o herói, ele imagina a solução errada porque ele tem uma visão muito fechada, que nem aqueles cavalos que andam na cidade que tem aqui, né? Sabe aqueles tampões? É essa a visão de mundo dele. É muito pequena. Ele não entende de tecnologia pra entender tudo que dá pra fazer. E quando você coloca a pessoa de tecnologia que não entendeu, na verdade, o escopo inteiro do problema ele vai falar, cara, quero resolver isso pensando no longo prazo e como ser escalável. E às vezes você não precisa ser escalável no longo prazo porque o problema é importante, mas é pequeno. Então, na verdade, aquilo que poderia ser resolvido em uma semana demora, às vezes, um mês, dois meses de programação pra resolver algo que você poderia ter feito em uma semana e já resolvido E já era suficiente. 90% do problema que era suficiente pros próximos meses e anos. Pelos olhos do cliente que é quem você precisa satisfazer que tem uma expectativa, era suficiente. Perfeito. E aí não precisava de nada. Era good enough. Bom o suficiente. Que é o que você tem que entregar pelos olhos do cliente. E aí você entrou no segundo ponto que é o padrão que a gente vê. Times muito bons e que tendem a usar tecnologia melhor, eles focam no problema antes de pensar na solução. E eles focam em entender o problema. Primeiro, qual é a jornada de ponta a ponta do que a gente chama de value stream, né? Que é a cadeia do que precisa acontecer passo a passo até o cliente receber o que ele tem de expectativa. Ah, tá um bordão no colaborador? O que acontece de ponta a ponta? Tá entregando produto ou serviço pro cliente? O que tá acontecendo de ponta a ponta? Uma vez que você projetou esse value stream, o caminho feliz do que deveria acontecer, você fala, tá bom, mas shit happens. Em cada etapa dessa execução do teu value stream, o que que tá atrapalhando o teu resultado? É gente que tá esquecendo de fazer alguma coisa que deveria fazer? É alguém que tá gastando muito tempo fazendo trabalho manual e que isso tá consumindo recurso da empresa? É algum possível retrabalho que você tá tendo sempre? É um problema com a entrada de matéria-prima e a matéria-prima tá dando problema e você tem que refazer o produto? Ou vai pro cliente aquele produto com problema e ele reclama, aí ele fica insatisfeito, esse produto volta pra outra linha? Uma vez que você desenhou o que tinha que acontecer, você faz um brainstorm dos possíveis problemas que geram impacto negativamente aquilo. Tem um fluxo de contas a pagar. É um fluxo de pagamento de fornecedor. Tem um caminho feliz. Mas o que que acontece, por exemplo, que é sempre? Área de negócio manda pro compras pagar em cima da hora. Ou já manda com a nota vencida. Área de compras paga a nota errada. Ou paga uma nota que vem de uma fraude lá, que passam pro cara e o cara paga porque achou que... Que era alguém importante mandando. Que alguém importante mandando. A área de compras e jurídico demora pra pagar o fornecedor e a empresa acaba pagando multa. Ou você tem um contrato de prestação de serviço, chegou na hora da renovação, ninguém viu. Renovou automático. Renovou automático. Então assim, você pensa tudo que pode dar B.O. Pode dar ruim. A partir do momento que você entendeu e fez o brainstorm dos problemas, você não parte pra solução ainda. Você para pra pensar. Quanto que me custa em média cada um desses problemas? E de quanto em quanto tempo isso acontece? Perfeito. Aí você vai pegar algum desses problemas específicos, geralmente o mais doloroso, ou o que custa mais e que tem relevância pro teu negócio. E geralmente você vai pensar, é um problema que eu consigo resolver rápido? É um problema que eu consigo fatiar ele e numa dessas fazer entregáveis menores e usar uma abordagem ágil pra conseguir entregar uma experiência melhor pro meu cliente? A partir do momento que você identificou, entendeu quanto que custa, aí sim e só depois que priorizou, você vai pra terceira parte que é, vamos pensar em solução pra isso aqui? Perfeito. E em vez de casar com a primeira solução, ah eu preciso de Iron Man negócio, ah agora saiu tal vendor, eu preciso usar essa tecnologia. Não, não, não. Que problema é que você tá cá? Quanto que custa esse problema? Quais são as outras alternativas ou possíveis soluções pra você resolver esse problema? Aí você começa a ficar inteligente na hora de escolher a solução. E acho que a gente vê esse padrão, times que tem esse\n\nEu fiquei um tempo sendo conselheiro de algumas empresas e estava dando consultoria de produto, porque eu sou proteíno, você sabe, o que eu gosto, tecnologia do PipeFi, quase tudo que vocês veem lá tem muito da minha atuação ainda. E eu trabalhava com um acelerador israelense chamado Nestech na época, dando consultoria de produto para eles e também ajudando eles a lançar alguns produtos que eles queriam trazer aqui para o Brasil. E aí num jantar, sabe aquele papo de jantar de quebradeiro assim, ah, como é que vocês são uma potência tecnológica, sendo que vocês são desse tamanho, papapá, ele falou assim, a gente tem 8, 9 milhões de pessoas, a gente está em guerra com os nossos vizinhos, a gente não tem mercado local, então todo empreendedor israelense ele sabe que se ele quiser vender, ele tem que ter uma ideia que é boa o suficiente para ser competitiva nos Estados Unidos, na Europa, e ele tem que pensar isso desde o dia 1, e ele sabe que ele tem que ser muito melhor que os concorrentes locais, e é o problema da dor da galinha, justamente por causa de todas essas restrições, que quando a gente tira uma ideia do papel e ela começa a funcionar, a gente é global desde o dia 1, e a gente está pronto, está pronto para escalar, está pronto para vender para o mundo inteiro, está acostumado a lidar com todo esse tipo de adversidade, e aí ele na mesa, na frente de um monte de gente, falou assim, agora vejam vocês brasileiros, vocês têm uma população de mais de 200 milhões de pessoas, vocês têm a barreira da língua, vocês têm a barreira da burocracia de vocês, vocês não são o maior mercado do mundo no dia 1, que todo mundo vai entrar para competir, então vocês têm um ambiente artificial temporário que coloca vocês em uma zona de conforto e sempre faz com que vocês tenham baixíssimas expectativas do que vocês podem fazer, porque você consegue ficar rico vendendo localmente, seja no Brasil, numa Rússia da vida, numa Índia da vida, e aí ele virou para mim e falou, ali que foi o dessa vez eu vou atropelar, ele falou assim, me diga o nome de uma empresa brasileira de tecnologia que é líder global no que faz. E o Jim Pesce não existia na época? Jim Pesce existia nessa época, Vtex não existia nessa época, tinha várias empresas que não existiam nessa época, e eu voltei tão puto para o hotel que eu falei assim, seu bingo filho da mãe, você vai ver se a gente não sabe fazer software direito também, e cara, às vezes é isso, essas experiências te marcam em motivo, então eu já voltei com aquela cabeça, a gente já tinha sido atropelado com a minha primeira empresa mesmo, eu falei assim, dessa vez I'm gonna go big, e foi assim que a gente começou global desde o dia 1, e a gente teve muita sorte também no começo, lugar certo, na hora certa, a gente criou as oportunidades que a gente, a oportunidade veio, mas a gente estava pronto para surfar aquela onda quando veio também, então isso ajudou bastante. Quando vocês começaram, que ano que foi? Foi 2000 e... a gente começou mesmo assim, lançou em março de 2015. Mas começaram a empresa, o que é 2014? É, metade de 2014. Legal, e cara, quais foram os maiores desafios e dificuldades para você tornar o Pipefire global? Porque vocês estavam aqui, lá de Curitiba, Curitiba era ou não? Era, era de Curitiba no começo. Como é que foi de lá, quais foram os maiores desafios para ir para o mundo inteiro?\nCara, acho que primeiro, é muito difícil você acreditar no sonho, né? Porque é igual fazer dieta, o resultado ele não existe ainda, e você tem que todo dia... Comer menos. É, você vai fazer uma landing page, você tem que fazer a landing page em inglês, ninguém vai ler aquela merda, você fala, porra cara, o que eu estou fazendo isso? Aí você vai fazer a documentação, vai fazer o software, vai fazer em inglês, com matriz de tradução que dá duas, três vezes mais trabalho, você fala, puta, mas não tem ninguém aqui ainda usando, será que faz sentido? Na época não existia OpenAI, chat, GPT para te ajudar nisso. Não tinha nada, cara, tinha Fiverr. A gente fazia as coisas e abria no Fiverr, pegava um redator para ajudar a revisar o texto e corrigir os erros que a gente fazia. Então, a primeira coisa é o nível de energia que a gente precisava colocar upfront até o negócio faiscar, sabe? Tipo, a gente ficava ali vários meses com o desfibrilador tentando fazer as coisas clicarem. Acho que isso faz muito difícil, porque a única coisa que você tem é o que você acreditar naquela visão. Só o sonho. Só o sonho. E depois, em cada etapa da jornada, o descrédito que a gente tinha um pouco em relação à ambição. Então, por exemplo, a gente passou na 500 Startups lá. Aí, cara, na primeira semana, as startups que estavam sendo aceleradas pela 500 faziam um pitch e mostravam para a comunidade o que estavam fazendo. A gente foi tão mal, cara, na sessão de pitch, porque a gente sabia falar inglês direito, que o Dave McClure tirou a gente do palco. A gente tem isso, cara. O Dave McClure é o fundador. É o fundador da 500 Startups. Ele tirou você do palco. Tirou. Não era eu, porque eu estava resolvendo esse burocrata da empresa aqui. Tinha sido um co-founder nosso que estava lá na hora. Ele falou assim, não, não, não. Aí o Dave ainda falou assim, não, não. Falem português, pelo menos. Aí o cara ficou nervoso, nem em português conseguia falar. Cara, o Dave tirou do palco. Então, assim, todo mundo meio que olhava a gente e aí... Patino feio mesmo. Ex-Harvard, ex-Google, ex-Facebook, ex-Stanford, toda aquela galera. Eles falam assim, nossa, o que esses brasileiros estão fazendo aqui? E, por um lado, apesar disso ter sido um puta trauma, cara, foi um motivador para a gente. A gente no time, a gente tem orgulho desgraçado. A gente é dog total, né? É, a gente falava assim, a gente pode ser bem chucro, mas o nosso trabalho vai ser o nosso cartão de visita. E, velho, a gente trabalhava de domingo a domingo, cara. A gente trabalhava de domingo a domingo. Doze horas por dia, às vezes mais. E, pô, ali em quatro meses a gente já saiu, já saiu como startup que mais cresceu no BAT, do BAT inteiro. Antes de eu morder isso, tinha duas empresas que tinham levantado capital. A gente tinha sido uma dessas com grana do fundador do Zendesk. Tirado. Então, assim, às vezes, que é o que eu também falo para os empreendedores, essas experiências extremamente negativas podem ser uma puta fonte de motivação para você falar assim, cara, eu vou virar o jogo. E eu vou provar que dá para fazer um negócio completamente diferente aqui. Eu acho que foi um pouco isso, assim, sabe? E aí o negócio está crescendo, né? Hoje a gente tem dor, como qualquer empresa que está crescendo bem. E hoje vocês têm time no mundo inteiro. A gente tem. A gente tem hoje um pouco mais de 500 colaboradores. A gente tem clientes em 140 países. E esses 500 colaboradores estão todos no Brasil? Estão no Brasil? Fora do Brasil? Não, é distribuído. A gente é... Assim, desde lideranças, boa parte dos líderes reportam para mim. Nosso CTO fica em Seattle. Nosso CMO é da Bay Area. E como funciona esse desafio de ser remoto em primeiro lugar? Porque imagino que todo mundo faz home office. Cada um num horário, né? Numa zona de horário diferente do planeta. Então, se você está aqui, o cara que está em Seattle está, sei lá, 4, 5 horas para trás. Putz, a pessoa que está na França está 4, 5 para frente. Às vezes estão no mesmo time. Como é esse desafio de tocar, engajar, liderar? Ou você tem hubs locais que concentram o time? Porque imagino que você tem um escritório aqui no Brasil, que tem um time que vai lá. Ou não? Como é que é essa história? A gente é bem remoto. E até a nossa sede é muito assim, um co-working para o time quando eles querem fazer alguma working session, alguma coisa assim. Então, a gente não tem nem regime híbrido, vamos falar assim. Eu agora vou falar um tema que eu sei que vocês adoram falar sobre. Ah, é mais produtivo do que presencial? Não é, cara. Tem que parar de bochechar, não é. O fato é que a gente cresceu 2 terços durante a pandemia, já era mais ou menos remoto. Contratou remoto pra caramba, gente do mundo inteiro. A gente precisa de especialistas, pessoas que, top 1%, que às vezes é um cara que mora no Texas, que tem um know-how específico que a gente precisa contratar. Contratou remoto. Não tem, eu vou convencer o cara, agora vamos voltar do escritório? Vem pro Brasil. Se muda lá pra Curitiba, já era. Então, o que todo mundo tem que entender é, sim, o lugar que você mais tem serendipity,\n\nGás, o que você acha ainda que faz o cara não querer pensar global? Primeiro é cultural que a gente tem, né? Ah, tal coisa é boa. Putz, é gringo. É o mindset cultural nosso, assim, de assumir que você não consegue fazer uma coisa tão boa quanto. Boa parte dos profissionais que pularam dentro desse sonho maluco que a gente tinha lá no começo eram profissionais dessas empresas. Eram brasileiros que trabalhavam na Amazon. Eram brasileiros que trabalharam no Zendesk. Perfeito. Eram profissionais que estavam ali convivendo dia a dia e eles perceberam que não é porque o cara é americano e tá na BEA, ele não é humano que você... By the way, a gente trabalha muito mais. Então, essas pessoas falaram assim, cara, eu acho que sim, dá pra gente fazer e sim, a gente tem chance de ter um home run. Então, a primeira coisa mesmo é o modelo mental, de pensar, não, eu lembro, cara, eu tava falando com um investidor na época que eu tava tentando levantar capital pro PipeFi, ele falou assim, ah, mas quem que tá fazendo isso lá fora? Aí eu falei, eu que tô fazendo lá fora. Aí o cara, ah, não, não, não, obrigado. Eu falei, ah, velho, que isso? Então, primeira coisa é... Maravilhoso, cara. Autoprofecia. Isso daí. Você é o que você reverbera, o que você pensa, pra começar. Segundo ponto, que eu acho que ainda é um desafio, é a dificuldade de achar gente fluente. E, Nardom, você não tem ideia, às vezes até pra cargo sênior, às vezes a gente vê pessoas brilhantes que têm toda a capacidade, mas quando você vai ver a questão da fluência... Em inglês, você fala. É. O cara não vai além do bom dia, boa tarde. E sabe o que acontece? O problema da fluência pra quem tá atendendo cliente fora ou tentando principalmente vender, que você tem que convencer ou impressionar a nível global? Quando você tá falando no teu idioma nativo, imagina que é um circo. Quando você tá falando em outra língua, pelo fato do teu tamanho de vocabulário e velocidade pra acessar esse vocabulário, é um vocabulário menor e mais lento, o teu conhecimento é um círculo dentro do teu conhecimento no idioma nativo. Então, se você não fala bem essa segunda língua, você parece menos inteligente do que você é. Perfeito. E isso é devastador. E ainda é um super clichê básico, eu falo pra todo mundo, carai, o que é a melhor dica pra carreira? Eu falo, ó, vai fazer terapia e vai aprender a falar inglês. Que é o básico do básico, que todo mundo acha que é bem resolvido e tem oportunidade enorme de se desenvolver ali. Boa. Acho que fluência ainda é um gargalo grande. A dificuldade de contratar naturalmente fica difícil de conseguir cliente e crescer, né? Boa. Galera, olha só, quem tá aí pelo celular ouvindo pelo Spotify, vai lá na caixinha de perguntas e responde pra gente. Quero saber aí de vocês o seguinte, você tem pretensão ou desejo de internacionalizar e tornar sua empresa global? Responde lá pra gente se você estiver aí no Spotify pelo celular. Nossa pesquisa aí que a gente quer saber, beleza? E a gente indo aqui pro final, né? Já estamos aí quase uma hora batendo papo, gostaria de ficar aqui mais duas, três, quatro horas falando, tem muito assunto legal, mas a gente vai marcar pra quando a gente voltar do OPM pra falar de novo. Vamos aqui pro bate-bola do gestor. Como que funciona isso? Vou te fazer uma pergunta, você tenta respondê-la o mais breve possível, mas também se não conseguir, pode desenrolar, tá? Vamos lá. O que constrói um bom gestor? Saber resolver e entender problema. Boa. Se você pudesse dar um conselho pra Lécio que tava abrindo seu primeiro negócio, qual o conselho você daria pra ele? Cara, vai ser o maior clichê de todos. Gente, gente, gente, gente, gente, gente, gente, gente faz toda a diferença. De um nível exponencial de, dependendo quem você coloca numa empreitada com você, você pode mudar completamente a trajetória daquele time, do negócio, da tua vida, se você trazer as pessoas certas. Boa. Complete a frase. Ser uma empresa digital e tecnológica... Caramba! Trava-línguas aqui do time, hein? Ser uma empresa digital e tecnológica é... Usar tecnologia pra resolver o problema do mundo real. Boa. Como você imagina a Pipefire daqui 10 anos? Cara, se eu te falava, vou me chamar de maluco. Eu acho que não tem o porquê hoje a gente não ser uma empresa de 10, 20 mil colaboradores e o pessoal fala assim, ah, o Pipefire é um sucesso. Eu falo assim, nem começou a crescer ainda. Agora que tá começando a engrenar a nossa primeira marcha e crescer de verdade. É o mercado onde a gente atua. É a dor que a gente resolve nos nossos clientes. E provas mesmo que a gente atende, né? A gente atende governo com coisa de defesa, atende todos os bancos, atende todos os startups. Então, assim, é um mercado infinito. E eu vejo que dá pra crescer muito ainda. Boa. Qual livro sobre gestão e liderança te marcou? É... Assim, depende muito da fase do negócio e pra quê. Agora você fala assim, ah, eu sou um manager. Eu preciso, né, tocar a minha operação ali. Eu acho que, cara, o Measuring What Matters do John Dewey, pra qualquer manager, aprender a usar mesmo, planejar com o teu time, montar uma estrutura de OCR. E se você trabalha com software B2B, tem um livro chamado Crossing the Chasm, que te ensina muito como pensar produto e desenvolver produtos. Irado. Irado. E qual livro, independente do tema que você indica e que você gosta, ou um livro que você leu aí, ou dois, você tenha lido na sua vida que te marcou e que... É, tipo, o que eu mais dei de presente. Pode ser esse. Tem alguns, assim. Pra mim tem um trio que eu acho que toda pessoa deveria ler. O primeiro é Em Busca de Sentido, do Victor Frankl. Porrado. Esse livro é porrado. É. Eu li em 2007. E bom pra caralho. E eu releio ainda até hoje. Quando eu penso que minha vida tá cheia de problemas, que... Porque, né, resumindo, pessoal, ele percebeu que quem sobreviveu dentro do campo de concentração não eram as pessoas que tinham o melhor estado de saúde, a melhor força física, ou os mais jovens. Quem sobreviveu em todos aqueles desafios dentro do campo de concentração eram pessoas que tinham um motivo muito claro do porquê que eles tinham que sair do campo. Até arrepia, cara. O livro é bom pra caralho. É. E dali, dessa observação dele, sendo uma das pessoas que foi pro campo de concentração, saiu toda a linha dele de psicoterapia. Enfim, é um livro... Logoterapia. É, logoterapia. Man's Search for a Meaning. Man's Search for a Meaning. Em busca de sentido. Victor Frankl. Victor Frankl. O segundo livro é Awareness. O autor que não lembro certinho. Depois o time procure e coloca lá pra gente. A legenda. A gente coloca na legenda ali, eu passo... Awareness. E ele fala sobre o quê? Ele fala sobre o quanto é importante você entender as suas emoções e o que você pensa pra lidar com os teus desafios do dia a dia e os desafios do mundo. Quando você tá aqui, eu tô falando com o Nardom, tem um monte de coisa que passa na minha cabeça. Será que quem tá ouvindo vai gostar desse podcast? Será que você tá gostando do que eu tô falando com você? Quando eu tô pensando se o meu chefe gosta do que eu tô fazendo ou se o meu investidor gosta do que eu tô fazendo, na minha cabeça começam a abrir um monte de hipóteses e leques. Há 10 mil anos, esse modelo mental fez a gente sobreviver. Porque você ouvia um barulho na floresta, você achava que era uma cobra, não um galho que você pisou sem querer. E ele mostra o quanto isso é danoso pra gente hoje. Perfeito. Quanta energia a gente gasta pensando merda em vez de canalizar a nossa energia, o nosso tempo em coisas que realmente vão fazer a diferença e vão fazer a gente mover. Irado. Parece ser muito bom. E o último livro que eu recomendo é O Alma Indomável, que é muito, muito bom também, que é Michael Singer. Muito nessa linha também, que ele mostra assim, cara, qual que é o teu papel aqui? O que que te irrita? O que que não irrita? O que que te motiva? Qual que é o teu relacionamento com as pessoas? Como melhorar isso? Essa teia, pra mim, eu recomendo pra todo mundo. Irado. Já vou colocar no meu audible aqui pra ler quando a gente voltar do OPM. Porque até lá tem um monte de case pra ler que eu nem conheço. Meu Deus do céu, cara. Você já imprimiu tudo de uma vez só? Imi nada, cara. No computador, marcar no PDF. O ano passado, a critério e curiosidade, a minha mestrante imprimiu pra ficar mais fácil de ler. Cara, dá uma pilha desse tamanho, assim, ó. Você tá louco, cara. A",
+  "text_timestamped": "[00:00] esse desafio de ser remoto em primeiro lugar.\n[00:06] Falar um tema que eu sei que vocês adoram falar sobre.\n[00:14] Ah, é mais produtivo do que presencial?\n[00:20] Não é, cara.\n[00:21] Tem que parar de buchitar, não é.\n[00:26] O fato é que a gente cresceu dois terços durante a pandemia, já era mais ou menos remoto, contratou remoto pra caramba, gente do mundo inteiro, a gente precisa de especialistas, pessoas que top 1%, que às vezes é um cara que mora do Texas, que tem um know-how específico que a gente precisa contratar, contratou remoto.\n[01:13] Não tem, eu vou convencer o cara, ó, agora vamos voltar pro escritório?\n[01:24] Vem pro Brasil.\n[01:26] Se muda lá pra Curitiba, já era.\n[01:30] O que todo mundo tem que entender é, sim, um lugar que você mais tem serendipity, que você mais vai se desenvolver em um time, se eu estivesse começando uma startup hoje, eu faria presencial.\n[01:58] E presencial é a referência, é o benchmark, é 100% de produtividade.\n[02:08] O que a gente conseguiu ao longo do tempo foi, através de boas práticas de colaboração remota, comunicação, documentação, como a gente mede o sucesso das pessoas, eu avalio a performance, a gente conseguiu chegar o mais próximo possível da produtividade que você tem trabalhando dentro do escritório.\n[02:52] Mas é um gap que nunca vai ser 100%, ou me desculpe aí o pessoal que vende isso, não vai ser mais do que 100%.\n[03:08] Quais outras dificuldades e dores você vê desses empresários quando eles estão falando de transformação digital e implementar ferramentas como a Pipefire?\n[03:31] Um lado do extremo tá era de negócio que tá com um problema no colo.\n[03:41] E que é punido se não bater meta, é quem toma prejuízo na cabeça, ou quem vai ouvir a bronca do cliente se a experiência não for boa.\n[04:01] E esse extremo ele conhece tudo sobre o problema, ele provavelmente também deveria ser a fonte das melhores ideias de como resolver o problema.\n[04:21] Só que o desafio é que esse pedaço aqui do cérebro, ele não conhece nada de tecnologia.\n[04:34] E ele não gosta de tecnologia.\n[04:39] Ele ouve AI, ele não tá nem aí.\n[04:43] Ele não quer saber o que é transformação digital, ele não quer saber o que é Big Data, ele não tá nem aí, não é nada tech savvy.\n[05:02] No outro extremo da escala tá o oposto exato disso, que é o cara do TI.\n[05:12] Que conhece de tecnologia, gosta de tecnologia, ficava antes só cilada dentro, mantendo o RP ligado dentro do time dele.\n[05:30] Que ele conhece muito, não só as potenciais melhores tecnologias, mas ele também conhece os problemas que podem acontecer quando a tecnologia é mal usada.\n[05:53] Só que esse cara que tá no outro lado extremo da escala, ele não tem a mínima ideia das dores de negócio.\n[06:08] E aí fica meio Stranger Things, os dois mundos que não se conversam, e um com uma visão completamente enviesada do outro.\n[06:26] E às vezes chega até a ser uma relação conflituosa.\n[06:33] E a maioria das empresas que tem uma dificuldade de se beneficiar com tecnologia, sabe o que que é?\n[06:48] É quando um desses dois lados tenta ser herói.\n[06:54] Explica um pouquinho mais disso.\n[06:59] Fala galera, bem-vindos a mais um Papo de Gestão.\n[07:06] E pra você que acompanha a gente aqui, você deve se perguntar, por que que eu vou dedicar tempo pra treinar as pessoas do meu time, se elas podem ir embora?\n[07:29] Porque se você não treiná-las e elas ficarem na sua empresa, aí sim você vai ter um problemão.\n[07:43] Afinal, uma empresa é formada pelas pessoas que a compõem.\n[07:51] E o resultado do negócio depende diretamente da performance desses colaboradores.\n[08:03] Sabendo do desafio que é treinar e capacitar a gente, nós desenvolvemos o G4 Skills, que é a plataforma de treinamento de times aqui do G4 Educação, que avalia as lacunas de habilidades e a maturidade do seu colaborador, e cria uma trilha personalizada de desenvolvimento pra cada membro do seu time, com as nossas formações aqui do G4.\n[08:53] Pra você conhecer o G4 Skills, eu liberei 7 dias de acesso gratuito à nossa plataforma.\n[09:05] Basta você escanear o QR Code que tá aqui nessa tela, ou clicar no link do descritivo desse episódio.\n[09:20] Então, aproveita, vai lá com o teu time, que você vai aprender muito.\n[09:30] E agora, esse episódio aqui do Papo de Gestão tá sensacional.\n[09:39] Espero que você goste.\n[09:42] E hoje eu recebo aqui esse meu amigo empreendedor serial, um cara que eu admiro muito, aprendo muito com ele, empreendedor Endeavor, que já teve aí algumas histórias de empreendedorismo, que é meu colega também no curso que tô fazendo lá em Harvard, no OPM, mas que, nada mais nada menos, fundou um dos maiores cases de sucesso de SaaS, Software Como Serviço, aqui do Brasil.\n[10:37] Alessio Alionso, fundador e CEO da PipeFi, prazer bater esse papo aqui com você, meu querido.\n[10:51] Valeu.\n[10:52] Bem-vindo.\n[10:53] Obrigado pelo convite aí.\n[10:57] Boa, finalmente saiu, né?\n[11:01] Saiu, né?\n[11:02] Faz uns dois anos já que a gente tá tentando.\n[11:09] Boa.\n[11:09] Galera, ó, tô muito animado com esse episódio aqui.\n[11:17] O Alessio, ele vai falar aqui um pouquinho sobre como realizar a transformação digital na sua empresa, a gente vai falar um pouquinho sobre isso, sobre as dificuldades e dores nesse processo, né?\n[11:45] E também vai contar um pouquinho sobre a jornada empreendedora dele, sobre como ele começou, um pouquinho sobre o PipeFi, como o PipeFi se tornou esse case global, a gente tava conversando um pouquinho agora há pouco sobre os benefícios e os contras de ter um negócio global.\n[12:26] Então, ó, já pega a caneta aqui, pega papel também pra anotar todos os insights que ele vai dar aqui pra gente.\n[12:42] Galera, começando aqui, eu falo muito sobre a importância de você ter pessoas boas nos lugares certos, nas posições corretas na empresa e com bons processos, né?\n[13:05] Então eu sempre falo muito sobre isso.\n[13:11] Mas é muito difícil também ficar só limitado a pessoas e processos.\n[13:21] A gente sabe que o negócio, se você tem pessoas boas, processos bons, ele vai progredir, mas uma hora você vai bater num teto, né?\n[13:40] E eu sempre falo nisso, né?\n[13:44] Que é pessoas, processos e tecnologia.\n[13:49] Você pega ali 20, 30% dos seus processos que mais dão trabalho pra você, que dão 80% do trabalho pro seu time, coloca uma tecnologia, isso vai fazer com que o teu time seja 5 vezes, 10 vezes mais eficiente, né?\n[14:20] E daí, eu tenho uma pergunta aqui pra você pra gente começar.\n[14:29] Qual que, no teu ponto de vista, é o impacto das pessoas terem essa falta de tecnologia na empresa e como que isso pode impactar diretamente os resultados da empresa?\n[14:54] Cara, a gente, lá no Wi-Fi, a gente vê muito essas dores do dia a dia e acho que tem algumas consequências, assim.\n[15:10] Primeiro é falta de competitividade e lucratividade no negócio, na operação que o time, a empresa está tocando.\n[15:27] Então, custo maior do que deveria ser, falta de agilidade da empresa responder a mudança de mercado, falta de agilidade em entregar o produto ou serviço pro cliente, a qualidade do produto ou serviço em si é super inconsistente, porque você fica confiando só em pessoas, né?\n[16:07] Às vezes na memória das pessoas pra garantir que essa entrega do produto ou serviço vai acontecer bem, isso gera vários problemas de estabilidade.\n[16:28] A gente vê muito problema de SLA, né?\n[16:34] Instabilidade, assim, cliente, pô, às vezes demora pra caramba, perde pedido e tudo isso acaba afetando a competitividade do negócio, né?\n[16:54] E é legal que a gente atende todo tipo de setor, às vezes vários concorrentes, a gente vê a diferença de quanto mais ou menos tech enabled a empresa é.\n[17:16] Entre todas as camadas dela de execução, parece uma incrível coincidência, mas quem é mais esperto em relação a isso, você vê que o cara tá crescendo, tá ganhando margem, tá crescendo, né?\n[17:43] Com certeza tem um ponto em comum ali de você conseguir saber extrair valor disso.\n[17:55] E acho que isso tá acontecendo em todo setor, não é só em empresas que já tá bem mais avançado, mas hoje empresas ou funções mais tradicionais que historicamente não se beneficiavam com tecnologia, agora a gente tá vendo também essa transformação acontecer.\n[18:33] Pô, cara, assim, isso é um negócio que quando você olha o mundo como um todo, né?\n[18:45] Você olha que aqueles países que são mais competitivos, eles acabam começando na frente a ganhar eficiência, né?\n[19:01] Uma das teses que a gente tem aqui no G4 é muito sobre isso, né?\n[19:11] A gente é um país que a gente tem um alto desemprego, se você comparar com Estados Unidos, que é um país de pleno emprego, mas quando a gente olha o macro do Brasil, a gente tem um desemprego de 3%, né?\n[19:40] Que basicamente é um pleno emprego, é um estado muito parecido no fim do dia com aquilo que acontece nos Estados Unidos.\n[19:58] E o que que acontece quando você tem o pleno emprego?\n[20:06] O que acontece é que as empresas que têm mão de obra desqualificada, né?\n[20:16] Que elas necessitam dessa mão de obra desqualificada, acabam não conseguindo achar essa mão de obra, porque é caro pra ela rodar a operação dela com uma mão de obra desqualificada.\n[20:43] E o que faz com que ela se force a ganhar eficiência?\n[20:50] E quando ela se força a ganhar eficiência, basicamente ela tá subindo uma barrinha de eficiência, né?\n[21:05] Onde ela precisa melhorar as pessoas que ela tem lá, pagar melhor pra elas, melhorar os processos e colocar tecnologia pra que aquele time, mesmo sendo mais enxuto, entregue muito mais valor, que é o valor no fim do dia que ele vai gerar pro cliente final\n\nconhece de tecnologia, gosta de tecnologia, ficava antes só silada, mantendo o RP ligado dentro do time dele, que ele conhece muito, não só as potenciais melhores tecnologias, mas ele também conhece os problemas que podem acontecer quando a tecnologia é mal usada.\n[22:22] Só que esse cara que tá no outro lado extremo da escala, ele não tem a mínima ideia das dores de negócio.\n[22:37] Perfeito.\n[22:38] E aí fica meio Stranger Things, os dois mundos que não se conversam, e um com uma visão completamente enviesada do outro.\n[22:56] E às vezes chega até a ser uma relação conflituosa.\n[23:04] E a maioria das empresas que tem uma dificuldade de se beneficiar com tecnologia, sabe o que que é?\n[23:18] É quando um desses dois lados tenta ser herói.\n[23:25] Explica um pouquinho mais disso.\n[23:29] Quando tecnologia acha que sabe o que que tá acontecendo e sabe qual é a melhor solução, quantas empresas você vê aí com projetos de instalação de sistema do RP que deu errado depois de um, dois anos?\n[23:59] A grande maioria.\n[24:01] E todo mundo fala, ah, tá vendo?\n[24:06] Olha aí, olha aquele sistema lá, falei que não ia funcionar.\n[24:15] Por quê?\n[24:16] Porque eles tinham conhecimento da tecnologia, mas não entendiam.\n[24:25] Ou a realidade do negócio, mas principalmente não entendiam e não engajavam as pessoas que iam usar aquela tecnologia no dia a dia.\n[24:45] Perfeito.\n[24:46] O outro extremo que tá acontecendo agora muito com a AI, por exemplo, é a área de negócio tentar bancar de ser herói.\n[25:03] Aí o cara pega dado sensível da empresa, vai lá no chat PT e joga no ventilador e corre um risco danado.\n[25:18] Então esses dois extremos que a gente vê que acaba gerando conflito.\n[25:28] E é o mais comum.\n[25:31] Todo mundo tem história triste, assim, desses projetos de inovação que acabaram virando elefante branco e ninguém conseguiu adotar.\n[25:50] E qual o conselho você dá pra essa galera?\n[25:56] Como que você viu os casos de empresas que tiveram mais sucesso numa implantação ou numa transformação digital bem feita?\n[26:14] Nossa, cara.\n[26:16] Aí eu tenho várias coisas que a gente vê.\n[26:22] O que são as melhores práticas quando você pensa, putz, eu vou entrar nesse cliente, esse é o meu sonho de cliente pra entrar porque, putz, esse daqui eu sei que vai dar certo e tá com as melhores práticas que eles fazem.\n[26:54] Porque eu entendi que você tem os dois extremos que tipicamente só acontecem porque eles não se conversam.\n[27:10] E eu imagino que o oposto disso seja quando esses dois extremos se aproximam e existe uma convivência, um respeito e uma conversa que um entende como o arru do outro.\n[27:34] O negócio tentando educar tecnologia e tecnologia tentando educar negócios, né?\n[27:46] E no meio talvez você tenha ali um time de Product Owners, Product Managers que fazem muito bem esse Chinese Wall.\n[28:02] Nem Chinese Wall, né?\n[28:05] Mas talvez muito mais um lugar que eles recebam todo mundo e eduquem todo mundo pra que sirvam mais como tradutores, né?\n[28:23] De um lado pro outro.\n[28:26] Porque essa é a dificuldade.\n[28:30] Como você pega o que alguém tá falando pra traduzir pro outro lado e vice-versa, né?\n[28:42] Quais são as melhores práticas ou recomendações que você dá caso a empresa da pessoa ali que tá do empreendedor que tá ouvindo a gente vá passar por uma transformação digital ou quer implementar uma ferramenta?\n[29:13] Qual a dica que você dá pra ele fazer isso bem?\n[29:20] Cara, eu vejo claramente alguns padrões, tá?\n[29:27] A gente atende pô, os bancos, a gente atende todo mundo.\n[29:35] Mas esses bancos mais novos, mais ágeis, né?\n[29:41] Um bancão de investimento, parceiro de vocês, sempre tá aí com coisa ou roxinho lá que todo mundo usa, né?\n[29:57] O que a gente vê de diferencial?\n[30:02] São alguns comportamentos, mindsets e a forma como esses times colaboram.\n[30:12] Pra começar, esses times trabalham com uma abordagem cross-funcional.\n[30:22] E eles colocam na mesma sala pessoas exatamente com backgrounds diferentes que conseguem ter uma visão 360 sobre o problema e sobre possíveis soluções praquele problema do ponto de vista tecnológico.\n[30:51] Então, geralmente, times cross-funcionais pra resolver um problema específico tendem a dar mais certo.\n[31:06] Então, um time cross-funcional basicamente é um time que você vai colocar lá uma pessoa de tecnologia, uma pessoa de negócios, uma pessoa talvez de produto e esses três vão conversar bastante pra conseguir chegar na solução.\n[31:39] E olha lá, produto a gente que daí é produteiro, né?\n[31:47] Que tem uma abordagem mais sofisticada.\n[31:53] Mas pensando em dia-a-dia, melhoria contínua dentro da operação, às vezes nem precisa de produto.\n[32:07] Mas é importante ter uma pessoa com viés da solução da tecnologia e uma pessoa com entendimento profundo do problema.\n[32:24] Primeiro coisa, ou essas duas no mínimo e ou algumas pessoas que conhecem muito ou do cliente ou do mundador ou que...\n[32:41] É um problema jurídico?\n[32:45] Bom, coloca alguém grande no legal ali pra resolver.\n[32:52] Às vezes depende muito do que aquele problema tá demandando e quem são os stakeholders impactados por aquilo.\n[33:08] Então, basicamente aqui o que a gente tá falando é assim, traz o problema.\n[33:19] Qual o problema eu quero resolver?\n[33:24] Porque muitas vezes quem sabe o problema e quer imaginar a solução, que no caso você falou que é o herói, ele imagina a solução errada porque ele tem uma visão muito fechada, que nem aqueles cavalos que andam na cidade que tem aqui, né?\n[33:59] Sabe aqueles tampões?\n[34:02] É essa a visão de mundo dele.\n[34:06] É muito pequena.\n[34:08] Ele não entende de tecnologia pra entender tudo que dá pra fazer.\n[34:18] E quando você coloca a pessoa de tecnologia que não entendeu, na verdade, o escopo inteiro do problema ele vai falar, cara, quero resolver isso pensando no longo prazo e como ser escalável.\n[34:46] E às vezes você não precisa ser escalável no longo prazo porque o problema é importante, mas é pequeno.\n[35:01] Então, na verdade, aquilo que poderia ser resolvido em uma semana demora, às vezes, um mês, dois meses de programação pra resolver algo que você poderia ter feito em uma semana e já resolvido E já era suficiente.\n[35:32] 90% do problema que era suficiente pros próximos meses e anos.\n[35:41] Pelos olhos do cliente que é quem você precisa satisfazer que tem uma expectativa, era suficiente.\n[35:55] Perfeito.\n[35:57] E aí não precisava de nada.\n[36:01] Era good enough.\n[36:03] Bom o suficiente.\n[36:05] Que é o que você tem que entregar pelos olhos do cliente.\n[36:14] E aí você entrou no segundo ponto que é o padrão que a gente vê.\n[36:23] Times muito bons e que tendem a usar tecnologia melhor, eles focam no problema antes de pensar na solução.\n[36:39] E eles focam em entender o problema.\n[36:44] Primeiro, qual é a jornada de ponta a ponta do que a gente chama de value stream, né?\n[36:56] Que é a cadeia do que precisa acontecer passo a passo até o cliente receber o que ele tem de expectativa.\n[37:12] Ah, tá um bordão no colaborador?\n[37:16] O que acontece de ponta a ponta?\n[37:21] Tá entregando produto ou serviço pro cliente?\n[37:28] O que tá acontecendo de ponta a ponta?\n[37:33] Uma vez que você projetou esse value stream, o caminho feliz do que deveria acontecer, você fala, tá bom, mas shit happens.\n[37:51] Em cada etapa dessa execução do teu value stream, o que que tá atrapalhando o teu resultado?\n[38:05] É gente que tá esquecendo de fazer alguma coisa que deveria fazer?\n[38:15] É alguém que tá gastando muito tempo fazendo trabalho manual e que isso tá consumindo recurso da empresa?\n[38:30] É algum possível retrabalho que você tá tendo sempre?\n[38:38] É um problema com a entrada de matéria-prima e a matéria-prima tá dando problema e você tem que refazer o produto?\n[38:54] Ou vai pro cliente aquele produto com problema e ele reclama, aí ele fica insatisfeito, esse produto volta pra outra linha?\n[39:12] Uma vez que você desenhou o que tinha que acontecer, você faz um brainstorm dos possíveis problemas que geram impacto negativamente aquilo.\n[39:33] Tem um fluxo de contas a pagar.\n[39:37] É um fluxo de pagamento de fornecedor.\n[39:43] Tem um caminho feliz.\n[39:46] Mas o que que acontece, por exemplo, que é sempre?\n[39:53] Área de negócio manda pro compras pagar em cima da hora.\n[40:02] Ou já manda com a nota vencida.\n[40:06] Área de compras paga a nota errada.\n[40:11] Ou paga uma nota que vem de uma fraude lá, que passam pro cara e o cara paga porque achou que...\n[40:25] Que era alguém importante mandando.\n[40:30] Que alguém importante mandando.\n[40:35] A área de compras e jurídico demora pra pagar o fornecedor e a empresa acaba pagando multa.\n[40:48] Ou você tem um contrato de prestação de serviço, chegou na hora da renovação, ninguém viu.\n[41:02] Renovou automático.\n[41:04] Renovou automático.\n[41:07] Então assim, você pensa tudo que pode dar B.O.\n[41:14] Pode dar ruim.\n[41:16] A partir do momento que você entendeu e fez o brainstorm dos problemas, você não parte pra solução ainda.\n[41:31] Você para pra pensar.\n[41:34] Quanto que me custa em média cada um desses problemas?\n[41:42] E de quanto em quanto tempo isso acontece?\n[41:48] Perfeito.\n[41:50] Aí você vai pegar algum desses problemas específicos, geralmente o mais doloroso, ou o que custa mais e que tem relevância pro teu negócio.\n[42:10] E geralmente você vai pensar, é um problema que eu consigo resolver rápido?\n[42:21] É um problema que eu consigo fatiar ele e numa dessas fazer entregáveis menores e usar uma abordagem ágil pra conseguir entregar uma experiência melhor pro meu cliente?\n[42:46] A partir do momento que você identificou, entendeu quanto que custa, aí sim e só depois que priorizou, você vai pra terceira parte que é, vamos pensar em solução pra isso aqui?\n[43:12] Perfeito.\n[43:13] E em vez de casar com a primeira solução, ah eu preciso de Iron Man negócio, ah agora saiu tal vendor, eu preciso usar essa tecnologia.\n[43:33] Não, não, não.\n[43:35] Que problema é que você tá cá?\n[43:39] Quanto que custa esse problema?\n[43:44] Quais são as outras alternativas ou possíveis soluções pra você resolver esse problema?\n[43:56] Aí você começa a ficar inteligente na hora de escolher a solução.\n[44:06] E acho que a gente vê esse padrão, times que tem esse\n\nEu fiquei um tempo sendo conselheiro de algumas empresas e estava dando consultoria de produto, porque eu sou proteíno, você sabe, o que eu gosto, tecnologia do PipeFi, quase tudo que vocês veem lá tem muito da minha atuação ainda.\n[44:48] E eu trabalhava com um acelerador israelense chamado Nestech na época, dando consultoria de produto para eles e também ajudando eles a lançar alguns produtos que eles queriam trazer aqui para o Brasil.\n[45:17] E aí num jantar, sabe aquele papo de jantar de quebradeiro assim, ah, como é que vocês são uma potência tecnológica, sendo que vocês são desse tamanho, papapá, ele falou assim, a gente tem 8, 9 milhões de pessoas, a gente está em guerra com os nossos vizinhos, a gente não tem mercado local, então todo empreendedor israelense ele sabe que se ele quiser vender, ele tem que ter uma ideia que é boa o suficiente para ser competitiva nos Estados Unidos, na Europa, e ele tem que pensar isso desde o dia 1, e ele sabe que ele tem que ser muito melhor que os concorrentes locais, e é o problema da dor da galinha, justamente por causa de todas essas restrições, que quando a gente tira uma ideia do papel e ela começa a funcionar, a gente é global desde o dia 1, e a gente está pronto, está pronto para escalar, está pronto para vender para o mundo inteiro, está acostumado a lidar com todo esse tipo de adversidade, e aí ele na mesa, na frente de um monte de gente, falou assim, agora vejam vocês brasileiros, vocês têm uma população de mais de 200 milhões de pessoas, vocês têm a barreira da língua, vocês têm a barreira da burocracia de vocês, vocês não são o maior mercado do mundo no dia 1, que todo mundo vai entrar para competir, então vocês têm um ambiente artificial temporário que coloca vocês em uma zona de conforto e sempre faz com que vocês tenham baixíssimas expectativas do que vocês podem fazer, porque você consegue ficar rico vendendo localmente, seja no Brasil, numa Rússia da vida, numa Índia da vida, e aí ele virou para mim e falou, ali que foi o dessa vez eu vou atropelar, ele falou assim, me diga o nome de uma empresa brasileira de tecnologia que é líder global no que faz.\n[49:26] E o Jim Pesce não existia na época?\n[49:31] Jim Pesce existia nessa época, Vtex não existia nessa época, tinha várias empresas que não existiam nessa época, e eu voltei tão puto para o hotel que eu falei assim, seu bingo filho da mãe, você vai ver se a gente não sabe fazer software direito também, e cara, às vezes é isso, essas experiências te marcam em motivo, então eu já voltei com aquela cabeça, a gente já tinha sido atropelado com a minha primeira empresa mesmo, eu falei assim, dessa vez I'm gonna go big, e foi assim que a gente começou global desde o dia 1, e a gente teve muita sorte também no começo, lugar certo, na hora certa, a gente criou as oportunidades que a gente, a oportunidade veio, mas a gente estava pronto para surfar aquela onda quando veio também, então isso ajudou bastante.\n[51:23] Quando vocês começaram, que ano que foi?\n[51:28] Foi 2000 e...\n[51:30] a gente começou mesmo assim, lançou em março de 2015.\n[51:38] Mas começaram a empresa, o que é 2014?\n[51:44] É, metade de 2014.\n[51:46] Legal, e cara, quais foram os maiores desafios e dificuldades para você tornar o Pipefire global?\n[52:01] Porque vocês estavam aqui, lá de Curitiba, Curitiba era ou não?\n[52:10] Era, era de Curitiba no começo.\n[52:14] Como é que foi de lá, quais foram os maiores desafios para ir para o mundo inteiro?\n[52:27] Cara, acho que primeiro, é muito difícil você acreditar no sonho, né?\n[52:37] Porque é igual fazer dieta, o resultado ele não existe ainda, e você tem que todo dia...\n[52:50] Comer menos.\n[52:51] É, você vai fazer uma landing page, você tem que fazer a landing page em inglês, ninguém vai ler aquela merda, você fala, porra cara, o que eu estou fazendo isso?\n[53:15] Aí você vai fazer a documentação, vai fazer o software, vai fazer em inglês, com matriz de tradução que dá duas, três vezes mais trabalho, você fala, puta, mas não tem ninguém aqui ainda usando, será que faz sentido?\n[53:47] Na época não existia OpenAI, chat, GPT para te ajudar nisso.\n[53:56] Não tinha nada, cara, tinha Fiverr.\n[54:01] A gente fazia as coisas e abria no Fiverr, pegava um redator para ajudar a revisar o texto e corrigir os erros que a gente fazia.\n[54:20] Então, a primeira coisa é o nível de energia que a gente precisava colocar upfront até o negócio faiscar, sabe?\n[54:36] Tipo, a gente ficava ali vários meses com o desfibrilador tentando fazer as coisas clicarem.\n[54:49] Acho que isso faz muito difícil, porque a única coisa que você tem é o que você acreditar naquela visão.\n[55:05] Só o sonho.\n[55:06] Só o sonho.\n[55:08] E depois, em cada etapa da jornada, o descrédito que a gente tinha um pouco em relação à ambição.\n[55:22] Então, por exemplo, a gente passou na 500 Startups lá.\n[55:30] Aí, cara, na primeira semana, as startups que estavam sendo aceleradas pela 500 faziam um pitch e mostravam para a comunidade o que estavam fazendo.\n[55:52] A gente foi tão mal, cara, na sessão de pitch, porque a gente sabia falar inglês direito, que o Dave McClure tirou a gente do palco.\n[56:11] A gente tem isso, cara.\n[56:14] O Dave McClure é o fundador.\n[56:18] É o fundador da 500 Startups.\n[56:23] Ele tirou você do palco.\n[56:26] Tirou.\n[56:27] Não era eu, porque eu estava resolvendo esse burocrata da empresa aqui.\n[56:38] Tinha sido um co-founder nosso que estava lá na hora.\n[56:45] Ele falou assim, não, não, não.\n[56:50] Aí o Dave ainda falou assim, não, não.\n[56:55] Falem português, pelo menos.\n[57:00] Aí o cara ficou nervoso, nem em português conseguia falar.\n[57:08] Cara, o Dave tirou do palco.\n[57:12] Então, assim, todo mundo meio que olhava a gente e aí...\n[57:20] Patino feio mesmo.\n[57:23] Ex-Harvard, ex-Google, ex-Facebook, ex-Stanford, toda aquela galera.\n[57:33] Eles falam assim, nossa, o que esses brasileiros estão fazendo aqui?\n[57:43] E, por um lado, apesar disso ter sido um puta trauma, cara, foi um motivador para a gente.\n[57:56] A gente no time, a gente tem orgulho desgraçado.\n[58:03] A gente é dog total, né?\n[58:07] É, a gente falava assim, a gente pode ser bem chucro, mas o nosso trabalho vai ser o nosso cartão de visita.\n[58:22] E, velho, a gente trabalhava de domingo a domingo, cara.\n[58:31] A gente trabalhava de domingo a domingo.\n[58:37] Doze horas por dia, às vezes mais.\n[58:42] E, pô, ali em quatro meses a gente já saiu, já saiu como startup que mais cresceu no BAT, do BAT inteiro.\n[58:57] Antes de eu morder isso, tinha duas empresas que tinham levantado capital.\n[59:08] A gente tinha sido uma dessas com grana do fundador do Zendesk.\n[59:17] Tirado.\n[59:18] Então, assim, às vezes, que é o que eu também falo para os empreendedores, essas experiências extremamente negativas podem ser uma puta fonte de motivação para você falar assim, cara, eu vou virar o jogo.\n[59:48] E eu vou provar que dá para fazer um negócio completamente diferente aqui.\n[59:59] Eu acho que foi um pouco isso, assim, sabe?\n[01:00:05] E aí o negócio está crescendo, né?\n[01:00:10] Hoje a gente tem dor, como qualquer empresa que está crescendo bem.\n[01:00:20] E hoje vocês têm time no mundo inteiro.\n[01:00:26] A gente tem.\n[01:00:27] A gente tem hoje um pouco mais de 500 colaboradores.\n[01:00:35] A gente tem clientes em 140 países.\n[01:00:40] E esses 500 colaboradores estão todos no Brasil?\n[01:00:47] Estão no Brasil?\n[01:00:50] Fora do Brasil?\n[01:00:52] Não, é distribuído.\n[01:00:55] A gente é...\n[01:00:56] Assim, desde lideranças, boa parte dos líderes reportam para mim.\n[01:01:06] Nosso CTO fica em Seattle.\n[01:01:10] Nosso CMO é da Bay Area.\n[01:01:13] E como funciona esse desafio de ser remoto em primeiro lugar?\n[01:01:22] Porque imagino que todo mundo faz home office.\n[01:01:29] Cada um num horário, né?\n[01:01:32] Numa zona de horário diferente do planeta.\n[01:01:39] Então, se você está aqui, o cara que está em Seattle está, sei lá, 4, 5 horas para trás.\n[01:01:51] Putz, a pessoa que está na França está 4, 5 para frente.\n[01:02:00] Às vezes estão no mesmo time.\n[01:02:04] Como é esse desafio de tocar, engajar, liderar?\n[01:02:11] Ou você tem hubs locais que concentram o time?\n[01:02:18] Porque imagino que você tem um escritório aqui no Brasil, que tem um time que vai lá.\n[01:02:30] Ou não?\n[01:02:31] Como é que é essa história?\n[01:02:35] A gente é bem remoto.\n[01:02:38] E até a nossa sede é muito assim, um co-working para o time quando eles querem fazer alguma working session, alguma coisa assim.\n[01:02:57] Então, a gente não tem nem regime híbrido, vamos falar assim.\n[01:03:06] Eu agora vou falar um tema que eu sei que vocês adoram falar sobre.\n[01:03:16] Ah, é mais produtivo do que presencial?\n[01:03:21] Não é, cara.\n[01:03:23] Tem que parar de bochechar, não é.\n[01:03:28] O fato é que a gente cresceu 2 terços durante a pandemia, já era mais ou menos remoto.\n[01:03:41] Contratou remoto pra caramba, gente do mundo inteiro.\n[01:03:48] A gente precisa de especialistas, pessoas que, top 1%, que às vezes é um cara que mora no Texas, que tem um know-how específico que a gente precisa contratar.\n[01:04:12] Contratou remoto.\n[01:04:14] Não tem, eu vou convencer o cara, agora vamos voltar do escritório?\n[01:04:24] Vem pro Brasil.\n[01:04:26] Se muda lá pra Curitiba, já era.\n[01:04:31] Então, o que todo mundo tem que entender é, sim, o lugar que você mais tem serendipity,\n\nGás, o que você acha ainda que faz o cara não querer pensar global?\n[01:04:54] Primeiro é cultural que a gente tem, né?\n[01:05:00] Ah, tal coisa é boa.\n[01:05:02] Putz, é gringo.\n[01:05:05] É o mindset cultural nosso, assim, de assumir que você não consegue fazer uma coisa tão boa quanto.\n[01:05:19] Boa parte dos profissionais que pularam dentro desse sonho maluco que a gente tinha lá no começo eram profissionais dessas empresas.\n[01:05:39] Eram brasileiros que trabalhavam na Amazon.\n[01:05:45] Eram brasileiros que trabalharam no Zendesk.\n[01:05:51] Perfeito.\n[01:05:53] Eram profissionais que estavam ali convivendo dia a dia e eles perceberam que não é porque o cara é americano e tá na BEA, ele não é humano que você...\n[01:06:15] By the way, a gente trabalha muito mais.\n[01:06:21] Então, essas pessoas falaram assim, cara, eu acho que sim, dá pra gente fazer e sim, a gente tem chance de ter um home run.\n[01:06:39] Então, a primeira coisa mesmo é o modelo mental, de pensar, não, eu lembro, cara, eu tava falando com um investidor na época que eu tava tentando levantar capital pro PipeFi, ele falou assim, ah, mas quem que tá fazendo isso lá fora?\n[01:07:13] Aí eu falei, eu que tô fazendo lá fora.\n[01:07:18] Aí o cara, ah, não, não, não, obrigado.\n[01:07:24] Eu falei, ah, velho, que isso?\n[01:07:29] Então, primeira coisa é...\n[01:07:32] Maravilhoso, cara.\n[01:07:35] Autoprofecia.\n[01:07:37] Isso daí.\n[01:07:38] Você é o que você reverbera, o que você pensa, pra começar.\n[01:07:47] Segundo ponto, que eu acho que ainda é um desafio, é a dificuldade de achar gente fluente.\n[01:08:00] E, Nardom, você não tem ideia, às vezes até pra cargo sênior, às vezes a gente vê pessoas brilhantes que têm toda a capacidade, mas quando você vai ver a questão da fluência...\n[01:08:26] Em inglês, você fala.\n[01:08:29] É.\n[01:08:29] O cara não vai além do bom dia, boa tarde.\n[01:08:35] E sabe o que acontece?\n[01:08:39] O problema da fluência pra quem tá atendendo cliente fora ou tentando principalmente vender, que você tem que convencer ou impressionar a nível global?\n[01:09:01] Quando você tá falando no teu idioma nativo, imagina que é um circo.\n[01:09:11] Quando você tá falando em outra língua, pelo fato do teu tamanho de vocabulário e velocidade pra acessar esse vocabulário, é um vocabulário menor e mais lento, o teu conhecimento é um círculo dentro do teu conhecimento no idioma nativo.\n[01:09:45] Então, se você não fala bem essa segunda língua, você parece menos inteligente do que você é.\n[01:09:59] Perfeito.\n[01:10:00] E isso é devastador.\n[01:10:03] E ainda é um super clichê básico, eu falo pra todo mundo, carai, o que é a melhor dica pra carreira?\n[01:10:18] Eu falo, ó, vai fazer terapia e vai aprender a falar inglês.\n[01:10:27] Que é o básico do básico, que todo mundo acha que é bem resolvido e tem oportunidade enorme de se desenvolver ali.\n[01:10:43] Boa.\n[01:10:44] Acho que fluência ainda é um gargalo grande.\n[01:10:50] A dificuldade de contratar naturalmente fica difícil de conseguir cliente e crescer, né?\n[01:11:03] Boa.\n[01:11:04] Galera, olha só, quem tá aí pelo celular ouvindo pelo Spotify, vai lá na caixinha de perguntas e responde pra gente.\n[01:11:21] Quero saber aí de vocês o seguinte, você tem pretensão ou desejo de internacionalizar e tornar sua empresa global?\n[01:11:38] Responde lá pra gente se você estiver aí no Spotify pelo celular.\n[01:11:47] Nossa pesquisa aí que a gente quer saber, beleza?\n[01:11:54] E a gente indo aqui pro final, né?\n[01:11:59] Já estamos aí quase uma hora batendo papo, gostaria de ficar aqui mais duas, três, quatro horas falando, tem muito assunto legal, mas a gente vai marcar pra quando a gente voltar do OPM pra falar de novo.\n[01:12:29] Vamos aqui pro bate-bola do gestor.\n[01:12:34] Como que funciona isso?\n[01:12:38] Vou te fazer uma pergunta, você tenta respondê-la o mais breve possível, mas também se não conseguir, pode desenrolar, tá?\n[01:12:56] Vamos lá.\n[01:12:57] O que constrói um bom gestor?\n[01:13:01] Saber resolver e entender problema.\n[01:13:06] Boa.\n[01:13:07] Se você pudesse dar um conselho pra Lécio que tava abrindo seu primeiro negócio, qual o conselho você daria pra ele?\n[01:13:24] Cara, vai ser o maior clichê de todos.\n[01:13:30] Gente, gente, gente, gente, gente, gente, gente, gente faz toda a diferença.\n[01:13:41] De um nível exponencial de, dependendo quem você coloca numa empreitada com você, você pode mudar completamente a trajetória daquele time, do negócio, da tua vida, se você trazer as pessoas certas.\n[01:14:10] Boa.\n[01:14:10] Complete a frase.\n[01:14:13] Ser uma empresa digital e tecnológica...\n[01:14:19] Caramba!\n[01:14:20] Trava-línguas aqui do time, hein?\n[01:14:25] Ser uma empresa digital e tecnológica é...\n[01:14:31] Usar tecnologia pra resolver o problema do mundo real.\n[01:14:39] Boa.\n[01:14:39] Como você imagina a Pipefire daqui 10 anos?\n[01:14:46] Cara, se eu te falava, vou me chamar de maluco.\n[01:14:52] Eu acho que não tem o porquê hoje a gente não ser uma empresa de 10, 20 mil colaboradores e o pessoal fala assim, ah, o Pipefire é um sucesso.\n[01:15:13] Eu falo assim, nem começou a crescer ainda.\n[01:15:20] Agora que tá começando a engrenar a nossa primeira marcha e crescer de verdade.\n[01:15:31] É o mercado onde a gente atua.\n[01:15:36] É a dor que a gente resolve nos nossos clientes.\n[01:15:43] E provas mesmo que a gente atende, né?\n[01:15:48] A gente atende governo com coisa de defesa, atende todos os bancos, atende todos os startups.\n[01:16:02] Então, assim, é um mercado infinito.\n[01:16:07] E eu vejo que dá pra crescer muito ainda.\n[01:16:13] Boa.\n[01:16:14] Qual livro sobre gestão e liderança te marcou?\n[01:16:20] É...\n[01:16:21] Assim, depende muito da fase do negócio e pra quê.\n[01:16:28] Agora você fala assim, ah, eu sou um manager.\n[01:16:35] Eu preciso, né, tocar a minha operação ali.\n[01:16:41] Eu acho que, cara, o Measuring What Matters do John Dewey, pra qualquer manager, aprender a usar mesmo, planejar com o teu time, montar uma estrutura de OCR.\n[01:17:04] E se você trabalha com software B2B, tem um livro chamado Crossing the Chasm, que te ensina muito como pensar produto e desenvolver produtos.\n[01:17:25] Irado.\n[01:17:26] Irado.\n[01:17:27] E qual livro, independente do tema que você indica e que você gosta, ou um livro que você leu aí, ou dois, você tenha lido na sua vida que te marcou e que...\n[01:17:50] É, tipo, o que eu mais dei de presente.\n[01:17:55] Pode ser esse.\n[01:17:57] Tem alguns, assim.\n[01:18:00] Pra mim tem um trio que eu acho que toda pessoa deveria ler.\n[01:18:09] O primeiro é Em Busca de Sentido, do Victor Frankl.\n[01:18:16] Porrado.\n[01:18:18] Esse livro é porrado.\n[01:18:21] É.\n[01:18:21] Eu li em 2007.\n[01:18:23] E bom pra caralho.\n[01:18:26] E eu releio ainda até hoje.\n[01:18:30] Quando eu penso que minha vida tá cheia de problemas, que...\n[01:18:38] Porque, né, resumindo, pessoal, ele percebeu que quem sobreviveu dentro do campo de concentração não eram as pessoas que tinham o melhor estado de saúde, a melhor força física, ou os mais jovens.\n[01:19:07] Quem sobreviveu em todos aqueles desafios dentro do campo de concentração eram pessoas que tinham um motivo muito claro do porquê que eles tinham que sair do campo.\n[01:19:31] Até arrepia, cara.\n[01:19:34] O livro é bom pra caralho.\n[01:19:37] É.\n[01:19:38] E dali, dessa observação dele, sendo uma das pessoas que foi pro campo de concentração, saiu toda a linha dele de psicoterapia.\n[01:19:56] Enfim, é um livro...\n[01:19:59] Logoterapia.\n[01:20:01] É, logoterapia.\n[01:20:03] Man's Search for a Meaning.\n[01:20:07] Man's Search for a Meaning.\n[01:20:11] Em busca de sentido.\n[01:20:14] Victor Frankl.\n[01:20:16] Victor Frankl.\n[01:20:18] O segundo livro é Awareness.\n[01:20:22] O autor que não lembro certinho.\n[01:20:27] Depois o time procure e coloca lá pra gente.\n[01:20:33] A legenda.\n[01:20:35] A gente coloca na legenda ali, eu passo...\n[01:20:41] Awareness.\n[01:20:43] E ele fala sobre o quê?\n[01:20:46] Ele fala sobre o quanto é importante você entender as suas emoções e o que você pensa pra lidar com os teus desafios do dia a dia e os desafios do mundo.\n[01:21:08] Quando você tá aqui, eu tô falando com o Nardom, tem um monte de coisa que passa na minha cabeça.\n[01:21:23] Será que quem tá ouvindo vai gostar desse podcast?\n[01:21:30] Será que você tá gostando do que eu tô falando com você?\n[01:21:38] Quando eu tô pensando se o meu chefe gosta do que eu tô fazendo ou se o meu investidor gosta do que eu tô fazendo, na minha cabeça começam a abrir um monte de hipóteses e leques.\n[01:22:04] Há 10 mil anos, esse modelo mental fez a gente sobreviver.\n[01:22:13] Porque você ouvia um barulho na floresta, você achava que era uma cobra, não um galho que você pisou sem querer.\n[01:22:29] E ele mostra o quanto isso é danoso pra gente hoje.\n[01:22:37] Perfeito.\n[01:22:38] Quanta energia a gente gasta pensando merda em vez de canalizar a nossa energia, o nosso tempo em coisas que realmente vão fazer a diferença e vão fazer a gente mover.\n[01:23:02] Irado.\n[01:23:03] Parece ser muito bom.\n[01:23:06] E o último livro que eu recomendo é O Alma Indomável, que é muito, muito bom também, que é Michael Singer.\n[01:23:22] Muito nessa linha também, que ele mostra assim, cara, qual que é o teu papel aqui?\n[01:23:34] O que que te irrita?\n[01:23:37] O que que não irrita?\n[01:23:40] O que que te motiva?\n[01:23:43] Qual que é o teu relacionamento com as pessoas?\n[01:23:50] Como melhorar isso?\n[01:23:53] Essa teia, pra mim, eu recomendo pra todo mundo.\n[01:24:00] Irado.\n[01:24:00] Já vou colocar no meu audible aqui pra ler quando a gente voltar do OPM.\n[01:24:11] Porque até lá tem um monte de case pra ler que eu nem conheço.\n[01:24:20] Meu Deus do céu, cara.\n[01:24:23] Você já imprimiu tudo de uma vez só?\n[01:24:29] Imi nada, cara.\n[01:24:31] No computador, marcar no PDF.\n[01:24:35] O ano passado, a critério e curiosidade, a minha mestrante imprimiu pra ficar mais fácil de ler.\n[01:24:49] Cara, dá uma pilha desse tamanho, assim, ó.\n[01:24:55] Você tá louco, cara.\n[01:24:58] A",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.6,
+      "timestamp": "00:00",
+      "text": "esse desafio de ser remoto em primeiro lugar."
+    },
+    {
+      "start": 6.6,
+      "end": 14.51,
+      "timestamp": "00:06",
+      "text": "Falar um tema que eu sei que vocês adoram falar sobre."
+    },
+    {
+      "start": 14.51,
+      "end": 20.23,
+      "timestamp": "00:14",
+      "text": "Ah, é mais produtivo do que presencial?"
+    },
+    {
+      "start": 20.23,
+      "end": 21.99,
+      "timestamp": "00:20",
+      "text": "Não é, cara."
+    },
+    {
+      "start": 21.99,
+      "end": 26.83,
+      "timestamp": "00:21",
+      "text": "Tem que parar de buchitar, não é."
+    },
+    {
+      "start": 26.83,
+      "end": 73.6,
+      "timestamp": "00:26",
+      "text": "O fato é que a gente cresceu dois terços durante a pandemia, já era mais ou menos remoto, contratou remoto pra caramba, gente do mundo inteiro, a gente precisa de especialistas, pessoas que top 1%, que às vezes é um cara que mora do Texas, que tem um know-how específico que a gente precisa contratar, contratou remoto."
+    },
+    {
+      "start": 73.6,
+      "end": 84.01,
+      "timestamp": "01:13",
+      "text": "Não tem, eu vou convencer o cara, ó, agora vamos voltar pro escritório?"
+    },
+    {
+      "start": 84.01,
+      "end": 86.21,
+      "timestamp": "01:24",
+      "text": "Vem pro Brasil."
+    },
+    {
+      "start": 86.21,
+      "end": 90.9,
+      "timestamp": "01:26",
+      "text": "Se muda lá pra Curitiba, já era."
+    },
+    {
+      "start": 90.9,
+      "end": 118.9,
+      "timestamp": "01:30",
+      "text": "O que todo mundo tem que entender é, sim, um lugar que você mais tem serendipity, que você mais vai se desenvolver em um time, se eu estivesse começando uma startup hoje, eu faria presencial."
+    },
+    {
+      "start": 118.9,
+      "end": 128.87,
+      "timestamp": "01:58",
+      "text": "E presencial é a referência, é o benchmark, é 100% de produtividade."
+    },
+    {
+      "start": 128.87,
+      "end": 172.85,
+      "timestamp": "02:08",
+      "text": "O que a gente conseguiu ao longo do tempo foi, através de boas práticas de colaboração remota, comunicação, documentação, como a gente mede o sucesso das pessoas, eu avalio a performance, a gente conseguiu chegar o mais próximo possível da produtividade que você tem trabalhando dentro do escritório."
+    },
+    {
+      "start": 172.85,
+      "end": 188.98,
+      "timestamp": "02:52",
+      "text": "Mas é um gap que nunca vai ser 100%, ou me desculpe aí o pessoal que vende isso, não vai ser mais do que 100%."
+    },
+    {
+      "start": 188.98,
+      "end": 211.56,
+      "timestamp": "03:08",
+      "text": "Quais outras dificuldades e dores você vê desses empresários quando eles estão falando de transformação digital e implementar ferramentas como a Pipefire?"
+    },
+    {
+      "start": 211.56,
+      "end": 221.53,
+      "timestamp": "03:31",
+      "text": "Um lado do extremo tá era de negócio que tá com um problema no colo."
+    },
+    {
+      "start": 221.53,
+      "end": 241.03,
+      "timestamp": "03:41",
+      "text": "E que é punido se não bater meta, é quem toma prejuízo na cabeça, ou quem vai ouvir a bronca do cliente se a experiência não for boa."
+    },
+    {
+      "start": 241.03,
+      "end": 261.99,
+      "timestamp": "04:01",
+      "text": "E esse extremo ele conhece tudo sobre o problema, ele provavelmente também deveria ser a fonte das melhores ideias de como resolver o problema."
+    },
+    {
+      "start": 261.99,
+      "end": 274.75,
+      "timestamp": "04:21",
+      "text": "Só que o desafio é que esse pedaço aqui do cérebro, ele não conhece nada de tecnologia."
+    },
+    {
+      "start": 274.75,
+      "end": 279.15,
+      "timestamp": "04:34",
+      "text": "E ele não gosta de tecnologia."
+    },
+    {
+      "start": 279.15,
+      "end": 283.69,
+      "timestamp": "04:39",
+      "text": "Ele ouve AI, ele não tá nem aí."
+    },
+    {
+      "start": 283.69,
+      "end": 302.46,
+      "timestamp": "04:43",
+      "text": "Ele não quer saber o que é transformação digital, ele não quer saber o que é Big Data, ele não tá nem aí, não é nada tech savvy."
+    },
+    {
+      "start": 302.46,
+      "end": 312.87,
+      "timestamp": "05:02",
+      "text": "No outro extremo da escala tá o oposto exato disso, que é o cara do TI."
+    },
+    {
+      "start": 312.87,
+      "end": 330.46,
+      "timestamp": "05:12",
+      "text": "Que conhece de tecnologia, gosta de tecnologia, ficava antes só cilada dentro, mantendo o RP ligado dentro do time dele."
+    },
+    {
+      "start": 330.46,
+      "end": 353.04,
+      "timestamp": "05:30",
+      "text": "Que ele conhece muito, não só as potenciais melhores tecnologias, mas ele também conhece os problemas que podem acontecer quando a tecnologia é mal usada."
+    },
+    {
+      "start": 353.04,
+      "end": 368.43,
+      "timestamp": "05:53",
+      "text": "Só que esse cara que tá no outro lado extremo da escala, ele não tem a mínima ideia das dores de negócio."
+    },
+    {
+      "start": 368.43,
+      "end": 386.17,
+      "timestamp": "06:08",
+      "text": "E aí fica meio Stranger Things, os dois mundos que não se conversam, e um com uma visão completamente enviesada do outro."
+    },
+    {
+      "start": 386.17,
+      "end": 393.65,
+      "timestamp": "06:26",
+      "text": "E às vezes chega até a ser uma relação conflituosa."
+    },
+    {
+      "start": 393.65,
+      "end": 408.17,
+      "timestamp": "06:33",
+      "text": "E a maioria das empresas que tem uma dificuldade de se beneficiar com tecnologia, sabe o que que é?"
+    },
+    {
+      "start": 408.17,
+      "end": 414.91,
+      "timestamp": "06:48",
+      "text": "É quando um desses dois lados tenta ser herói."
+    },
+    {
+      "start": 414.91,
+      "end": 419.6,
+      "timestamp": "06:54",
+      "text": "Explica um pouquinho mais disso."
+    },
+    {
+      "start": 419.6,
+      "end": 426.79,
+      "timestamp": "06:59",
+      "text": "Fala galera, bem-vindos a mais um Papo de Gestão."
+    },
+    {
+      "start": 426.79,
+      "end": 449.66,
+      "timestamp": "07:06",
+      "text": "E pra você que acompanha a gente aqui, você deve se perguntar, por que que eu vou dedicar tempo pra treinar as pessoas do meu time, se elas podem ir embora?"
+    },
+    {
+      "start": 449.66,
+      "end": 463.44,
+      "timestamp": "07:29",
+      "text": "Porque se você não treiná-las e elas ficarem na sua empresa, aí sim você vai ter um problemão."
+    },
+    {
+      "start": 463.44,
+      "end": 471.94,
+      "timestamp": "07:43",
+      "text": "Afinal, uma empresa é formada pelas pessoas que a compõem."
+    },
+    {
+      "start": 471.94,
+      "end": 483.82,
+      "timestamp": "07:51",
+      "text": "E o resultado do negócio depende diretamente da performance desses colaboradores."
+    },
+    {
+      "start": 483.82,
+      "end": 533.08,
+      "timestamp": "08:03",
+      "text": "Sabendo do desafio que é treinar e capacitar a gente, nós desenvolvemos o G4 Skills, que é a plataforma de treinamento de times aqui do G4 Educação, que avalia as lacunas de habilidades e a maturidade do seu colaborador, e cria uma trilha personalizada de desenvolvimento pra cada membro do seu time, com as nossas formações aqui do G4."
+    },
+    {
+      "start": 533.08,
+      "end": 545.83,
+      "timestamp": "08:53",
+      "text": "Pra você conhecer o G4 Skills, eu liberei 7 dias de acesso gratuito à nossa plataforma."
+    },
+    {
+      "start": 545.83,
+      "end": 560.64,
+      "timestamp": "09:05",
+      "text": "Basta você escanear o QR Code que tá aqui nessa tela, ou clicar no link do descritivo desse episódio."
+    },
+    {
+      "start": 560.64,
+      "end": 570.76,
+      "timestamp": "09:20",
+      "text": "Então, aproveita, vai lá com o teu time, que você vai aprender muito."
+    },
+    {
+      "start": 570.76,
+      "end": 579.7,
+      "timestamp": "09:30",
+      "text": "E agora, esse episódio aqui do Papo de Gestão tá sensacional."
+    },
+    {
+      "start": 579.7,
+      "end": 582.93,
+      "timestamp": "09:39",
+      "text": "Espero que você goste."
+    },
+    {
+      "start": 582.93,
+      "end": 637.91,
+      "timestamp": "09:42",
+      "text": "E hoje eu recebo aqui esse meu amigo empreendedor serial, um cara que eu admiro muito, aprendo muito com ele, empreendedor Endeavor, que já teve aí algumas histórias de empreendedorismo, que é meu colega também no curso que tô fazendo lá em Harvard, no OPM, mas que, nada mais nada menos, fundou um dos maiores cases de sucesso de SaaS, Software Como Serviço, aqui do Brasil."
+    },
+    {
+      "start": 637.91,
+      "end": 651.54,
+      "timestamp": "10:37",
+      "text": "Alessio Alionso, fundador e CEO da PipeFi, prazer bater esse papo aqui com você, meu querido."
+    },
+    {
+      "start": 651.54,
+      "end": 652.42,
+      "timestamp": "10:51",
+      "text": "Valeu."
+    },
+    {
+      "start": 652.42,
+      "end": 653.89,
+      "timestamp": "10:52",
+      "text": "Bem-vindo."
+    },
+    {
+      "start": 653.89,
+      "end": 657.55,
+      "timestamp": "10:53",
+      "text": "Obrigado pelo convite aí."
+    },
+    {
+      "start": 657.55,
+      "end": 661.22,
+      "timestamp": "10:57",
+      "text": "Boa, finalmente saiu, né?"
+    },
+    {
+      "start": 661.22,
+      "end": 662.54,
+      "timestamp": "11:01",
+      "text": "Saiu, né?"
+    },
+    {
+      "start": 662.54,
+      "end": 669.13,
+      "timestamp": "11:02",
+      "text": "Faz uns dois anos já que a gente tá tentando."
+    },
+    {
+      "start": 669.13,
+      "end": 669.72,
+      "timestamp": "11:09",
+      "text": "Boa."
+    },
+    {
+      "start": 669.72,
+      "end": 677.2,
+      "timestamp": "11:09",
+      "text": "Galera, ó, tô muito animado com esse episódio aqui."
+    },
+    {
+      "start": 677.2,
+      "end": 705.79,
+      "timestamp": "11:17",
+      "text": "O Alessio, ele vai falar aqui um pouquinho sobre como realizar a transformação digital na sua empresa, a gente vai falar um pouquinho sobre isso, sobre as dificuldades e dores nesse processo, né?"
+    },
+    {
+      "start": 705.79,
+      "end": 746.11,
+      "timestamp": "11:45",
+      "text": "E também vai contar um pouquinho sobre a jornada empreendedora dele, sobre como ele começou, um pouquinho sobre o PipeFi, como o PipeFi se tornou esse case global, a gente tava conversando um pouquinho agora há pouco sobre os benefícios e os contras de ter um negócio global."
+    },
+    {
+      "start": 746.11,
+      "end": 762.38,
+      "timestamp": "12:26",
+      "text": "Então, ó, já pega a caneta aqui, pega papel também pra anotar todos os insights que ele vai dar aqui pra gente."
+    },
+    {
+      "start": 762.38,
+      "end": 785.98,
+      "timestamp": "12:42",
+      "text": "Galera, começando aqui, eu falo muito sobre a importância de você ter pessoas boas nos lugares certos, nas posições corretas na empresa e com bons processos, né?"
+    },
+    {
+      "start": 785.98,
+      "end": 791.56,
+      "timestamp": "13:05",
+      "text": "Então eu sempre falo muito sobre isso."
+    },
+    {
+      "start": 791.56,
+      "end": 801.38,
+      "timestamp": "13:11",
+      "text": "Mas é muito difícil também ficar só limitado a pessoas e processos."
+    },
+    {
+      "start": 801.38,
+      "end": 820.44,
+      "timestamp": "13:21",
+      "text": "A gente sabe que o negócio, se você tem pessoas boas, processos bons, ele vai progredir, mas uma hora você vai bater num teto, né?"
+    },
+    {
+      "start": 820.44,
+      "end": 824.4,
+      "timestamp": "13:40",
+      "text": "E eu sempre falo nisso, né?"
+    },
+    {
+      "start": 824.4,
+      "end": 829.97,
+      "timestamp": "13:44",
+      "text": "Que é pessoas, processos e tecnologia."
+    },
+    {
+      "start": 829.97,
+      "end": 860.76,
+      "timestamp": "13:49",
+      "text": "Você pega ali 20, 30% dos seus processos que mais dão trabalho pra você, que dão 80% do trabalho pro seu time, coloca uma tecnologia, isso vai fazer com que o teu time seja 5 vezes, 10 vezes mais eficiente, né?"
+    },
+    {
+      "start": 860.76,
+      "end": 869.7,
+      "timestamp": "14:20",
+      "text": "E daí, eu tenho uma pergunta aqui pra você pra gente começar."
+    },
+    {
+      "start": 869.7,
+      "end": 894.04,
+      "timestamp": "14:29",
+      "text": "Qual que, no teu ponto de vista, é o impacto das pessoas terem essa falta de tecnologia na empresa e como que isso pode impactar diretamente os resultados da empresa?"
+    },
+    {
+      "start": 894.04,
+      "end": 910.75,
+      "timestamp": "14:54",
+      "text": "Cara, a gente, lá no Wi-Fi, a gente vê muito essas dores do dia a dia e acho que tem algumas consequências, assim."
+    },
+    {
+      "start": 910.75,
+      "end": 927.02,
+      "timestamp": "15:10",
+      "text": "Primeiro é falta de competitividade e lucratividade no negócio, na operação que o time, a empresa está tocando."
+    },
+    {
+      "start": 927.02,
+      "end": 967.2,
+      "timestamp": "15:27",
+      "text": "Então, custo maior do que deveria ser, falta de agilidade da empresa responder a mudança de mercado, falta de agilidade em entregar o produto ou serviço pro cliente, a qualidade do produto ou serviço em si é super inconsistente, porque você fica confiando só em pessoas, né?"
+    },
+    {
+      "start": 967.2,
+      "end": 988.6,
+      "timestamp": "16:07",
+      "text": "Às vezes na memória das pessoas pra garantir que essa entrega do produto ou serviço vai acontecer bem, isso gera vários problemas de estabilidade."
+    },
+    {
+      "start": 988.6,
+      "end": 994.03,
+      "timestamp": "16:28",
+      "text": "A gente vê muito problema de SLA, né?"
+    },
+    {
+      "start": 994.03,
+      "end": 1014.11,
+      "timestamp": "16:34",
+      "text": "Instabilidade, assim, cliente, pô, às vezes demora pra caramba, perde pedido e tudo isso acaba afetando a competitividade do negócio, né?"
+    },
+    {
+      "start": 1014.11,
+      "end": 1036.25,
+      "timestamp": "16:54",
+      "text": "E é legal que a gente atende todo tipo de setor, às vezes vários concorrentes, a gente vê a diferença de quanto mais ou menos tech enabled a empresa é."
+    },
+    {
+      "start": 1036.25,
+      "end": 1063.81,
+      "timestamp": "17:16",
+      "text": "Entre todas as camadas dela de execução, parece uma incrível coincidência, mas quem é mais esperto em relação a isso, você vê que o cara tá crescendo, tá ganhando margem, tá crescendo, né?"
+    },
+    {
+      "start": 1063.81,
+      "end": 1075.83,
+      "timestamp": "17:43",
+      "text": "Com certeza tem um ponto em comum ali de você conseguir saber extrair valor disso."
+    },
+    {
+      "start": 1075.83,
+      "end": 1113.51,
+      "timestamp": "17:55",
+      "text": "E acho que isso tá acontecendo em todo setor, não é só em empresas que já tá bem mais avançado, mas hoje empresas ou funções mais tradicionais que historicamente não se beneficiavam com tecnologia, agora a gente tá vendo também essa transformação acontecer."
+    },
+    {
+      "start": 1113.51,
+      "end": 1125.39,
+      "timestamp": "18:33",
+      "text": "Pô, cara, assim, isso é um negócio que quando você olha o mundo como um todo, né?"
+    },
+    {
+      "start": 1125.39,
+      "end": 1141.81,
+      "timestamp": "18:45",
+      "text": "Você olha que aqueles países que são mais competitivos, eles acabam começando na frente a ganhar eficiência, né?"
+    },
+    {
+      "start": 1141.81,
+      "end": 1151.19,
+      "timestamp": "19:01",
+      "text": "Uma das teses que a gente tem aqui no G4 é muito sobre isso, né?"
+    },
+    {
+      "start": 1151.19,
+      "end": 1180.81,
+      "timestamp": "19:11",
+      "text": "A gente é um país que a gente tem um alto desemprego, se você comparar com Estados Unidos, que é um país de pleno emprego, mas quando a gente olha o macro do Brasil, a gente tem um desemprego de 3%, né?"
+    },
+    {
+      "start": 1180.81,
+      "end": 1198.4,
+      "timestamp": "19:40",
+      "text": "Que basicamente é um pleno emprego, é um estado muito parecido no fim do dia com aquilo que acontece nos Estados Unidos."
+    },
+    {
+      "start": 1198.4,
+      "end": 1206.17,
+      "timestamp": "19:58",
+      "text": "E o que que acontece quando você tem o pleno emprego?"
+    },
+    {
+      "start": 1206.17,
+      "end": 1216.73,
+      "timestamp": "20:06",
+      "text": "O que acontece é que as empresas que têm mão de obra desqualificada, né?"
+    },
+    {
+      "start": 1216.73,
+      "end": 1243.12,
+      "timestamp": "20:16",
+      "text": "Que elas necessitam dessa mão de obra desqualificada, acabam não conseguindo achar essa mão de obra, porque é caro pra ela rodar a operação dela com uma mão de obra desqualificada."
+    },
+    {
+      "start": 1243.12,
+      "end": 1250.89,
+      "timestamp": "20:43",
+      "text": "E o que faz com que ela se force a ganhar eficiência?"
+    },
+    {
+      "start": 1250.89,
+      "end": 1265.7,
+      "timestamp": "20:50",
+      "text": "E quando ela se força a ganhar eficiência, basicamente ela tá subindo uma barrinha de eficiência, né?"
+    },
+    {
+      "start": 1265.7,
+      "end": 1342.08,
+      "timestamp": "21:05",
+      "text": "Onde ela precisa melhorar as pessoas que ela tem lá, pagar melhor pra elas, melhorar os processos e colocar tecnologia pra que aquele time, mesmo sendo mais enxuto, entregue muito mais valor, que é o valor no fim do dia que ele vai gerar pro cliente final\n\nconhece de tecnologia, gosta de tecnologia, ficava antes só silada, mantendo o RP ligado dentro do time dele, que ele conhece muito, não só as potenciais melhores tecnologias, mas ele também conhece os problemas que podem acontecer quando a tecnologia é mal usada."
+    },
+    {
+      "start": 1342.08,
+      "end": 1357.48,
+      "timestamp": "22:22",
+      "text": "Só que esse cara que tá no outro lado extremo da escala, ele não tem a mínima ideia das dores de negócio."
+    },
+    {
+      "start": 1357.48,
+      "end": 1358.8,
+      "timestamp": "22:37",
+      "text": "Perfeito."
+    },
+    {
+      "start": 1358.8,
+      "end": 1376.54,
+      "timestamp": "22:38",
+      "text": "E aí fica meio Stranger Things, os dois mundos que não se conversam, e um com uma visão completamente enviesada do outro."
+    },
+    {
+      "start": 1376.54,
+      "end": 1384.01,
+      "timestamp": "22:56",
+      "text": "E às vezes chega até a ser uma relação conflituosa."
+    },
+    {
+      "start": 1384.01,
+      "end": 1398.53,
+      "timestamp": "23:04",
+      "text": "E a maioria das empresas que tem uma dificuldade de se beneficiar com tecnologia, sabe o que que é?"
+    },
+    {
+      "start": 1398.53,
+      "end": 1405.27,
+      "timestamp": "23:18",
+      "text": "É quando um desses dois lados tenta ser herói."
+    },
+    {
+      "start": 1405.27,
+      "end": 1409.96,
+      "timestamp": "23:25",
+      "text": "Explica um pouquinho mais disso."
+    },
+    {
+      "start": 1409.96,
+      "end": 1439.28,
+      "timestamp": "23:29",
+      "text": "Quando tecnologia acha que sabe o que que tá acontecendo e sabe qual é a melhor solução, quantas empresas você vê aí com projetos de instalação de sistema do RP que deu errado depois de um, dois anos?"
+    },
+    {
+      "start": 1439.28,
+      "end": 1441.78,
+      "timestamp": "23:59",
+      "text": "A grande maioria."
+    },
+    {
+      "start": 1441.78,
+      "end": 1446.47,
+      "timestamp": "24:01",
+      "text": "E todo mundo fala, ah, tá vendo?"
+    },
+    {
+      "start": 1446.47,
+      "end": 1455.27,
+      "timestamp": "24:06",
+      "text": "Olha aí, olha aquele sistema lá, falei que não ia funcionar."
+    },
+    {
+      "start": 1455.27,
+      "end": 1456.44,
+      "timestamp": "24:15",
+      "text": "Por quê?"
+    },
+    {
+      "start": 1456.44,
+      "end": 1465.97,
+      "timestamp": "24:16",
+      "text": "Porque eles tinham conhecimento da tecnologia, mas não entendiam."
+    },
+    {
+      "start": 1465.97,
+      "end": 1485.17,
+      "timestamp": "24:25",
+      "text": "Ou a realidade do negócio, mas principalmente não entendiam e não engajavam as pessoas que iam usar aquela tecnologia no dia a dia."
+    },
+    {
+      "start": 1485.17,
+      "end": 1486.49,
+      "timestamp": "24:45",
+      "text": "Perfeito."
+    },
+    {
+      "start": 1486.49,
+      "end": 1503.65,
+      "timestamp": "24:46",
+      "text": "O outro extremo que tá acontecendo agora muito com a AI, por exemplo, é a área de negócio tentar bancar de ser herói."
+    },
+    {
+      "start": 1503.65,
+      "end": 1518.89,
+      "timestamp": "25:03",
+      "text": "Aí o cara pega dado sensível da empresa, vai lá no chat PT e joga no ventilador e corre um risco danado."
+    },
+    {
+      "start": 1518.89,
+      "end": 1528.86,
+      "timestamp": "25:18",
+      "text": "Então esses dois extremos que a gente vê que acaba gerando conflito."
+    },
+    {
+      "start": 1528.86,
+      "end": 1531.36,
+      "timestamp": "25:28",
+      "text": "E é o mais comum."
+    },
+    {
+      "start": 1531.36,
+      "end": 1550.56,
+      "timestamp": "25:31",
+      "text": "Todo mundo tem história triste, assim, desses projetos de inovação que acabaram virando elefante branco e ninguém conseguiu adotar."
+    },
+    {
+      "start": 1550.56,
+      "end": 1556.72,
+      "timestamp": "25:50",
+      "text": "E qual o conselho você dá pra essa galera?"
+    },
+    {
+      "start": 1556.72,
+      "end": 1574.46,
+      "timestamp": "25:56",
+      "text": "Como que você viu os casos de empresas que tiveram mais sucesso numa implantação ou numa transformação digital bem feita?"
+    },
+    {
+      "start": 1574.46,
+      "end": 1576.22,
+      "timestamp": "26:14",
+      "text": "Nossa, cara."
+    },
+    {
+      "start": 1576.22,
+      "end": 1582.23,
+      "timestamp": "26:16",
+      "text": "Aí eu tenho várias coisas que a gente vê."
+    },
+    {
+      "start": 1582.23,
+      "end": 1614.63,
+      "timestamp": "26:22",
+      "text": "O que são as melhores práticas quando você pensa, putz, eu vou entrar nesse cliente, esse é o meu sonho de cliente pra entrar porque, putz, esse daqui eu sei que vai dar certo e tá com as melhores práticas que eles fazem."
+    },
+    {
+      "start": 1614.63,
+      "end": 1630.17,
+      "timestamp": "26:54",
+      "text": "Porque eu entendi que você tem os dois extremos que tipicamente só acontecem porque eles não se conversam."
+    },
+    {
+      "start": 1630.17,
+      "end": 1654.51,
+      "timestamp": "27:10",
+      "text": "E eu imagino que o oposto disso seja quando esses dois extremos se aproximam e existe uma convivência, um respeito e uma conversa que um entende como o arru do outro."
+    },
+    {
+      "start": 1654.51,
+      "end": 1666.09,
+      "timestamp": "27:34",
+      "text": "O negócio tentando educar tecnologia e tecnologia tentando educar negócios, né?"
+    },
+    {
+      "start": 1666.09,
+      "end": 1682.81,
+      "timestamp": "27:46",
+      "text": "E no meio talvez você tenha ali um time de Product Owners, Product Managers que fazem muito bem esse Chinese Wall."
+    },
+    {
+      "start": 1682.81,
+      "end": 1685.89,
+      "timestamp": "28:02",
+      "text": "Nem Chinese Wall, né?"
+    },
+    {
+      "start": 1685.89,
+      "end": 1703.48,
+      "timestamp": "28:05",
+      "text": "Mas talvez muito mais um lugar que eles recebam todo mundo e eduquem todo mundo pra que sirvam mais como tradutores, né?"
+    },
+    {
+      "start": 1703.48,
+      "end": 1706.56,
+      "timestamp": "28:23",
+      "text": "De um lado pro outro."
+    },
+    {
+      "start": 1706.56,
+      "end": 1710.66,
+      "timestamp": "28:26",
+      "text": "Porque essa é a dificuldade."
+    },
+    {
+      "start": 1710.66,
+      "end": 1722.98,
+      "timestamp": "28:30",
+      "text": "Como você pega o que alguém tá falando pra traduzir pro outro lado e vice-versa, né?"
+    },
+    {
+      "start": 1722.98,
+      "end": 1753.77,
+      "timestamp": "28:42",
+      "text": "Quais são as melhores práticas ou recomendações que você dá caso a empresa da pessoa ali que tá do empreendedor que tá ouvindo a gente vá passar por uma transformação digital ou quer implementar uma ferramenta?"
+    },
+    {
+      "start": 1753.77,
+      "end": 1760.66,
+      "timestamp": "29:13",
+      "text": "Qual a dica que você dá pra ele fazer isso bem?"
+    },
+    {
+      "start": 1760.66,
+      "end": 1767.11,
+      "timestamp": "29:20",
+      "text": "Cara, eu vejo claramente alguns padrões, tá?"
+    },
+    {
+      "start": 1767.11,
+      "end": 1775.32,
+      "timestamp": "29:27",
+      "text": "A gente atende pô, os bancos, a gente atende todo mundo."
+    },
+    {
+      "start": 1775.32,
+      "end": 1781.77,
+      "timestamp": "29:35",
+      "text": "Mas esses bancos mais novos, mais ágeis, né?"
+    },
+    {
+      "start": 1781.77,
+      "end": 1797.31,
+      "timestamp": "29:41",
+      "text": "Um bancão de investimento, parceiro de vocês, sempre tá aí com coisa ou roxinho lá que todo mundo usa, né?"
+    },
+    {
+      "start": 1797.31,
+      "end": 1802.0,
+      "timestamp": "29:57",
+      "text": "O que a gente vê de diferencial?"
+    },
+    {
+      "start": 1802.0,
+      "end": 1812.7,
+      "timestamp": "30:02",
+      "text": "São alguns comportamentos, mindsets e a forma como esses times colaboram."
+    },
+    {
+      "start": 1812.7,
+      "end": 1822.82,
+      "timestamp": "30:12",
+      "text": "Pra começar, esses times trabalham com uma abordagem cross-funcional."
+    },
+    {
+      "start": 1822.82,
+      "end": 1852.0,
+      "timestamp": "30:22",
+      "text": "E eles colocam na mesma sala pessoas exatamente com backgrounds diferentes que conseguem ter uma visão 360 sobre o problema e sobre possíveis soluções praquele problema do ponto de vista tecnológico."
+    },
+    {
+      "start": 1852.0,
+      "end": 1866.95,
+      "timestamp": "30:51",
+      "text": "Então, geralmente, times cross-funcionais pra resolver um problema específico tendem a dar mais certo."
+    },
+    {
+      "start": 1866.95,
+      "end": 1899.79,
+      "timestamp": "31:06",
+      "text": "Então, um time cross-funcional basicamente é um time que você vai colocar lá uma pessoa de tecnologia, uma pessoa de negócios, uma pessoa talvez de produto e esses três vão conversar bastante pra conseguir chegar na solução."
+    },
+    {
+      "start": 1899.79,
+      "end": 1907.42,
+      "timestamp": "31:39",
+      "text": "E olha lá, produto a gente que daí é produteiro, né?"
+    },
+    {
+      "start": 1907.42,
+      "end": 1913.13,
+      "timestamp": "31:47",
+      "text": "Que tem uma abordagem mais sofisticada."
+    },
+    {
+      "start": 1913.13,
+      "end": 1927.35,
+      "timestamp": "31:53",
+      "text": "Mas pensando em dia-a-dia, melhoria contínua dentro da operação, às vezes nem precisa de produto."
+    },
+    {
+      "start": 1927.35,
+      "end": 1944.51,
+      "timestamp": "32:07",
+      "text": "Mas é importante ter uma pessoa com viés da solução da tecnologia e uma pessoa com entendimento profundo do problema."
+    },
+    {
+      "start": 1944.51,
+      "end": 1961.81,
+      "timestamp": "32:24",
+      "text": "Primeiro coisa, ou essas duas no mínimo e ou algumas pessoas que conhecem muito ou do cliente ou do mundador ou que..."
+    },
+    {
+      "start": 1961.81,
+      "end": 1965.18,
+      "timestamp": "32:41",
+      "text": "É um problema jurídico?"
+    },
+    {
+      "start": 1965.18,
+      "end": 1972.8,
+      "timestamp": "32:45",
+      "text": "Bom, coloca alguém grande no legal ali pra resolver."
+    },
+    {
+      "start": 1972.8,
+      "end": 1988.78,
+      "timestamp": "32:52",
+      "text": "Às vezes depende muito do que aquele problema tá demandando e quem são os stakeholders impactados por aquilo."
+    },
+    {
+      "start": 1988.78,
+      "end": 1999.63,
+      "timestamp": "33:08",
+      "text": "Então, basicamente aqui o que a gente tá falando é assim, traz o problema."
+    },
+    {
+      "start": 1999.63,
+      "end": 2004.62,
+      "timestamp": "33:19",
+      "text": "Qual o problema eu quero resolver?"
+    },
+    {
+      "start": 2004.62,
+      "end": 2039.22,
+      "timestamp": "33:24",
+      "text": "Porque muitas vezes quem sabe o problema e quer imaginar a solução, que no caso você falou que é o herói, ele imagina a solução errada porque ele tem uma visão muito fechada, que nem aqueles cavalos que andam na cidade que tem aqui, né?"
+    },
+    {
+      "start": 2039.22,
+      "end": 2042.3,
+      "timestamp": "33:59",
+      "text": "Sabe aqueles tampões?"
+    },
+    {
+      "start": 2042.3,
+      "end": 2046.55,
+      "timestamp": "34:02",
+      "text": "É essa a visão de mundo dele."
+    },
+    {
+      "start": 2046.55,
+      "end": 2048.9,
+      "timestamp": "34:06",
+      "text": "É muito pequena."
+    },
+    {
+      "start": 2048.9,
+      "end": 2058.42,
+      "timestamp": "34:08",
+      "text": "Ele não entende de tecnologia pra entender tudo que dá pra fazer."
+    },
+    {
+      "start": 2058.42,
+      "end": 2086.13,
+      "timestamp": "34:18",
+      "text": "E quando você coloca a pessoa de tecnologia que não entendeu, na verdade, o escopo inteiro do problema ele vai falar, cara, quero resolver isso pensando no longo prazo e como ser escalável."
+    },
+    {
+      "start": 2086.13,
+      "end": 2101.24,
+      "timestamp": "34:46",
+      "text": "E às vezes você não precisa ser escalável no longo prazo porque o problema é importante, mas é pequeno."
+    },
+    {
+      "start": 2101.24,
+      "end": 2132.32,
+      "timestamp": "35:01",
+      "text": "Então, na verdade, aquilo que poderia ser resolvido em uma semana demora, às vezes, um mês, dois meses de programação pra resolver algo que você poderia ter feito em uma semana e já resolvido E já era suficiente."
+    },
+    {
+      "start": 2132.32,
+      "end": 2141.41,
+      "timestamp": "35:32",
+      "text": "90% do problema que era suficiente pros próximos meses e anos."
+    },
+    {
+      "start": 2141.41,
+      "end": 2155.77,
+      "timestamp": "35:41",
+      "text": "Pelos olhos do cliente que é quem você precisa satisfazer que tem uma expectativa, era suficiente."
+    },
+    {
+      "start": 2155.77,
+      "end": 2157.09,
+      "timestamp": "35:55",
+      "text": "Perfeito."
+    },
+    {
+      "start": 2157.09,
+      "end": 2161.05,
+      "timestamp": "35:57",
+      "text": "E aí não precisava de nada."
+    },
+    {
+      "start": 2161.05,
+      "end": 2163.4,
+      "timestamp": "36:01",
+      "text": "Era good enough."
+    },
+    {
+      "start": 2163.4,
+      "end": 2165.89,
+      "timestamp": "36:03",
+      "text": "Bom o suficiente."
+    },
+    {
+      "start": 2165.89,
+      "end": 2174.25,
+      "timestamp": "36:05",
+      "text": "Que é o que você tem que entregar pelos olhos do cliente."
+    },
+    {
+      "start": 2174.25,
+      "end": 2183.63,
+      "timestamp": "36:14",
+      "text": "E aí você entrou no segundo ponto que é o padrão que a gente vê."
+    },
+    {
+      "start": 2183.63,
+      "end": 2199.17,
+      "timestamp": "36:23",
+      "text": "Times muito bons e que tendem a usar tecnologia melhor, eles focam no problema antes de pensar na solução."
+    },
+    {
+      "start": 2199.17,
+      "end": 2204.45,
+      "timestamp": "36:39",
+      "text": "E eles focam em entender o problema."
+    },
+    {
+      "start": 2204.45,
+      "end": 2216.91,
+      "timestamp": "36:44",
+      "text": "Primeiro, qual é a jornada de ponta a ponta do que a gente chama de value stream, né?"
+    },
+    {
+      "start": 2216.91,
+      "end": 2232.31,
+      "timestamp": "36:56",
+      "text": "Que é a cadeia do que precisa acontecer passo a passo até o cliente receber o que ele tem de expectativa."
+    },
+    {
+      "start": 2232.31,
+      "end": 2237.0,
+      "timestamp": "37:12",
+      "text": "Ah, tá um bordão no colaborador?"
+    },
+    {
+      "start": 2237.0,
+      "end": 2241.69,
+      "timestamp": "37:16",
+      "text": "O que acontece de ponta a ponta?"
+    },
+    {
+      "start": 2241.69,
+      "end": 2248.29,
+      "timestamp": "37:21",
+      "text": "Tá entregando produto ou serviço pro cliente?"
+    },
+    {
+      "start": 2248.29,
+      "end": 2253.86,
+      "timestamp": "37:28",
+      "text": "O que tá acontecendo de ponta a ponta?"
+    },
+    {
+      "start": 2253.86,
+      "end": 2271.89,
+      "timestamp": "37:33",
+      "text": "Uma vez que você projetou esse value stream, o caminho feliz do que deveria acontecer, você fala, tá bom, mas shit happens."
+    },
+    {
+      "start": 2271.89,
+      "end": 2285.38,
+      "timestamp": "37:51",
+      "text": "Em cada etapa dessa execução do teu value stream, o que que tá atrapalhando o teu resultado?"
+    },
+    {
+      "start": 2285.38,
+      "end": 2295.06,
+      "timestamp": "38:05",
+      "text": "É gente que tá esquecendo de fazer alguma coisa que deveria fazer?"
+    },
+    {
+      "start": 2295.06,
+      "end": 2310.45,
+      "timestamp": "38:15",
+      "text": "É alguém que tá gastando muito tempo fazendo trabalho manual e que isso tá consumindo recurso da empresa?"
+    },
+    {
+      "start": 2310.45,
+      "end": 2318.22,
+      "timestamp": "38:30",
+      "text": "É algum possível retrabalho que você tá tendo sempre?"
+    },
+    {
+      "start": 2318.22,
+      "end": 2334.93,
+      "timestamp": "38:38",
+      "text": "É um problema com a entrada de matéria-prima e a matéria-prima tá dando problema e você tem que refazer o produto?"
+    },
+    {
+      "start": 2334.93,
+      "end": 2352.97,
+      "timestamp": "38:54",
+      "text": "Ou vai pro cliente aquele produto com problema e ele reclama, aí ele fica insatisfeito, esse produto volta pra outra linha?"
+    },
+    {
+      "start": 2352.97,
+      "end": 2373.35,
+      "timestamp": "39:12",
+      "text": "Uma vez que você desenhou o que tinha que acontecer, você faz um brainstorm dos possíveis problemas que geram impacto negativamente aquilo."
+    },
+    {
+      "start": 2373.35,
+      "end": 2377.89,
+      "timestamp": "39:33",
+      "text": "Tem um fluxo de contas a pagar."
+    },
+    {
+      "start": 2377.89,
+      "end": 2383.46,
+      "timestamp": "39:37",
+      "text": "É um fluxo de pagamento de fornecedor."
+    },
+    {
+      "start": 2383.46,
+      "end": 2386.54,
+      "timestamp": "39:43",
+      "text": "Tem um caminho feliz."
+    },
+    {
+      "start": 2386.54,
+      "end": 2393.87,
+      "timestamp": "39:46",
+      "text": "Mas o que que acontece, por exemplo, que é sempre?"
+    },
+    {
+      "start": 2393.87,
+      "end": 2402.08,
+      "timestamp": "39:53",
+      "text": "Área de negócio manda pro compras pagar em cima da hora."
+    },
+    {
+      "start": 2402.08,
+      "end": 2406.63,
+      "timestamp": "40:02",
+      "text": "Ou já manda com a nota vencida."
+    },
+    {
+      "start": 2406.63,
+      "end": 2411.76,
+      "timestamp": "40:06",
+      "text": "Área de compras paga a nota errada."
+    },
+    {
+      "start": 2411.76,
+      "end": 2425.83,
+      "timestamp": "40:11",
+      "text": "Ou paga uma nota que vem de uma fraude lá, que passam pro cara e o cara paga porque achou que..."
+    },
+    {
+      "start": 2425.83,
+      "end": 2430.96,
+      "timestamp": "40:25",
+      "text": "Que era alguém importante mandando."
+    },
+    {
+      "start": 2430.96,
+      "end": 2435.51,
+      "timestamp": "40:30",
+      "text": "Que alguém importante mandando."
+    },
+    {
+      "start": 2435.51,
+      "end": 2448.85,
+      "timestamp": "40:35",
+      "text": "A área de compras e jurídico demora pra pagar o fornecedor e a empresa acaba pagando multa."
+    },
+    {
+      "start": 2448.85,
+      "end": 2462.05,
+      "timestamp": "40:48",
+      "text": "Ou você tem um contrato de prestação de serviço, chegou na hora da renovação, ninguém viu."
+    },
+    {
+      "start": 2462.05,
+      "end": 2464.83,
+      "timestamp": "41:02",
+      "text": "Renovou automático."
+    },
+    {
+      "start": 2464.83,
+      "end": 2467.62,
+      "timestamp": "41:04",
+      "text": "Renovou automático."
+    },
+    {
+      "start": 2467.62,
+      "end": 2474.36,
+      "timestamp": "41:07",
+      "text": "Então assim, você pensa tudo que pode dar B.O."
+    },
+    {
+      "start": 2474.36,
+      "end": 2476.41,
+      "timestamp": "41:14",
+      "text": "Pode dar ruim."
+    },
+    {
+      "start": 2476.41,
+      "end": 2491.81,
+      "timestamp": "41:16",
+      "text": "A partir do momento que você entendeu e fez o brainstorm dos problemas, você não parte pra solução ainda."
+    },
+    {
+      "start": 2491.81,
+      "end": 2494.89,
+      "timestamp": "41:31",
+      "text": "Você para pra pensar."
+    },
+    {
+      "start": 2494.89,
+      "end": 2502.8,
+      "timestamp": "41:34",
+      "text": "Quanto que me custa em média cada um desses problemas?"
+    },
+    {
+      "start": 2502.8,
+      "end": 2508.96,
+      "timestamp": "41:42",
+      "text": "E de quanto em quanto tempo isso acontece?"
+    },
+    {
+      "start": 2508.96,
+      "end": 2510.28,
+      "timestamp": "41:48",
+      "text": "Perfeito."
+    },
+    {
+      "start": 2510.28,
+      "end": 2530.66,
+      "timestamp": "41:50",
+      "text": "Aí você vai pegar algum desses problemas específicos, geralmente o mais doloroso, ou o que custa mais e que tem relevância pro teu negócio."
+    },
+    {
+      "start": 2530.66,
+      "end": 2541.66,
+      "timestamp": "42:10",
+      "text": "E geralmente você vai pensar, é um problema que eu consigo resolver rápido?"
+    },
+    {
+      "start": 2541.66,
+      "end": 2566.29,
+      "timestamp": "42:21",
+      "text": "É um problema que eu consigo fatiar ele e numa dessas fazer entregáveis menores e usar uma abordagem ágil pra conseguir entregar uma experiência melhor pro meu cliente?"
+    },
+    {
+      "start": 2566.29,
+      "end": 2592.09,
+      "timestamp": "42:46",
+      "text": "A partir do momento que você identificou, entendeu quanto que custa, aí sim e só depois que priorizou, você vai pra terceira parte que é, vamos pensar em solução pra isso aqui?"
+    },
+    {
+      "start": 2592.09,
+      "end": 2593.41,
+      "timestamp": "43:12",
+      "text": "Perfeito."
+    },
+    {
+      "start": 2593.41,
+      "end": 2613.2,
+      "timestamp": "43:13",
+      "text": "E em vez de casar com a primeira solução, ah eu preciso de Iron Man negócio, ah agora saiu tal vendor, eu preciso usar essa tecnologia."
+    },
+    {
+      "start": 2613.2,
+      "end": 2615.26,
+      "timestamp": "43:33",
+      "text": "Não, não, não."
+    },
+    {
+      "start": 2615.26,
+      "end": 2619.65,
+      "timestamp": "43:35",
+      "text": "Que problema é que você tá cá?"
+    },
+    {
+      "start": 2619.65,
+      "end": 2624.2,
+      "timestamp": "43:39",
+      "text": "Quanto que custa esse problema?"
+    },
+    {
+      "start": 2624.2,
+      "end": 2636.95,
+      "timestamp": "43:44",
+      "text": "Quais são as outras alternativas ou possíveis soluções pra você resolver esse problema?"
+    },
+    {
+      "start": 2636.95,
+      "end": 2646.48,
+      "timestamp": "43:56",
+      "text": "Aí você começa a ficar inteligente na hora de escolher a solução."
+    },
+    {
+      "start": 2646.48,
+      "end": 2688.41,
+      "timestamp": "44:06",
+      "text": "E acho que a gente vê esse padrão, times que tem esse\n\nEu fiquei um tempo sendo conselheiro de algumas empresas e estava dando consultoria de produto, porque eu sou proteíno, você sabe, o que eu gosto, tecnologia do PipeFi, quase tudo que vocês veem lá tem muito da minha atuação ainda."
+    },
+    {
+      "start": 2688.41,
+      "end": 2717.88,
+      "timestamp": "44:48",
+      "text": "E eu trabalhava com um acelerador israelense chamado Nestech na época, dando consultoria de produto para eles e também ajudando eles a lançar alguns produtos que eles queriam trazer aqui para o Brasil."
+    },
+    {
+      "start": 2717.88,
+      "end": 2966.54,
+      "timestamp": "45:17",
+      "text": "E aí num jantar, sabe aquele papo de jantar de quebradeiro assim, ah, como é que vocês são uma potência tecnológica, sendo que vocês são desse tamanho, papapá, ele falou assim, a gente tem 8, 9 milhões de pessoas, a gente está em guerra com os nossos vizinhos, a gente não tem mercado local, então todo empreendedor israelense ele sabe que se ele quiser vender, ele tem que ter uma ideia que é boa o suficiente para ser competitiva nos Estados Unidos, na Europa, e ele tem que pensar isso desde o dia 1, e ele sabe que ele tem que ser muito melhor que os concorrentes locais, e é o problema da dor da galinha, justamente por causa de todas essas restrições, que quando a gente tira uma ideia do papel e ela começa a funcionar, a gente é global desde o dia 1, e a gente está pronto, está pronto para escalar, está pronto para vender para o mundo inteiro, está acostumado a lidar com todo esse tipo de adversidade, e aí ele na mesa, na frente de um monte de gente, falou assim, agora vejam vocês brasileiros, vocês têm uma população de mais de 200 milhões de pessoas, vocês têm a barreira da língua, vocês têm a barreira da burocracia de vocês, vocês não são o maior mercado do mundo no dia 1, que todo mundo vai entrar para competir, então vocês têm um ambiente artificial temporário que coloca vocês em uma zona de conforto e sempre faz com que vocês tenham baixíssimas expectativas do que vocês podem fazer, porque você consegue ficar rico vendendo localmente, seja no Brasil, numa Rússia da vida, numa Índia da vida, e aí ele virou para mim e falou, ali que foi o dessa vez eu vou atropelar, ele falou assim, me diga o nome de uma empresa brasileira de tecnologia que é líder global no que faz."
+    },
+    {
+      "start": 2966.54,
+      "end": 2971.67,
+      "timestamp": "49:26",
+      "text": "E o Jim Pesce não existia na época?"
+    },
+    {
+      "start": 2971.67,
+      "end": 3083.09,
+      "timestamp": "49:31",
+      "text": "Jim Pesce existia nessa época, Vtex não existia nessa época, tinha várias empresas que não existiam nessa época, e eu voltei tão puto para o hotel que eu falei assim, seu bingo filho da mãe, você vai ver se a gente não sabe fazer software direito também, e cara, às vezes é isso, essas experiências te marcam em motivo, então eu já voltei com aquela cabeça, a gente já tinha sido atropelado com a minha primeira empresa mesmo, eu falei assim, dessa vez I'm gonna go big, e foi assim que a gente começou global desde o dia 1, e a gente teve muita sorte também no começo, lugar certo, na hora certa, a gente criou as oportunidades que a gente, a oportunidade veio, mas a gente estava pronto para surfar aquela onda quando veio também, então isso ajudou bastante."
+    },
+    {
+      "start": 3083.09,
+      "end": 3088.96,
+      "timestamp": "51:23",
+      "text": "Quando vocês começaram, que ano que foi?"
+    },
+    {
+      "start": 3088.96,
+      "end": 3090.86,
+      "timestamp": "51:28",
+      "text": "Foi 2000 e..."
+    },
+    {
+      "start": 3090.86,
+      "end": 3098.63,
+      "timestamp": "51:30",
+      "text": "a gente começou mesmo assim, lançou em março de 2015."
+    },
+    {
+      "start": 3098.63,
+      "end": 3104.2,
+      "timestamp": "51:38",
+      "text": "Mas começaram a empresa, o que é 2014?"
+    },
+    {
+      "start": 3104.2,
+      "end": 3106.84,
+      "timestamp": "51:44",
+      "text": "É, metade de 2014."
+    },
+    {
+      "start": 3106.84,
+      "end": 3121.06,
+      "timestamp": "51:46",
+      "text": "Legal, e cara, quais foram os maiores desafios e dificuldades para você tornar o Pipefire global?"
+    },
+    {
+      "start": 3121.06,
+      "end": 3130.3,
+      "timestamp": "52:01",
+      "text": "Porque vocês estavam aqui, lá de Curitiba, Curitiba era ou não?"
+    },
+    {
+      "start": 3130.3,
+      "end": 3134.85,
+      "timestamp": "52:10",
+      "text": "Era, era de Curitiba no começo."
+    },
+    {
+      "start": 3134.85,
+      "end": 3147.02,
+      "timestamp": "52:14",
+      "text": "Como é que foi de lá, quais foram os maiores desafios para ir para o mundo inteiro?"
+    },
+    {
+      "start": 3147.02,
+      "end": 3157.13,
+      "timestamp": "52:27",
+      "text": "Cara, acho que primeiro, é muito difícil você acreditar no sonho, né?"
+    },
+    {
+      "start": 3157.13,
+      "end": 3170.03,
+      "timestamp": "52:37",
+      "text": "Porque é igual fazer dieta, o resultado ele não existe ainda, e você tem que todo dia..."
+    },
+    {
+      "start": 3170.03,
+      "end": 3171.79,
+      "timestamp": "52:50",
+      "text": "Comer menos."
+    },
+    {
+      "start": 3171.79,
+      "end": 3195.54,
+      "timestamp": "52:51",
+      "text": "É, você vai fazer uma landing page, você tem que fazer a landing page em inglês, ninguém vai ler aquela merda, você fala, porra cara, o que eu estou fazendo isso?"
+    },
+    {
+      "start": 3195.54,
+      "end": 3227.21,
+      "timestamp": "53:15",
+      "text": "Aí você vai fazer a documentação, vai fazer o software, vai fazer em inglês, com matriz de tradução que dá duas, três vezes mais trabalho, você fala, puta, mas não tem ninguém aqui ainda usando, será que faz sentido?"
+    },
+    {
+      "start": 3227.21,
+      "end": 3236.01,
+      "timestamp": "53:47",
+      "text": "Na época não existia OpenAI, chat, GPT para te ajudar nisso."
+    },
+    {
+      "start": 3236.01,
+      "end": 3241.14,
+      "timestamp": "53:56",
+      "text": "Não tinha nada, cara, tinha Fiverr."
+    },
+    {
+      "start": 3241.14,
+      "end": 3260.05,
+      "timestamp": "54:01",
+      "text": "A gente fazia as coisas e abria no Fiverr, pegava um redator para ajudar a revisar o texto e corrigir os erros que a gente fazia."
+    },
+    {
+      "start": 3260.05,
+      "end": 3276.33,
+      "timestamp": "54:20",
+      "text": "Então, a primeira coisa é o nível de energia que a gente precisava colocar upfront até o negócio faiscar, sabe?"
+    },
+    {
+      "start": 3276.33,
+      "end": 3289.81,
+      "timestamp": "54:36",
+      "text": "Tipo, a gente ficava ali vários meses com o desfibrilador tentando fazer as coisas clicarem."
+    },
+    {
+      "start": 3289.81,
+      "end": 3305.06,
+      "timestamp": "54:49",
+      "text": "Acho que isso faz muito difícil, porque a única coisa que você tem é o que você acreditar naquela visão."
+    },
+    {
+      "start": 3305.06,
+      "end": 3306.67,
+      "timestamp": "55:05",
+      "text": "Só o sonho."
+    },
+    {
+      "start": 3306.67,
+      "end": 3308.29,
+      "timestamp": "55:06",
+      "text": "Só o sonho."
+    },
+    {
+      "start": 3308.29,
+      "end": 3322.51,
+      "timestamp": "55:08",
+      "text": "E depois, em cada etapa da jornada, o descrédito que a gente tinha um pouco em relação à ambição."
+    },
+    {
+      "start": 3322.51,
+      "end": 3330.43,
+      "timestamp": "55:22",
+      "text": "Então, por exemplo, a gente passou na 500 Startups lá."
+    },
+    {
+      "start": 3330.43,
+      "end": 3352.12,
+      "timestamp": "55:30",
+      "text": "Aí, cara, na primeira semana, as startups que estavam sendo aceleradas pela 500 faziam um pitch e mostravam para a comunidade o que estavam fazendo."
+    },
+    {
+      "start": 3352.12,
+      "end": 3371.48,
+      "timestamp": "55:52",
+      "text": "A gente foi tão mal, cara, na sessão de pitch, porque a gente sabia falar inglês direito, que o Dave McClure tirou a gente do palco."
+    },
+    {
+      "start": 3371.48,
+      "end": 3374.85,
+      "timestamp": "56:11",
+      "text": "A gente tem isso, cara."
+    },
+    {
+      "start": 3374.85,
+      "end": 3378.95,
+      "timestamp": "56:14",
+      "text": "O Dave McClure é o fundador."
+    },
+    {
+      "start": 3378.95,
+      "end": 3383.21,
+      "timestamp": "56:18",
+      "text": "É o fundador da 500 Startups."
+    },
+    {
+      "start": 3383.21,
+      "end": 3386.72,
+      "timestamp": "56:23",
+      "text": "Ele tirou você do palco."
+    },
+    {
+      "start": 3386.72,
+      "end": 3387.6,
+      "timestamp": "56:26",
+      "text": "Tirou."
+    },
+    {
+      "start": 3387.6,
+      "end": 3398.01,
+      "timestamp": "56:27",
+      "text": "Não era eu, porque eu estava resolvendo esse burocrata da empresa aqui."
+    },
+    {
+      "start": 3398.01,
+      "end": 3405.78,
+      "timestamp": "56:38",
+      "text": "Tinha sido um co-founder nosso que estava lá na hora."
+    },
+    {
+      "start": 3405.78,
+      "end": 3410.33,
+      "timestamp": "56:45",
+      "text": "Ele falou assim, não, não, não."
+    },
+    {
+      "start": 3410.33,
+      "end": 3415.9,
+      "timestamp": "56:50",
+      "text": "Aí o Dave ainda falou assim, não, não."
+    },
+    {
+      "start": 3415.9,
+      "end": 3420.01,
+      "timestamp": "56:55",
+      "text": "Falem português, pelo menos."
+    },
+    {
+      "start": 3420.01,
+      "end": 3428.51,
+      "timestamp": "57:00",
+      "text": "Aí o cara ficou nervoso, nem em português conseguia falar."
+    },
+    {
+      "start": 3428.51,
+      "end": 3432.61,
+      "timestamp": "57:08",
+      "text": "Cara, o Dave tirou do palco."
+    },
+    {
+      "start": 3432.61,
+      "end": 3440.82,
+      "timestamp": "57:12",
+      "text": "Então, assim, todo mundo meio que olhava a gente e aí..."
+    },
+    {
+      "start": 3440.82,
+      "end": 3443.46,
+      "timestamp": "57:20",
+      "text": "Patino feio mesmo."
+    },
+    {
+      "start": 3443.46,
+      "end": 3453.43,
+      "timestamp": "57:23",
+      "text": "Ex-Harvard, ex-Google, ex-Facebook, ex-Stanford, toda aquela galera."
+    },
+    {
+      "start": 3453.43,
+      "end": 3463.4,
+      "timestamp": "57:33",
+      "text": "Eles falam assim, nossa, o que esses brasileiros estão fazendo aqui?"
+    },
+    {
+      "start": 3463.4,
+      "end": 3476.6,
+      "timestamp": "57:43",
+      "text": "E, por um lado, apesar disso ter sido um puta trauma, cara, foi um motivador para a gente."
+    },
+    {
+      "start": 3476.6,
+      "end": 3483.63,
+      "timestamp": "57:56",
+      "text": "A gente no time, a gente tem orgulho desgraçado."
+    },
+    {
+      "start": 3483.63,
+      "end": 3487.15,
+      "timestamp": "58:03",
+      "text": "A gente é dog total, né?"
+    },
+    {
+      "start": 3487.15,
+      "end": 3502.99,
+      "timestamp": "58:07",
+      "text": "É, a gente falava assim, a gente pode ser bem chucro, mas o nosso trabalho vai ser o nosso cartão de visita."
+    },
+    {
+      "start": 3502.99,
+      "end": 3511.2,
+      "timestamp": "58:22",
+      "text": "E, velho, a gente trabalhava de domingo a domingo, cara."
+    },
+    {
+      "start": 3511.2,
+      "end": 3517.06,
+      "timestamp": "58:31",
+      "text": "A gente trabalhava de domingo a domingo."
+    },
+    {
+      "start": 3517.06,
+      "end": 3522.05,
+      "timestamp": "58:37",
+      "text": "Doze horas por dia, às vezes mais."
+    },
+    {
+      "start": 3522.05,
+      "end": 3537.44,
+      "timestamp": "58:42",
+      "text": "E, pô, ali em quatro meses a gente já saiu, já saiu como startup que mais cresceu no BAT, do BAT inteiro."
+    },
+    {
+      "start": 3537.44,
+      "end": 3548.29,
+      "timestamp": "58:57",
+      "text": "Antes de eu morder isso, tinha duas empresas que tinham levantado capital."
+    },
+    {
+      "start": 3548.29,
+      "end": 3557.53,
+      "timestamp": "59:08",
+      "text": "A gente tinha sido uma dessas com grana do fundador do Zendesk."
+    },
+    {
+      "start": 3557.53,
+      "end": 3558.55,
+      "timestamp": "59:17",
+      "text": "Tirado."
+    },
+    {
+      "start": 3558.55,
+      "end": 3588.46,
+      "timestamp": "59:18",
+      "text": "Então, assim, às vezes, que é o que eu também falo para os empreendedores, essas experiências extremamente negativas podem ser uma puta fonte de motivação para você falar assim, cara, eu vou virar o jogo."
+    },
+    {
+      "start": 3588.46,
+      "end": 3599.31,
+      "timestamp": "59:48",
+      "text": "E eu vou provar que dá para fazer um negócio completamente diferente aqui."
+    },
+    {
+      "start": 3599.31,
+      "end": 3605.62,
+      "timestamp": "59:59",
+      "text": "Eu acho que foi um pouco isso, assim, sabe?"
+    },
+    {
+      "start": 3605.62,
+      "end": 3610.6,
+      "timestamp": "01:00:05",
+      "text": "E aí o negócio está crescendo, né?"
+    },
+    {
+      "start": 3610.6,
+      "end": 3620.42,
+      "timestamp": "01:00:10",
+      "text": "Hoje a gente tem dor, como qualquer empresa que está crescendo bem."
+    },
+    {
+      "start": 3620.42,
+      "end": 3626.14,
+      "timestamp": "01:00:20",
+      "text": "E hoje vocês têm time no mundo inteiro."
+    },
+    {
+      "start": 3626.14,
+      "end": 3627.9,
+      "timestamp": "01:00:26",
+      "text": "A gente tem."
+    },
+    {
+      "start": 3627.9,
+      "end": 3635.52,
+      "timestamp": "01:00:27",
+      "text": "A gente tem hoje um pouco mais de 500 colaboradores."
+    },
+    {
+      "start": 3635.52,
+      "end": 3640.66,
+      "timestamp": "01:00:35",
+      "text": "A gente tem clientes em 140 países."
+    },
+    {
+      "start": 3640.66,
+      "end": 3647.69,
+      "timestamp": "01:00:40",
+      "text": "E esses 500 colaboradores estão todos no Brasil?"
+    },
+    {
+      "start": 3647.69,
+      "end": 3650.04,
+      "timestamp": "01:00:47",
+      "text": "Estão no Brasil?"
+    },
+    {
+      "start": 3650.04,
+      "end": 3652.24,
+      "timestamp": "01:00:50",
+      "text": "Fora do Brasil?"
+    },
+    {
+      "start": 3652.24,
+      "end": 3655.02,
+      "timestamp": "01:00:52",
+      "text": "Não, é distribuído."
+    },
+    {
+      "start": 3655.02,
+      "end": 3656.78,
+      "timestamp": "01:00:55",
+      "text": "A gente é..."
+    },
+    {
+      "start": 3656.78,
+      "end": 3666.31,
+      "timestamp": "01:00:56",
+      "text": "Assim, desde lideranças, boa parte dos líderes reportam para mim."
+    },
+    {
+      "start": 3666.31,
+      "end": 3670.12,
+      "timestamp": "01:01:06",
+      "text": "Nosso CTO fica em Seattle."
+    },
+    {
+      "start": 3670.12,
+      "end": 3673.64,
+      "timestamp": "01:01:10",
+      "text": "Nosso CMO é da Bay Area."
+    },
+    {
+      "start": 3673.64,
+      "end": 3682.59,
+      "timestamp": "01:01:13",
+      "text": "E como funciona esse desafio de ser remoto em primeiro lugar?"
+    },
+    {
+      "start": 3682.59,
+      "end": 3689.33,
+      "timestamp": "01:01:22",
+      "text": "Porque imagino que todo mundo faz home office."
+    },
+    {
+      "start": 3689.33,
+      "end": 3692.85,
+      "timestamp": "01:01:29",
+      "text": "Cada um num horário, né?"
+    },
+    {
+      "start": 3692.85,
+      "end": 3699.01,
+      "timestamp": "01:01:32",
+      "text": "Numa zona de horário diferente do planeta."
+    },
+    {
+      "start": 3699.01,
+      "end": 3711.91,
+      "timestamp": "01:01:39",
+      "text": "Então, se você está aqui, o cara que está em Seattle está, sei lá, 4, 5 horas para trás."
+    },
+    {
+      "start": 3711.91,
+      "end": 3720.12,
+      "timestamp": "01:01:51",
+      "text": "Putz, a pessoa que está na França está 4, 5 para frente."
+    },
+    {
+      "start": 3720.12,
+      "end": 3724.37,
+      "timestamp": "01:02:00",
+      "text": "Às vezes estão no mesmo time."
+    },
+    {
+      "start": 3724.37,
+      "end": 3731.26,
+      "timestamp": "01:02:04",
+      "text": "Como é esse desafio de tocar, engajar, liderar?"
+    },
+    {
+      "start": 3731.26,
+      "end": 3738.01,
+      "timestamp": "01:02:11",
+      "text": "Ou você tem hubs locais que concentram o time?"
+    },
+    {
+      "start": 3738.01,
+      "end": 3750.47,
+      "timestamp": "01:02:18",
+      "text": "Porque imagino que você tem um escritório aqui no Brasil, que tem um time que vai lá."
+    },
+    {
+      "start": 3750.47,
+      "end": 3751.49,
+      "timestamp": "01:02:30",
+      "text": "Ou não?"
+    },
+    {
+      "start": 3751.49,
+      "end": 3755.45,
+      "timestamp": "01:02:31",
+      "text": "Como é que é essa história?"
+    },
+    {
+      "start": 3755.45,
+      "end": 3758.53,
+      "timestamp": "01:02:35",
+      "text": "A gente é bem remoto."
+    },
+    {
+      "start": 3758.53,
+      "end": 3777.3,
+      "timestamp": "01:02:38",
+      "text": "E até a nossa sede é muito assim, um co-working para o time quando eles querem fazer alguma working session, alguma coisa assim."
+    },
+    {
+      "start": 3777.3,
+      "end": 3786.24,
+      "timestamp": "01:02:57",
+      "text": "Então, a gente não tem nem regime híbrido, vamos falar assim."
+    },
+    {
+      "start": 3786.24,
+      "end": 3796.06,
+      "timestamp": "01:03:06",
+      "text": "Eu agora vou falar um tema que eu sei que vocês adoram falar sobre."
+    },
+    {
+      "start": 3796.06,
+      "end": 3801.78,
+      "timestamp": "01:03:16",
+      "text": "Ah, é mais produtivo do que presencial?"
+    },
+    {
+      "start": 3801.78,
+      "end": 3803.54,
+      "timestamp": "01:03:21",
+      "text": "Não é, cara."
+    },
+    {
+      "start": 3803.54,
+      "end": 3808.53,
+      "timestamp": "01:03:23",
+      "text": "Tem que parar de bochechar, não é."
+    },
+    {
+      "start": 3808.53,
+      "end": 3821.13,
+      "timestamp": "01:03:28",
+      "text": "O fato é que a gente cresceu 2 terços durante a pandemia, já era mais ou menos remoto."
+    },
+    {
+      "start": 3821.13,
+      "end": 3828.9,
+      "timestamp": "01:03:41",
+      "text": "Contratou remoto pra caramba, gente do mundo inteiro."
+    },
+    {
+      "start": 3828.9,
+      "end": 3852.07,
+      "timestamp": "01:03:48",
+      "text": "A gente precisa de especialistas, pessoas que, top 1%, que às vezes é um cara que mora no Texas, que tem um know-how específico que a gente precisa contratar."
+    },
+    {
+      "start": 3852.07,
+      "end": 3854.56,
+      "timestamp": "01:04:12",
+      "text": "Contratou remoto."
+    },
+    {
+      "start": 3854.56,
+      "end": 3864.38,
+      "timestamp": "01:04:14",
+      "text": "Não tem, eu vou convencer o cara, agora vamos voltar do escritório?"
+    },
+    {
+      "start": 3864.38,
+      "end": 3866.58,
+      "timestamp": "01:04:24",
+      "text": "Vem pro Brasil."
+    },
+    {
+      "start": 3866.58,
+      "end": 3871.28,
+      "timestamp": "01:04:26",
+      "text": "Se muda lá pra Curitiba, já era."
+    },
+    {
+      "start": 3871.28,
+      "end": 3894.15,
+      "timestamp": "01:04:31",
+      "text": "Então, o que todo mundo tem que entender é, sim, o lugar que você mais tem serendipity,\n\nGás, o que você acha ainda que faz o cara não querer pensar global?"
+    },
+    {
+      "start": 3894.15,
+      "end": 3900.01,
+      "timestamp": "01:04:54",
+      "text": "Primeiro é cultural que a gente tem, né?"
+    },
+    {
+      "start": 3900.01,
+      "end": 3902.94,
+      "timestamp": "01:05:00",
+      "text": "Ah, tal coisa é boa."
+    },
+    {
+      "start": 3902.94,
+      "end": 3905.14,
+      "timestamp": "01:05:02",
+      "text": "Putz, é gringo."
+    },
+    {
+      "start": 3905.14,
+      "end": 3919.66,
+      "timestamp": "01:05:05",
+      "text": "É o mindset cultural nosso, assim, de assumir que você não consegue fazer uma coisa tão boa quanto."
+    },
+    {
+      "start": 3919.66,
+      "end": 3939.01,
+      "timestamp": "01:05:19",
+      "text": "Boa parte dos profissionais que pularam dentro desse sonho maluco que a gente tinha lá no começo eram profissionais dessas empresas."
+    },
+    {
+      "start": 3939.01,
+      "end": 3945.31,
+      "timestamp": "01:05:39",
+      "text": "Eram brasileiros que trabalhavam na Amazon."
+    },
+    {
+      "start": 3945.31,
+      "end": 3951.77,
+      "timestamp": "01:05:45",
+      "text": "Eram brasileiros que trabalharam no Zendesk."
+    },
+    {
+      "start": 3951.77,
+      "end": 3953.08,
+      "timestamp": "01:05:51",
+      "text": "Perfeito."
+    },
+    {
+      "start": 3953.08,
+      "end": 3975.22,
+      "timestamp": "01:05:53",
+      "text": "Eram profissionais que estavam ali convivendo dia a dia e eles perceberam que não é porque o cara é americano e tá na BEA, ele não é humano que você..."
+    },
+    {
+      "start": 3975.22,
+      "end": 3981.09,
+      "timestamp": "01:06:15",
+      "text": "By the way, a gente trabalha muito mais."
+    },
+    {
+      "start": 3981.09,
+      "end": 3999.12,
+      "timestamp": "01:06:21",
+      "text": "Então, essas pessoas falaram assim, cara, eu acho que sim, dá pra gente fazer e sim, a gente tem chance de ter um home run."
+    },
+    {
+      "start": 3999.12,
+      "end": 4033.28,
+      "timestamp": "01:06:39",
+      "text": "Então, a primeira coisa mesmo é o modelo mental, de pensar, não, eu lembro, cara, eu tava falando com um investidor na época que eu tava tentando levantar capital pro PipeFi, ele falou assim, ah, mas quem que tá fazendo isso lá fora?"
+    },
+    {
+      "start": 4033.28,
+      "end": 4039.0,
+      "timestamp": "01:07:13",
+      "text": "Aí eu falei, eu que tô fazendo lá fora."
+    },
+    {
+      "start": 4039.0,
+      "end": 4044.72,
+      "timestamp": "01:07:18",
+      "text": "Aí o cara, ah, não, não, não, obrigado."
+    },
+    {
+      "start": 4044.72,
+      "end": 4049.12,
+      "timestamp": "01:07:24",
+      "text": "Eu falei, ah, velho, que isso?"
+    },
+    {
+      "start": 4049.12,
+      "end": 4052.93,
+      "timestamp": "01:07:29",
+      "text": "Então, primeira coisa é..."
+    },
+    {
+      "start": 4052.93,
+      "end": 4055.57,
+      "timestamp": "01:07:32",
+      "text": "Maravilhoso, cara."
+    },
+    {
+      "start": 4055.57,
+      "end": 4057.47,
+      "timestamp": "01:07:35",
+      "text": "Autoprofecia."
+    },
+    {
+      "start": 4057.47,
+      "end": 4058.79,
+      "timestamp": "01:07:37",
+      "text": "Isso daí."
+    },
+    {
+      "start": 4058.79,
+      "end": 4067.44,
+      "timestamp": "01:07:38",
+      "text": "Você é o que você reverbera, o que você pensa, pra começar."
+    },
+    {
+      "start": 4067.44,
+      "end": 4080.64,
+      "timestamp": "01:07:47",
+      "text": "Segundo ponto, que eu acho que ainda é um desafio, é a dificuldade de achar gente fluente."
+    },
+    {
+      "start": 4080.64,
+      "end": 4106.44,
+      "timestamp": "01:08:00",
+      "text": "E, Nardom, você não tem ideia, às vezes até pra cargo sênior, às vezes a gente vê pessoas brilhantes que têm toda a capacidade, mas quando você vai ver a questão da fluência..."
+    },
+    {
+      "start": 4106.44,
+      "end": 4109.52,
+      "timestamp": "01:08:26",
+      "text": "Em inglês, você fala."
+    },
+    {
+      "start": 4109.52,
+      "end": 4109.81,
+      "timestamp": "01:08:29",
+      "text": "É."
+    },
+    {
+      "start": 4109.81,
+      "end": 4115.97,
+      "timestamp": "01:08:29",
+      "text": "O cara não vai além do bom dia, boa tarde."
+    },
+    {
+      "start": 4115.97,
+      "end": 4119.2,
+      "timestamp": "01:08:35",
+      "text": "E sabe o que acontece?"
+    },
+    {
+      "start": 4119.2,
+      "end": 4141.33,
+      "timestamp": "01:08:39",
+      "text": "O problema da fluência pra quem tá atendendo cliente fora ou tentando principalmente vender, que você tem que convencer ou impressionar a nível global?"
+    },
+    {
+      "start": 4141.33,
+      "end": 4151.3,
+      "timestamp": "01:09:01",
+      "text": "Quando você tá falando no teu idioma nativo, imagina que é um circo."
+    },
+    {
+      "start": 4151.3,
+      "end": 4185.9,
+      "timestamp": "01:09:11",
+      "text": "Quando você tá falando em outra língua, pelo fato do teu tamanho de vocabulário e velocidade pra acessar esse vocabulário, é um vocabulário menor e mais lento, o teu conhecimento é um círculo dentro do teu conhecimento no idioma nativo."
+    },
+    {
+      "start": 4185.9,
+      "end": 4199.54,
+      "timestamp": "01:09:45",
+      "text": "Então, se você não fala bem essa segunda língua, você parece menos inteligente do que você é."
+    },
+    {
+      "start": 4199.54,
+      "end": 4200.86,
+      "timestamp": "01:09:59",
+      "text": "Perfeito."
+    },
+    {
+      "start": 4200.86,
+      "end": 4203.79,
+      "timestamp": "01:10:00",
+      "text": "E isso é devastador."
+    },
+    {
+      "start": 4203.79,
+      "end": 4218.45,
+      "timestamp": "01:10:03",
+      "text": "E ainda é um super clichê básico, eu falo pra todo mundo, carai, o que é a melhor dica pra carreira?"
+    },
+    {
+      "start": 4218.45,
+      "end": 4227.25,
+      "timestamp": "01:10:18",
+      "text": "Eu falo, ó, vai fazer terapia e vai aprender a falar inglês."
+    },
+    {
+      "start": 4227.25,
+      "end": 4243.96,
+      "timestamp": "01:10:27",
+      "text": "Que é o básico do básico, que todo mundo acha que é bem resolvido e tem oportunidade enorme de se desenvolver ali."
+    },
+    {
+      "start": 4243.96,
+      "end": 4244.55,
+      "timestamp": "01:10:43",
+      "text": "Boa."
+    },
+    {
+      "start": 4244.55,
+      "end": 4251.0,
+      "timestamp": "01:10:44",
+      "text": "Acho que fluência ainda é um gargalo grande."
+    },
+    {
+      "start": 4251.0,
+      "end": 4263.9,
+      "timestamp": "01:10:50",
+      "text": "A dificuldade de contratar naturalmente fica difícil de conseguir cliente e crescer, né?"
+    },
+    {
+      "start": 4263.9,
+      "end": 4264.49,
+      "timestamp": "01:11:03",
+      "text": "Boa."
+    },
+    {
+      "start": 4264.49,
+      "end": 4281.49,
+      "timestamp": "01:11:04",
+      "text": "Galera, olha só, quem tá aí pelo celular ouvindo pelo Spotify, vai lá na caixinha de perguntas e responde pra gente."
+    },
+    {
+      "start": 4281.49,
+      "end": 4298.21,
+      "timestamp": "01:11:21",
+      "text": "Quero saber aí de vocês o seguinte, você tem pretensão ou desejo de internacionalizar e tornar sua empresa global?"
+    },
+    {
+      "start": 4298.21,
+      "end": 4307.74,
+      "timestamp": "01:11:38",
+      "text": "Responde lá pra gente se você estiver aí no Spotify pelo celular."
+    },
+    {
+      "start": 4307.74,
+      "end": 4314.92,
+      "timestamp": "01:11:47",
+      "text": "Nossa pesquisa aí que a gente quer saber, beleza?"
+    },
+    {
+      "start": 4314.92,
+      "end": 4319.91,
+      "timestamp": "01:11:54",
+      "text": "E a gente indo aqui pro final, né?"
+    },
+    {
+      "start": 4319.91,
+      "end": 4349.82,
+      "timestamp": "01:11:59",
+      "text": "Já estamos aí quase uma hora batendo papo, gostaria de ficar aqui mais duas, três, quatro horas falando, tem muito assunto legal, mas a gente vai marcar pra quando a gente voltar do OPM pra falar de novo."
+    },
+    {
+      "start": 4349.82,
+      "end": 4354.95,
+      "timestamp": "01:12:29",
+      "text": "Vamos aqui pro bate-bola do gestor."
+    },
+    {
+      "start": 4354.95,
+      "end": 4358.32,
+      "timestamp": "01:12:34",
+      "text": "Como que funciona isso?"
+    },
+    {
+      "start": 4358.32,
+      "end": 4376.21,
+      "timestamp": "01:12:38",
+      "text": "Vou te fazer uma pergunta, você tenta respondê-la o mais breve possível, mas também se não conseguir, pode desenrolar, tá?"
+    },
+    {
+      "start": 4376.21,
+      "end": 4377.53,
+      "timestamp": "01:12:56",
+      "text": "Vamos lá."
+    },
+    {
+      "start": 4377.53,
+      "end": 4381.78,
+      "timestamp": "01:12:57",
+      "text": "O que constrói um bom gestor?"
+    },
+    {
+      "start": 4381.78,
+      "end": 4386.91,
+      "timestamp": "01:13:01",
+      "text": "Saber resolver e entender problema."
+    },
+    {
+      "start": 4386.91,
+      "end": 4387.49,
+      "timestamp": "01:13:06",
+      "text": "Boa."
+    },
+    {
+      "start": 4387.49,
+      "end": 4404.5,
+      "timestamp": "01:13:07",
+      "text": "Se você pudesse dar um conselho pra Lécio que tava abrindo seu primeiro negócio, qual o conselho você daria pra ele?"
+    },
+    {
+      "start": 4404.5,
+      "end": 4410.07,
+      "timestamp": "01:13:24",
+      "text": "Cara, vai ser o maior clichê de todos."
+    },
+    {
+      "start": 4410.07,
+      "end": 4421.22,
+      "timestamp": "01:13:30",
+      "text": "Gente, gente, gente, gente, gente, gente, gente, gente faz toda a diferença."
+    },
+    {
+      "start": 4421.22,
+      "end": 4450.1,
+      "timestamp": "01:13:41",
+      "text": "De um nível exponencial de, dependendo quem você coloca numa empreitada com você, você pode mudar completamente a trajetória daquele time, do negócio, da tua vida, se você trazer as pessoas certas."
+    },
+    {
+      "start": 4450.1,
+      "end": 4450.68,
+      "timestamp": "01:14:10",
+      "text": "Boa."
+    },
+    {
+      "start": 4450.68,
+      "end": 4453.18,
+      "timestamp": "01:14:10",
+      "text": "Complete a frase."
+    },
+    {
+      "start": 4453.18,
+      "end": 4459.04,
+      "timestamp": "01:14:13",
+      "text": "Ser uma empresa digital e tecnológica..."
+    },
+    {
+      "start": 4459.04,
+      "end": 4460.21,
+      "timestamp": "01:14:19",
+      "text": "Caramba!"
+    },
+    {
+      "start": 4460.21,
+      "end": 4465.05,
+      "timestamp": "01:14:20",
+      "text": "Trava-línguas aqui do time, hein?"
+    },
+    {
+      "start": 4465.05,
+      "end": 4471.21,
+      "timestamp": "01:14:25",
+      "text": "Ser uma empresa digital e tecnológica é..."
+    },
+    {
+      "start": 4471.21,
+      "end": 4479.13,
+      "timestamp": "01:14:31",
+      "text": "Usar tecnologia pra resolver o problema do mundo real."
+    },
+    {
+      "start": 4479.13,
+      "end": 4479.71,
+      "timestamp": "01:14:39",
+      "text": "Boa."
+    },
+    {
+      "start": 4479.71,
+      "end": 4486.02,
+      "timestamp": "01:14:39",
+      "text": "Como você imagina a Pipefire daqui 10 anos?"
+    },
+    {
+      "start": 4486.02,
+      "end": 4492.91,
+      "timestamp": "01:14:46",
+      "text": "Cara, se eu te falava, vou me chamar de maluco."
+    },
+    {
+      "start": 4492.91,
+      "end": 4513.73,
+      "timestamp": "01:14:52",
+      "text": "Eu acho que não tem o porquê hoje a gente não ser uma empresa de 10, 20 mil colaboradores e o pessoal fala assim, ah, o Pipefire é um sucesso."
+    },
+    {
+      "start": 4513.73,
+      "end": 4520.03,
+      "timestamp": "01:15:13",
+      "text": "Eu falo assim, nem começou a crescer ainda."
+    },
+    {
+      "start": 4520.03,
+      "end": 4531.61,
+      "timestamp": "01:15:20",
+      "text": "Agora que tá começando a engrenar a nossa primeira marcha e crescer de verdade."
+    },
+    {
+      "start": 4531.61,
+      "end": 4536.01,
+      "timestamp": "01:15:31",
+      "text": "É o mercado onde a gente atua."
+    },
+    {
+      "start": 4536.01,
+      "end": 4543.05,
+      "timestamp": "01:15:36",
+      "text": "É a dor que a gente resolve nos nossos clientes."
+    },
+    {
+      "start": 4543.05,
+      "end": 4548.62,
+      "timestamp": "01:15:43",
+      "text": "E provas mesmo que a gente atende, né?"
+    },
+    {
+      "start": 4548.62,
+      "end": 4562.26,
+      "timestamp": "01:15:48",
+      "text": "A gente atende governo com coisa de defesa, atende todos os bancos, atende todos os startups."
+    },
+    {
+      "start": 4562.26,
+      "end": 4567.53,
+      "timestamp": "01:16:02",
+      "text": "Então, assim, é um mercado infinito."
+    },
+    {
+      "start": 4567.53,
+      "end": 4573.54,
+      "timestamp": "01:16:07",
+      "text": "E eu vejo que dá pra crescer muito ainda."
+    },
+    {
+      "start": 4573.54,
+      "end": 4574.13,
+      "timestamp": "01:16:13",
+      "text": "Boa."
+    },
+    {
+      "start": 4574.13,
+      "end": 4580.88,
+      "timestamp": "01:16:14",
+      "text": "Qual livro sobre gestão e liderança te marcou?"
+    },
+    {
+      "start": 4580.88,
+      "end": 4581.46,
+      "timestamp": "01:16:20",
+      "text": "É..."
+    },
+    {
+      "start": 4581.46,
+      "end": 4588.79,
+      "timestamp": "01:16:21",
+      "text": "Assim, depende muito da fase do negócio e pra quê."
+    },
+    {
+      "start": 4588.79,
+      "end": 4595.39,
+      "timestamp": "01:16:28",
+      "text": "Agora você fala assim, ah, eu sou um manager."
+    },
+    {
+      "start": 4595.39,
+      "end": 4601.69,
+      "timestamp": "01:16:35",
+      "text": "Eu preciso, né, tocar a minha operação ali."
+    },
+    {
+      "start": 4601.69,
+      "end": 4624.71,
+      "timestamp": "01:16:41",
+      "text": "Eu acho que, cara, o Measuring What Matters do John Dewey, pra qualquer manager, aprender a usar mesmo, planejar com o teu time, montar uma estrutura de OCR."
+    },
+    {
+      "start": 4624.71,
+      "end": 4645.38,
+      "timestamp": "01:17:04",
+      "text": "E se você trabalha com software B2B, tem um livro chamado Crossing the Chasm, que te ensina muito como pensar produto e desenvolver produtos."
+    },
+    {
+      "start": 4645.38,
+      "end": 4646.26,
+      "timestamp": "01:17:25",
+      "text": "Irado."
+    },
+    {
+      "start": 4646.26,
+      "end": 4647.14,
+      "timestamp": "01:17:26",
+      "text": "Irado."
+    },
+    {
+      "start": 4647.14,
+      "end": 4670.16,
+      "timestamp": "01:17:27",
+      "text": "E qual livro, independente do tema que você indica e que você gosta, ou um livro que você leu aí, ou dois, você tenha lido na sua vida que te marcou e que..."
+    },
+    {
+      "start": 4670.16,
+      "end": 4675.88,
+      "timestamp": "01:17:50",
+      "text": "É, tipo, o que eu mais dei de presente."
+    },
+    {
+      "start": 4675.88,
+      "end": 4677.93,
+      "timestamp": "01:17:55",
+      "text": "Pode ser esse."
+    },
+    {
+      "start": 4677.93,
+      "end": 4680.57,
+      "timestamp": "01:17:57",
+      "text": "Tem alguns, assim."
+    },
+    {
+      "start": 4680.57,
+      "end": 4689.37,
+      "timestamp": "01:18:00",
+      "text": "Pra mim tem um trio que eu acho que toda pessoa deveria ler."
+    },
+    {
+      "start": 4689.37,
+      "end": 4696.84,
+      "timestamp": "01:18:09",
+      "text": "O primeiro é Em Busca de Sentido, do Victor Frankl."
+    },
+    {
+      "start": 4696.84,
+      "end": 4698.02,
+      "timestamp": "01:18:16",
+      "text": "Porrado."
+    },
+    {
+      "start": 4698.02,
+      "end": 4701.1,
+      "timestamp": "01:18:18",
+      "text": "Esse livro é porrado."
+    },
+    {
+      "start": 4701.1,
+      "end": 4701.39,
+      "timestamp": "01:18:21",
+      "text": "É."
+    },
+    {
+      "start": 4701.39,
+      "end": 4703.44,
+      "timestamp": "01:18:21",
+      "text": "Eu li em 2007."
+    },
+    {
+      "start": 4703.44,
+      "end": 4706.08,
+      "timestamp": "01:18:23",
+      "text": "E bom pra caralho."
+    },
+    {
+      "start": 4706.08,
+      "end": 4710.04,
+      "timestamp": "01:18:26",
+      "text": "E eu releio ainda até hoje."
+    },
+    {
+      "start": 4710.04,
+      "end": 4718.84,
+      "timestamp": "01:18:30",
+      "text": "Quando eu penso que minha vida tá cheia de problemas, que..."
+    },
+    {
+      "start": 4718.84,
+      "end": 4747.43,
+      "timestamp": "01:18:38",
+      "text": "Porque, né, resumindo, pessoal, ele percebeu que quem sobreviveu dentro do campo de concentração não eram as pessoas que tinham o melhor estado de saúde, a melhor força física, ou os mais jovens."
+    },
+    {
+      "start": 4747.43,
+      "end": 4771.47,
+      "timestamp": "01:19:07",
+      "text": "Quem sobreviveu em todos aqueles desafios dentro do campo de concentração eram pessoas que tinham um motivo muito claro do porquê que eles tinham que sair do campo."
+    },
+    {
+      "start": 4771.47,
+      "end": 4774.11,
+      "timestamp": "01:19:31",
+      "text": "Até arrepia, cara."
+    },
+    {
+      "start": 4774.11,
+      "end": 4777.92,
+      "timestamp": "01:19:34",
+      "text": "O livro é bom pra caralho."
+    },
+    {
+      "start": 4777.92,
+      "end": 4778.21,
+      "timestamp": "01:19:37",
+      "text": "É."
+    },
+    {
+      "start": 4778.21,
+      "end": 4796.83,
+      "timestamp": "01:19:38",
+      "text": "E dali, dessa observação dele, sendo uma das pessoas que foi pro campo de concentração, saiu toda a linha dele de psicoterapia."
+    },
+    {
+      "start": 4796.83,
+      "end": 4799.77,
+      "timestamp": "01:19:56",
+      "text": "Enfim, é um livro..."
+    },
+    {
+      "start": 4799.77,
+      "end": 4801.53,
+      "timestamp": "01:19:59",
+      "text": "Logoterapia."
+    },
+    {
+      "start": 4801.53,
+      "end": 4803.72,
+      "timestamp": "01:20:01",
+      "text": "É, logoterapia."
+    },
+    {
+      "start": 4803.72,
+      "end": 4807.68,
+      "timestamp": "01:20:03",
+      "text": "Man's Search for a Meaning."
+    },
+    {
+      "start": 4807.68,
+      "end": 4811.64,
+      "timestamp": "01:20:07",
+      "text": "Man's Search for a Meaning."
+    },
+    {
+      "start": 4811.64,
+      "end": 4814.57,
+      "timestamp": "01:20:11",
+      "text": "Em busca de sentido."
+    },
+    {
+      "start": 4814.57,
+      "end": 4816.63,
+      "timestamp": "01:20:14",
+      "text": "Victor Frankl."
+    },
+    {
+      "start": 4816.63,
+      "end": 4818.68,
+      "timestamp": "01:20:16",
+      "text": "Victor Frankl."
+    },
+    {
+      "start": 4818.68,
+      "end": 4822.78,
+      "timestamp": "01:20:18",
+      "text": "O segundo livro é Awareness."
+    },
+    {
+      "start": 4822.78,
+      "end": 4827.48,
+      "timestamp": "01:20:22",
+      "text": "O autor que não lembro certinho."
+    },
+    {
+      "start": 4827.48,
+      "end": 4833.93,
+      "timestamp": "01:20:27",
+      "text": "Depois o time procure e coloca lá pra gente."
+    },
+    {
+      "start": 4833.93,
+      "end": 4835.39,
+      "timestamp": "01:20:33",
+      "text": "A legenda."
+    },
+    {
+      "start": 4835.39,
+      "end": 4841.55,
+      "timestamp": "01:20:35",
+      "text": "A gente coloca na legenda ali, eu passo..."
+    },
+    {
+      "start": 4841.55,
+      "end": 4843.02,
+      "timestamp": "01:20:41",
+      "text": "Awareness."
+    },
+    {
+      "start": 4843.02,
+      "end": 4846.39,
+      "timestamp": "01:20:43",
+      "text": "E ele fala sobre o quê?"
+    },
+    {
+      "start": 4846.39,
+      "end": 4868.82,
+      "timestamp": "01:20:46",
+      "text": "Ele fala sobre o quanto é importante você entender as suas emoções e o que você pensa pra lidar com os teus desafios do dia a dia e os desafios do mundo."
+    },
+    {
+      "start": 4868.82,
+      "end": 4883.04,
+      "timestamp": "01:21:08",
+      "text": "Quando você tá aqui, eu tô falando com o Nardom, tem um monte de coisa que passa na minha cabeça."
+    },
+    {
+      "start": 4883.04,
+      "end": 4890.37,
+      "timestamp": "01:21:23",
+      "text": "Será que quem tá ouvindo vai gostar desse podcast?"
+    },
+    {
+      "start": 4890.37,
+      "end": 4898.58,
+      "timestamp": "01:21:30",
+      "text": "Será que você tá gostando do que eu tô falando com você?"
+    },
+    {
+      "start": 4898.58,
+      "end": 4924.68,
+      "timestamp": "01:21:38",
+      "text": "Quando eu tô pensando se o meu chefe gosta do que eu tô fazendo ou se o meu investidor gosta do que eu tô fazendo, na minha cabeça começam a abrir um monte de hipóteses e leques."
+    },
+    {
+      "start": 4924.68,
+      "end": 4933.18,
+      "timestamp": "01:22:04",
+      "text": "Há 10 mil anos, esse modelo mental fez a gente sobreviver."
+    },
+    {
+      "start": 4933.18,
+      "end": 4949.6,
+      "timestamp": "01:22:13",
+      "text": "Porque você ouvia um barulho na floresta, você achava que era uma cobra, não um galho que você pisou sem querer."
+    },
+    {
+      "start": 4949.6,
+      "end": 4957.08,
+      "timestamp": "01:22:29",
+      "text": "E ele mostra o quanto isso é danoso pra gente hoje."
+    },
+    {
+      "start": 4957.08,
+      "end": 4958.4,
+      "timestamp": "01:22:37",
+      "text": "Perfeito."
+    },
+    {
+      "start": 4958.4,
+      "end": 4982.88,
+      "timestamp": "01:22:38",
+      "text": "Quanta energia a gente gasta pensando merda em vez de canalizar a nossa energia, o nosso tempo em coisas que realmente vão fazer a diferença e vão fazer a gente mover."
+    },
+    {
+      "start": 4982.88,
+      "end": 4983.76,
+      "timestamp": "01:23:02",
+      "text": "Irado."
+    },
+    {
+      "start": 4983.76,
+      "end": 4986.84,
+      "timestamp": "01:23:03",
+      "text": "Parece ser muito bom."
+    },
+    {
+      "start": 4986.84,
+      "end": 5002.38,
+      "timestamp": "01:23:06",
+      "text": "E o último livro que eu recomendo é O Alma Indomável, que é muito, muito bom também, que é Michael Singer."
+    },
+    {
+      "start": 5002.38,
+      "end": 5014.41,
+      "timestamp": "01:23:22",
+      "text": "Muito nessa linha também, que ele mostra assim, cara, qual que é o teu papel aqui?"
+    },
+    {
+      "start": 5014.41,
+      "end": 5017.34,
+      "timestamp": "01:23:34",
+      "text": "O que que te irrita?"
+    },
+    {
+      "start": 5017.34,
+      "end": 5020.42,
+      "timestamp": "01:23:37",
+      "text": "O que que não irrita?"
+    },
+    {
+      "start": 5020.42,
+      "end": 5023.35,
+      "timestamp": "01:23:40",
+      "text": "O que que te motiva?"
+    },
+    {
+      "start": 5023.35,
+      "end": 5030.24,
+      "timestamp": "01:23:43",
+      "text": "Qual que é o teu relacionamento com as pessoas?"
+    },
+    {
+      "start": 5030.24,
+      "end": 5033.02,
+      "timestamp": "01:23:50",
+      "text": "Como melhorar isso?"
+    },
+    {
+      "start": 5033.02,
+      "end": 5040.06,
+      "timestamp": "01:23:53",
+      "text": "Essa teia, pra mim, eu recomendo pra todo mundo."
+    },
+    {
+      "start": 5040.06,
+      "end": 5040.94,
+      "timestamp": "01:24:00",
+      "text": "Irado."
+    },
+    {
+      "start": 5040.94,
+      "end": 5051.5,
+      "timestamp": "01:24:00",
+      "text": "Já vou colocar no meu audible aqui pra ler quando a gente voltar do OPM."
+    },
+    {
+      "start": 5051.5,
+      "end": 5060.59,
+      "timestamp": "01:24:11",
+      "text": "Porque até lá tem um monte de case pra ler que eu nem conheço."
+    },
+    {
+      "start": 5060.59,
+      "end": 5063.81,
+      "timestamp": "01:24:20",
+      "text": "Meu Deus do céu, cara."
+    },
+    {
+      "start": 5063.81,
+      "end": 5069.09,
+      "timestamp": "01:24:23",
+      "text": "Você já imprimiu tudo de uma vez só?"
+    },
+    {
+      "start": 5069.09,
+      "end": 5071.29,
+      "timestamp": "01:24:29",
+      "text": "Imi nada, cara."
+    },
+    {
+      "start": 5071.29,
+      "end": 5075.54,
+      "timestamp": "01:24:31",
+      "text": "No computador, marcar no PDF."
+    },
+    {
+      "start": 5075.54,
+      "end": 5089.62,
+      "timestamp": "01:24:35",
+      "text": "O ano passado, a critério e curiosidade, a minha mestrante imprimiu pra ficar mais fácil de ler."
+    },
+    {
+      "start": 5089.62,
+      "end": 5095.92,
+      "timestamp": "01:24:49",
+      "text": "Cara, dá uma pilha desse tamanho, assim, ó."
+    },
+    {
+      "start": 5095.92,
+      "end": 5098.85,
+      "timestamp": "01:24:55",
+      "text": "Você tá louco, cara."
+    },
+    {
+      "start": 5098.85,
+      "end": 5099.0,
+      "timestamp": "01:24:58",
+      "text": "A"
+    }
+  ],
+  "word_count": 6402,
+  "segment_count": 456,
+  "chunks_used": 4,
+  "timestamps_estimated": true
+}

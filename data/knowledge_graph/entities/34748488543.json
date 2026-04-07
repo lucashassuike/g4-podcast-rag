@@ -1,0 +1,423 @@
+{
+  "episode_id": "34748488543",
+  "title": "Como Ele Cria Negócios Milionários Através da Educação? - Com Álvaro Schocair | Extremos",
+  "date_published": 1695285000,
+  "duration": 3853,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Álvaro Schocair",
+      "role": "guest",
+      "company": "Tarpon",
+      "title": "Conselheiro"
+    },
+    {
+      "name": "Eli Horn",
+      "role": "mentioned",
+      "company": "Cirela",
+      "title": "Fundador"
+    },
+    {
+      "name": "Zeca Magalhães",
+      "role": "mentioned",
+      "company": "Tarpon",
+      "title": "Fundador"
+    },
+    {
+      "name": "Zé Olimpio",
+      "role": "mentioned",
+      "company": "Credit Suisse",
+      "title": "Presidente"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "Vitex",
+      "title": "Stakeholder"
+    },
+    {
+      "name": "Geraldo",
+      "role": "mentioned",
+      "company": "Vitex",
+      "title": "Stakeholder"
+    },
+    {
+      "name": "Carla Sarri",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Sadia",
+      "industry": "Food Production",
+      "context": "Merged with Perdigão to form BRF"
+    },
+    {
+      "name": "Perdigão",
+      "industry": "Food Production",
+      "context": "Merged with Sadia to form BRF"
+    },
+    {
+      "name": "Brf",
+      "industry": "Food Production",
+      "context": "Result of merger between Sadia and Perdigão"
+    },
+    {
+      "name": "Tarpon",
+      "industry": "Investment Management",
+      "context": "Álvaro Schocair's company involvement"
+    },
+    {
+      "name": "Cirela",
+      "industry": "Real Estate",
+      "context": "Discussed IPO process"
+    },
+    {
+      "name": "Credit Suisse",
+      "industry": "Financial Services",
+      "context": "Involved in IPO discussions for Cirela"
+    },
+    {
+      "name": "Vitex",
+      "industry": "Technology",
+      "context": "Discussed in relation to IPO and stakeholder responsibility"
+    },
+    {
+      "name": "Link School Of Business",
+      "industry": "Education",
+      "context": "Founded by Álvaro Schocair, offers practical business education"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Participated in Link's selection process"
+    },
+    {
+      "name": "Coca-Cola",
+      "industry": "Beverages",
+      "context": "Participated in Link's selection process"
+    },
+    {
+      "name": "Mcdonald'S",
+      "industry": "Food Service",
+      "context": "Participated in Link's selection process"
+    },
+    {
+      "name": "Jp Morgan",
+      "industry": "Finance",
+      "context": "Participated in Link's selection process"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Discussed for its practical business education approach"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Energy Renewal",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Health Sector",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Education Sector",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "M&A",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Stock Option",
+      "category": "Finance"
+    },
+    {
+      "name": "Bootstrap",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Capital de Giro",
+      "category": "Finance"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Finance"
+    },
+    {
+      "name": "People Skills",
+      "category": "Human Resources"
+    },
+    {
+      "name": "OPM (Owner/President Management)",
+      "category": "Education"
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Business"
+    },
+    {
+      "name": "Education Programs",
+      "category": "Education"
+    },
+    {
+      "name": "Generational Differences",
+      "category": "Sociology"
+    },
+    {
+      "name": "Global Education Practices",
+      "category": "Education"
+    },
+    {
+      "name": "Short-term Results Focus",
+      "category": "Business"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dom Casmurro",
+      "author": "Machado de Assis"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "2009",
+      "context": "Year of BRF formation"
+    },
+    {
+      "value": "2012",
+      "context": "Álvaro Schocair's departure as Tarpon's advisor"
+    },
+    {
+      "value": "2019",
+      "context": "Álvaro Schocair's departure as Tarpon's shareholder"
+    },
+    {
+      "value": "2008",
+      "context": "Year of Cirela's IPO discussions"
+    },
+    {
+      "value": "450",
+      "context": "Number of students in Link's undergraduate program"
+    },
+    {
+      "value": "100",
+      "context": "Number of students in Link's MBA program"
+    },
+    {
+      "value": "11,000 BRL",
+      "context": "Monthly tuition fee for Link's undergraduate program"
+    },
+    {
+      "value": "90,000 BRL",
+      "context": "Total cost of Link's MBA program"
+    },
+    {
+      "value": "90,000 reais",
+      "context": "Cost of the Link School of Business program."
+    },
+    {
+      "value": "8 months",
+      "context": "Duration of the Link School of Business program."
+    },
+    {
+      "value": "450 people",
+      "context": "Number of participants in the Link School of Business program."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Energy Renewal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tarpon",
+      "target_type": "company"
+    },
+    {
+      "source": "Eli Horn",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cirela",
+      "target_type": "company"
+    },
+    {
+      "source": "Mcdonald'S",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Link School Of Business",
+      "target_type": "company"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ipo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Link School Of Business",
+      "target_type": "company"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Education Sector",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vitex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ipo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Link School Of Business",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Zeca Magalhães",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tarpon",
+      "target_type": "company"
+    },
+    {
+      "source": "Cirela",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ipo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Link School Of Business",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Credit Suisse",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ipo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Zé Olimpio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Credit Suisse",
+      "target_type": "company"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "M&A",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jp Morgan",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Link School Of Business",
+      "target_type": "company"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Brf",
+      "target_type": "company"
+    },
+    {
+      "source": "Coca-Cola",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Link School Of Business",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Health Sector",
+      "target_type": "concept"
+    }
+  ]
+}

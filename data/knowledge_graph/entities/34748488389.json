@@ -1,0 +1,294 @@
+{
+  "episode_id": "34748488389",
+  "title": "COMO ELE DOBROU O FATURAMENTO DA EMPRESA - COM RICHARD STAD | PAPO DE GESTÃO",
+  "date_published": 1728374400,
+  "duration": 4221,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Richard Stad",
+      "role": "guest",
+      "company": "Aramis",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Produtora do podcast Papo de Gestão."
+    },
+    {
+      "name": "Aramis",
+      "industry": "Moda",
+      "context": "Empresa de vestuário masculino liderada por Richard Stad."
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Serviços Financeiros",
+      "context": "Mencionada em relação a eventos e roadshows."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Transformação Digital",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Machine Learning",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Personalização da Jornada do Cliente",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Moda Masculina",
+      "category": "Indústria"
+    },
+    {
+      "name": "Jornada de Compra",
+      "category": "Comportamento do Consumidor"
+    },
+    {
+      "name": "Liderança",
+      "category": "Gestão"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Autenticidade",
+      "category": "Gestão"
+    },
+    {
+      "name": "Ambidestria Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Delegação de Decisões",
+      "category": "Gestão"
+    },
+    {
+      "name": "Roadshow",
+      "category": "Finanças"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Finanças"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão de caixa",
+      "category": "Estratégia financeira"
+    },
+    {
+      "name": "Governança corporativa",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Fluxo de caixa",
+      "category": "Estratégia financeira"
+    },
+    {
+      "name": "Gestão e Estratégia",
+      "category": "Programa educacional"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Dobrou o faturamento nos últimos três anos",
+      "context": "Crescimento da Aramis sob a gestão de Richard Stad."
+    },
+    {
+      "value": "Meta de R$ 1 bilhão de faturamento até 2026",
+      "context": "Objetivo estratégico da Aramis."
+    },
+    {
+      "value": "125 lojas e 1.200 multimarcas",
+      "context": "Rede de distribuição da Aramis."
+    },
+    {
+      "value": "30 anos de operação",
+      "context": "História da Aramis."
+    },
+    {
+      "value": "28% da base de clientes são mulheres",
+      "context": "Demografia de clientes da Aramis."
+    },
+    {
+      "value": "40% de crescimento no EBITDA",
+      "context": "Crescimento da Aramis em 2022."
+    },
+    {
+      "value": "30 milhões de reais",
+      "context": "Valor de caixa queimado pela Aramis em 2022."
+    },
+    {
+      "value": "26%",
+      "context": "Crescimento do EBITDA em 2023"
+    },
+    {
+      "value": "Maior geração de caixa da história da empresa",
+      "context": "Resultado financeiro em 2023"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Delegação De Decisões",
+      "target_type": "concept"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governança Corporativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aramis",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Moda Masculina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aramis",
+      "target_type": "company"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Caixa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Liderança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ambidestria Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aramis",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Machine Learning",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ebitda",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aramis",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Personalização Da Jornada Do Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gestão E Estratégia",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Planejamento Estratégico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aramis",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Transformação Digital",
+      "target_type": "concept"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autenticidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fluxo De Caixa",
+      "target_type": "concept"
+    }
+  ]
+}

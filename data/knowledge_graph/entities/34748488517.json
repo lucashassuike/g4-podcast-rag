@@ -1,0 +1,297 @@
+{
+  "episode_id": "34748488517",
+  "title": "Como Ela Construiu o Império Milionário da Beleza - Com Natalia Beauty | Extremos",
+  "date_published": 1698739200,
+  "duration": 3782,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Natalia Beauty",
+      "role": "guest",
+      "company": "Natalia Beauty",
+      "title": "CEO"
+    },
+    {
+      "name": "Juliette",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pyong",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Virgínia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Larissa Manoela",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sasha Meneghel",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Maisa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jade Picon",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Helena Bordom",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mariana Goldfarb",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcast",
+      "industry": "Media",
+      "context": "Podcast focusing on business and entrepreneurship"
+    },
+    {
+      "name": "Natalia Beauty",
+      "industry": "Beauty and Aesthetics",
+      "context": "Company founded and led by Natalia Beauty"
+    },
+    {
+      "name": "Natalia Beauty University",
+      "industry": "Educação e Beleza",
+      "context": "Fundada por Natalia Beauty para treinar profissionais na área de beleza."
+    },
+    {
+      "name": "Globo",
+      "industry": "Mídia e Entretenimento",
+      "context": "Mencionada em relação ao programa Big Brother Brasil (BBB)."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marketing de emboscada",
+      "category": "Marketing"
+    },
+    {
+      "name": "Multiempreendedorismo",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Posicionamento de marca",
+      "category": "Branding"
+    },
+    {
+      "name": "Flowbrowns",
+      "category": "Beauty Technique"
+    },
+    {
+      "name": "Flowlips",
+      "category": "Beauty Technique"
+    },
+    {
+      "name": "Shiny Face",
+      "category": "Beauty Technique"
+    },
+    {
+      "name": "Flow Design",
+      "category": "Beauty Technique"
+    },
+    {
+      "name": "Flow Scalp",
+      "category": "Beauty Technique"
+    },
+    {
+      "name": "Beleza sustentável",
+      "category": "Conceito de Consumo"
+    },
+    {
+      "name": "Treinamento de equipe",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Black Friday",
+      "category": "Evento de Vendas"
+    },
+    {
+      "name": "Influenciadores digitais",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "block list",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "customer experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "price vs value",
+      "category": "Business Concept"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "5 milhões",
+      "context": "Ganho de seguidores após ação de marketing no BBB"
+    },
+    {
+      "value": "R$ 1.700",
+      "context": "Ticket médio dos serviços da empresa de Natalia Beauty"
+    },
+    {
+      "value": "Mil metros quadrados",
+      "context": "Tamanho da matriz da empresa de Natalia Beauty"
+    },
+    {
+      "value": "40",
+      "context": "Número de artistas trabalhando para Natalia Beauty."
+    },
+    {
+      "value": "30 a 40 milhões",
+      "context": "Faturamento anual estimado das lojas de Natalia Beauty."
+    },
+    {
+      "value": "2000",
+      "context": "Número estimado de posts de influenciadores em um ano."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Natalia Beauty",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Natalia Beauty University",
+      "target_type": "company"
+    },
+    {
+      "source": "Natalia Beauty",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marketing De Emboscada",
+      "target_type": "concept"
+    },
+    {
+      "source": "Natalia Beauty",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Influenciadores Digitais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Natalia Beauty",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Black Friday",
+      "target_type": "concept"
+    },
+    {
+      "source": "Natalia Beauty",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Natalia Beauty",
+      "target_type": "person"
+    },
+    {
+      "source": "Natalia Beauty",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Beleza Sustentável",
+      "target_type": "concept"
+    },
+    {
+      "source": "Natalia Beauty",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Treinamento De Equipe",
+      "target_type": "concept"
+    },
+    {
+      "source": "Natalia Beauty",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Multiempreendedorismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Natalia Beauty",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Posicionamento De Marca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Natalia Beauty University",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Beleza Sustentável",
+      "target_type": "concept"
+    },
+    {
+      "source": "Natalia Beauty",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    }
+  ]
+}

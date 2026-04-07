@@ -1,0 +1,299 @@
+{
+  "episode_id": "34748488644",
+  "title": "#035 - Case Decora: um projeto da faculdade de US$ 100 milhões",
+  "date_published": 1636533006,
+  "duration": 2094,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Paulo Orione",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Líder do programa de vendas"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Paulo Orioli",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Líder do programa de formação de vendas"
+    },
+    {
+      "name": "Clayton Christensen",
+      "role": "mentioned",
+      "company": "Harvard University",
+      "title": "Professor de Gestão Estratégica"
+    },
+    {
+      "name": "Rory Mcdonough",
+      "role": "mentioned",
+      "company": "Harvard University",
+      "title": "Professor de Gestão Estratégica"
+    },
+    {
+      "name": "Orioli",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Líder do programa de formação de vendas"
+    },
+    {
+      "name": "João Oliveiro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em vendas"
+    },
+    {
+      "name": "Theo Rosco",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em vendas"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Empresa de educação focada em práticas de negócios."
+    },
+    {
+      "name": "Home Depot",
+      "industry": "Varejo de materiais de construção",
+      "context": "Cliente mencionado em um contrato significativo."
+    },
+    {
+      "name": "Creative",
+      "industry": "Tecnologia e Design",
+      "context": "Empresa que adquiriu a Decora."
+    },
+    {
+      "name": "Walmart",
+      "industry": "Varejo",
+      "context": "Cliente mencionado em negociações complexas."
+    },
+    {
+      "name": "Harvard University",
+      "industry": "Educação Superior",
+      "context": "Instituição onde Clayton Christensen lecionou e Rory McDonough ocupa sua cadeira."
+    },
+    {
+      "name": "Moble",
+      "industry": "Tecnologia",
+      "context": "Empresa mencionada em relação a contratos de comissão por upsell"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Bootstrap",
+      "category": "Estratégia de financiamento"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Oil Hunting",
+      "category": "Metodologia de vendas"
+    },
+    {
+      "name": "PDCA",
+      "category": "Framework de gestão"
+    },
+    {
+      "name": "Vendas B2B",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Pitch",
+      "category": "Técnica de vendas"
+    },
+    {
+      "name": "Know Your Audience",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Jobs to be Done",
+      "category": "Framework de Gestão"
+    },
+    {
+      "name": "Pitch Matador",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "Proposta de Valor",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Realidade Aumentada (AR)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Conversão de vendas",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Upsell",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Flat fee",
+      "category": "Modelo de precificação"
+    },
+    {
+      "name": "Engenharia reversa",
+      "category": "Logística"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Innovator's Dilemma",
+      "author": "Clayton Christensen"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "US$ 100 milhões",
+      "context": "Valor da venda da empresa Decora."
+    },
+    {
+      "value": "US$ 4 milhões",
+      "context": "Valor do contrato inicial mencionado."
+    },
+    {
+      "value": "US$ 1 milhão",
+      "context": "Adiantamento solicitado para iniciar o projeto."
+    },
+    {
+      "value": "90 mil modelos 3D e 30 mil imagens",
+      "context": "Escopo do projeto entregue."
+    },
+    {
+      "value": "US$ 100 milhões",
+      "context": "Valor associado ao Case Decora, mencionado no episódio."
+    },
+    {
+      "value": "70-80 horas por semana",
+      "context": "Carga de trabalho mencionada como necessária para alcançar sucesso fora da média."
+    },
+    {
+      "value": "40% mais de conversão",
+      "context": "Usuários que interagiam com AR"
+    },
+    {
+      "value": "200% da meta",
+      "context": "Desempenho de vendas mencionado em exemplo"
+    },
+    {
+      "value": "100 milhões de dólares",
+      "context": "Valor mencionado como ganho por um dos especialistas"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Clayton Christensen",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "The Innovator'S Dilemma",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Orione",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Moble",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Upsell",
+      "target_type": "concept"
+    },
+    {
+      "source": "Realidade Aumentada (Ar)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Conversão De Vendas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Orioli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Decora",
+      "source_type": "person",
+      "relation": "contracted_with",
+      "target": "Home Depot",
+      "target_type": "company"
+    },
+    {
+      "source": "Rory Mcdonough",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Clayton Christensen",
+      "target_type": "person"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Educação E Treinamento Empresarial",
+      "target_type": "company"
+    },
+    {
+      "source": "Decora",
+      "source_type": "person",
+      "relation": "acquired_by",
+      "target": "Creative",
+      "target_type": "company"
+    },
+    {
+      "source": "Decora",
+      "source_type": "person",
+      "relation": "contracted_with",
+      "target": "Walmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Orioli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

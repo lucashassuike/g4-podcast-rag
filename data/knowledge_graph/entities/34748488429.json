@@ -1,0 +1,650 @@
+{
+  "episode_id": "34748488429",
+  "title": "A IMPORTÂNCIA DE SER DISRUPTIVO NA VIDA E NO TRABALHO -- COM IVAN MORÉ | EXTREMOS",
+  "date_published": 1717749000,
+  "duration": 4584,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Ivan Moré",
+      "role": "guest",
+      "company": "Desobediência Produtiva",
+      "title": "CEO"
+    },
+    {
+      "name": "Roger Federer",
+      "role": "mentioned",
+      "company": "",
+      "title": "Tenista"
+    },
+    {
+      "name": "Thiago Nigro",
+      "role": "mentioned",
+      "company": "Finclass",
+      "title": ""
+    },
+    {
+      "name": "Giovana",
+      "role": "mentioned",
+      "company": "Desobediência Produtiva",
+      "title": "CEO"
+    },
+    {
+      "name": "Luciano Huck",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor e Host"
+    },
+    {
+      "name": "Michael Phelps",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Lewis Hamilton",
+      "role": "mentioned",
+      "company": "",
+      "title": "Piloto de Fórmula 1"
+    },
+    {
+      "name": "Ronaldo Fenômeno",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-jogador de futebol"
+    },
+    {
+      "name": "Pelé",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-jogador de futebol"
+    },
+    {
+      "name": "Rafael Nadal",
+      "role": "mentioned",
+      "company": "",
+      "title": "Tenista"
+    },
+    {
+      "name": "Max Verstappen",
+      "role": "mentioned",
+      "company": "Red Bull Racing",
+      "title": "Piloto de Fórmula 1"
+    },
+    {
+      "name": "Ronaldo Nazário",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-jogador de futebol"
+    },
+    {
+      "name": "Neymar Jr.",
+      "role": "mentioned",
+      "company": "",
+      "title": "Jogador de futebol"
+    },
+    {
+      "name": "Daniel Alves",
+      "role": "mentioned",
+      "company": "",
+      "title": "Jogador de futebol"
+    },
+    {
+      "name": "Nicolas",
+      "role": "mentioned",
+      "company": "",
+      "title": "Assistente de Ivan Moré"
+    },
+    {
+      "name": "Gui",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-assistente de Ivan Moré"
+    },
+    {
+      "name": "Zico",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-jogador de futebol"
+    },
+    {
+      "name": "Ronaldo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-jogador de futebol"
+    },
+    {
+      "name": "Neymar",
+      "role": "mentioned",
+      "company": "",
+      "title": "Jogador de futebol"
+    },
+    {
+      "name": "Marcos",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-goleiro de futebol"
+    },
+    {
+      "name": "Tadeu Schmidt",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": "Apresentador"
+    },
+    {
+      "name": "Tino Marcos",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": "Repórter esportivo"
+    },
+    {
+      "name": "Pedro Bassan",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": "Repórter esportivo"
+    },
+    {
+      "name": "João Pedro Pazdém",
+      "role": "mentioned",
+      "company": "",
+      "title": "Consultor"
+    },
+    {
+      "name": "Thiago",
+      "role": "mentioned",
+      "company": "TV Globo",
+      "title": "Repórter esportivo"
+    },
+    {
+      "name": "Diego Ribas",
+      "role": "mentioned",
+      "company": "Flamengo",
+      "title": "Jogador de Futebol"
+    },
+    {
+      "name": "Daniel",
+      "role": "mentioned",
+      "company": "Globo",
+      "title": "Editor-Chefe"
+    },
+    {
+      "name": "Felps",
+      "role": "mentioned",
+      "company": "Delta Airlines",
+      "title": "Atleta"
+    },
+    {
+      "name": "Daniel Ricardo",
+      "role": "mentioned",
+      "company": "Formula 1",
+      "title": "Piloto"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Basic.Com",
+      "industry": "Fashion",
+      "context": "Produção de camisetas leves e descontraídas"
+    },
+    {
+      "name": "Minimals",
+      "industry": "Fashion",
+      "context": "Produção de camisas básicas"
+    },
+    {
+      "name": "Reserva",
+      "industry": "Fashion",
+      "context": "Roupas casuais e básicas"
+    },
+    {
+      "name": "Finclass",
+      "industry": "Education",
+      "context": "Plataforma de educação financeira"
+    },
+    {
+      "name": "Tv Globo",
+      "industry": "Media",
+      "context": "Empresa de comunicação e televisão"
+    },
+    {
+      "name": "Red Bull Racing",
+      "industry": "Esportes a Motor",
+      "context": "Equipe de Fórmula 1 mencionada no contexto de Max Verstappen."
+    },
+    {
+      "name": "Espn",
+      "industry": "Media",
+      "context": "Ivan Moré mencionou um produto da ESPN sendo lançado."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Ivan Moré visitou a sede durante sua imersão no Vale do Silício."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotive",
+      "context": "Ivan Moré visitou a sede durante sua imersão no Vale do Silício."
+    },
+    {
+      "name": "Stanford University",
+      "industry": "Education",
+      "context": "Ivan Moré participou de um treinamento rápido em Stanford."
+    },
+    {
+      "name": "Seara",
+      "industry": "Alimentação",
+      "context": "Proporcionou treinamento em Stanford para Ivan Moré"
+    },
+    {
+      "name": "Flamengo",
+      "industry": "Esportes",
+      "context": "Clube de Diego Ribas"
+    },
+    {
+      "name": "Globo",
+      "industry": "Mídia",
+      "context": "Empresa onde Ivan Moré trabalhou como apresentador"
+    },
+    {
+      "name": "Globo Esporte",
+      "industry": "Media",
+      "context": "Programa de televisão esportivo"
+    },
+    {
+      "name": "Delta Airlines",
+      "industry": "Aviation",
+      "context": "Patrocinador de evento mencionado"
+    },
+    {
+      "name": "Formula 1",
+      "industry": "Sports",
+      "context": "Competição esportiva mencionada"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Desobediência Produtiva",
+      "category": "Mindset"
+    },
+    {
+      "name": "Outsider vs Insider",
+      "category": "Career Dynamics"
+    },
+    {
+      "name": "Cultura Minimalista",
+      "category": "Lifestyle"
+    },
+    {
+      "name": "PDCA",
+      "category": "Framework de gestão"
+    },
+    {
+      "name": "Gerenciamento de imagem",
+      "category": "Estratégia de Marca"
+    },
+    {
+      "name": "Cavalheirismo no tênis",
+      "category": "Cultura Esportiva"
+    },
+    {
+      "name": "Obediência produtiva",
+      "category": "Comportamento Profissional"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Business"
+    },
+    {
+      "name": "Carona do Ivan Moré",
+      "category": "Media"
+    },
+    {
+      "name": "Vale do Silício",
+      "category": "Innovation"
+    },
+    {
+      "name": "Produção de conteúdo digital",
+      "category": "Media"
+    },
+    {
+      "name": "Rotina de Jornalismo",
+      "category": "Processo de Trabalho"
+    },
+    {
+      "name": "Criatividade em Mídia",
+      "category": "Habilidade Profissional"
+    },
+    {
+      "name": "Distribuição de renda",
+      "category": "Social"
+    },
+    {
+      "name": "Saneamento básico",
+      "category": "Infrastructure"
+    },
+    {
+      "name": "Alimentação",
+      "category": "Basic Needs"
+    },
+    {
+      "name": "Água potável",
+      "category": "Basic Needs"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "32 anos",
+      "context": "Tempo de experiência de Ivan Moré em comunicação"
+    },
+    {
+      "value": "4 anos",
+      "context": "Tempo que Ivan Moré levou para alcançar seu objetivo de cobrir eventos como Copa do Mundo e Olimpíadas na TV Globo."
+    },
+    {
+      "value": "10 dias",
+      "context": "Tempo que Ivan Moré dedicou para se preparar para conduzir um evento em inglês com Michael Phelps."
+    },
+    {
+      "value": "13 pontos de audiência",
+      "context": "Audiência alcançada por Ivan Moré no programa Globoesporte."
+    },
+    {
+      "value": "30",
+      "context": "Número de pessoas envolvidas na produção do Globo Esporte"
+    },
+    {
+      "value": "70,000",
+      "context": "Número de pessoas por dia nos shows do Coldplay em São Paulo"
+    },
+    {
+      "value": "6",
+      "context": "Número de dias de shows do Coldplay em São Paulo"
+    },
+    {
+      "value": "1,600",
+      "context": "Número de jogos de futebol assistidos por Ivan Moré em 10 anos"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Flamengo",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Luciano Huck",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Giovana",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Globo Esporte",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Thiago",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tadeu Schmidt",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Lewis Hamilton",
+      "target_type": "person"
+    },
+    {
+      "source": "Ronaldo Fenômeno",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Neymar",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ronaldo Fenômeno",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Neymar",
+      "target_type": "person"
+    },
+    {
+      "source": "Felps",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Delta Airlines",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rafael Nadal",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Daniel",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Desobediência Produtiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Minimalista",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Zico",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Desobediência Produtiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Pedro Bassan",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "visited",
+      "target": "Tesla",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tv Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "João Pedro Pazdém",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "attended",
+      "target": "Stanford University",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Outsider Vs Insider",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Thiago Nigro",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Roger Federer",
+      "target_type": "person"
+    },
+    {
+      "source": "Max Verstappen",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Red Bull Racing",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Desobediência Produtiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Marcos",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Michael Phelps",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "visited",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tino Marcos",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Diego Ribas",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Pelé",
+      "target_type": "person"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ronaldo",
+      "target_type": "person"
+    },
+    {
+      "source": "Max Verstappen",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Formula 1",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Ricardo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Formula 1",
+      "target_type": "company"
+    },
+    {
+      "source": "Ivan Moré",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pdca",
+      "target_type": "concept"
+    }
+  ]
+}

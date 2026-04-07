@@ -1,0 +1,188 @@
+{
+  "episode_id": "34748488402",
+  "title": "A ARTE DE CRIAR UMA IMAGEM INESQUECÍVEL - COM JUAREZ LEITE | EXTREMOS",
+  "date_published": 1724832000,
+  "duration": 3961,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Juarez Leite",
+      "role": "guest",
+      "company": "Não mencionado",
+      "title": "Visagista"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Hilda",
+      "role": "mentioned",
+      "company": "Não mencionado",
+      "title": "Gestora"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcast",
+      "industry": "Media",
+      "context": "Podcast focusing on business and entrepreneurship"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Organizadora do programa de gestão estratégica mencionado no episódio"
+    },
+    {
+      "name": "Juarez Cadeira",
+      "industry": "Barbearia",
+      "context": "Empresa mencionada como parte do trabalho de Juarez Leite"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Visagismo",
+      "category": "Professional Practice"
+    },
+    {
+      "name": "Transformação de imagem",
+      "category": "Professional Practice"
+    },
+    {
+      "name": "Confiança no profissional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Formação Visagista",
+      "category": "Educação e Treinamento"
+    },
+    {
+      "name": "Autoimagem",
+      "category": "Psicologia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Gestão Estratégica",
+      "category": "Administração e Negócios"
+    },
+    {
+      "name": "Influência nas Redes Sociais",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Gestão",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Estrutura organizacional",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Missão, visão e valores",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Influência",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Treinamento de equipe",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Quebra de paradigmas",
+      "category": "Estratégia de mercado"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "107 turmas entregues",
+      "context": "Número de turmas do programa de gestão estratégica do G4 Educação"
+    },
+    {
+      "value": "50 empresários por turma",
+      "context": "Capacidade média de participantes por turma no programa de gestão estratégica"
+    },
+    {
+      "value": "5 mil pessoas formadas",
+      "context": "Total de participantes formados pelo programa de gestão estratégica do G4 Educação"
+    },
+    {
+      "value": "50 anos",
+      "context": "Tempo de experiência de um profissional que participou dos cursos de Juarez Leite"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Juarez Leite",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Juarez Cadeira",
+      "target_type": "company"
+    },
+    {
+      "source": "Juarez Leite",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Juarez Leite",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Juarez Leite",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Juarez Cadeira",
+      "target_type": "company"
+    },
+    {
+      "source": "Juarez Leite",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Hilda",
+      "target_type": "person"
+    }
+  ]
+}

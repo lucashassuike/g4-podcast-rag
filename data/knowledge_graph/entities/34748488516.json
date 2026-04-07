@@ -1,0 +1,196 @@
+{
+  "episode_id": "34748488516",
+  "title": "O Que Fazer Quando Nada Mais Pode ser Feito - Com Carlos Burle | Sem Atalhos",
+  "date_published": 1698825600,
+  "duration": 4177,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Carlos Burle",
+      "role": "guest",
+      "company": "",
+      "title": "Surfista"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Clivo",
+      "industry": "Healthcare",
+      "context": "Fundada por Marcelo Toledo"
+    },
+    {
+      "name": "Oi",
+      "industry": "Telecommunications",
+      "context": "Empresa onde o narrador trabalhou com centenas de pessoas"
+    },
+    {
+      "name": "Red Bull",
+      "industry": "Bebidas energéticas",
+      "context": "Patrocinadora de eventos de surf e esportes radicais"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Mencionada como exemplo de grupo inovador com flexibilidade nas ideias"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "liderança",
+      "category": "business"
+    },
+    {
+      "name": "resiliência",
+      "category": "personal development"
+    },
+    {
+      "name": "empreendedorismo",
+      "category": "business"
+    },
+    {
+      "name": "surf",
+      "category": "sports"
+    },
+    {
+      "name": "transformação social",
+      "category": "society"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Habilidade pessoal"
+    },
+    {
+      "name": "Preparação mental",
+      "category": "Habilidade pessoal"
+    },
+    {
+      "name": "Performance em condições extremas",
+      "category": "Esporte e treinamento"
+    },
+    {
+      "name": "Rotina profissional de um atleta",
+      "category": "Esporte e treinamento"
+    },
+    {
+      "name": "Cultura da confiança",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Autocompaixão",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Equilíbrio emocional",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Estratégia de desenvolvimento"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "20 anos",
+      "context": "Experiência do narrador em liderança"
+    },
+    {
+      "value": "100, 200, 300 pessoas",
+      "context": "Crescimento da equipe na empresa mencionada"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Transformação Social",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Empreendedorismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Lucas",
+      "target_type": "person"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cultura Da Confiança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Surf",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Red Bull",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

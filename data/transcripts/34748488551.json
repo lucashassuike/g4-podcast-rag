@@ -1,0 +1,3075 @@
+{
+  "id": 34748488551,
+  "title": "Como Ele Inovou com Inteligência Artificial em 2007? - Com João Bernartt, CIO Stone | Extremos",
+  "guest": "",
+  "date_published": 1693989000,
+  "duration": 4914,
+  "text": "Então a gente viajava e a gente levava os nossos clientes, os nossos maiores clientes e aí teve uma vez, cara, que a gente viu que, sei lá, 80, mais de 80% do e-commerce, porque era muito concentrado na época, né? Tava no nosso ônibus. Aí a gente falou assim, cara, se o Jeff Bezos descobre que a gente tá com 80% ali, ele vai jogar uma bomba aqui, vai me matar pra poder entrar. Tava na época de entra ou não entra no Brasil. Mas eu, no meu caso, eu acho que eu não esperava estar num momento de vender a companhia. Então eu não queria vender a companhia, mas eu achava que era melhor. Racionalmente, eu achava que era o que deveria ser feito, mas emocionalmente eu não queria. E de certa maneira, o meu sentimento era, beleza, trouxe dinheiro, mas porra, eu não tenho mais a minha empresa, não tenho mais o meu bebê aqui. E o dinheiro tava lá e eu demorei pra começar a usar ele, pra você ter uma ideia. Igualzinho comigo. Cara, eu demorei mais de 7 meses pra fazer alguma compra que eu não faria anteriormente, entendeu? Sejam... Essa entrada tá muito... Pô, você não falou nada, cara. Sejam muito bem-vindos a mais um podcast. Extremos, nosso podcast do G4 Podcasts. Aqui do meu lado, meu fiel escudeiro, ele, Alfredo Soares. Tudo bem, querubim? Aqui, Bruno Nardon, seu host desse podcast. Tá bem? Tô bem. O cumprimento era esse que eu fiz aqui a mão. Você que tá fazendo assim, porra. E aí, como é que você tá? Tá bem? Tá tudo bem? Tô maravilhoso. E você? Tá melhor? Tô melhor. Passou a gripe? Hoje vim com uma roupa aqui, diferente. Diferente mesmo. Inspirada no conselho do nosso amigo Ivan Moré. Branco, cinza. Trazer um pouco de tonalidades claras pro ambiente escuro, pra conseguir um brand mais imponente, mais interessante. Ficou bonito mesmo. Ficou diferente, ficou bonito. Gostei. Vamos ver se a turma gosta. Então, comenta aí se a gente deve vir de branco aqui nos próximos episódios, com cores claras. Se eu vier de branco, eu vou me sentir de férias. A próxima eu venho de branco. Então fechou. Fechou. Tamo junto. Fala, turma. Beleza? Sejam muito bem-vindos aí. Mais um episódio aqui dos Extremos. Lembrando que o Extremos faz parte do Hub de Conteúdo do G4 Podcast, que tem vários podcasts sobre gestão, saúde, alta performance, vendas, muita coisa bacana. E no Extremos, a gente costuma explorar as extremidades da jornada dos empreendedores, dos gestores e grandes executivos do Brasil. Hoje a gente tem um convidado super especial. É quase que um reviver aqui do Conselho da Loja Integrada no ano de 2021 ali. Então estaremos juntos aqui trocando muita ideia de novo. Tenho certeza que vocês vão curtir muito. Um spoilerzinho. Antes da gente começar, o cara que tá vindo, ele é Chief Information Officer. Caramba, o seu inglês tá bom, hein, cara? Tu viu? Sotaque britânico? Ficou bom. Menos massachutes. Uma coisa mais interiorana, exatamente. Chief Information Officer de uma das grandes empresas aí do mercado de cartões, mercado financeiro aqui do Brasil. Maquininha, pô. A famosa maquininha verde. A maquininha do Hulk. Eles tinham que contratar o Hulk como garoto propaganda. Isso é legal, né? Isso é maneiro, né? Aguenta tudo. Passe tuas vendas. Ele dando um soco assim. Desconto. Isso é bom demais. Bom, e lembrando que esse podcast é um oferecimento do G4 Skills. Uma plataforma, uma ferramenta que cria uma trilha customizada para você poder treinar aí e acelerar o desenvolvimento dos seus colaboradores. Então a gente vai deixar aí na tela para vocês um QR Code para você que é nosso ouvinte aproveitar aí sete dias de trial grátis para conhecer a plataforma para até 10 pessoas do seu time. Caramba, a galera tá generosa aqui. A galera tá generosa. Então tem o link na descrição, mas aproveita aí o QR Code na tela. E se quiser indicar também para algum amigo seu empreendedor, aproveite. Se quiser vender também, pode vender para ele o link. Pede uns 50 no Pix, manda o link para ele logo na sequência aí que tá barato. Bom, sem mais delongas, eu vou continuar aqui na apresentação do nosso convidado de hoje. O nome já é imponente do convidado. É bom. Já tem um sobrenome que parece que é um bono da LVHM lá. Já não parece? Parece, parece, é verdade. Tem uma áurea bilionária no nome aqui. Tem algo diferente. Não só áurea, né? Tem algo diferente nesse nome. Mas antes de chegar no nome, para vocês saberem mais informações do nosso querido convidado, ele é investidor da Yalo Inc, que é a primeira BSP da meta no mundo. É uma empresa de conversation commerce focado na indústria B2B e ele em 2021 ajudou a trazer as operações para o Brasil. Isso aí. Porrada. Eu já vejo muito anúncio deles no Instagram. Muito anúncio. Ele é investidor e consultor de várias startups. Uma das suas áreas no qual ele é bacharelado envolve... Não, tem mestrado em inteligência artificial, mineração de dados e aprendizado de máquina. Mas... Pela Universidade Federal de Santa Catarina. Mas a porrada mesmo foi quando ele fundou a Caordic lá em 2009 e vendeu para a Lynx. Acho que foi em 2015, se eu não me engano. 18. E cara, ele é um cara engraçado. Porque assim, a nossa história é meio parecida. Ele fez engenharia, daí depois foi estudar na França em Toulouse. Na mesma cidade. Na mesma cidade. Eu fiz engenharia e fui estudar na França em Toulouse um pouquinho depois dele. Olha, eu não sei onde você mora, não sei quais são os seus planos, mas Toulouse deveria estar neles. Porque quem passa lá fica rico. É o terceiro que eu conheço que passou em Toulouse e ficou rico. Então, próximas férias, primeira oportunidade, pegue um avião e vá para Toulouse. Na França. Na França. Isso daí. Fique lá, toque nas coisas. Um avião rosa. Come um croissant. Passe pelo menos sete dias. E aí volte que a sua vida prosperará. Você não apresentou ele, pô. Senhoras e senhores, no Extremos de hoje, diretamente de Santa Catarina, João Bernat. Olha o nome. Muito bem-vindo, João. Valeu, galera. Obrigado pelo convite. João Bernat com dois t's ainda. É nome de bilionário, pô. Questão de tempo ou não, mas é nome de bilionário. Inclusive, esse nome aí eu estava discutindo hoje. Eu tenho que ver aí para conseguir cidadania italiana. Vou ter que mudar, acho que para DT. Porque veio lá quando o meu nono veio da... Tem que ser igual. Vai ter que ser igual, vou ter que mudar isso aí. Então, você gostou, mas vou ter que mudar, eu acho. É uma lástima. Mas eu acho que você não precisa mudar, não, cara. Eu acho que você precisa mudar o documento de quando ele veio para cá. E fazer uma paridade. O Bernard DT virou o Bernard TT. O TT, exatamente. Ou na dumba construir para conseguir... É, pô, eu tenho, pô. Eu tenho, da minha família foi mais difícil, cara. Nessa semana que ele fica cuidando do filho dele, ele fica estudando os sistemas. Que eu fico muito tranquilo, assim, que pobre a gente não morre, bicho. Amém. Tem muita coisa para fazer de negócio com o bichinho. O bichinho entende tudo. Vai lá, manda. Bom, vamos começar, Joãozinho? Você é mais conhecido como Joãozinho, né? Muita gente me chama Joãozinho. Radicar o como Joãozinho. João, vamos chamar de Little John. Cara, qual foi o momento mais extremo na sua vida? Quantos anos você está? Estou com 43. Com 43 anos, qual foi, assim, o momento no esporte, na família, numa doença, na vida? No profissional. Mais extremo, acho que dos dois aí. O extremo profissional e o extremo pessoal que você já viveu, assim. Cara, eu acho que tem um momento extremo que foi mais recente, que foi, acho que na gravidez da minha esposa. Essa última gravidez foi um momento extremo, porque ela estava com uma gravidez meio complicada. A gente estava no meio da pandemia, imagina, em 2020. Aquele medo de sair na rua. E minha esposa acabou, ela tinha uma condição específica ali da questão e, enfim, foi bem complicado. E a gente pensa em uma série de aspectos da vida, assim, quando essas coisas chegam perto da gente, daquilo que realmente importa, daquilo que a gente realmente precisa valorizar. Mas deu tudo certo, não aconteceu nada, graças a Deus, mas acho que foram momentos super difíceis que, enfim, me fizeram pensar em um monte de coisa sobre a vida e sobre tudo mais. Animal. O que foi uma das coisas que você pensou sobre isso? Cara, eu acho... Você mudou? Uma das coisas que se tornou acionável depois que você passou por esse momento. Eu acho que a gente precisa viver o presente\n\nDVD, essas coisas, a gente começou por lá.\nEssa era muito grande nisso.\nE a gente já sabia fazer recomendação de filmes, né?\nEntão a gente nasceu ali na Netflix, né?\nEntão era meio que um caminho natural.\nE cara, a gente começou, cara,\naumentou a conversão da categoria, assim,\nmuito fácil de notar.\nVocê não precisava nem de um teste a ver.\nEra step, assim, sabe? Curva step.\nStep change, é.\nExatamente.\nE aí o problema foi que ele falou assim,\nnão, porra, do cacete,\nvamos para todas as categorias.\nA gente falou, cara, a gente não tinha habilidade,\nassim, computacionalmente,\nconseguir gerar as recomendações para livros,\nque a quantidade de livros era enorme,\na gente não conseguia naquela época.\nEntão eu me lembro da gente virando noite.\nQuantos vocês eram nessa época?\nAh, nessa época nós éramos uns 20, mais ou menos.\nE vocês tinham pegado investimento de alguém\nou vocês foram bootstrapping?\nBootstrapping, até consegui a Sarayva foi bootstrapping,\nmas o cara que viria a ser nosso investidor\nfoi comigo na primeira reunião da Sarayva.\nFoi ele que abriu as portas, mas ele estava só assim,\nah, vamos ver se esses caras vão chegar em algum lugar, entendeu?\nAí só na...\nPediu um descontinho depois.\nNão, mas eu ajudo vocês.\nVamos lá junto com a Sarayva.\nPediu um descontinho pela Sarayva, pediu.\nPediu, pediu.\nE deixou eu saber, você empreendeu antes disso\nou esse foi o seu primeiro empreendimento?\nEu tive uma empresa de café antes de...\nCPC também, Custo Por Clique.\nSabe aquelas máquinas automáticas que você vai clicando\ne vem um café expresso, não sei o quê?\nEu trabalhava num lugar lá em Floripa\ne eu não gosto muito de tomar café passado,\nme dá um pouco de azio.\nAí eu falei, porra, podia ter uma máquina de café expresso,\naquelas automáticas com chá.\nIsso quando você estava na faculdade?\nFaculdade, é.\nOu você já estava no mestrado?\nEu não lembro agora, Nardão.\nNão, mas tudo bem.\nEu acho que foi na transição entre me formar e...\nEntão você já tinha isso na tua veia empreendedora?\nVocê já sabia que queria seguir esse caminho?\nEu fui da empresa Júnior, putz, acho que na primeira ou segunda fase\neu era o presidente da empresa Júnior lá de controle de automação,\noutro Júnior, então sempre estava envolvido com alguma coisa do gênero.\nMas a empresa de café é uma empresa que eu acabei vendendo\ndepois da Caótica, inclusive.\nA empresa foi fundada antes e acabou sendo, assim,\nacho que em 2019 foi quando eu peguei o meu sabático lá\nque eu acabei vendendo, porque, enfim,\na gente não dedicava tempo nem eu nem outro sócio\ne a gente acabou, enfim.\nE daí então, vocês colocaram a Saraiva para dentro,\nestavam com 20 pessoas já e o negócio estava dando lucro ou não\nna época da Caótica?\nNão, para a Saraiva não.\nPorque a gente estava com bootstrapping, dinheiro meu e do Bosco\ne colocando, enfim, todas as nossas reservas no business.\nE uma coisa que foi interessante também, assim, em extremos,\nque vocês estavam falando.\nCara, eu saí do meu trabalho, tá?\nAh, não, peraí, tem um aspecto importante que eu estou me lembrando\nde onde veio o dinheiro, né?\nTeve um dinheiro meu e do Bosco, mas a gente também conseguiu...\nTinha muito incentivo a fomento e inovação naquela época.\nEntão a gente conseguiu três editais de fomento e inovação\nque ajudaram...\nA fundo perdido.\nA fundo perdido.\nFinep, CNPq, essas coisas, né?\nEntão esses três deram, digamos assim, um start\npara a gente conseguir operar naquele ano 2010 inteiro\nsem ter nada de...\nE mais o dinheiro meu e do Bosco, né?\nEntão eu acabei saindo do meu trabalho.\nUm pouquinho antes disso, a minha esposa veio morar comigo,\nela morava no Rio, carioca, aí a conterrânea aí.\nE aí ela veio morar comigo, só que ela não estava com emprego também.\nO cara, para casar com um carioca, tem que ser muito bom de lábia.\nVocê vê, a gente teve que ir...\nMuito bom de lábia, porque os cariocas são marrentos.\nVocê acha que ele só era comercial, só, para fechar o dia de negócio, meu amigo?\nTeve que ser muito preditivo.\nEntão a gente conseguiu esse dinheiro, que foi fundamental para a gente.\nE putz, eu estava com a Rafa sustentando eu e ela,\ne assim, com menos da metade do dinheiro que eu tinha quando eu vivia solteiro.\nMas assim, por mais que tenha sido...\nA gente teve que apertar as contas, assim, era divertido também.\nEntão assim, porra, início de namoro, início de casamento, tudo era maravilha.\nA gente não tinha nenhuma dificuldade.\nVocê tinha o quê? 29 anos? 28, 29?\nEu tinha...\nAh, 29.\nLegal.\n29, 28.\nE daí, de fechar a Saraiva, para fechar o segundo cliente, como é que foi?\nAí foi tudo muito rápido, Nardom, porque daí a gente fechou a Saraiva\ne saiu uma reportagem na Exame, tá?\nNa Exame Principal, no PME.\nNuma época que as revistas ainda eram super compradas, assim.\nEra o principal canal, assim, de...\nA Sena Exame era o laço.\nE foram assim...\nPégne foi.\nPégne era...\nÉ, e foram três páginas e meia de matéria.\nPutz, a gente lá na capa, a gente nem tinha um lugar direito, cara.\nA gente teve que tirar a foto num hall ali da incubadora.\nEu também conheço.\nNão dava para tirar foto numa nossa sala, entendeu?\nA gente foi num lugar mais bonitinho para tirar foto, eu gosto.\nEu fui na escada do restaurante.\nA gente foi também.\nPorque era um sobrado, não era um andar só, entendeu?\nEra o histórico maior.\nEle bateu a foto na escada para parecer que tinha dois andares.\nAí essa foto, assim, que a gente tirou no hall da incubadora, puta, grandona.\nAí na segunda página estava o pessoal do Buscapé e na última página estava o pessoal da Saraiva, o CEO da Saraiva.\nLegal.\nEntão, assim, foi super legal, né?\nE acho que isso trouxe uma certa confiança.\nAh, e o que foi comunicado?\nAcho que isso é um aspecto importante.\nA gente conseguiu resolver o problema lá dos livros.\nA gente entrou em todas as categorias e a gente aumentou a taxa de conversão do site em mais de dois dígitos.\nEntão foi assim, foi muito alto.\nE aí saiu, todos esses resultados saíram pela voz da própria Saraiva na Exame.\nEntão era o cliente falando da gente, do impacto brutal que a gente tinha colocado de uma tecnologia que não existia no Brasil até então.\nE que era nada mais nada menos do que a Amazon fazia lá fora.\nAí, cara, foi assim...\nVamos tirar os pedidos.\nE não tinha ninguém competindo com a gente no Brasil também, que era um outro aspecto também que o timing era...\nDemora até construir esse tipo de tecnologia.\nAté surgiu um outro cara, mas quando vinha para um challenge era difícil competir, assim, né?\nTeve até um cara do Sul também, de Santa Catarina, Zim, Zig.\nNão lembro.\nTeve a Nimu, né?\nTeve a Nimu, acho que foi em 2014, em termos de recomendação, né?\nTeve uns caras de Curitiba que eu fui até visitar que eu investi, o sistema era bem legal.\nMas era isso, vocês chegaram...\nMas daí em 2010, 2011...\nAí foi assim, cara, a gente pegou...\nO trabalho de integração do e-commerce grande e do e-commerce pequeno era mais ou menos o mesmo.\nE o impacto era muito mais visível no grande.\nCara, a gente olhou de cima para baixo, cara, quais são os 100 maiores e-commerces do país?\nVamos olhar para esses caras e vamos pegar eles.\nEntão a ideia era essa.\nIsso só com o produto de recomendação na página de produto e na home.\nVocês não tinham search ainda.\nNão tinha search, mas a gente tinha recomendação da home até o checkout.\nTinha em todas as páginas.\nNem todo mundo ligava, aí era toda a discussão.\nTipo, poucos lugares, não é porque o Nardom está aqui, mas assim, poucos lugares tinham caras mais analíticos ali no e-com.\nSe tinha uma galera que estava mais acostumada...\nO e-commerce começou com muito marketing, né?\nMuito marketing, exato.\nMuito profissional de marketing.\nEntão não era muito data-driven os processos decisórios.\nCabe embaixo do marketing e-commerce.\nSó que, putz, na galera, por exemplo, da Rocket, você encontrava um bando de engenheiro lá tocando a companhia.\nE aí a galera era bem mais analítica.\nEntão em todas, não era só na Canoe, porra, Tricay, todas elas.\nMobley, né?\nMobley, porra.\nPorradaria cesarean.\nTodos.\nEram muito engenheiros e a galera fazia conta, via o resultado.\nAí era muito mais\n\nconhece bem e toda essa jornada era vista por canal, você não conseguia algum sistema que endereçasse isso num pedido com múltiplas fontes de fulfillment e múltiplas formas de você gerir e traquear isso. A gente uma vez foi o nosso sistema lá na Canoo era baseado no Magento, lá atrás, a gente pegou o open source muito ruim, foi mal mas ele era muito open source mas era uma bosta o Magento, era uma bosta o Magento e daí a gente começou a fazer os nossos forks fazer os nossos códigos em cima então todo o sistema de order system, uma vez a gente imprimiu ele para a gente conseguir acompanhar exatamente isso, de onde veio, para onde vai, onde estão os ciclos fechados, cara a gente imprimiu o negócio, você não tem noção, foi uma parede inteira, uma fonte desse tamanho para a gente saber todos os ciclos, de onde vem, para onde vai, lembra até hoje, a parede inteira assim da Canoo, isso daqui assim, imprimia um A4zão e ia colando um do lado do outro, cara isso é vital para o varejo, absolutamente vital ainda mais uma perspectiva humanitiana, se você não endereça isso de uma maneira sistêmica, você não consegue aproveitar uma porrada de benefícios que você poderia ter, então esse produto foi feito foi colocado na Centauro, a guerra do digital foi em cima do MS, foi, foi, foi, foi em cima disso, foi porque mexia no transacional, um não dava o dado para o outro, até hoje a gente não conseguiu integrar ainda direito lá o MS com o checkout lá na Vitex várias discussões com o Geraldo, super engraçado, mas enfim, mas cara foi legal porque deu para fazer esse produto, e você tinha dois anos de earn out? Tinha dois anos de earn out, e você ficou dois anos lá? Fiquei, fiquei os dois anos, e ganhou o earn out inteiro? Ganhei o earn out praticamente inteiro, não inteiro, inteiro, mas e daí como é que foi depois? Cara o D mais um, você vendeu, fez o ciclo lá, você fechou o earn out, ganhou grande parte do earn out, daí você falou pô, e agora? Como você ressignificou esse momento para você? Porque assim, a gente tem aqui muito empreendedor que está ouvindo a gente, que está começando, os caras estão no meio da jornada, a galera que já ganhou grana, que já vendeu negócio, ou que está com muito dinheiro, e acaba se perguntando, e qual o próximo passo? Você chegou lá, como que foi esse seu momento de, putz qual o próximo passo? E aonde começou a mudar essa chave na tua cabeça? Porque você falou que o earn out foi legal pra caramba, você trabalhou um monte, aonde que virou essa chave? Porque terminou os dois anos, você também saiu fora. A Caort foi vendida em setembro de 2015, em dezembro de 2015 meu filho nasceu, e eu passei a ter uma agenda em São Paulo direto, então os dois primeiros anos do meu filho, eu via ele mais final de semana, segunda e sexta ali, mas daquele jeito, uma tensão grande, porque apesar de ter sido divertido, tinha uma pressão da entrega das metas do earn out, então assim, quando terminou aquele período, eu estava com um problema na lombar, que até hoje eu não sei o que é, mas com certeza era emocional, de tensão, de estresse, uma úlcera no estômago, não úlcera diagnosticada, mas assim, meu estômago não conseguia tocar aqui, então assim, várias questões físicas, do acúmulo de estresse de todo o período, de oito anos ali naquela batalha, e porra, vocês sabem bem como é que é, né galera? Foda é hard, né? Então quando eu vi o primeiro momento assim, cara, terminou o earn out, o que eu quero fazer? Cara, eu quero um tempo pra mim, pra minha família, e estar junto com eles, né? E era engraçado, eu estava com um problema na minha lombar, que eu não conseguia pegar meu filho no colo direito, durante esse período ali, um pouquinho antes da venda da companhia, até o final do earn out. Cara, eu viajava, magicamente a minha dor da lombar desaparecia, e quando eu voltava, mesmo não trabalhando mais, e voltava pra Floripa, voltava a porra da dor. Então era claramente uma questão, sei lá, psicológica. Emocional. Emocional, uma coisa nesse sentido. Então assim, o que foi importante, acho que nesse... Como decisão, né? Foi uma decisão. Eu decidi ficar viajando, porque primeiro, eu gosto pra caramba de viajar, poder viajar com meu filho, dois aninhos e pouco, e minha esposa, divertido. Cara, a gente viajou pelo mundo inteiro, a gente começou, porra, pelo Havaí, daí descia pro Tahiti, e aí voltava pro Havaí, e aí ficava viajando o mundo inteiro. Cara, foi super divertido. Mas assim, nessa época você falou, cara, vou me dar esses dois anos e não vou pensar em nada. Não, no início não ia ser dois anos, no início ia ser um ano. Eu ia ficar um ano sem trabalhar. Mas estava legal. Mas você se permitiu não fazer nada. Cara, eu não fiz nada. Não quero nem pensar. Ainda tinha um contrato de consultoria com a Lynx, com algumas outras coisas, pra discutir planejamento estratégico, algumas coisas assim. Um outro cliente que ainda, com certeza, tinha um relacionamento muito forte comigo, lembro, eram grandes contas. Mas já era sem agenda. Sem agenda, e quando eu estava no Brasil, quando eu podia, já era uma coisa bem mais soft, não tinha uma pressão. Mas nesse momento você nem se preocupou, cara. Não quero nem pensar em trabalho. Cara, vou viajar. Vou viajar. Vamos embora. E viajei, não só a gente, viajei com meus pais, viajei com meus irmãos, viajei com meu sogro. Eu lembro que eu vi umas fotos tuas no Facebook de você lá em Petra. Petra, legal pra caramba. Legal, né? A gente acampou com meu filho lá. Andar pra cacete. A gente acampou no deserto da Jordânia. No deserto, com a galera. Porra, naquele frio. Frio pra cacete, bicho. De noite, é. Mas de dia, suportável. Mas muito louco, né? Os extremos da temperatura. E daí você vê a João Ana e falou, pô, tá legal pra caramba, vou continuar outro ano. Aí quando chegou no final do primeiro ano, o negócio ainda não tinha nada engatado. Isso era 18? Isso era 18. Puta, pô, por que a gente não vai em tal lugar? Pô, vamos fazer uma nova viagem, não sei o que. Vamos. Cara, fomos de volta. O primeiro semestre de 2019, viajamos de volta pra cacete. Aí no segundo semestre de 2019, eu já tava, não, não, agora tem que parar de viajar um pouco. Vamos ver o que eu vou fazer. Mas aí nesse momento, cara, eu e minha esposa, a gente tava planejando o segundo filho. E aí aquela questão, cara, pro cara empreender, ele tem que tá, assim, eu tenho que tá muito, assim, é uma obsessão, cara. Eu fico, me suga completo. Puta, com novamente uma empresa grávida, numa situação, eu falei assim, cara, não, deixa nascer o segundo filho e aí eu vou empreender. Aí comecei a entrar em alguns conselhos. Aí que começou o processo de, e foi super interessante, porque também não fui muito atrás, meio que apareceu. E aí comecei a pegar um conselho aqui, e aí não ia pegar muito, na verdade, ia pegar pouco conselho, só que aí chegou a pandemia, e tudo migrou pra conselho remotamente. Aí eu falei, ah, amigão, remoto é... Com nóis mesmo. Aí peguei vários conselhos, inclusive alguns com o nosso amigo aqui, participamos contigo também, um deles, porra. Hortifruti Natural da Terra. É, Hortifruti Natural da Terra. Loja Integrada. Loja Integrada. Tivemos... Foram os dois que a gente tava junto, né? Foi, né? Matheus, não? Não, Matheus, não. Tentei levar ele lá, mas não rolou. É, e aí, assim, cara, foi super bacana, acho que no início eu achava meio... O cara tá muito acostumado, puta, fazer, porra, o cara fala e faz acontecer, né? Então acho que esse shift pro cara mais aconselhar, no início, assim, porra, tô aqui falando, caralho, a coisa não muda, puta que pariu, tô perdendo meu tempo. Tô perdendo meu tempo. Coisa não... É muito ruim essa sensação, cara. Ah, então... É difícil. Então quem tá acostumado a tá ali fazendo a parada é um pouco difícil, mas por outro lado, você começa a entender um pouco o papel e é um pouco mais lento a transformação, mas você ajuda, principalmente quando você tá discutindo. Eu acho que é muito legal quando você tá numa posição meio que de moldar a pessoa, sabe? Pelo menos eu senti isso nos que eu participo. Eu não participo de conselho formal, mas quando as empresas que eu sou advisor, quando você tá num negócio de, porra, instigar a amb\n\nA gente chamava um dos líderes, que era o líder de POS, hardware lá da Stone, se chama Marcos com U, né? E aí eu fui entrevistar, eu tinha pedido lá para entrevistar o Marcos, esse cara que é o CTO, só que ele era o cara VP lá da Microsoft, morando em Seattle, não sei o quê, e esse cara, eles já tinham, o pessoal da Stone já tinha tentado falar com ele anteriormente, e ele falou, não, não sei o quê, eu falei, não, cara, insiste, fala que eu quero ver alguma coisa de advisor, não sei o quê, o cara me dá uma chance lá de conversar com ele, né? Aí nessas aí de entrar em uma reunião atrás da outra, eu comecei a reunião com ele, e aí eu cheguei atrasado, porque eu tinha ido no banheiro, eu falei assim, pô, cara, me desculpa, eu cheguei atrasado, ele falou, não, tudo bem, eu falei, então, me conta um pouco mais sobre você, me diz como que eu posso ajudar aí no teu dia a dia, no teu trabalho, não sei o quê. Você achou que ele trabalhava na Stone? Eu achava que era o Marcos, aí o cara olhou assim, ele achou estranho, eu vi a cara dele assim, ele falou, pô, meu nome é Marcos, eu moro aqui em Seattle, em Seattle, cara, pô, e funciona? Confuso assim, aí o cara já não queria estar lá falando comigo, eu já cheguei atrasado, aí começa o papo todo, ele chegou, virou assim, pô, João, ele parou assim, cara, por que mesmo que a gente está conversando aqui? Aí caiu o ficha, eu falei, caraca, Marcos, esse é o Marcos da Microsoft, esse é o Marcos, pô, mil desculpas, cara, não, vamos fazer o seguinte, você não fala nada, deixa eu me apresentar aqui, comecei a falar com ele, aí o papo, porra, desenrolou, foi super legal, e aí a gente acabou achando umas afinidades, várias afinidades, e aí os primeiros papos foram mais como advisor, depois a gente conseguiu trazer ele. Sempre assim. E aí, pô, tá funcionando super legal, ele é fenomenal e tá funcionando super bem. Então ele cuida da engenharia, e comigo tá o aspecto de produto e engenharia, segurança de informação agora, mas recentemente a gente passou pro CRO. E ele tá em Seattle ou ele veio pro Brasil? Ah, ele se mudou pra Boca Raton, tá morando ali em Miami, mesmo fuso, né? Não, não, e a viagem também é mais curta, né? Mais fácil, né? Boa. Cara, estamos chegando aqui numa reta final, a gente tem um bate-bola aqui pra fazer com você. Calma aí, calma aí, antes do bate-bola, pô. Calma. É? É, pô, calma. Então tá bom. Como que é, assim, né, eu vejo que na minha cabeça tem três tipos de pessoas, né? A pessoa que leva o negócio do zero pro um, a pessoa que leva do um pro dez e a pessoa que leva do um pro cem. Dificilmente você tem as pessoas que conseguem cumprir todas essas jornadas. Eu vejo que você é uma das únicas pessoas que eu conheço que de fato consegue cumprir muito bem essas jornadas, né? Você levou ali o power do zero pro um, do um pro dez, talvez do dez pro cinquenta, entendeu? Daí você entrou na Lynx, talvez voltou um pouquinho pra trás pra um projeto novo, pegou ali, tirou ele do um pro dez, começou a levar ele pra outro momento de maturidade e agora na Stone você tá ali levando o negócio do dez pro cem, talvez não do dez pro cem, do cinquenta pro cem, porque o negócio já era grande. Quantas pessoas hoje tem debaixo da tua diretoria? Duas mil, três mil? Dois mil e poucos. Você não gerencia duas mil, logicamente, você gerencia quem tá ali direto contigo, mas é um outro nível de complexidade, é um outro nível de não centralização, de descentralização. O que que tem sido pra você já fazem dois anos quase que você tá lá, né? Um ano e meio. Um ano e meio que na verdade correspondem a quinze, né? Imagina o tanto que tua vida não mudou ao longo desse... Qual que tem sido o maior desafio pra você quando você chegou lá e pegou um negócio, cara, com duas mil pessoas e um ano e meio depois que você olha pra trás e fala, caramba, que jornada legal. O que que você acha que foram os principais desafios de estar nessa empresa grande que são diferentes de você estar em outra empresa? Acho que tem desafios que eles vão ser comuns a qualquer pessoa que esteja gerindo algo análogo a isso, né? Muita gente, muitos produtos, enfim, uma complexidade técnica. Existem os desafios específicos relacionados à Stone. Então, a Stone é uma empresa muito sui generis. Ela foi criada de uma maneira muito única. Eu acho que um dos maiores desafios que eu enfrentei, eu acho que já passei por parte, parte dele já foi resolvido, mas parte ainda não, é que eram, na verdade, algumas empresas ali dentro da Stone, com culturas distintas, com filosofias de desenvolvimento de produtos distintos e que a gente teve que transformar. E muitas vezes é natural que dentro desse processo uma não tenha uma afinidade tão grande com a outra, né? Até por preferências tecnológicas, enquanto um é mais, porra, um pensource, o outro é mais não sei o quê e assim por diante. Então, acho que o primeiro desafio é conseguir, que é mais específico da Stone, é formar um time único. Que as pessoas entendam, se identifiquem com um time único e que esse time único tenha valores comuns, né? Que eles de fato acreditem e compartilhem, né? Então, acho que essa parte a gente venceu. Como que você fez isso? Assim, todo mundo já estava sofrendo muito por não ter isso. Então, um pouco o que ajudou a dor que eles estavam sofrendo me ajudou a resolver a dor, né? E aí, eu acho que foram vários aspectos. Eu acho que ouvir todo mundo, entender os pontos que todo mundo tinha e trazer para perto pessoas fantásticas que já tinham lá, dar a voz para elas. Elas ajudaram a criar a estrutura, o desenho da estrutura comum. A estrutura comum fazia muito sentido quando você olhava. Claramente, a gente conseguiria capturar uma série de sinergias e vantagens, enfim. Então, não foi muito difícil convencê-los a ir naquela direção. Mas assim, eu acho que o desafio que a gente enfrenta hoje ainda tem, tem a ver com o legado. Então, a gente tem muito legado tecnológico, isso é muito difícil. Do ponto de vista de gestão, a companhia precisa ter os seus processos claros que derivam, obviamente, de uma visão estratégica, que se transforma em uma meta, que se transforma em uma estrutura, que se transforma então em processos. Então, ter as pessoas certas, na estrutura certa, com os processos adequados, é o que vai te permitir gerir 2 mil pessoas de uma maneira correta. Senão, você vai apontar para lá e vai ter uma parte vindo para cá, uma parte vindo para lá, uma parte... Cara, você não consegue fazer todo mundo ir na mesma direção. Então, eu acho que para você conseguir ter o ferramental correto, ele se resume na essência, se você for descascar a cebola e chegar na essência para você conseguir gerir, em ter uma estratégia clara, um objetivo comum, que se desdobra em uma meta comum e essas metas divididas em uma estrutura, times muito bem desenhados e com as pessoas certas e com os processos adequados. Então, com isso, a gente consegue colocar todo mundo no mesmo caminho. Então, por exemplo, a gente colocou lá todo o processo de OKRs, sendo com planejamento trimestral, e aí colocando as dependências entre os times, uma cadência de receber os OKRs de um tri e planejar o próximo. Então, isso conseguiu trazer todo mundo mais ou menos para o mesmo caminho. Eu diria que os... E aí, um desafio que eu acho que é importante também com 2 mil pessoas, o equilíbrio entre você ganhar eficiência, estruturar, fazer com que seus processos sejam mais eficientes, mas, ao mesmo tempo, permitindo aquele caos que é fundamental para você criar coisas novas. Então, eu digo que é a ambidestria, de você ter um time trabalhando de uma maneira, muitas vezes, desestruturadas, de uma maneira sem muito processo, sem muito controle. Eu não gosto de colocar a palavra controle, que não é o propósito do processo. É a flexibilidade. Em alguns aspectos, tem que existir controle, mas, em grande parte, é mais alinhamento que você precisa ter e direcionamento. Porque, no final do dia, quando você tem um time grande, o grande desafio da gestão é você precisa ter vários times o mais autônomo possível, para que esse time tenha identidade, seja rápido, ágil, mas alinhados. Essa é a dificuldade. Essa é a dificuldade. E o sistema de OKR para você, o planejamento estratégico e o desdobramento para OKR foi o que fez a virada de chave. Ajuda demais, ajudou sem dúvida nenhuma. A gente tinha lá o banking operando muito dentro do produto Stone, que é o nosso segmento do SMB, já estava há anos, não conseguia entrar dentro do Tom, que é o produto lá de micro autônomos. Cara, a gente conseguiu num quarto, para fazer com que esse banking",
+  "word_count": 6010,
+  "chunks_used": 4,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 32.01,
+      "timestamp": "00:00",
+      "text": "Então a gente viajava e a gente levava os nossos clientes, os nossos maiores clientes e aí teve uma vez, cara, que a gente viu que, sei lá, 80, mais de 80% do e-commerce, porque era muito concentrado na época, né?"
+    },
+    {
+      "start": 32.01,
+      "end": 35.17,
+      "timestamp": "00:32",
+      "text": "Tava no nosso ônibus."
+    },
+    {
+      "start": 35.17,
+      "end": 56.66,
+      "timestamp": "00:35",
+      "text": "Aí a gente falou assim, cara, se o Jeff Bezos descobre que a gente tá com 80% ali, ele vai jogar uma bomba aqui, vai me matar pra poder entrar."
+    },
+    {
+      "start": 56.66,
+      "end": 63.58,
+      "timestamp": "00:56",
+      "text": "Tava na época de entra ou não entra no Brasil."
+    },
+    {
+      "start": 63.58,
+      "end": 76.95,
+      "timestamp": "01:03",
+      "text": "Mas eu, no meu caso, eu acho que eu não esperava estar num momento de vender a companhia."
+    },
+    {
+      "start": 76.95,
+      "end": 87.32,
+      "timestamp": "01:16",
+      "text": "Então eu não queria vender a companhia, mas eu achava que era melhor."
+    },
+    {
+      "start": 87.32,
+      "end": 101.0,
+      "timestamp": "01:27",
+      "text": "Racionalmente, eu achava que era o que deveria ser feito, mas emocionalmente eu não queria."
+    },
+    {
+      "start": 101.0,
+      "end": 122.64,
+      "timestamp": "01:41",
+      "text": "E de certa maneira, o meu sentimento era, beleza, trouxe dinheiro, mas porra, eu não tenho mais a minha empresa, não tenho mais o meu bebê aqui."
+    },
+    {
+      "start": 122.64,
+      "end": 134.82,
+      "timestamp": "02:02",
+      "text": "E o dinheiro tava lá e eu demorei pra começar a usar ele, pra você ter uma ideia."
+    },
+    {
+      "start": 134.82,
+      "end": 137.52,
+      "timestamp": "02:14",
+      "text": "Igualzinho comigo."
+    },
+    {
+      "start": 137.52,
+      "end": 152.25,
+      "timestamp": "02:17",
+      "text": "Cara, eu demorei mais de 7 meses pra fazer alguma compra que eu não faria anteriormente, entendeu?"
+    },
+    {
+      "start": 152.25,
+      "end": 153.45,
+      "timestamp": "02:32",
+      "text": "Sejam..."
+    },
+    {
+      "start": 153.45,
+      "end": 157.06,
+      "timestamp": "02:33",
+      "text": "Essa entrada tá muito..."
+    },
+    {
+      "start": 157.06,
+      "end": 161.57,
+      "timestamp": "02:37",
+      "text": "Pô, você não falou nada, cara."
+    },
+    {
+      "start": 161.57,
+      "end": 167.73,
+      "timestamp": "02:41",
+      "text": "Sejam muito bem-vindos a mais um podcast."
+    },
+    {
+      "start": 167.73,
+      "end": 173.59,
+      "timestamp": "02:47",
+      "text": "Extremos, nosso podcast do G4 Podcasts."
+    },
+    {
+      "start": 173.59,
+      "end": 182.31,
+      "timestamp": "02:53",
+      "text": "Aqui do meu lado, meu fiel escudeiro, ele, Alfredo Soares."
+    },
+    {
+      "start": 182.31,
+      "end": 185.17,
+      "timestamp": "03:02",
+      "text": "Tudo bem, querubim?"
+    },
+    {
+      "start": 185.17,
+      "end": 191.63,
+      "timestamp": "03:05",
+      "text": "Aqui, Bruno Nardon, seu host desse podcast."
+    },
+    {
+      "start": 191.63,
+      "end": 192.68,
+      "timestamp": "03:11",
+      "text": "Tá bem?"
+    },
+    {
+      "start": 192.68,
+      "end": 193.73,
+      "timestamp": "03:12",
+      "text": "Tô bem."
+    },
+    {
+      "start": 193.73,
+      "end": 200.5,
+      "timestamp": "03:13",
+      "text": "O cumprimento era esse que eu fiz aqui a mão."
+    },
+    {
+      "start": 200.5,
+      "end": 205.46,
+      "timestamp": "03:20",
+      "text": "Você que tá fazendo assim, porra."
+    },
+    {
+      "start": 205.46,
+      "end": 209.22,
+      "timestamp": "03:25",
+      "text": "E aí, como é que você tá?"
+    },
+    {
+      "start": 209.22,
+      "end": 210.27,
+      "timestamp": "03:29",
+      "text": "Tá bem?"
+    },
+    {
+      "start": 210.27,
+      "end": 212.07,
+      "timestamp": "03:30",
+      "text": "Tá tudo bem?"
+    },
+    {
+      "start": 212.07,
+      "end": 214.33,
+      "timestamp": "03:32",
+      "text": "Tô maravilhoso."
+    },
+    {
+      "start": 214.33,
+      "end": 215.38,
+      "timestamp": "03:34",
+      "text": "E você?"
+    },
+    {
+      "start": 215.38,
+      "end": 216.88,
+      "timestamp": "03:35",
+      "text": "Tá melhor?"
+    },
+    {
+      "start": 216.88,
+      "end": 218.38,
+      "timestamp": "03:36",
+      "text": "Tô melhor."
+    },
+    {
+      "start": 218.38,
+      "end": 220.64,
+      "timestamp": "03:38",
+      "text": "Passou a gripe?"
+    },
+    {
+      "start": 220.64,
+      "end": 226.5,
+      "timestamp": "03:40",
+      "text": "Hoje vim com uma roupa aqui, diferente."
+    },
+    {
+      "start": 226.5,
+      "end": 228.9,
+      "timestamp": "03:46",
+      "text": "Diferente mesmo."
+    },
+    {
+      "start": 228.9,
+      "end": 235.97,
+      "timestamp": "03:48",
+      "text": "Inspirada no conselho do nosso amigo Ivan Moré."
+    },
+    {
+      "start": 235.97,
+      "end": 238.07,
+      "timestamp": "03:55",
+      "text": "Branco, cinza."
+    },
+    {
+      "start": 238.07,
+      "end": 255.51,
+      "timestamp": "03:58",
+      "text": "Trazer um pouco de tonalidades claras pro ambiente escuro, pra conseguir um brand mais imponente, mais interessante."
+    },
+    {
+      "start": 255.51,
+      "end": 258.36,
+      "timestamp": "04:15",
+      "text": "Ficou bonito mesmo."
+    },
+    {
+      "start": 258.36,
+      "end": 262.87,
+      "timestamp": "04:18",
+      "text": "Ficou diferente, ficou bonito."
+    },
+    {
+      "start": 262.87,
+      "end": 263.92,
+      "timestamp": "04:22",
+      "text": "Gostei."
+    },
+    {
+      "start": 263.92,
+      "end": 267.98,
+      "timestamp": "04:23",
+      "text": "Vamos ver se a turma gosta."
+    },
+    {
+      "start": 267.98,
+      "end": 282.11,
+      "timestamp": "04:27",
+      "text": "Então, comenta aí se a gente deve vir de branco aqui nos próximos episódios, com cores claras."
+    },
+    {
+      "start": 282.11,
+      "end": 289.47,
+      "timestamp": "04:42",
+      "text": "Se eu vier de branco, eu vou me sentir de férias."
+    },
+    {
+      "start": 289.47,
+      "end": 293.83,
+      "timestamp": "04:49",
+      "text": "A próxima eu venho de branco."
+    },
+    {
+      "start": 293.83,
+      "end": 295.79,
+      "timestamp": "04:53",
+      "text": "Então fechou."
+    },
+    {
+      "start": 295.79,
+      "end": 296.84,
+      "timestamp": "04:55",
+      "text": "Fechou."
+    },
+    {
+      "start": 296.84,
+      "end": 298.49,
+      "timestamp": "04:56",
+      "text": "Tamo junto."
+    },
+    {
+      "start": 298.49,
+      "end": 300.3,
+      "timestamp": "04:58",
+      "text": "Fala, turma."
+    },
+    {
+      "start": 300.3,
+      "end": 301.35,
+      "timestamp": "05:00",
+      "text": "Beleza?"
+    },
+    {
+      "start": 301.35,
+      "end": 305.26,
+      "timestamp": "05:01",
+      "text": "Sejam muito bem-vindos aí."
+    },
+    {
+      "start": 305.26,
+      "end": 310.52,
+      "timestamp": "05:05",
+      "text": "Mais um episódio aqui dos Extremos."
+    },
+    {
+      "start": 310.52,
+      "end": 334.41,
+      "timestamp": "05:10",
+      "text": "Lembrando que o Extremos faz parte do Hub de Conteúdo do G4 Podcast, que tem vários podcasts sobre gestão, saúde, alta performance, vendas, muita coisa bacana."
+    },
+    {
+      "start": 334.41,
+      "end": 354.1,
+      "timestamp": "05:34",
+      "text": "E no Extremos, a gente costuma explorar as extremidades da jornada dos empreendedores, dos gestores e grandes executivos do Brasil."
+    },
+    {
+      "start": 354.1,
+      "end": 360.87,
+      "timestamp": "05:54",
+      "text": "Hoje a gente tem um convidado super especial."
+    },
+    {
+      "start": 360.87,
+      "end": 372.44,
+      "timestamp": "06:00",
+      "text": "É quase que um reviver aqui do Conselho da Loja Integrada no ano de 2021 ali."
+    },
+    {
+      "start": 372.44,
+      "end": 381.01,
+      "timestamp": "06:12",
+      "text": "Então estaremos juntos aqui trocando muita ideia de novo."
+    },
+    {
+      "start": 381.01,
+      "end": 387.17,
+      "timestamp": "06:21",
+      "text": "Tenho certeza que vocês vão curtir muito."
+    },
+    {
+      "start": 387.17,
+      "end": 389.57,
+      "timestamp": "06:27",
+      "text": "Um spoilerzinho."
+    },
+    {
+      "start": 389.57,
+      "end": 401.15,
+      "timestamp": "06:29",
+      "text": "Antes da gente começar, o cara que tá vindo, ele é Chief Information Officer."
+    },
+    {
+      "start": 401.15,
+      "end": 407.31,
+      "timestamp": "06:41",
+      "text": "Caramba, o seu inglês tá bom, hein, cara?"
+    },
+    {
+      "start": 407.31,
+      "end": 408.36,
+      "timestamp": "06:47",
+      "text": "Tu viu?"
+    },
+    {
+      "start": 408.36,
+      "end": 411.07,
+      "timestamp": "06:48",
+      "text": "Sotaque britânico?"
+    },
+    {
+      "start": 411.07,
+      "end": 412.57,
+      "timestamp": "06:51",
+      "text": "Ficou bom."
+    },
+    {
+      "start": 412.57,
+      "end": 415.27,
+      "timestamp": "06:52",
+      "text": "Menos massachutes."
+    },
+    {
+      "start": 415.27,
+      "end": 421.14,
+      "timestamp": "06:55",
+      "text": "Uma coisa mais interiorana, exatamente."
+    },
+    {
+      "start": 421.14,
+      "end": 438.27,
+      "timestamp": "07:01",
+      "text": "Chief Information Officer de uma das grandes empresas aí do mercado de cartões, mercado financeiro aqui do Brasil."
+    },
+    {
+      "start": 438.27,
+      "end": 440.52,
+      "timestamp": "07:18",
+      "text": "Maquininha, pô."
+    },
+    {
+      "start": 440.52,
+      "end": 444.43,
+      "timestamp": "07:20",
+      "text": "A famosa maquininha verde."
+    },
+    {
+      "start": 444.43,
+      "end": 447.59,
+      "timestamp": "07:24",
+      "text": "A maquininha do Hulk."
+    },
+    {
+      "start": 447.59,
+      "end": 456.0,
+      "timestamp": "07:27",
+      "text": "Eles tinham que contratar o Hulk como garoto propaganda."
+    },
+    {
+      "start": 456.0,
+      "end": 458.56,
+      "timestamp": "07:36",
+      "text": "Isso é legal, né?"
+    },
+    {
+      "start": 458.56,
+      "end": 461.42,
+      "timestamp": "07:38",
+      "text": "Isso é maneiro, né?"
+    },
+    {
+      "start": 461.42,
+      "end": 463.37,
+      "timestamp": "07:41",
+      "text": "Aguenta tudo."
+    },
+    {
+      "start": 463.37,
+      "end": 466.07,
+      "timestamp": "07:43",
+      "text": "Passe tuas vendas."
+    },
+    {
+      "start": 466.07,
+      "end": 469.68,
+      "timestamp": "07:46",
+      "text": "Ele dando um soco assim."
+    },
+    {
+      "start": 469.68,
+      "end": 471.03,
+      "timestamp": "07:49",
+      "text": "Desconto."
+    },
+    {
+      "start": 471.03,
+      "end": 473.74,
+      "timestamp": "07:51",
+      "text": "Isso é bom demais."
+    },
+    {
+      "start": 473.74,
+      "end": 483.51,
+      "timestamp": "07:53",
+      "text": "Bom, e lembrando que esse podcast é um oferecimento do G4 Skills."
+    },
+    {
+      "start": 483.51,
+      "end": 504.85,
+      "timestamp": "08:03",
+      "text": "Uma plataforma, uma ferramenta que cria uma trilha customizada para você poder treinar aí e acelerar o desenvolvimento dos seus colaboradores."
+    },
+    {
+      "start": 504.85,
+      "end": 532.96,
+      "timestamp": "08:24",
+      "text": "Então a gente vai deixar aí na tela para vocês um QR Code para você que é nosso ouvinte aproveitar aí sete dias de trial grátis para conhecer a plataforma para até 10 pessoas do seu time."
+    },
+    {
+      "start": 532.96,
+      "end": 538.22,
+      "timestamp": "08:52",
+      "text": "Caramba, a galera tá generosa aqui."
+    },
+    {
+      "start": 538.22,
+      "end": 541.37,
+      "timestamp": "08:58",
+      "text": "A galera tá generosa."
+    },
+    {
+      "start": 541.37,
+      "end": 551.29,
+      "timestamp": "09:01",
+      "text": "Então tem o link na descrição, mas aproveita aí o QR Code na tela."
+    },
+    {
+      "start": 551.29,
+      "end": 562.12,
+      "timestamp": "09:11",
+      "text": "E se quiser indicar também para algum amigo seu empreendedor, aproveite."
+    },
+    {
+      "start": 562.12,
+      "end": 570.08,
+      "timestamp": "09:22",
+      "text": "Se quiser vender também, pode vender para ele o link."
+    },
+    {
+      "start": 570.08,
+      "end": 581.65,
+      "timestamp": "09:30",
+      "text": "Pede uns 50 no Pix, manda o link para ele logo na sequência aí que tá barato."
+    },
+    {
+      "start": 581.65,
+      "end": 595.03,
+      "timestamp": "09:41",
+      "text": "Bom, sem mais delongas, eu vou continuar aqui na apresentação do nosso convidado de hoje."
+    },
+    {
+      "start": 595.03,
+      "end": 600.29,
+      "timestamp": "09:55",
+      "text": "O nome já é imponente do convidado."
+    },
+    {
+      "start": 600.29,
+      "end": 601.19,
+      "timestamp": "10:00",
+      "text": "É bom."
+    },
+    {
+      "start": 601.19,
+      "end": 609.61,
+      "timestamp": "10:01",
+      "text": "Já tem um sobrenome que parece que é um bono da LVHM lá."
+    },
+    {
+      "start": 609.61,
+      "end": 611.71,
+      "timestamp": "10:09",
+      "text": "Já não parece?"
+    },
+    {
+      "start": 611.71,
+      "end": 615.62,
+      "timestamp": "10:11",
+      "text": "Parece, parece, é verdade."
+    },
+    {
+      "start": 615.62,
+      "end": 621.33,
+      "timestamp": "10:15",
+      "text": "Tem uma áurea bilionária no nome aqui."
+    },
+    {
+      "start": 621.33,
+      "end": 624.19,
+      "timestamp": "10:21",
+      "text": "Tem algo diferente."
+    },
+    {
+      "start": 624.19,
+      "end": 626.74,
+      "timestamp": "10:24",
+      "text": "Não só áurea, né?"
+    },
+    {
+      "start": 626.74,
+      "end": 631.25,
+      "timestamp": "10:26",
+      "text": "Tem algo diferente nesse nome."
+    },
+    {
+      "start": 631.25,
+      "end": 655.45,
+      "timestamp": "10:31",
+      "text": "Mas antes de chegar no nome, para vocês saberem mais informações do nosso querido convidado, ele é investidor da Yalo Inc, que é a primeira BSP da meta no mundo."
+    },
+    {
+      "start": 655.45,
+      "end": 673.49,
+      "timestamp": "10:55",
+      "text": "É uma empresa de conversation commerce focado na indústria B2B e ele em 2021 ajudou a trazer as operações para o Brasil."
+    },
+    {
+      "start": 673.49,
+      "end": 674.69,
+      "timestamp": "11:13",
+      "text": "Isso aí."
+    },
+    {
+      "start": 674.69,
+      "end": 675.89,
+      "timestamp": "11:14",
+      "text": "Porrada."
+    },
+    {
+      "start": 675.89,
+      "end": 682.5,
+      "timestamp": "11:15",
+      "text": "Eu já vejo muito anúncio deles no Instagram."
+    },
+    {
+      "start": 682.5,
+      "end": 684.61,
+      "timestamp": "11:22",
+      "text": "Muito anúncio."
+    },
+    {
+      "start": 684.61,
+      "end": 691.82,
+      "timestamp": "11:24",
+      "text": "Ele é investidor e consultor de várias startups."
+    },
+    {
+      "start": 691.82,
+      "end": 700.09,
+      "timestamp": "11:31",
+      "text": "Uma das suas áreas no qual ele é bacharelado envolve..."
+    },
+    {
+      "start": 700.09,
+      "end": 713.62,
+      "timestamp": "11:40",
+      "text": "Não, tem mestrado em inteligência artificial, mineração de dados e aprendizado de máquina."
+    },
+    {
+      "start": 713.62,
+      "end": 714.52,
+      "timestamp": "11:53",
+      "text": "Mas..."
+    },
+    {
+      "start": 714.52,
+      "end": 721.13,
+      "timestamp": "11:54",
+      "text": "Pela Universidade Federal de Santa Catarina."
+    },
+    {
+      "start": 721.13,
+      "end": 733.76,
+      "timestamp": "12:01",
+      "text": "Mas a porrada mesmo foi quando ele fundou a Caordic lá em 2009 e vendeu para a Lynx."
+    },
+    {
+      "start": 733.76,
+      "end": 740.07,
+      "timestamp": "12:13",
+      "text": "Acho que foi em 2015, se eu não me engano."
+    },
+    {
+      "start": 740.07,
+      "end": 740.52,
+      "timestamp": "12:20",
+      "text": "18."
+    },
+    {
+      "start": 740.52,
+      "end": 745.33,
+      "timestamp": "12:20",
+      "text": "E cara, ele é um cara engraçado."
+    },
+    {
+      "start": 745.33,
+      "end": 752.39,
+      "timestamp": "12:25",
+      "text": "Porque assim, a nossa história é meio parecida."
+    },
+    {
+      "start": 752.39,
+      "end": 762.16,
+      "timestamp": "12:32",
+      "text": "Ele fez engenharia, daí depois foi estudar na França em Toulouse."
+    },
+    {
+      "start": 762.16,
+      "end": 764.57,
+      "timestamp": "12:42",
+      "text": "Na mesma cidade."
+    },
+    {
+      "start": 764.57,
+      "end": 766.97,
+      "timestamp": "12:44",
+      "text": "Na mesma cidade."
+    },
+    {
+      "start": 766.97,
+      "end": 778.85,
+      "timestamp": "12:46",
+      "text": "Eu fiz engenharia e fui estudar na França em Toulouse um pouquinho depois dele."
+    },
+    {
+      "start": 778.85,
+      "end": 793.88,
+      "timestamp": "12:58",
+      "text": "Olha, eu não sei onde você mora, não sei quais são os seus planos, mas Toulouse deveria estar neles."
+    },
+    {
+      "start": 793.88,
+      "end": 798.53,
+      "timestamp": "13:13",
+      "text": "Porque quem passa lá fica rico."
+    },
+    {
+      "start": 798.53,
+      "end": 808.15,
+      "timestamp": "13:18",
+      "text": "É o terceiro que eu conheço que passou em Toulouse e ficou rico."
+    },
+    {
+      "start": 808.15,
+      "end": 820.33,
+      "timestamp": "13:28",
+      "text": "Então, próximas férias, primeira oportunidade, pegue um avião e vá para Toulouse."
+    },
+    {
+      "start": 820.33,
+      "end": 821.83,
+      "timestamp": "13:40",
+      "text": "Na França."
+    },
+    {
+      "start": 821.83,
+      "end": 823.33,
+      "timestamp": "13:41",
+      "text": "Na França."
+    },
+    {
+      "start": 823.33,
+      "end": 824.69,
+      "timestamp": "13:43",
+      "text": "Isso daí."
+    },
+    {
+      "start": 824.69,
+      "end": 828.74,
+      "timestamp": "13:44",
+      "text": "Fique lá, toque nas coisas."
+    },
+    {
+      "start": 828.74,
+      "end": 830.85,
+      "timestamp": "13:48",
+      "text": "Um avião rosa."
+    },
+    {
+      "start": 830.85,
+      "end": 833.55,
+      "timestamp": "13:50",
+      "text": "Come um croissant."
+    },
+    {
+      "start": 833.55,
+      "end": 837.61,
+      "timestamp": "13:53",
+      "text": "Passe pelo menos sete dias."
+    },
+    {
+      "start": 837.61,
+      "end": 843.17,
+      "timestamp": "13:57",
+      "text": "E aí volte que a sua vida prosperará."
+    },
+    {
+      "start": 843.17,
+      "end": 847.38,
+      "timestamp": "14:03",
+      "text": "Você não apresentou ele, pô."
+    },
+    {
+      "start": 847.38,
+      "end": 860.16,
+      "timestamp": "14:07",
+      "text": "Senhoras e senhores, no Extremos de hoje, diretamente de Santa Catarina, João Bernat."
+    },
+    {
+      "start": 860.16,
+      "end": 861.96,
+      "timestamp": "14:20",
+      "text": "Olha o nome."
+    },
+    {
+      "start": 861.96,
+      "end": 865.27,
+      "timestamp": "14:21",
+      "text": "Muito bem-vindo, João."
+    },
+    {
+      "start": 865.27,
+      "end": 867.37,
+      "timestamp": "14:25",
+      "text": "Valeu, galera."
+    },
+    {
+      "start": 867.37,
+      "end": 870.68,
+      "timestamp": "14:27",
+      "text": "Obrigado pelo convite."
+    },
+    {
+      "start": 870.68,
+      "end": 875.34,
+      "timestamp": "14:30",
+      "text": "João Bernat com dois t's ainda."
+    },
+    {
+      "start": 875.34,
+      "end": 879.09,
+      "timestamp": "14:35",
+      "text": "É nome de bilionário, pô."
+    },
+    {
+      "start": 879.09,
+      "end": 886.61,
+      "timestamp": "14:39",
+      "text": "Questão de tempo ou não, mas é nome de bilionário."
+    },
+    {
+      "start": 886.61,
+      "end": 894.12,
+      "timestamp": "14:46",
+      "text": "Inclusive, esse nome aí eu estava discutindo hoje."
+    },
+    {
+      "start": 894.12,
+      "end": 902.24,
+      "timestamp": "14:54",
+      "text": "Eu tenho que ver aí para conseguir cidadania italiana."
+    },
+    {
+      "start": 902.24,
+      "end": 907.65,
+      "timestamp": "15:02",
+      "text": "Vou ter que mudar, acho que para DT."
+    },
+    {
+      "start": 907.65,
+      "end": 914.11,
+      "timestamp": "15:07",
+      "text": "Porque veio lá quando o meu nono veio da..."
+    },
+    {
+      "start": 914.11,
+      "end": 916.82,
+      "timestamp": "15:14",
+      "text": "Tem que ser igual."
+    },
+    {
+      "start": 916.82,
+      "end": 924.18,
+      "timestamp": "15:16",
+      "text": "Vai ter que ser igual, vou ter que mudar isso aí."
+    },
+    {
+      "start": 924.18,
+      "end": 931.85,
+      "timestamp": "15:24",
+      "text": "Então, você gostou, mas vou ter que mudar, eu acho."
+    },
+    {
+      "start": 931.85,
+      "end": 933.95,
+      "timestamp": "15:31",
+      "text": "É uma lástima."
+    },
+    {
+      "start": 933.95,
+      "end": 941.47,
+      "timestamp": "15:33",
+      "text": "Mas eu acho que você não precisa mudar, não, cara."
+    },
+    {
+      "start": 941.47,
+      "end": 951.99,
+      "timestamp": "15:41",
+      "text": "Eu acho que você precisa mudar o documento de quando ele veio para cá."
+    },
+    {
+      "start": 951.99,
+      "end": 955.15,
+      "timestamp": "15:51",
+      "text": "E fazer uma paridade."
+    },
+    {
+      "start": 955.15,
+      "end": 959.95,
+      "timestamp": "15:55",
+      "text": "O Bernard DT virou o Bernard TT."
+    },
+    {
+      "start": 959.95,
+      "end": 962.51,
+      "timestamp": "15:59",
+      "text": "O TT, exatamente."
+    },
+    {
+      "start": 962.51,
+      "end": 968.37,
+      "timestamp": "16:02",
+      "text": "Ou na dumba construir para conseguir..."
+    },
+    {
+      "start": 968.37,
+      "end": 971.38,
+      "timestamp": "16:08",
+      "text": "É, pô, eu tenho, pô."
+    },
+    {
+      "start": 971.38,
+      "end": 978.89,
+      "timestamp": "16:11",
+      "text": "Eu tenho, da minha família foi mais difícil, cara."
+    },
+    {
+      "start": 978.89,
+      "end": 991.07,
+      "timestamp": "16:18",
+      "text": "Nessa semana que ele fica cuidando do filho dele, ele fica estudando os sistemas."
+    },
+    {
+      "start": 991.07,
+      "end": 1001.74,
+      "timestamp": "16:31",
+      "text": "Que eu fico muito tranquilo, assim, que pobre a gente não morre, bicho."
+    },
+    {
+      "start": 1001.74,
+      "end": 1002.49,
+      "timestamp": "16:41",
+      "text": "Amém."
+    },
+    {
+      "start": 1002.49,
+      "end": 1010.45,
+      "timestamp": "16:42",
+      "text": "Tem muita coisa para fazer de negócio com o bichinho."
+    },
+    {
+      "start": 1010.45,
+      "end": 1014.06,
+      "timestamp": "16:50",
+      "text": "O bichinho entende tudo."
+    },
+    {
+      "start": 1014.06,
+      "end": 1016.17,
+      "timestamp": "16:54",
+      "text": "Vai lá, manda."
+    },
+    {
+      "start": 1016.17,
+      "end": 1020.68,
+      "timestamp": "16:56",
+      "text": "Bom, vamos começar, Joãozinho?"
+    },
+    {
+      "start": 1020.68,
+      "end": 1026.84,
+      "timestamp": "17:00",
+      "text": "Você é mais conhecido como Joãozinho, né?"
+    },
+    {
+      "start": 1026.84,
+      "end": 1031.5,
+      "timestamp": "17:06",
+      "text": "Muita gente me chama Joãozinho."
+    },
+    {
+      "start": 1031.5,
+      "end": 1035.25,
+      "timestamp": "17:11",
+      "text": "Radicar o como Joãozinho."
+    },
+    {
+      "start": 1035.25,
+      "end": 1040.36,
+      "timestamp": "17:15",
+      "text": "João, vamos chamar de Little John."
+    },
+    {
+      "start": 1040.36,
+      "end": 1047.88,
+      "timestamp": "17:20",
+      "text": "Cara, qual foi o momento mais extremo na sua vida?"
+    },
+    {
+      "start": 1047.88,
+      "end": 1051.34,
+      "timestamp": "17:27",
+      "text": "Quantos anos você está?"
+    },
+    {
+      "start": 1051.34,
+      "end": 1053.29,
+      "timestamp": "17:31",
+      "text": "Estou com 43."
+    },
+    {
+      "start": 1053.29,
+      "end": 1066.07,
+      "timestamp": "17:33",
+      "text": "Com 43 anos, qual foi, assim, o momento no esporte, na família, numa doença, na vida?"
+    },
+    {
+      "start": 1066.07,
+      "end": 1068.47,
+      "timestamp": "17:46",
+      "text": "No profissional."
+    },
+    {
+      "start": 1068.47,
+      "end": 1073.73,
+      "timestamp": "17:48",
+      "text": "Mais extremo, acho que dos dois aí."
+    },
+    {
+      "start": 1073.73,
+      "end": 1083.95,
+      "timestamp": "17:53",
+      "text": "O extremo profissional e o extremo pessoal que você já viveu, assim."
+    },
+    {
+      "start": 1083.95,
+      "end": 1100.33,
+      "timestamp": "18:03",
+      "text": "Cara, eu acho que tem um momento extremo que foi mais recente, que foi, acho que na gravidez da minha esposa."
+    },
+    {
+      "start": 1100.33,
+      "end": 1114.76,
+      "timestamp": "18:20",
+      "text": "Essa última gravidez foi um momento extremo, porque ela estava com uma gravidez meio complicada."
+    },
+    {
+      "start": 1114.76,
+      "end": 1122.73,
+      "timestamp": "18:34",
+      "text": "A gente estava no meio da pandemia, imagina, em 2020."
+    },
+    {
+      "start": 1122.73,
+      "end": 1126.79,
+      "timestamp": "18:42",
+      "text": "Aquele medo de sair na rua."
+    },
+    {
+      "start": 1126.79,
+      "end": 1141.97,
+      "timestamp": "18:46",
+      "text": "E minha esposa acabou, ela tinha uma condição específica ali da questão e, enfim, foi bem complicado."
+    },
+    {
+      "start": 1141.97,
+      "end": 1168.87,
+      "timestamp": "19:01",
+      "text": "E a gente pensa em uma série de aspectos da vida, assim, quando essas coisas chegam perto da gente, daquilo que realmente importa, daquilo que a gente realmente precisa valorizar."
+    },
+    {
+      "start": 1168.87,
+      "end": 1195.92,
+      "timestamp": "19:28",
+      "text": "Mas deu tudo certo, não aconteceu nada, graças a Deus, mas acho que foram momentos super difíceis que, enfim, me fizeram pensar em um monte de coisa sobre a vida e sobre tudo mais."
+    },
+    {
+      "start": 1195.92,
+      "end": 1196.97,
+      "timestamp": "19:55",
+      "text": "Animal."
+    },
+    {
+      "start": 1196.97,
+      "end": 1204.79,
+      "timestamp": "19:56",
+      "text": "O que foi uma das coisas que você pensou sobre isso?"
+    },
+    {
+      "start": 1204.79,
+      "end": 1207.2,
+      "timestamp": "20:04",
+      "text": "Cara, eu acho..."
+    },
+    {
+      "start": 1207.2,
+      "end": 1208.85,
+      "timestamp": "20:07",
+      "text": "Você mudou?"
+    },
+    {
+      "start": 1208.85,
+      "end": 1220.72,
+      "timestamp": "20:08",
+      "text": "Uma das coisas que se tornou acionável depois que você passou por esse momento."
+    },
+    {
+      "start": 1220.72,
+      "end": 1233.95,
+      "timestamp": "20:20",
+      "text": "Eu acho que a gente precisa viver o presente\n\nDVD, essas coisas, a gente começou por lá."
+    },
+    {
+      "start": 1233.95,
+      "end": 1238.16,
+      "timestamp": "20:33",
+      "text": "Essa era muito grande nisso."
+    },
+    {
+      "start": 1238.16,
+      "end": 1245.97,
+      "timestamp": "20:38",
+      "text": "E a gente já sabia fazer recomendação de filmes, né?"
+    },
+    {
+      "start": 1245.97,
+      "end": 1251.98,
+      "timestamp": "20:45",
+      "text": "Então a gente nasceu ali na Netflix, né?"
+    },
+    {
+      "start": 1251.98,
+      "end": 1257.7,
+      "timestamp": "20:51",
+      "text": "Então era meio que um caminho natural."
+    },
+    {
+      "start": 1257.7,
+      "end": 1271.82,
+      "timestamp": "20:57",
+      "text": "E cara, a gente começou, cara,\naumentou a conversão da categoria, assim,\nmuito fácil de notar."
+    },
+    {
+      "start": 1271.82,
+      "end": 1277.99,
+      "timestamp": "21:11",
+      "text": "Você não precisava nem de um teste a ver."
+    },
+    {
+      "start": 1277.99,
+      "end": 1281.29,
+      "timestamp": "21:17",
+      "text": "Era step, assim, sabe?"
+    },
+    {
+      "start": 1281.29,
+      "end": 1282.95,
+      "timestamp": "21:21",
+      "text": "Curva step."
+    },
+    {
+      "start": 1282.95,
+      "end": 1285.2,
+      "timestamp": "21:22",
+      "text": "Step change, é."
+    },
+    {
+      "start": 1285.2,
+      "end": 1286.85,
+      "timestamp": "21:25",
+      "text": "Exatamente."
+    },
+    {
+      "start": 1286.85,
+      "end": 1301.13,
+      "timestamp": "21:26",
+      "text": "E aí o problema foi que ele falou assim,\nnão, porra, do cacete,\nvamos para todas as categorias."
+    },
+    {
+      "start": 1301.13,
+      "end": 1331.04,
+      "timestamp": "21:41",
+      "text": "A gente falou, cara, a gente não tinha habilidade,\nassim, computacionalmente,\nconseguir gerar as recomendações para livros,\nque a quantidade de livros era enorme,\na gente não conseguia naquela época."
+    },
+    {
+      "start": 1331.04,
+      "end": 1337.35,
+      "timestamp": "22:11",
+      "text": "Então eu me lembro da gente virando noite."
+    },
+    {
+      "start": 1337.35,
+      "end": 1342.01,
+      "timestamp": "22:17",
+      "text": "Quantos vocês eram nessa época?"
+    },
+    {
+      "start": 1342.01,
+      "end": 1349.38,
+      "timestamp": "22:22",
+      "text": "Ah, nessa época nós éramos uns 20, mais ou menos."
+    },
+    {
+      "start": 1349.38,
+      "end": 1360.5,
+      "timestamp": "22:29",
+      "text": "E vocês tinham pegado investimento de alguém\nou vocês foram bootstrapping?"
+    },
+    {
+      "start": 1360.5,
+      "end": 1381.99,
+      "timestamp": "22:40",
+      "text": "Bootstrapping, até consegui a Sarayva foi bootstrapping,\nmas o cara que viria a ser nosso investidor\nfoi comigo na primeira reunião da Sarayva."
+    },
+    {
+      "start": 1381.99,
+      "end": 1399.88,
+      "timestamp": "23:01",
+      "text": "Foi ele que abriu as portas, mas ele estava só assim,\nah, vamos ver se esses caras vão chegar em algum lugar, entendeu?"
+    },
+    {
+      "start": 1399.88,
+      "end": 1401.53,
+      "timestamp": "23:19",
+      "text": "Aí só na..."
+    },
+    {
+      "start": 1401.53,
+      "end": 1405.74,
+      "timestamp": "23:21",
+      "text": "Pediu um descontinho depois."
+    },
+    {
+      "start": 1405.74,
+      "end": 1409.35,
+      "timestamp": "23:25",
+      "text": "Não, mas eu ajudo vocês."
+    },
+    {
+      "start": 1409.35,
+      "end": 1413.7,
+      "timestamp": "23:29",
+      "text": "Vamos lá junto com a Sarayva."
+    },
+    {
+      "start": 1413.7,
+      "end": 1419.87,
+      "timestamp": "23:33",
+      "text": "Pediu um descontinho pela Sarayva, pediu."
+    },
+    {
+      "start": 1419.87,
+      "end": 1421.82,
+      "timestamp": "23:39",
+      "text": "Pediu, pediu."
+    },
+    {
+      "start": 1421.82,
+      "end": 1435.2,
+      "timestamp": "23:41",
+      "text": "E deixou eu saber, você empreendeu antes disso\nou esse foi o seu primeiro empreendimento?"
+    },
+    {
+      "start": 1435.2,
+      "end": 1441.06,
+      "timestamp": "23:55",
+      "text": "Eu tive uma empresa de café antes de..."
+    },
+    {
+      "start": 1441.06,
+      "end": 1445.42,
+      "timestamp": "24:01",
+      "text": "CPC também, Custo Por Clique."
+    },
+    {
+      "start": 1445.42,
+      "end": 1459.55,
+      "timestamp": "24:05",
+      "text": "Sabe aquelas máquinas automáticas que você vai clicando\ne vem um café expresso, não sei o quê?"
+    },
+    {
+      "start": 1459.55,
+      "end": 1475.33,
+      "timestamp": "24:19",
+      "text": "Eu trabalhava num lugar lá em Floripa\ne eu não gosto muito de tomar café passado,\nme dá um pouco de azio."
+    },
+    {
+      "start": 1475.33,
+      "end": 1488.55,
+      "timestamp": "24:35",
+      "text": "Aí eu falei, porra, podia ter uma máquina de café expresso,\naquelas automáticas com chá."
+    },
+    {
+      "start": 1488.55,
+      "end": 1494.11,
+      "timestamp": "24:48",
+      "text": "Isso quando você estava na faculdade?"
+    },
+    {
+      "start": 1494.11,
+      "end": 1496.07,
+      "timestamp": "24:54",
+      "text": "Faculdade, é."
+    },
+    {
+      "start": 1496.07,
+      "end": 1500.58,
+      "timestamp": "24:56",
+      "text": "Ou você já estava no mestrado?"
+    },
+    {
+      "start": 1500.58,
+      "end": 1504.79,
+      "timestamp": "25:00",
+      "text": "Eu não lembro agora, Nardão."
+    },
+    {
+      "start": 1504.79,
+      "end": 1507.49,
+      "timestamp": "25:04",
+      "text": "Não, mas tudo bem."
+    },
+    {
+      "start": 1507.49,
+      "end": 1514.86,
+      "timestamp": "25:07",
+      "text": "Eu acho que foi na transição entre me formar e..."
+    },
+    {
+      "start": 1514.86,
+      "end": 1522.52,
+      "timestamp": "25:14",
+      "text": "Então você já tinha isso na tua veia empreendedora?"
+    },
+    {
+      "start": 1522.52,
+      "end": 1529.28,
+      "timestamp": "25:22",
+      "text": "Você já sabia que queria seguir esse caminho?"
+    },
+    {
+      "start": 1529.28,
+      "end": 1560.4,
+      "timestamp": "25:29",
+      "text": "Eu fui da empresa Júnior, putz, acho que na primeira ou segunda fase\neu era o presidente da empresa Júnior lá de controle de automação,\noutro Júnior, então sempre estava envolvido com alguma coisa do gênero."
+    },
+    {
+      "start": 1560.4,
+      "end": 1573.62,
+      "timestamp": "26:00",
+      "text": "Mas a empresa de café é uma empresa que eu acabei vendendo\ndepois da Caótica, inclusive."
+    },
+    {
+      "start": 1573.62,
+      "end": 1606.69,
+      "timestamp": "26:13",
+      "text": "A empresa foi fundada antes e acabou sendo, assim,\nacho que em 2019 foi quando eu peguei o meu sabático lá\nque eu acabei vendendo, porque, enfim,\na gente não dedicava tempo nem eu nem outro sócio\ne a gente acabou, enfim."
+    },
+    {
+      "start": 1606.69,
+      "end": 1627.13,
+      "timestamp": "26:46",
+      "text": "E daí então, vocês colocaram a Saraiva para dentro,\nestavam com 20 pessoas já e o negócio estava dando lucro ou não\nna época da Caótica?"
+    },
+    {
+      "start": 1627.13,
+      "end": 1630.74,
+      "timestamp": "27:07",
+      "text": "Não, para a Saraiva não."
+    },
+    {
+      "start": 1630.74,
+      "end": 1649.07,
+      "timestamp": "27:10",
+      "text": "Porque a gente estava com bootstrapping, dinheiro meu e do Bosco\ne colocando, enfim, todas as nossas reservas no business."
+    },
+    {
+      "start": 1649.07,
+      "end": 1662.15,
+      "timestamp": "27:29",
+      "text": "E uma coisa que foi interessante também, assim, em extremos,\nque vocês estavam falando."
+    },
+    {
+      "start": 1662.15,
+      "end": 1667.11,
+      "timestamp": "27:42",
+      "text": "Cara, eu saí do meu trabalho, tá?"
+    },
+    {
+      "start": 1667.11,
+      "end": 1681.54,
+      "timestamp": "27:47",
+      "text": "Ah, não, peraí, tem um aspecto importante que eu estou me lembrando\nde onde veio o dinheiro, né?"
+    },
+    {
+      "start": 1681.54,
+      "end": 1691.16,
+      "timestamp": "28:01",
+      "text": "Teve um dinheiro meu e do Bosco, mas a gente também conseguiu..."
+    },
+    {
+      "start": 1691.16,
+      "end": 1699.72,
+      "timestamp": "28:11",
+      "text": "Tinha muito incentivo a fomento e inovação naquela época."
+    },
+    {
+      "start": 1699.72,
+      "end": 1710.84,
+      "timestamp": "28:19",
+      "text": "Então a gente conseguiu três editais de fomento e inovação\nque ajudaram..."
+    },
+    {
+      "start": 1710.84,
+      "end": 1713.25,
+      "timestamp": "28:30",
+      "text": "A fundo perdido."
+    },
+    {
+      "start": 1713.25,
+      "end": 1715.65,
+      "timestamp": "28:33",
+      "text": "A fundo perdido."
+    },
+    {
+      "start": 1715.65,
+      "end": 1720.16,
+      "timestamp": "28:35",
+      "text": "Finep, CNPq, essas coisas, né?"
+    },
+    {
+      "start": 1720.16,
+      "end": 1738.35,
+      "timestamp": "28:40",
+      "text": "Então esses três deram, digamos assim, um start\npara a gente conseguir operar naquele ano 2010 inteiro\nsem ter nada de..."
+    },
+    {
+      "start": 1738.35,
+      "end": 1743.91,
+      "timestamp": "28:58",
+      "text": "E mais o dinheiro meu e do Bosco, né?"
+    },
+    {
+      "start": 1743.91,
+      "end": 1749.77,
+      "timestamp": "29:03",
+      "text": "Então eu acabei saindo do meu trabalho."
+    },
+    {
+      "start": 1749.77,
+      "end": 1766.0,
+      "timestamp": "29:09",
+      "text": "Um pouquinho antes disso, a minha esposa veio morar comigo,\nela morava no Rio, carioca, aí a conterrânea aí."
+    },
+    {
+      "start": 1766.0,
+      "end": 1776.37,
+      "timestamp": "29:26",
+      "text": "E aí ela veio morar comigo, só que ela não estava com emprego também."
+    },
+    {
+      "start": 1776.37,
+      "end": 1786.29,
+      "timestamp": "29:36",
+      "text": "O cara, para casar com um carioca, tem que ser muito bom de lábia."
+    },
+    {
+      "start": 1786.29,
+      "end": 1790.95,
+      "timestamp": "29:46",
+      "text": "Você vê, a gente teve que ir..."
+    },
+    {
+      "start": 1790.95,
+      "end": 1798.92,
+      "timestamp": "29:50",
+      "text": "Muito bom de lábia, porque os cariocas são marrentos."
+    },
+    {
+      "start": 1798.92,
+      "end": 1810.94,
+      "timestamp": "29:58",
+      "text": "Você acha que ele só era comercial, só, para fechar o dia de negócio, meu amigo?"
+    },
+    {
+      "start": 1810.94,
+      "end": 1815.3,
+      "timestamp": "30:10",
+      "text": "Teve que ser muito preditivo."
+    },
+    {
+      "start": 1815.3,
+      "end": 1826.12,
+      "timestamp": "30:15",
+      "text": "Então a gente conseguiu esse dinheiro, que foi fundamental para a gente."
+    },
+    {
+      "start": 1826.12,
+      "end": 1845.66,
+      "timestamp": "30:26",
+      "text": "E putz, eu estava com a Rafa sustentando eu e ela,\ne assim, com menos da metade do dinheiro que eu tinha quando eu vivia solteiro."
+    },
+    {
+      "start": 1845.66,
+      "end": 1851.22,
+      "timestamp": "30:45",
+      "text": "Mas assim, por mais que tenha sido..."
+    },
+    {
+      "start": 1851.22,
+      "end": 1860.84,
+      "timestamp": "30:51",
+      "text": "A gente teve que apertar as contas, assim, era divertido também."
+    },
+    {
+      "start": 1860.84,
+      "end": 1872.57,
+      "timestamp": "31:00",
+      "text": "Então assim, porra, início de namoro, início de casamento, tudo era maravilha."
+    },
+    {
+      "start": 1872.57,
+      "end": 1878.28,
+      "timestamp": "31:12",
+      "text": "A gente não tinha nenhuma dificuldade."
+    },
+    {
+      "start": 1878.28,
+      "end": 1880.83,
+      "timestamp": "31:18",
+      "text": "Você tinha o quê?"
+    },
+    {
+      "start": 1880.83,
+      "end": 1882.03,
+      "timestamp": "31:20",
+      "text": "29 anos?"
+    },
+    {
+      "start": 1882.03,
+      "end": 1883.09,
+      "timestamp": "31:22",
+      "text": "28, 29?"
+    },
+    {
+      "start": 1883.09,
+      "end": 1884.74,
+      "timestamp": "31:23",
+      "text": "Eu tinha..."
+    },
+    {
+      "start": 1884.74,
+      "end": 1885.79,
+      "timestamp": "31:24",
+      "text": "Ah, 29."
+    },
+    {
+      "start": 1885.79,
+      "end": 1886.69,
+      "timestamp": "31:25",
+      "text": "Legal."
+    },
+    {
+      "start": 1886.69,
+      "end": 1887.75,
+      "timestamp": "31:26",
+      "text": "29, 28."
+    },
+    {
+      "start": 1887.75,
+      "end": 1898.87,
+      "timestamp": "31:27",
+      "text": "E daí, de fechar a Saraiva, para fechar o segundo cliente, como é que foi?"
+    },
+    {
+      "start": 1898.87,
+      "end": 1914.65,
+      "timestamp": "31:38",
+      "text": "Aí foi tudo muito rápido, Nardom, porque daí a gente fechou a Saraiva\ne saiu uma reportagem na Exame, tá?"
+    },
+    {
+      "start": 1914.65,
+      "end": 1918.71,
+      "timestamp": "31:54",
+      "text": "Na Exame Principal, no PME."
+    },
+    {
+      "start": 1918.71,
+      "end": 1927.88,
+      "timestamp": "31:58",
+      "text": "Numa época que as revistas ainda eram super compradas, assim."
+    },
+    {
+      "start": 1927.88,
+      "end": 1933.14,
+      "timestamp": "32:07",
+      "text": "Era o principal canal, assim, de..."
+    },
+    {
+      "start": 1933.14,
+      "end": 1936.74,
+      "timestamp": "32:13",
+      "text": "A Sena Exame era o laço."
+    },
+    {
+      "start": 1936.74,
+      "end": 1939.15,
+      "timestamp": "32:16",
+      "text": "E foram assim..."
+    },
+    {
+      "start": 1939.15,
+      "end": 1940.65,
+      "timestamp": "32:19",
+      "text": "Pégne foi."
+    },
+    {
+      "start": 1940.65,
+      "end": 1942.45,
+      "timestamp": "32:20",
+      "text": "Pégne era..."
+    },
+    {
+      "start": 1942.45,
+      "end": 1948.77,
+      "timestamp": "32:22",
+      "text": "É, e foram três páginas e meia de matéria."
+    },
+    {
+      "start": 1948.77,
+      "end": 1958.84,
+      "timestamp": "32:28",
+      "text": "Putz, a gente lá na capa, a gente nem tinha um lugar direito, cara."
+    },
+    {
+      "start": 1958.84,
+      "end": 1967.4,
+      "timestamp": "32:38",
+      "text": "A gente teve que tirar a foto num hall ali da incubadora."
+    },
+    {
+      "start": 1967.4,
+      "end": 1970.11,
+      "timestamp": "32:47",
+      "text": "Eu também conheço."
+    },
+    {
+      "start": 1970.11,
+      "end": 1977.77,
+      "timestamp": "32:50",
+      "text": "Não dava para tirar foto numa nossa sala, entendeu?"
+    },
+    {
+      "start": 1977.77,
+      "end": 1987.24,
+      "timestamp": "32:57",
+      "text": "A gente foi num lugar mais bonitinho para tirar foto, eu gosto."
+    },
+    {
+      "start": 1987.24,
+      "end": 1992.05,
+      "timestamp": "33:07",
+      "text": "Eu fui na escada do restaurante."
+    },
+    {
+      "start": 1992.05,
+      "end": 1994.91,
+      "timestamp": "33:12",
+      "text": "A gente foi também."
+    },
+    {
+      "start": 1994.91,
+      "end": 2002.87,
+      "timestamp": "33:14",
+      "text": "Porque era um sobrado, não era um andar só, entendeu?"
+    },
+    {
+      "start": 2002.87,
+      "end": 2006.18,
+      "timestamp": "33:22",
+      "text": "Era o histórico maior."
+    },
+    {
+      "start": 2006.18,
+      "end": 2015.65,
+      "timestamp": "33:26",
+      "text": "Ele bateu a foto na escada para parecer que tinha dois andares."
+    },
+    {
+      "start": 2015.65,
+      "end": 2027.22,
+      "timestamp": "33:35",
+      "text": "Aí essa foto, assim, que a gente tirou no hall da incubadora, puta, grandona."
+    },
+    {
+      "start": 2027.22,
+      "end": 2044.36,
+      "timestamp": "33:47",
+      "text": "Aí na segunda página estava o pessoal do Buscapé e na última página estava o pessoal da Saraiva, o CEO da Saraiva."
+    },
+    {
+      "start": 2044.36,
+      "end": 2045.26,
+      "timestamp": "34:04",
+      "text": "Legal."
+    },
+    {
+      "start": 2045.26,
+      "end": 2050.37,
+      "timestamp": "34:05",
+      "text": "Então, assim, foi super legal, né?"
+    },
+    {
+      "start": 2050.37,
+      "end": 2056.83,
+      "timestamp": "34:10",
+      "text": "E acho que isso trouxe uma certa confiança."
+    },
+    {
+      "start": 2056.83,
+      "end": 2060.89,
+      "timestamp": "34:16",
+      "text": "Ah, e o que foi comunicado?"
+    },
+    {
+      "start": 2060.89,
+      "end": 2066.6,
+      "timestamp": "34:20",
+      "text": "Acho que isso é um aspecto importante."
+    },
+    {
+      "start": 2066.6,
+      "end": 2074.42,
+      "timestamp": "34:26",
+      "text": "A gente conseguiu resolver o problema lá dos livros."
+    },
+    {
+      "start": 2074.42,
+      "end": 2090.8,
+      "timestamp": "34:34",
+      "text": "A gente entrou em todas as categorias e a gente aumentou a taxa de conversão do site em mais de dois dígitos."
+    },
+    {
+      "start": 2090.8,
+      "end": 2095.61,
+      "timestamp": "34:50",
+      "text": "Então foi assim, foi muito alto."
+    },
+    {
+      "start": 2095.61,
+      "end": 2107.33,
+      "timestamp": "34:55",
+      "text": "E aí saiu, todos esses resultados saíram pela voz da própria Saraiva na Exame."
+    },
+    {
+      "start": 2107.33,
+      "end": 2127.92,
+      "timestamp": "35:07",
+      "text": "Então era o cliente falando da gente, do impacto brutal que a gente tinha colocado de uma tecnologia que não existia no Brasil até então."
+    },
+    {
+      "start": 2127.92,
+      "end": 2137.09,
+      "timestamp": "35:27",
+      "text": "E que era nada mais nada menos do que a Amazon fazia lá fora."
+    },
+    {
+      "start": 2137.09,
+      "end": 2140.4,
+      "timestamp": "35:37",
+      "text": "Aí, cara, foi assim..."
+    },
+    {
+      "start": 2140.4,
+      "end": 2143.85,
+      "timestamp": "35:40",
+      "text": "Vamos tirar os pedidos."
+    },
+    {
+      "start": 2143.85,
+      "end": 2160.69,
+      "timestamp": "35:43",
+      "text": "E não tinha ninguém competindo com a gente no Brasil também, que era um outro aspecto também que o timing era..."
+    },
+    {
+      "start": 2160.69,
+      "end": 2167.45,
+      "timestamp": "36:00",
+      "text": "Demora até construir esse tipo de tecnologia."
+    },
+    {
+      "start": 2167.45,
+      "end": 2181.43,
+      "timestamp": "36:07",
+      "text": "Até surgiu um outro cara, mas quando vinha para um challenge era difícil competir, assim, né?"
+    },
+    {
+      "start": 2181.43,
+      "end": 2190.45,
+      "timestamp": "36:21",
+      "text": "Teve até um cara do Sul também, de Santa Catarina, Zim, Zig."
+    },
+    {
+      "start": 2190.45,
+      "end": 2192.1,
+      "timestamp": "36:30",
+      "text": "Não lembro."
+    },
+    {
+      "start": 2192.1,
+      "end": 2194.5,
+      "timestamp": "36:32",
+      "text": "Teve a Nimu, né?"
+    },
+    {
+      "start": 2194.5,
+      "end": 2204.27,
+      "timestamp": "36:34",
+      "text": "Teve a Nimu, acho que foi em 2014, em termos de recomendação, né?"
+    },
+    {
+      "start": 2204.27,
+      "end": 2217.8,
+      "timestamp": "36:44",
+      "text": "Teve uns caras de Curitiba que eu fui até visitar que eu investi, o sistema era bem legal."
+    },
+    {
+      "start": 2217.8,
+      "end": 2222.46,
+      "timestamp": "36:57",
+      "text": "Mas era isso, vocês chegaram..."
+    },
+    {
+      "start": 2222.46,
+      "end": 2226.07,
+      "timestamp": "37:02",
+      "text": "Mas daí em 2010, 2011..."
+    },
+    {
+      "start": 2226.07,
+      "end": 2231.48,
+      "timestamp": "37:06",
+      "text": "Aí foi assim, cara, a gente pegou..."
+    },
+    {
+      "start": 2231.48,
+      "end": 2245.91,
+      "timestamp": "37:11",
+      "text": "O trabalho de integração do e-commerce grande e do e-commerce pequeno era mais ou menos o mesmo."
+    },
+    {
+      "start": 2245.91,
+      "end": 2252.67,
+      "timestamp": "37:25",
+      "text": "E o impacto era muito mais visível no grande."
+    },
+    {
+      "start": 2252.67,
+      "end": 2266.35,
+      "timestamp": "37:32",
+      "text": "Cara, a gente olhou de cima para baixo, cara, quais são os 100 maiores e-commerces do país?"
+    },
+    {
+      "start": 2266.35,
+      "end": 2273.56,
+      "timestamp": "37:46",
+      "text": "Vamos olhar para esses caras e vamos pegar eles."
+    },
+    {
+      "start": 2273.56,
+      "end": 2277.02,
+      "timestamp": "37:53",
+      "text": "Então a ideia era essa."
+    },
+    {
+      "start": 2277.02,
+      "end": 2287.39,
+      "timestamp": "37:57",
+      "text": "Isso só com o produto de recomendação na página de produto e na home."
+    },
+    {
+      "start": 2287.39,
+      "end": 2291.9,
+      "timestamp": "38:07",
+      "text": "Vocês não tinham search ainda."
+    },
+    {
+      "start": 2291.9,
+      "end": 2302.72,
+      "timestamp": "38:11",
+      "text": "Não tinha search, mas a gente tinha recomendação da home até o checkout."
+    },
+    {
+      "start": 2302.72,
+      "end": 2306.63,
+      "timestamp": "38:22",
+      "text": "Tinha em todas as páginas."
+    },
+    {
+      "start": 2306.63,
+      "end": 2313.69,
+      "timestamp": "38:26",
+      "text": "Nem todo mundo ligava, aí era toda a discussão."
+    },
+    {
+      "start": 2313.69,
+      "end": 2332.18,
+      "timestamp": "38:33",
+      "text": "Tipo, poucos lugares, não é porque o Nardom está aqui, mas assim, poucos lugares tinham caras mais analíticos ali no e-com."
+    },
+    {
+      "start": 2332.18,
+      "end": 2339.54,
+      "timestamp": "38:52",
+      "text": "Se tinha uma galera que estava mais acostumada..."
+    },
+    {
+      "start": 2339.54,
+      "end": 2346.31,
+      "timestamp": "38:59",
+      "text": "O e-commerce começou com muito marketing, né?"
+    },
+    {
+      "start": 2346.31,
+      "end": 2349.76,
+      "timestamp": "39:06",
+      "text": "Muito marketing, exato."
+    },
+    {
+      "start": 2349.76,
+      "end": 2354.57,
+      "timestamp": "39:09",
+      "text": "Muito profissional de marketing."
+    },
+    {
+      "start": 2354.57,
+      "end": 2362.99,
+      "timestamp": "39:14",
+      "text": "Então não era muito data-driven os processos decisórios."
+    },
+    {
+      "start": 2362.99,
+      "end": 2368.55,
+      "timestamp": "39:22",
+      "text": "Cabe embaixo do marketing e-commerce."
+    },
+    {
+      "start": 2368.55,
+      "end": 2385.23,
+      "timestamp": "39:28",
+      "text": "Só que, putz, na galera, por exemplo, da Rocket, você encontrava um bando de engenheiro lá tocando a companhia."
+    },
+    {
+      "start": 2385.23,
+      "end": 2390.79,
+      "timestamp": "39:45",
+      "text": "E aí a galera era bem mais analítica."
+    },
+    {
+      "start": 2390.79,
+      "end": 2400.26,
+      "timestamp": "39:50",
+      "text": "Então em todas, não era só na Canoe, porra, Tricay, todas elas."
+    },
+    {
+      "start": 2400.26,
+      "end": 2401.92,
+      "timestamp": "40:00",
+      "text": "Mobley, né?"
+    },
+    {
+      "start": 2401.92,
+      "end": 2404.02,
+      "timestamp": "40:01",
+      "text": "Mobley, porra."
+    },
+    {
+      "start": 2404.02,
+      "end": 2407.03,
+      "timestamp": "40:04",
+      "text": "Porradaria cesarean."
+    },
+    {
+      "start": 2407.03,
+      "end": 2407.93,
+      "timestamp": "40:07",
+      "text": "Todos."
+    },
+    {
+      "start": 2407.93,
+      "end": 2417.4,
+      "timestamp": "40:07",
+      "text": "Eram muito engenheiros e a galera fazia conta, via o resultado."
+    },
+    {
+      "start": 2417.4,
+      "end": 2450.76,
+      "timestamp": "40:17",
+      "text": "Aí era muito mais\n\nconhece bem e toda essa jornada era vista por canal, você não conseguia algum sistema que endereçasse isso num pedido com múltiplas fontes de fulfillment e múltiplas formas de você gerir e traquear isso."
+    },
+    {
+      "start": 2450.76,
+      "end": 2662.83,
+      "timestamp": "40:50",
+      "text": "A gente uma vez foi o nosso sistema lá na Canoo era baseado no Magento, lá atrás, a gente pegou o open source muito ruim, foi mal mas ele era muito open source mas era uma bosta o Magento, era uma bosta o Magento e daí a gente começou a fazer os nossos forks fazer os nossos códigos em cima então todo o sistema de order system, uma vez a gente imprimiu ele para a gente conseguir acompanhar exatamente isso, de onde veio, para onde vai, onde estão os ciclos fechados, cara a gente imprimiu o negócio, você não tem noção, foi uma parede inteira, uma fonte desse tamanho para a gente saber todos os ciclos, de onde vem, para onde vai, lembra até hoje, a parede inteira assim da Canoo, isso daqui assim, imprimia um A4zão e ia colando um do lado do outro, cara isso é vital para o varejo, absolutamente vital ainda mais uma perspectiva humanitiana, se você não endereça isso de uma maneira sistêmica, você não consegue aproveitar uma porrada de benefícios que você poderia ter, então esse produto foi feito foi colocado na Centauro, a guerra do digital foi em cima do MS, foi, foi, foi, foi em cima disso, foi porque mexia no transacional, um não dava o dado para o outro, até hoje a gente não conseguiu integrar ainda direito lá o MS com o checkout lá na Vitex várias discussões com o Geraldo, super engraçado, mas enfim, mas cara foi legal porque deu para fazer esse produto, e você tinha dois anos de earn out?"
+    },
+    {
+      "start": 2662.83,
+      "end": 2671.1,
+      "timestamp": "44:22",
+      "text": "Tinha dois anos de earn out, e você ficou dois anos lá?"
+    },
+    {
+      "start": 2671.1,
+      "end": 2679.67,
+      "timestamp": "44:31",
+      "text": "Fiquei, fiquei os dois anos, e ganhou o earn out inteiro?"
+    },
+    {
+      "start": 2679.67,
+      "end": 2693.79,
+      "timestamp": "44:39",
+      "text": "Ganhei o earn out praticamente inteiro, não inteiro, inteiro, mas e daí como é que foi depois?"
+    },
+    {
+      "start": 2693.79,
+      "end": 2713.48,
+      "timestamp": "44:53",
+      "text": "Cara o D mais um, você vendeu, fez o ciclo lá, você fechou o earn out, ganhou grande parte do earn out, daí você falou pô, e agora?"
+    },
+    {
+      "start": 2713.48,
+      "end": 2720.55,
+      "timestamp": "45:13",
+      "text": "Como você ressignificou esse momento para você?"
+    },
+    {
+      "start": 2720.55,
+      "end": 2760.08,
+      "timestamp": "45:20",
+      "text": "Porque assim, a gente tem aqui muito empreendedor que está ouvindo a gente, que está começando, os caras estão no meio da jornada, a galera que já ganhou grana, que já vendeu negócio, ou que está com muito dinheiro, e acaba se perguntando, e qual o próximo passo?"
+    },
+    {
+      "start": 2760.08,
+      "end": 2771.5,
+      "timestamp": "46:00",
+      "text": "Você chegou lá, como que foi esse seu momento de, putz qual o próximo passo?"
+    },
+    {
+      "start": 2771.5,
+      "end": 2778.86,
+      "timestamp": "46:11",
+      "text": "E aonde começou a mudar essa chave na tua cabeça?"
+    },
+    {
+      "start": 2778.86,
+      "end": 2795.1,
+      "timestamp": "46:18",
+      "text": "Porque você falou que o earn out foi legal pra caramba, você trabalhou um monte, aonde que virou essa chave?"
+    },
+    {
+      "start": 2795.1,
+      "end": 2802.91,
+      "timestamp": "46:35",
+      "text": "Porque terminou os dois anos, você também saiu fora."
+    },
+    {
+      "start": 2802.91,
+      "end": 2921.05,
+      "timestamp": "46:42",
+      "text": "A Caort foi vendida em setembro de 2015, em dezembro de 2015 meu filho nasceu, e eu passei a ter uma agenda em São Paulo direto, então os dois primeiros anos do meu filho, eu via ele mais final de semana, segunda e sexta ali, mas daquele jeito, uma tensão grande, porque apesar de ter sido divertido, tinha uma pressão da entrega das metas do earn out, então assim, quando terminou aquele período, eu estava com um problema na lombar, que até hoje eu não sei o que é, mas com certeza era emocional, de tensão, de estresse, uma úlcera no estômago, não úlcera diagnosticada, mas assim, meu estômago não conseguia tocar aqui, então assim, várias questões físicas, do acúmulo de estresse de todo o período, de oito anos ali naquela batalha, e porra, vocês sabem bem como é que é, né galera?"
+    },
+    {
+      "start": 2921.05,
+      "end": 2923.45,
+      "timestamp": "48:41",
+      "text": "Foda é hard, né?"
+    },
+    {
+      "start": 2923.45,
+      "end": 2937.43,
+      "timestamp": "48:43",
+      "text": "Então quando eu vi o primeiro momento assim, cara, terminou o earn out, o que eu quero fazer?"
+    },
+    {
+      "start": 2937.43,
+      "end": 2949.3,
+      "timestamp": "48:57",
+      "text": "Cara, eu quero um tempo pra mim, pra minha família, e estar junto com eles, né?"
+    },
+    {
+      "start": 2949.3,
+      "end": 2980.26,
+      "timestamp": "49:09",
+      "text": "E era engraçado, eu estava com um problema na minha lombar, que eu não conseguia pegar meu filho no colo direito, durante esse período ali, um pouquinho antes da venda da companhia, até o final do earn out."
+    },
+    {
+      "start": 2980.26,
+      "end": 3004.31,
+      "timestamp": "49:40",
+      "text": "Cara, eu viajava, magicamente a minha dor da lombar desaparecia, e quando eu voltava, mesmo não trabalhando mais, e voltava pra Floripa, voltava a porra da dor."
+    },
+    {
+      "start": 3004.31,
+      "end": 3012.43,
+      "timestamp": "50:04",
+      "text": "Então era claramente uma questão, sei lá, psicológica."
+    },
+    {
+      "start": 3012.43,
+      "end": 3013.93,
+      "timestamp": "50:12",
+      "text": "Emocional."
+    },
+    {
+      "start": 3013.93,
+      "end": 3019.19,
+      "timestamp": "50:13",
+      "text": "Emocional, uma coisa nesse sentido."
+    },
+    {
+      "start": 3019.19,
+      "end": 3027.01,
+      "timestamp": "50:19",
+      "text": "Então assim, o que foi importante, acho que nesse..."
+    },
+    {
+      "start": 3027.01,
+      "end": 3029.56,
+      "timestamp": "50:27",
+      "text": "Como decisão, né?"
+    },
+    {
+      "start": 3029.56,
+      "end": 3031.97,
+      "timestamp": "50:29",
+      "text": "Foi uma decisão."
+    },
+    {
+      "start": 3031.97,
+      "end": 3054.66,
+      "timestamp": "50:31",
+      "text": "Eu decidi ficar viajando, porque primeiro, eu gosto pra caramba de viajar, poder viajar com meu filho, dois aninhos e pouco, e minha esposa, divertido."
+    },
+    {
+      "start": 3054.66,
+      "end": 3078.86,
+      "timestamp": "50:54",
+      "text": "Cara, a gente viajou pelo mundo inteiro, a gente começou, porra, pelo Havaí, daí descia pro Tahiti, e aí voltava pro Havaí, e aí ficava viajando o mundo inteiro."
+    },
+    {
+      "start": 3078.86,
+      "end": 3082.77,
+      "timestamp": "51:18",
+      "text": "Cara, foi super divertido."
+    },
+    {
+      "start": 3082.77,
+      "end": 3096.74,
+      "timestamp": "51:22",
+      "text": "Mas assim, nessa época você falou, cara, vou me dar esses dois anos e não vou pensar em nada."
+    },
+    {
+      "start": 3096.74,
+      "end": 3105.91,
+      "timestamp": "51:36",
+      "text": "Não, no início não ia ser dois anos, no início ia ser um ano."
+    },
+    {
+      "start": 3105.91,
+      "end": 3110.87,
+      "timestamp": "51:45",
+      "text": "Eu ia ficar um ano sem trabalhar."
+    },
+    {
+      "start": 3110.87,
+      "end": 3113.43,
+      "timestamp": "51:50",
+      "text": "Mas estava legal."
+    },
+    {
+      "start": 3113.43,
+      "end": 3118.84,
+      "timestamp": "51:53",
+      "text": "Mas você se permitiu não fazer nada."
+    },
+    {
+      "start": 3118.84,
+      "end": 3122.14,
+      "timestamp": "51:58",
+      "text": "Cara, eu não fiz nada."
+    },
+    {
+      "start": 3122.14,
+      "end": 3125.3,
+      "timestamp": "52:02",
+      "text": "Não quero nem pensar."
+    },
+    {
+      "start": 3125.3,
+      "end": 3146.04,
+      "timestamp": "52:05",
+      "text": "Ainda tinha um contrato de consultoria com a Lynx, com algumas outras coisas, pra discutir planejamento estratégico, algumas coisas assim."
+    },
+    {
+      "start": 3146.04,
+      "end": 3163.03,
+      "timestamp": "52:26",
+      "text": "Um outro cliente que ainda, com certeza, tinha um relacionamento muito forte comigo, lembro, eram grandes contas."
+    },
+    {
+      "start": 3163.03,
+      "end": 3166.33,
+      "timestamp": "52:43",
+      "text": "Mas já era sem agenda."
+    },
+    {
+      "start": 3166.33,
+      "end": 3183.32,
+      "timestamp": "52:46",
+      "text": "Sem agenda, e quando eu estava no Brasil, quando eu podia, já era uma coisa bem mais soft, não tinha uma pressão."
+    },
+    {
+      "start": 3183.32,
+      "end": 3190.23,
+      "timestamp": "53:03",
+      "text": "Mas nesse momento você nem se preocupou, cara."
+    },
+    {
+      "start": 3190.23,
+      "end": 3195.19,
+      "timestamp": "53:10",
+      "text": "Não quero nem pensar em trabalho."
+    },
+    {
+      "start": 3195.19,
+      "end": 3197.74,
+      "timestamp": "53:15",
+      "text": "Cara, vou viajar."
+    },
+    {
+      "start": 3197.74,
+      "end": 3199.4,
+      "timestamp": "53:17",
+      "text": "Vou viajar."
+    },
+    {
+      "start": 3199.4,
+      "end": 3201.35,
+      "timestamp": "53:19",
+      "text": "Vamos embora."
+    },
+    {
+      "start": 3201.35,
+      "end": 3215.33,
+      "timestamp": "53:21",
+      "text": "E viajei, não só a gente, viajei com meus pais, viajei com meus irmãos, viajei com meu sogro."
+    },
+    {
+      "start": 3215.33,
+      "end": 3225.55,
+      "timestamp": "53:35",
+      "text": "Eu lembro que eu vi umas fotos tuas no Facebook de você lá em Petra."
+    },
+    {
+      "start": 3225.55,
+      "end": 3229.31,
+      "timestamp": "53:45",
+      "text": "Petra, legal pra caramba."
+    },
+    {
+      "start": 3229.31,
+      "end": 3230.81,
+      "timestamp": "53:49",
+      "text": "Legal, né?"
+    },
+    {
+      "start": 3230.81,
+      "end": 3235.77,
+      "timestamp": "53:50",
+      "text": "A gente acampou com meu filho lá."
+    },
+    {
+      "start": 3235.77,
+      "end": 3238.33,
+      "timestamp": "53:55",
+      "text": "Andar pra cacete."
+    },
+    {
+      "start": 3238.33,
+      "end": 3244.19,
+      "timestamp": "53:58",
+      "text": "A gente acampou no deserto da Jordânia."
+    },
+    {
+      "start": 3244.19,
+      "end": 3247.94,
+      "timestamp": "54:04",
+      "text": "No deserto, com a galera."
+    },
+    {
+      "start": 3247.94,
+      "end": 3250.95,
+      "timestamp": "54:07",
+      "text": "Porra, naquele frio."
+    },
+    {
+      "start": 3250.95,
+      "end": 3254.41,
+      "timestamp": "54:10",
+      "text": "Frio pra cacete, bicho."
+    },
+    {
+      "start": 3254.41,
+      "end": 3256.21,
+      "timestamp": "54:14",
+      "text": "De noite, é."
+    },
+    {
+      "start": 3256.21,
+      "end": 3259.67,
+      "timestamp": "54:16",
+      "text": "Mas de dia, suportável."
+    },
+    {
+      "start": 3259.67,
+      "end": 3262.67,
+      "timestamp": "54:19",
+      "text": "Mas muito louco, né?"
+    },
+    {
+      "start": 3262.67,
+      "end": 3266.73,
+      "timestamp": "54:22",
+      "text": "Os extremos da temperatura."
+    },
+    {
+      "start": 3266.73,
+      "end": 3279.36,
+      "timestamp": "54:26",
+      "text": "E daí você vê a João Ana e falou, pô, tá legal pra caramba, vou continuar outro ano."
+    },
+    {
+      "start": 3279.36,
+      "end": 3291.83,
+      "timestamp": "54:39",
+      "text": "Aí quando chegou no final do primeiro ano, o negócio ainda não tinha nada engatado."
+    },
+    {
+      "start": 3291.83,
+      "end": 3293.63,
+      "timestamp": "54:51",
+      "text": "Isso era 18?"
+    },
+    {
+      "start": 3293.63,
+      "end": 3295.44,
+      "timestamp": "54:53",
+      "text": "Isso era 18."
+    },
+    {
+      "start": 3295.44,
+      "end": 3302.5,
+      "timestamp": "54:55",
+      "text": "Puta, pô, por que a gente não vai em tal lugar?"
+    },
+    {
+      "start": 3302.5,
+      "end": 3309.57,
+      "timestamp": "55:02",
+      "text": "Pô, vamos fazer uma nova viagem, não sei o que."
+    },
+    {
+      "start": 3309.57,
+      "end": 3310.47,
+      "timestamp": "55:09",
+      "text": "Vamos."
+    },
+    {
+      "start": 3310.47,
+      "end": 3313.62,
+      "timestamp": "55:10",
+      "text": "Cara, fomos de volta."
+    },
+    {
+      "start": 3313.62,
+      "end": 3322.34,
+      "timestamp": "55:13",
+      "text": "O primeiro semestre de 2019, viajamos de volta pra cacete."
+    },
+    {
+      "start": 3322.34,
+      "end": 3336.32,
+      "timestamp": "55:22",
+      "text": "Aí no segundo semestre de 2019, eu já tava, não, não, agora tem que parar de viajar um pouco."
+    },
+    {
+      "start": 3336.32,
+      "end": 3340.68,
+      "timestamp": "55:36",
+      "text": "Vamos ver o que eu vou fazer."
+    },
+    {
+      "start": 3340.68,
+      "end": 3353.75,
+      "timestamp": "55:40",
+      "text": "Mas aí nesse momento, cara, eu e minha esposa, a gente tava planejando o segundo filho."
+    },
+    {
+      "start": 3353.75,
+      "end": 3372.09,
+      "timestamp": "55:53",
+      "text": "E aí aquela questão, cara, pro cara empreender, ele tem que tá, assim, eu tenho que tá muito, assim, é uma obsessão, cara."
+    },
+    {
+      "start": 3372.09,
+      "end": 3376.0,
+      "timestamp": "56:12",
+      "text": "Eu fico, me suga completo."
+    },
+    {
+      "start": 3376.0,
+      "end": 3396.29,
+      "timestamp": "56:15",
+      "text": "Puta, com novamente uma empresa grávida, numa situação, eu falei assim, cara, não, deixa nascer o segundo filho e aí eu vou empreender."
+    },
+    {
+      "start": 3396.29,
+      "end": 3402.3,
+      "timestamp": "56:36",
+      "text": "Aí comecei a entrar em alguns conselhos."
+    },
+    {
+      "start": 3402.3,
+      "end": 3418.68,
+      "timestamp": "56:42",
+      "text": "Aí que começou o processo de, e foi super interessante, porque também não fui muito atrás, meio que apareceu."
+    },
+    {
+      "start": 3418.68,
+      "end": 3444.08,
+      "timestamp": "56:58",
+      "text": "E aí comecei a pegar um conselho aqui, e aí não ia pegar muito, na verdade, ia pegar pouco conselho, só que aí chegou a pandemia, e tudo migrou pra conselho remotamente."
+    },
+    {
+      "start": 3444.08,
+      "end": 3449.49,
+      "timestamp": "57:24",
+      "text": "Aí eu falei, ah, amigão, remoto é..."
+    },
+    {
+      "start": 3449.49,
+      "end": 3451.75,
+      "timestamp": "57:29",
+      "text": "Com nóis mesmo."
+    },
+    {
+      "start": 3451.75,
+      "end": 3468.88,
+      "timestamp": "57:31",
+      "text": "Aí peguei vários conselhos, inclusive alguns com o nosso amigo aqui, participamos contigo também, um deles, porra."
+    },
+    {
+      "start": 3468.88,
+      "end": 3473.09,
+      "timestamp": "57:48",
+      "text": "Hortifruti Natural da Terra."
+    },
+    {
+      "start": 3473.09,
+      "end": 3477.75,
+      "timestamp": "57:53",
+      "text": "É, Hortifruti Natural da Terra."
+    },
+    {
+      "start": 3477.75,
+      "end": 3480.0,
+      "timestamp": "57:57",
+      "text": "Loja Integrada."
+    },
+    {
+      "start": 3480.0,
+      "end": 3482.26,
+      "timestamp": "58:00",
+      "text": "Loja Integrada."
+    },
+    {
+      "start": 3482.26,
+      "end": 3483.76,
+      "timestamp": "58:02",
+      "text": "Tivemos..."
+    },
+    {
+      "start": 3483.76,
+      "end": 3489.92,
+      "timestamp": "58:03",
+      "text": "Foram os dois que a gente tava junto, né?"
+    },
+    {
+      "start": 3489.92,
+      "end": 3491.13,
+      "timestamp": "58:09",
+      "text": "Foi, né?"
+    },
+    {
+      "start": 3491.13,
+      "end": 3493.08,
+      "timestamp": "58:11",
+      "text": "Matheus, não?"
+    },
+    {
+      "start": 3493.08,
+      "end": 3495.79,
+      "timestamp": "58:13",
+      "text": "Não, Matheus, não."
+    },
+    {
+      "start": 3495.79,
+      "end": 3501.05,
+      "timestamp": "58:15",
+      "text": "Tentei levar ele lá, mas não rolou."
+    },
+    {
+      "start": 3501.05,
+      "end": 3512.47,
+      "timestamp": "58:21",
+      "text": "É, e aí, assim, cara, foi super bacana, acho que no início eu achava meio..."
+    },
+    {
+      "start": 3512.47,
+      "end": 3524.49,
+      "timestamp": "58:32",
+      "text": "O cara tá muito acostumado, puta, fazer, porra, o cara fala e faz acontecer, né?"
+    },
+    {
+      "start": 3524.49,
+      "end": 3548.39,
+      "timestamp": "58:44",
+      "text": "Então acho que esse shift pro cara mais aconselhar, no início, assim, porra, tô aqui falando, caralho, a coisa não muda, puta que pariu, tô perdendo meu tempo."
+    },
+    {
+      "start": 3548.39,
+      "end": 3551.7,
+      "timestamp": "59:08",
+      "text": "Tô perdendo meu tempo."
+    },
+    {
+      "start": 3551.7,
+      "end": 3553.5,
+      "timestamp": "59:11",
+      "text": "Coisa não..."
+    },
+    {
+      "start": 3553.5,
+      "end": 3558.46,
+      "timestamp": "59:13",
+      "text": "É muito ruim essa sensação, cara."
+    },
+    {
+      "start": 3558.46,
+      "end": 3560.26,
+      "timestamp": "59:18",
+      "text": "Ah, então..."
+    },
+    {
+      "start": 3560.26,
+      "end": 3561.77,
+      "timestamp": "59:20",
+      "text": "É difícil."
+    },
+    {
+      "start": 3561.77,
+      "end": 3596.19,
+      "timestamp": "59:21",
+      "text": "Então quem tá acostumado a tá ali fazendo a parada é um pouco difícil, mas por outro lado, você começa a entender um pouco o papel e é um pouco mais lento a transformação, mas você ajuda, principalmente quando você tá discutindo."
+    },
+    {
+      "start": 3596.19,
+      "end": 3609.41,
+      "timestamp": "59:56",
+      "text": "Eu acho que é muito legal quando você tá numa posição meio que de moldar a pessoa, sabe?"
+    },
+    {
+      "start": 3609.41,
+      "end": 3616.33,
+      "timestamp": "01:00:09",
+      "text": "Pelo menos eu senti isso nos que eu participo."
+    },
+    {
+      "start": 3616.33,
+      "end": 3652.1,
+      "timestamp": "01:00:16",
+      "text": "Eu não participo de conselho formal, mas quando as empresas que eu sou advisor, quando você tá num negócio de, porra, instigar a amb\n\nA gente chamava um dos líderes, que era o líder de POS, hardware lá da Stone, se chama Marcos com U, né?"
+    },
+    {
+      "start": 3652.1,
+      "end": 3718.53,
+      "timestamp": "01:00:52",
+      "text": "E aí eu fui entrevistar, eu tinha pedido lá para entrevistar o Marcos, esse cara que é o CTO, só que ele era o cara VP lá da Microsoft, morando em Seattle, não sei o quê, e esse cara, eles já tinham, o pessoal da Stone já tinha tentado falar com ele anteriormente, e ele falou, não, não sei o quê, eu falei, não, cara, insiste, fala que eu quero ver alguma coisa de advisor, não sei o quê, o cara me dá uma chance lá de conversar com ele, né?"
+    },
+    {
+      "start": 3718.53,
+      "end": 3773.39,
+      "timestamp": "01:01:58",
+      "text": "Aí nessas aí de entrar em uma reunião atrás da outra, eu comecei a reunião com ele, e aí eu cheguei atrasado, porque eu tinha ido no banheiro, eu falei assim, pô, cara, me desculpa, eu cheguei atrasado, ele falou, não, tudo bem, eu falei, então, me conta um pouco mais sobre você, me diz como que eu posso ajudar aí no teu dia a dia, no teu trabalho, não sei o quê."
+    },
+    {
+      "start": 3773.39,
+      "end": 3779.25,
+      "timestamp": "01:02:53",
+      "text": "Você achou que ele trabalhava na Stone?"
+    },
+    {
+      "start": 3779.25,
+      "end": 3807.5,
+      "timestamp": "01:02:59",
+      "text": "Eu achava que era o Marcos, aí o cara olhou assim, ele achou estranho, eu vi a cara dele assim, ele falou, pô, meu nome é Marcos, eu moro aqui em Seattle, em Seattle, cara, pô, e funciona?"
+    },
+    {
+      "start": 3807.5,
+      "end": 3840.12,
+      "timestamp": "01:03:27",
+      "text": "Confuso assim, aí o cara já não queria estar lá falando comigo, eu já cheguei atrasado, aí começa o papo todo, ele chegou, virou assim, pô, João, ele parou assim, cara, por que mesmo que a gente está conversando aqui?"
+    },
+    {
+      "start": 3840.12,
+      "end": 3902.34,
+      "timestamp": "01:04:00",
+      "text": "Aí caiu o ficha, eu falei, caraca, Marcos, esse é o Marcos da Microsoft, esse é o Marcos, pô, mil desculpas, cara, não, vamos fazer o seguinte, você não fala nada, deixa eu me apresentar aqui, comecei a falar com ele, aí o papo, porra, desenrolou, foi super legal, e aí a gente acabou achando umas afinidades, várias afinidades, e aí os primeiros papos foram mais como advisor, depois a gente conseguiu trazer ele."
+    },
+    {
+      "start": 3902.34,
+      "end": 3904.3,
+      "timestamp": "01:05:02",
+      "text": "Sempre assim."
+    },
+    {
+      "start": 3904.3,
+      "end": 3916.47,
+      "timestamp": "01:05:04",
+      "text": "E aí, pô, tá funcionando super legal, ele é fenomenal e tá funcionando super bem."
+    },
+    {
+      "start": 3916.47,
+      "end": 3938.87,
+      "timestamp": "01:05:16",
+      "text": "Então ele cuida da engenharia, e comigo tá o aspecto de produto e engenharia, segurança de informação agora, mas recentemente a gente passou pro CRO."
+    },
+    {
+      "start": 3938.87,
+      "end": 3945.33,
+      "timestamp": "01:05:38",
+      "text": "E ele tá em Seattle ou ele veio pro Brasil?"
+    },
+    {
+      "start": 3945.33,
+      "end": 3956.3,
+      "timestamp": "01:05:45",
+      "text": "Ah, ele se mudou pra Boca Raton, tá morando ali em Miami, mesmo fuso, né?"
+    },
+    {
+      "start": 3956.3,
+      "end": 3963.06,
+      "timestamp": "01:05:56",
+      "text": "Não, não, e a viagem também é mais curta, né?"
+    },
+    {
+      "start": 3963.06,
+      "end": 3965.32,
+      "timestamp": "01:06:03",
+      "text": "Mais fácil, né?"
+    },
+    {
+      "start": 3965.32,
+      "end": 3965.92,
+      "timestamp": "01:06:05",
+      "text": "Boa."
+    },
+    {
+      "start": 3965.92,
+      "end": 3980.05,
+      "timestamp": "01:06:05",
+      "text": "Cara, estamos chegando aqui numa reta final, a gente tem um bate-bola aqui pra fazer com você."
+    },
+    {
+      "start": 3980.05,
+      "end": 3986.51,
+      "timestamp": "01:06:20",
+      "text": "Calma aí, calma aí, antes do bate-bola, pô."
+    },
+    {
+      "start": 3986.51,
+      "end": 3987.41,
+      "timestamp": "01:06:26",
+      "text": "Calma."
+    },
+    {
+      "start": 3987.41,
+      "end": 3987.71,
+      "timestamp": "01:06:27",
+      "text": "É?"
+    },
+    {
+      "start": 3987.71,
+      "end": 3989.67,
+      "timestamp": "01:06:27",
+      "text": "É, pô, calma."
+    },
+    {
+      "start": 3989.67,
+      "end": 3991.62,
+      "timestamp": "01:06:29",
+      "text": "Então tá bom."
+    },
+    {
+      "start": 3991.62,
+      "end": 4003.79,
+      "timestamp": "01:06:31",
+      "text": "Como que é, assim, né, eu vejo que na minha cabeça tem três tipos de pessoas, né?"
+    },
+    {
+      "start": 4003.79,
+      "end": 4020.33,
+      "timestamp": "01:06:43",
+      "text": "A pessoa que leva o negócio do zero pro um, a pessoa que leva do um pro dez e a pessoa que leva do um pro cem."
+    },
+    {
+      "start": 4020.33,
+      "end": 4031.75,
+      "timestamp": "01:07:00",
+      "text": "Dificilmente você tem as pessoas que conseguem cumprir todas essas jornadas."
+    },
+    {
+      "start": 4031.75,
+      "end": 4049.03,
+      "timestamp": "01:07:11",
+      "text": "Eu vejo que você é uma das únicas pessoas que eu conheço que de fato consegue cumprir muito bem essas jornadas, né?"
+    },
+    {
+      "start": 4049.03,
+      "end": 4062.86,
+      "timestamp": "01:07:29",
+      "text": "Você levou ali o power do zero pro um, do um pro dez, talvez do dez pro cinquenta, entendeu?"
+    },
+    {
+      "start": 4062.86,
+      "end": 4109.9,
+      "timestamp": "01:07:42",
+      "text": "Daí você entrou na Lynx, talvez voltou um pouquinho pra trás pra um projeto novo, pegou ali, tirou ele do um pro dez, começou a levar ele pra outro momento de maturidade e agora na Stone você tá ali levando o negócio do dez pro cem, talvez não do dez pro cem, do cinquenta pro cem, porque o negócio já era grande."
+    },
+    {
+      "start": 4109.9,
+      "end": 4117.42,
+      "timestamp": "01:08:29",
+      "text": "Quantas pessoas hoje tem debaixo da tua diretoria?"
+    },
+    {
+      "start": 4117.42,
+      "end": 4120.28,
+      "timestamp": "01:08:37",
+      "text": "Duas mil, três mil?"
+    },
+    {
+      "start": 4120.28,
+      "end": 4122.98,
+      "timestamp": "01:08:40",
+      "text": "Dois mil e poucos."
+    },
+    {
+      "start": 4122.98,
+      "end": 4150.03,
+      "timestamp": "01:08:42",
+      "text": "Você não gerencia duas mil, logicamente, você gerencia quem tá ali direto contigo, mas é um outro nível de complexidade, é um outro nível de não centralização, de descentralização."
+    },
+    {
+      "start": 4150.03,
+      "end": 4160.86,
+      "timestamp": "01:09:10",
+      "text": "O que que tem sido pra você já fazem dois anos quase que você tá lá, né?"
+    },
+    {
+      "start": 4160.86,
+      "end": 4162.96,
+      "timestamp": "01:09:20",
+      "text": "Um ano e meio."
+    },
+    {
+      "start": 4162.96,
+      "end": 4171.23,
+      "timestamp": "01:09:22",
+      "text": "Um ano e meio que na verdade correspondem a quinze, né?"
+    },
+    {
+      "start": 4171.23,
+      "end": 4179.64,
+      "timestamp": "01:09:31",
+      "text": "Imagina o tanto que tua vida não mudou ao longo desse..."
+    },
+    {
+      "start": 4179.64,
+      "end": 4208.65,
+      "timestamp": "01:09:39",
+      "text": "Qual que tem sido o maior desafio pra você quando você chegou lá e pegou um negócio, cara, com duas mil pessoas e um ano e meio depois que você olha pra trás e fala, caramba, que jornada legal."
+    },
+    {
+      "start": 4208.65,
+      "end": 4228.64,
+      "timestamp": "01:10:08",
+      "text": "O que que você acha que foram os principais desafios de estar nessa empresa grande que são diferentes de você estar em outra empresa?"
+    },
+    {
+      "start": 4228.64,
+      "end": 4244.72,
+      "timestamp": "01:10:28",
+      "text": "Acho que tem desafios que eles vão ser comuns a qualquer pessoa que esteja gerindo algo análogo a isso, né?"
+    },
+    {
+      "start": 4244.72,
+      "end": 4254.04,
+      "timestamp": "01:10:44",
+      "text": "Muita gente, muitos produtos, enfim, uma complexidade técnica."
+    },
+    {
+      "start": 4254.04,
+      "end": 4262.01,
+      "timestamp": "01:10:54",
+      "text": "Existem os desafios específicos relacionados à Stone."
+    },
+    {
+      "start": 4262.01,
+      "end": 4269.07,
+      "timestamp": "01:11:02",
+      "text": "Então, a Stone é uma empresa muito sui generis."
+    },
+    {
+      "start": 4269.07,
+      "end": 4275.38,
+      "timestamp": "01:11:09",
+      "text": "Ela foi criada de uma maneira muito única."
+    },
+    {
+      "start": 4275.38,
+      "end": 4322.58,
+      "timestamp": "01:11:15",
+      "text": "Eu acho que um dos maiores desafios que eu enfrentei, eu acho que já passei por parte, parte dele já foi resolvido, mas parte ainda não, é que eram, na verdade, algumas empresas ali dentro da Stone, com culturas distintas, com filosofias de desenvolvimento de produtos distintos e que a gente teve que transformar."
+    },
+    {
+      "start": 4322.58,
+      "end": 4338.51,
+      "timestamp": "01:12:02",
+      "text": "E muitas vezes é natural que dentro desse processo uma não tenha uma afinidade tão grande com a outra, né?"
+    },
+    {
+      "start": 4338.51,
+      "end": 4357.15,
+      "timestamp": "01:12:18",
+      "text": "Até por preferências tecnológicas, enquanto um é mais, porra, um pensource, o outro é mais não sei o quê e assim por diante."
+    },
+    {
+      "start": 4357.15,
+      "end": 4372.63,
+      "timestamp": "01:12:37",
+      "text": "Então, acho que o primeiro desafio é conseguir, que é mais específico da Stone, é formar um time único."
+    },
+    {
+      "start": 4372.63,
+      "end": 4388.56,
+      "timestamp": "01:12:52",
+      "text": "Que as pessoas entendam, se identifiquem com um time único e que esse time único tenha valores comuns, né?"
+    },
+    {
+      "start": 4388.56,
+      "end": 4395.47,
+      "timestamp": "01:13:08",
+      "text": "Que eles de fato acreditem e compartilhem, né?"
+    },
+    {
+      "start": 4395.47,
+      "end": 4401.78,
+      "timestamp": "01:13:15",
+      "text": "Então, acho que essa parte a gente venceu."
+    },
+    {
+      "start": 4401.78,
+      "end": 4405.24,
+      "timestamp": "01:13:21",
+      "text": "Como que você fez isso?"
+    },
+    {
+      "start": 4405.24,
+      "end": 4414.26,
+      "timestamp": "01:13:25",
+      "text": "Assim, todo mundo já estava sofrendo muito por não ter isso."
+    },
+    {
+      "start": 4414.26,
+      "end": 4428.09,
+      "timestamp": "01:13:34",
+      "text": "Então, um pouco o que ajudou a dor que eles estavam sofrendo me ajudou a resolver a dor, né?"
+    },
+    {
+      "start": 4428.09,
+      "end": 4434.1,
+      "timestamp": "01:13:48",
+      "text": "E aí, eu acho que foram vários aspectos."
+    },
+    {
+      "start": 4434.1,
+      "end": 4456.34,
+      "timestamp": "01:13:54",
+      "text": "Eu acho que ouvir todo mundo, entender os pontos que todo mundo tinha e trazer para perto pessoas fantásticas que já tinham lá, dar a voz para elas."
+    },
+    {
+      "start": 4456.34,
+      "end": 4465.96,
+      "timestamp": "01:14:16",
+      "text": "Elas ajudaram a criar a estrutura, o desenho da estrutura comum."
+    },
+    {
+      "start": 4465.96,
+      "end": 4474.53,
+      "timestamp": "01:14:25",
+      "text": "A estrutura comum fazia muito sentido quando você olhava."
+    },
+    {
+      "start": 4474.53,
+      "end": 4487.0,
+      "timestamp": "01:14:34",
+      "text": "Claramente, a gente conseguiria capturar uma série de sinergias e vantagens, enfim."
+    },
+    {
+      "start": 4487.0,
+      "end": 4496.47,
+      "timestamp": "01:14:47",
+      "text": "Então, não foi muito difícil convencê-los a ir naquela direção."
+    },
+    {
+      "start": 4496.47,
+      "end": 4510.45,
+      "timestamp": "01:14:56",
+      "text": "Mas assim, eu acho que o desafio que a gente enfrenta hoje ainda tem, tem a ver com o legado."
+    },
+    {
+      "start": 4510.45,
+      "end": 4520.37,
+      "timestamp": "01:15:10",
+      "text": "Então, a gente tem muito legado tecnológico, isso é muito difícil."
+    },
+    {
+      "start": 4520.37,
+      "end": 4555.39,
+      "timestamp": "01:15:20",
+      "text": "Do ponto de vista de gestão, a companhia precisa ter os seus processos claros que derivam, obviamente, de uma visão estratégica, que se transforma em uma meta, que se transforma em uma estrutura, que se transforma então em processos."
+    },
+    {
+      "start": 4555.39,
+      "end": 4577.18,
+      "timestamp": "01:15:55",
+      "text": "Então, ter as pessoas certas, na estrutura certa, com os processos adequados, é o que vai te permitir gerir 2 mil pessoas de uma maneira correta."
+    },
+    {
+      "start": 4577.18,
+      "end": 4592.81,
+      "timestamp": "01:16:17",
+      "text": "Senão, você vai apontar para lá e vai ter uma parte vindo para cá, uma parte vindo para lá, uma parte..."
+    },
+    {
+      "start": 4592.81,
+      "end": 4601.98,
+      "timestamp": "01:16:32",
+      "text": "Cara, você não consegue fazer todo mundo ir na mesma direção."
+    },
+    {
+      "start": 4601.98,
+      "end": 4658.49,
+      "timestamp": "01:16:41",
+      "text": "Então, eu acho que para você conseguir ter o ferramental correto, ele se resume na essência, se você for descascar a cebola e chegar na essência para você conseguir gerir, em ter uma estratégia clara, um objetivo comum, que se desdobra em uma meta comum e essas metas divididas em uma estrutura, times muito bem desenhados e com as pessoas certas e com os processos adequados."
+    },
+    {
+      "start": 4658.49,
+      "end": 4669.01,
+      "timestamp": "01:17:38",
+      "text": "Então, com isso, a gente consegue colocar todo mundo no mesmo caminho."
+    },
+    {
+      "start": 4669.01,
+      "end": 4700.43,
+      "timestamp": "01:17:49",
+      "text": "Então, por exemplo, a gente colocou lá todo o processo de OKRs, sendo com planejamento trimestral, e aí colocando as dependências entre os times, uma cadência de receber os OKRs de um tri e planejar o próximo."
+    },
+    {
+      "start": 4700.43,
+      "end": 4711.7,
+      "timestamp": "01:18:20",
+      "text": "Então, isso conseguiu trazer todo mundo mais ou menos para o mesmo caminho."
+    },
+    {
+      "start": 4711.7,
+      "end": 4714.4,
+      "timestamp": "01:18:31",
+      "text": "Eu diria que os..."
+    },
+    {
+      "start": 4714.4,
+      "end": 4754.98,
+      "timestamp": "01:18:34",
+      "text": "E aí, um desafio que eu acho que é importante também com 2 mil pessoas, o equilíbrio entre você ganhar eficiência, estruturar, fazer com que seus processos sejam mais eficientes, mas, ao mesmo tempo, permitindo aquele caos que é fundamental para você criar coisas novas."
+    },
+    {
+      "start": 4754.98,
+      "end": 4780.38,
+      "timestamp": "01:19:14",
+      "text": "Então, eu digo que é a ambidestria, de você ter um time trabalhando de uma maneira, muitas vezes, desestruturadas, de uma maneira sem muito processo, sem muito controle."
+    },
+    {
+      "start": 4780.38,
+      "end": 4792.11,
+      "timestamp": "01:19:40",
+      "text": "Eu não gosto de colocar a palavra controle, que não é o propósito do processo."
+    },
+    {
+      "start": 4792.11,
+      "end": 4794.81,
+      "timestamp": "01:19:52",
+      "text": "É a flexibilidade."
+    },
+    {
+      "start": 4794.81,
+      "end": 4813.6,
+      "timestamp": "01:19:54",
+      "text": "Em alguns aspectos, tem que existir controle, mas, em grande parte, é mais alinhamento que você precisa ter e direcionamento."
+    },
+    {
+      "start": 4813.6,
+      "end": 4845.46,
+      "timestamp": "01:20:13",
+      "text": "Porque, no final do dia, quando você tem um time grande, o grande desafio da gestão é você precisa ter vários times o mais autônomo possível, para que esse time tenha identidade, seja rápido, ágil, mas alinhados."
+    },
+    {
+      "start": 4845.46,
+      "end": 4848.62,
+      "timestamp": "01:20:45",
+      "text": "Essa é a dificuldade."
+    },
+    {
+      "start": 4848.62,
+      "end": 4851.78,
+      "timestamp": "01:20:48",
+      "text": "Essa é a dificuldade."
+    },
+    {
+      "start": 4851.78,
+      "end": 4869.21,
+      "timestamp": "01:20:51",
+      "text": "E o sistema de OKR para você, o planejamento estratégico e o desdobramento para OKR foi o que fez a virada de chave."
+    },
+    {
+      "start": 4869.21,
+      "end": 4875.22,
+      "timestamp": "01:21:09",
+      "text": "Ajuda demais, ajudou sem dúvida nenhuma."
+    },
+    {
+      "start": 4875.22,
+      "end": 4903.93,
+      "timestamp": "01:21:15",
+      "text": "A gente tinha lá o banking operando muito dentro do produto Stone, que é o nosso segmento do SMB, já estava há anos, não conseguia entrar dentro do Tom, que é o produto lá de micro autônomos."
+    },
+    {
+      "start": 4903.93,
+      "end": 4914.0,
+      "timestamp": "01:21:43",
+      "text": "Cara, a gente conseguiu num quarto, para fazer com que esse banking"
+    }
+  ],
+  "segment_count": 510,
+  "text_timestamped": "[00:00] Então a gente viajava e a gente levava os nossos clientes, os nossos maiores clientes e aí teve uma vez, cara, que a gente viu que, sei lá, 80, mais de 80% do e-commerce, porque era muito concentrado na época, né?\n[00:32] Tava no nosso ônibus.\n[00:35] Aí a gente falou assim, cara, se o Jeff Bezos descobre que a gente tá com 80% ali, ele vai jogar uma bomba aqui, vai me matar pra poder entrar.\n[00:56] Tava na época de entra ou não entra no Brasil.\n[01:03] Mas eu, no meu caso, eu acho que eu não esperava estar num momento de vender a companhia.\n[01:16] Então eu não queria vender a companhia, mas eu achava que era melhor.\n[01:27] Racionalmente, eu achava que era o que deveria ser feito, mas emocionalmente eu não queria.\n[01:41] E de certa maneira, o meu sentimento era, beleza, trouxe dinheiro, mas porra, eu não tenho mais a minha empresa, não tenho mais o meu bebê aqui.\n[02:02] E o dinheiro tava lá e eu demorei pra começar a usar ele, pra você ter uma ideia.\n[02:14] Igualzinho comigo.\n[02:17] Cara, eu demorei mais de 7 meses pra fazer alguma compra que eu não faria anteriormente, entendeu?\n[02:32] Sejam...\n[02:33] Essa entrada tá muito...\n[02:37] Pô, você não falou nada, cara.\n[02:41] Sejam muito bem-vindos a mais um podcast.\n[02:47] Extremos, nosso podcast do G4 Podcasts.\n[02:53] Aqui do meu lado, meu fiel escudeiro, ele, Alfredo Soares.\n[03:02] Tudo bem, querubim?\n[03:05] Aqui, Bruno Nardon, seu host desse podcast.\n[03:11] Tá bem?\n[03:12] Tô bem.\n[03:13] O cumprimento era esse que eu fiz aqui a mão.\n[03:20] Você que tá fazendo assim, porra.\n[03:25] E aí, como é que você tá?\n[03:29] Tá bem?\n[03:30] Tá tudo bem?\n[03:32] Tô maravilhoso.\n[03:34] E você?\n[03:35] Tá melhor?\n[03:36] Tô melhor.\n[03:38] Passou a gripe?\n[03:40] Hoje vim com uma roupa aqui, diferente.\n[03:46] Diferente mesmo.\n[03:48] Inspirada no conselho do nosso amigo Ivan Moré.\n[03:55] Branco, cinza.\n[03:58] Trazer um pouco de tonalidades claras pro ambiente escuro, pra conseguir um brand mais imponente, mais interessante.\n[04:15] Ficou bonito mesmo.\n[04:18] Ficou diferente, ficou bonito.\n[04:22] Gostei.\n[04:23] Vamos ver se a turma gosta.\n[04:27] Então, comenta aí se a gente deve vir de branco aqui nos próximos episódios, com cores claras.\n[04:42] Se eu vier de branco, eu vou me sentir de férias.\n[04:49] A próxima eu venho de branco.\n[04:53] Então fechou.\n[04:55] Fechou.\n[04:56] Tamo junto.\n[04:58] Fala, turma.\n[05:00] Beleza?\n[05:01] Sejam muito bem-vindos aí.\n[05:05] Mais um episódio aqui dos Extremos.\n[05:10] Lembrando que o Extremos faz parte do Hub de Conteúdo do G4 Podcast, que tem vários podcasts sobre gestão, saúde, alta performance, vendas, muita coisa bacana.\n[05:34] E no Extremos, a gente costuma explorar as extremidades da jornada dos empreendedores, dos gestores e grandes executivos do Brasil.\n[05:54] Hoje a gente tem um convidado super especial.\n[06:00] É quase que um reviver aqui do Conselho da Loja Integrada no ano de 2021 ali.\n[06:12] Então estaremos juntos aqui trocando muita ideia de novo.\n[06:21] Tenho certeza que vocês vão curtir muito.\n[06:27] Um spoilerzinho.\n[06:29] Antes da gente começar, o cara que tá vindo, ele é Chief Information Officer.\n[06:41] Caramba, o seu inglês tá bom, hein, cara?\n[06:47] Tu viu?\n[06:48] Sotaque britânico?\n[06:51] Ficou bom.\n[06:52] Menos massachutes.\n[06:55] Uma coisa mais interiorana, exatamente.\n[07:01] Chief Information Officer de uma das grandes empresas aí do mercado de cartões, mercado financeiro aqui do Brasil.\n[07:18] Maquininha, pô.\n[07:20] A famosa maquininha verde.\n[07:24] A maquininha do Hulk.\n[07:27] Eles tinham que contratar o Hulk como garoto propaganda.\n[07:36] Isso é legal, né?\n[07:38] Isso é maneiro, né?\n[07:41] Aguenta tudo.\n[07:43] Passe tuas vendas.\n[07:46] Ele dando um soco assim.\n[07:49] Desconto.\n[07:51] Isso é bom demais.\n[07:53] Bom, e lembrando que esse podcast é um oferecimento do G4 Skills.\n[08:03] Uma plataforma, uma ferramenta que cria uma trilha customizada para você poder treinar aí e acelerar o desenvolvimento dos seus colaboradores.\n[08:24] Então a gente vai deixar aí na tela para vocês um QR Code para você que é nosso ouvinte aproveitar aí sete dias de trial grátis para conhecer a plataforma para até 10 pessoas do seu time.\n[08:52] Caramba, a galera tá generosa aqui.\n[08:58] A galera tá generosa.\n[09:01] Então tem o link na descrição, mas aproveita aí o QR Code na tela.\n[09:11] E se quiser indicar também para algum amigo seu empreendedor, aproveite.\n[09:22] Se quiser vender também, pode vender para ele o link.\n[09:30] Pede uns 50 no Pix, manda o link para ele logo na sequência aí que tá barato.\n[09:41] Bom, sem mais delongas, eu vou continuar aqui na apresentação do nosso convidado de hoje.\n[09:55] O nome já é imponente do convidado.\n[10:00] É bom.\n[10:01] Já tem um sobrenome que parece que é um bono da LVHM lá.\n[10:09] Já não parece?\n[10:11] Parece, parece, é verdade.\n[10:15] Tem uma áurea bilionária no nome aqui.\n[10:21] Tem algo diferente.\n[10:24] Não só áurea, né?\n[10:26] Tem algo diferente nesse nome.\n[10:31] Mas antes de chegar no nome, para vocês saberem mais informações do nosso querido convidado, ele é investidor da Yalo Inc, que é a primeira BSP da meta no mundo.\n[10:55] É uma empresa de conversation commerce focado na indústria B2B e ele em 2021 ajudou a trazer as operações para o Brasil.\n[11:13] Isso aí.\n[11:14] Porrada.\n[11:15] Eu já vejo muito anúncio deles no Instagram.\n[11:22] Muito anúncio.\n[11:24] Ele é investidor e consultor de várias startups.\n[11:31] Uma das suas áreas no qual ele é bacharelado envolve...\n[11:40] Não, tem mestrado em inteligência artificial, mineração de dados e aprendizado de máquina.\n[11:53] Mas...\n[11:54] Pela Universidade Federal de Santa Catarina.\n[12:01] Mas a porrada mesmo foi quando ele fundou a Caordic lá em 2009 e vendeu para a Lynx.\n[12:13] Acho que foi em 2015, se eu não me engano.\n[12:20] 18.\n[12:20] E cara, ele é um cara engraçado.\n[12:25] Porque assim, a nossa história é meio parecida.\n[12:32] Ele fez engenharia, daí depois foi estudar na França em Toulouse.\n[12:42] Na mesma cidade.\n[12:44] Na mesma cidade.\n[12:46] Eu fiz engenharia e fui estudar na França em Toulouse um pouquinho depois dele.\n[12:58] Olha, eu não sei onde você mora, não sei quais são os seus planos, mas Toulouse deveria estar neles.\n[13:13] Porque quem passa lá fica rico.\n[13:18] É o terceiro que eu conheço que passou em Toulouse e ficou rico.\n[13:28] Então, próximas férias, primeira oportunidade, pegue um avião e vá para Toulouse.\n[13:40] Na França.\n[13:41] Na França.\n[13:43] Isso daí.\n[13:44] Fique lá, toque nas coisas.\n[13:48] Um avião rosa.\n[13:50] Come um croissant.\n[13:53] Passe pelo menos sete dias.\n[13:57] E aí volte que a sua vida prosperará.\n[14:03] Você não apresentou ele, pô.\n[14:07] Senhoras e senhores, no Extremos de hoje, diretamente de Santa Catarina, João Bernat.\n[14:20] Olha o nome.\n[14:21] Muito bem-vindo, João.\n[14:25] Valeu, galera.\n[14:27] Obrigado pelo convite.\n[14:30] João Bernat com dois t's ainda.\n[14:35] É nome de bilionário, pô.\n[14:39] Questão de tempo ou não, mas é nome de bilionário.\n[14:46] Inclusive, esse nome aí eu estava discutindo hoje.\n[14:54] Eu tenho que ver aí para conseguir cidadania italiana.\n[15:02] Vou ter que mudar, acho que para DT.\n[15:07] Porque veio lá quando o meu nono veio da...\n[15:14] Tem que ser igual.\n[15:16] Vai ter que ser igual, vou ter que mudar isso aí.\n[15:24] Então, você gostou, mas vou ter que mudar, eu acho.\n[15:31] É uma lástima.\n[15:33] Mas eu acho que você não precisa mudar, não, cara.\n[15:41] Eu acho que você precisa mudar o documento de quando ele veio para cá.\n[15:51] E fazer uma paridade.\n[15:55] O Bernard DT virou o Bernard TT.\n[15:59] O TT, exatamente.\n[16:02] Ou na dumba construir para conseguir...\n[16:08] É, pô, eu tenho, pô.\n[16:11] Eu tenho, da minha família foi mais difícil, cara.\n[16:18] Nessa semana que ele fica cuidando do filho dele, ele fica estudando os sistemas.\n[16:31] Que eu fico muito tranquilo, assim, que pobre a gente não morre, bicho.\n[16:41] Amém.\n[16:42] Tem muita coisa para fazer de negócio com o bichinho.\n[16:50] O bichinho entende tudo.\n[16:54] Vai lá, manda.\n[16:56] Bom, vamos começar, Joãozinho?\n[17:00] Você é mais conhecido como Joãozinho, né?\n[17:06] Muita gente me chama Joãozinho.\n[17:11] Radicar o como Joãozinho.\n[17:15] João, vamos chamar de Little John.\n[17:20] Cara, qual foi o momento mais extremo na sua vida?\n[17:27] Quantos anos você está?\n[17:31] Estou com 43.\n[17:33] Com 43 anos, qual foi, assim, o momento no esporte, na família, numa doença, na vida?\n[17:46] No profissional.\n[17:48] Mais extremo, acho que dos dois aí.\n[17:53] O extremo profissional e o extremo pessoal que você já viveu, assim.\n[18:03] Cara, eu acho que tem um momento extremo que foi mais recente, que foi, acho que na gravidez da minha esposa.\n[18:20] Essa última gravidez foi um momento extremo, porque ela estava com uma gravidez meio complicada.\n[18:34] A gente estava no meio da pandemia, imagina, em 2020.\n[18:42] Aquele medo de sair na rua.\n[18:46] E minha esposa acabou, ela tinha uma condição específica ali da questão e, enfim, foi bem complicado.\n[19:01] E a gente pensa em uma série de aspectos da vida, assim, quando essas coisas chegam perto da gente, daquilo que realmente importa, daquilo que a gente realmente precisa valorizar.\n[19:28] Mas deu tudo certo, não aconteceu nada, graças a Deus, mas acho que foram momentos super difíceis que, enfim, me fizeram pensar em um monte de coisa sobre a vida e sobre tudo mais.\n[19:55] Animal.\n[19:56] O que foi uma das coisas que você pensou sobre isso?\n[20:04] Cara, eu acho...\n[20:07] Você mudou?\n[20:08] Uma das coisas que se tornou acionável depois que você passou por esse momento.\n[20:20] Eu acho que a gente precisa viver o presente\n\nDVD, essas coisas, a gente começou por lá.\n[20:33] Essa era muito grande nisso.\n[20:38] E a gente já sabia fazer recomendação de filmes, né?\n[20:45] Então a gente nasceu ali na Netflix, né?\n[20:51] Então era meio que um caminho natural.\n[20:57] E cara, a gente começou, cara,\naumentou a conversão da categoria, assim,\nmuito fácil de notar.\n[21:11] Você não precisava nem de um teste a ver.\n[21:17] Era step, assim, sabe?\n[21:21] Curva step.\n[21:22] Step change, é.\n[21:25] Exatamente.\n[21:26] E aí o problema foi que ele falou assim,\nnão, porra, do cacete,\nvamos para todas as categorias.\n[21:41] A gente falou, cara, a gente não tinha habilidade,\nassim, computacionalmente,\nconseguir gerar as recomendações para livros,\nque a quantidade de livros era enorme,\na gente não conseguia naquela época.\n[22:11] Então eu me lembro da gente virando noite.\n[22:17] Quantos vocês eram nessa época?\n[22:22] Ah, nessa época nós éramos uns 20, mais ou menos.\n[22:29] E vocês tinham pegado investimento de alguém\nou vocês foram bootstrapping?\n[22:40] Bootstrapping, até consegui a Sarayva foi bootstrapping,\nmas o cara que viria a ser nosso investidor\nfoi comigo na primeira reunião da Sarayva.\n[23:01] Foi ele que abriu as portas, mas ele estava só assim,\nah, vamos ver se esses caras vão chegar em algum lugar, entendeu?\n[23:19] Aí só na...\n[23:21] Pediu um descontinho depois.\n[23:25] Não, mas eu ajudo vocês.\n[23:29] Vamos lá junto com a Sarayva.\n[23:33] Pediu um descontinho pela Sarayva, pediu.\n[23:39] Pediu, pediu.\n[23:41] E deixou eu saber, você empreendeu antes disso\nou esse foi o seu primeiro empreendimento?\n[23:55] Eu tive uma empresa de café antes de...\n[24:01] CPC também, Custo Por Clique.\n[24:05] Sabe aquelas máquinas automáticas que você vai clicando\ne vem um café expresso, não sei o quê?\n[24:19] Eu trabalhava num lugar lá em Floripa\ne eu não gosto muito de tomar café passado,\nme dá um pouco de azio.\n[24:35] Aí eu falei, porra, podia ter uma máquina de café expresso,\naquelas automáticas com chá.\n[24:48] Isso quando você estava na faculdade?\n[24:54] Faculdade, é.\n[24:56] Ou você já estava no mestrado?\n[25:00] Eu não lembro agora, Nardão.\n[25:04] Não, mas tudo bem.\n[25:07] Eu acho que foi na transição entre me formar e...\n[25:14] Então você já tinha isso na tua veia empreendedora?\n[25:22] Você já sabia que queria seguir esse caminho?\n[25:29] Eu fui da empresa Júnior, putz, acho que na primeira ou segunda fase\neu era o presidente da empresa Júnior lá de controle de automação,\noutro Júnior, então sempre estava envolvido com alguma coisa do gênero.\n[26:00] Mas a empresa de café é uma empresa que eu acabei vendendo\ndepois da Caótica, inclusive.\n[26:13] A empresa foi fundada antes e acabou sendo, assim,\nacho que em 2019 foi quando eu peguei o meu sabático lá\nque eu acabei vendendo, porque, enfim,\na gente não dedicava tempo nem eu nem outro sócio\ne a gente acabou, enfim.\n[26:46] E daí então, vocês colocaram a Saraiva para dentro,\nestavam com 20 pessoas já e o negócio estava dando lucro ou não\nna época da Caótica?\n[27:07] Não, para a Saraiva não.\n[27:10] Porque a gente estava com bootstrapping, dinheiro meu e do Bosco\ne colocando, enfim, todas as nossas reservas no business.\n[27:29] E uma coisa que foi interessante também, assim, em extremos,\nque vocês estavam falando.\n[27:42] Cara, eu saí do meu trabalho, tá?\n[27:47] Ah, não, peraí, tem um aspecto importante que eu estou me lembrando\nde onde veio o dinheiro, né?\n[28:01] Teve um dinheiro meu e do Bosco, mas a gente também conseguiu...\n[28:11] Tinha muito incentivo a fomento e inovação naquela época.\n[28:19] Então a gente conseguiu três editais de fomento e inovação\nque ajudaram...\n[28:30] A fundo perdido.\n[28:33] A fundo perdido.\n[28:35] Finep, CNPq, essas coisas, né?\n[28:40] Então esses três deram, digamos assim, um start\npara a gente conseguir operar naquele ano 2010 inteiro\nsem ter nada de...\n[28:58] E mais o dinheiro meu e do Bosco, né?\n[29:03] Então eu acabei saindo do meu trabalho.\n[29:09] Um pouquinho antes disso, a minha esposa veio morar comigo,\nela morava no Rio, carioca, aí a conterrânea aí.\n[29:26] E aí ela veio morar comigo, só que ela não estava com emprego também.\n[29:36] O cara, para casar com um carioca, tem que ser muito bom de lábia.\n[29:46] Você vê, a gente teve que ir...\n[29:50] Muito bom de lábia, porque os cariocas são marrentos.\n[29:58] Você acha que ele só era comercial, só, para fechar o dia de negócio, meu amigo?\n[30:10] Teve que ser muito preditivo.\n[30:15] Então a gente conseguiu esse dinheiro, que foi fundamental para a gente.\n[30:26] E putz, eu estava com a Rafa sustentando eu e ela,\ne assim, com menos da metade do dinheiro que eu tinha quando eu vivia solteiro.\n[30:45] Mas assim, por mais que tenha sido...\n[30:51] A gente teve que apertar as contas, assim, era divertido também.\n[31:00] Então assim, porra, início de namoro, início de casamento, tudo era maravilha.\n[31:12] A gente não tinha nenhuma dificuldade.\n[31:18] Você tinha o quê?\n[31:20] 29 anos?\n[31:22] 28, 29?\n[31:23] Eu tinha...\n[31:24] Ah, 29.\n[31:25] Legal.\n[31:26] 29, 28.\n[31:27] E daí, de fechar a Saraiva, para fechar o segundo cliente, como é que foi?\n[31:38] Aí foi tudo muito rápido, Nardom, porque daí a gente fechou a Saraiva\ne saiu uma reportagem na Exame, tá?\n[31:54] Na Exame Principal, no PME.\n[31:58] Numa época que as revistas ainda eram super compradas, assim.\n[32:07] Era o principal canal, assim, de...\n[32:13] A Sena Exame era o laço.\n[32:16] E foram assim...\n[32:19] Pégne foi.\n[32:20] Pégne era...\n[32:22] É, e foram três páginas e meia de matéria.\n[32:28] Putz, a gente lá na capa, a gente nem tinha um lugar direito, cara.\n[32:38] A gente teve que tirar a foto num hall ali da incubadora.\n[32:47] Eu também conheço.\n[32:50] Não dava para tirar foto numa nossa sala, entendeu?\n[32:57] A gente foi num lugar mais bonitinho para tirar foto, eu gosto.\n[33:07] Eu fui na escada do restaurante.\n[33:12] A gente foi também.\n[33:14] Porque era um sobrado, não era um andar só, entendeu?\n[33:22] Era o histórico maior.\n[33:26] Ele bateu a foto na escada para parecer que tinha dois andares.\n[33:35] Aí essa foto, assim, que a gente tirou no hall da incubadora, puta, grandona.\n[33:47] Aí na segunda página estava o pessoal do Buscapé e na última página estava o pessoal da Saraiva, o CEO da Saraiva.\n[34:04] Legal.\n[34:05] Então, assim, foi super legal, né?\n[34:10] E acho que isso trouxe uma certa confiança.\n[34:16] Ah, e o que foi comunicado?\n[34:20] Acho que isso é um aspecto importante.\n[34:26] A gente conseguiu resolver o problema lá dos livros.\n[34:34] A gente entrou em todas as categorias e a gente aumentou a taxa de conversão do site em mais de dois dígitos.\n[34:50] Então foi assim, foi muito alto.\n[34:55] E aí saiu, todos esses resultados saíram pela voz da própria Saraiva na Exame.\n[35:07] Então era o cliente falando da gente, do impacto brutal que a gente tinha colocado de uma tecnologia que não existia no Brasil até então.\n[35:27] E que era nada mais nada menos do que a Amazon fazia lá fora.\n[35:37] Aí, cara, foi assim...\n[35:40] Vamos tirar os pedidos.\n[35:43] E não tinha ninguém competindo com a gente no Brasil também, que era um outro aspecto também que o timing era...\n[36:00] Demora até construir esse tipo de tecnologia.\n[36:07] Até surgiu um outro cara, mas quando vinha para um challenge era difícil competir, assim, né?\n[36:21] Teve até um cara do Sul também, de Santa Catarina, Zim, Zig.\n[36:30] Não lembro.\n[36:32] Teve a Nimu, né?\n[36:34] Teve a Nimu, acho que foi em 2014, em termos de recomendação, né?\n[36:44] Teve uns caras de Curitiba que eu fui até visitar que eu investi, o sistema era bem legal.\n[36:57] Mas era isso, vocês chegaram...\n[37:02] Mas daí em 2010, 2011...\n[37:06] Aí foi assim, cara, a gente pegou...\n[37:11] O trabalho de integração do e-commerce grande e do e-commerce pequeno era mais ou menos o mesmo.\n[37:25] E o impacto era muito mais visível no grande.\n[37:32] Cara, a gente olhou de cima para baixo, cara, quais são os 100 maiores e-commerces do país?\n[37:46] Vamos olhar para esses caras e vamos pegar eles.\n[37:53] Então a ideia era essa.\n[37:57] Isso só com o produto de recomendação na página de produto e na home.\n[38:07] Vocês não tinham search ainda.\n[38:11] Não tinha search, mas a gente tinha recomendação da home até o checkout.\n[38:22] Tinha em todas as páginas.\n[38:26] Nem todo mundo ligava, aí era toda a discussão.\n[38:33] Tipo, poucos lugares, não é porque o Nardom está aqui, mas assim, poucos lugares tinham caras mais analíticos ali no e-com.\n[38:52] Se tinha uma galera que estava mais acostumada...\n[38:59] O e-commerce começou com muito marketing, né?\n[39:06] Muito marketing, exato.\n[39:09] Muito profissional de marketing.\n[39:14] Então não era muito data-driven os processos decisórios.\n[39:22] Cabe embaixo do marketing e-commerce.\n[39:28] Só que, putz, na galera, por exemplo, da Rocket, você encontrava um bando de engenheiro lá tocando a companhia.\n[39:45] E aí a galera era bem mais analítica.\n[39:50] Então em todas, não era só na Canoe, porra, Tricay, todas elas.\n[40:00] Mobley, né?\n[40:01] Mobley, porra.\n[40:04] Porradaria cesarean.\n[40:07] Todos.\n[40:07] Eram muito engenheiros e a galera fazia conta, via o resultado.\n[40:17] Aí era muito mais\n\nconhece bem e toda essa jornada era vista por canal, você não conseguia algum sistema que endereçasse isso num pedido com múltiplas fontes de fulfillment e múltiplas formas de você gerir e traquear isso.\n[40:50] A gente uma vez foi o nosso sistema lá na Canoo era baseado no Magento, lá atrás, a gente pegou o open source muito ruim, foi mal mas ele era muito open source mas era uma bosta o Magento, era uma bosta o Magento e daí a gente começou a fazer os nossos forks fazer os nossos códigos em cima então todo o sistema de order system, uma vez a gente imprimiu ele para a gente conseguir acompanhar exatamente isso, de onde veio, para onde vai, onde estão os ciclos fechados, cara a gente imprimiu o negócio, você não tem noção, foi uma parede inteira, uma fonte desse tamanho para a gente saber todos os ciclos, de onde vem, para onde vai, lembra até hoje, a parede inteira assim da Canoo, isso daqui assim, imprimia um A4zão e ia colando um do lado do outro, cara isso é vital para o varejo, absolutamente vital ainda mais uma perspectiva humanitiana, se você não endereça isso de uma maneira sistêmica, você não consegue aproveitar uma porrada de benefícios que você poderia ter, então esse produto foi feito foi colocado na Centauro, a guerra do digital foi em cima do MS, foi, foi, foi, foi em cima disso, foi porque mexia no transacional, um não dava o dado para o outro, até hoje a gente não conseguiu integrar ainda direito lá o MS com o checkout lá na Vitex várias discussões com o Geraldo, super engraçado, mas enfim, mas cara foi legal porque deu para fazer esse produto, e você tinha dois anos de earn out?\n[44:22] Tinha dois anos de earn out, e você ficou dois anos lá?\n[44:31] Fiquei, fiquei os dois anos, e ganhou o earn out inteiro?\n[44:39] Ganhei o earn out praticamente inteiro, não inteiro, inteiro, mas e daí como é que foi depois?\n[44:53] Cara o D mais um, você vendeu, fez o ciclo lá, você fechou o earn out, ganhou grande parte do earn out, daí você falou pô, e agora?\n[45:13] Como você ressignificou esse momento para você?\n[45:20] Porque assim, a gente tem aqui muito empreendedor que está ouvindo a gente, que está começando, os caras estão no meio da jornada, a galera que já ganhou grana, que já vendeu negócio, ou que está com muito dinheiro, e acaba se perguntando, e qual o próximo passo?\n[46:00] Você chegou lá, como que foi esse seu momento de, putz qual o próximo passo?\n[46:11] E aonde começou a mudar essa chave na tua cabeça?\n[46:18] Porque você falou que o earn out foi legal pra caramba, você trabalhou um monte, aonde que virou essa chave?\n[46:35] Porque terminou os dois anos, você também saiu fora.\n[46:42] A Caort foi vendida em setembro de 2015, em dezembro de 2015 meu filho nasceu, e eu passei a ter uma agenda em São Paulo direto, então os dois primeiros anos do meu filho, eu via ele mais final de semana, segunda e sexta ali, mas daquele jeito, uma tensão grande, porque apesar de ter sido divertido, tinha uma pressão da entrega das metas do earn out, então assim, quando terminou aquele período, eu estava com um problema na lombar, que até hoje eu não sei o que é, mas com certeza era emocional, de tensão, de estresse, uma úlcera no estômago, não úlcera diagnosticada, mas assim, meu estômago não conseguia tocar aqui, então assim, várias questões físicas, do acúmulo de estresse de todo o período, de oito anos ali naquela batalha, e porra, vocês sabem bem como é que é, né galera?\n[48:41] Foda é hard, né?\n[48:43] Então quando eu vi o primeiro momento assim, cara, terminou o earn out, o que eu quero fazer?\n[48:57] Cara, eu quero um tempo pra mim, pra minha família, e estar junto com eles, né?\n[49:09] E era engraçado, eu estava com um problema na minha lombar, que eu não conseguia pegar meu filho no colo direito, durante esse período ali, um pouquinho antes da venda da companhia, até o final do earn out.\n[49:40] Cara, eu viajava, magicamente a minha dor da lombar desaparecia, e quando eu voltava, mesmo não trabalhando mais, e voltava pra Floripa, voltava a porra da dor.\n[50:04] Então era claramente uma questão, sei lá, psicológica.\n[50:12] Emocional.\n[50:13] Emocional, uma coisa nesse sentido.\n[50:19] Então assim, o que foi importante, acho que nesse...\n[50:27] Como decisão, né?\n[50:29] Foi uma decisão.\n[50:31] Eu decidi ficar viajando, porque primeiro, eu gosto pra caramba de viajar, poder viajar com meu filho, dois aninhos e pouco, e minha esposa, divertido.\n[50:54] Cara, a gente viajou pelo mundo inteiro, a gente começou, porra, pelo Havaí, daí descia pro Tahiti, e aí voltava pro Havaí, e aí ficava viajando o mundo inteiro.\n[51:18] Cara, foi super divertido.\n[51:22] Mas assim, nessa época você falou, cara, vou me dar esses dois anos e não vou pensar em nada.\n[51:36] Não, no início não ia ser dois anos, no início ia ser um ano.\n[51:45] Eu ia ficar um ano sem trabalhar.\n[51:50] Mas estava legal.\n[51:53] Mas você se permitiu não fazer nada.\n[51:58] Cara, eu não fiz nada.\n[52:02] Não quero nem pensar.\n[52:05] Ainda tinha um contrato de consultoria com a Lynx, com algumas outras coisas, pra discutir planejamento estratégico, algumas coisas assim.\n[52:26] Um outro cliente que ainda, com certeza, tinha um relacionamento muito forte comigo, lembro, eram grandes contas.\n[52:43] Mas já era sem agenda.\n[52:46] Sem agenda, e quando eu estava no Brasil, quando eu podia, já era uma coisa bem mais soft, não tinha uma pressão.\n[53:03] Mas nesse momento você nem se preocupou, cara.\n[53:10] Não quero nem pensar em trabalho.\n[53:15] Cara, vou viajar.\n[53:17] Vou viajar.\n[53:19] Vamos embora.\n[53:21] E viajei, não só a gente, viajei com meus pais, viajei com meus irmãos, viajei com meu sogro.\n[53:35] Eu lembro que eu vi umas fotos tuas no Facebook de você lá em Petra.\n[53:45] Petra, legal pra caramba.\n[53:49] Legal, né?\n[53:50] A gente acampou com meu filho lá.\n[53:55] Andar pra cacete.\n[53:58] A gente acampou no deserto da Jordânia.\n[54:04] No deserto, com a galera.\n[54:07] Porra, naquele frio.\n[54:10] Frio pra cacete, bicho.\n[54:14] De noite, é.\n[54:16] Mas de dia, suportável.\n[54:19] Mas muito louco, né?\n[54:22] Os extremos da temperatura.\n[54:26] E daí você vê a João Ana e falou, pô, tá legal pra caramba, vou continuar outro ano.\n[54:39] Aí quando chegou no final do primeiro ano, o negócio ainda não tinha nada engatado.\n[54:51] Isso era 18?\n[54:53] Isso era 18.\n[54:55] Puta, pô, por que a gente não vai em tal lugar?\n[55:02] Pô, vamos fazer uma nova viagem, não sei o que.\n[55:09] Vamos.\n[55:10] Cara, fomos de volta.\n[55:13] O primeiro semestre de 2019, viajamos de volta pra cacete.\n[55:22] Aí no segundo semestre de 2019, eu já tava, não, não, agora tem que parar de viajar um pouco.\n[55:36] Vamos ver o que eu vou fazer.\n[55:40] Mas aí nesse momento, cara, eu e minha esposa, a gente tava planejando o segundo filho.\n[55:53] E aí aquela questão, cara, pro cara empreender, ele tem que tá, assim, eu tenho que tá muito, assim, é uma obsessão, cara.\n[56:12] Eu fico, me suga completo.\n[56:15] Puta, com novamente uma empresa grávida, numa situação, eu falei assim, cara, não, deixa nascer o segundo filho e aí eu vou empreender.\n[56:36] Aí comecei a entrar em alguns conselhos.\n[56:42] Aí que começou o processo de, e foi super interessante, porque também não fui muito atrás, meio que apareceu.\n[56:58] E aí comecei a pegar um conselho aqui, e aí não ia pegar muito, na verdade, ia pegar pouco conselho, só que aí chegou a pandemia, e tudo migrou pra conselho remotamente.\n[57:24] Aí eu falei, ah, amigão, remoto é...\n[57:29] Com nóis mesmo.\n[57:31] Aí peguei vários conselhos, inclusive alguns com o nosso amigo aqui, participamos contigo também, um deles, porra.\n[57:48] Hortifruti Natural da Terra.\n[57:53] É, Hortifruti Natural da Terra.\n[57:57] Loja Integrada.\n[58:00] Loja Integrada.\n[58:02] Tivemos...\n[58:03] Foram os dois que a gente tava junto, né?\n[58:09] Foi, né?\n[58:11] Matheus, não?\n[58:13] Não, Matheus, não.\n[58:15] Tentei levar ele lá, mas não rolou.\n[58:21] É, e aí, assim, cara, foi super bacana, acho que no início eu achava meio...\n[58:32] O cara tá muito acostumado, puta, fazer, porra, o cara fala e faz acontecer, né?\n[58:44] Então acho que esse shift pro cara mais aconselhar, no início, assim, porra, tô aqui falando, caralho, a coisa não muda, puta que pariu, tô perdendo meu tempo.\n[59:08] Tô perdendo meu tempo.\n[59:11] Coisa não...\n[59:13] É muito ruim essa sensação, cara.\n[59:18] Ah, então...\n[59:20] É difícil.\n[59:21] Então quem tá acostumado a tá ali fazendo a parada é um pouco difícil, mas por outro lado, você começa a entender um pouco o papel e é um pouco mais lento a transformação, mas você ajuda, principalmente quando você tá discutindo.\n[59:56] Eu acho que é muito legal quando você tá numa posição meio que de moldar a pessoa, sabe?\n[01:00:09] Pelo menos eu senti isso nos que eu participo.\n[01:00:16] Eu não participo de conselho formal, mas quando as empresas que eu sou advisor, quando você tá num negócio de, porra, instigar a amb\n\nA gente chamava um dos líderes, que era o líder de POS, hardware lá da Stone, se chama Marcos com U, né?\n[01:00:52] E aí eu fui entrevistar, eu tinha pedido lá para entrevistar o Marcos, esse cara que é o CTO, só que ele era o cara VP lá da Microsoft, morando em Seattle, não sei o quê, e esse cara, eles já tinham, o pessoal da Stone já tinha tentado falar com ele anteriormente, e ele falou, não, não sei o quê, eu falei, não, cara, insiste, fala que eu quero ver alguma coisa de advisor, não sei o quê, o cara me dá uma chance lá de conversar com ele, né?\n[01:01:58] Aí nessas aí de entrar em uma reunião atrás da outra, eu comecei a reunião com ele, e aí eu cheguei atrasado, porque eu tinha ido no banheiro, eu falei assim, pô, cara, me desculpa, eu cheguei atrasado, ele falou, não, tudo bem, eu falei, então, me conta um pouco mais sobre você, me diz como que eu posso ajudar aí no teu dia a dia, no teu trabalho, não sei o quê.\n[01:02:53] Você achou que ele trabalhava na Stone?\n[01:02:59] Eu achava que era o Marcos, aí o cara olhou assim, ele achou estranho, eu vi a cara dele assim, ele falou, pô, meu nome é Marcos, eu moro aqui em Seattle, em Seattle, cara, pô, e funciona?\n[01:03:27] Confuso assim, aí o cara já não queria estar lá falando comigo, eu já cheguei atrasado, aí começa o papo todo, ele chegou, virou assim, pô, João, ele parou assim, cara, por que mesmo que a gente está conversando aqui?\n[01:04:00] Aí caiu o ficha, eu falei, caraca, Marcos, esse é o Marcos da Microsoft, esse é o Marcos, pô, mil desculpas, cara, não, vamos fazer o seguinte, você não fala nada, deixa eu me apresentar aqui, comecei a falar com ele, aí o papo, porra, desenrolou, foi super legal, e aí a gente acabou achando umas afinidades, várias afinidades, e aí os primeiros papos foram mais como advisor, depois a gente conseguiu trazer ele.\n[01:05:02] Sempre assim.\n[01:05:04] E aí, pô, tá funcionando super legal, ele é fenomenal e tá funcionando super bem.\n[01:05:16] Então ele cuida da engenharia, e comigo tá o aspecto de produto e engenharia, segurança de informação agora, mas recentemente a gente passou pro CRO.\n[01:05:38] E ele tá em Seattle ou ele veio pro Brasil?\n[01:05:45] Ah, ele se mudou pra Boca Raton, tá morando ali em Miami, mesmo fuso, né?\n[01:05:56] Não, não, e a viagem também é mais curta, né?\n[01:06:03] Mais fácil, né?\n[01:06:05] Boa.\n[01:06:05] Cara, estamos chegando aqui numa reta final, a gente tem um bate-bola aqui pra fazer com você.\n[01:06:20] Calma aí, calma aí, antes do bate-bola, pô.\n[01:06:26] Calma.\n[01:06:27] É?\n[01:06:27] É, pô, calma.\n[01:06:29] Então tá bom.\n[01:06:31] Como que é, assim, né, eu vejo que na minha cabeça tem três tipos de pessoas, né?\n[01:06:43] A pessoa que leva o negócio do zero pro um, a pessoa que leva do um pro dez e a pessoa que leva do um pro cem.\n[01:07:00] Dificilmente você tem as pessoas que conseguem cumprir todas essas jornadas.\n[01:07:11] Eu vejo que você é uma das únicas pessoas que eu conheço que de fato consegue cumprir muito bem essas jornadas, né?\n[01:07:29] Você levou ali o power do zero pro um, do um pro dez, talvez do dez pro cinquenta, entendeu?\n[01:07:42] Daí você entrou na Lynx, talvez voltou um pouquinho pra trás pra um projeto novo, pegou ali, tirou ele do um pro dez, começou a levar ele pra outro momento de maturidade e agora na Stone você tá ali levando o negócio do dez pro cem, talvez não do dez pro cem, do cinquenta pro cem, porque o negócio já era grande.\n[01:08:29] Quantas pessoas hoje tem debaixo da tua diretoria?\n[01:08:37] Duas mil, três mil?\n[01:08:40] Dois mil e poucos.\n[01:08:42] Você não gerencia duas mil, logicamente, você gerencia quem tá ali direto contigo, mas é um outro nível de complexidade, é um outro nível de não centralização, de descentralização.\n[01:09:10] O que que tem sido pra você já fazem dois anos quase que você tá lá, né?\n[01:09:20] Um ano e meio.\n[01:09:22] Um ano e meio que na verdade correspondem a quinze, né?\n[01:09:31] Imagina o tanto que tua vida não mudou ao longo desse...\n[01:09:39] Qual que tem sido o maior desafio pra você quando você chegou lá e pegou um negócio, cara, com duas mil pessoas e um ano e meio depois que você olha pra trás e fala, caramba, que jornada legal.\n[01:10:08] O que que você acha que foram os principais desafios de estar nessa empresa grande que são diferentes de você estar em outra empresa?\n[01:10:28] Acho que tem desafios que eles vão ser comuns a qualquer pessoa que esteja gerindo algo análogo a isso, né?\n[01:10:44] Muita gente, muitos produtos, enfim, uma complexidade técnica.\n[01:10:54] Existem os desafios específicos relacionados à Stone.\n[01:11:02] Então, a Stone é uma empresa muito sui generis.\n[01:11:09] Ela foi criada de uma maneira muito única.\n[01:11:15] Eu acho que um dos maiores desafios que eu enfrentei, eu acho que já passei por parte, parte dele já foi resolvido, mas parte ainda não, é que eram, na verdade, algumas empresas ali dentro da Stone, com culturas distintas, com filosofias de desenvolvimento de produtos distintos e que a gente teve que transformar.\n[01:12:02] E muitas vezes é natural que dentro desse processo uma não tenha uma afinidade tão grande com a outra, né?\n[01:12:18] Até por preferências tecnológicas, enquanto um é mais, porra, um pensource, o outro é mais não sei o quê e assim por diante.\n[01:12:37] Então, acho que o primeiro desafio é conseguir, que é mais específico da Stone, é formar um time único.\n[01:12:52] Que as pessoas entendam, se identifiquem com um time único e que esse time único tenha valores comuns, né?\n[01:13:08] Que eles de fato acreditem e compartilhem, né?\n[01:13:15] Então, acho que essa parte a gente venceu.\n[01:13:21] Como que você fez isso?\n[01:13:25] Assim, todo mundo já estava sofrendo muito por não ter isso.\n[01:13:34] Então, um pouco o que ajudou a dor que eles estavam sofrendo me ajudou a resolver a dor, né?\n[01:13:48] E aí, eu acho que foram vários aspectos.\n[01:13:54] Eu acho que ouvir todo mundo, entender os pontos que todo mundo tinha e trazer para perto pessoas fantásticas que já tinham lá, dar a voz para elas.\n[01:14:16] Elas ajudaram a criar a estrutura, o desenho da estrutura comum.\n[01:14:25] A estrutura comum fazia muito sentido quando você olhava.\n[01:14:34] Claramente, a gente conseguiria capturar uma série de sinergias e vantagens, enfim.\n[01:14:47] Então, não foi muito difícil convencê-los a ir naquela direção.\n[01:14:56] Mas assim, eu acho que o desafio que a gente enfrenta hoje ainda tem, tem a ver com o legado.\n[01:15:10] Então, a gente tem muito legado tecnológico, isso é muito difícil.\n[01:15:20] Do ponto de vista de gestão, a companhia precisa ter os seus processos claros que derivam, obviamente, de uma visão estratégica, que se transforma em uma meta, que se transforma em uma estrutura, que se transforma então em processos.\n[01:15:55] Então, ter as pessoas certas, na estrutura certa, com os processos adequados, é o que vai te permitir gerir 2 mil pessoas de uma maneira correta.\n[01:16:17] Senão, você vai apontar para lá e vai ter uma parte vindo para cá, uma parte vindo para lá, uma parte...\n[01:16:32] Cara, você não consegue fazer todo mundo ir na mesma direção.\n[01:16:41] Então, eu acho que para você conseguir ter o ferramental correto, ele se resume na essência, se você for descascar a cebola e chegar na essência para você conseguir gerir, em ter uma estratégia clara, um objetivo comum, que se desdobra em uma meta comum e essas metas divididas em uma estrutura, times muito bem desenhados e com as pessoas certas e com os processos adequados.\n[01:17:38] Então, com isso, a gente consegue colocar todo mundo no mesmo caminho.\n[01:17:49] Então, por exemplo, a gente colocou lá todo o processo de OKRs, sendo com planejamento trimestral, e aí colocando as dependências entre os times, uma cadência de receber os OKRs de um tri e planejar o próximo.\n[01:18:20] Então, isso conseguiu trazer todo mundo mais ou menos para o mesmo caminho.\n[01:18:31] Eu diria que os...\n[01:18:34] E aí, um desafio que eu acho que é importante também com 2 mil pessoas, o equilíbrio entre você ganhar eficiência, estruturar, fazer com que seus processos sejam mais eficientes, mas, ao mesmo tempo, permitindo aquele caos que é fundamental para você criar coisas novas.\n[01:19:14] Então, eu digo que é a ambidestria, de você ter um time trabalhando de uma maneira, muitas vezes, desestruturadas, de uma maneira sem muito processo, sem muito controle.\n[01:19:40] Eu não gosto de colocar a palavra controle, que não é o propósito do processo.\n[01:19:52] É a flexibilidade.\n[01:19:54] Em alguns aspectos, tem que existir controle, mas, em grande parte, é mais alinhamento que você precisa ter e direcionamento.\n[01:20:13] Porque, no final do dia, quando você tem um time grande, o grande desafio da gestão é você precisa ter vários times o mais autônomo possível, para que esse time tenha identidade, seja rápido, ágil, mas alinhados.\n[01:20:45] Essa é a dificuldade.\n[01:20:48] Essa é a dificuldade.\n[01:20:51] E o sistema de OKR para você, o planejamento estratégico e o desdobramento para OKR foi o que fez a virada de chave.\n[01:21:09] Ajuda demais, ajudou sem dúvida nenhuma.\n[01:21:15] A gente tinha lá o banking operando muito dentro do produto Stone, que é o nosso segmento do SMB, já estava há anos, não conseguia entrar dentro do Tom, que é o produto lá de micro autônomos.\n[01:21:43] Cara, a gente conseguiu num quarto, para fazer com que esse banking",
+  "timestamps_estimated": true
+}

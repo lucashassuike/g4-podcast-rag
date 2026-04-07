@@ -1,0 +1,451 @@
+{
+  "episode_id": "34748488459",
+  "title": "ELE CRIOU A SOLUÇÃO QUE CRESCE 20% DAS GIGANTES DO VAREJO - COM ALEXANDRE ZOLKO | EXTREMOS",
+  "date_published": 1709712000,
+  "duration": 5026,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do Podcast Extremos"
+    },
+    {
+      "name": "Alexandre Zolko",
+      "role": "guest",
+      "company": "CRM Bonus",
+      "title": "CEO e Fundador"
+    },
+    {
+      "name": "Alexandre Birman",
+      "role": "mentioned",
+      "company": "Arezzo",
+      "title": "CEO"
+    },
+    {
+      "name": "Rony",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Eike Batista",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sabrina Sato",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Eduardo Vieira",
+      "role": "mentioned",
+      "company": "CRM 2.0",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Luiz Guedes",
+      "role": "mentioned",
+      "company": "CRM 2.0",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Ronen",
+      "role": "mentioned",
+      "company": "VTex",
+      "title": "Country Manager"
+    },
+    {
+      "name": "Josué Varela",
+      "role": "mentioned",
+      "company": "Paulo Werre",
+      "title": "Former Director"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Neymar",
+      "role": "mentioned",
+      "company": "",
+      "title": "Athlete"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Crm Bonus",
+      "industry": "Tecnologia e Varejo",
+      "context": "Fundada por Alexandre Zolko, focada em eficiência no varejo"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação empresarial cofundada por Tallis Gomes"
+    },
+    {
+      "name": "Arezzo",
+      "industry": "Moda e Calçados",
+      "context": "Comprou a marca My Shoes"
+    },
+    {
+      "name": "Softbank",
+      "industry": "Investimentos e Tecnologia",
+      "context": "Investidor na CRM Bonus"
+    },
+    {
+      "name": "Riverwood",
+      "industry": "Investimentos e Tecnologia",
+      "context": "Investidor na CRM Bonus"
+    },
+    {
+      "name": "Ehg",
+      "industry": "Investimentos e Tecnologia",
+      "context": "Investidor na CRM Bonus"
+    },
+    {
+      "name": "Volpi Capital",
+      "industry": "Investimentos e Tecnologia",
+      "context": "Investidor na CRM Bonus"
+    },
+    {
+      "name": "Crm 2.0",
+      "industry": "Technology",
+      "context": "Company focused on CRM solutions and bonus systems for retail and other industries."
+    },
+    {
+      "name": "Chili Beans",
+      "industry": "Retail",
+      "context": "Company mentioned as a potential client for CRM 2.0's solutions."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Banking",
+      "context": "Company collaborating with CRM 2.0 for customer engagement solutions."
+    },
+    {
+      "name": "Sem Parar",
+      "industry": "Transportation",
+      "context": "Company mentioned as a client of CRM 2.0."
+    },
+    {
+      "name": "Crm Bônus",
+      "industry": "Retail Technology",
+      "context": "Discussed as a company providing solutions for retail growth."
+    },
+    {
+      "name": "Vtex",
+      "industry": "E-commerce",
+      "context": "Mentioned in relation to its operations in Mexico."
+    },
+    {
+      "name": "Paulo Werre",
+      "industry": "Retail",
+      "context": "Mentioned in relation to a business interaction with CRM Bônus."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Stock Option",
+      "category": "Estratégia de Retenção e Incentivo"
+    },
+    {
+      "name": "Bootstrap",
+      "category": "Modelo de Financiamento"
+    },
+    {
+      "name": "VC (Venture Capital)",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Eficiência no Varejo",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "CRM 2.0",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Member Get Member",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Customer Feedback Metric"
+    },
+    {
+      "name": "Mentoria descentralizada",
+      "category": "Education and Mentorship"
+    },
+    {
+      "name": "Modelo de negócio",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Addressable Market",
+      "category": "Business Metric"
+    },
+    {
+      "name": "Solver",
+      "category": "Optimization Technique"
+    },
+    {
+      "name": "Distribuição de dividendos",
+      "category": "Financial Strategy"
+    },
+    {
+      "name": "Net Retention Rate",
+      "category": "Metric"
+    },
+    {
+      "name": "Cashback",
+      "category": "Business Model"
+    },
+    {
+      "name": "Vulnerability",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "Tudo ou Nada",
+      "author": "Eike Batista"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "280 milhões de reais",
+      "context": "Venda de 28% da CRM Bonus para investidores"
+    },
+    {
+      "value": "1 bilhão de reais",
+      "context": "Avaliação da CRM Bonus após investimento"
+    },
+    {
+      "value": "70 lojas",
+      "context": "Expansão da My Shoes antes de sua venda"
+    },
+    {
+      "value": "Quadruplificação da companhia",
+      "context": "Crescimento da CRM Bonus após investimento"
+    },
+    {
+      "value": "4x",
+      "context": "Growth of the company in one year and two months."
+    },
+    {
+      "value": "100 million",
+      "context": "Number of Brazilians who have received bonuses from CRM 2.0."
+    },
+    {
+      "value": "72%",
+      "context": "Ownership percentage retained by the founder in CRM 2.0."
+    },
+    {
+      "value": "20%",
+      "context": "Growth rate attributed to CRM Bônus solutions for retail giants."
+    },
+    {
+      "value": "1 year and 2 months",
+      "context": "Timeframe of significant growth for CRM Bônus."
+    },
+    {
+      "value": "20%",
+      "context": "Growth rate attributed to CRM Bônus solutions for retail giants."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Josué Varela",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Paulo Werre",
+      "target_type": "company"
+    },
+    {
+      "source": "Crm 2.0",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sem Parar",
+      "target_type": "company"
+    },
+    {
+      "source": "Crm 2.0",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Itaú",
+      "target_type": "company"
+    },
+    {
+      "source": "Crm 2.0",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Zolko",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Crm 2.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Zolko",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "My Shoes",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Zolko",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Crm Bonus",
+      "target_type": "company"
+    },
+    {
+      "source": "Arezzo",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "My Shoes",
+      "target_type": "company"
+    },
+    {
+      "source": "Eduardo Vieira",
+      "source_type": "person",
+      "relation": "co-founded",
+      "target": "Crm 2.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Crm 2.0",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Chili Beans",
+      "target_type": "company"
+    },
+    {
+      "source": "Ehg",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Crm Bonus",
+      "target_type": "company"
+    },
+    {
+      "source": "Softbank",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Crm Bonus",
+      "target_type": "company"
+    },
+    {
+      "source": "Riverwood",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Crm Bonus",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Zolko",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Presentei",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Zolko",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Home To Home",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Zolko",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Crm Bônus",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Guedes",
+      "source_type": "person",
+      "relation": "co-founded",
+      "target": "Crm 2.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Zolko",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Fit To You",
+      "target_type": "company"
+    },
+    {
+      "source": "Volpi Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Crm Bonus",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ronen",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

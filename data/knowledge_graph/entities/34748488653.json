@@ -1,0 +1,406 @@
+{
+  "episode_id": "34748488653",
+  "title": "#025 - O que faz uma empresa sair da crise? Um papo com Joao Adibe da Cimed",
+  "date_published": 1630485014,
+  "duration": 2790,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "João Adibe",
+      "role": "guest",
+      "company": "Cimed",
+      "title": "CEO"
+    },
+    {
+      "name": "Richard Branson",
+      "role": "mentioned",
+      "company": "Virgin Group",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "Cimed",
+      "industry": "Pharmaceutical",
+      "context": "One of the largest pharmaceutical groups in Brazil"
+    },
+    {
+      "name": "Itaxi",
+      "industry": "Transporte",
+      "context": "Empresa mencionada em um case de propósito envolvendo vouchers para mulheres na Arábia Saudita."
+    },
+    {
+      "name": "Instituto Acre",
+      "industry": "Consultoria",
+      "context": "Contratado pela Cimed para mapear e melhorar a força de vendas."
+    },
+    {
+      "name": "Singoo",
+      "industry": "Tecnologia/Beleza",
+      "context": "Mencionada por Tallis Gomes em relação a práticas de gestão."
+    },
+    {
+      "name": "Gestão 4.0",
+      "industry": "Education",
+      "context": "Business education and training"
+    },
+    {
+      "name": "Virgin Group",
+      "industry": "Conglomerate",
+      "context": "Diversified business group founded by Richard Branson"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Ride-hailing app founded by Tallis Gomes"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão 4.0",
+      "category": "Business Framework"
+    },
+    {
+      "name": "Propósito empresarial",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Market share",
+      "category": "Business Metric"
+    },
+    {
+      "name": "Medicamento genérico",
+      "category": "Pharmaceutical Industry"
+    },
+    {
+      "name": "Engajamento social",
+      "category": "Corporate Social Responsibility"
+    },
+    {
+      "name": "Propósito organizacional",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Regionalização de vendas",
+      "category": "Estratégia comercial"
+    },
+    {
+      "name": "Meritocracia",
+      "category": "Gestão de equipes"
+    },
+    {
+      "name": "Treinamento de vendas",
+      "category": "Desenvolvimento profissional"
+    },
+    {
+      "name": "Seis Passos do PUSH",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Framework",
+      "category": "Gestão"
+    },
+    {
+      "name": "Playbook",
+      "category": "Ferramenta de gestão"
+    },
+    {
+      "name": "KPIs (Indicadores-chave de desempenho)",
+      "category": "Métricas de desempenho"
+    },
+    {
+      "name": "Digital Transformation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Cota Moral",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "TBC (Tira a Bunda da Cadeira)",
+      "category": "Productivity Framework"
+    },
+    {
+      "name": "QSP (Quantidade Suficiente Para)",
+      "category": "Sales Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Losing My Virginity",
+      "author": "Richard Branson"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "5,000",
+      "context": "Number of employees at Cimed"
+    },
+    {
+      "value": "2 billion BRL",
+      "context": "Projected revenue for Cimed in the current year"
+    },
+    {
+      "value": "35%",
+      "context": "Market share of generic medications in Brazil"
+    },
+    {
+      "value": "90%",
+      "context": "Market share of generic medications in the United States"
+    },
+    {
+      "value": "35 milhões",
+      "context": "Número de autônomos no Brasil mencionado na discussão."
+    },
+    {
+      "value": "80 mil pontos de venda",
+      "context": "Total de pontos de venda no varejo farmacêutico brasileiro."
+    },
+    {
+      "value": "40% do faturamento",
+      "context": "Proporção do faturamento do mercado farmacêutico brasileiro concentrado em grandes redes."
+    },
+    {
+      "value": "68 mil pontos de venda independentes",
+      "context": "Número de pontos de venda independentes no mercado farmacêutico brasileiro."
+    },
+    {
+      "value": "5 mil funcionários",
+      "context": "Número de funcionários da CIMED."
+    },
+    {
+      "value": "Crescimento duas vezes maior que o mercado",
+      "context": "Taxa de crescimento da CIMED nos últimos cinco anos."
+    },
+    {
+      "value": "36ª para 4ª maior farmacêutica",
+      "context": "Posição da CIMED no mercado farmacêutico brasileiro entre 2009 e 2019."
+    },
+    {
+      "value": "25% ao ano",
+      "context": "Taxa de crescimento anual da Cimed antes da implementação do PUSH."
+    },
+    {
+      "value": "50%",
+      "context": "Turnover da área comercial da Cimed após implementação do PUSH."
+    },
+    {
+      "value": "3,5% ao ano",
+      "context": "Taxa de juros mencionada como contexto econômico."
+    },
+    {
+      "value": "420 offices",
+      "context": "Easy Taxi's global expansion"
+    },
+    {
+      "value": "35 countries",
+      "context": "Easy Taxi's operational reach"
+    },
+    {
+      "value": "25% growth",
+      "context": "Performance improvement in Malaysia for Easy Taxi"
+    },
+    {
+      "value": "16% growth",
+      "context": "Second highest growth in Easy Taxi's operations"
+    },
+    {
+      "value": "15% decline",
+      "context": "Performance drop in Colombia for Easy Taxi"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Treinamento De Vendas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Singoo",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Qsp (Quantidade Suficiente Para)",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Losing My Virginity",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cota Moral",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Meritocracia",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Digital Transformation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Medicamento Genérico",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Market Share",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Engajamento Social",
+      "target_type": "concept"
+    },
+    {
+      "source": "Itaxi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Propósito Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Instituto Acre",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Propósito Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Regionalização De Vendas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Richard Branson",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Virgin Group",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Propósito Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tbc (Tira A Bunda Da Cadeira)",
+      "target_type": "concept"
+    }
+  ]
+}

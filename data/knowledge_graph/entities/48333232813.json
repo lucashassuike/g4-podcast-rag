@@ -1,0 +1,316 @@
+{
+  "episode_id": "48333232813",
+  "title": "AS VERDADES SOBRE CAPTAÇÃO DE RECURSOS FINANCEIROS COM LEANDRO FARIELLO | PAPO DE GESTÃO",
+  "date_published": 1768230000,
+  "duration": 3749,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host of Papo de Gestão"
+    },
+    {
+      "name": "Leandro Fariello",
+      "role": "guest",
+      "company": "Graffin Partners",
+      "title": "Sócio"
+    },
+    {
+      "name": "Rui Chamas",
+      "role": "mentioned",
+      "company": "Isa Cetep",
+      "title": "Presidente"
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "ACE",
+      "title": "Head of ACE"
+    },
+    {
+      "name": "Patrick",
+      "role": "mentioned",
+      "company": "Braskem",
+      "title": "Head de Inovação"
+    },
+    {
+      "name": "Alessandro",
+      "role": "mentioned",
+      "company": "ABC Energia",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Suzano",
+      "industry": "Papel e Celulose",
+      "context": "Empresas mencionadas no contexto de valuation e experiência de Leandro Fariello"
+    },
+    {
+      "name": "Ródia",
+      "industry": "Química",
+      "context": "Empresas mencionadas no contexto de valuation e experiência de Leandro Fariello"
+    },
+    {
+      "name": "Braskem",
+      "industry": "Química e Petroquímica",
+      "context": "Empresas mencionadas no contexto de valuation e experiência de Leandro Fariello"
+    },
+    {
+      "name": "Tembice",
+      "industry": "Mobilidade Urbana",
+      "context": "Empresas mencionadas no contexto de startups e experiência de Leandro Fariello"
+    },
+    {
+      "name": "Graffin Partners",
+      "industry": "Consultoria Financeira",
+      "context": "Empresa onde Leandro Fariello é sócio"
+    },
+    {
+      "name": "Ace",
+      "industry": "Aceleradora de Startups",
+      "context": "Mencionada no contexto de startups e inovação"
+    },
+    {
+      "name": "Abc Energia",
+      "industry": "Energia",
+      "context": "Empresa mencionada como exemplo de crescimento através de alavancagem."
+    },
+    {
+      "name": "Banco Do Nordeste",
+      "industry": "Financeiro",
+      "context": "Mencionado como fonte de financiamento para projetos na região Nordeste."
+    },
+    {
+      "name": "Banco Da Amazônia",
+      "industry": "Financeiro",
+      "context": "Mencionado como fonte de financiamento para projetos na região Amazônica."
+    },
+    {
+      "name": "Fapesp",
+      "industry": "Pesquisa e Desenvolvimento",
+      "context": "Mencionada como fonte de fomento para projetos de inovação no estado de São Paulo."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Fluxo de Caixa Descontado (DCF)",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Valuation",
+      "category": "Financeiro"
+    },
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Green Belt",
+      "category": "Metodologia de Melhoria Contínua"
+    },
+    {
+      "name": "6 Sigma",
+      "category": "Metodologia de Melhoria Contínua"
+    },
+    {
+      "name": "CAPEX",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Captação de Recursos",
+      "category": "Finanças"
+    },
+    {
+      "name": "Business Plan (BP)",
+      "category": "Planejamento Estratégico"
+    },
+    {
+      "name": "Margem de Contribuição",
+      "category": "Finanças"
+    },
+    {
+      "name": "Dívida Estruturada",
+      "category": "Finanças"
+    },
+    {
+      "name": "Fomento",
+      "category": "Finanças"
+    },
+    {
+      "name": "Taxa de Alavancagem",
+      "category": "Finanças"
+    },
+    {
+      "name": "EBIT",
+      "category": "Financial Metric"
+    },
+    {
+      "name": "Dívida Líquida",
+      "category": "Financial Metric"
+    },
+    {
+      "name": "Business Plan",
+      "category": "Strategic Planning"
+    },
+    {
+      "name": "Modelo Financeiro",
+      "category": "Strategic Planning"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "25 anos",
+      "context": "Experiência de Leandro Fariello em finanças, estratégia e M&A"
+    },
+    {
+      "value": "2012",
+      "context": "Ano em que Leandro Fariello iniciou sua carreira no mundo financeiro"
+    },
+    {
+      "value": "750 mil reais",
+      "context": "Margem de contribuição mensal estimada para o exemplo de biomassa"
+    },
+    {
+      "value": "10 milhões de reais",
+      "context": "Investimento inicial necessário para o projeto de biomassa."
+    },
+    {
+      "value": "1,5 milhão de reais por mês",
+      "context": "Faturamento estimado do projeto de biomassa."
+    },
+    {
+      "value": "50%",
+      "context": "Margem de contribuição estimada para o projeto."
+    },
+    {
+      "value": "2 milhões de reais",
+      "context": "Valor captado pela startup Trivia através da FAPESP."
+    },
+    {
+      "value": "3",
+      "context": "Industry standard for debt-to-EBIT ratio in capital-intensive industries."
+    },
+    {
+      "value": "15%",
+      "context": "Current interest rate for loans, including CDI."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Leandro Fariello",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Rui Chamas",
+      "target_type": "person"
+    },
+    {
+      "source": "Leandro Fariello",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "6 Sigma",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leandro Fariello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Suzano",
+      "target_type": "company"
+    },
+    {
+      "source": "Suzano",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Tecnologia De Biomassa",
+      "target_type": "company"
+    },
+    {
+      "source": "Leandro Fariello",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "M&A (Fusões E Aquisições)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leandro Fariello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ródia",
+      "target_type": "company"
+    },
+    {
+      "source": "Leandro Fariello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Braskem",
+      "target_type": "company"
+    },
+    {
+      "source": "Abc Energia",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Energy",
+      "target_type": "company"
+    },
+    {
+      "source": "Alessandro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Abc Energia",
+      "target_type": "company"
+    },
+    {
+      "source": "Leandro Fariello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tembice",
+      "target_type": "company"
+    },
+    {
+      "source": "Trivia",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Fapesp",
+      "target_type": "company"
+    },
+    {
+      "source": "Leandro Fariello",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Capex",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leandro Fariello",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Valuation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leandro Fariello",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Fluxo De Caixa Descontado (Dcf)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leandro Fariello",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Green Belt",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leandro Fariello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Graffin Partners",
+      "target_type": "company"
+    }
+  ]
+}

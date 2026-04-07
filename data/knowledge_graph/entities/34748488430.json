@@ -1,0 +1,291 @@
+{
+  "episode_id": "34748488430",
+  "title": "UTILIZE EVENTOS DE MANEIRA ESTRATÉGICA PARA O NEGÓCIO - COM MARCO BORDON | PAPO DE GESTÃO",
+  "date_published": 1717403400,
+  "duration": 3654,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Marco Bordom",
+      "role": "guest",
+      "company": "Grupo PHD Eventos",
+      "title": "CEO, Fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Marco Bordon",
+      "role": "guest",
+      "company": "TKT Events",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno",
+      "role": "mentioned",
+      "company": "TKT Events",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Deion Sanders",
+      "role": "mentioned",
+      "company": "NFL",
+      "title": "Coach Prime"
+    },
+    {
+      "name": "Economista Sincero",
+      "role": "mentioned",
+      "company": "Não mencionado",
+      "title": "Não mencionado"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Grupo Phd Eventos",
+      "industry": "Eventos",
+      "context": "Fundada por Marco Bordom e Bruno, opera mais de 30 espaços para eventos corporativos e casamentos no Brasil."
+    },
+    {
+      "name": "Teto Rooftop Lounge",
+      "industry": "Hospitalidade",
+      "context": "Primeiro rooftop do Brasil com formato 360, fundado por Marco Bordom e Bruno."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de treinamento de times e desenvolvimento profissional mencionada no episódio."
+    },
+    {
+      "name": "Tkt Events",
+      "industry": "Event Management",
+      "context": "Empresa de formaturas e eventos fundada por Marco Bordon e Bruno."
+    },
+    {
+      "name": "Ncaa",
+      "industry": "Sports",
+      "context": "Liga de futebol universitário nos Estados Unidos"
+    },
+    {
+      "name": "Nfl",
+      "industry": "Sports",
+      "context": "Liga de futebol americano profissional nos Estados Unidos"
+    },
+    {
+      "name": "Clube Pinheiros",
+      "industry": "Sports",
+      "context": "Local onde Marco Bordon joga futebol"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Stock Option",
+      "category": "Estratégia de remuneração"
+    },
+    {
+      "name": "Modelo 360",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Alta gastronomia",
+      "category": "Hospitalidade"
+    },
+    {
+      "name": "Alta coquetelaria",
+      "category": "Hospitalidade"
+    },
+    {
+      "name": "sociedade empresarial",
+      "category": "business"
+    },
+    {
+      "name": "experiência em eventos",
+      "category": "business"
+    },
+    {
+      "name": "planejamento anual",
+      "category": "business"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Dedicação",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Estrutura esportiva",
+      "category": "Sports Management"
+    },
+    {
+      "name": "Bolsa de estudos esportiva",
+      "category": "Education"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Business"
+    },
+    {
+      "name": "Rotina de trabalho",
+      "category": "Productivity"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "16 anos",
+      "context": "Tempo que Marco Bordom morou nos Estados Unidos."
+    },
+    {
+      "value": "Mais de 30 espaços",
+      "context": "Número de locais operados pelo Grupo PHD Eventos."
+    },
+    {
+      "value": "100% de crescimento",
+      "context": "Crescimento do Grupo PHD Eventos durante a pandemia."
+    },
+    {
+      "value": "10 anos",
+      "context": "Duração da sociedade entre Marco Bordon e Bruno."
+    },
+    {
+      "value": "30 casas",
+      "context": "Número total de espaços gerenciados pela empresa."
+    },
+    {
+      "value": "20 próprias, 10 parcerias",
+      "context": "Distribuição dos espaços gerenciados pela empresa."
+    },
+    {
+      "value": "400 pessoas",
+      "context": "Tamanho do time de Marco Bordon"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Deion Sanders",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nfl",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Marco Bordom",
+      "target_type": "person"
+    },
+    {
+      "source": "Marco Bordom",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Teto Rooftop Lounge",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco Bordon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Bolsa De Estudos Esportiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marco Bordon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Clube Pinheiros",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco Bordon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estrutura Esportiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marco Bordon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Disciplina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marco Bordon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marco Bordon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tkt Events",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco Bordom",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Phd Eventos",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco Bordom",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Phd Eventos",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tkt Events",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco Bordon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rotina De Trabalho",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marco Bordon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Resiliência",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Stock Option",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marco Bordon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dedicação",
+      "target_type": "concept"
+    }
+  ]
+}

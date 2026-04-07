@@ -1,0 +1,153 @@
+{
+  "episode_id": "34748488502",
+  "title": "Como Fazer o Seu Negócio Virar Moda? - Com Cris Arcangeli | G4 Podcasts",
+  "date_published": 1700641800,
+  "duration": 1893,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Cris Arcangeli",
+      "role": "guest",
+      "company": "Academia Brasileira de Marketing",
+      "title": "Membro"
+    },
+    {
+      "name": "Jaqueline Alecrim",
+      "role": "mentioned",
+      "company": "Dr. Jack",
+      "title": "Cientista"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Dr. Jack",
+      "industry": "Cosméticos",
+      "context": "Empresa mencionada como produtora de shampoo antiqueda com 100% de eficácia"
+    },
+    {
+      "name": "Fito Ervas",
+      "industry": "Cosméticos",
+      "context": "Primeira empresa de Cris Arcangeli, conhecida pelo lançamento do primeiro shampoo sem sal do mercado"
+    },
+    {
+      "name": "Beauty",
+      "industry": "Cosméticos e Saúde",
+      "context": "Empresa fundada por Cris Arcangeli, vendida para um grupo financeiro"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inovação",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Canal Farma",
+      "category": "Distribuição"
+    },
+    {
+      "name": "Canal de supermercado",
+      "category": "Distribuição"
+    },
+    {
+      "name": "Pitch 2 Minutos",
+      "category": "Estratégia de apresentação"
+    },
+    {
+      "name": "Produto de consumo",
+      "category": "Mercado"
+    },
+    {
+      "name": "Tendências de mercado",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "lançamento de impacto",
+      "category": "estratégia de marketing"
+    },
+    {
+      "name": "branding",
+      "category": "estratégia de marketing"
+    },
+    {
+      "name": "construção de marca",
+      "category": "estratégia de marketing"
+    },
+    {
+      "name": "marketing estratégico",
+      "category": "estratégia de marketing"
+    },
+    {
+      "name": "diferenciação de mercado",
+      "category": "estratégia de negócios"
+    },
+    {
+      "name": "construção de categoria",
+      "category": "estratégia de negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "Como Fazer o Seu Negócio Virar Moda",
+      "author": "Cris Arcangeli"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "60%",
+      "context": "Porcentagem da farmácia ocupada por produtos de consumo fora do balcão"
+    },
+    {
+      "value": "40%",
+      "context": "Participação adquirida por um grupo financeiro na empresa Beauty"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Cris Arcangeli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Academia Brasileira De Marketing",
+      "target_type": "company"
+    },
+    {
+      "source": "Jaqueline Alecrim",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Dr. Jack",
+      "target_type": "company"
+    },
+    {
+      "source": "Cris Arcangeli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Beauty",
+      "target_type": "company"
+    },
+    {
+      "source": "Beauty",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Construção De Categoria",
+      "target_type": "concept"
+    },
+    {
+      "source": "Cris Arcangeli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Fito Ervas",
+      "target_type": "company"
+    }
+  ]
+}

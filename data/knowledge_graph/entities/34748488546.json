@@ -1,0 +1,206 @@
+{
+  "episode_id": "34748488546",
+  "title": "Aprenda com o Modelo de Gestão do BTG Pactual - Com Roberto Sallouti (CEO) | G4 Podcasts",
+  "date_published": 1695025800,
+  "duration": 3824,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Roberto Sallouti",
+      "role": "guest",
+      "company": "BTG Pactual",
+      "title": "CEO"
+    },
+    {
+      "name": "Esteves",
+      "role": "mentioned",
+      "company": "BTG Pactual",
+      "title": "Chairman"
+    },
+    {
+      "name": "Doug Leão",
+      "role": "mentioned",
+      "company": "Sequoia Capital",
+      "title": "Investor"
+    },
+    {
+      "name": "André",
+      "role": "mentioned",
+      "company": "Intelli",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Oliver Summer",
+      "role": "mentioned",
+      "company": "Rocket Internet",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Btg Pactual",
+      "industry": "Financeiro",
+      "context": "Discussão sobre modelo de gestão e cultura organizacional"
+    },
+    {
+      "name": "Goldman Sachs",
+      "industry": "Financeiro",
+      "context": "Referência para cultura organizacional do BTG Pactual"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Adaptação de práticas culturais do BTG Pactual"
+    },
+    {
+      "name": "Intelli",
+      "industry": "Education",
+      "context": "Founded to address the lack of engineers in Brazil and provide innovative education."
+    },
+    {
+      "name": "Sequoia Capital",
+      "industry": "Venture Capital",
+      "context": "Mentioned in the context of investment perspectives in Brazil."
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Tecnologia/Transporte",
+      "context": "Empresa mencionada em relação à experiência de liderança de Tallis Gomes."
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Investimentos/Startups",
+      "context": "Investidora mencionada no contexto da Easy Taxi."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Modelo de partnership",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão de pessoas",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Empatia",
+      "category": "Habilidades interpessoais"
+    },
+    {
+      "name": "Framework de tomada de decisão",
+      "category": "Gestão"
+    },
+    {
+      "name": "Partnership Model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Meritocracy",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Project-Based Learning",
+      "category": "Educational Framework"
+    },
+    {
+      "name": "Partnership",
+      "category": "Modelo de gestão"
+    },
+    {
+      "name": "IPO",
+      "category": "Estratégia financeira"
+    },
+    {
+      "name": "Book Value",
+      "category": "Finanças"
+    },
+    {
+      "name": "Middle Management",
+      "category": "Estrutura organizacional"
+    },
+    {
+      "name": "Desenvolvimento de Liderança Interna",
+      "category": "Gestão de pessoas"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "400 families",
+      "context": "Number of families depending on the decisions of the CEO."
+    },
+    {
+      "value": "250%",
+      "context": "Crescimento do QI da empresa nos últimos cinco anos."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Roberto Sallouti",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Intelli",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberto Sallouti",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Esteves",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Doug Leão",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sequoia Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Oliver Summer",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rocket Internet",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Btg Pactual",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Btg Pactual",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Intelli",
+      "target_type": "company"
+    },
+    {
+      "source": "Btg Pactual",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Goldman Sachs",
+      "target_type": "company"
+    }
+  ]
+}

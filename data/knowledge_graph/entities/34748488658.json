@@ -1,0 +1,469 @@
+{
+  "episode_id": "34748488658",
+  "title": "#020 - A importância da construção de equity, um papo com Thiago Nigro",
+  "date_published": 1627461003,
+  "duration": 2660,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Thiago Nigro",
+      "role": "guest",
+      "company": "O Primo Rico",
+      "title": "Fundador"
+    },
+    {
+      "name": "Flávio Augusto",
+      "role": "mentioned",
+      "company": "Wise Up",
+      "title": "Fundador"
+    },
+    {
+      "name": "Joel Jota",
+      "role": "mentioned",
+      "company": "Joel Jota Academy",
+      "title": "Fundador"
+    },
+    {
+      "name": "Bruno Perini",
+      "role": "mentioned",
+      "company": "Você MAIS Rico",
+      "title": "Fundador"
+    },
+    {
+      "name": "Ícaro De Carvalho",
+      "role": "mentioned",
+      "company": "O Novo Mercado",
+      "title": "Fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Ícaro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bianca Andrade",
+      "role": "mentioned",
+      "company": "Boca Rosa Beauty",
+      "title": "Founder"
+    },
+    {
+      "name": "Benchmol",
+      "role": "mentioned",
+      "company": "XP Inc.",
+      "title": "Founder"
+    },
+    {
+      "name": "Fabrício Blois",
+      "role": "mentioned",
+      "company": "Mobri",
+      "title": "Founder"
+    },
+    {
+      "name": "Joel",
+      "role": "mentioned",
+      "company": "Primo Rico",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Empresa de educação e negócios mencionada como organizadora do podcast."
+    },
+    {
+      "name": "O Primo Rico",
+      "industry": "Educação Financeira",
+      "context": "Empresa fundada por Thiago Nigro, focada em educação financeira."
+    },
+    {
+      "name": "Wise Up",
+      "industry": "Educação",
+      "context": "Empresa mencionada em relação a Flávio Augusto."
+    },
+    {
+      "name": "Joel Jota Academy",
+      "industry": "Educação e Desenvolvimento Pessoal",
+      "context": "Empresa mencionada em relação a Joel Jota."
+    },
+    {
+      "name": "Você Mais Rico",
+      "industry": "Educação Financeira",
+      "context": "Empresa mencionada em relação a Bruno Perini."
+    },
+    {
+      "name": "O Novo Mercado",
+      "industry": "Educação e Marketing Digital",
+      "context": "Empresa mencionada em relação a Ícaro de Carvalho."
+    },
+    {
+      "name": "Primo Rico",
+      "industry": "Finance",
+      "context": "Thiago Nigro's company focused on financial education and investment guidance."
+    },
+    {
+      "name": "Boca Rosa Beauty",
+      "industry": "Cosmetics",
+      "context": "Bianca Andrade's company specializing in makeup products."
+    },
+    {
+      "name": "Xp Inc.",
+      "industry": "Finance",
+      "context": "Company founded by Benchmol, focusing on investment and financial services."
+    },
+    {
+      "name": "Singoo",
+      "industry": "Beauty and Wellness",
+      "context": "Mentioned in the context of influencer marketing and equity deals"
+    },
+    {
+      "name": "Bossa Nova Investimentos",
+      "industry": "Venture Capital",
+      "context": "Investment firm mentioned in the context of equity and startup funding"
+    },
+    {
+      "name": "Mobri",
+      "industry": "Technology",
+      "context": "Mentioned as the owner of iFood."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Food Delivery",
+      "context": "Discussed in the context of its operational scale and financial performance."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Finance",
+      "context": "Discussed in the context of its financial performance and growth strategy."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce and Technology",
+      "context": "Discussed in the context of its growth strategy and market dominance."
+    },
+    {
+      "name": "Uber",
+      "industry": "Transportation and Technology",
+      "context": "Discussed in the context of its financial performance and market strategy."
+    },
+    {
+      "name": "Facebook",
+      "industry": "Social Media and Technology",
+      "context": "Discussed in the context of its ROI and dividend policy."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Equity",
+      "category": "Finanças"
+    },
+    {
+      "name": "ICP (Ideal Customer Profile)",
+      "category": "Marketing"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Marketing"
+    },
+    {
+      "name": "Distribuição",
+      "category": "Negócios"
+    },
+    {
+      "name": "Conteúdo e Contexto",
+      "category": "Marketing"
+    },
+    {
+      "name": "Movimento e Propósito",
+      "category": "Liderança e Estratégia"
+    },
+    {
+      "name": "Golden Circle",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Narrative",
+      "category": "Marketing"
+    },
+    {
+      "name": "Ideal Customer Profile (ICP)",
+      "category": "Marketing"
+    },
+    {
+      "name": "Humildade Intelectual",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Media for Equity",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Smart Money",
+      "category": "Venture Capital"
+    },
+    {
+      "name": "Vesting",
+      "category": "Equity Distribution"
+    },
+    {
+      "name": "Cliff",
+      "category": "Equity Distribution"
+    },
+    {
+      "name": "Runway",
+      "category": "Startup Funding"
+    },
+    {
+      "name": "Top-line Growth",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "M&A",
+      "category": "Corporate Strategy"
+    },
+    {
+      "name": "IPO",
+      "category": "Corporate Strategy"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Finance"
+    },
+    {
+      "name": "Funding Rounds",
+      "category": "Finance"
+    },
+    {
+      "name": "ROI (Return on Investment)",
+      "category": "Finance"
+    },
+    {
+      "name": "Dividend Policy",
+      "category": "Finance"
+    },
+    {
+      "name": "Cash Burning",
+      "category": "Finance"
+    },
+    {
+      "name": "Market Domination Strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "origem de tráfego",
+      "category": "marketing"
+    },
+    {
+      "name": "convexidade",
+      "category": "finance"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Big Short",
+      "author": "Michael Lewis"
+    },
+    {
+      "title": "Nada Easy",
+      "author": "Tallis Gomes"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7 anos",
+      "context": "Tempo de experiência de Thiago Nigro na internet."
+    },
+    {
+      "value": "150",
+      "context": "Number of employees at G4 Educação."
+    },
+    {
+      "value": "32 milhões de reais",
+      "context": "Exit value mentioned by Thiago Nigro"
+    },
+    {
+      "value": "400 million deliveries per year",
+      "context": "Operational scale of iFood."
+    },
+    {
+      "value": "140 billion dollars",
+      "context": "Valuation of Uber."
+    },
+    {
+      "value": "8 billion dollars",
+      "context": "Annual loss of Uber in the previous year."
+    },
+    {
+      "value": "20% to 25% ROI",
+      "context": "Return on investment for Facebook shareholders."
+    },
+    {
+      "value": "35 countries, 420 offices, 20 million clients",
+      "context": "Operational scale of Tallis Gomes' taxi company."
+    },
+    {
+      "value": "Over 1 billion reais",
+      "context": "Valuation of Tallis Gomes' taxi company."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Flávio Augusto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Wise Up",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabrício Blois",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mobri",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Nigro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Primo Rico",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Nigro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Joel Jota",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Joel Jota Academy",
+      "target_type": "company"
+    },
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "O Novo Mercado",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Perini",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Você Mais Rico",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Nigro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "O Primo Rico",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Nigro",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Bossa Nova Investimentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Nigro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bruno Perini",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Nada Easy",
+      "target_type": "company"
+    },
+    {
+      "source": "Mobri",
+      "source_type": "company",
+      "relation": "owns",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Bianca Andrade",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Boca Rosa Beauty",
+      "target_type": "company"
+    },
+    {
+      "source": "Benchmol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

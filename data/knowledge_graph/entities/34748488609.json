@@ -1,0 +1,269 @@
+{
+  "episode_id": "34748488609",
+  "title": "Malu Perini - Lifestyle, Autenticidade, Negócios e Alimentação Saudável | Sem Atalhos",
+  "date_published": 1680641530,
+  "duration": 3924,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Malu Perini",
+      "role": "guest",
+      "company": "Materializa, MEP",
+      "title": "Influenciadora e Empresária"
+    },
+    {
+      "name": "Naval",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empresário e Influenciador"
+    },
+    {
+      "name": "Raul Sena",
+      "role": "mentioned",
+      "company": "Vibrio",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Dani Noce",
+      "role": "mentioned",
+      "company": "Vibrio",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Leila",
+      "role": "mentioned",
+      "company": "Vibrio",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tim Ferriss",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de aprendizado e desenvolvimento de habilidades"
+    },
+    {
+      "name": "Materializa",
+      "industry": "Saúde e Bem-estar",
+      "context": "Programa de hábitos saudáveis"
+    },
+    {
+      "name": "Mep",
+      "industry": "Moda",
+      "context": "Marca de roupas"
+    },
+    {
+      "name": "Sex Shop",
+      "industry": "Saúde Sexual",
+      "context": "Negócio de produtos relacionados à sexualidade"
+    },
+    {
+      "name": "Vibrio",
+      "industry": "Retail",
+      "context": "Sex shop co-founded by Malu Perini, Raul Sena, and Dani Noce."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Low Carb",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Arquétipos Junguianos",
+      "category": "Psicologia e Branding"
+    },
+    {
+      "name": "Jornada do Herói",
+      "category": "Narrativas e Psicologia"
+    },
+    {
+      "name": "Habits Saudáveis",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Business"
+    },
+    {
+      "name": "Brand Identity",
+      "category": "Marketing"
+    },
+    {
+      "name": "Product Design",
+      "category": "Business"
+    },
+    {
+      "name": "Audience Engagement",
+      "category": "Marketing"
+    },
+    {
+      "name": "Protein Metabolism",
+      "category": "Health"
+    },
+    {
+      "name": "Low Carb Diet",
+      "category": "Health"
+    },
+    {
+      "name": "glicogênio muscular",
+      "category": "health"
+    },
+    {
+      "name": "insulina",
+      "category": "health"
+    },
+    {
+      "name": "cortisol",
+      "category": "health"
+    },
+    {
+      "name": "musculação",
+      "category": "fitness"
+    },
+    {
+      "name": "yoga",
+      "category": "fitness"
+    },
+    {
+      "name": "Ferramentas dos Titãs",
+      "category": "book"
+    },
+    {
+      "name": "elasticidade",
+      "category": "fitness"
+    },
+    {
+      "name": "alongamento",
+      "category": "fitness"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ferramentas dos Titãs",
+      "author": "Tim Ferriss"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "100,000 seguidores",
+      "context": "Número de seguidores alcançados por Malu Perini no YouTube em 3-6 meses"
+    },
+    {
+      "value": "15,000 BRL",
+      "context": "Revenue generated every two weeks from sex shop sales."
+    },
+    {
+      "value": "5%",
+      "context": "Percentage of sales revenue initially earned by Malu Perini from sex shop partnership."
+    },
+    {
+      "value": "40 minutos a uma hora",
+      "context": "tempo de treino diário de musculação"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Dani Noce",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vibrio",
+      "target_type": "company"
+    },
+    {
+      "source": "Malu Perini",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mep",
+      "target_type": "company"
+    },
+    {
+      "source": "Malu Perini",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vibrio",
+      "target_type": "company"
+    },
+    {
+      "source": "Malu Perini",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Musculação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Malu Perini",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Yoga",
+      "target_type": "concept"
+    },
+    {
+      "source": "Malu Perini",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Ferramentas Dos Titãs",
+      "target_type": "concept"
+    },
+    {
+      "source": "Malu Perini",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Materializa",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Raul Sena",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vibrio",
+      "target_type": "company"
+    },
+    {
+      "source": "Ferramentas Dos Titãs",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Tim Ferriss",
+      "target_type": "person"
+    },
+    {
+      "source": "Malu Perini",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sex Shop",
+      "target_type": "company"
+    },
+    {
+      "source": "Malu Perini",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vibrio",
+      "target_type": "company"
+    },
+    {
+      "source": "Malu Perini",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Materializa",
+      "target_type": "company"
+    }
+  ]
+}

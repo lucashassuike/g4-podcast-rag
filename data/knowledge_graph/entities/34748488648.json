@@ -1,0 +1,507 @@
+{
+  "episode_id": "34748488648",
+  "title": "#030 - Medicina, performance e negócios com Paulo Muzy",
+  "date_published": 1633509019,
+  "duration": 4287,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Paulo Muzy",
+      "role": "guest",
+      "company": "N/A",
+      "title": "Médico e Influente"
+    },
+    {
+      "name": "Fábio",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Preceptor"
+    },
+    {
+      "name": "Professor Doutor Ari",
+      "role": "mentioned",
+      "company": "Escola Paulista",
+      "title": "Professor"
+    },
+    {
+      "name": "Marcelo Promissão",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Cirurgião Plástico"
+    },
+    {
+      "name": "Davi Vélez",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Fundador"
+    },
+    {
+      "name": "Cristina Junqueira",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Cofundadora"
+    },
+    {
+      "name": "Marcos Galperin",
+      "role": "mentioned",
+      "company": "Mercado Livre",
+      "title": "CEO"
+    },
+    {
+      "name": "Nelson",
+      "role": "mentioned",
+      "company": "",
+      "title": "Aluno de medicina"
+    },
+    {
+      "name": "Ulisses",
+      "role": "mentioned",
+      "company": "",
+      "title": "Aluno de medicina"
+    },
+    {
+      "name": "Arthur",
+      "role": "mentioned",
+      "company": "",
+      "title": "Aluno de medicina"
+    },
+    {
+      "name": "Ivan",
+      "role": "mentioned",
+      "company": "",
+      "title": "Aluno de medicina"
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "",
+      "title": "Aluno de medicina"
+    },
+    {
+      "name": "Matheus",
+      "role": "mentioned",
+      "company": "",
+      "title": "Aluno de medicina"
+    },
+    {
+      "name": "Murilo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Aluno de medicina"
+    },
+    {
+      "name": "Metabolic Mike",
+      "role": "mentioned",
+      "company": "",
+      "title": "Endocrinologista e influenciador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Escola de negócios e mentoria"
+    },
+    {
+      "name": "Lotus Club Central",
+      "industry": "Esportes",
+      "context": "Academia de jiu-jitsu"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Fintech",
+      "context": "Discussão sobre empreendedorismo e senso de comunidade"
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Discussão sobre empreendedorismo e senso de comunidade"
+    },
+    {
+      "name": "Easy",
+      "industry": "Transportation",
+      "context": "Discussed in the context of global expansion and business challenges"
+    },
+    {
+      "name": "Pinheiro Neto Advogados",
+      "industry": "Legal",
+      "context": "Mentioned as a workplace of a patient"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Mobilidade Urbana",
+      "context": "Empresa mencionada em contexto de expansão e gestão de equipe"
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Investimento e Venture Capital",
+      "context": "Fundo de investimento mencionado como mentor e investidor"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão 4.0",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Salsicharia da Medicina",
+      "category": "Prática médica"
+    },
+    {
+      "name": "Influência vs. Influência",
+      "category": "Marketing pessoal"
+    },
+    {
+      "name": "Responsabilidade médica",
+      "category": "Ética profissional"
+    },
+    {
+      "name": "Senso de comunidade",
+      "category": "Social"
+    },
+    {
+      "name": "Cronobiologia",
+      "category": "Ciência"
+    },
+    {
+      "name": "Resistência periférica à insulina",
+      "category": "Saúde"
+    },
+    {
+      "name": "Nootrópicos",
+      "category": "Saúde e performance"
+    },
+    {
+      "name": "Interligas",
+      "category": "Educação médica"
+    },
+    {
+      "name": "Global Expansion",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Work-Life Balance",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Metabolic Health",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Exercise Recovery",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Catecolaminas",
+      "category": "Medicina e fisiologia"
+    },
+    {
+      "name": "Hipóxia",
+      "category": "Medicina e fisiologia"
+    },
+    {
+      "name": "Termogênese",
+      "category": "Medicina e fisiologia"
+    },
+    {
+      "name": "Biogênese mitocondrial",
+      "category": "Medicina e fisiologia"
+    },
+    {
+      "name": "Apoptose",
+      "category": "Medicina e fisiologia"
+    },
+    {
+      "name": "Lipólise",
+      "category": "Medicina e fisiologia"
+    },
+    {
+      "name": "HIIT (High-Intensity Interval Training)",
+      "category": "Fitness e saúde"
+    },
+    {
+      "name": "Rotina Alimentar",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "Gestão de Equipes",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Atividade Física",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "Relacionamento com Pacientes",
+      "category": "Saúde e Atendimento"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "144 horas",
+      "context": "Período de trabalho mencionado"
+    },
+    {
+      "value": "12 anos",
+      "context": "Tempo de prática em jiu-jitsu"
+    },
+    {
+      "value": "6 anos",
+      "context": "Tempo na faixa roxa de jiu-jitsu"
+    },
+    {
+      "value": "16 mil alunos de medicina",
+      "context": "Projeto Interligas"
+    },
+    {
+      "value": "14 países",
+      "context": "Projeto Interligas"
+    },
+    {
+      "value": "300 ligas pelo Brasil",
+      "context": "Projeto Interligas"
+    },
+    {
+      "value": "35 países",
+      "context": "Expansão da Easy Taxi"
+    },
+    {
+      "value": "35 countries",
+      "context": "Number of countries Easy expanded to"
+    },
+    {
+      "value": "80-90 hours per week",
+      "context": "Work hours during Easy's expansion"
+    },
+    {
+      "value": "11-12% body fat",
+      "context": "Initial body fat percentage of Tallis Gomes"
+    },
+    {
+      "value": "35% body fat",
+      "context": "Body fat percentage reached by Tallis Gomes during the stressful period"
+    },
+    {
+      "value": "12% to 30% body fat",
+      "context": "Change in body fat percentage of a patient in less than a year"
+    },
+    {
+      "value": "52 finais de semana de trabalho",
+      "context": "Paulo Muzy mencionou sua rotina intensa de trabalho em 2018 e 2019"
+    },
+    {
+      "value": "17 anos",
+      "context": "Tempo de experiência de Paulo Muzy como médico"
+    },
+    {
+      "value": "17 mil pacientes",
+      "context": "Número de pacientes atendidos por Paulo Muzy ao longo de sua carreira"
+    },
+    {
+      "value": "50 pessoas por semana",
+      "context": "Taxa de contratação mencionada durante a expansão da Easy Taxi"
+    },
+    {
+      "value": "3.500 funcionários",
+      "context": "Tamanho de equipe mencionado em contexto de gestão empresarial"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Catecolaminas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Interligas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Biogênese Mitocondrial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Cristina Junqueira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Senso De Comunidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Salsicharia Da Medicina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lipólise",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Interligas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcos Galperin",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hipóxia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Responsabilidade Médica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy",
+      "target_type": "company"
+    },
+    {
+      "source": "Pinheiro Neto Advogados",
+      "source_type": "company",
+      "relation": "employed",
+      "target": "Unnamed Patient",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hiit (High-Intensity Interval Training)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "hosted",
+      "target": "Paulo Muzy",
+      "target_type": "person"
+    },
+    {
+      "source": "Davi Vélez",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Apoptose",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Termogênese",
+      "target_type": "concept"
+    },
+    {
+      "source": "Metabolic Mike",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Banheira De Gelo",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Senso De Comunidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Influência Vs. Influência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Lotus Club Central",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "episode_id": "34748488515",
+  "title": "As melhores conversas de outubro - Caito Maia, Erich Shibata e Marcio Atalla",
+  "date_published": 1698929386,
+  "duration": 1588,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Eric Shibata",
+      "role": "guest",
+      "company": "CIMED",
+      "title": "CMO"
+    },
+    {
+      "name": "Larissa Manoela",
+      "role": "mentioned",
+      "company": "",
+      "title": "Actress"
+    },
+    {
+      "name": "Maísa Silva",
+      "role": "mentioned",
+      "company": "",
+      "title": "Actress"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "CIMED",
+      "title": "Executive"
+    },
+    {
+      "name": "Carla",
+      "role": "mentioned",
+      "company": "CIMED",
+      "title": "Executive"
+    },
+    {
+      "name": "Caíto Maia",
+      "role": "guest",
+      "company": "Chilli Beans",
+      "title": "Founder"
+    },
+    {
+      "name": "Caito Maia",
+      "role": "guest",
+      "company": "Chili Beans",
+      "title": "Founder"
+    },
+    {
+      "name": "Erich Shibata",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Márcio Atalla",
+      "role": "guest",
+      "company": "",
+      "title": "Educador físico e especialista em qualidade de vida"
+    },
+    {
+      "name": "Georgina Rodríguez",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influencer"
+    },
+    {
+      "name": "Mark Leman",
+      "role": "mentioned",
+      "company": "",
+      "title": "Investor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Clivo",
+      "industry": "Healthcare",
+      "context": "Founded by Marcelo Toledo"
+    },
+    {
+      "name": "Cimed",
+      "industry": "Pharmaceuticals",
+      "context": "Discussed for its innovative marketing strategies and product launches"
+    },
+    {
+      "name": "Fini",
+      "industry": "Confectionery",
+      "context": "Collaborated with CIMED for product distribution and marketing"
+    },
+    {
+      "name": "Nivea",
+      "industry": "Cosmetics",
+      "context": "Mentioned as a competitor in the skincare market"
+    },
+    {
+      "name": "Chilli Beans",
+      "industry": "Eyewear",
+      "context": "Founded by Caíto Maia, known for its youthful branding"
+    },
+    {
+      "name": "Chili Beans",
+      "industry": "Fashion and Accessories",
+      "context": "Caito Maia's company"
+    },
+    {
+      "name": "Zênia",
+      "industry": "Fashion",
+      "context": "Rejuvenated brand image"
+    },
+    {
+      "name": "Halo",
+      "industry": "Fashion",
+      "context": "Yoga clothing brand competing with Lululemon"
+    },
+    {
+      "name": "On Running",
+      "industry": "Sportswear",
+      "context": "Innovative sports shoe brand"
+    },
+    {
+      "name": "Nike",
+      "industry": "Sportswear",
+      "context": "Competitor in the sports shoe market"
+    },
+    {
+      "name": "Adidas",
+      "industry": "Sportswear",
+      "context": "Competitor in the sports shoe market"
+    },
+    {
+      "name": "Jordan",
+      "industry": "Sportswear",
+      "context": "Competitor in the sports shoe market"
+    },
+    {
+      "name": "Bate O Dilate",
+      "industry": "Retail",
+      "context": "Brand with high customer loyalty and own product line"
+    },
+    {
+      "name": "Doogie",
+      "industry": "Food and Beverage",
+      "context": "Hot dog brand operating in airports"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Live commerce",
+      "category": "Marketing strategy"
+    },
+    {
+      "name": "Collaboration (Collab)",
+      "category": "Marketing strategy"
+    },
+    {
+      "name": "Fear of Missing Out (FOMO)",
+      "category": "Consumer behavior"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Market share",
+      "category": "Business metric"
+    },
+    {
+      "name": "Brand rejuvenation",
+      "category": "Marketing"
+    },
+    {
+      "name": "Customer loyalty programs",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Habit formation",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Lifestyle management",
+      "category": "Health and Wellness"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "40 million reais",
+      "context": "Revenue generated in 20 minutes during a live shop event"
+    },
+    {
+      "value": "5 million units",
+      "context": "Units sold in one month for a CIMED product"
+    },
+    {
+      "value": "60% market share",
+      "context": "CIMED's share in the skincare market after product launch"
+    },
+    {
+      "value": "100 million reais",
+      "context": "Target revenue for a live commerce event in 30 minutes"
+    },
+    {
+      "value": "60 million",
+      "context": "Annual revenue of Doogie from hot dog sales in airports"
+    },
+    {
+      "value": "400 dollars",
+      "context": "Average spending per visit at Halo stores"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Márcio Atalla",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Habit Formation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caito Maia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Chili Beans",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Shibata",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "Caíto Maia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Chilli Beans",
+      "target_type": "company"
+    },
+    {
+      "source": "Cimed",
+      "source_type": "company",
+      "relation": "collaborated_with",
+      "target": "Fini",
+      "target_type": "company"
+    },
+    {
+      "source": "Márcio Atalla",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lifestyle Management",
+      "target_type": "concept"
+    },
+    {
+      "source": "Halo",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Lululemon",
+      "target_type": "company"
+    }
+  ]
+}

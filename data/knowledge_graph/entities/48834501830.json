@@ -1,0 +1,419 @@
+{
+  "episode_id": "48834501830",
+  "title": "COMO CRIAR TIMES COMERCIAIS DE ALTA PERFORMANCE COM YURI BARBOSA E VINICIUS DE SÁ | EXTREMOS",
+  "date_published": 1769007600,
+  "duration": 3111,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon Felice",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Yuri Barbosa",
+      "role": "guest",
+      "company": "Full Sales System",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Vinícius De Sá",
+      "role": "guest",
+      "company": "Full Sales System",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Lincoln",
+      "role": "mentioned",
+      "company": "ChinaLink",
+      "title": "Cliente"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Vinicius De Sá",
+      "role": "guest",
+      "company": "Full Sales",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Thiago",
+      "role": "mentioned",
+      "company": "Growth Machine",
+      "title": ""
+    },
+    {
+      "name": "Denis",
+      "role": "mentioned",
+      "company": "V4 Company",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Foxbit",
+      "industry": "Financeiro",
+      "context": "Patrocinadora do Extremos e G4 Educação, especializada em criptomoedas"
+    },
+    {
+      "name": "Full Sales System",
+      "industry": "Consultoria de vendas",
+      "context": "Empresa que acelera o crescimento de clientes através de engenharia de vendas"
+    },
+    {
+      "name": "Chinalink",
+      "industry": "Logística",
+      "context": "Cliente da Full Sales System"
+    },
+    {
+      "name": "Full Sales",
+      "industry": "Consultoria de Vendas",
+      "context": "Empresa mencionada como fornecedora de metodologias de vendas de alta performance."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Empresa dos hosts do podcast."
+    },
+    {
+      "name": "Growth Machine",
+      "industry": "Marketing e Vendas",
+      "context": "Mencionada como exemplo de concorrência."
+    },
+    {
+      "name": "V4 Company",
+      "industry": "Marketing e Vendas",
+      "context": "Mencionada em relação a estratégias de marketing."
+    },
+    {
+      "name": "Clems",
+      "industry": "Gestão Comercial",
+      "context": "Ajudada a converter 50% em eventos"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "B2B",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Criptomoedas",
+      "category": "Tecnologia financeira"
+    },
+    {
+      "name": "SDC",
+      "category": "Tecnologia financeira"
+    },
+    {
+      "name": "Growth",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Funis de vendas",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Automação de vendas",
+      "category": "Tecnologia de vendas"
+    },
+    {
+      "name": "Script de vendas",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "processo de vendas",
+      "category": "framework"
+    },
+    {
+      "name": "apresentação de vendas",
+      "category": "framework"
+    },
+    {
+      "name": "objeções do cliente",
+      "category": "strategy"
+    },
+    {
+      "name": "treinamento de vendedores",
+      "category": "strategy"
+    },
+    {
+      "name": "processo comercial",
+      "category": "framework"
+    },
+    {
+      "name": "ancoragem de valor",
+      "category": "strategy"
+    },
+    {
+      "name": "valor de tabela",
+      "category": "strategy"
+    },
+    {
+      "name": "valor de oportunidade",
+      "category": "strategy"
+    },
+    {
+      "name": "Método de Vendas de Alta Performance",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "Spin Selling",
+      "category": "Técnica de Vendas"
+    },
+    {
+      "name": "Hype Cycle",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Pré-vendas",
+      "category": "Processo de Vendas"
+    },
+    {
+      "name": "Follow-up",
+      "category": "Processo de Vendas"
+    },
+    {
+      "name": "CRM",
+      "category": "Ferramenta de Gestão"
+    },
+    {
+      "name": "FOMO (Fear of Missing Out)",
+      "category": "Psicologia do Consumidor"
+    },
+    {
+      "name": "Flywheel",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Conversão Presencial",
+      "category": "Métrica de Vendas"
+    },
+    {
+      "name": "Gestão Comercial",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Previsibilidade em Vendas",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Vulnerabilidade em Vendas",
+      "category": "Conceito de Negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "100,000+",
+      "context": "Número de espectadores semanais do G4 Podcast"
+    },
+    {
+      "value": "3 milhões",
+      "context": "faturamento médio mensal dos vendedores"
+    },
+    {
+      "value": "8 milhões",
+      "context": "Faturamento de um cliente da Full Sales até metade do ano."
+    },
+    {
+      "value": "1 milhão e 300 mil",
+      "context": "Faturamento de um cliente da Full Sales em um mês após mudança no processo de vendas."
+    },
+    {
+      "value": "1500 pessoas",
+      "context": "Capacidade planejada para um evento em janeiro."
+    },
+    {
+      "value": "50%",
+      "context": "Taxa de conversão média em eventos presenciais."
+    },
+    {
+      "value": "1025 leads",
+      "context": "Gerados em um dia como parte de uma estratégia de marketing."
+    },
+    {
+      "value": "50%",
+      "context": "Taxa de conversão em eventos para Clems"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vulnerabilidade Em Vendas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Yuri Barbosa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Processo De Vendas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Full Sales",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Spin Selling",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vinicius De Sá",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Full Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Full Sales",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Hype Cycle",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Full Sales",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Método De Vendas De Alta Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vinicius De Sá",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Yuri Barbosa",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Full Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Lincoln",
+      "source_type": "person",
+      "relation": "client_of",
+      "target": "Full Sales System",
+      "target_type": "company"
+    },
+    {
+      "source": "Yuri Barbosa",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Clems",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gestão Comercial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vinicius De Sá",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão Comercial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Growth Machine",
+      "target_type": "company"
+    },
+    {
+      "source": "Vinicius De Sá",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ancoragem De Valor",
+      "target_type": "concept"
+    },
+    {
+      "source": "Yuri Barbosa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão Comercial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Yuri Barbosa",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Full Sales System",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Previsibilidade Em Vendas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Foxbit",
+      "source_type": "company",
+      "relation": "partner_of",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Vinícius De Sá",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Full Sales System",
+      "target_type": "company"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "V4 Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon Felice",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

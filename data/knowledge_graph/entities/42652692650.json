@@ -1,0 +1,303 @@
+{
+  "episode_id": "42652692650",
+  "title": "CUSTOMER EXPERIENCE COMO ALAVANCA DE CRESCIMENTO COM TOMÁS DUARTE | PAPO DE GESTÃO",
+  "date_published": 1757948400,
+  "duration": 3452,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tomás Duarte",
+      "role": "guest",
+      "company": "Track.co Index",
+      "title": "Cofundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Track.Co Index",
+      "industry": "Customer Experience",
+      "context": "Plataforma de experiência do cliente com atuação em 35 países."
+    },
+    {
+      "name": "Tiffany & Co.",
+      "industry": "Luxury Retail",
+      "context": "Exemplo de eficiência operacional com checklist de 70 itens."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Citada como exemplo de foco no cliente por Jeff Bezos."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Fintech",
+      "context": "Citado como case de sucesso em experiência do cliente."
+    },
+    {
+      "name": "Latam",
+      "industry": "Airlines",
+      "context": "Citada no contexto de experiência do cliente em companhias aéreas."
+    },
+    {
+      "name": "Gol",
+      "industry": "Airlines",
+      "context": "Citada no contexto de experiência do cliente em companhias aéreas."
+    },
+    {
+      "name": "Azul",
+      "industry": "Airlines",
+      "context": "Citada no contexto de experiência do cliente em companhias aéreas."
+    },
+    {
+      "name": "Trackco Index",
+      "industry": "Customer Experience",
+      "context": "Empresa focada em monitoramento de indicadores da experiência do consumidor."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Empresa mencionada como cliente potencial para serviços de monitoramento de experiência do cliente."
+    },
+    {
+      "name": "Ge",
+      "industry": "Conglomerate",
+      "context": "Exemplo de empresa multifoco que entrega valor em diferentes segmentos."
+    },
+    {
+      "name": "Disney",
+      "industry": "Entertainment",
+      "context": "Citada como exemplo de excelência em experiência do cliente."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Customer Experience (CX)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Net Promoter Score (NPS)",
+      "category": "Metric"
+    },
+    {
+      "name": "Voice of Customer (VOC)",
+      "category": "Customer Feedback"
+    },
+    {
+      "name": "Operational Efficiency",
+      "category": "Business Process"
+    },
+    {
+      "name": "Customer Journey",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Metric"
+    },
+    {
+      "name": "CESAT (Customer Satisfaction Index)",
+      "category": "Metric"
+    },
+    {
+      "name": "CRM (Customer Relationship Management)",
+      "category": "Technology"
+    },
+    {
+      "name": "ERP (Enterprise Resource Planning)",
+      "category": "Technology"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "category": "Technology"
+    },
+    {
+      "name": "Personalization",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Escuta ativa",
+      "category": "Leadership"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Business Management"
+    },
+    {
+      "name": "People's Person",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Processo Seletivo",
+      "category": "Recruitment"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "35 países",
+      "context": "Número de países onde a Track.co Index opera."
+    },
+    {
+      "value": "Centenas de milhões",
+      "context": "Número de consumidores monitorados pela Track.co Index."
+    },
+    {
+      "value": "70 itens",
+      "context": "Número de itens no checklist operacional diário da Tiffany & Co."
+    },
+    {
+      "value": "Mais de mil clientes",
+      "context": "Base de clientes da TrackCo Index após fusão."
+    },
+    {
+      "value": "8 anos",
+      "context": "Duração média da jornada de cliente no setor imobiliário."
+    },
+    {
+      "value": "12 a 15 monitoramentos",
+      "context": "Número médio de monitoramentos em jornadas de clientes no setor imobiliário."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ge",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Customer Experience",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Customer Experience",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "mentioned",
+      "target": "Trackco Index",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiffany & Co.",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Operational Efficiency",
+      "target_type": "concept"
+    },
+    {
+      "source": "Trackco Index",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Personalization",
+      "target_type": "concept"
+    },
+    {
+      "source": "Trackco Index",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Customer Experience",
+      "target_type": "concept"
+    },
+    {
+      "source": "Trackco Index",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Nps (Net Promoter Score)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Trackco Index",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Crm (Customer Relationship Management)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Trackco Index",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Artificial Intelligence",
+      "target_type": "concept"
+    },
+    {
+      "source": "Trackco Index",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Erp (Enterprise Resource Planning)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Disney",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Customer Experience",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tomás Duarte",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Track.Co Index",
+      "target_type": "company"
+    },
+    {
+      "source": "Nubank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Customer Experience (Cx)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Trackco Index",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cesat (Customer Satisfaction Index)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tomás Duarte",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Trackco Index",
+      "target_type": "company"
+    }
+  ]
+}

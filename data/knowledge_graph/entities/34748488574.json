@@ -1,0 +1,253 @@
+{
+  "episode_id": "34748488574",
+  "title": "Leandro Pinto - Os Pilares do Sucesso da Mantiqueira Brasil no Mercado de Ovos | Extremos",
+  "date_published": 1689066000,
+  "duration": 3717,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Leandro Pinto",
+      "role": "guest",
+      "company": "Grupo Mantiqueira",
+      "title": "Presidente"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Ivan Moré",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Edu Lyra",
+      "role": "mentioned",
+      "company": "Gerando Falcões",
+      "title": "Founder"
+    },
+    {
+      "name": "Celso Ataíde",
+      "role": "mentioned",
+      "company": "CUFA (Central Única das Favelas)",
+      "title": "Founder"
+    },
+    {
+      "name": "Edu Lira",
+      "role": "mentioned",
+      "company": "Gerando Falcões",
+      "title": "Founder"
+    },
+    {
+      "name": "Celso Ataídia",
+      "role": "mentioned",
+      "company": "CUFA",
+      "title": "Founder"
+    },
+    {
+      "name": "Murilo",
+      "role": "mentioned",
+      "company": "Mantiqueira Brasil",
+      "title": "Project Creator"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Crisanto",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sônia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Grupo Mantiqueira",
+      "industry": "Agronegócio",
+      "context": "Produção de ovos e alimentos"
+    },
+    {
+      "name": "Mantiqueira Brasil",
+      "industry": "Agribusiness",
+      "context": "Egg production and food industry"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "Gerando Falcões",
+      "industry": "Social impact",
+      "context": "Community development and social projects"
+    },
+    {
+      "name": "Cufa (Central Única Das Favelas)",
+      "industry": "Social impact",
+      "context": "Support for favela communities"
+    },
+    {
+      "name": "Cufa",
+      "industry": "Social Impact",
+      "context": "Close relationship with Mantiqueira Brasil"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Automação da Avicultura",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Produção de Alimentos",
+      "category": "Indústria Alimentícia"
+    },
+    {
+      "name": "Commodities",
+      "category": "Business"
+    },
+    {
+      "name": "Social impact",
+      "category": "Business"
+    },
+    {
+      "name": "Community development",
+      "category": "Business"
+    },
+    {
+      "name": "Project Além",
+      "category": "Corporate Social Responsibility"
+    },
+    {
+      "name": "Community Support",
+      "category": "Corporate Social Responsibility"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "37 anos",
+      "context": "Tempo de operação do Grupo Mantiqueira"
+    },
+    {
+      "value": "Bilhões de ovos por ano",
+      "context": "Produção anual do Grupo Mantiqueira"
+    },
+    {
+      "value": "2,700",
+      "context": "Number of employees at Mantiqueira Brasil"
+    },
+    {
+      "value": "3 million",
+      "context": "Revenue of Gerando Falcões during the pandemic"
+    },
+    {
+      "value": "2,700",
+      "context": "Number of employees cared for by Mantiqueira Brasil"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Grupo Mantiqueira",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Produção De Alimentos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Edu Lira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Celso Ataídia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cufa",
+      "target_type": "company"
+    },
+    {
+      "source": "Edu Lyra",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Mantiqueira Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cufa (Central Única Das Favelas)",
+      "target_type": "company"
+    },
+    {
+      "source": "Mantiqueira Brasil",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Community Support",
+      "target_type": "concept"
+    },
+    {
+      "source": "Murilo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Project Além",
+      "target_type": "concept"
+    },
+    {
+      "source": "Celso Ataíde",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cufa (Central Única Das Favelas)",
+      "target_type": "company"
+    },
+    {
+      "source": "Leandro Pinto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Mantiqueira",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Mantiqueira",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Automação Da Avicultura",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mantiqueira Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Leandro Pinto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mantiqueira Brasil",
+      "target_type": "company"
+    }
+  ]
+}

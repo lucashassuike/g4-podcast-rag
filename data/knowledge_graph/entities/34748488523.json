@@ -1,0 +1,145 @@
+{
+  "episode_id": "34748488523",
+  "title": "Como usar a Black Friday Para Vender Mais e Melhor? | G4 Podcasts",
+  "date_published": 1698049800,
+  "duration": 2124,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Jonathan",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretor de Vendas"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação e negócios mencionada como organizadora do podcast e como exemplo em estratégias de vendas."
+    },
+    {
+      "name": "Loja Integrada",
+      "industry": "E-commerce",
+      "context": "Plataforma de e-commerce mencionada em relação à experiência de Alfredo Soares."
+    },
+    {
+      "name": "Reserva",
+      "industry": "Moda",
+      "context": "Mencionada como exemplo de marca de roupas que os consumidores acompanham para promoções específicas."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Black Friday",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Plano de Contingência",
+      "category": "Gestão Operacional"
+    },
+    {
+      "name": "Promoção e Oferta",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Gatilhos Mentais",
+      "category": "Psicologia do Consumidor"
+    },
+    {
+      "name": "Marketing",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Logística",
+      "category": "Operações"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Modelo de Negócio"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "2015",
+      "context": "Ano de um grande fracasso mencionado por Alfredo Soares relacionado à Black Friday."
+    },
+    {
+      "value": "2021",
+      "context": "Ano em que Alfredo Soares saiu do operacional da Loja Integrada."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jonathan",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Black Friday",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Loja Integrada",
+      "target_type": "company"
+    },
+    {
+      "source": "Black Friday",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "E-Commerce",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Loja Integrada",
+      "target_type": "company"
+    },
+    {
+      "source": "Marketing",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Black Friday",
+      "target_type": "concept"
+    },
+    {
+      "source": "Logística",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "E-Commerce",
+      "target_type": "concept"
+    },
+    {
+      "source": "Black Friday",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

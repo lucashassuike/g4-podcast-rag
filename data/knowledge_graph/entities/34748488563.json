@@ -1,0 +1,280 @@
+{
+  "episode_id": "34748488563",
+  "title": "Explore o Processo de Compra e Venda de uma Empresa - Com Julian Tonioli, CEO Auddas | Papo de Gestão",
+  "date_published": 1692003600,
+  "duration": 3665,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio Fundador"
+    },
+    {
+      "name": "Julián Tonioli",
+      "role": "guest",
+      "company": "Auddas",
+      "title": "CEO"
+    },
+    {
+      "name": "Julian Tonioli",
+      "role": "guest",
+      "company": "Auddas",
+      "title": "CEO"
+    },
+    {
+      "name": "Renata",
+      "role": "mentioned",
+      "company": "Fasa Advogados",
+      "title": ""
+    },
+    {
+      "name": "Marco",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "França",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Plataforma de educação para líderes e gestores"
+    },
+    {
+      "name": "Auddas",
+      "industry": "Consultoria",
+      "context": "Consultoria especializada em empresas em expansão"
+    },
+    {
+      "name": "Sap",
+      "industry": "Tecnologia",
+      "context": "Empresa que adquiriu a startup de Julián Tonioli"
+    },
+    {
+      "name": "Fasa Advogados",
+      "industry": "Serviços jurídicos",
+      "context": "Mencionada como participante em processos de M&A."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Gestão"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão de Riscos",
+      "category": "Gestão"
+    },
+    {
+      "name": "Capital (Dívida e Equity)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Narrativa no M&A",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Diligência",
+      "category": "Processo de M&A"
+    },
+    {
+      "name": "Go to Market",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Memorando de Entendimento (MOU)",
+      "category": "Documentação de Negócios"
+    },
+    {
+      "name": "Term Sheet",
+      "category": "Documentação de Negócios"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Sinergias",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Governança",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Processos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Tecnologia",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Controle financeiro",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Plano de integração pós-deal",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Plano de comunicação",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "CAD (Conselho Administrativo de Defesa Econômica)",
+      "category": "Regulação"
+    },
+    {
+      "name": "BASEN (Banco Central do Brasil)",
+      "category": "Regulação"
+    },
+    {
+      "name": "Teoria de Jogos",
+      "category": "Estratégia"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Jeito McKinsey de Ser",
+      "author": ""
+    },
+    {
+      "title": "Pensando Estrategicamente",
+      "author": ""
+    }
+  ],
+  "metrics": [
+    {
+      "value": "150",
+      "context": "Número de processos de M&A em que Julián Tonioli participou"
+    },
+    {
+      "value": "120 milhões de dólares",
+      "context": "Faturamento da startup de Julián Tonioli em 2011"
+    },
+    {
+      "value": "18 países",
+      "context": "Presença internacional da startup de Julián Tonioli em 2011"
+    },
+    {
+      "value": "1 milhão de reais",
+      "context": "Geração de caixa anual mencionada como exemplo em processos de venda de empresas."
+    },
+    {
+      "value": "300 mil reais",
+      "context": "Geração de caixa anual ajustada mencionada como exemplo em processos de venda de empresas."
+    },
+    {
+      "value": "4 milhões de reais",
+      "context": "Valor de venda de empresa mencionado como exemplo."
+    },
+    {
+      "value": "10 milhões de reais",
+      "context": "Proposta inicial de compra mencionada como exemplo."
+    },
+    {
+      "value": "X% a mais de juros",
+      "context": "Valor adicional obtido devido ao atraso no fechamento de uma transação."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Startup De Tecnologia (Não Nomeada)",
+      "source_type": "person",
+      "relation": "acquired_by",
+      "target": "Sap",
+      "target_type": "company"
+    },
+    {
+      "source": "Julian Tonioli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Auddas",
+      "target_type": "company"
+    },
+    {
+      "source": "Julián Tonioli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Auddas",
+      "target_type": "company"
+    },
+    {
+      "source": "M&A (Mergers And Acquisitions)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Teoria De Jogos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Julián Tonioli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Startup De Tecnologia (Não Nomeada)",
+      "target_type": "company"
+    },
+    {
+      "source": "Julián Tonioli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Auddas",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "M&A (Mergers And Acquisitions)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Planejamento Estratégico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Julián Tonioli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Julián Tonioli",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Bruno Nardon",
+      "target_type": "person"
+    },
+    {
+      "source": "Renata",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Fasa Advogados",
+      "target_type": "company"
+    }
+  ]
+}

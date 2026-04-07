@@ -1,0 +1,410 @@
+{
+  "episode_id": "43245073060",
+  "title": "SEU ELIAS: O BARBEIRO QUE VIROU REFERÊNCIA EM NEGÓCIOS | EXTREMOS",
+  "date_published": 1759330800,
+  "duration": 4279,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do G4 Podcast"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio e cofundador"
+    },
+    {
+      "name": "Seu Elias",
+      "role": "guest",
+      "company": "Seu Elias",
+      "title": "Fundador"
+    },
+    {
+      "name": "Neymar",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Jogador de futebol"
+    },
+    {
+      "name": "Messi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ronaldinho Gaúcho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tales",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Renovac",
+      "role": "mentioned",
+      "company": "Renovac Academy",
+      "title": ""
+    },
+    {
+      "name": "Érico Rocha",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Juarez",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gustavo Lima",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Leonardo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Henry Ford",
+      "role": "mentioned",
+      "company": "Ford Motor Company",
+      "title": "Fundador"
+    },
+    {
+      "name": "Filipão",
+      "role": "mentioned",
+      "company": "Seu Elias Barbearia",
+      "title": "Videomaker"
+    },
+    {
+      "name": "Pabllo Marçal",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Guilherme",
+      "role": "mentioned",
+      "company": "Atlético Mineiro",
+      "title": "Jogador de futebol"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Empresa dos hosts do podcast"
+    },
+    {
+      "name": "Seu Elias",
+      "industry": "Barbearia",
+      "context": "Barbearia fundada pelo convidado"
+    },
+    {
+      "name": "Fox Beat",
+      "industry": "Criptomoedas",
+      "context": "Corretora de criptomoedas mencionada como patrocinadora"
+    },
+    {
+      "name": "Babum",
+      "industry": "Cosméticos masculinos",
+      "context": "Marca de cosméticos fundada por Seu Elias"
+    },
+    {
+      "name": "Renovac Academy",
+      "industry": "Educação",
+      "context": "Academia mencionada como referência em educação para dentistas"
+    },
+    {
+      "name": "Barber Day University",
+      "industry": "Education",
+      "context": "Educational institution for barbers offering courses and mentorship programs."
+    },
+    {
+      "name": "Barber Day Academy",
+      "industry": "Education",
+      "context": "Former name of Barber Day University before rebranding."
+    },
+    {
+      "name": "Play 4",
+      "industry": "Entertainment",
+      "context": "Collaborator with Barber Day University."
+    },
+    {
+      "name": "Hotel Ouro Minas",
+      "industry": "Hospitality",
+      "context": "Venue for the Barber Day Conference."
+    },
+    {
+      "name": "Seu Elias Barbearia",
+      "industry": "Serviços de beleza",
+      "context": "Barbearia fundada por Seu Elias"
+    },
+    {
+      "name": "Ford Motor Company",
+      "industry": "Automotivo",
+      "context": "Empresa mencionada em citação de Henry Ford"
+    },
+    {
+      "name": "Atlético Mineiro",
+      "industry": "Esportes",
+      "context": "Clube de futebol mencionado em relação ao jogador Guilherme"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Barber Day Conference",
+      "category": "Evento"
+    },
+    {
+      "name": "POP (Procedimento Operacional Padrão)",
+      "category": "Gestão"
+    },
+    {
+      "name": "Academy",
+      "category": "Educação"
+    },
+    {
+      "name": "High ticket e low ticket",
+      "category": "Modelos de negócio"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Educação"
+    },
+    {
+      "name": "branding",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "leadership",
+      "category": "Business Skills"
+    },
+    {
+      "name": "educational products",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "mentorship",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Mastermind",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "CLT",
+      "category": "Legislação trabalhista"
+    },
+    {
+      "name": "Hipoglicemia",
+      "category": "Saúde"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "600 mil reais",
+      "context": "Dívida acumulada por Seu Elias em 2014"
+    },
+    {
+      "value": "12 unidades",
+      "context": "Número de unidades da barbearia Seu Elias"
+    },
+    {
+      "value": "80%",
+      "context": "Porcentagem da receita de Seu Elias proveniente do setor educacional"
+    },
+    {
+      "value": "130,000 BRL per month",
+      "context": "Initial monthly revenue in Belo Horizonte."
+    },
+    {
+      "value": "2,000,000 BRL per month",
+      "context": "Current monthly revenue after relocation and growth."
+    },
+    {
+      "value": "46% EBITDA",
+      "context": "Profit margin of Barber Day University."
+    },
+    {
+      "value": "100,000 students",
+      "context": "Total number of students educated by Barber Day University."
+    },
+    {
+      "value": "150,000 BRL",
+      "context": "Cost of high-ticket Mastermind program."
+    },
+    {
+      "value": "50,000 BRL donation",
+      "context": "Amount donated to a missionary project in Moçambique."
+    },
+    {
+      "value": "11 anos",
+      "context": "Tempo de trabalho de barbeiros na empresa Seu Elias Barbearia"
+    },
+    {
+      "value": "10 anos",
+      "context": "Tempo de trabalho de profissionais CLT na empresa Seu Elias Barbearia"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Academy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Educational Products",
+      "target_type": "concept"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Barber Day University",
+      "target_type": "company"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Seu Elias",
+      "target_type": "person"
+    },
+    {
+      "source": "Barber Day University",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Barber Day Academy",
+      "target_type": "company"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Leadership",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mentorship",
+      "target_type": "concept"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Renovac Academy",
+      "target_type": "company"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mastermind",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Atlético Mineiro",
+      "target_type": "company"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pop (Procedimento Operacional Padrão)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Barber Day Conference",
+      "target_type": "concept"
+    },
+    {
+      "source": "Henry Ford",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ford Motor Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Barber Day University",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Education",
+      "target_type": "company"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Babum",
+      "target_type": "company"
+    },
+    {
+      "source": "Seu Elias",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Seu Elias Barbearia",
+      "target_type": "company"
+    }
+  ]
+}

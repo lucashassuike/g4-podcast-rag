@@ -1,0 +1,564 @@
+{
+  "episode_id": "36706135160",
+  "title": "EMPREENDENDO COM CRIPTOMOEDA: A ESTRATÉGIA DA MELIUZ QUE VOCÊ PRECISA CONHECER | PAPO DE GESTÃO",
+  "date_published": 1745830800,
+  "duration": 6325,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Lucas Riedo",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fernando",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Israel Salm",
+      "role": "guest",
+      "company": "Amélios",
+      "title": "Founder"
+    },
+    {
+      "name": "Tiago Veloso De Almeida",
+      "role": "guest",
+      "company": "Amélios",
+      "title": "Member of the Board of Directors and Audit Committee"
+    },
+    {
+      "name": "Diego Collin",
+      "role": "guest",
+      "company": "Amélios",
+      "title": "Head of Bitcoin Strategy"
+    },
+    {
+      "name": "Gabriel Loures",
+      "role": "mentioned",
+      "company": "Amélios",
+      "title": "CEO"
+    },
+    {
+      "name": "Satoshi Nakamoto",
+      "role": "mentioned",
+      "company": "",
+      "title": "Creator of Bitcoin"
+    },
+    {
+      "name": "Michael Saylor",
+      "role": "mentioned",
+      "company": "MicroStrategy",
+      "title": "CEO and Founder"
+    },
+    {
+      "name": "Israel",
+      "role": "guest",
+      "company": "Amelius",
+      "title": "CEO"
+    },
+    {
+      "name": "Lucas",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tiago",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "David Sachs",
+      "role": "mentioned",
+      "company": "",
+      "title": "Kizar na parte do governo em termos de cripto"
+    },
+    {
+      "name": "Janet Yellen",
+      "role": "mentioned",
+      "company": "U.S. Treasury",
+      "title": "Former Secretary"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "mentioned",
+      "company": "U.S. Government",
+      "title": "Former President"
+    },
+    {
+      "name": "Andreas Antonopoulos",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Linh Oden",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Amélios",
+      "industry": "Technology and Finance",
+      "context": "Discussed as a company implementing Bitcoin strategy and operational changes."
+    },
+    {
+      "name": "Nela Investimentos",
+      "industry": "Finance",
+      "context": "Mentioned as Tiago Veloso de Almeida's company."
+    },
+    {
+      "name": "Microstrategy",
+      "industry": "Technology and Finance",
+      "context": "Discussed in relation to Bitcoin investment strategy."
+    },
+    {
+      "name": "Amelius",
+      "industry": "Technology and Retail",
+      "context": "Discussed as a group of companies transitioning to a Bitcoin-focused strategy."
+    },
+    {
+      "name": "Melhor Plano",
+      "industry": "Telecommunications Comparison",
+      "context": "Part of the Amelius group, focused on comparing internet and phone prices."
+    },
+    {
+      "name": "Idinheiro",
+      "industry": "Financial Education",
+      "context": "Part of the Amelius group, focused on financial education."
+    },
+    {
+      "name": "Promobit",
+      "industry": "Retail and Discounts",
+      "context": "Part of the Amelius group, focused on retail discounts."
+    },
+    {
+      "name": "Exxonmobil",
+      "industry": "Energy",
+      "context": "Referenced in analogy to Bitcoin strategy."
+    },
+    {
+      "name": "Méliuz",
+      "industry": "Tecnologia Financeira",
+      "context": "Discussão sobre estratégias envolvendo Bitcoin"
+    },
+    {
+      "name": "Binance",
+      "industry": "Criptomoedas",
+      "context": "Mencionada como possível custodiante de Bitcoins"
+    },
+    {
+      "name": "Fidelity",
+      "industry": "Serviços Financeiros",
+      "context": "Mencionada como possível custodiante de Bitcoins"
+    },
+    {
+      "name": "Coinbase",
+      "industry": "Criptomoedas",
+      "context": "Mencionada como possível custodiante de Bitcoins"
+    },
+    {
+      "name": "Metaplanet",
+      "industry": "Investment",
+      "context": "Referenced in the context of financial strategies involving Bitcoin."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Bitcoin",
+      "category": "Cryptocurrency"
+    },
+    {
+      "name": "Blockchain",
+      "category": "Technology"
+    },
+    {
+      "name": "Maximalism",
+      "category": "Cryptocurrency Philosophy"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Financial Metric"
+    },
+    {
+      "name": "ETFs (Exchange-Traded Funds)",
+      "category": "Investment Instrument"
+    },
+    {
+      "name": "Satoshis",
+      "category": "Cryptocurrency"
+    },
+    {
+      "name": "Volatility",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Debt Issuance",
+      "category": "Financial Strategy"
+    },
+    {
+      "name": "Cash Generation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Refinaria Bitcoiner",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Reserve of Value",
+      "category": "Economic Concept"
+    },
+    {
+      "name": "Bitcoin Bonds",
+      "category": "Instrumento Financeiro"
+    },
+    {
+      "name": "Criptomoedas",
+      "category": "Tecnologia Financeira"
+    },
+    {
+      "name": "Fiat",
+      "category": "Sistema Monetário"
+    },
+    {
+      "name": "Yuan Digital",
+      "category": "Moeda Digital"
+    },
+    {
+      "name": "Privatização do Dinheiro",
+      "category": "Conceito Econômico"
+    },
+    {
+      "name": "Oferta e Demanda",
+      "category": "Conceito Econômico"
+    },
+    {
+      "name": "Bitcoin Bond",
+      "category": "Finance"
+    },
+    {
+      "name": "Treasury Strategies",
+      "category": "Finance"
+    },
+    {
+      "name": "DXY (Dollar Index)",
+      "category": "Finance"
+    },
+    {
+      "name": "True Flation",
+      "category": "Finance"
+    },
+    {
+      "name": "Stablecoins",
+      "category": "Finance"
+    },
+    {
+      "name": "Petrodollar System",
+      "category": "Finance"
+    },
+    {
+      "name": "Debt-to-Liquidity Ratio",
+      "category": "Finance"
+    },
+    {
+      "name": "Geopolitical Economics",
+      "category": "Economics"
+    },
+    {
+      "name": "AI (Inteligência Artificial)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Transformação secular",
+      "category": "Economia"
+    },
+    {
+      "name": "Demografia",
+      "category": "Economia"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Bitcoin Standard",
+      "author": "Saifedean Ammous"
+    },
+    {
+      "title": "What's the Problem?",
+      "author": "Unknown"
+    },
+    {
+      "title": "The Internet of Money",
+      "author": "Andreas Antonopoulos"
+    },
+    {
+      "title": "Broken Money",
+      "author": "Linh Oden"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "400 milhões de reais",
+      "context": "Distributed to shareholders by Amélios due to lack of clear resource allocation."
+    },
+    {
+      "value": "700 milhões de reais",
+      "context": "Initial cash reserve of Amélios before strategic changes."
+    },
+    {
+      "value": "250 milhões de reais",
+      "context": "Remaining cash reserve after distributions and investments."
+    },
+    {
+      "value": "50 milhões de reais",
+      "context": "EBITDA adjusted by Amélios in the previous year."
+    },
+    {
+      "value": "180 milhões de dólares",
+      "context": "Bitcoin purchase by MicroStrategy as treasury asset."
+    },
+    {
+      "value": "40 billion USD",
+      "context": "MicroStrategy's Bitcoin holdings."
+    },
+    {
+      "value": "8 billion USD",
+      "context": "MicroStrategy's debt."
+    },
+    {
+      "value": "60% annual volatility",
+      "context": "Bitcoin's implied volatility."
+    },
+    {
+      "value": "21 milhões",
+      "context": "Quantidade máxima de Bitcoins disponíveis"
+    },
+    {
+      "value": "700 mil",
+      "context": "Quantidade de Bitcoins detida por 130 empresas"
+    },
+    {
+      "value": "30 milhões",
+      "context": "Número estimado de milionários no mundo"
+    },
+    {
+      "value": "36 trilhões",
+      "context": "Dívida dos Estados Unidos"
+    },
+    {
+      "value": "9 trillion",
+      "context": "U.S. Treasury debt discussed in the context of financial strategies."
+    },
+    {
+      "value": "400 trillion",
+      "context": "Global debt mentioned in relation to GDP."
+    },
+    {
+      "value": "100 trillion",
+      "context": "Global GDP mentioned in relation to debt."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Michael Saylor",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Microstrategy",
+      "target_type": "company"
+    },
+    {
+      "source": "Janet Yellen",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "U.S. Treasury",
+      "target_type": "company"
+    },
+    {
+      "source": "Amelius",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Promobit",
+      "target_type": "company"
+    },
+    {
+      "source": "Amelius",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Idinheiro",
+      "target_type": "company"
+    },
+    {
+      "source": "Amelius",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Melhor Plano",
+      "target_type": "company"
+    },
+    {
+      "source": "Israel Salm",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Amélios",
+      "target_type": "company"
+    },
+    {
+      "source": "Amélios",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Bitcoin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Veloso De Almeida",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Amélios",
+      "target_type": "company"
+    },
+    {
+      "source": "Michael Saylor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Microstrategy",
+      "target_type": "company"
+    },
+    {
+      "source": "Bitcoin Bonds",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Bitcoin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fiat",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Bitcoin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Andreas Antonopoulos",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "The Internet Of Money",
+      "target_type": "company"
+    },
+    {
+      "source": "Méliuz",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Bitcoin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Diego Collin",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Amélios",
+      "target_type": "company"
+    },
+    {
+      "source": "Méliuz",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Bitcoin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Andreas Antonopoulos",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Mastering Bitcoin",
+      "target_type": "company"
+    },
+    {
+      "source": "Michael Saylor",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bitcoin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Microstrategy",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Bitcoin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Donald Trump",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "U.S. Government",
+      "target_type": "company"
+    },
+    {
+      "source": "Michael Saylor",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Hope.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Microstrategy",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Amelius",
+      "target_type": "company"
+    },
+    {
+      "source": "Michael Saylor",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Bitcoin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Méliuz",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ai (Inteligência Artificial)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Linh Oden",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Broken Money",
+      "target_type": "company"
+    }
+  ]
+}

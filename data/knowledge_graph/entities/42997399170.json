@@ -1,0 +1,300 @@
+{
+  "episode_id": "42997399170",
+  "title": "COMO RAFAEL FIGUEIREDO REVOLUCIONOU O MERCADO DE TECNOLOGIA | PAPO DE GESTÃO",
+  "date_published": 1758553200,
+  "duration": 3846,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Rafael Figueiredo",
+      "role": "guest",
+      "company": "Tecla T",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Richard Aramis",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Tecla T",
+      "industry": "Tecnologia",
+      "context": "Empresa de outsourcing e soluções tecnológicas fundada por Rafael Figueiredo."
+    },
+    {
+      "name": "Magalu",
+      "industry": "Varejo",
+      "context": "Cliente da Tecla T mencionado por Rafael Figueiredo."
+    },
+    {
+      "name": "Grupo Mateus",
+      "industry": "Varejo",
+      "context": "Cliente da Tecla T com demanda por programadores em C++."
+    },
+    {
+      "name": "App Vida",
+      "industry": "Saúde",
+      "context": "Cliente da Tecla T com demanda por mais de 200 profissionais."
+    },
+    {
+      "name": "M Dias Branco",
+      "industry": "Alimentação",
+      "context": "Cliente da Tecla T mencionado por Rafael Figueiredo."
+    },
+    {
+      "name": "Ernest Young",
+      "industry": "Consultoria",
+      "context": "Cliente da Tecla T mencionado por Rafael Figueiredo."
+    },
+    {
+      "name": "Heineken",
+      "industry": "Bebidas",
+      "context": "Cliente internacional da Tecla T para projetos de tecnologia."
+    },
+    {
+      "name": "Grupo Matheus",
+      "industry": "Varejo",
+      "context": "Cliente da Tecla T."
+    },
+    {
+      "name": "M.Dias Branco",
+      "industry": "Alimentos",
+      "context": "Cliente da Tecla T."
+    },
+    {
+      "name": "Beach Park",
+      "industry": "Turismo e Entretenimento",
+      "context": "Cliente da Tecla T."
+    },
+    {
+      "name": "Opessin",
+      "industry": "Sports Equipment",
+      "context": "Mentioned as a sponsor of a cycling team in the Tour de France."
+    },
+    {
+      "name": "Fortaleza",
+      "industry": "Sports",
+      "context": "Mentioned as a football team sponsored by Tecla T."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Outsourcing",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "TI as a Service",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Recrutamento e Seleção",
+      "category": "Gestão de Recursos Humanos"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão de Empresas"
+    },
+    {
+      "name": "Banco de talentos",
+      "category": "Recrutamento"
+    },
+    {
+      "name": "Love brand",
+      "category": "Marketing"
+    },
+    {
+      "name": "Founder dependência",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Fluxo de caixa",
+      "category": "Finanças empresariais"
+    },
+    {
+      "name": "Faturamento",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Vagas em aberto",
+      "category": "Human Resources"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Customer Satisfaction Metrics"
+    },
+    {
+      "name": "Forecast",
+      "category": "Sales Metrics"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "600",
+      "context": "Número de profissionais alocados diretamente pela Tecla T."
+    },
+    {
+      "value": "60",
+      "context": "Número de profissionais no back-office da Tecla T."
+    },
+    {
+      "value": "660",
+      "context": "Total de profissionais na Tecla T."
+    },
+    {
+      "value": "7 dias",
+      "context": "Prazo prometido pela Tecla T para iniciar projetos."
+    },
+    {
+      "value": "9 meses",
+      "context": "Tempo em que a Tecla T mantém a promessa de iniciar projetos em 7 dias."
+    },
+    {
+      "value": "5.000",
+      "context": "Número de pessoas que se candidataram para trabalhar na Tecla T em 2023."
+    },
+    {
+      "value": "5 mil pessoas",
+      "context": "Número de candidatos no banco de talentos da Tecla T em 2023."
+    },
+    {
+      "value": "600 colaboradores",
+      "context": "Tamanho da equipe da Tecla T."
+    },
+    {
+      "value": "100 profissionais",
+      "context": "Número de profissionais alocados no contrato com a Pivida."
+    },
+    {
+      "value": "30,000",
+      "context": "Number of views on a YouTube video discussing the Tour de France."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ernest Young",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "M.Dias Branco",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "sponsored",
+      "target": "Fortaleza",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Grupo Matheus",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "M Dias Branco",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Outsourcing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Ti As A Service",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Beach Park",
+      "target_type": "company"
+    },
+    {
+      "source": "Opessin",
+      "source_type": "company",
+      "relation": "sponsored",
+      "target": "Tour De France",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Figueiredo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tecla T",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Heineken",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "App Vida",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Grupo Mateus",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Magalu",
+      "target_type": "company"
+    }
+  ]
+}

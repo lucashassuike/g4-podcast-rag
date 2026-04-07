@@ -1,0 +1,280 @@
+{
+  "episode_id": "34748488622",
+  "title": "Como funciona e por que investir em uma startup? | Conectando os Pontos",
+  "date_published": 1677056424,
+  "duration": 2326,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Amuri Pio",
+      "role": "guest",
+      "company": "Investidores VC",
+      "title": "Fundador"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Charlie Munger",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ambev",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Podcast e modelo de educação inovador"
+    },
+    {
+      "name": "Uber",
+      "industry": "Transporte",
+      "context": "Exemplo de mercado winner takes all"
+    },
+    {
+      "name": "Rappi",
+      "industry": "Delivery",
+      "context": "Exemplo de mercado winner takes all"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Delivery",
+      "context": "Exemplo de mercado winner takes all"
+    },
+    {
+      "name": "Weg",
+      "industry": "Indústria",
+      "context": "Exemplo de empresa tradicional para investimento"
+    },
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Exemplo de empresa tradicional para investimento"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Mentioned in the context of startup case studies."
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entertainment",
+      "context": "Used as an example to explain churn metrics."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Startup",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Unicórnio",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Investidor Anjo",
+      "category": "Investimento"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Investimento"
+    },
+    {
+      "name": "Seed Investment",
+      "category": "Investimento"
+    },
+    {
+      "name": "Series A",
+      "category": "Investimento"
+    },
+    {
+      "name": "Series B",
+      "category": "Investimento"
+    },
+    {
+      "name": "Series C",
+      "category": "Investimento"
+    },
+    {
+      "name": "Private Equity",
+      "category": "Investimento"
+    },
+    {
+      "name": "Family Friends and Fools (FFF)",
+      "category": "Investimento"
+    },
+    {
+      "name": "Early Stage",
+      "category": "Investimento"
+    },
+    {
+      "name": "Scale Up",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "LTV sobre CAC",
+      "category": "Métricas de Negócio"
+    },
+    {
+      "name": "Churn",
+      "category": "Métricas de Negócio"
+    },
+    {
+      "name": "Winner Takes All",
+      "category": "Estratégia de Mercado"
+    },
+    {
+      "name": "as a service",
+      "category": "Business Model"
+    },
+    {
+      "name": "logística",
+      "category": "Industry"
+    },
+    {
+      "name": "vale alimentação",
+      "category": "Employee Benefits"
+    },
+    {
+      "name": "state of the market",
+      "category": "Market Analysis"
+    },
+    {
+      "name": "winter of startups",
+      "category": "Market Trends"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "valuation",
+      "category": "Finance"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Metrics"
+    },
+    {
+      "name": "Customer Development",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Customer Discovery",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Fim dos Unicórnios",
+      "author": ""
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1 bilhão de dólares",
+      "context": "Valoração mínima de startups unicórnios"
+    },
+    {
+      "value": "Até 1 milhão a 1.5 milhões de reais",
+      "context": "Cheques de investidor anjo"
+    },
+    {
+      "value": "1.5 a 5 milhões de reais",
+      "context": "Rodadas seed"
+    },
+    {
+      "value": "A partir de 6 milhões de reais",
+      "context": "Investimentos de Venture Capital"
+    },
+    {
+      "value": "NPS 90",
+      "context": "Indicates high customer satisfaction."
+    },
+    {
+      "value": "churn em meio por cento",
+      "context": "Indicates low customer cancellation rate."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Winner Takes All",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Customer Discovery",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Customer Development",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rappi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Winner Takes All",
+      "target_type": "concept"
+    },
+    {
+      "source": "Amuri Pio",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Investidores Vc",
+      "target_type": "company"
+    },
+    {
+      "source": "Charlie Munger",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Winter Of Startups",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Winner Takes All",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Podcast Conectando Os Pontos",
+      "target_type": "company"
+    }
+  ]
+}

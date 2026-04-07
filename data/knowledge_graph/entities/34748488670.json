@@ -1,0 +1,330 @@
+{
+  "episode_id": "34748488670",
+  "title": "#007 - Conversa por um Brasil Livre com Jorge Gerdau",
+  "date_published": 1602694594,
+  "duration": 2628,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Jorge Gerdau",
+      "role": "guest",
+      "company": "Gerdau",
+      "title": "Ex-CEO"
+    },
+    {
+      "name": "Milton Friedman",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "CEO"
+    },
+    {
+      "name": "Tony Hsieh",
+      "role": "mentioned",
+      "company": "Zappos",
+      "title": "CEO"
+    },
+    {
+      "name": "Paulo Guedes",
+      "role": "mentioned",
+      "company": "Governo Brasileiro",
+      "title": "Ministro da Economia"
+    },
+    {
+      "name": "Viviane Cena",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Falcone",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Cristina",
+      "role": "mentioned",
+      "company": "SAP",
+      "title": "Unknown"
+    },
+    {
+      "name": "Dilma Rousseff",
+      "role": "mentioned",
+      "company": "Government of Brazil",
+      "title": "Former President"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Escola de negócios e mentoria empresarial"
+    },
+    {
+      "name": "Gerdau",
+      "industry": "Siderurgia",
+      "context": "Empresa familiar profissionalizada"
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce e tecnologia",
+      "context": "Exemplo de empresa customer-centric"
+    },
+    {
+      "name": "Zappos",
+      "industry": "E-commerce",
+      "context": "Reconhecida pela cultura de atendimento ao cliente"
+    },
+    {
+      "name": "Protech",
+      "industry": "Educação e tecnologia",
+      "context": "Startup apoiada por Jorge Gerdau para digitalizar a gestão escolar"
+    },
+    {
+      "name": "Sap",
+      "industry": "Technology",
+      "context": "Mentioned in the context of technological adaptation."
+    },
+    {
+      "name": "Gerdau S.A.",
+      "industry": "Steel Manufacturing",
+      "context": "Company associated with Jorge Gerdau"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Customer Centric",
+      "category": "Gestão"
+    },
+    {
+      "name": "Acquihire",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Total Quality Control",
+      "category": "Gestão de qualidade"
+    },
+    {
+      "name": "Sustentabilidade",
+      "category": "Responsabilidade social e econômica"
+    },
+    {
+      "name": "KPIs",
+      "category": "Métricas de desempenho"
+    },
+    {
+      "name": "Gestão libertária",
+      "category": "Framework de gestão"
+    },
+    {
+      "name": "Stock option",
+      "category": "Remuneração e incentivos"
+    },
+    {
+      "name": "Meritocracia",
+      "category": "Gestão e cultura organizacional"
+    },
+    {
+      "name": "Capitalismo",
+      "category": "Economic System"
+    },
+    {
+      "name": "Startups",
+      "category": "Business Model"
+    },
+    {
+      "name": "Inovação",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Custo Brasil",
+      "category": "Economic Challenge"
+    },
+    {
+      "name": "Liderança",
+      "category": "Management Principle"
+    },
+    {
+      "name": "core business",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "always beta",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "Capitalismo e Liberdade",
+      "author": "Milton Friedman"
+    },
+    {
+      "title": "A Revolta de Atlas",
+      "author": "Ayn Rand"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "15%",
+      "context": "Poupança e investimento sobre o PIB no Brasil"
+    },
+    {
+      "value": "20%-22%",
+      "context": "Estudo do Banco Mundial sobre poupança mínima para crescimento econômico"
+    },
+    {
+      "value": "26%-27%",
+      "context": "Índice de poupança da Índia"
+    },
+    {
+      "value": "37,000",
+      "context": "Número de unidades do McDonald's no mundo"
+    },
+    {
+      "value": "48%",
+      "context": "Crianças de 10 anos no Brasil com analfabetismo funcional"
+    },
+    {
+      "value": "65%",
+      "context": "Redução nas faltas escolares com uso da Protech"
+    },
+    {
+      "value": "25% a 30%",
+      "context": "Melhoria nas notas escolares com uso da Protech"
+    },
+    {
+      "value": "11.6 billion",
+      "context": "Annual revenue of Gerdau."
+    },
+    {
+      "value": "13 countries",
+      "context": "Operational presence of Gerdau."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gerdau",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Total Quality Control",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jorge Gerdau",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gerdau",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Gerdau",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão Libertária",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Gerdau",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Capitalismo E Liberdade",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Hsieh",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Zappos",
+      "target_type": "company"
+    },
+    {
+      "source": "Milton Friedman",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Valcherização",
+      "target_type": "company"
+    },
+    {
+      "source": "Cristina",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sap",
+      "target_type": "company"
+    },
+    {
+      "source": "Gerdau",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Steel Manufacturing",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Gerdau",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Protech",
+      "target_type": "company"
+    },
+    {
+      "source": "Gerdau",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Startups",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jorge Gerdau",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gerdau S.A.",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Gerdau",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "A Revolta De Atlas",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Gerdau",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Meritocracia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Amazon",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Zappos",
+      "target_type": "company"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Amazon",
+      "target_type": "company"
+    }
+  ]
+}

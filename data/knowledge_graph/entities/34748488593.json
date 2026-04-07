@@ -1,0 +1,182 @@
+{
+  "episode_id": "34748488593",
+  "title": "Gustavo Borges - O Que Empresários Podem Aprender Com Atletas de Alta Performance | Sem Atalhos",
+  "date_published": 1685350805,
+  "duration": 3658,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Gustavo Borges",
+      "role": "guest",
+      "company": "Universidade de Michigan",
+      "title": "Medalhista Olímpico e Empresário"
+    },
+    {
+      "name": "Michael Phelps",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Bárbara Borges",
+      "role": "mentioned",
+      "company": "",
+      "title": "Esposa de Gustavo Borges"
+    },
+    {
+      "name": "Josh Weizink",
+      "role": "mentioned",
+      "company": "",
+      "title": "International Master em xadrez e atleta multi-disciplinar"
+    },
+    {
+      "name": "Marcelo Garcia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Instrutor de Jiu Jitsu"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa focada em educação empresarial e desenvolvimento de habilidades para equipes."
+    },
+    {
+      "name": "Universidade De Michigan",
+      "industry": "Educação",
+      "context": "Instituição onde Gustavo Borges e seus filhos estudaram"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta Performance",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Treinamento e Desenvolvimento"
+    },
+    {
+      "name": "Liderança",
+      "category": "Habilidade de Gestão"
+    },
+    {
+      "name": "Planejamento de Longo Prazo",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Consistência",
+      "category": "Princípios de desenvolvimento pessoal"
+    },
+    {
+      "name": "Comparação de indicadores",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Desenvolvimento pessoal",
+      "category": "Princípios de desenvolvimento pessoal"
+    },
+    {
+      "name": "Transição de carreira",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Planejamento",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Clareza de objetivos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Estratégia de negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "Os Segredos da Mente Milionária",
+      "author": "T. Harv Eker"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7 dias gratuitos",
+      "context": "Demonstração gratuita da plataforma G4 Skills."
+    },
+    {
+      "value": "43 milhões de metros nadados",
+      "context": "Distância total nadada por Gustavo Borges ao longo de sua carreira"
+    },
+    {
+      "value": "20 quilômetros",
+      "context": "Distância máxima nadada por Gustavo Borges em um único dia"
+    },
+    {
+      "value": "Terceiro mais rápido do Brasil nos 50 metros de nado livre",
+      "context": "Filho de Gustavo Borges"
+    },
+    {
+      "value": "Sexto ou sétimo mais rápido nos 100 metros de nado livre",
+      "context": "Filho de Gustavo Borges"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Michael Phelps",
+      "target_type": "person"
+    },
+    {
+      "source": "Josh Weizink",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Marcelo Garcia",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Bárbara Borges",
+      "target_type": "person"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Universidade De Michigan",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Universidade De Michigan",
+      "target_type": "company"
+    }
+  ]
+}

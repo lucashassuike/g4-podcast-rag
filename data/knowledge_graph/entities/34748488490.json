@@ -1,0 +1,284 @@
+{
+  "episode_id": "34748488490",
+  "title": "COMO ELE INOVOU EM UM DOS MAIORES SETORES DO PAÍS? - COM RODRIGO ALBUQUERQUE | EXTREMOS",
+  "date_published": 1702407333,
+  "duration": 3757,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Rodrigo Albuquerque",
+      "role": "guest",
+      "company": "Petland",
+      "title": "Master Franqueado"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Fundador"
+    },
+    {
+      "name": "Marcelo Scherto",
+      "role": "mentioned",
+      "company": "Petland",
+      "title": "Consultor"
+    },
+    {
+      "name": "Adib",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fernando Campo",
+      "role": "mentioned",
+      "company": "Petland",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Peixotinho",
+      "role": "mentioned",
+      "company": "Remax",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Petland",
+      "industry": "Pet Shop",
+      "context": "Franquia de lojas de pet shop com origem nos Estados Unidos"
+    },
+    {
+      "name": "Clivo",
+      "industry": "Saúde",
+      "context": "Fundada por Marcelo Toledo"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Investimentos",
+      "context": "Parceira da Brava em operações financeiras"
+    },
+    {
+      "name": "Brava",
+      "industry": "Investimentos",
+      "context": "Escritório de investimentos fundado por Rodrigo Albuquerque"
+    },
+    {
+      "name": "Pets",
+      "industry": "Pet Shop",
+      "context": "Concorrente no mercado de pet shops no Brasil"
+    },
+    {
+      "name": "Cobase",
+      "industry": "Pet Shop",
+      "context": "Concorrente no mercado de pet shops no Brasil"
+    },
+    {
+      "name": "Petlove",
+      "industry": "Pet Shop",
+      "context": "Concorrente no mercado de pet shops no Brasil"
+    },
+    {
+      "name": "Remax",
+      "industry": "Real Estate",
+      "context": "Mentioned in the context of market entry and operations in Brazil."
+    },
+    {
+      "name": "Pet Smart",
+      "industry": "Pet Retail",
+      "context": "Mentioned as a major player in the US pet retail market."
+    },
+    {
+      "name": "Petco",
+      "industry": "Pet Retail",
+      "context": "Mentioned as a major player in the US pet retail market."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Franquia",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Master Franqueado",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Rebranding",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Certificado de Recebível Imobiliário (CRI)",
+      "category": "Instrumento Financeiro"
+    },
+    {
+      "name": "Mercado Pet",
+      "category": "Setor de Mercado"
+    },
+    {
+      "name": "Market Fragmentation",
+      "category": "Business Analysis"
+    },
+    {
+      "name": "Brand Conversion",
+      "category": "Retail Strategy"
+    },
+    {
+      "name": "CRM",
+      "category": "Customer Relationship Management"
+    },
+    {
+      "name": "Private Label Products",
+      "category": "Retail Strategy"
+    },
+    {
+      "name": "jornada do cliente",
+      "category": "estratégia de negócios"
+    },
+    {
+      "name": "markup",
+      "category": "finanças"
+    },
+    {
+      "name": "royalty",
+      "category": "modelo de receita"
+    },
+    {
+      "name": "assinatura",
+      "category": "modelo de receita"
+    },
+    {
+      "name": "distribuição",
+      "category": "modelo de receita"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "170",
+      "context": "Número atual de lojas da Petland no Brasil"
+    },
+    {
+      "value": "200",
+      "context": "Meta de lojas da Petland no Brasil para 2024"
+    },
+    {
+      "value": "110",
+      "context": "Número de lojas da Petland nos Estados Unidos"
+    },
+    {
+      "value": "30 mil",
+      "context": "Número de colaboradores desenvolvidos usando a tecnologia do G4"
+    },
+    {
+      "value": "200 horas",
+      "context": "Conteúdo disponível na plataforma do G4"
+    },
+    {
+      "value": "170 stores",
+      "context": "Number of stores operated by Petland in Brazil."
+    },
+    {
+      "value": "40% increase in sales",
+      "context": "Average sales increase after store conversion to Petland brand."
+    },
+    {
+      "value": "500 stores visited",
+      "context": "Field research conducted by Rodrigo Albuquerque and his team before launching Petland."
+    },
+    {
+      "value": "20 e poucos meses",
+      "context": "tempo para retorno do investimento"
+    },
+    {
+      "value": "40%",
+      "context": "crescimento do negócio após investimento"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Pet Smart",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Petco",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Petland",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Petlove",
+      "target_type": "company"
+    },
+    {
+      "source": "Petland",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Pets",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Albuquerque",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Petland",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Albuquerque",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Brava",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Scherto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Petland",
+      "target_type": "company"
+    },
+    {
+      "source": "Peixotinho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Remax",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Campo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Petland",
+      "target_type": "company"
+    },
+    {
+      "source": "Petland",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Cobase",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Albuquerque",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Petland",
+      "target_type": "company"
+    },
+    {
+      "source": "Brava",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Xp Inc",
+      "target_type": "company"
+    }
+  ]
+}

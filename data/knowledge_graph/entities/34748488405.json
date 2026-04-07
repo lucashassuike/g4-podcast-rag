@@ -1,0 +1,504 @@
+{
+  "episode_id": "34748488405",
+  "title": "UMA VIDA NO LIMITE DA VELOCIDADE E DA RESILIÊNCIA COM RUBENS BARRICHELLO | EXTREMOS",
+  "date_published": 1723708800,
+  "duration": 6973,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Rubens Barrichello",
+      "role": "guest",
+      "company": "Instituto Família Barrichello",
+      "title": "Founder"
+    },
+    {
+      "name": "Ayrton Senna",
+      "role": "mentioned",
+      "company": "Formula 1",
+      "title": "Driver"
+    },
+    {
+      "name": "Michael Schumacher",
+      "role": "mentioned",
+      "company": "Ferrari",
+      "title": "Driver"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ross Brown",
+      "role": "mentioned",
+      "company": "Ferrari",
+      "title": "Engenheiro"
+    },
+    {
+      "name": "Silvana Barrichello",
+      "role": "mentioned",
+      "company": "",
+      "title": "Esposa de Rubens Barrichello"
+    },
+    {
+      "name": "Gabriel Medina",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista"
+    },
+    {
+      "name": "Ricardo Tedesco",
+      "role": "mentioned",
+      "company": "Marina Tedesco",
+      "title": "Empresário"
+    },
+    {
+      "name": "Geraldo Rodrigues",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empresário"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Ferrari",
+      "industry": "Automotive",
+      "context": "Formula 1 racing team"
+    },
+    {
+      "name": "Honda",
+      "industry": "Automotive",
+      "context": "Formula 1 racing team"
+    },
+    {
+      "name": "Instituto Família Barrichello",
+      "industry": "Nonprofit",
+      "context": "Founded by Rubens Barrichello"
+    },
+    {
+      "name": "Jordan",
+      "industry": "Automobilismo",
+      "context": "Equipe de Fórmula 1 onde Rubens Barrichello competiu por 4 anos"
+    },
+    {
+      "name": "Stuart",
+      "industry": "Automobilismo",
+      "context": "Equipe de Fórmula 1 onde Rubens Barrichello competiu por 3 anos"
+    },
+    {
+      "name": "Brown",
+      "industry": "Automobilismo",
+      "context": "Equipe de Fórmula 1 onde Rubens Barrichello competiu por 1 ano"
+    },
+    {
+      "name": "Williams",
+      "industry": "Automobilismo",
+      "context": "Equipe de Fórmula 1 onde Rubens Barrichello competiu por 2 anos"
+    },
+    {
+      "name": "Red Bull Racing",
+      "industry": "Automobilismo",
+      "context": "Equipe de Fórmula 1 mencionada como exemplo de alta performance"
+    },
+    {
+      "name": "Full Time Sports",
+      "industry": "Automobilismo",
+      "context": "Oficina de Rubens Barrichello localizada em Vinhedo"
+    },
+    {
+      "name": "Stewart",
+      "industry": "Automobilismo",
+      "context": "Equipe de Fórmula 1 onde Rubens Barrichello competiu antes de ir para Ferrari"
+    },
+    {
+      "name": "Sauber",
+      "industry": "Automobilismo",
+      "context": "Equipe de Fórmula 1 mencionada como opção de contrato para Rubens Barrichello"
+    },
+    {
+      "name": "Tyrrell",
+      "industry": "Automobilismo",
+      "context": "Equipe de Fórmula 1 mencionada como opção de contrato para Rubens Barrichello"
+    },
+    {
+      "name": "Marina Tedesco",
+      "industry": "Marinas e infraestrutura",
+      "context": "Empresa associada a Ricardo Tedesco"
+    },
+    {
+      "name": "Amazon",
+      "industry": "Tecnologia e Entretenimento",
+      "context": "Plataforma mencionada para documentário"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Formula 1",
+      "category": "Sports"
+    },
+    {
+      "name": "G4 Podcast",
+      "category": "Media"
+    },
+    {
+      "name": "G4 Clássico",
+      "category": "Community"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Numerologia",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Astrologia",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Harmonia",
+      "category": "Princípios de trabalho"
+    },
+    {
+      "name": "Regulamento estratégico",
+      "category": "Competição"
+    },
+    {
+      "name": "Dedicação",
+      "category": "Princípios de trabalho"
+    },
+    {
+      "name": "negociação de contratos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "leasing",
+      "category": "Finanças"
+    },
+    {
+      "name": "desenvolvimento de carros de corrida",
+      "category": "Automobilismo"
+    },
+    {
+      "name": "memória muscular",
+      "category": "Fisiologia e treinamento"
+    },
+    {
+      "name": "extremos",
+      "category": "Resiliência e performance"
+    },
+    {
+      "name": "Fórmula 1",
+      "category": "Esporte"
+    },
+    {
+      "name": "Documentário",
+      "category": "Mídia e Entretenimento"
+    },
+    {
+      "name": "Papel timbrado",
+      "category": "Documentação"
+    },
+    {
+      "name": "Fórmula Ford",
+      "category": "Esporte"
+    }
+  ],
+  "books": [
+    {
+      "title": "Maceto",
+      "author": "Desconhecido"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "20 years",
+      "context": "Rubens Barrichello's career in Formula 1"
+    },
+    {
+      "value": "1 million",
+      "context": "Funds raised by G4 Clássico"
+    },
+    {
+      "value": "19 anos",
+      "context": "Tempo de carreira de Rubens Barrichello na Fórmula 1"
+    },
+    {
+      "value": "6 anos",
+      "context": "Tempo de Rubens Barrichello na equipe Ferrari"
+    },
+    {
+      "value": "4 anos",
+      "context": "Tempo de Rubens Barrichello na equipe Jordan"
+    },
+    {
+      "value": "3 anos",
+      "context": "Tempo de Rubens Barrichello na equipe Stuart"
+    },
+    {
+      "value": "3 anos",
+      "context": "Tempo de Rubens Barrichello na equipe Honda"
+    },
+    {
+      "value": "1 ano",
+      "context": "Tempo de Rubens Barrichello na equipe Brown"
+    },
+    {
+      "value": "2 anos",
+      "context": "Tempo de Rubens Barrichello na equipe Williams"
+    },
+    {
+      "value": "19 anos",
+      "context": "Tempo de Rubens Barrichello na Fórmula 1"
+    },
+    {
+      "value": "6 anos",
+      "context": "Tempo de Rubens Barrichello na Ferrari"
+    },
+    {
+      "value": "4 anos",
+      "context": "Tempo de Rubens Barrichello na Jordan"
+    },
+    {
+      "value": "3 anos",
+      "context": "Tempo de Rubens Barrichello na Stuart"
+    },
+    {
+      "value": "3 anos",
+      "context": "Tempo de Rubens Barrichello na Honda"
+    },
+    {
+      "value": "1 ano",
+      "context": "Tempo de Rubens Barrichello na Brown"
+    },
+    {
+      "value": "2 anos",
+      "context": "Tempo de Rubens Barrichello na Williams"
+    },
+    {
+      "value": "Primeiro salário significativo na Stewart",
+      "context": "Rubens Barrichello começou a ganhar dinheiro significativo na Stewart"
+    },
+    {
+      "value": "Aquisição de um avião",
+      "context": "Rubens Barrichello comprou um avião durante sua carreira na Ferrari"
+    },
+    {
+      "value": "Perda de metade do império financeiro",
+      "context": "Rubens Barrichello perdeu metade de seu patrimônio devido a um leasing de avião"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Michael Schumacher",
+      "target_type": "person"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sauber",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Jordan",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Williams",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Silvana Barrichello",
+      "target_type": "person"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Brown",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Instituto Família Barrichello",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Geraldo Rodrigues",
+      "target_type": "person"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Jordan",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stuart",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ayrton Senna",
+      "target_type": "person"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Williams",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Instituto Família Barrichello",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gabriel Medina",
+      "target_type": "person"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Brown",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stewart",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ferrari",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Honda",
+      "target_type": "company"
+    },
+    {
+      "source": "Documentário",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Stuart",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Ferrari",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ross Brown",
+      "target_type": "person"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Full Time Sports",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Ricardo Tedesco",
+      "target_type": "person"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Honda",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tyrrell",
+      "target_type": "company"
+    },
+    {
+      "source": "Rubens Barrichello",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Red Bull Racing",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "episode_id": "34748488370",
+  "title": "COMO THIAGO FINCH ENRIQUECEU COM O MARKETING DIGITAL | EXTREMOS",
+  "date_published": 1732086000,
+  "duration": 3735,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Thiago Finch",
+      "role": "guest",
+      "company": "",
+      "title": "Empreendedor Tech"
+    },
+    {
+      "name": "Anacouto",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em Branding"
+    },
+    {
+      "name": "Fred Gelli",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em Branding"
+    },
+    {
+      "name": "John Vlogs",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comunicador"
+    },
+    {
+      "name": "Flávio Augusto",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Marcelo Bianchi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em Lançamentos"
+    },
+    {
+      "name": "Marcelo Bagiron",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em Lançamentos"
+    },
+    {
+      "name": "Rodrigão",
+      "role": "mentioned",
+      "company": "Boale",
+      "title": "Mentor do G4"
+    },
+    {
+      "name": "Christian Barbosa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Sócio de Thiago Finch"
+    },
+    {
+      "name": "Conor Mcgregor",
+      "role": "mentioned",
+      "company": "",
+      "title": "Lutador"
+    },
+    {
+      "name": "Dan",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tony",
+      "role": "mentioned",
+      "company": "",
+      "title": "Imobiliário em Aspen"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcast",
+      "industry": "Mídia e Entretenimento",
+      "context": "Podcast de negócios"
+    },
+    {
+      "name": "Minimal",
+      "industry": "Moda",
+      "context": "Patrocinador do episódio"
+    },
+    {
+      "name": "Telexfree",
+      "industry": "Marketing Multinível",
+      "context": "Empresa mencionada em contexto de pirâmide financeira"
+    },
+    {
+      "name": "Boale",
+      "industry": "Alimentação saudável",
+      "context": "Rede de franquias mencionada como parceira e exemplo de expansão"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Financeiro",
+      "context": "Evento em Aspen"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Pirâmide Financeira",
+      "category": "Finanças"
+    },
+    {
+      "name": "Equity",
+      "category": "Finanças"
+    },
+    {
+      "name": "Gestão",
+      "category": "Negócios"
+    },
+    {
+      "name": "Lançamentos",
+      "category": "Marketing"
+    },
+    {
+      "name": "Recorrência",
+      "category": "Finanças"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Marketing"
+    },
+    {
+      "name": "Funil de Vendas",
+      "category": "Marketing"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Churn",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "CPL (Custo por Lead)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "SaaS (Software as a Service)",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Gestão empresarial",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Internacionalização",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Inteligência artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Marketing digital",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Networking",
+      "category": "Estratégia de Negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "R$100",
+      "context": "Custo para assistir a transmissão do G4 Valley"
+    },
+    {
+      "value": "60, 70 mil reais",
+      "context": "Valor investido por Thiago Finch em pirâmide financeira"
+    },
+    {
+      "value": "41,000",
+      "context": "Número de usuários adquiridos para um software em duas semanas"
+    },
+    {
+      "value": "94",
+      "context": "Número de lojas da Boale atualmente"
+    },
+    {
+      "value": "300",
+      "context": "Meta de expansão de lojas da Boale"
+    },
+    {
+      "value": "4 mil metros quadrados",
+      "context": "Tamanho da casa mencionada por Thiago Finch"
+    },
+    {
+      "value": "10 milhões de dólares",
+      "context": "Possível investimento obtido através de networking"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Thiago Finch",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Internacionalização",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Finch",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Networking",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigão",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Boale",
+      "target_type": "company"
+    },
+    {
+      "source": "Minimal",
+      "source_type": "company",
+      "relation": "sponsors",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Finch",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Christian Barbosa",
+      "target_type": "person"
+    },
+    {
+      "source": "Thiago Finch",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pirâmide Financeira",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Finch",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marketing Digital",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Finch",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Telexfree",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Finch",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Marcelo Bagiron",
+      "target_type": "person"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Evento Em Aspen",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Finch",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Marcelo Bianchi",
+      "target_type": "person"
+    },
+    {
+      "source": "Flávio Augusto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Equity",
+      "target_type": "concept"
+    }
+  ]
+}

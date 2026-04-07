@@ -1,0 +1,421 @@
+{
+  "episode_id": "34748488617",
+  "title": "As experiências de quem fundou, expandiu e vendeu startups que valem milhões | Conectando os Pontos",
+  "date_published": 1678352432,
+  "duration": 5014,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Matt Montenegro",
+      "role": "guest",
+      "company": "Video Monsters",
+      "title": "Founder"
+    },
+    {
+      "name": "João Vitor",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Muripinho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Simón",
+      "role": "mentioned",
+      "company": "Rappi",
+      "title": "Founder"
+    },
+    {
+      "name": "Sebastião",
+      "role": "mentioned",
+      "company": "Rappi",
+      "title": "Founder"
+    },
+    {
+      "name": "Matt",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Amuri",
+      "role": "mentioned",
+      "company": "Videomonsters",
+      "title": "Investor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Podcast e educação empresarial"
+    },
+    {
+      "name": "Video Monsters",
+      "industry": "Tecnologia",
+      "context": "Fundada por Matt Montenegro e vendida para Hotmart em 2019"
+    },
+    {
+      "name": "Hotmart",
+      "industry": "Tecnologia",
+      "context": "Comprou a Video Monsters em 2019"
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Fundada por Bruno Nardon e vendida para Dafiti"
+    },
+    {
+      "name": "Dafiti",
+      "industry": "E-commerce",
+      "context": "Adquiriu a Canoe"
+    },
+    {
+      "name": "Rappi",
+      "industry": "Tecnologia",
+      "context": "Expansão no Brasil liderada por Bruno Nardon"
+    },
+    {
+      "name": "Rocket",
+      "industry": "Investimentos",
+      "context": "Fundo de investimento mencionado como investidor em startups."
+    },
+    {
+      "name": "Canui",
+      "industry": "E-commerce",
+      "context": "Startup mencionada como investida pela Rocket."
+    },
+    {
+      "name": "Quinto Andar",
+      "industry": "Imobiliário",
+      "context": "Startup brasileira mencionada como exemplo de unicórnio."
+    },
+    {
+      "name": "Créditas",
+      "industry": "Fintech",
+      "context": "Startup brasileira mencionada como exemplo de unicórnio."
+    },
+    {
+      "name": "Jim Paz",
+      "industry": "Fitness",
+      "context": "Startup brasileira mencionada como exemplo de unicórnio."
+    },
+    {
+      "name": "Méliuz",
+      "industry": "Cashback e Fintech",
+      "context": "Startup mencionada como originária do São Pedro Valley."
+    },
+    {
+      "name": "Rock Content",
+      "industry": "Marketing de Conteúdo",
+      "context": "Startup mencionada como originária do São Pedro Valley."
+    },
+    {
+      "name": "123",
+      "industry": "Tecnologia",
+      "context": "Startup mencionada em contexto de fusão com a Rock Content."
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Empresa mencionada como compradora de tecnologia desenvolvida pela Aquan."
+    },
+    {
+      "name": "Pingback",
+      "industry": "Technology",
+      "context": "Founded in 2020, during the pandemic."
+    },
+    {
+      "name": "Videomonsters",
+      "industry": "Technology",
+      "context": "Sold to Hotmart with Amuri as an investor."
+    },
+    {
+      "name": "Github",
+      "industry": "Tecnologia",
+      "context": "Exemplo de empresa que adotou modelo home office."
+    },
+    {
+      "name": "Facebook",
+      "industry": "Tecnologia",
+      "context": "Mencionado como exemplo de empresa monopolista."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Unicórnio",
+      "category": "Termo de negócios"
+    },
+    {
+      "name": "Investimento de risco",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Seed",
+      "category": "Termo de negócios"
+    },
+    {
+      "name": "Series A",
+      "category": "Termo de negócios"
+    },
+    {
+      "name": "Series B",
+      "category": "Termo de negócios"
+    },
+    {
+      "name": "Blitzscaling",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Valuation",
+      "category": "Termo de Negócios"
+    },
+    {
+      "name": "GMV (Gross Merchandise Value)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Fundraising",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "São Pedro Valley",
+      "category": "Ecossistema de Startups"
+    },
+    {
+      "name": "Transformação Organizacional",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "remote work",
+      "category": "Workplace Trends"
+    },
+    {
+      "name": "communication",
+      "category": "Organizational Behavior"
+    },
+    {
+      "name": "Modelo de trabalho híbrido",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Modelo de trabalho home office",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Execução primorosa",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Velocidade de crescimento",
+      "category": "Métrica de negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "Blitzscaling",
+      "author": "Reid Hoffman"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "2019",
+      "context": "Ano em que a Video Monsters foi vendida para Hotmart"
+    },
+    {
+      "value": "2014-2015",
+      "context": "Ano da fusão entre Canoe e Dafiti"
+    },
+    {
+      "value": "2017",
+      "context": "Ano de entrada de Bruno Nardon na Rappi"
+    },
+    {
+      "value": "2018",
+      "context": "Ano de levantamento do Series B pela Rappi"
+    },
+    {
+      "value": "10% a 30%",
+      "context": "Diluição máxima dos fundadores em rodadas de investimento."
+    },
+    {
+      "value": "40 anos",
+      "context": "Tempo de existência do curso de engenharia da UFMG mencionado."
+    },
+    {
+      "value": "2020",
+      "context": "Year Pingback was founded."
+    },
+    {
+      "value": "2021",
+      "context": "Year fundraising was conducted for Pingback."
+    },
+    {
+      "value": "3.5 vezes mais",
+      "context": "Crescimento de startups com trabalho presencial comparado a modelos não presenciais."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rock Content",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "São Pedro Valley",
+      "target_type": "concept"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Video Monsters",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Canui",
+      "target_type": "company"
+    },
+    {
+      "source": "123",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rock Content",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dafiti",
+      "target_type": "company"
+    },
+    {
+      "source": "Videomonsters",
+      "source_type": "company",
+      "relation": "sold_to",
+      "target": "Hotmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Aquan",
+      "target_type": "company"
+    },
+    {
+      "source": "Video Monsters",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Hotmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Simón",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Amuri",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Videomonsters",
+      "target_type": "company"
+    },
+    {
+      "source": "Sebastião",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Facebook",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Velocidade De Crescimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Méliuz",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "São Pedro Valley",
+      "target_type": "concept"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Velocidade De Crescimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hotmart",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "São Pedro Valley",
+      "target_type": "concept"
+    },
+    {
+      "source": "Github",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Modelo De Trabalho Home Office",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Canoe",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "episode_id": "34748488650",
+  "title": "#028 - Como Kondzilla se tornou um fenômeno da música no Brasil",
+  "date_published": 1632299417,
+  "duration": 3607,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Kondzilla",
+      "role": "guest",
+      "company": "KondZilla Records",
+      "title": "Fundador"
+    },
+    {
+      "name": "Camila Coutinho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mc Doni",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Fundador"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla, SpaceX",
+      "title": "CEO"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Mc G15",
+      "role": "mentioned",
+      "company": "Kondzilla Records",
+      "title": "Artist"
+    },
+    {
+      "name": "Chorão",
+      "role": "mentioned",
+      "company": "Charlie Brown Jr.",
+      "title": "Musician"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Podcast e mentoria de negócios"
+    },
+    {
+      "name": "Kondzilla Records",
+      "industry": "Música",
+      "context": "Produção fonográfica e gravadora"
+    },
+    {
+      "name": "Youtube",
+      "industry": "Tecnologia",
+      "context": "Plataforma de distribuição de conteúdo"
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entretenimento",
+      "context": "Plataforma de streaming"
+    },
+    {
+      "name": "Charlie Brown Jr.",
+      "industry": "Music",
+      "context": "Band associated with Chorão, mentioned in the context of a quote."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão",
+      "category": "Negócios"
+    },
+    {
+      "name": "Liderança",
+      "category": "Negócios"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Renda passiva",
+      "category": "Finanças"
+    },
+    {
+      "name": "Equity",
+      "category": "Finanças"
+    },
+    {
+      "name": "Diversificação de canais",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Público-alvo",
+      "category": "Marketing"
+    },
+    {
+      "name": "Harmonia entre pilares pessoais",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Financial Planning",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Music Industry",
+      "category": "Industry"
+    },
+    {
+      "name": "Content Strategy",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "18 a 24 anos",
+      "context": "Principal público-alvo de KondZilla"
+    },
+    {
+      "value": "25 a 34 anos",
+      "context": "Segundo público-alvo de KondZilla"
+    },
+    {
+      "value": "13 a 17 anos",
+      "context": "Terceiro público-alvo de KondZilla"
+    },
+    {
+      "value": "6 million to 22 million subscribers",
+      "context": "Growth of Kondzilla's YouTube channel in less than a year."
+    },
+    {
+      "value": "Second most viewed video worldwide in February 2017",
+      "context": "Performance of the song 'Deu Onda' by MC G15."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Chorão",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Charlie Brown Jr.",
+      "target_type": "company"
+    },
+    {
+      "source": "Kondzilla",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Kondzilla Records",
+      "target_type": "company"
+    },
+    {
+      "source": "Kondzilla",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Youtube",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Camila Coutinho",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Elon Musk",
+      "target_type": "person"
+    },
+    {
+      "source": "Kondzilla",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Netflix",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bill Gates",
+      "target_type": "person"
+    },
+    {
+      "source": "Kondzilla",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mc Doni",
+      "target_type": "person"
+    },
+    {
+      "source": "Mc G15",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Kondzilla Records",
+      "target_type": "company"
+    }
+  ]
+}

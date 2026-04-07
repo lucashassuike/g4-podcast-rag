@@ -1,0 +1,286 @@
+{
+  "episode_id": "34748488667",
+  "title": "#010 - Sonho grande e mente empreendedora com Guilherme Benchimol da XP Inc",
+  "date_published": 1604508917,
+  "duration": 2522,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "guest",
+      "company": "XP Inc",
+      "title": "Founder"
+    },
+    {
+      "name": "Isa Matari",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Content Leader"
+    },
+    {
+      "name": "Furlanete",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Content Leader"
+    },
+    {
+      "name": "Fred",
+      "role": "mentioned",
+      "company": "Magazine Luiza",
+      "title": "Unknown"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "Founder"
+    },
+    {
+      "name": "Samuel Klein",
+      "role": "mentioned",
+      "company": "Casas Bahia",
+      "title": "Founder"
+    },
+    {
+      "name": "Ernest Shackleton",
+      "role": "mentioned",
+      "company": "",
+      "title": "Commander"
+    },
+    {
+      "name": "Ayrton Senna",
+      "role": "mentioned",
+      "company": "",
+      "title": "Formula 1 Driver"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Finance",
+      "context": "Investment and financial services"
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Retail",
+      "context": "E-commerce and retail"
+    },
+    {
+      "name": "Casas Bahia",
+      "industry": "Retail",
+      "context": "Mentioned in the context of personal branding and connection with customers."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Mentioned as an example of a large-scale entrepreneurial aspiration."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão 4.0",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Squad",
+      "category": "Team Structure"
+    },
+    {
+      "name": "Data-driven decision making",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Culture of experimentation",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Benchmarking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Spirit of entrepreneurship",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Dream big",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Agile Methodology",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Management by Objectives (MBO)",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Skin in the Game",
+      "category": "Leadership Principle"
+    },
+    {
+      "name": "IPO (Initial Public Offering)",
+      "category": "Financial Event"
+    },
+    {
+      "name": "Personal Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Direct Customer Communication",
+      "category": "Customer Relations"
+    },
+    {
+      "name": "Entrepreneurial Resilience",
+      "category": "Entrepreneurship"
+    },
+    {
+      "name": "Resilience",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Leadership",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "Endurance",
+      "author": "Alfred Lansing"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "25 square meters",
+      "context": "Initial office size of XP Inc in Porto Alegre"
+    },
+    {
+      "value": "10,000 BRL",
+      "context": "Initial capital for XP Inc"
+    },
+    {
+      "value": "Listed on Nasdaq",
+      "context": "Current status of XP Inc"
+    },
+    {
+      "value": "3,000",
+      "context": "Number of employees at XP Inc."
+    },
+    {
+      "value": "60",
+      "context": "Number of squads at XP Inc."
+    },
+    {
+      "value": "43",
+      "context": "Age of Guilherme Benchimol."
+    },
+    {
+      "value": "33",
+      "context": "Age of Tallis Gomes."
+    },
+    {
+      "value": "15",
+      "context": "Number of crew members on Shackleton's expedition."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Endurance",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Squad",
+      "target_type": "concept"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Agile Methodology",
+      "target_type": "concept"
+    },
+    {
+      "source": "Endurance",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Guilherme Benchimol",
+      "target_type": "person"
+    },
+    {
+      "source": "Isa Matari",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Ayrton Senna",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Guilherme Benchimol",
+      "target_type": "person"
+    },
+    {
+      "source": "Samuel Klein",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Casas Bahia",
+      "target_type": "company"
+    },
+    {
+      "source": "Furlanete",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Management By Objectives (Mbo)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

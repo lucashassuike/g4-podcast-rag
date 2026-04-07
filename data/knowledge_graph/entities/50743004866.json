@@ -1,0 +1,174 @@
+{
+  "episode_id": "50743004866",
+  "title": "O RESPONSÁVEL PELO AUDIOVISUAL DE GRANDES MARCAS COM MATHEUS LINS | EXTREMOS",
+  "date_published": 1772031601,
+  "duration": 2781,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Matheus Lins",
+      "role": "guest",
+      "company": "3017",
+      "title": "Founder"
+    },
+    {
+      "name": "Christopher Nolan",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filmmaker"
+    },
+    {
+      "name": "João Adib",
+      "role": "mentioned",
+      "company": "Cimédia",
+      "title": "CEO"
+    },
+    {
+      "name": "Eric Chibata",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Anitta",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artist"
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Social Media Strategist"
+    }
+  ],
+  "companies": [
+    {
+      "name": "3017",
+      "industry": "Creative Services",
+      "context": "Founded by Matheus Lins, named after the office number of its first location."
+    },
+    {
+      "name": "Abdala Brothers",
+      "industry": "Film Production",
+      "context": "Film production company known for innovative projects like a documentary-film hybrid about the 24 Hours of Le Mans."
+    },
+    {
+      "name": "Panavision",
+      "industry": "Film Equipment",
+      "context": "Mentioned in relation to Abdala Brothers' film production."
+    },
+    {
+      "name": "Cimédia",
+      "industry": "Healthcare",
+      "context": "Company involved in marketing campaigns, including a perfume launch with Anitta."
+    },
+    {
+      "name": "Cbf",
+      "industry": "Sports",
+      "context": "Brazilian Football Confederation, mentioned in relation to sponsorships and events."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Banking",
+      "context": "Mentioned as a major sponsor of the Brazilian national football team."
+    },
+    {
+      "name": "Vivo",
+      "industry": "Telecommunications",
+      "context": "Mentioned as a major sponsor of the Brazilian national football team."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Specialist vs. Entrepreneur",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Content Strategy",
+      "category": "Marketing"
+    },
+    {
+      "name": "Brand Building",
+      "category": "Marketing"
+    },
+    {
+      "name": "Creative Production",
+      "category": "Film and Media"
+    },
+    {
+      "name": "Upselling",
+      "category": "Sales"
+    },
+    {
+      "name": "Event Sponsorship",
+      "category": "Marketing"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Five years",
+      "context": "Duration over which Matheus Lins built his network and business expertise."
+    },
+    {
+      "value": "2021",
+      "context": "Year Matheus Lins worked within Nise."
+    },
+    {
+      "value": "2026",
+      "context": "Year mentioned in relation to the next FIFA World Cup."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "João Adib",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimédia",
+      "target_type": "company"
+    },
+    {
+      "source": "Cimédia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Anitta",
+      "target_type": "person"
+    },
+    {
+      "source": "Matheus Lins",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "3017",
+      "target_type": "company"
+    },
+    {
+      "source": "Cimédia",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Healthcare",
+      "target_type": "company"
+    },
+    {
+      "source": "Cimédia",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Vivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Abdala Brothers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Panavision",
+      "target_type": "company"
+    },
+    {
+      "source": "Cimédia",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Itaú",
+      "target_type": "company"
+    }
+  ]
+}

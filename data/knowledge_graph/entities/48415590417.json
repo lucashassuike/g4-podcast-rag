@@ -1,0 +1,249 @@
+{
+  "episode_id": "48415590417",
+  "title": "COMO DIOGO AGUILAR TRANSFORMOU O INGLÊS EM NEGÓCIO | EXTREMOS",
+  "date_published": 1768402800,
+  "duration": 3661,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Diogo Aguilar",
+      "role": "guest",
+      "company": "Fluency Pass",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Nardon Felice",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Renato Pereira",
+      "role": "mentioned",
+      "company": "Groupon",
+      "title": "Director"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Fluency Pass",
+      "industry": "EdTech",
+      "context": "Empresa liderada por Diogo Aguilar focada em democratizar o ensino de inglês."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação e negócios mencionada como anfitriã do podcast."
+    },
+    {
+      "name": "Ikeda",
+      "industry": "E-commerce",
+      "context": "Former employer of Diogo Aguilar, described as the largest e-commerce platform at the time."
+    },
+    {
+      "name": "Vitex",
+      "industry": "E-commerce",
+      "context": "Mentioned as emerging in the e-commerce platform space during Diogo Aguilar's career."
+    },
+    {
+      "name": "Walmart",
+      "industry": "Retail",
+      "context": "Diogo Aguilar worked as a developer and consultant for Walmart during the early stages of Vitex."
+    },
+    {
+      "name": "Buscapé",
+      "industry": "Advertising",
+      "context": "Used by Diogo Aguilar for monetizing his fan site."
+    },
+    {
+      "name": "Google",
+      "industry": "Advertising",
+      "context": "Paid Diogo Aguilar for advertisements on his fan site."
+    },
+    {
+      "name": "Live Go",
+      "industry": "E-commerce",
+      "context": "Company founded by Diogo Aguilar during the boom of collective buying in Brazil."
+    },
+    {
+      "name": "Mckinsey",
+      "industry": "Consulting",
+      "context": "Mentioned in relation to a contact who was creating a collective buying company in the Dominican Republic."
+    },
+    {
+      "name": "Groupon",
+      "industry": "E-commerce",
+      "context": "Mentioned in relation to Renato Pereira, who later worked at Mercado Livre."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Mentioned as Renato Pereira's workplace after Groupon."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Ciclo completo da fluência",
+      "category": "Educação"
+    },
+    {
+      "name": "Pivotagem de negócios",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Benefício corporativo",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Business Model"
+    },
+    {
+      "name": "Collective Buying",
+      "category": "Business Model"
+    },
+    {
+      "name": "Corporate Benefits",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Mobility Social",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Arbitrage in Labor Costs",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "retenção de talento",
+      "category": "Human Resources"
+    },
+    {
+      "name": "aquisição de talento",
+      "category": "Human Resources"
+    },
+    {
+      "name": "mobilidade social",
+      "category": "Social Concepts"
+    },
+    {
+      "name": "benefícios corporativos",
+      "category": "Human Resources"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "125 colaboradores",
+      "context": "Número de funcionários na Fluency Pass."
+    },
+    {
+      "value": "6 vezes de crescimento ano a ano",
+      "context": "Crescimento da empresa de Diogo Aguilar antes da pandemia."
+    },
+    {
+      "value": "14 years old",
+      "context": "Age when Diogo Aguilar created his first e-commerce."
+    },
+    {
+      "value": "15 years old",
+      "context": "Age when Diogo Aguilar earned his first $1,000 from Google ads."
+    },
+    {
+      "value": "21 years old",
+      "context": "Age when Diogo Aguilar moved to the Dominican Republic to lead a collective buying company."
+    },
+    {
+      "value": "7-10 BRL per employee",
+      "context": "Cost of providing English language benefits to employees as described by Diogo Aguilar."
+    },
+    {
+      "value": "200-300 reais",
+      "context": "Custo arbitrado para aquisição e retenção de talento"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Renato Pereira",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Diogo Aguilar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Fluency Pass",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Diogo Aguilar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Live Go",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Diogo Aguilar",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Fluency Pass",
+      "target_type": "company"
+    },
+    {
+      "source": "Diogo Aguilar",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Walmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Pereira",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Groupon",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon Felice",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Diogo Aguilar",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Ikeda",
+      "target_type": "company"
+    }
+  ]
+}

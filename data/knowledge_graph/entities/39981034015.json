@@ -1,0 +1,282 @@
+{
+  "episode_id": "39981034015",
+  "title": "GUSTAVO BALBI: O ESTILO QUE DEFINE POSICIONAMENTO | EXTREMOS",
+  "date_published": 1752667200,
+  "duration": 3894,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Gustavo Balbi",
+      "role": "guest",
+      "company": "",
+      "title": "Influenciador de Moda Masculina"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Thiago Nigro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Gucci",
+      "industry": "Moda",
+      "context": "Empresa onde Gustavo Balbi trabalhou antes de migrar para o digital"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Mencionada como fonte de aprendizado para gestão e estratégia."
+    },
+    {
+      "name": "Loro Piana",
+      "industry": "Moda e Luxo",
+      "context": "Mencionada como inspiração para design de tênis."
+    },
+    {
+      "name": "Axel Arigato",
+      "industry": "Moda e Calçados",
+      "context": "Mencionada como referência de design para tênis."
+    },
+    {
+      "name": "Sonho Dos Pés",
+      "industry": "Varejo",
+      "context": "Empresa carioca com 190 pontos de venda mencionada como local de palestra."
+    },
+    {
+      "name": "Melissa",
+      "industry": "Varejo",
+      "context": "Loja mencionada com ticket médio de 150 reais."
+    },
+    {
+      "name": "Zara",
+      "industry": "Varejo",
+      "context": "Marca mencionada como acessível e com variedade de estilos."
+    },
+    {
+      "name": "Uniqlo",
+      "industry": "Varejo",
+      "context": "Marca mencionada como tecnológica."
+    },
+    {
+      "name": "Massimo Dutti",
+      "industry": "Varejo",
+      "context": "Marca mencionada como uma versão mais sofisticada da Zara."
+    },
+    {
+      "name": "Renner",
+      "industry": "Varejo",
+      "context": "Marca mencionada como acessível."
+    },
+    {
+      "name": "Tcharrene",
+      "industry": "Varejo",
+      "context": "Marca mencionada como acessível para quem tem menor poder aquisitivo."
+    },
+    {
+      "name": "Polo Ralph Lauren",
+      "industry": "Luxo",
+      "context": "Marca mencionada como clássica e com curadoria de alta qualidade."
+    },
+    {
+      "name": "Zegna",
+      "industry": "Luxo",
+      "context": "Marca mencionada como de alta qualidade."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Posicionamento de marca",
+      "category": "Marketing"
+    },
+    {
+      "name": "Marca pessoal",
+      "category": "Marketing"
+    },
+    {
+      "name": "Engajamento",
+      "category": "Mídias Sociais"
+    },
+    {
+      "name": "Produção de conteúdo",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Círculo Cromático",
+      "category": "Design e Estilo"
+    },
+    {
+      "name": "Gestão de Estratégia",
+      "category": "Negócios"
+    },
+    {
+      "name": "Traction",
+      "category": "Negócios"
+    },
+    {
+      "name": "Autoestima no ambiente de trabalho",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Dress code",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Varejo",
+      "category": "Indústria"
+    },
+    {
+      "name": "Moda masculina",
+      "category": "Indústria"
+    },
+    {
+      "name": "Curadoria de produtos",
+      "category": "Estratégia de varejo"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "1 milhão de seguidores",
+      "context": "Número de seguidores de Gustavo Balbi no Instagram"
+    },
+    {
+      "value": "80 mil reais",
+      "context": "Receita gerada no segundo lançamento do Balbi Curso em 2021"
+    },
+    {
+      "value": "3 milhões",
+      "context": "Faturamento aproximado de Gustavo Balbi com cursos e publicidade no ano anterior."
+    },
+    {
+      "value": "190",
+      "context": "Número de pontos de venda da empresa Sonho dos Pés."
+    },
+    {
+      "value": "150",
+      "context": "Ticket médio da loja Melissa."
+    },
+    {
+      "value": "4 a 6 mil",
+      "context": "Ticket médio da loja Gucci."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gustavo Balbi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Balbi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Estratégia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Balbi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Balbi",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Gucci",
+      "target_type": "company"
+    },
+    {
+      "source": "Gucci",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gustavo Balbi",
+      "target_type": "person"
+    },
+    {
+      "source": "Sonho Dos Pés",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gustavo Balbi",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo Balbi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Balbi Curso",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Balbi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Traction",
+      "target_type": "concept"
+    },
+    {
+      "source": "Melissa",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gustavo Balbi",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo Balbi",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Balbi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alfredo Soares",
+      "target_type": "person"
+    }
+  ]
+}

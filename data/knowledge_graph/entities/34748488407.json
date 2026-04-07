@@ -1,0 +1,1148 @@
+{
+  "episode_id": "34748488407",
+  "title": "PAULO GUEDES: O DESAFIO DE EVITAR O FIM DO BRASIL | VOX LUMINIS",
+  "date_published": 1723451400,
+  "duration": 7516,
+  "chunks_processed": 11,
+  "people": [
+    {
+      "name": "Paulo Guedes",
+      "role": "guest",
+      "company": "Governo Federal do Brasil",
+      "title": "Ministro da Economia"
+    },
+    {
+      "name": "Matt",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Salim",
+      "role": "mentioned",
+      "company": "Governo Federal do Brasil",
+      "title": "Braço direito no Ministério"
+    },
+    {
+      "name": "Tarcísio",
+      "role": "mentioned",
+      "company": "Governo Federal do Brasil",
+      "title": "Ministro de Infraestrutura"
+    },
+    {
+      "name": "Tereza Cristina",
+      "role": "mentioned",
+      "company": "Governo Federal do Brasil",
+      "title": "Ministra da Agricultura"
+    },
+    {
+      "name": "Platão",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo"
+    },
+    {
+      "name": "Hayek",
+      "role": "mentioned",
+      "company": "",
+      "title": "Economista"
+    },
+    {
+      "name": "Maduro",
+      "role": "mentioned",
+      "company": "Governo da Venezuela",
+      "title": "Presidente"
+    },
+    {
+      "name": "Chaves",
+      "role": "mentioned",
+      "company": "Governo da Venezuela",
+      "title": "Ex-Presidente"
+    },
+    {
+      "name": "Karl Popper",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ludwig Erhardt",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Deng Xiaoping",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "John Locke",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thomas Hobbes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Adam Smith",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Francisco De Vitória",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Aspio Cueta",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nayib Bukele",
+      "role": "mentioned",
+      "company": "El Salvador",
+      "title": "President"
+    },
+    {
+      "name": "Rei Fernando",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Winston Churchill",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Carlos Magno",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Flávio Augusto",
+      "role": "mentioned",
+      "company": "Orlando City",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "SpaceX",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Matheus",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Luiz César",
+      "role": "mentioned",
+      "company": "BTG Pactual",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Vinícius",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Lisa English",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Beto Scupira",
+      "role": "mentioned",
+      "company": "Garantia",
+      "title": "Executive"
+    },
+    {
+      "name": "Marcel Telles",
+      "role": "mentioned",
+      "company": "Garantia",
+      "title": "Executive"
+    },
+    {
+      "name": "Jorge Paulo Lemann",
+      "role": "mentioned",
+      "company": "Garantia",
+      "title": "Executive"
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "mentioned",
+      "company": "Berkshire Hathaway",
+      "title": "Investor"
+    },
+    {
+      "name": "Sam Walton",
+      "role": "mentioned",
+      "company": "Walmart",
+      "title": "Founder"
+    },
+    {
+      "name": "Tony Blair",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "George W. Bush",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Joe Biden",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Kamala Harris",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Xi Jinping",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Vladimir Putin",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mário Henrique Simonsen",
+      "role": "mentioned",
+      "company": "FGV",
+      "title": ""
+    },
+    {
+      "name": "Mário Henrique Simons",
+      "role": "mentioned",
+      "company": "AGV",
+      "title": "Diretor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Mário Vargas Llosa",
+      "role": "mentioned",
+      "company": "Fundação Internacional para a Liberdade",
+      "title": "Presidente"
+    },
+    {
+      "name": "Delfim Neto",
+      "role": "mentioned",
+      "company": "Governo Federal do Brasil",
+      "title": "Ex-Ministro da Fazenda"
+    },
+    {
+      "name": "Tarcísio De Freitas",
+      "role": "mentioned",
+      "company": "Governo do Estado de São Paulo",
+      "title": "Governador"
+    },
+    {
+      "name": "Simons",
+      "role": "mentioned",
+      "company": "Academia",
+      "title": "Professor"
+    },
+    {
+      "name": "Dornelis",
+      "role": "mentioned",
+      "company": "Governo Federal do Brasil",
+      "title": "Ex-Ministro da Fazenda"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Governo Federal Do Brasil",
+      "industry": "Government",
+      "context": "Discussed in relation to economic policies and leadership during Bolsonaro's presidency."
+    },
+    {
+      "name": "Governo Da Venezuela",
+      "industry": "Government",
+      "context": "Mentioned in the context of economic and political challenges."
+    },
+    {
+      "name": "União Soviética",
+      "industry": "Governamental",
+      "context": "Mencionada como um aliado durante a Segunda Guerra Mundial e como um sistema político fechado."
+    },
+    {
+      "name": "China",
+      "industry": "Governamental",
+      "context": "Mencionada como uma economia que cresceu através da integração aos mercados globais."
+    },
+    {
+      "name": "Alemanha",
+      "industry": "Governamental",
+      "context": "Mencionada como um exemplo de reconstrução econômica pós-Segunda Guerra Mundial."
+    },
+    {
+      "name": "Japão",
+      "industry": "Governamental",
+      "context": "Mencionada como um exemplo de reconstrução econômica pós-Segunda Guerra Mundial."
+    },
+    {
+      "name": "Petrobras",
+      "industry": "Energy",
+      "context": "Mentioned in the context of Brazilian regime military investments"
+    },
+    {
+      "name": "Eletrobras",
+      "industry": "Energy",
+      "context": "Mentioned in the context of Brazilian regime military investments"
+    },
+    {
+      "name": "Ciderbras",
+      "industry": "Steel",
+      "context": "Mentioned in the context of Brazilian regime military investments"
+    },
+    {
+      "name": "Orlando City",
+      "industry": "Sports",
+      "context": "Discussed in relation to football leagues in the United States"
+    },
+    {
+      "name": "Wise Up",
+      "industry": "Education",
+      "context": "Founded by Flávio Augusto and mentioned in the context of bilingual education"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Mentioned as an entrepreneurial venture by Tallis Gomes"
+    },
+    {
+      "name": "Spacex",
+      "industry": "Aerospace",
+      "context": "Mentioned in relation to Elon Musk's ventures"
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Finance",
+      "context": "Founded by Paulo Guedes and Luiz César, inspired by Goldman Sachs culture"
+    },
+    {
+      "name": "Goldman Sachs",
+      "industry": "Finance",
+      "context": "Influenced the culture of BTG Pactual and G4 Educação"
+    },
+    {
+      "name": "Garantia",
+      "industry": "Finance",
+      "context": "Referenced as a major Brazilian financial institution"
+    },
+    {
+      "name": "Ambev",
+      "industry": "Beverages",
+      "context": "Discussed in relation to its market leadership and management"
+    },
+    {
+      "name": "Americanas",
+      "industry": "Retail",
+      "context": "Discussed in relation to recent fraud allegations"
+    },
+    {
+      "name": "Abi (Anheuser-Busch Inbev)",
+      "industry": "Beverages",
+      "context": "Referenced in relation to market losses in the US"
+    },
+    {
+      "name": "Budweiser",
+      "industry": "Beverage",
+      "context": "Mentioned as a product of Ambev that lost market leadership."
+    },
+    {
+      "name": "Amstel",
+      "industry": "Beverage",
+      "context": "Mentioned as the new market leader in the beer industry."
+    },
+    {
+      "name": "Abi",
+      "industry": "Beverage",
+      "context": "Parent company of Ambev, discussed in the context of financial losses."
+    },
+    {
+      "name": "Blackrock",
+      "industry": "Finance",
+      "context": "Mentioned in the context of ESG priorities."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Mentioned in the context of ESG priorities."
+    },
+    {
+      "name": "Ibmec",
+      "industry": "Education",
+      "context": "Discussed as a business school founded by Paulo Guedes."
+    },
+    {
+      "name": "Fgv",
+      "industry": "Education",
+      "context": "Mentioned as a competitor to IBMEC."
+    },
+    {
+      "name": "Agv",
+      "industry": "Educação",
+      "context": "Concorrente mencionado no contexto de inovação e mercado educacional"
+    },
+    {
+      "name": "Hsm",
+      "industry": "Educação",
+      "context": "Empresa adquirida para trazer gestores renomados ao Brasil"
+    },
+    {
+      "name": "Fundação Internacional Para A Liberdade",
+      "industry": "Organização sem fins lucrativos",
+      "context": "Promove o liberalismo econômico"
+    },
+    {
+      "name": "Banco Pactual",
+      "industry": "Financeiro",
+      "context": "Fundado por Paulo Guedes"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "superávit primário",
+      "category": "Economic Metric"
+    },
+    {
+      "name": "hiperinflação",
+      "category": "Economic Concept"
+    },
+    {
+      "name": "República de Platão",
+      "category": "Philosophical Concept"
+    },
+    {
+      "name": "tirania",
+      "category": "Political Concept"
+    },
+    {
+      "name": "democracia",
+      "category": "Political Concept"
+    },
+    {
+      "name": "populismo",
+      "category": "Political Concept"
+    },
+    {
+      "name": "Economia de mercado",
+      "category": "Sistema econômico"
+    },
+    {
+      "name": "Socialismo",
+      "category": "Sistema econômico"
+    },
+    {
+      "name": "Separação dos poderes",
+      "category": "Conceito político"
+    },
+    {
+      "name": "Globalização",
+      "category": "Fenômeno econômico"
+    },
+    {
+      "name": "Constituição Americana",
+      "category": "Legal Framework"
+    },
+    {
+      "name": "Leviatã",
+      "category": "Philosophical Concept"
+    },
+    {
+      "name": "Escola de Salamanca",
+      "category": "Historical School of Thought"
+    },
+    {
+      "name": "Revolução Industrial",
+      "category": "Historical Event"
+    },
+    {
+      "name": "pensamento liberal",
+      "category": "Philosophy"
+    },
+    {
+      "name": "direito natural",
+      "category": "Legal Philosophy"
+    },
+    {
+      "name": "cooperação econômica",
+      "category": "Economic Concept"
+    },
+    {
+      "name": "competição",
+      "category": "Economic Concept"
+    },
+    {
+      "name": "Liberalismo Econômico",
+      "category": "Economic Theory"
+    },
+    {
+      "name": "Descentralização",
+      "category": "Economic Strategy"
+    },
+    {
+      "name": "Iluminismo",
+      "category": "Historical Movement"
+    },
+    {
+      "name": "Revolução Americana",
+      "category": "Historical Event"
+    },
+    {
+      "name": "Revolução Francesa",
+      "category": "Historical Event"
+    },
+    {
+      "name": "Liberalism",
+      "category": "Economic Theory"
+    },
+    {
+      "name": "Economy of Market",
+      "category": "Economic System"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Culture of Goldman Sachs",
+      "category": "Corporate Culture"
+    },
+    {
+      "name": "Private Equity",
+      "category": "Investment"
+    },
+    {
+      "name": "Corporate Governance",
+      "category": "Business Management"
+    },
+    {
+      "name": "Cultural Degeneration",
+      "category": "Organizational Behavior"
+    },
+    {
+      "name": "System of Incentives",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "ESG",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "MBA",
+      "category": "Education"
+    },
+    {
+      "name": "Global Economy Fragmentation",
+      "category": "Economic Trends"
+    },
+    {
+      "name": "Conservatism in Politics",
+      "category": "Political Trends"
+    },
+    {
+      "name": "Democracy",
+      "category": "Political Systems"
+    },
+    {
+      "name": "LLM",
+      "category": "Educação"
+    },
+    {
+      "name": "Expansão de Negócios",
+      "category": "Programas de capacitação"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Negócios"
+    },
+    {
+      "name": "Fusão e Aquisição",
+      "category": "Estratégias de crescimento"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Reforma política",
+      "category": "Política pública"
+    },
+    {
+      "name": "Voto distrital",
+      "category": "Sistema eleitoral"
+    },
+    {
+      "name": "Respeito e Tolerância",
+      "category": "Valores Sociais"
+    },
+    {
+      "name": "Constituição da Liberdade",
+      "category": "Livro"
+    },
+    {
+      "name": "Cultura Empresarial",
+      "category": "Negócios"
+    },
+    {
+      "name": "Tecnologia Digital",
+      "category": "Tecnologia"
+    }
+  ],
+  "books": [
+    {
+      "title": "A República",
+      "author": "Platão"
+    },
+    {
+      "title": "A Sociedade Aberta e os Seus Inimigos",
+      "author": "Karl Popper"
+    },
+    {
+      "title": "Leviatã",
+      "author": "Thomas Hobbes"
+    },
+    {
+      "title": "Goldman Sachs: The Culture of Success",
+      "author": "Lisa English"
+    },
+    {
+      "title": "Liberalismo à la madrilena",
+      "author": "Jovens políticos espanhóis"
+    },
+    {
+      "title": "The Constitution of Liberty",
+      "author": "Friedrich Hayek"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "960 bilhões",
+      "context": "Investimentos deixados para os próximos 10 anos em infraestrutura e concessões."
+    },
+    {
+      "value": "76% do PIB",
+      "context": "Dívida pública do Brasil antes da pandemia."
+    },
+    {
+      "value": "71.7% do PIB",
+      "context": "Dívida pública do Brasil após a pandemia."
+    },
+    {
+      "value": "180 bilhões",
+      "context": "Superávit das empresas estatais após saírem de um déficit de 20 bilhões."
+    },
+    {
+      "value": "67,000 deaths per year to 37,000 deaths per year",
+      "context": "Reduction in annual deaths during the previous government"
+    },
+    {
+      "value": "80% para 9%",
+      "context": "Redução da população vivendo na pobreza extrema ao longo da história"
+    },
+    {
+      "value": "5,000%",
+      "context": "Historical inflation rate in Brazil"
+    },
+    {
+      "value": "2,000%",
+      "context": "Historical inflation rate in Brazil"
+    },
+    {
+      "value": "Billions of dollars",
+      "context": "Losses incurred by ABI due to market changes"
+    },
+    {
+      "value": "Billions of dollars",
+      "context": "Financial losses incurred by ABI due to market leadership loss."
+    },
+    {
+      "value": "1984",
+      "context": "Year IBMEC was transformed into a business school."
+    },
+    {
+      "value": "600 mil empregos",
+      "context": "Gerados diretamente pelas empresas treinadas pelo G4 Educação"
+    },
+    {
+      "value": "45 mil empresas",
+      "context": "Número de empresas treinadas pelo G4 Educação"
+    },
+    {
+      "value": "32 programas",
+      "context": "Número de programas oferecidos pelo G4 Educação"
+    },
+    {
+      "value": "32",
+      "context": "Número de programas oferecidos pelo G4 Educação"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "John Locke",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Pensamento Liberal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Walmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávio Augusto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Wise Up",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Democracia",
+      "target_type": "concept"
+    },
+    {
+      "source": "A República",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "República De Platão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Karl Popper",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "A Sociedade Aberta E Os Seus Inimigos",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Adam Smith",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Pensamento Liberal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "John Locke",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Thomas Hobbes",
+      "target_type": "person"
+    },
+    {
+      "source": "Luiz César",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Delfim Neto",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Dornelis",
+      "target_type": "person"
+    },
+    {
+      "source": "Tarcísio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Governo Federal Do Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Paulo Lemann",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Banco Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Constituição Americana",
+      "target_type": "concept"
+    },
+    {
+      "source": "The Constitution Of Liberty",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Paulo Guedes",
+      "target_type": "person"
+    },
+    {
+      "source": "Hsm",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mário Vargas Llosa",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Francisco De Vitória",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ibmec",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Separação Dos Poderes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Governo Federal Do Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Francisco De Vitória",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Pensamento Liberal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Goldman Sachs",
+      "source_type": "company",
+      "relation": "influenced",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Escola De Salamanca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maduro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Governo Da Venezuela",
+      "target_type": "company"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Goldman Sachs",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tirania",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Adam Smith",
+      "target_type": "person"
+    },
+    {
+      "source": "Chaves",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Governo Da Venezuela",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Socialismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Economia De Mercado",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Leviatã",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nayib Bukele",
+      "target_type": "person"
+    },
+    {
+      "source": "Ibmec",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Fgv",
+      "target_type": "company"
+    },
+    {
+      "source": "Tereza Cristina",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Governo Federal Do Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Simons",
+      "target_type": "person"
+    },
+    {
+      "source": "Nayib Bukele",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "El Salvador",
+      "target_type": "company"
+    },
+    {
+      "source": "Mário Henrique Simons",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Agv",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Aspio Cueta",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Pensamento Liberal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Revolução Industrial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Coca-Cola",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Globalização",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Populismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcel Telles",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Salim",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Governo Federal Do Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Beto Scupira",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tarcísio De Freitas",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Aspio Cueta",
+      "target_type": "person"
+    },
+    {
+      "source": "Goldman Sachs",
+      "source_type": "company",
+      "relation": "influenced",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávio Augusto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Orlando City",
+      "target_type": "company"
+    }
+  ]
+}

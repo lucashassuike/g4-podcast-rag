@@ -1,0 +1,457 @@
+{
+  "episode_id": "34748488570",
+  "title": "Rafael Forte (VTEX) - E-commerce, M&A e IPO: Uma Jornada Extrema e Consistente | Extremos",
+  "date_published": 1690275600,
+  "duration": 5102,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Rafael Forte",
+      "role": "guest",
+      "company": "VTEX",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Victor Popper",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Romero",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Renato",
+      "role": "mentioned",
+      "company": "Forma Turismo",
+      "title": ""
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Executive"
+    },
+    {
+      "name": "Renato Paz De Barros",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fernanda Jordão",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Partner Development"
+    },
+    {
+      "name": "Nubia",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Partner Development"
+    },
+    {
+      "name": "Sonsini",
+      "role": "mentioned",
+      "company": "W",
+      "title": "Commercial Executive"
+    },
+    {
+      "name": "Bonatti",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "CFO"
+    },
+    {
+      "name": "Cio Global Da Whirlpool",
+      "role": "mentioned",
+      "company": "Whirlpool",
+      "title": "CIO"
+    },
+    {
+      "name": "Mariano Sonsini",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Geraldo",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Fábio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Santiago",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Vtex",
+      "industry": "E-commerce",
+      "context": "Empresa co-fundada por Rafael Forte, especializada em soluções de e-commerce."
+    },
+    {
+      "name": "Forma Turismo",
+      "industry": "Turismo",
+      "context": "Empresa mencionada como cliente e parceira em desenvolvimento de sistemas."
+    },
+    {
+      "name": "W",
+      "industry": "E-commerce",
+      "context": "Acquired by VTEX; focused on e-commerce solutions."
+    },
+    {
+      "name": "Ikeda",
+      "industry": "E-commerce",
+      "context": "Mentioned as a top e-commerce company in Brazil."
+    },
+    {
+      "name": "Nixus",
+      "industry": "E-commerce",
+      "context": "Mentioned as an e-commerce company inspiring VTEX."
+    },
+    {
+      "name": "Primordia",
+      "industry": "E-commerce",
+      "context": "Acquired by VTEX to enhance intellectual exchange."
+    },
+    {
+      "name": "Walmart",
+      "industry": "Retail",
+      "context": "Client of VTEX since 2007."
+    },
+    {
+      "name": "Polishop",
+      "industry": "Retail",
+      "context": "Client of VTEX."
+    },
+    {
+      "name": "Whirlpool",
+      "industry": "Appliances",
+      "context": "Mentioned in relation to VTEX's early operations."
+    },
+    {
+      "name": "Naspers",
+      "industry": "Investment",
+      "context": "Early investor in VTEX, later replaced by Riverwood."
+    },
+    {
+      "name": "Riverwood",
+      "industry": "Investment",
+      "context": "Replaced Naspers as an investor in VTEX."
+    },
+    {
+      "name": "Buscapé",
+      "industry": "E-commerce",
+      "context": "Mentioned in relation to Naspers' investment strategy."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "E-commerce",
+      "category": "Business"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business"
+    },
+    {
+      "name": "IPO (Initial Public Offering)",
+      "category": "Finance"
+    },
+    {
+      "name": "Consistência",
+      "category": "Personal Development"
+    },
+    {
+      "name": "P&L (Profit and Loss Statement)",
+      "category": "Finance"
+    },
+    {
+      "name": "Modelo de assinatura",
+      "category": "Business"
+    },
+    {
+      "name": "SaaS (Software as a Service)",
+      "category": "Business Model"
+    },
+    {
+      "name": "Partner Ecosystem",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Content Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Faturamento",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finance"
+    },
+    {
+      "name": "Ciclo Virtuoso",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Pandemia",
+      "category": "Global Events"
+    },
+    {
+      "name": "Unicanalidade",
+      "category": "Estratégia de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "2001",
+      "context": "Ano em que Rafael Forte começou a trabalhar com internet."
+    },
+    {
+      "value": "75 pessoas",
+      "context": "Tamanho da equipe da W antes de ser adquirida pela VTEX."
+    },
+    {
+      "value": "100 clientes",
+      "context": "Número de clientes da W antes da aquisição pela VTEX."
+    },
+    {
+      "value": "7 mil reais",
+      "context": "Lucro da empresa em 2010."
+    },
+    {
+      "value": "75",
+      "context": "Number of employees at W before acquisition by VTEX."
+    },
+    {
+      "value": "100+",
+      "context": "Number of clients at W before acquisition by VTEX."
+    },
+    {
+      "value": "30",
+      "context": "Number of clients at VTEX in 2010."
+    },
+    {
+      "value": "7,000 BRL",
+      "context": "Profit of Sonsini's company in 2010."
+    },
+    {
+      "value": "2011",
+      "context": "Year of the initial financial projection by VTEX."
+    },
+    {
+      "value": "2021",
+      "context": "Year when the financial projection was validated during the IPO."
+    },
+    {
+      "value": "Gigante",
+      "context": "Valuation alcançado pela VTEX durante o IPO"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Santiago",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Naspers",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Geraldo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "W",
+      "target_type": "company"
+    },
+    {
+      "source": "Nubia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Whirlpool",
+      "target_type": "company"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Primordia",
+      "target_type": "company"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Polishop",
+      "target_type": "company"
+    },
+    {
+      "source": "Buscapé",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Naspers",
+      "target_type": "company"
+    },
+    {
+      "source": "Sonsini",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "W",
+      "target_type": "company"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "W",
+      "target_type": "company"
+    },
+    {
+      "source": "Riverwood",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Rafael Forte",
+      "target_type": "person"
+    },
+    {
+      "source": "Mariano Sonsini",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Bonatti",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Ikeda",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Forte",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Forte",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Forma Turismo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rafael Forte",
+      "target_type": "person"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Nixus",
+      "target_type": "company"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Walmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernanda Jordão",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    }
+  ]
+}

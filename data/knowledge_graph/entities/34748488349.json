@@ -1,0 +1,618 @@
+{
+  "episode_id": "34748488349",
+  "title": "FATURAMENTO BILIONÁRIO NO MERCADO FITNESS COM MARIANE MORELLI | PAPO DE GESTÃO",
+  "date_published": 1736411400,
+  "duration": 4699,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Mariane Morelli",
+      "role": "guest",
+      "company": "Supley",
+      "title": "Co-fundadora"
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "Dr. Peanut",
+      "title": "Fundador"
+    },
+    {
+      "name": "Bruninho",
+      "role": "mentioned",
+      "company": "Seleção Brasileira de Vôlei",
+      "title": "Atleta"
+    },
+    {
+      "name": "Bernardinho",
+      "role": "mentioned",
+      "company": "Seleção Brasileira de Vôlei",
+      "title": "Técnico"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Richard Stadd",
+      "role": "mentioned",
+      "company": "Aramis",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Victor Castelo Branco",
+      "role": "mentioned",
+      "company": "Z2",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Otávio",
+      "role": "mentioned",
+      "company": "Liquids",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Ian",
+      "role": "mentioned",
+      "company": "Liquids",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Twitter",
+      "title": ""
+    },
+    {
+      "name": "Marcelo Bela",
+      "role": "mentioned",
+      "company": "Black School",
+      "title": "Owner"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Supley",
+      "industry": "Suplementação Alimentar",
+      "context": "Empresa mencionada como líder no mercado de suplementação alimentar no Brasil."
+    },
+    {
+      "name": "Dr. Peanut",
+      "industry": "Alimentos",
+      "context": "Adquirida pela Supley em 2023 e 2025."
+    },
+    {
+      "name": "Max Titânio",
+      "industry": "Suplementação Alimentar",
+      "context": "Marca de suplementação esportiva fundada pela Supley."
+    },
+    {
+      "name": "Probiótica",
+      "industry": "Suplementação Alimentar",
+      "context": "Adquirida pela Supley após ser vendida pela Valente."
+    },
+    {
+      "name": "Valente",
+      "industry": "Farmacêutico",
+      "context": "Grupo canadense que adquiriu a Probiótica em 2012."
+    },
+    {
+      "name": "Max Titanium",
+      "industry": "Fitness and Nutrition",
+      "context": "Owned by Supley, focused on high-quality supplements"
+    },
+    {
+      "name": "Valent",
+      "industry": "Pharmaceutical",
+      "context": "Previous owner of Probiótica, sold to Supley"
+    },
+    {
+      "name": "Doctor Peanut",
+      "industry": "Alimentos e Bebidas",
+      "context": "Marca de pasta de amendoim no Brasil"
+    },
+    {
+      "name": "Grupo Supply",
+      "industry": "Diversos",
+      "context": "Empresa de Mariane Morelli"
+    },
+    {
+      "name": "Aramis",
+      "industry": "Moda",
+      "context": "Empresa mencionada em relação a fluxo de caixa"
+    },
+    {
+      "name": "Z2",
+      "industry": "Alimentos e Bebidas",
+      "context": "Marca mencionada por seu posicionamento de mercado"
+    },
+    {
+      "name": "Liquids",
+      "industry": "Alimentos e Bebidas",
+      "context": "Marca de hidroeletrolíticos em pó"
+    },
+    {
+      "name": "Grupo Suplei",
+      "industry": "Fitness and Nutrition",
+      "context": "Discussed as a major player in the fitness and nutrition market."
+    },
+    {
+      "name": "Danone",
+      "industry": "Food and Beverage",
+      "context": "Mentioned as a competitor in the nutrition market."
+    },
+    {
+      "name": "Piracanjuba",
+      "industry": "Food and Beverage",
+      "context": "Mentioned as a competitor in the nutrition market."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Banking",
+      "context": "Used as a metaphor for a large, established entity."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Banking",
+      "context": "Used as a metaphor for innovative, smaller entities challenging larger ones."
+    },
+    {
+      "name": "Brasnutri",
+      "industry": "Supplementation",
+      "context": "Association representing 65% of the supplementation market in Brazil."
+    },
+    {
+      "name": "Black School",
+      "industry": "Supplementation",
+      "context": "Company owned by Marcelo Bela, involved in controversies in the supplementation market."
+    },
+    {
+      "name": "Essential",
+      "industry": "Supplementation",
+      "context": "Mentioned as a serious brand in the supplementation market."
+    },
+    {
+      "name": "Integral Medic",
+      "industry": "Supplementation",
+      "context": "Mentioned as a serious brand in the supplementation market."
+    },
+    {
+      "name": "Desinchar",
+      "industry": "Suplementação",
+      "context": "Exemplo de estratégia de marketing e regulamentação."
+    },
+    {
+      "name": "Meta",
+      "industry": "Tecnologia",
+      "context": "Mencionada no contexto de controle de narrativas."
+    },
+    {
+      "name": "Tiktok",
+      "industry": "Tecnologia",
+      "context": "Mencionada no contexto de controle de narrativas."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Market Share",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Suplementação Alimentar",
+      "category": "Indústria"
+    },
+    {
+      "name": "Aquisição de Empresas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Top of Mind",
+      "category": "Pesquisa de Mercado"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "DRE (Demonstrativo de Resultados do Exercício)",
+      "category": "Financial Analysis"
+    },
+    {
+      "name": "Turnaround Strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Top of Mind Research",
+      "category": "Market Research"
+    },
+    {
+      "name": "Synergy in Business Operations",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Fluxo de Caixa",
+      "category": "Finanças"
+    },
+    {
+      "name": "Posicionamento de Marca",
+      "category": "Marketing"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Finanças"
+    },
+    {
+      "name": "Gestão de Estoque",
+      "category": "Operações"
+    },
+    {
+      "name": "Prioritization",
+      "category": "Productivity"
+    },
+    {
+      "name": "Indicators (Faturamento, Margem, EBITDA)",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Saudabilidade",
+      "category": "Market Trend"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Business Management"
+    },
+    {
+      "name": "M&A",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Indicators",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Amino Spike",
+      "category": "Supplementation Quality"
+    },
+    {
+      "name": "Creatine",
+      "category": "Supplementation Product"
+    },
+    {
+      "name": "Whey Protein",
+      "category": "Supplementation Product"
+    },
+    {
+      "name": "Regulamentação de suplementos",
+      "category": "Regulamentação"
+    },
+    {
+      "name": "Narrativas na mídia",
+      "category": "Comunicação"
+    },
+    {
+      "name": "Hack de marketing",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Lista positiva e negativa",
+      "category": "Regulamentação"
+    },
+    {
+      "name": "liderança",
+      "category": "management"
+    },
+    {
+      "name": "indicadores da companhia",
+      "category": "business metrics"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "1 bilhão",
+      "context": "Faturamento da Supley em 2024."
+    },
+    {
+      "value": "30%",
+      "context": "Market share da Supley no mercado de suplementação alimentar no Brasil."
+    },
+    {
+      "value": "250 million BRL",
+      "context": "Supley's revenue in 2018"
+    },
+    {
+      "value": "80 million BRL",
+      "context": "Probiótica's revenue before acquisition"
+    },
+    {
+      "value": "110-115 employees",
+      "context": "Number of employees at Probiótica before restructuring"
+    },
+    {
+      "value": "90%",
+      "context": "Porcentagem de lares americanos que consomem pasta de amendoim"
+    },
+    {
+      "value": "7 anos",
+      "context": "Tempo de existência da Doctor Peanut"
+    },
+    {
+      "value": "600 colaboradores",
+      "context": "Growth of Grupo Suplei after acquisitions."
+    },
+    {
+      "value": "7 para 15 bi",
+      "context": "Market growth in the nutrition industry."
+    },
+    {
+      "value": "25%",
+      "context": "Market share discussed in the context of Grupo Suplei."
+    },
+    {
+      "value": "65%",
+      "context": "Percentage of the supplementation market represented by Brasnutri."
+    },
+    {
+      "value": "More than 30 brands",
+      "context": "Number of brands associated with Brasnutri."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Supley",
+      "target_type": "company"
+    },
+    {
+      "source": "Danone",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Grupo Suplei",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Peanut",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Supley",
+      "target_type": "company"
+    },
+    {
+      "source": "Supley",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Dr. Peanut",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Doctor Peanut",
+      "target_type": "company"
+    },
+    {
+      "source": "Supley",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Fitness And Nutrition",
+      "target_type": "company"
+    },
+    {
+      "source": "Brasnutri",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Integral Medic",
+      "target_type": "company"
+    },
+    {
+      "source": "Ian",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Liquids",
+      "target_type": "company"
+    },
+    {
+      "source": "Valent",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Probiótica",
+      "target_type": "company"
+    },
+    {
+      "source": "Brasnutri",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Essential",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Bela",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Black School",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Max Titanium",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Supley",
+      "target_type": "company"
+    },
+    {
+      "source": "Richard Stadd",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aramis",
+      "target_type": "company"
+    },
+    {
+      "source": "Otávio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Liquids",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Castelo Branco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Z2",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Bela",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ab Nutri",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Liderança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Supley",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Probiótica",
+      "target_type": "company"
+    },
+    {
+      "source": "Brasnutri",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Ab Nutri",
+      "target_type": "company"
+    },
+    {
+      "source": "Probiótica",
+      "source_type": "company",
+      "relation": "was_acquired_by",
+      "target": "Valente",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Twitter",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Dr. Peanut",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dr. Peanut",
+      "target_type": "company"
+    },
+    {
+      "source": "Probiótica",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Supley",
+      "target_type": "company"
+    },
+    {
+      "source": "Piracanjuba",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Grupo Suplei",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Indicadores Da Companhia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Suplei",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Supley",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Grupo Suplei",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Dr. Peanut",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Supply",
+      "target_type": "company"
+    }
+  ]
+}

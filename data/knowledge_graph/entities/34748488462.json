@@ -1,0 +1,1008 @@
+{
+  "episode_id": "34748488462",
+  "title": "COMO SER ACIMA DA MÉDIA NA VIDA PROFISSIONAL - COM FELIPE HATAB | PAPO DE GESTÃO",
+  "date_published": 1709109000,
+  "duration": 5861,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Felipe Hatabi",
+      "role": "guest",
+      "company": "For Equity Media Ventures",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Washington Oliveto",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Publicitário"
+    },
+    {
+      "name": "Zanguanais",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Publicitário"
+    },
+    {
+      "name": "Felipe Hatab",
+      "role": "guest",
+      "company": "Ambev",
+      "title": "Marketing Specialist"
+    },
+    {
+      "name": "Gustavo Lima",
+      "role": "mentioned",
+      "company": "Itaipava",
+      "title": "Musician"
+    },
+    {
+      "name": "Carlos Brito",
+      "role": "mentioned",
+      "company": "Ambev",
+      "title": "Former CEO"
+    },
+    {
+      "name": "Ricardo Dias",
+      "role": "mentioned",
+      "company": "Ambev",
+      "title": "Former Marketing Executive"
+    },
+    {
+      "name": "Sérgio Esteves",
+      "role": "mentioned",
+      "company": "Loft",
+      "title": "CMO"
+    },
+    {
+      "name": "João Schuere",
+      "role": "mentioned",
+      "company": "Quinto Andar",
+      "title": "CMO"
+    },
+    {
+      "name": "Bx",
+      "role": "mentioned",
+      "company": "IMC",
+      "title": "CMO"
+    },
+    {
+      "name": "Lissandro",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Executive"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Simon Sinek",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor e palestrante"
+    },
+    {
+      "name": "Rafael Avelar",
+      "role": "mentioned",
+      "company": "Adventures",
+      "title": "Sócio"
+    },
+    {
+      "name": "Ricardinho",
+      "role": "mentioned",
+      "company": "Adventures",
+      "title": "Sócio"
+    },
+    {
+      "name": "Pedro Zinner",
+      "role": "mentioned",
+      "company": "Stone",
+      "title": "CEO"
+    },
+    {
+      "name": "Caio Castro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Embaixador de Marca"
+    },
+    {
+      "name": "Felipe Tito",
+      "role": "mentioned",
+      "company": "",
+      "title": "Embaixador de Marca"
+    },
+    {
+      "name": "Anitta",
+      "role": "mentioned",
+      "company": "Skol Beats",
+      "title": "Colaboradora em Deal de Revenue Share"
+    },
+    {
+      "name": "Robertinho Marinho",
+      "role": "mentioned",
+      "company": "Global Ventures",
+      "title": "Fundador"
+    },
+    {
+      "name": "Daniel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Instrutor no Marketing Growth"
+    },
+    {
+      "name": "Alan",
+      "role": "mentioned",
+      "company": "",
+      "title": "Instrutor no Marketing Growth"
+    },
+    {
+      "name": "Peçanha",
+      "role": "mentioned",
+      "company": "",
+      "title": "Instrutor no Marketing Growth"
+    },
+    {
+      "name": "Ingrid",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Membro do time"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Discussão sobre cultura organizacional e trajetória profissional de Felipe Hatabi"
+    },
+    {
+      "name": "Stone",
+      "industry": "Pagamentos",
+      "context": "Discussão sobre transição de carreira de Felipe Hatabi"
+    },
+    {
+      "name": "For Equity Media Ventures",
+      "industry": "Media Ventures",
+      "context": "Empresa fundada por Felipe Hatabi"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de treinamento mencionada e local de mentoria de Felipe Hatabi"
+    },
+    {
+      "name": "Coca-Cola",
+      "industry": "Beverage",
+      "context": "Mentioned as a marketing-led growth company in contrast to Ambev."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Referenced as a digital platform relevant to marketing strategies."
+    },
+    {
+      "name": "Meta",
+      "industry": "Technology",
+      "context": "Referenced as a digital platform relevant to marketing strategies."
+    },
+    {
+      "name": "Itaipava",
+      "industry": "Beverage",
+      "context": "Associated with Gustavo Lima before his contract with Ambev."
+    },
+    {
+      "name": "Boêmia",
+      "industry": "Beverage",
+      "context": "Brand repositioning and growth from 400 million to 1.2 billion in revenue."
+    },
+    {
+      "name": "Spaten",
+      "industry": "Beverage",
+      "context": "Brand launch and market penetration strategy."
+    },
+    {
+      "name": "Loft",
+      "industry": "Real Estate Technology",
+      "context": "Mentioned in relation to its CMO, Sérgio Esteves."
+    },
+    {
+      "name": "Quinto Andar",
+      "industry": "Real Estate Technology",
+      "context": "Mentioned in relation to its CMO, João Schuere."
+    },
+    {
+      "name": "Imc",
+      "industry": "Food Service",
+      "context": "Mentioned in relation to its CMO, BX."
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Financial Services",
+      "context": "Mentioned in relation to its executive, Lissandro."
+    },
+    {
+      "name": "Canoo",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de cultura organizacional"
+    },
+    {
+      "name": "Unilever",
+      "industry": "Bens de consumo",
+      "context": "Mencionada como uma das grandes empresas no mercado de marketing"
+    },
+    {
+      "name": "Santander",
+      "industry": "Finanças",
+      "context": "Mencionada como uma das grandes empresas no mercado de marketing"
+    },
+    {
+      "name": "Itaú",
+      "industry": "Finanças",
+      "context": "Mencionada como uma das grandes empresas no mercado de marketing"
+    },
+    {
+      "name": "Vivo",
+      "industry": "Telecomunicações",
+      "context": "Mencionada como uma das grandes empresas no mercado de marketing"
+    },
+    {
+      "name": "Tim",
+      "industry": "Telecomunicações",
+      "context": "Mencionada como uma das grandes empresas no mercado de marketing"
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Varejo",
+      "context": "Mencionada como uma das grandes empresas no mercado de marketing"
+    },
+    {
+      "name": "Adventures",
+      "industry": "Marketing e comunicação",
+      "context": "Empresa onde Rafael Avelar é sócio"
+    },
+    {
+      "name": "Brain Lovers",
+      "industry": "Marketing e Publicidade",
+      "context": "Empresa mencionada no contexto de práticas de contratação."
+    },
+    {
+      "name": "Lynx",
+      "industry": "Tecnologia",
+      "context": "Empresa adquirida pela Stone, mencionada no contexto de crescimento."
+    },
+    {
+      "name": "Eneva",
+      "industry": "Energia",
+      "context": "Pedro Zinner é CEO da empresa."
+    },
+    {
+      "name": "Global Ventures",
+      "industry": "Investimentos",
+      "context": "Pioneira em mídia por equity no Brasil."
+    },
+    {
+      "name": "Livap",
+      "industry": "Alimentação",
+      "context": "Participante de deals de mídia por equity."
+    },
+    {
+      "name": "Ora",
+      "industry": "Saúde",
+      "context": "Participante de deals de mídia por equity."
+    },
+    {
+      "name": "Pet Love",
+      "industry": "Pets",
+      "context": "Participante de deals de mídia por equity."
+    },
+    {
+      "name": "Rappi",
+      "industry": "Tecnologia",
+      "context": "Participante de deals de mídia por equity."
+    },
+    {
+      "name": "Skol Beats",
+      "industry": "Bebidas",
+      "context": "Envolvida em deals de revenue share com Anitta."
+    },
+    {
+      "name": "Aggregate Media",
+      "industry": "Mídia",
+      "context": "Pioneira em mídia por equity na Suécia."
+    },
+    {
+      "name": "Times Of India",
+      "industry": "Mídia",
+      "context": "Realizou mais de mil deals de mídia por equity na Índia."
+    },
+    {
+      "name": "German Media Pool",
+      "industry": "Mídia",
+      "context": "Fundo de investimento em mídia por equity na Europa."
+    },
+    {
+      "name": "Uncover",
+      "industry": "Tecnologia",
+      "context": "Ferramenta de modelo de atribuição utilizada por diversas empresas."
+    },
+    {
+      "name": "Mckinsey",
+      "industry": "Consultoria",
+      "context": "Exemplo de estrutura organizacional sem conflitos de interesse"
+    },
+    {
+      "name": "Accenture",
+      "industry": "Consultoria",
+      "context": "Exemplo de estrutura organizacional sem conflitos de interesse"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Marketing Growth",
+      "category": "Marketing"
+    },
+    {
+      "name": "Intraempreendedorismo",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "P&L (Profit and Loss)",
+      "category": "Finanças"
+    },
+    {
+      "name": "DRE (Demonstração do Resultado do Exercício)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Margem de contribuição",
+      "category": "Finanças"
+    },
+    {
+      "name": "TAN (Taxa Anual de Crescimento)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Sales-led Growth",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Marketing-led Growth",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Product-led Growth",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Trade Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Funnel Optimization",
+      "category": "Marketing"
+    },
+    {
+      "name": "Brand Positioning",
+      "category": "Marketing"
+    },
+    {
+      "name": "Live Streaming",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Pandemic Marketing Strategies",
+      "category": "Marketing"
+    },
+    {
+      "name": "Brand repositioning",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Pricing index",
+      "category": "Market Analysis"
+    },
+    {
+      "name": "Orçamento base zero",
+      "category": "Financial Strategy"
+    },
+    {
+      "name": "Extra mile",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Grit",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Espírito de dono",
+      "category": "Cultura empresarial"
+    },
+    {
+      "name": "Nine Box",
+      "category": "Gestão de desempenho"
+    },
+    {
+      "name": "Confiança e resultados",
+      "category": "Gestão de equipes"
+    },
+    {
+      "name": "Alinhamento cultural",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Zona de conforto",
+      "category": "Psicologia e desenvolvimento pessoal"
+    },
+    {
+      "name": "Growth marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "CPA (Custo por Aquisição)",
+      "category": "Métricas de marketing"
+    },
+    {
+      "name": "CPL (Custo por Lead)",
+      "category": "Métricas de marketing"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Métricas de marketing"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métricas de marketing"
+    },
+    {
+      "name": "Consumer Packaged Goods (CPG)",
+      "category": "Indústria"
+    },
+    {
+      "name": "High touch recruitment",
+      "category": "Processos de recrutamento"
+    },
+    {
+      "name": "Funil de marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "High Touch",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Product Marketing Manager (PMM)",
+      "category": "Função de Negócios"
+    },
+    {
+      "name": "Brand Manager",
+      "category": "Função de Negócios"
+    },
+    {
+      "name": "Pesquisa de Mercado",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Mídia por Equity",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Revenue Share",
+      "category": "Modelo de Negócios"
+    },
+    {
+      "name": "Escada de Valor",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Modelo de Atribuição",
+      "category": "Análise de Dados"
+    },
+    {
+      "name": "Use of Proceeds",
+      "category": "Finanças"
+    },
+    {
+      "name": "Go to Market",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Inbound Marketing",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Direct-to-Consumer",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Growth",
+      "category": "Marketing"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "9 anos",
+      "context": "Tempo de Felipe Hatabi na Ambev"
+    },
+    {
+      "value": "2020",
+      "context": "Ano em que Felipe Hatabi foi listado no Forbes Under 30"
+    },
+    {
+      "value": "8%",
+      "context": "Percentage of sales attributed to media in Ambev's marketing analysis."
+    },
+    {
+      "value": "75%",
+      "context": "Percentage of sales attributed to distribution, pricing index, and trade marketing in Ambev's marketing analysis."
+    },
+    {
+      "value": "900 million",
+      "context": "Ambev's marketing budget."
+    },
+    {
+      "value": "12 million",
+      "context": "Contract value with Gustavo Lima for brand activation."
+    },
+    {
+      "value": "1 million",
+      "context": "Simultaneous viewers during Gustavo Lima's live stream."
+    },
+    {
+      "value": "400 million",
+      "context": "Boêmia's revenue before repositioning in 2019."
+    },
+    {
+      "value": "1.2 billion",
+      "context": "Boêmia's revenue after repositioning by the end of the pandemic."
+    },
+    {
+      "value": "400 million to 1.2 billion",
+      "context": "Revenue growth of Boêmia during brand repositioning."
+    },
+    {
+      "value": "3 billion",
+      "context": "Projected revenue for Spaten within Ambev."
+    },
+    {
+      "value": "70 billion",
+      "context": "Annual revenue of Ambev globally."
+    },
+    {
+      "value": "60 billion dollars",
+      "context": "Debt raised by Ambev to acquire Budweiser."
+    },
+    {
+      "value": "9 anos",
+      "context": "Tempo de Felipe Hatab na Ambev"
+    },
+    {
+      "value": "R$2.100,00",
+      "context": "Salário inicial de Felipe Hatab na Ambev"
+    },
+    {
+      "value": "10 anos",
+      "context": "Tempo de trabalho de Felipe Hatab na Ambev"
+    },
+    {
+      "value": "13 posições",
+      "context": "Número de posições ocupadas por Felipe Hatab na Ambev em 10 anos"
+    },
+    {
+      "value": "50 bilhões de reais",
+      "context": "Tamanho do mercado de marketing no Brasil"
+    },
+    {
+      "value": "30 empresas",
+      "context": "Número de empresas que concentram 70% do investimento em marketing no Brasil"
+    },
+    {
+      "value": "1 trilhão de dólares",
+      "context": "Tamanho do mercado global de marketing"
+    },
+    {
+      "value": "100 empresas",
+      "context": "Número de empresas que concentram 50% do investimento global em marketing"
+    },
+    {
+      "value": "10 anos",
+      "context": "Tempo de mercado da Stone."
+    },
+    {
+      "value": "13 mil colaboradores",
+      "context": "Número de funcionários da Stone após aquisição da Lynx."
+    },
+    {
+      "value": "95 USD",
+      "context": "Preço da ação da Stone no início do período mencionado."
+    },
+    {
+      "value": "8 USD",
+      "context": "Preço da ação da Stone no final do período mencionado."
+    },
+    {
+      "value": "15-16 USD",
+      "context": "Preço atual da ação da Stone."
+    },
+    {
+      "value": "95 dólares",
+      "context": "Preço inicial da ação mencionado."
+    },
+    {
+      "value": "8 dólares",
+      "context": "Preço da ação ao sair da empresa."
+    },
+    {
+      "value": "15-16 dólares",
+      "context": "Preço atual da ação mencionado."
+    },
+    {
+      "value": "3 milhões",
+      "context": "Faturamento inicial de uma empresa mencionada."
+    },
+    {
+      "value": "17 milhões",
+      "context": "Faturamento atual da mesma empresa após crescimento."
+    },
+    {
+      "value": "300 milhões de euros",
+      "context": "Valoração de inventário de mídia pelo German Media Pool."
+    },
+    {
+      "value": "42 startups",
+      "context": "Número de startups investidas pelo German Media Pool."
+    },
+    {
+      "value": "23 exits, 3 IPOs, 2 unicórnios",
+      "context": "Resultados do portfólio do German Media Pool."
+    },
+    {
+      "value": "3 vezes em 12 anos",
+      "context": "MOIC médio do German Media Pool."
+    },
+    {
+      "value": "52 bilhões de dólares",
+      "context": "Deploy de capital em 2021 no mercado brasileiro."
+    },
+    {
+      "value": "1.5 bilhões de dólares",
+      "context": "Deploy de capital em 2022 no mercado brasileiro."
+    },
+    {
+      "value": "80%",
+      "context": "Porcentagem de investimentos de venture capital em empresas B2B no Brasil."
+    },
+    {
+      "value": "500 mil",
+      "context": "Faturamento anual de empresas discutidas"
+    },
+    {
+      "value": "200 milhões",
+      "context": "Faturamento de uma empresa B2C mencionada"
+    },
+    {
+      "value": "5 bilhões",
+      "context": "Mercado endereçável online para uma empresa mencionada"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Coca-Cola",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlos Brito",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Zinner",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Eneva",
+      "target_type": "company"
+    },
+    {
+      "source": "Robertinho Marinho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Global Ventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Simon Sinek",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Confiança E Resultados",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caio Castro",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Lissandro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Avelar",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Adventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Spaten",
+      "target_type": "company"
+    },
+    {
+      "source": "Global Ventures",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Stone",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Boêmia",
+      "target_type": "company"
+    },
+    {
+      "source": "German Media Pool",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Aggregate Media",
+      "target_type": "company"
+    },
+    {
+      "source": "Anitta",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Skol Beats",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Hatabi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Hatabi",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Stone",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Lynx",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Hatab",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Ricardo Dias",
+      "target_type": "person"
+    },
+    {
+      "source": "Felipe Hatab",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Hatabi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stone",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Meta",
+      "target_type": "company"
+    },
+    {
+      "source": "Ingrid",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Uncover",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Hatab",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stone",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Hatabi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "For Equity Media Ventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Sérgio Esteves",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Loft",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Zinner",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stone",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Tito",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Hatab",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Stone",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardinho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Adventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Lima",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Itaipava",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Hatab",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "German Media Pool",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Times Of India",
+      "target_type": "company"
+    },
+    {
+      "source": "João Schuere",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Quinto Andar",
+      "target_type": "company"
+    },
+    {
+      "source": "Bx",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Imc",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

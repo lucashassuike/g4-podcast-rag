@@ -1,0 +1,313 @@
+{
+  "episode_id": "34748488394",
+  "title": "COMO MAURICIO MEIRELLES FATURA MILHÕES NO MERCADO DO HUMOR | EXTREMOS",
+  "date_published": 1726646400,
+  "duration": 5563,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Maurício Meirelles",
+      "role": "guest",
+      "company": "Não especificado",
+      "title": "Humorista e Empreendedor"
+    },
+    {
+      "name": "Guilherme Boulos",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Político"
+    },
+    {
+      "name": "Danilo Gentili",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Léo Lins",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Luísa Sonza",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cantora"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Vilela",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nizã",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Anitta",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empresária e cantora"
+    },
+    {
+      "name": "Casimiro Miguel",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Streamer"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Produtora do podcast e fornecedora de relatórios e programas educacionais."
+    },
+    {
+      "name": "Xvideos",
+      "industry": "Entretenimento adulto",
+      "context": "Mencionado como site com grande número de acessos"
+    },
+    {
+      "name": "Empiricus",
+      "industry": "Financeiro",
+      "context": "Usou polêmica como estratégia de comunicação"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Estratégia de Comunicação",
+      "category": "Marketing"
+    },
+    {
+      "name": "Conexão com o Público",
+      "category": "Psicologia e Comunicação"
+    },
+    {
+      "name": "Setor de Comédia",
+      "category": "Indústria de Entretenimento"
+    },
+    {
+      "name": "Mídia e Poder",
+      "category": "Sociologia e Comunicação"
+    },
+    {
+      "name": "Uso do humor em vendas",
+      "category": "Negócios"
+    },
+    {
+      "name": "Conexão emocional",
+      "category": "Psicologia e comunicação"
+    },
+    {
+      "name": "Humor",
+      "category": "Estratégia de comunicação"
+    },
+    {
+      "name": "Comédia",
+      "category": "Ferramenta de comunicação"
+    },
+    {
+      "name": "Retenção",
+      "category": "Métrica de comunicação"
+    },
+    {
+      "name": "Fluxo de caixa",
+      "category": "Conceito financeiro"
+    },
+    {
+      "name": "Lucro",
+      "category": "Conceito financeiro"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "20 mil pessoas",
+      "context": "Participação no evento Kids House."
+    },
+    {
+      "value": "12 milhões por ano",
+      "context": "Faturamento anual de Maurício Meirelles com shows e produção"
+    },
+    {
+      "value": "40 milhões",
+      "context": "Meta de faturamento futuro de Maurício Meirelles"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Humor",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Anitta",
+      "target_type": "person"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Retenção",
+      "target_type": "concept"
+    },
+    {
+      "source": "Empiricus",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Polêmica",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Vilela",
+      "target_type": "person"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Luísa Sonza",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Guilherme Boulos",
+      "target_type": "person"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Danilo Gentili",
+      "target_type": "person"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nizã",
+      "target_type": "person"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Uso Do Humor Em Vendas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Setor De Comédia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Conexão Emocional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Comédia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Léo Lins",
+      "target_type": "person"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Conexão Com O Público",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maurício Meirelles",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estratégia De Comunicação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "episode_id": "46801194219",
+  "title": "O CFO QUE SALVOU DAFITI, KANUI, BRF E C&A COM GUSTAVO MARTINS | PAPO DE GESTÃO",
+  "date_published": 1765810800,
+  "duration": 4256,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Gustavo Martins",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Henrique",
+      "role": "mentioned",
+      "company": "Canoe",
+      "title": "CEO"
+    },
+    {
+      "name": "André Cover",
+      "role": "mentioned",
+      "company": "Grupo Ultra",
+      "title": "Finance Professional"
+    },
+    {
+      "name": "Danilo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Friend"
+    },
+    {
+      "name": "Batex",
+      "role": "mentioned",
+      "company": "",
+      "title": "Friend"
+    },
+    {
+      "name": "Daniel",
+      "role": "mentioned",
+      "company": "BRF",
+      "title": "Finance Professional"
+    },
+    {
+      "name": "Felipe",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Wilson",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Mentorship and business education"
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Financial restructuring and management"
+    },
+    {
+      "name": "Dafiti",
+      "industry": "E-commerce",
+      "context": "Financial restructuring and management"
+    },
+    {
+      "name": "Brf",
+      "industry": "Food production",
+      "context": "Financial management"
+    },
+    {
+      "name": "Grupo Ultra",
+      "industry": "Energy and logistics",
+      "context": "Financial management"
+    },
+    {
+      "name": "Kanui",
+      "industry": "E-commerce",
+      "context": "Mentioned as part of the group with Dafiti and Tricá."
+    },
+    {
+      "name": "Tricá",
+      "industry": "E-commerce",
+      "context": "Mentioned as part of the group with Dafiti and Kanui."
+    },
+    {
+      "name": "C&A",
+      "industry": "Retail",
+      "context": "Mentioned in the episode title as a company associated with Gustavo Martins."
+    },
+    {
+      "name": "Daft",
+      "industry": "E-commerce",
+      "context": "Discussão sobre otimização de processos e redução de custos."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "BI (Business Intelligence)",
+      "category": "Technology"
+    },
+    {
+      "name": "DRE (Demonstrativo de Resultados do Exercício)",
+      "category": "Finance"
+    },
+    {
+      "name": "Fluxo de Caixa",
+      "category": "Finance"
+    },
+    {
+      "name": "Funil de Vendas",
+      "category": "Marketing"
+    },
+    {
+      "name": "Planejamento Orçamentário",
+      "category": "Finance"
+    },
+    {
+      "name": "DRE (Demonstração do Resultado do Exercício)",
+      "category": "Financial analysis"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Business metrics"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Business metrics"
+    },
+    {
+      "name": "Gestão por LTV e CAC",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Clusterização de Produtos",
+      "category": "Data analysis"
+    },
+    {
+      "name": "Demanda Puxada",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Elasticidade de Preço",
+      "category": "Economic concept"
+    },
+    {
+      "name": "Jornada do Cliente",
+      "category": "Customer experience"
+    },
+    {
+      "name": "Ciclo de Prestação de Serviço",
+      "category": "Operational process"
+    },
+    {
+      "name": "Otimização de Custos",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Custo",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Despesa",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Automação de processos",
+      "category": "Gestão"
+    },
+    {
+      "name": "Inteligência Artificial (IA)",
+      "category": "Tecnologia"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "120 milhões de reais",
+      "context": "Cash burn by Dafiti in the previous year."
+    },
+    {
+      "value": "1 bilhão de reais",
+      "context": "Combined revenue of Dafiti, Kanui, and Tricá."
+    },
+    {
+      "value": "120 funcionários",
+      "context": "Número inicial de funcionários na Daft antes da otimização de processos."
+    },
+    {
+      "value": "40 funcionários",
+      "context": "Número de funcionários na Daft após a otimização de processos."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gustavo Martins",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Automação De Processos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Brf",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dafiti",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Automação De Processos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dafiti",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Kanui",
+      "target_type": "company"
+    },
+    {
+      "source": "André Cover",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Ultra",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Daft",
+      "target_type": "company"
+    },
+    {
+      "source": "Henrique",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Martins",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dre (Demonstrativo De Resultados Do Exercício)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Martins",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Artificial (Ia)",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dre (Demonstrativo De Resultados Do Exercício)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dafiti",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Tricá",
+      "target_type": "company"
+    }
+  ]
+}

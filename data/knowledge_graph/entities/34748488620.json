@@ -1,0 +1,607 @@
+{
+  "episode_id": "34748488620",
+  "title": "Paulo Correa - Como é liderar 20.000 colaboradores sendo CEO da C&A Brasil? | Extremos Podcast",
+  "date_published": 1677695275,
+  "duration": 6060,
+  "chunks_processed": 9,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Paulo Correa",
+      "role": "guest",
+      "company": "C&A Brasil",
+      "title": "CEO"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Rafa Forte",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alê Da House",
+      "role": "mentioned",
+      "company": "Vitacom",
+      "title": ""
+    },
+    {
+      "name": "Clemens",
+      "role": "mentioned",
+      "company": "C&A",
+      "title": "Co-founder"
+    },
+    {
+      "name": "August",
+      "role": "mentioned",
+      "company": "C&A",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tereza",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Israel Damélios",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Unknown"
+    },
+    {
+      "name": "Murilo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alberto Serrentino",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": ""
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    }
+  ],
+  "companies": [
+    {
+      "name": "C&A Brasil",
+      "industry": "Retail",
+      "context": "Paulo Correa is the CEO of C&A Brasil."
+    },
+    {
+      "name": "Mckinsey & Company",
+      "industry": "Consulting",
+      "context": "Paulo Correa worked at McKinsey before joining C&A."
+    },
+    {
+      "name": "Company",
+      "industry": "Fashion",
+      "context": "Paulo Correa started his career at Company, a fashion company."
+    },
+    {
+      "name": "Capital One",
+      "industry": "Financial Services",
+      "context": "Paulo Correa worked at Capital One during his MBA."
+    },
+    {
+      "name": "Xerox",
+      "industry": "Technology",
+      "context": "Paulo Correa worked with Xerox during his career."
+    },
+    {
+      "name": "Vitacom",
+      "industry": "Real Estate",
+      "context": "Alê da House is associated with Vitacom."
+    },
+    {
+      "name": "Cofra Holding",
+      "industry": "Conglomerate",
+      "context": "Mentioned as the parent company of C&A Brasil, with diverse investments."
+    },
+    {
+      "name": "B3",
+      "industry": "Finance",
+      "context": "Discussed as the stock exchange where C&A Brasil conducted its IPO."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Mentioned as an alternative to traditional MBA programs."
+    },
+    {
+      "name": "Canoe",
+      "industry": "Varejo online",
+      "context": "Discussão sobre fusão e operações no varejo online"
+    },
+    {
+      "name": "Dafiti",
+      "industry": "Varejo online",
+      "context": "Discussão sobre fusão e operações no varejo online"
+    },
+    {
+      "name": "Vtex",
+      "industry": "Tecnologia",
+      "context": "Fornecedora de plataforma SaaS para e-commerce mencionada por Paulo Correa."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia",
+      "context": "Desenvolvedora do Bing com integração ao ChatGPT"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Leadership",
+      "category": "Business"
+    },
+    {
+      "name": "Family Business",
+      "category": "Business"
+    },
+    {
+      "name": "MBA",
+      "category": "Education"
+    },
+    {
+      "name": "Retail Industry",
+      "category": "Business"
+    },
+    {
+      "name": "Fashion Industry",
+      "category": "Business"
+    },
+    {
+      "name": "capital aberto",
+      "category": "business strategy"
+    },
+    {
+      "name": "autonomia financeira",
+      "category": "business operations"
+    },
+    {
+      "name": "IPO",
+      "category": "finance"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Roadshow",
+      "category": "Finance"
+    },
+    {
+      "name": "Estrutura Organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "jogo coletivo",
+      "category": "Leadership"
+    },
+    {
+      "name": "cultura organizacional",
+      "category": "Business"
+    },
+    {
+      "name": "estudo de caso",
+      "category": "Education"
+    },
+    {
+      "name": "combinatividade",
+      "category": "Innovation"
+    },
+    {
+      "name": "Jornada do cliente",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Funil de conversão",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Macroeconômico",
+      "category": "Fatores externos de negócios"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "SaaS",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Clique Retire",
+      "category": "Logística"
+    },
+    {
+      "name": "Big Brother Brasil (BBB)",
+      "category": "Marketing"
+    },
+    {
+      "name": "digital transformation",
+      "category": "strategy"
+    },
+    {
+      "name": "personalization in mass communication",
+      "category": "strategy"
+    },
+    {
+      "name": "WhatsApp as a sales channel",
+      "category": "strategy"
+    },
+    {
+      "name": "customer relationship programs",
+      "category": "strategy"
+    },
+    {
+      "name": "Desfile Virtual",
+      "category": "Inovação em Marketing"
+    },
+    {
+      "name": "Projeção 3D",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métrica de Satisfação do Cliente"
+    },
+    {
+      "name": "Copywriting",
+      "category": "Comunicação e Marketing"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "ChatGPT",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Bing",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Real Life Data",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Engenharia",
+      "category": "Conceito"
+    },
+    {
+      "name": "Varejo",
+      "category": "Conceito"
+    },
+    {
+      "name": "Kitesurf",
+      "category": "Esporte"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "20,000",
+      "context": "Number of employees led by Paulo Correa as CEO of C&A Brasil."
+    },
+    {
+      "value": "15 years",
+      "context": "Paulo Correa's tenure at C&A Brasil."
+    },
+    {
+      "value": "7 years",
+      "context": "Paulo Correa's time as CEO of C&A Brasil."
+    },
+    {
+      "value": "1841",
+      "context": "Year of establishment of C&A."
+    },
+    {
+      "value": "20,000",
+      "context": "Number of employees led by Paulo Correa as CEO of C&A Brasil."
+    },
+    {
+      "value": "20,000 colaboradores",
+      "context": "Number of employees led by Paulo Correa as CEO of C&A Brasil."
+    },
+    {
+      "value": "5 meses",
+      "context": "Time taken for C&A Brasil to prepare and execute its IPO."
+    },
+    {
+      "value": "2010 até 2019",
+      "context": "Period mentioned regarding the low volume of store openings by C&A Brasil."
+    },
+    {
+      "value": "20,000 colaboradores",
+      "context": "Number of employees at C&A Brasil."
+    },
+    {
+      "value": "15,000 colaboradores",
+      "context": "Número de funcionários na C&A Brasil"
+    },
+    {
+      "value": "300 lojas",
+      "context": "Número de lojas operadas pela C&A Brasil"
+    },
+    {
+      "value": "20,000 modelos de produtos",
+      "context": "Variedade de produtos disponíveis na C&A Brasil"
+    },
+    {
+      "value": "20.000",
+      "context": "Número de colaboradores liderados por Paulo Correa na C&A Brasil."
+    },
+    {
+      "value": "15.000",
+      "context": "Número de pessoas interagindo diariamente na C&A Brasil."
+    },
+    {
+      "value": "150.000 para 3.500.000",
+      "context": "Crescimento de usuários do aplicativo da C&A Brasil durante a pandemia."
+    },
+    {
+      "value": "20,000",
+      "context": "Number of employees led by Paulo Correa at C&A Brasil."
+    },
+    {
+      "value": "15 million",
+      "context": "Number of people registered in the C&A Brasil customer relationship program during the pandemic."
+    },
+    {
+      "value": "3.5 million",
+      "context": "Increase in app users from 150,000 to 3.5 million during the pandemic."
+    },
+    {
+      "value": "500 vezes o normal",
+      "context": "Aumento no número de downloads de aplicativo durante uma campanha bem-sucedida"
+    },
+    {
+      "value": "40 mil boletos por mês",
+      "context": "Quantidade de boletos emitidos pela Loja Integrada"
+    },
+    {
+      "value": "20.000",
+      "context": "Número de colaboradores liderados por Paulo Correa na C&A Brasil"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Company",
+      "target_type": "company"
+    },
+    {
+      "source": "C&A Brasil",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Ipo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dafiti",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Mckinsey & Company",
+      "target_type": "company"
+    },
+    {
+      "source": "C&A Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cofra Holding",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estudo De Caso",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Jornada Do Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Capital One",
+      "target_type": "company"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Bing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "C&A Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Clemens",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "C&A",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governança Corporativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Macroeconômico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Roadshow",
+      "target_type": "concept"
+    },
+    {
+      "source": "Murilo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Combinatividade",
+      "target_type": "concept"
+    },
+    {
+      "source": "August",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "C&A",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Xerox",
+      "target_type": "company"
+    },
+    {
+      "source": "C&A Brasil",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Customer Relationship Programs",
+      "target_type": "concept"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Chatgpt",
+      "target_type": "concept"
+    },
+    {
+      "source": "C&A Brasil",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Digital Transformation",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mba",
+      "target_type": "concept"
+    },
+    {
+      "source": "C&A Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Big Brother Brasil (Bbb)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Correa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Funil De Conversão",
+      "target_type": "concept"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "C&A Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "C&A Brasil",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Whatsapp As A Sales Channel",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mariano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    }
+  ]
+}

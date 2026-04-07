@@ -1,0 +1,162 @@
+{
+  "episode_id": "34748488375",
+  "title": "COMO VENDER NO MERCADO LIVRE E POTENCIALIZAR SUAS VENDAS NA BLACK FRIDAY 2024 | G4 PODCASTS",
+  "date_published": 1731049200,
+  "duration": 1627,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Thiago Franco",
+      "role": "guest",
+      "company": "Icon",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Discussed as a major marketplace platform for Black Friday sales."
+    },
+    {
+      "name": "Icon",
+      "industry": "Consulting",
+      "context": "Described as the leading consultancy for selling on Mercado Livre."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Organizador do G4 Sales, formação mencionada no episódio."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Black Friday",
+      "category": "Event"
+    },
+    {
+      "name": "Marketplaces",
+      "category": "Business Model"
+    },
+    {
+      "name": "Mercado Ads",
+      "category": "Advertising Platform"
+    },
+    {
+      "name": "Tráfego Orgânico",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Reposição de Estoque",
+      "category": "Operational Strategy"
+    },
+    {
+      "name": "Preço Competitivo",
+      "category": "Pricing Strategy"
+    },
+    {
+      "name": "Margem de Contribuição",
+      "category": "Financial Metric"
+    },
+    {
+      "name": "Curva ABC",
+      "category": "Gestão de estoque"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Tráfego pago",
+      "category": "Marketing digital"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "R$3.000 por mês",
+      "context": "Suggested as a starting revenue target for new sellers on Mercado Livre."
+    },
+    {
+      "value": "R$40.000 por mês",
+      "context": "Indicated as a minimum revenue target for factory-based sellers on Mercado Livre."
+    },
+    {
+      "value": "55%",
+      "context": "Crescimento no pico de visitas do Mercado Livre entre Black Friday 2022 e 2023."
+    },
+    {
+      "value": "80%",
+      "context": "Crescimento no faturamento do Mercado Livre entre Black Friday 2022 e 2023."
+    },
+    {
+      "value": "78 milhões",
+      "context": "Visitas diárias no Mercado Livre."
+    },
+    {
+      "value": "57 milhões",
+      "context": "Visitas diárias em páginas de anúncios no Mercado Livre."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "offers",
+      "target": "G4 Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Icon",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mercado Ads",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "E-Commerce",
+      "target_type": "company"
+    }
+  ]
+}

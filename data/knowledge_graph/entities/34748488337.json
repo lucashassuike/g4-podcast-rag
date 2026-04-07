@@ -1,0 +1,267 @@
+{
+  "episode_id": "34748488337",
+  "title": "A ESCOLA DI PAOLO DE GESTÃO E GALETOS COM PAULO GEREMIA E JANDIR DALBERTO | PAPO DE GESTÃO",
+  "date_published": 1741006800,
+  "duration": 4185,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Paulo Geremia",
+      "role": "guest",
+      "company": "Grupo Di Paolo",
+      "title": "Fundador"
+    },
+    {
+      "name": "Jandir Dalberto",
+      "role": "guest",
+      "company": "Grupo Di Paolo",
+      "title": "Sócio"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Mentor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Mentor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Grupo Di Paolo",
+      "industry": "Restaurantes",
+      "context": "Rede de restaurantes especializada em culinária italiana, com mais de 14 unidades em 11 cidades."
+    },
+    {
+      "name": "Coco Bambu",
+      "industry": "Restaurantes",
+      "context": "Mencionado como exemplo de modelo de expansão sem sócios locais."
+    },
+    {
+      "name": "Dipaolo",
+      "industry": "Restaurant",
+      "context": "Discussed as a business model and its operations in São Paulo and Rio Grande do Sul."
+    },
+    {
+      "name": "Recanto Maestro",
+      "industry": "Tourism and Education",
+      "context": "Mentioned as a development area for tourism and education."
+    },
+    {
+      "name": "Bento Gonçalves",
+      "industry": "Food Production",
+      "context": "Location of a production facility for DiPaolo's products."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Oferece programas de mentoria e educação para empresários."
+    },
+    {
+      "name": "Escola Di Paolo",
+      "industry": "Restaurantes",
+      "context": "Famosa por sua culinária inspirada na Serra Gaúcha e imigração italiana."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Expansão de negócios",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Sócio-operador",
+      "category": "Modelo de gestão"
+    },
+    {
+      "name": "Padrão de qualidade",
+      "category": "Gestão de operações"
+    },
+    {
+      "name": "Logística integrada",
+      "category": "Gestão de operações"
+    },
+    {
+      "name": "Leadership Development",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Internal Training Programs",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Operational Efficiency",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Customer Interaction",
+      "category": "Customer Service"
+    },
+    {
+      "name": "Waste Management",
+      "category": "Sustainability"
+    },
+    {
+      "name": "Gestão e Estratégia",
+      "category": "Programa Educacional"
+    },
+    {
+      "name": "Arquitetura de Marca",
+      "category": "Branding"
+    },
+    {
+      "name": "Identidade da Serra Gaúcha",
+      "category": "Cultura e Tradição"
+    },
+    {
+      "name": "Imigração Italiana",
+      "category": "História e Cultura"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "300 toneladas",
+      "context": "Quantidade de polenta vendida pelo Grupo Di Paolo no ano anterior."
+    },
+    {
+      "value": "14 unidades",
+      "context": "Número de restaurantes do Grupo Di Paolo."
+    },
+    {
+      "value": "530 pessoas",
+      "context": "Número de funcionários empregados diretamente pelo Grupo Di Paolo."
+    },
+    {
+      "value": "22-23 years",
+      "context": "Time DiPaolo operated before expanding to São Paulo."
+    },
+    {
+      "value": "2000 kilograms",
+      "context": "Daily production capacity of capelete at DiPaolo's facility."
+    },
+    {
+      "value": "600",
+      "context": "Número de clientes e não clientes entrevistados em pesquisa."
+    },
+    {
+      "value": "28 dias",
+      "context": "Tempo para refazer e retornar ao imóvel após enchente."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Dipaolo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Bento Gonçalves",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jandir Dalberto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Escola Di Paolo",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Geremia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Di Paolo",
+      "target_type": "company"
+    },
+    {
+      "source": "Jandir Dalberto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Di Paolo",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Geremia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Dipaolo",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Di Paolo",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Coco Bambu",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dipaolo",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Rio Grande Do Sul",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jandir Dalberto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dipaolo",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Geremia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Escola Di Paolo",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dipaolo",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "São Paulo",
+      "target_type": "company"
+    }
+  ]
+}

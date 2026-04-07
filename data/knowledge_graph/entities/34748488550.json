@@ -1,0 +1,174 @@
+{
+  "episode_id": "34748488550",
+  "title": "Melhores Momentos de Agosto - Tallis Gomes, Gabriel Ferreira (Bold Snacks) e Tay Dantas",
+  "date_published": 1694082399,
+  "duration": 1083,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "Easy Taxi",
+      "title": "Founder"
+    },
+    {
+      "name": "Bicalho",
+      "role": "mentioned",
+      "company": "Tech Samurai",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Vini Graça",
+      "role": "mentioned",
+      "company": "Easy Taxi",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Márcio",
+      "role": "mentioned",
+      "company": "Easy Taxi",
+      "title": "Team Member"
+    },
+    {
+      "name": "Daniel Cohen",
+      "role": "mentioned",
+      "company": "Easy Taxi",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Gabriel Ferreira",
+      "role": "guest",
+      "company": "Bold Snacks",
+      "title": "Founder"
+    },
+    {
+      "name": "Tay Dantas",
+      "role": "guest",
+      "company": "Bold Snacks",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Founded by Tallis Gomes"
+    },
+    {
+      "name": "Tech Samurai",
+      "industry": "Software Development",
+      "context": "Founded by Tallis Gomes and Bicalho"
+    },
+    {
+      "name": "Bold Snacks",
+      "industry": "Food and Beverage",
+      "context": "Discussed by Gabriel Ferreira and Tay Dantas"
+    },
+    {
+      "name": "Ortobon",
+      "industry": "Furniture",
+      "context": "Client of Tech Samurai"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Startup Weekend",
+      "category": "Event"
+    },
+    {
+      "name": "Gamification",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Outsourcing",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Business Model"
+    },
+    {
+      "name": "Khan Academy",
+      "category": "Education Platform"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Top 3",
+      "context": "Bombom Crocante flavor sales ranking"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bold Snacks",
+      "target_type": "company"
+    },
+    {
+      "source": "Márcio",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Vini Graça",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Tech Samurai",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tech Samurai",
+      "target_type": "company"
+    },
+    {
+      "source": "Bicalho",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Tech Samurai",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Tech Samurai",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Cohen",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Ferreira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bold Snacks",
+      "target_type": "company"
+    },
+    {
+      "source": "Vini Graça",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    }
+  ]
+}

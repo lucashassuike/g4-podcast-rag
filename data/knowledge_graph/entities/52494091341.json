@@ -1,0 +1,199 @@
+{
+  "episode_id": "52494091341",
+  "title": "COMO G4 ESTÁ ESCALANDO AINDA MAIS USANDO INTELIGÊNCIA ARTIFICIAL | O JOGO DA IA - O NOVO PODCAST DO G4",
+  "date_published": 1774033200,
+  "duration": 2969,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Iago Martins",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "João Vitor",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Marcela",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jess",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Discussão sobre uso de inteligência artificial para escalar operações e aumentar eficiência."
+    },
+    {
+      "name": "Agc",
+      "industry": "Agronegócio",
+      "context": "Maior indústria de mamão do Brasil"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inteligência Artificial (IA)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "IA Generativa",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Arquitetura de Gestão",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "OS (Sistema Operacional do G4)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "G4S",
+      "category": "Sistema Operacional"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Middle Management",
+      "category": "Estrutura Organizacional"
+    },
+    {
+      "name": "Teoria das Vias de Comunicações do Hackman",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelo de Negócio"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "130 milhões de reais",
+      "context": "Faturamento do G4 Educação em 2022."
+    },
+    {
+      "value": "508 milhões de reais",
+      "context": "Faturamento do G4 Educação em 2023."
+    },
+    {
+      "value": "104 milhões de reais",
+      "context": "Geração de caixa do G4 Educação em 2023."
+    },
+    {
+      "value": "750 milhões de reais",
+      "context": "Faturamento projetado do G4 Educação para 2024."
+    },
+    {
+      "value": "450 funcionários",
+      "context": "Número atual de funcionários do G4 Educação."
+    },
+    {
+      "value": "1 bilhão de reais",
+      "context": "Faturamento projetado do G4 Educação para 2025."
+    },
+    {
+      "value": "100 milhões",
+      "context": "Número de empresas clientes do G4 Educação"
+    },
+    {
+      "value": "500 milhões",
+      "context": "Visualizações mensais nas redes sociais conjuntas do G4 Educação"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Iago Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João Vitor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4S",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Inteligência Artificial (Ia)",
+      "target_type": "concept"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Agc",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Agronegócio",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Os (Sistema Operacional Do G4)",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Inteligência Artificial",
+      "target_type": "concept"
+    }
+  ]
+}

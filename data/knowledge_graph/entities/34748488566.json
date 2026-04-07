@@ -1,0 +1,397 @@
+{
+  "episode_id": "34748488566",
+  "title": "Como o Mercado Livre dominou o E-commerce? - Com Stelleo Tolda, Cofundador | Papo de Gestão",
+  "date_published": 1691397000,
+  "duration": 5593,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Stelleo Tolda",
+      "role": "guest",
+      "company": "Mercado Livre",
+      "title": "Cofundador e Conselheiro"
+    },
+    {
+      "name": "Marcos Galperin",
+      "role": "mentioned",
+      "company": "Mercado Livre",
+      "title": "CEO e Fundador"
+    },
+    {
+      "name": "Hernan Cazar",
+      "role": "mentioned",
+      "company": "Kasek",
+      "title": "Fundador"
+    },
+    {
+      "name": "Leila Pereira",
+      "role": "mentioned",
+      "company": "Palmeiras",
+      "title": "Presidente"
+    },
+    {
+      "name": "Abel Ferreira",
+      "role": "mentioned",
+      "company": "Palmeiras",
+      "title": "Treinador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "César Cielo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Nadador"
+    },
+    {
+      "name": "Romeu",
+      "role": "mentioned",
+      "company": "Arco",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de treinamento de times mencionada no episódio"
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Discussão sobre sua fundação e crescimento"
+    },
+    {
+      "name": "Kasek",
+      "industry": "Investimentos",
+      "context": "Fundada por Hernan Cazar"
+    },
+    {
+      "name": "Ebay",
+      "industry": "E-commerce",
+      "context": "Mencionado como inspiração para o Mercado Livre"
+    },
+    {
+      "name": "Rix Mills",
+      "industry": "Investimentos",
+      "context": "Investidora inicial do Mercado Livre"
+    },
+    {
+      "name": "Goldman Sachs",
+      "industry": "Financeiro",
+      "context": "Investidora inicial do Mercado Livre"
+    },
+    {
+      "name": "Santander",
+      "industry": "Financeiro",
+      "context": "Investidora inicial do Mercado Livre"
+    },
+    {
+      "name": "Uol",
+      "industry": "Telecomunicações e Internet",
+      "context": "Mencionado como investidor em tecnologia durante a bolha da internet"
+    },
+    {
+      "name": "Terra",
+      "industry": "Telecomunicações e Internet",
+      "context": "Mencionado como investidor em tecnologia durante a bolha da internet"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia",
+      "context": "Mencionado como investidor em tecnologia durante a bolha da internet"
+    },
+    {
+      "name": "Walmart México",
+      "industry": "Varejo",
+      "context": "Mencionado como empregador de ex-executivo do Mercado Livre"
+    },
+    {
+      "name": "Canui",
+      "industry": "E-commerce",
+      "context": "Empresa criada e vendida para a Dafiti"
+    },
+    {
+      "name": "Dafiti",
+      "industry": "E-commerce",
+      "context": "Compradora da Canui"
+    },
+    {
+      "name": "Arco",
+      "industry": "Educação",
+      "context": "Stelleo Tolda participa do conselho"
+    },
+    {
+      "name": "Dasa",
+      "industry": "Saúde",
+      "context": "Stelleo Tolda participa do conselho"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Treinamento de equipes",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Break-even",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Bolha da internet",
+      "category": "História da tecnologia"
+    },
+    {
+      "name": "Expansão internacional",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Gestão de recursos escassos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Descentralização",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Gestão de pessoas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Sucessão empresarial",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "ROI (Retorno sobre Investimento)",
+      "category": "Métrica financeira"
+    },
+    {
+      "name": "Crescimento empresarial",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Liderança",
+      "category": "Habilidade de negócios"
+    },
+    {
+      "name": "Impacto",
+      "category": "Estratégia de vida"
+    },
+    {
+      "name": "Fear of Missing Out (FOMO)",
+      "category": "Psicologia e comportamento"
+    },
+    {
+      "name": "Rede de contatos",
+      "category": "Recursos profissionais"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "42 milhões de dólares",
+      "context": "Investimento inicial recebido pelo Mercado Livre"
+    },
+    {
+      "value": "6 anos",
+      "context": "Tempo para o Mercado Livre se tornar lucrativo"
+    },
+    {
+      "value": "7 anos",
+      "context": "Tempo para o Mercado Livre abrir capital após o investimento inicial"
+    },
+    {
+      "value": "3% da população com acesso à internet em 1999",
+      "context": "Discussão sobre penetração da internet no Brasil"
+    },
+    {
+      "value": "Crescimento constante de vendas semanais e mensais",
+      "context": "Indicadores de sucesso inicial do Mercado Livre"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Abel Ferreira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Palmeiras",
+      "target_type": "company"
+    },
+    {
+      "source": "Santander",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcos Galperin",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Goldman Sachs",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Terra",
+      "target_type": "company"
+    },
+    {
+      "source": "Canui",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dafiti",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Ebay",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Leila Pereira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Palmeiras",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Arco",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Walmart México",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Stelleo Tolda",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Uol",
+      "target_type": "company"
+    },
+    {
+      "source": "Stelleo Tolda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dasa",
+      "target_type": "company"
+    },
+    {
+      "source": "Stelleo Tolda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Arco",
+      "target_type": "company"
+    },
+    {
+      "source": "Hernan Cazar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Kasek",
+      "target_type": "company"
+    },
+    {
+      "source": "Hernan Cazar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rix Mills",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

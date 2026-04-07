@@ -1,0 +1,320 @@
+{
+  "episode_id": "34748488554",
+  "title": "Como Construir um Time de Alta Performance - Com Ricardo Basaglia | Extremos",
+  "date_published": 1693472400,
+  "duration": 5456,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Ricardo Basaglia",
+      "role": "guest",
+      "company": "Não mencionado",
+      "title": "CEO de multinacional"
+    },
+    {
+      "name": "Scott Adams",
+      "role": "mentioned",
+      "company": "Não mencionado",
+      "title": "Criador do Dilbert"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Fatala",
+      "role": "mentioned",
+      "company": "Magazine Luiza",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Adolf",
+      "role": "mentioned",
+      "company": "CEA",
+      "title": "Vice-presidente"
+    },
+    {
+      "name": "Donat",
+      "role": "mentioned",
+      "company": "CEA",
+      "title": "Não especificado"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Airbus",
+      "industry": "Aeroespacial",
+      "context": "Empresa onde o host realizou estágio"
+    },
+    {
+      "name": "Coco Bambu",
+      "industry": "Restaurante",
+      "context": "Usado como analogia para escolhas no mundo moderno"
+    },
+    {
+      "name": "Michael Page",
+      "industry": "Recruitment",
+      "context": "Largest recruitment company in Brazil and Latin America"
+    },
+    {
+      "name": "Vitex",
+      "industry": "E-commerce solutions",
+      "context": "Discussed in relation to Instagram usage"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education and business consulting",
+      "context": "Mentioned in relation to Bruno Nardon"
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Varejo",
+      "context": "Mencionada em relação ao Fatala ter um mentor"
+    },
+    {
+      "name": "Cea",
+      "industry": "Varejo",
+      "context": "Mencionada em relação ao Adolf e Donat"
+    },
+    {
+      "name": "G4 Scales",
+      "industry": "Business Consulting",
+      "context": "Described as a collaborative solution for advisory"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Lugar de potência",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Era moderna",
+      "category": "História e sociedade"
+    },
+    {
+      "name": "Era pós-moderna",
+      "category": "História e sociedade"
+    },
+    {
+      "name": "Lean Manufacturing",
+      "category": "Gestão de processos"
+    },
+    {
+      "name": "Era da experiência",
+      "category": "Employee engagement"
+    },
+    {
+      "name": "Sorte aleatória",
+      "category": "Luck framework"
+    },
+    {
+      "name": "Sorte por trabalho duro",
+      "category": "Luck framework"
+    },
+    {
+      "name": "Sorte por experiência",
+      "category": "Luck framework"
+    },
+    {
+      "name": "Sorte por referência",
+      "category": "Luck framework"
+    },
+    {
+      "name": "Alinhamento de expectativa",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Transparência",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Networking",
+      "category": "Desenvolvimento Profissional"
+    },
+    {
+      "name": "IPO (International Presidents Organization)",
+      "category": "Organização de Liderança"
+    },
+    {
+      "name": "G4 Scale",
+      "category": "Programa de Desenvolvimento Empresarial"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Educação e Desenvolvimento"
+    },
+    {
+      "name": "mentorship",
+      "category": "Leadership"
+    },
+    {
+      "name": "advisor",
+      "category": "Leadership"
+    },
+    {
+      "name": "collaborative council",
+      "category": "Management"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    }
+  ],
+  "books": [
+    {
+      "title": "Biografia de Scott Adams",
+      "author": "Scott Adams"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "350 mil seguidores",
+      "context": "Número de seguidores de Ricardo Basaglia no Instagram"
+    },
+    {
+      "value": "250 headhunters",
+      "context": "Michael Page's team size in Brazil"
+    },
+    {
+      "value": "6,000 executives interviewed per month",
+      "context": "Michael Page's operational scale"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Adolf",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Donat",
+      "target_type": "person"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lugar De Potência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Era Pós-Moderna",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "G4 Scale",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Scales",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Collaborative Council",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autoconhecimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Michael Page",
+      "target_type": "company"
+    },
+    {
+      "source": "Adolf",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cea",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lean Manufacturing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fatala",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Donat",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cea",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Scott Adams",
+      "target_type": "person"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Era Moderna",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "episode_id": "34748488377",
+  "title": "COMO ORGANIZAR AS FINANÇAS DA EMPRESA - COM MARCO FRANÇA (AUDDAS) | PAPO DE GESTÃO",
+  "date_published": 1730703600,
+  "duration": 3729,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Marco França",
+      "role": "guest",
+      "company": "Auddas",
+      "title": "Estrategista em M&A"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Juli Antônio Oli",
+      "role": "mentioned",
+      "company": "Auddas",
+      "title": "Sócio"
+    },
+    {
+      "name": "Julião",
+      "role": "mentioned",
+      "company": "Auddas",
+      "title": "Gestor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Auddas",
+      "industry": "Consultoria",
+      "context": "Empresa mencionada como referência em M&A e planejamento financeiro"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Organizadora do podcast e mencionada como contexto dos hosts"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Planejamento Financeiro",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Fluxo de Caixa",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Founder Market Fit",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Gestão de Margem e Giro",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "Margem de lucro",
+      "category": "Métrica financeira"
+    },
+    {
+      "name": "Commodity",
+      "category": "Mercado financeiro"
+    },
+    {
+      "name": "Curva de Gauss",
+      "category": "Estatística"
+    },
+    {
+      "name": "Contabilidade gerencial",
+      "category": "Gestão financeira"
+    },
+    {
+      "name": "Provisões orçamentárias",
+      "category": "Gestão financeira"
+    },
+    {
+      "name": "Fusões e aquisições (M&A)",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Gestão e estratégia",
+      "category": "Educação empresarial"
+    },
+    {
+      "name": "Capital de dinheiro",
+      "category": "Finanças empresariais"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "6%",
+      "context": "Margem de lucro mencionada como exemplo em negócios."
+    },
+    {
+      "value": "50, 80 empregados",
+      "context": "Exemplo de tamanho de equipe em um negócio."
+    },
+    {
+      "value": "Selic + 6%",
+      "context": "Taxa de juros mencionada como custo de financiamento."
+    },
+    {
+      "value": "20-30 milhões de reais por ano",
+      "context": "Faturamento mínimo sugerido para participação em programas avançados do G4 Educação"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão E Estratégia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Julião",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Auddas",
+      "target_type": "company"
+    },
+    {
+      "source": "Auddas",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Fusões E Aquisições (M&A)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Auddas",
+      "target_type": "company"
+    },
+    {
+      "source": "Juli Antônio Oli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Auddas",
+      "target_type": "company"
+    }
+  ]
+}

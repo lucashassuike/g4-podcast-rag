@@ -1,0 +1,786 @@
+{
+  "episode_id": "34748488350",
+  "title": "COMO RAFAEL FERRI CONSTRÓI UMA CARTEIRA DE INVESTIMENTOS À PROVA DE GOVERNOS",
+  "date_published": 1736326800,
+  "duration": 4493,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Rafael Ferri",
+      "role": "guest",
+      "company": "D-Link",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Bruno Schuller",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-colaborador"
+    },
+    {
+      "name": "Fábio Seixas",
+      "role": "mentioned",
+      "company": "",
+      "title": "Investidor"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla, SpaceX",
+      "title": "CEO"
+    },
+    {
+      "name": "Dilma Rousseff",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-Presidente do Brasil"
+    },
+    {
+      "name": "Marcel",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Glaze Hoffman",
+      "role": "mentioned",
+      "company": "",
+      "title": "Política"
+    },
+    {
+      "name": "Flávio Dino",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ministro"
+    },
+    {
+      "name": "Cristiano Zanin",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ministro"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "mentioned",
+      "company": "Berkshire Hathaway",
+      "title": ""
+    },
+    {
+      "name": "Fábio",
+      "role": "mentioned",
+      "company": "TC",
+      "title": ""
+    },
+    {
+      "name": "Albuquerque",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Will",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Investor"
+    },
+    {
+      "name": "Eike Batista",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Entrepreneur"
+    },
+    {
+      "name": "Jorge Paulo Lemann",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Investor"
+    },
+    {
+      "name": "Jim Simons",
+      "role": "mentioned",
+      "company": "Medallion Fund",
+      "title": "Founder"
+    },
+    {
+      "name": "Roberto Campos",
+      "role": "mentioned",
+      "company": "Banco Central do Brasil",
+      "title": "Presidente"
+    },
+    {
+      "name": "Luiz Inácio Lula Da Silva",
+      "role": "mentioned",
+      "company": "Governo do Brasil",
+      "title": "Presidente"
+    },
+    {
+      "name": "Jair Bolsonaro",
+      "role": "mentioned",
+      "company": "Governo do Brasil",
+      "title": "Ex-Presidente"
+    },
+    {
+      "name": "Glaze",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nicolas",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Eduardo Bolsonaro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Silvia Brás",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ciro Gomes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Lula",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "João Campos",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Donald Trump",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Minimal Club",
+      "industry": "Fashion",
+      "context": "Camisas básicas mencionadas no episódio"
+    },
+    {
+      "name": "D-Link",
+      "industry": "Technology",
+      "context": "Plataforma de Rafael Ferri mencionada no episódio"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Discussão sobre estratégias empresariais e impacto econômico"
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Serviços Financeiros",
+      "context": "Discussão sobre impacto de juros altos"
+    },
+    {
+      "name": "Magazine Luiza (Magalu)",
+      "industry": "Varejo",
+      "context": "Discussão sobre valor de mercado e impacto econômico"
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Discussão sobre valuation e ações"
+    },
+    {
+      "name": "Tc",
+      "industry": "Investimentos",
+      "context": "Discussão sobre estratégias de investimento e assinaturas"
+    },
+    {
+      "name": "Enjoei",
+      "industry": "Varejo",
+      "context": "Discussão sobre valuation e caixa da empresa"
+    },
+    {
+      "name": "Medallion Fund",
+      "industry": "Investment Fund",
+      "context": "Mentioned as a highly successful algorithmic trading fund."
+    },
+    {
+      "name": "Banco Central Do Brasil",
+      "industry": "Financeiro",
+      "context": "Discussão sobre política monetária e fiscal"
+    },
+    {
+      "name": "Via Varejo",
+      "industry": "Retail",
+      "context": "Citada como ação que gerou lucro."
+    },
+    {
+      "name": "Gafisa",
+      "industry": "Real Estate",
+      "context": "Citada como ação que gerou prejuízo."
+    },
+    {
+      "name": "Banco Inter",
+      "industry": "Finance",
+      "context": "Citada como ação barata para investimento."
+    },
+    {
+      "name": "Brava Petróleo",
+      "industry": "Energy",
+      "context": "Citada como ação barata para investimento."
+    },
+    {
+      "name": "Carrefour",
+      "industry": "Retail",
+      "context": "Citada como ação barata para investimento."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Bitcoin",
+      "category": "Cryptocurrency"
+    },
+    {
+      "name": "Blockchain",
+      "category": "Technology"
+    },
+    {
+      "name": "Investimento",
+      "category": "Finance"
+    },
+    {
+      "name": "Selic",
+      "category": "Economics"
+    },
+    {
+      "name": "Bolsa Família",
+      "category": "Social Program"
+    },
+    {
+      "name": "Socialismo",
+      "category": "Political Ideology"
+    },
+    {
+      "name": "Centrão",
+      "category": "Political Group"
+    },
+    {
+      "name": "Planejamento de guerra",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Estratégia de curto e médio prazo",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Negociação com fornecedores",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Redução de custos",
+      "category": "Gestão financeira"
+    },
+    {
+      "name": "Impacto econômico de juros altos",
+      "category": "Economia"
+    },
+    {
+      "name": "Inflação de alimentos",
+      "category": "Economia"
+    },
+    {
+      "name": "Renda variável",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Renda fixa",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finanças"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Finanças"
+    },
+    {
+      "name": "Alavancagem",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Impressão de dinheiro",
+      "category": "Economia"
+    },
+    {
+      "name": "Inflação",
+      "category": "Economia"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Algorithmic Trading",
+      "category": "Finance"
+    },
+    {
+      "name": "Inflation Control",
+      "category": "Economics"
+    },
+    {
+      "name": "Investment Strategies",
+      "category": "Finance"
+    },
+    {
+      "name": "Política Fiscal",
+      "category": "Economia"
+    },
+    {
+      "name": "Taxa Selic",
+      "category": "Economia"
+    },
+    {
+      "name": "Produção de Conteúdo",
+      "category": "Marketing"
+    },
+    {
+      "name": "Foco Empresarial",
+      "category": "Gestão"
+    },
+    {
+      "name": "Podcasting",
+      "category": "Mídia Digital"
+    },
+    {
+      "name": "Investimentos de longo prazo",
+      "category": "Finance"
+    },
+    {
+      "name": "Bull market",
+      "category": "Finance"
+    },
+    {
+      "name": "Small cap",
+      "category": "Finance"
+    },
+    {
+      "name": "Parlamentarismo de coalizão",
+      "category": "Political System"
+    },
+    {
+      "name": "Medo como estratégia de vendas",
+      "category": "Marketing"
+    },
+    {
+      "name": "oportunidade",
+      "category": "estratégia"
+    },
+    {
+      "name": "medo",
+      "category": "estratégia"
+    },
+    {
+      "name": "curso de gestão",
+      "category": "educação"
+    },
+    {
+      "name": "crise econômica",
+      "category": "contexto econômico"
+    }
+  ],
+  "books": [
+    {
+      "title": "Forrest Gump",
+      "author": "Winston Groom"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1 milhão de usuários",
+      "context": "Número de usuários mencionados por Rafael Ferri"
+    },
+    {
+      "value": "180 bilhões de reais",
+      "context": "Gastos anuais do Bolsa Família mencionados"
+    },
+    {
+      "value": "R$ 6,20",
+      "context": "Valor do dólar mencionado como impacto econômico"
+    },
+    {
+      "value": "R$ 17,00",
+      "context": "Taxa de juros mencionada como impacto econômico"
+    },
+    {
+      "value": "7 milhões",
+      "context": "Economia realizada pelo G4 Educação em negociações"
+    },
+    {
+      "value": "100 bilhões",
+      "context": "Valor de mercado da Magazine Luiza no pior momento da pandemia"
+    },
+    {
+      "value": "4,800 bilhões",
+      "context": "Valor de mercado atual da Magazine Luiza"
+    },
+    {
+      "value": "100 milhões",
+      "context": "Patrimônio declarado por Rafael Ferri"
+    },
+    {
+      "value": "70% a 80%",
+      "context": "Proporção do patrimônio de Rafael Ferri em renda variável"
+    },
+    {
+      "value": "30 milhões",
+      "context": "Faturamento anual de uma empresa de água de coco mencionada"
+    },
+    {
+      "value": "220 milhões",
+      "context": "Caixa da empresa Enjoei"
+    },
+    {
+      "value": "1,3 bilhões",
+      "context": "Faturamento anual da empresa Enjoei"
+    },
+    {
+      "value": "60 milhões",
+      "context": "EBITDA da empresa Enjoei"
+    },
+    {
+      "value": "3.800 assinaturas",
+      "context": "Assinaturas vendidas em um único dia pelo TC"
+    },
+    {
+      "value": "40,000",
+      "context": "Number of subscribers achieved by TC."
+    },
+    {
+      "value": "120 million",
+      "context": "Revenue of TC at the time of IPO."
+    },
+    {
+      "value": "2.8 billion",
+      "context": "Valuation of TC during IPO."
+    },
+    {
+      "value": "7.10%",
+      "context": "Yield of NTNB 2065 bonds above inflation."
+    },
+    {
+      "value": "340,000 inscritos",
+      "context": "Número de inscritos no podcast de Rafael Ferri em seis meses"
+    },
+    {
+      "value": "5 milhões de inscritos",
+      "context": "Meta de inscritos no podcast de Rafael Ferri até 2026"
+    },
+    {
+      "value": "120 milhões de usuários",
+      "context": "Número de usuários do TikTok no Brasil"
+    },
+    {
+      "value": "70% mulheres",
+      "context": "Demografia dos usuários do TikTok no Brasil"
+    },
+    {
+      "value": "70 minutos por dia",
+      "context": "Tempo médio de uso diário do TikTok no Brasil"
+    },
+    {
+      "value": "340 mil inscritos",
+      "context": "Número de inscritos no podcast em seis meses."
+    },
+    {
+      "value": "5 milhões de inscritos",
+      "context": "Meta de inscritos para o final de 2026."
+    },
+    {
+      "value": "383 mil pessoas ao vivo",
+      "context": "Audiência máxima em uma live mencionada."
+    },
+    {
+      "value": "140 bilhões de faturamento bruto",
+      "context": "Faturamento do Carrefour mencionado."
+    },
+    {
+      "value": "100 milhões",
+      "context": "vendas estimadas de um curso de gestão em um cenário de crise econômica"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Fábio Seixas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bitcoin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Ferri",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Renda Fixa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberto Campos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Banco Central Do Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Lula",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "João Campos",
+      "target_type": "person"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Blockchain",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Ferri",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tc",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Schuller",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bitcoin",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Ferri",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Ferri",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alavancagem",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fábio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tc",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Ferri",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tc",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Ferri",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Berkshire Hathaway",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Ferri",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "D-Link",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Ferri",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Valuation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Ferri",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Enjoei",
+      "target_type": "company"
+    },
+    {
+      "source": "Lula",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Dilma Rousseff",
+      "target_type": "person"
+    },
+    {
+      "source": "Jair Bolsonaro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Governo Do Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Ferri",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Renda Variável",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jim Simons",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Medallion Fund",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Ferri",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Inácio Lula Da Silva",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Governo Do Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Lula",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ciro Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

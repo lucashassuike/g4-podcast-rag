@@ -1,0 +1,172 @@
+{
+  "episode_id": "34748488599",
+  "title": "Maurílio Nunes - Tropa de Elite: O que Empresas Podem Aprender com o BOPE | Sem Atalhos",
+  "date_published": 1683536458,
+  "duration": 4934,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Maurílio Nunes",
+      "role": "guest",
+      "company": "BOPE do Rio de Janeiro",
+      "title": "Ex-Comandante"
+    },
+    {
+      "name": "Tiago Volpe",
+      "role": "mentioned",
+      "company": "Volpe Medical",
+      "title": "Médico"
+    },
+    {
+      "name": "Thiago",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de aprendizado e desenvolvimento de habilidades"
+    },
+    {
+      "name": "Bope Do Rio De Janeiro",
+      "industry": "Segurança Pública",
+      "context": "Unidade de Operações Especiais da Polícia Militar"
+    },
+    {
+      "name": "Bope",
+      "industry": "Segurança Pública",
+      "context": "Organização militar mencionada como exemplo de excelência e disciplina."
+    },
+    {
+      "name": "Polícia Militar",
+      "industry": "Law Enforcement",
+      "context": "Discussed in relation to hierarchy and operational protocols."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Excelência Operacional",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Alta Performance",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Zona de Conforto",
+      "category": "Psicologia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Habilidade Pessoal"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Planejamento Semanal",
+      "category": "Gestão"
+    },
+    {
+      "name": "Valorização Profissional",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "hierarquia",
+      "category": "organizational structure"
+    },
+    {
+      "name": "meditação",
+      "category": "personal development"
+    },
+    {
+      "name": "mindfulness",
+      "category": "personal development"
+    },
+    {
+      "name": "histeria coletiva",
+      "category": "social dynamics"
+    },
+    {
+      "name": "Transtorno Pós-Traumático",
+      "category": "Saúde Mental"
+    },
+    {
+      "name": "Regulação Emocional",
+      "category": "Saúde Mental"
+    },
+    {
+      "name": "Pressão Alta",
+      "category": "Saúde Física"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "26 anos",
+      "context": "Tempo dedicado à Polícia Militar por Maurílio Nunes"
+    },
+    {
+      "value": "45 anos",
+      "context": "Idade de Maurílio Nunes"
+    },
+    {
+      "value": "29 anos",
+      "context": "Tempo de serviço de um subtenente mencionado."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Maurílio Nunes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bope",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurílio Nunes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Polícia Militar",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurílio Nunes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bope Do Rio De Janeiro",
+      "target_type": "company"
+    },
+    {
+      "source": "Bope",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Polícia Militar",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Volpe",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Volpe Medical",
+      "target_type": "company"
+    }
+  ]
+}

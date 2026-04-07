@@ -1,0 +1,670 @@
+{
+  "episode_id": "34748488578",
+  "title": "Fred Gelli - Inspiração e Processo Criativo de um Designer Premiado | Extremos",
+  "date_published": 1687942800,
+  "duration": 4605,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Fred Gelli",
+      "role": "guest",
+      "company": "Tatio Design",
+      "title": "Co-founder and CEO"
+    },
+    {
+      "name": "Janine Benios",
+      "role": "mentioned",
+      "company": "",
+      "title": "Biologist"
+    },
+    {
+      "name": "Lala",
+      "role": "mentioned",
+      "company": "",
+      "title": "Researcher"
+    },
+    {
+      "name": "Júlio Verne",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Vicky Moniz",
+      "role": "mentioned",
+      "company": "Tátil Design",
+      "title": "Co-diretor criativo"
+    },
+    {
+      "name": "Marcelo Benz Paiva",
+      "role": "mentioned",
+      "company": "Tátil Design",
+      "title": "Co-diretor criativo"
+    },
+    {
+      "name": "Abel Gomes",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Produtor"
+    },
+    {
+      "name": "Flavinho Machado",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Produtor executivo"
+    },
+    {
+      "name": "Bob Berkwist",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Designer de rampas"
+    },
+    {
+      "name": "Aaron Wilson",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Atleta paralímpico"
+    },
+    {
+      "name": "Clodoaldo Silva",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Atleta paralímpico"
+    },
+    {
+      "name": "Roberto Trinas",
+      "role": "mentioned",
+      "company": "Tatio",
+      "title": "Colaborador"
+    },
+    {
+      "name": "Beth Lula",
+      "role": "mentioned",
+      "company": "Comitê Olímpico Internacional",
+      "title": "Diretora de Branding"
+    },
+    {
+      "name": "Bimba",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Antoine Lavoisier",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cientista"
+    },
+    {
+      "name": "Paulo Renha",
+      "role": "mentioned",
+      "company": "Real Power Boat",
+      "title": "Empresário"
+    },
+    {
+      "name": "Alice Gelli",
+      "role": "mentioned",
+      "company": "",
+      "title": "Designer"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Maria Paula Fonseca",
+      "role": "mentioned",
+      "company": "Natura",
+      "title": "Ex-Diretora Global de Marca"
+    },
+    {
+      "name": "Ana Branco",
+      "role": "mentioned",
+      "company": "",
+      "title": "Mentora de Fred Gelli"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Discussed as a provider of business education solutions"
+    },
+    {
+      "name": "Tatio Design",
+      "industry": "Design",
+      "context": "Founded by Fred Gelli, focuses on natural-inspired design solutions"
+    },
+    {
+      "name": "Moncler",
+      "industry": "Fashion",
+      "context": "Mentioned in a casual context regarding clothing"
+    },
+    {
+      "name": "Embraer",
+      "industry": "Aerospace",
+      "context": "Developed branding for the flying car Ivo"
+    },
+    {
+      "name": "Tátil Design",
+      "industry": "Design e Branding",
+      "context": "Empresa de Fred Gelli, envolvida na criação das marcas olímpica e paralímpica do Rio 2016."
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entertainment",
+      "context": "Organizador do Festival Tudum"
+    },
+    {
+      "name": "Tatio",
+      "industry": "Design",
+      "context": "Empresa de Fred Gelli, responsável pela identidade visual das Olimpíadas de 2016"
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosméticos",
+      "context": "Cliente de Fred Gelli por 23 anos, com projetos de ecodesign e branding"
+    },
+    {
+      "name": "Comitê Olímpico Internacional",
+      "industry": "Sports Management",
+      "context": "Organizador das Olimpíadas de 2016"
+    },
+    {
+      "name": "Real Power Boat",
+      "industry": "Construção Naval",
+      "context": "Design de barcos"
+    },
+    {
+      "name": "Tatil Design",
+      "industry": "Design",
+      "context": "Empresa de Fred Gelli mencionada como ativa nas redes sociais e com uma plataforma de conteúdo chamada Asterisco."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Business Education"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "Inteligência Natural",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Biomimética",
+      "category": "Design and Science"
+    },
+    {
+      "name": "Soluções Naturais",
+      "category": "Design and Philosophy"
+    },
+    {
+      "name": "Ficção Científica",
+      "category": "Literature"
+    },
+    {
+      "name": "ISD (Environmental, Social, and Governance)",
+      "category": "Business Framework"
+    },
+    {
+      "name": "Interdependência",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Gestão planetária",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Budismo",
+      "category": "Filosofia espiritual"
+    },
+    {
+      "name": "Construção de marca",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "ecodesign",
+      "category": "Sustainability"
+    },
+    {
+      "name": "protagonismo de marca",
+      "category": "Brand Strategy"
+    },
+    {
+      "name": "Sound Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Biofilia",
+      "category": "Arquitetura"
+    },
+    {
+      "name": "Propósito Organizacional",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Multissensorialidade",
+      "category": "Design e Experiência do Usuário"
+    },
+    {
+      "name": "Lugar de Potência",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Desenvolvimento Sustentável",
+      "category": "Sustentabilidade"
+    },
+    {
+      "name": "Propósito de Vida",
+      "category": "Pessoal e Profissional"
+    },
+    {
+      "name": "Equilíbrio entre Trabalho e Vida Pessoal",
+      "category": "Gestão Pessoal"
+    },
+    {
+      "name": "Transformação Planetária",
+      "category": "Sustentabilidade"
+    }
+  ],
+  "books": [
+    {
+      "title": "Extrapolations",
+      "author": "Apple TV"
+    },
+    {
+      "title": "Contagious",
+      "author": "Unnamed writer"
+    },
+    {
+      "title": "The Last of Us",
+      "author": "N/A"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "20 years",
+      "context": "Duration of client contracts at Tatio Design"
+    },
+    {
+      "value": "100+",
+      "context": "Number of national and international awards won by Fred Gelli"
+    },
+    {
+      "value": "6",
+      "context": "Number of Cannes Lions won by Fred Gelli"
+    },
+    {
+      "value": "2",
+      "context": "Number of Cannes Lions Gold won by Fred Gelli"
+    },
+    {
+      "value": "30 years",
+      "context": "Fred Gelli's career duration"
+    },
+    {
+      "value": "Metade do PIB brasileiro",
+      "context": "Gestores de grandes fundos presentes em evento no Pinheiro Neto"
+    },
+    {
+      "value": "140 agências",
+      "context": "Número de agências concorrentes na criação das marcas olímpica e paralímpica do Rio 2016."
+    },
+    {
+      "value": "70 mil pessoas",
+      "context": "Capacidade do Maracanã durante a cerimônia de abertura dos Jogos Paralímpicos."
+    },
+    {
+      "value": "Bilhões de espectadores",
+      "context": "Audiência global da cerimônia de abertura dos Jogos Paralímpicos."
+    },
+    {
+      "value": "139",
+      "context": "Número de agências que participaram da concorrência para a identidade visual das Olimpíadas de 2016"
+    },
+    {
+      "value": "120",
+      "context": "Número de pessoas na equipe da Tatio"
+    },
+    {
+      "value": "1500 metros quadrados",
+      "context": "Tamanho da bandeira usada no lançamento da marca olímpica no Réveillon de Copacabana"
+    },
+    {
+      "value": "300 anos",
+      "context": "Tempo para uma castanheira crescer"
+    },
+    {
+      "value": "600 reais",
+      "context": "Valor da madeira traficada na Amazônia"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alice Gelli",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Ana Branco",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Interdependência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Budismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Contagious",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Embraer",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tatio",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Flavinho Machado",
+      "target_type": "person"
+    },
+    {
+      "source": "Branding",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Fred Gelli",
+      "target_type": "person"
+    },
+    {
+      "source": "Propósito Organizacional",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Fred Gelli",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Biomimética",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tatio Design",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Vicky Moniz",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Natural",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão Planetária",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Bob Berkwist",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sound Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tátil Design",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Abel Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Netflix",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Biofilia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Paulo Renha",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Extrapolations",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ecodesign",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tatil Design",
+      "target_type": "company"
+    },
+    {
+      "source": "Multissensorialidade",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Fred Gelli",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Aaron Wilson",
+      "target_type": "person"
+    },
+    {
+      "source": "Cultura Organizacional",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Fred Gelli",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Marcelo Benz Paiva",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Isd (Environmental, Social, And Governance)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Construção De Marca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Clodoaldo Silva",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Protagonismo De Marca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lugar De Potência",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Fred Gelli",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Comitê Olímpico Internacional",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Soluções Naturais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tatio Design",
+      "target_type": "company"
+    },
+    {
+      "source": "Maria Paula Fonseca",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Natura",
+      "target_type": "company"
+    }
+  ]
+}

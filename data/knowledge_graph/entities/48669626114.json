@@ -1,0 +1,252 @@
+{
+  "episode_id": "48669626114",
+  "title": "CAROL PORTILHO: COMO LER PESSOAS ATRAVÉS DA LINGUAGEM CORPORAL | PAPO DE GESTÃO",
+  "date_published": 1768834801,
+  "duration": 3537,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Carol Portilho",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Mentora"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Albert Mehrabian",
+      "role": "mentioned",
+      "company": "University of California",
+      "title": "Cientista"
+    },
+    {
+      "name": "João Oliveiro",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Psicólogo"
+    },
+    {
+      "name": "Amy Cuddy",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Angela Merkel",
+      "role": "mentioned",
+      "company": "Alemanha",
+      "title": "Chanceler"
+    },
+    {
+      "name": "Napoli",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Capi",
+      "role": "mentioned",
+      "company": "Stony",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Plataforma de mentoria e cursos para empreendedores"
+    },
+    {
+      "name": "University Of California",
+      "industry": "Educação",
+      "context": "Instituição de pesquisa mencionada em estudos de comunicação"
+    },
+    {
+      "name": "Stony",
+      "industry": "Pagamentos e Finanças",
+      "context": "Empresa mencionada em relação a um de seus membros, Capi"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Comunicação de alta performance",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Linguagem corporal",
+      "category": "Habilidade interpessoal"
+    },
+    {
+      "name": "Micro expressões faciais",
+      "category": "Psicologia e comunicação"
+    },
+    {
+      "name": "Conexão na comunicação",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Comunicação não verbal",
+      "category": "Habilidade interpessoal"
+    },
+    {
+      "name": "Cúpula do Poder",
+      "category": "Postura e Presença"
+    },
+    {
+      "name": "Postura Super-Herói",
+      "category": "Postura e Presença"
+    },
+    {
+      "name": "Tomada de Consciência",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Comunicação Burocrática",
+      "category": "Estratégia de Comunicação"
+    },
+    {
+      "name": "Autenticidade",
+      "category": "Estratégia de Comunicação"
+    },
+    {
+      "name": "Análise de Microexpressões",
+      "category": "Técnica de Comunicação"
+    },
+    {
+      "name": "Presença de Palco",
+      "category": "Habilidade de Comunicação"
+    },
+    {
+      "name": "Técnica de Negociação",
+      "category": "Habilidade de Comunicação"
+    },
+    {
+      "name": "Posicionamento e Autoridade",
+      "category": "Desenvolvimento de Liderança"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "93%",
+      "context": "Porcentagem da comunicação que é inconsciente segundo estudos de Albert Mehrabian"
+    },
+    {
+      "value": "7%",
+      "context": "Porcentagem da comunicação atribuída às palavras segundo estudos de Albert Mehrabian"
+    },
+    {
+      "value": "38%",
+      "context": "Porcentagem da comunicação atribuída à voz segundo estudos de Albert Mehrabian"
+    },
+    {
+      "value": "3 palavras por segundo",
+      "context": "Velocidade ideal de fala para manter atenção segundo estudos mencionados"
+    },
+    {
+      "value": "38%",
+      "context": "Impacto da voz na comunicação"
+    },
+    {
+      "value": "3 palavras por segundo",
+      "context": "Velocidade ideal de fala para manter atenção"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Carol Portilho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Linguagem Corporal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Capi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Stony",
+      "target_type": "company"
+    },
+    {
+      "source": "Carol Portilho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Carol Portilho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cúpula Do Poder",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carol Portilho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Postura Super-Herói",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carol Portilho",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Napoli",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Carol Portilho",
+      "target_type": "person"
+    },
+    {
+      "source": "Carol Portilho",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "João Oliveiro",
+      "target_type": "person"
+    },
+    {
+      "source": "Albert Mehrabian",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "University Of California",
+      "target_type": "company"
+    },
+    {
+      "source": "Carol Portilho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Comunicação Não Verbal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carol Portilho",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Amy Cuddy",
+      "target_type": "person"
+    },
+    {
+      "source": "Carol Portilho",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Angela Merkel",
+      "target_type": "person"
+    }
+  ]
+}

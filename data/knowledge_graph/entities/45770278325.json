@@ -1,0 +1,293 @@
+{
+  "episode_id": "45770278325",
+  "title": "ALFREDO SOARES: PORQUE CRIAR UM NOVO BRAÇO PARA O G4 EDUCAÇÃO | TOOLS LIVE",
+  "date_published": 1764111600,
+  "duration": 1817,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Igor Torquia",
+      "role": "host",
+      "company": "G4 Tools",
+      "title": "Diretor"
+    },
+    {
+      "name": "Eduardo",
+      "role": "mentioned",
+      "company": "iCaseShop.br",
+      "title": ""
+    },
+    {
+      "name": "Caio Castro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Vinícius",
+      "role": "mentioned",
+      "company": "Maria Bela Infantil",
+      "title": ""
+    },
+    {
+      "name": "Ricardo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Joyce",
+      "role": "mentioned",
+      "company": "",
+      "title": "Financeira"
+    },
+    {
+      "name": "Ju",
+      "role": "mentioned",
+      "company": "",
+      "title": "Financeira"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa cofundada por Alfredo Soares, focada em educação empresarial."
+    },
+    {
+      "name": "G4 Tools",
+      "industry": "Tecnologia",
+      "context": "Marketplace do G4 Educação, dirigido por Igor Torquia."
+    },
+    {
+      "name": "X-Tec",
+      "industry": "Tecnologia",
+      "context": "Empresa fundada por Alfredo Soares, posteriormente vendida para a Vitex."
+    },
+    {
+      "name": "Vitex",
+      "industry": "Tecnologia",
+      "context": "Empresa que adquiriu a X-Tec e realizou IPO."
+    },
+    {
+      "name": "Icaseshop.Br",
+      "industry": "E-commerce",
+      "context": "Primeira loja virtual vendida por Alfredo Soares."
+    },
+    {
+      "name": "Numero Store",
+      "industry": "E-commerce",
+      "context": "Loja de multimarca de roupa streetwear."
+    },
+    {
+      "name": "Maria Bela Infantil",
+      "industry": "E-commerce",
+      "context": "Loja infantil mencionada por Alfredo Soares."
+    },
+    {
+      "name": "Real Power Boats",
+      "industry": "Náutica",
+      "context": "Cliente de Alfredo Soares para desenvolvimento de site."
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Tecnologia e Mobilidade",
+      "context": "Tallis Gomes mencionou práticas de negócios anteriores."
+    },
+    {
+      "name": "Santander",
+      "industry": "Financeiro",
+      "context": "Parceria mencionada com Easy Taxi."
+    },
+    {
+      "name": "Vetex",
+      "industry": "Tecnologia e Comércio Eletrônico",
+      "context": "Alfredo Soares mencionou sua experiência e modelo de negócios."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Tecnologia e Alimentação",
+      "context": "Mencionado em relação ao CRM Bônus."
+    },
+    {
+      "name": "Crm Bônus",
+      "industry": "Tecnologia e Marketing",
+      "context": "Discussão sobre aquisição e base de dados."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marketplace",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "IPO",
+      "category": "Finanças"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Indústria"
+    },
+    {
+      "name": "Retail Media",
+      "category": "Marketing"
+    },
+    {
+      "name": "LGPD",
+      "category": "Legislação"
+    },
+    {
+      "name": "Trusted Advisor",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Ecossistema de Negócios",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Product-Market Fit",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Capilaridade Nacional",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Distribuição B2B",
+      "category": "Estratégia de Negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bora Vender",
+      "author": "Alfredo Soares"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "30,000 a 40,000 reais por mês",
+      "context": "Faturamento da iCaseShop.br vendendo capinhas de celular no Facebook."
+    },
+    {
+      "value": "40 lojas",
+      "context": "Número de lojas vendidas antes de entregar a primeira pela X-Tec."
+    },
+    {
+      "value": "50 milhões",
+      "context": "Faturamento do produto Sprint no primeiro ano."
+    },
+    {
+      "value": "500 milhões",
+      "context": "Faturamento anual estimado do G4 Educação."
+    },
+    {
+      "value": "1 milhão",
+      "context": "Número de empresas cadastradas como leads no G4 Educação."
+    },
+    {
+      "value": "55 mil",
+      "context": "Número de alunos do G4 Educação."
+    },
+    {
+      "value": "10 bilhões",
+      "context": "Valor potencial mencionado para o CRM Bônus."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Santander",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "X-Tec",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Crm Bônus",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "sold",
+      "target": "X-Tec",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "X-Tec",
+      "source_type": "company",
+      "relation": "sold_to",
+      "target": "Vitex",
+      "target_type": "company"
+    },
+    {
+      "source": "Igor Torquia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Tools",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vetex",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Bora Vender",
+      "target_type": "company"
+    }
+  ]
+}

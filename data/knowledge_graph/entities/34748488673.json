@@ -1,0 +1,300 @@
+{
+  "episode_id": "34748488673",
+  "title": "#004 - Startups de sucesso: escalabilidade, crescimento e indicadores com Patrick Negri da Iugu",
+  "date_published": 1600880245,
+  "duration": 2861,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Patrick Negri",
+      "role": "guest",
+      "company": "Iugu",
+      "title": "CEO"
+    },
+    {
+      "name": "Thales",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação para negócios"
+    },
+    {
+      "name": "Iugu",
+      "industry": "Tecnologia e Pagamentos",
+      "context": "Empresa de tecnologia focada em soluções de pagamento"
+    },
+    {
+      "name": "Burger King",
+      "industry": "Alimentação",
+      "context": "Mencionado como exemplo de empresa que utiliza KPIs extensivamente."
+    },
+    {
+      "name": "Price",
+      "industry": "Consultoria",
+      "context": "Desenvolveu um modelo de KPIs em Excel para uma empresa de mineração."
+    },
+    {
+      "name": "Sap",
+      "industry": "Tecnologia",
+      "context": "Mencionado como exemplo de ERP para empresas de grande porte."
+    },
+    {
+      "name": "Totvs",
+      "industry": "Tecnologia",
+      "context": "Mencionado como exemplo de ERP para empresas de grande porte."
+    },
+    {
+      "name": "Singu",
+      "industry": "Beauty and Wellness",
+      "context": "Referenced as a company providing convenience and independence for clients and professionals."
+    },
+    {
+      "name": "Uber",
+      "industry": "Ride-sharing",
+      "context": "Mentioned as an example of a company operating at a loss but sustained by continuous funding."
+    },
+    {
+      "name": "Goldman Sachs",
+      "industry": "Investment Banking",
+      "context": "Discussed as a key investor with rigorous due diligence processes."
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosmetics",
+      "context": "Mentioned in relation to an acquisition process involving Singu."
+    },
+    {
+      "name": "Goldmann",
+      "industry": "Financeiro",
+      "context": "Mencionada no contexto de processos de levantamento de capital."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Frameworks de Gestão",
+      "category": "Gestão"
+    },
+    {
+      "name": "Indicadores de Performance",
+      "category": "Gestão"
+    },
+    {
+      "name": "Liderança 4.0",
+      "category": "Gestão"
+    },
+    {
+      "name": "Ritos de Gestão",
+      "category": "Gestão"
+    },
+    {
+      "name": "KPIs",
+      "category": "Métricas de Negócios"
+    },
+    {
+      "name": "Modelo 3G",
+      "category": "Estratégia de Gestão"
+    },
+    {
+      "name": "Cash Pooling",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "API",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "CAC",
+      "category": "Métricas de Negócios"
+    },
+    {
+      "name": "LTV",
+      "category": "Métricas de Negócios"
+    },
+    {
+      "name": "Retenção",
+      "category": "Métricas de Negócios"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Retention",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Break-even",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Funding Rounds",
+      "category": "Startup Financing"
+    },
+    {
+      "name": "Dilution",
+      "category": "Startup Financing"
+    },
+    {
+      "name": "Due Diligence",
+      "category": "Investment Process"
+    },
+    {
+      "name": "escalabilidade",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "crescimento",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "indicadores",
+      "category": "Métricas de desempenho"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Métrica financeira"
+    }
+  ],
+  "books": [
+    {
+      "title": "Principles",
+      "author": "Ray Dalio"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "120 pessoas",
+      "context": "Tamanho da equipe da Iugu"
+    },
+    {
+      "value": "70 vagas em aberto",
+      "context": "Oportunidades de emprego na Iugu"
+    },
+    {
+      "value": "30 mil a 50 mil reais por mês",
+      "context": "Faturamento inicial da Iugu mencionado como exemplo de baixa volumetria."
+    },
+    {
+      "value": "300 mil saques",
+      "context": "Número de transações manuais realizadas pela Iugu com apenas três erros humanos."
+    },
+    {
+      "value": "12 million",
+      "context": "Initial funding raised by Iugu in a specific round."
+    },
+    {
+      "value": "40 million",
+      "context": "Revenue delivered by Iugu after raising 12 million."
+    },
+    {
+      "value": "400 million",
+      "context": "Potential funding discussed for Iugu with higher valuations."
+    },
+    {
+      "value": "800 artigos",
+      "context": "Quantidade de artigos mencionados em um contexto de análise de dados."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Natura",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Singu",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singu",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Price",
+      "source_type": "company",
+      "relation": "developed",
+      "target": "Kpis",
+      "target_type": "concept"
+    },
+    {
+      "source": "Burger King",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Modelo 3G",
+      "target_type": "concept"
+    },
+    {
+      "source": "Natura",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Goldmann",
+      "target_type": "company"
+    },
+    {
+      "source": "Patrick Negri",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Iugu",
+      "target_type": "company"
+    },
+    {
+      "source": "Principles",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Goldman Sachs",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Iugu",
+      "target_type": "company"
+    },
+    {
+      "source": "Iugu",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Cash Pooling",
+      "target_type": "concept"
+    },
+    {
+      "source": "Patrick Negri",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Iugu",
+      "target_type": "company"
+    }
+  ]
+}

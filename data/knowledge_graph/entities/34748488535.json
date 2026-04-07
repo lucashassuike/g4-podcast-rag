@@ -1,0 +1,194 @@
+{
+  "episode_id": "34748488535",
+  "title": "Conquiste Espaço em um Mercado Competitivo - Com Shantal Verdelho e Raíra Buonamici | Sem Atalhos",
+  "date_published": 1696408200,
+  "duration": 4172,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Shantal Verdelho",
+      "role": "guest",
+      "company": "Zion",
+      "title": "Co-fundadora"
+    },
+    {
+      "name": "Raíra Buonamici",
+      "role": "guest",
+      "company": "Zion",
+      "title": "Co-fundadora"
+    },
+    {
+      "name": "Sandra",
+      "role": "mentioned",
+      "company": "Hope Resort",
+      "title": "Diretora Criativa"
+    },
+    {
+      "name": "Nath Vosa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Carol Bassi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação empresarial mencionada como exemplo de construção de marca forte."
+    },
+    {
+      "name": "Zion",
+      "industry": "Moda e Joias",
+      "context": "Empresa mencionada como foco de trabalho das convidadas."
+    },
+    {
+      "name": "Hope Resort",
+      "industry": "Moda",
+      "context": "Empresa mencionada em relação à Sandra, diretora criativa."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Feedback",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Construção de Marca Pessoal",
+      "category": "Marketing e Branding"
+    },
+    {
+      "name": "Alta Performance",
+      "category": "Desenvolvimento Pessoal e Profissional"
+    },
+    {
+      "name": "Inside Sales",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Personalização de produtos",
+      "category": "Estratégia de mercado"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "50,000 seguidores",
+      "context": "Número de seguidores mencionados em relação à influência de Shantal Verdelho."
+    },
+    {
+      "value": "80% das clientes vêm da Chantal",
+      "context": "Proporção de clientes da Zion atribuída à influência de Chantal Verdelho."
+    },
+    {
+      "value": "25",
+      "context": "Número aproximado de funcionários na Zion"
+    },
+    {
+      "value": "80%",
+      "context": "Porcentagem de vendas realizadas online pela Zion"
+    },
+    {
+      "value": "3",
+      "context": "Número de lojas físicas da Zion"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandra",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hope Resort",
+      "target_type": "company"
+    },
+    {
+      "source": "Raíra Buonamici",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Zion",
+      "target_type": "company"
+    },
+    {
+      "source": "Shantal Verdelho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Zion",
+      "target_type": "company"
+    },
+    {
+      "source": "Raíra Buonamici",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Zion",
+      "target_type": "company"
+    },
+    {
+      "source": "Shantal Verdelho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Zion",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

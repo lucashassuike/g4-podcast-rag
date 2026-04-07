@@ -1,0 +1,1797 @@
+{
+  "id": 34748488642,
+  "title": "#037 - Como começar uma startup sem programador?",
+  "guest": "",
+  "date_published": 1637742616,
+  "duration": 1425,
+  "text": "Fala, galera! Eu sou o Tales Gomes e esse é um episódio do Papo de Gestão, um podcast do G4 Educação em que eu converso com os maiores gestores do Brasil. Aqui você vai aprender as lições que eu gostaria de ter escutado na minha trajetória e vai participar de conversas com pessoas que eu admiro sobre gestão, liderança, alta performance e outros assuntos que são necessários para você ser um líder 4.0. E no final, não esquece de ir no Instagram do arroba G4 Podcast para me falar o que você está achando sobre esse projeto. Antes de iniciar, quero te falar um pouco melhor sobre o que é o G4. Nós somos a evolução da escola de negócios. Nós traduzimos as práticas das empresas que mais crescem no mundo para o seu negócio. Eu sou mentor de um dos produtos, o G4 Imersão e Mentoria. Ela possui três pilares. Primeiro, conteúdo de altíssima qualidade que trazem as práticas das empresas que mais crescem no mundo para o seu negócio. Segundo, mentorias em que você pode tirar as suas dúvidas com os mentores, como eu, e que não são professores, mas sim empresários bem-sucedidos que já passaram pelos desafios que você está enfrentando hoje. Terceiro, networking com outros gestores, pois sabemos que a jornada do empreendedor é solitária. E por isso, oferecemos um ambiente onde você pode fazer relacionamentos e também negócios. Se você quiser ser mentorado por mim e outros empreendedores, é só entrar em g4educacão.com barra mentoria ou ir na descrição desse episódio e clicar no link para se inscrever no processo de seleção do G4 Imersão e Mentoria. Nela, você terá três dias comigo, Alfredo e Bruno, e também acessam a plataforma com conteúdos exclusivos para transformar o seu negócio após a imersão. Um verdadeiro MBA de três dias, com lições que você já irá aplicar um dia depois na sua empresa. Boa noite! Vamos lá! Hoje é um assunto bem transformador na minha vida, sobre como eu consegui começar um negócio sem a presença de um programador, de um developer. Então, eu pretendo ensinar a vocês aqui nas próximas 20, 30 minutos sobre como que eu fiz isso. Vamos lá! Como que eu comecei a EasyTaxi sem programador? Eu não sabia programar. Quer dizer, eu sabia o básico ali, mas não conseguia fazer o produto como ele deveria ser. Então, o que eu fiz? O meu MVP, que eu já ensinei para vocês aqui o que é, aquele protótipo funcional, eu peguei um blog pré-pronto e coloquei um formulário de e-mail onde eu perguntava o nome, o endereço e o telefone das pessoas. E aí, o botão de pedir táxi, eu mudei o front-end para... Quer dizer, era enviar e-mail, né? Eu mudei o front-end para ser o botão de pedir táxi. Então, na prática, era o seguinte, era um formulário que você preenchia, clicava pedir táxi. Lá em 2011, né, gente? 4% da população brasileira tinha smartphone. Então, naquele momento ali, eu consegui validar o meu negócio sem ter que mexer em software. Então, eu entrei num lugar chamado ThemeForest, que tinha uns frameworks ali de site, tudo pré-pronto. Só subi esse troço para o servidor e aí consegui fazer o meu MVP. E aí, como é que funcionava por trás desse MVP? Eu recebia esses dados ali no meu e-mail, eu copiava o endereço, colava na área ali do Google Maps, né? E aí, no Google Maps, eu usava uma função chamada pontos de táxi ao redor. Ao usar o pontos de táxi ao redor, eu achava os pontos de táxi, ligava para os pontos de táxi, conseguia o táxi para a pessoa, mandava SMS para a pessoa com as informações do táxi e aí, 10 minutos depois, eu entrava em contato para saber se de fato embarcou. Embarcou, eu marcava na minha pranilha que embarcou. Fui fazendo isso ao longo das semanas e ia semanalmente lá nos pontos de táxi e pedia com que esses caras me pagassem a planilha, né? Porque eles tinham a figura do prancheta antes da Easy Taxi, né? O prancheta era aquele rapaz que ficava com a pranchetinha embarcando você no táxi. Cada vez que ele te embarcava, ele ganhava 2 reais. E aí, basicamente, o que eu fiz, né? Eu entrava ali no final de semana, passava ali os pontos de táxi, fiz um acordo lá com os gerentes do ponto de táxi onde eles me pagavam a planilha. Dá para ganhar dinheiro com esse troço? Óbvio que não. Mas tudo que eu queria ali era validar se de fato as pessoas estariam dispostas a pedir táxi pela internet, sem falar com um ser humano, né? Então, puta, foi como a gente começou esse negócio lá. Dá para começar uma startup sem programador? Dá. Eu comecei, né? Ali na Easy Taxi. Cingu é outro caso. Cingu eu já estava capitalizado, eu tinha medido da Easy Taxi, eu tinha contato, aí foi muito mais fácil o início. Eu sempre falo isso, foi fácil o início da jornada, foi tão difícil quanto. Agora, o início foi muito mais fácil. Agora, uma vez que eu fiz o MVP e validei, eu tinha que conseguir um sócio. Como que eu consegui esse sócio? Primeira coisa que eu fiz para poder conseguir o meu sócio foi buscar no meu networking se tinha alguém que eles conheciam que era muito bom nessa função, né? Que era developer. Só que a gente estava falando, gente, de mobile developer em 2011. Ninguém nem sabia o que era isso no Brasil. Você tinha um pouco mais de algumas centenas, talvez alguns poucos milhares de mobile developers no Brasil, né? Praticamente não tinha. Então, eu por uma sorte, eu achei um cara, velho, que chegou a trabalhar comigo no Hortobom, pra quem não sabe, eu cheguei a trabalhar no Hortobom, tá? E aí, puta, tem um cara que trabalhou comigo no Hortobom, que ele era da TI lá, que era um moleque, porra, mega inteligente, sabe esses geniozinhos? Mas o cara, meu irmão, programava Cobol, assim. Cobol é uma coisa de velho, né? Pra quem entende aí. Mas só que ele era um cara que aprendia qualquer coisa, sabe? É um puta autodidata, um cara muito bom, que era o Márcio, meu sócio e ex-head de mobile da EasyTaxi. E eu lembro que eu virei pro Márcio e falei assim, Marção, tô montando uma startup aí, a minha visão é essa, aqui que eu quero chegar. E, cara, só que eu quero fazer um app, sabe? Você sabe fazer app? E aí o Márcio falou assim, olha, eu não faço a mínima ideia, mas eu tenho certeza que eu aprendo. E eu tinha conhecido ele, eu vi que o moleque era inteligente mesmo. Eu falei, pô, ele vai aprender. E aí, puta, eu virei pro Márcio e falei, cara, vamos fazer o seguinte, pra fazer mais simples ainda, vamos fazer um sistema web primeiro, né? A gente foi e fez um sistema web, onde a gente rodava EasyTaxi web aí aprendendo como rodar a operação e tal. E aí, depois desse sistema web ter funcionado muito bem, que a gente fez ali o nosso aplicativo, sei lá, uns quatro meses depois, tá? Mas, por muito tempo, ficamos ali em sistema web. E aí o resto da história vocês conhecem, né? 35 países, um bilhão de evaluation, enfim. Agora, até chegar no Márcio, né? Eu tive que ralar um pouco ali sozinho, sem um programador. Então, como é que você monta um protótipo de um negócio, por exemplo, pra você apresentar num pitch deck pro investidor ou apresentar pro próprio Márcio, né? Meu sócio, né? Eu montei um protótipo desse troço, junto com um amigo meu que é designer, que me ajudou bastante na época, numa ferramenta chamada InVision. Então, anota aí, InVision. No InVision, você consegue subir ali uma JPEG, se eu não me engano, né? E aí, com isso, você consegue montar o seu protótipo funcional ali, tá? Então, é tão fácil quanto isso. Você senta com um designer, desenha mais ou menos o que seriam as suas telas, desenha o fluxo. Pega um papelzinho mesmo, sabe? Faz aquele organograma ali, dizendo o que seriam os fluxos do seu aplicativo e você monta isso no InVision. O InVision, cara, é uma ferramenta bem acessível e, puta, faz todo sentido pra todo mundo validar primeiro se o negócio funciona ou não através do InVision, tá? Então, entrou ali pelo InVision, pega aquele protótipo ali e entrega na mão de uma pessoa, que seria o teu usuário, né? A tua persona, e pede ele pra poder completar o fluxo. Se ele completa esse fluxo, provavelmente a gente tá no caminho certo ali, né? De fazer um produto que, pelo menos, funciona do ponto de vista de UX. Mas, se eu tô começando uma startup sem programador, o que eu tenho que pensar é qual é o MVP que eu consigo fazer e que eu consigo rodar, né? Principalmente. Então, esse meu MVP\n\nTrês corridas por dia, cinco corridas por dia, então é tão simples quanto isso. Singular é outro caso, né gente? Singul, quando eu montei a Singul, só para quem não me acompanha desde lá, né? Eu vendi esse táxi e montei uma venture builder, que chama eGenius. Nessa venture builder, a gente construiu ali alguns negócios, né? O Easy Carros, que existe até hoje, que é um serviço que leva mecânicos e pessoal que lava carro na casa das pessoas nas empresas. Acabou que eles pivotaram para fazer um serviço B2B, estão indo super bem. Então o Fernando Sadiq é o cofundador, a gente criou dentro da nossa venture builder. A gente construiu a Singul, né? Nessa época e depois o pessoal ajudou a construir lá a Bicambio. Então foram vários negócios que foram construídos ali dentro dessa venture builder. Só que quando eu construí a Singul, que eu pesquisei o mercado, comecei a Singul, eu falei, puta, esse negócio é grande pra caramba, né? E aí, obviamente, que eu me dediquei 100% à Singul, eu fiz uma troca de ações com os meus sócios e fiquei só com o Singul. Acabou que funcionou bem, né? Ao nos juntar com a Natura agora, é meu segundo grande sucesso da vida. Mas o importante é a gente entender que quando eu fiz a Singul, eu já tinha um time de produto. Então, puta, o meu MVP, ele foi bem mais completo do que foi esse táxi. Porque eu tinha um time de front-end developer, back-end developer, um PO, eu tinha um designer. Então, puta, a gente fez um app super bonitinho ali, que a gente tirou em três semanas do chão e botou pra rodar. Eu me lembro que antes disso, pra validar, validar mesmo, a gente meio que fez um blog ali, onde eu mudei, em vez de post no blog, eu colocava os serviços que a gente contratava, e eu ligava nos salões, na casa que faz massagem. E aí eu acabava meio que fazendo essa intermediação por telefone. Inclusive foi muito legal, porque a gente deu uma puta sorte. Em 2015, quando a gente tava lançando a Singul, tava no MVP ainda, tava no primeiro versão do app ali, que era MVPzinho mesmo, a gente foi capa da Verginha São Paulo, falando dos serviços via aplicativo e tal, e a Singul era um baita destaque lá. A editora da Verginha São Paulo até usou Singul, foi a personagem da foto e tal. E cara, aquilo bombou a gente de demanda, e era legal, porque a Singul tinha tudo que vocês imaginam, personal trainer, professor de yoga, um monte de coisa. Era meio que pra ser um business de beleza e bem-estar, então eu queria englobar tudo ali. E aí eu fui e entendi que não faz sentido você fazer com profissionais onde você não consegue criar serviços que são codificáveis, que eu crio um código de execução, pra que a variação de percepção de qualidade seja ínfima, de modo que você não queira me desintermediar, e tinham que ser serviços que eu conseguia também entregar imediatamente. Além disso, uma característica que a gente percebeu que marketplace só funciona se forem serviços comoditizáveis, ou seja, commodity, praticamente tanto faz quem faz, que a execução vai ser mais ou menos a mesma. E por fim, quanto maior é a necessidade de capacitação pra execução de um determinado serviço, maior a tendência de você ser desintermediado. Então por isso que a gente acabou focando em depilação, massagem, manicure, que tem essas características, que são antagônicas a essas características negativas que eu falei com vocês, que acaba causando uma desintermediação que, por sua vez, traz uma recorrência menor, com a hot retention menor, diminui o meu LTV, e aí o negócio não fica sustentável. Voltando aqui pra MVP, como começar a startup sem o programador, talvez você esteja se perguntando, né? Puta, e como que eu trago esse cara se eu não tenho dinheiro? Long story short, né? Basicamente o que a gente faz é fazer um contrato onde eu vou doar participação da minha empresa pra essas pessoas, a gente chama de um contrato de equity, que vão ter duas cláusulas, né? Que é a cláusula de vesting, onde eu vou parcelar a quantidade de ações que eu vou doar, e a cláusula de cliff, que é onde eu vou me dar o direito de tirar essa pessoa da sociedade sem onerar a sociedade. Ou seja, eu posso te demitir da minha sociedade sem ter que pagar nada pra você como sócio. Você abdica dos seus direitos como sócio durante um ano. Se passou um ano, eu não te tirei da minha sociedade, aí puta, tamo alinhado, né? Aí você começa a virar sócio, você começa a vestir ali. Mas é importante destacar isso, né? Não precisa ter dinheiro pra começar uma startup, não precisa ter dinheiro pra começar um time, porque o teu primeiro cliente é teu sócio. Até postei isso hoje. Você tem que ter a capacidade de atrair esse sócio, e não necessariamente tem que atraí-lo com dinheiro, né? Pode ser com equity. Agora, isso depende de você. Ao bem da verdade, né? O cara precisa conseguir viver. Ele precisa conseguir pagar suas contas. Se ele não tiver uma reserva de capital, ele não vai topar ser seu sócio. Então você tem que também contar que ele tenha uma reserva de capital. Se você arrumar um recurso pra poder garantir que aqueles bons sócios, potenciais bons sócios, que não têm reserva de capital, consigam se manter ali pelo menos, de repente o cara fala, olha velho, eu ganho 10 pau aqui, lembrei onde eu trabalho, mas eu consigo viver com 5. Então, pô, eu topo ganhar 5 aí, se você me der equity. Ótimo, né? A gente chama de haircut isso. O cara toma um haircut e começa a trabalhar com você pra você complementar o pagamento dele com equity. Inclusive, vou dar uma... até uma fast forward aqui nessa aula. Está uma aula bem inicial, mas vou falar aqui de CEO pra CEO, pra quem está nessa jornada aonde eu estou agora. Uma das formas que eu tenho, um dos hacks que eu tenho pra trazer gente boa, que é muito cara no mercado, é eu faço um cálculo de quanto que ele está deixando na mesa pra poder vir trabalhar comigo. Então, nesse caso, a gente falou que o cara que ganha 10 está deixando 5 na mesa, né? Está deixando 60 pau o ano na mesa. E eu pego esse valor que ele deixou em ano na mesa, 60 pau, e coloco um multiplicador. Então, digamos que é o seguinte, cara, a cada um real que você deixar na mesa, eu vou te dar 3 em ação. Então, porra, isso daria 180 pau em ação. E aí, digamos que a gente vai colocar, pra facilitar a conta aqui, o valuation da empresa inicial ali, que está só na ideia, em 1 milhão e 800. Então, pô, eu vou te dar 10% da minha empresa pra você vir trabalhar. Então, eu te dou 5 pau de salário e te dou mais 10% da minha empresa pra ter você comitado aqui, pra ter você no risco. Ou seja, a cada um real que você deixou na mesa, eu te dou 3 reais em ações da companhia a serem realizadas em um evento de liquidez, em um IPO, whatever. Vamos lá! Uma vez que eu consegui, então, fazer meu MVP, testar meu MVP no mercado, eventualmente fiz o InVision, como a gente falou agora. Mas mais do que isso, né? Eu tô agora conseguindo atrair um sócio programador pra começar o meu negócio. Então, o que eu quero fazer agora? Eu quero sentar com esse sócio e definir quais são as avenidas que a gente vai percorrer na construção do produto. Da onde que vem essa decisão? Então, vem das minhas diretrizes estratégicas. Vou deixar um exerciciozinho pra vocês agora que estão começando o seu negócio. Senta com os seus sócios e defina quais são as três principais diretrizes estratégicas que vocês querem atingir nesses próximos três meses. Então, uma diretriz estratégica por mês, tá? Com base nessa diretriz estratégica...\n\nFaz um plano de execução mesmo. Então eu não vou nem falar de PMO aqui não, é um negócio tão simples quanto. Coloca ali quais são as ações que vocês deveriam executar para poder realizar essas diretrizes estratégicas. Coloca uma data para poder realizar cada ação, tá? Se não tiver data, fudeu, não vai andar. E coloca alguém como responsável por aquelas ações. Alguns dos sócios têm que ser responsáveis por aquelas ações. Feito isso, você vai ter uma visibilidade melhor de o que o seu produto precisa ter para que você atinja aquelas ações, perdão, para que você realize aquelas ações, de modo que você atinja aquele direcionamento estratégico, aquela diretriz estratégica. Se você fizer isso que eu estou te falando, você já vai estar gerindo melhor que 80% dos gestores que eu já conheci na minha vida, porque a galera toca o negócio, é uma caralha mesmo, entendeu? Não para para poder planejar ali. E qual que é o problema? Vocês vão ver que o mais difícil nesse momento é você fazer as escolhas certas. O gestor bom é aquele gestor que consegue percorrer as avenidas de crescimento certas. E o problema é que assim, quando você está em uma grande companhia, você tem tempo e recurso para poder errar as avenidas. Então eu estou em uma avenida aqui e falo, puta, errei. Se no trimestre que vem eu vou tentar outra avenida. Ah, errei, tudo bem. Se no trimestre que vem eu vou tentar outra. Agora aqui na startup é, você errou, querido, você morreu. A startup é um grupo de pessoas em busca de um modelo escalável e sustentável de negócio. Tão simples quanto isso, tá? O que mata a startup? O que mata a startup é a falta de recurso, pô. Sei lá, o Uber queima, perde 3 bilhões de dólares por ano. 3 bilhões de dólares por ano. Se o Uber não tivesse um arcabouço de grandes investidores ali fomentando, se não tivesse feito o IPO, ele já teria quebrado. Eles perdem 3 bilhões de dólares por ano. Então o que mata uma startup? É falta de dinheiro, tão simples quanto isso. Então o que um bom founder de startup tem que fazer? Ele tem que se adaptar o mais rápido possível a mudanças. Então qual que é a forma que eu utilizo para poder ficar capacitado para me adaptar o mais rápido possível a mudanças? Primeiro é mapear essas diretrizes estratégicas e tentar aí fazer as melhores escolhas possíveis das avenidas de crescimento que eu vou percorrer, dado os dados que eu tenho. E essa é a grande dificuldade. Por quê? Geralmente você tem 10% das informações que você precisa para tomar uma decisão crucial que vai matar o seu negócio. Eu passei por isso pra caramba na Easy Taxi, passei por isso pra caramba na Simbu. Então, puta, sei lá, lembrar uma mudança importante aqui na Easy Taxi no iniciozinho. O nosso modelo de monetização era o PPU, né? Pay Per Use, que eu tinha definido, que basicamente eu pegava o pranchetinho e ganhava R$2 por cada pessoa que ele colocava dentro do táxi, né? Eu substituí esse cara. Então minha proposta de valor era, deixa eu substituir o pranchetinho, me dá R$2 por corrida. Fiz o PPU e estava funcionando muito bem, até que em 2013, dois anos depois, surgiu a 99 e ela veio de graça, né? Tipo, quando elas vieram e ficaram de graça, a gente foi obrigado a parar de cobrar também, né? Foi aí que começou essa putaria toda no mercado, de ninguém ganhar dinheiro com isso. Mas até então estava bonito o modelo de monetização, né? A gente ganhava dinheiro pra caramba com esse negócio, cobrando R$2. Aí depois a gente mudou esse modelo e foi pro FII, no percentual de pagamento ali, né? Ganhar um percentual do que é cobrado de pagamento na corrida, né? O que obviamente baixou pra caramba a nossa margem, consequentemente o EBITDA. Mas o player é outro, né? Um player de crescimento, de rodadas de fã, de outro negócio. Na Simbu, a gente passou por um momento muito complexo também. Eu me lembro que quando a gente começou a Simbu, o que eu resolvi manter? Resolvi manter os serviços que a gente tem hoje, mas manter os serviços que a gente tem hoje, mais o serviço de maquiagem. Porque maquiagem é um ticket médio, puta, bom pra caramba, né? Mas só que é um serviço muito complexo de rodar, cara, porque um kit de maquiagem é caro. Pra vocês terem ideia, um kit, sei lá, básico de maquiagem custa R$10, R$12 mil, mais ou menos, sabe? Básico pra um profissional trabalhar. É um negócio muito longe da realidade do brasileiro, né? A gente tem aí, se eu não me engano, quase 80% da população brasileira vive com salário mínimo. Então, tipo assim, é um negócio assustador, né? Quando você sai da bolha e olha a realidade. Não é a realidade nossa com internet boa pra ver live no smartphone. A gente é bolha da bolha, tá? Vamos cair na real aqui. O Brasil de verdade mesmo vive com salário mínimo. Então esse é um dinheiro inimaginável pra essas pessoas, né? Então a gente falou, cara, é um negócio que é difícil trazer provider, né? Como a gente chama, trazer os artistas, os prestadores de serviço, perdão. E é difícil também codificar esse serviço, porque maquiagem é um trabalho muito artístico, né? Então, puta, falei, cara, vai ser mega difícil pra gente eventualmente criar um código de execução de serviço pra garantir que todo serviço de maquiagem vai ser praticamente igual aos outros. Diferente do que eu consigo fazer em massagem, do que eu consigo fazer em unha e tal. Então, o que a gente decidiu fazer? Tirar a maquiagem. Só que maquiagem, naquele momento da Simbu, era 30% da minha receita. Então vocês imaginam eu virando pros meus sócios e falando assim, galera, eu sei que essa decisão é polêmica, parte dos sócios queriam tirar a maquiagem, parte não queriam, virar pros meus acionistas, meus investidores e falar assim, galera, eu vou tirar 30% da nossa receita, porque tirando isso eu vou livrar meu time pra que eu consiga percorrer as nossas outras avenidas de crescimento. Essa aqui eu acho que vai ser muito mais dura de percorrer. Dado os nossos recursos, eu acho que não faz sentido. Foi um ato de muita coragem da nossa gestão ali. A gente perdeu um terço da nossa receita num momento que era crucial pra gente, ali no iniciozinho de Singur. Isso tá falando de 2016, então a gente tinha um pouco menos de um ano de vida. Dois exemplos aí de direcionamento estratégico e decisões que a gente tem que tomar com pouca informação. Mas, bom, foi a melhor escolha que eu poderia fazer. Singur hoje é a maior plataforma do segmento em termos de pedido. Nós somos a maior da América Latina. A gente teve um assessment, acesso a esse assessment em todas as plataformas da América Latina. Falamos com eles, contratamos uma boutique de M&A que falou com eles também. Então nós somos a maior da América Latina e só somos os maiores da América Latina porque a gente escolheu as avenidas de crescimento corretas. Então o conselho que eu deixo para vocês aqui, quais são minhas diretrizes estratégicas? Quais são as avenidas de crescimento que eu vou percorrer para poder atingir essas diretrizes estratégicas? Quem vai ser responsável por cada avenida de crescimento? Qual é a data que eu vou entregar as ações que estão previstas para percorrer essas avenidas de crescimento? O que o meu produto precisa se adaptar para que eu percorra essas avenidas de crescimento? Tão simples quanto isso, o difícil é executar no dia a dia. Então, puta, tenha acompanhamento, tenha essa anotada na agenda, porque senão não faz. E aqui, quem me segue sabe, né? Eu tento ser extremamente prático, sair do mundo das ideias que o pessoal fica falando aí, porque eu vivo isso no meu dia a dia. Eu estou só falando para vocês o que eu faço todos os dias da minha vida, desde que eu comecei a fazer esse negócio. Trabalho desde 14 anos, tenho startup desde 2011, comecei com o Status. Então tem muitos anos que eu vivo isso que eu estou falando. Por isso que quando eu falo parece simples, assim, porque faz muito parte do meu dia a dia. Então eu tento simplificar o máximo possível para vocês. Mas eu já aviso, o difícil não é entender o que tem que ser feito, tá? Não tem fórmula mágica aqui. O difícil é fazer no dia a dia, com consistência. Como você fala, né? Disciplina e consistência. E aí, gostou do episódio? Se sim, não esquece de compartilhar com um amigo. Se for postar nas redes sociais, não deixe de marcar o Instagram do arrobaG4Podcast. Eu quero saber realmente o que você achou. Um abraço e até o próximo episódio.",
+  "word_count": 4379,
+  "chunks_used": 3,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "timestamp": "00:00",
+      "text": "Fala, galera!"
+    },
+    {
+      "start": 0.78,
+      "end": 9.18,
+      "timestamp": "00:00",
+      "text": "Eu sou o Tales Gomes e esse é um episódio do Papo de Gestão, um podcast do G4 Educação em que eu converso com os maiores gestores do Brasil."
+    },
+    {
+      "start": 9.18,
+      "end": 24.07,
+      "timestamp": "00:09",
+      "text": "Aqui você vai aprender as lições que eu gostaria de ter escutado na minha trajetória e vai participar de conversas com pessoas que eu admiro sobre gestão, liderança, alta performance e outros assuntos que são necessários para você ser um líder 4.0."
+    },
+    {
+      "start": 24.07,
+      "end": 31.33,
+      "timestamp": "00:24",
+      "text": "E no final, não esquece de ir no Instagram do arroba G4 Podcast para me falar o que você está achando sobre esse projeto."
+    },
+    {
+      "start": 31.33,
+      "end": 35.41,
+      "timestamp": "00:31",
+      "text": "Antes de iniciar, quero te falar um pouco melhor sobre o que é o G4."
+    },
+    {
+      "start": 35.41,
+      "end": 37.99,
+      "timestamp": "00:35",
+      "text": "Nós somos a evolução da escola de negócios."
+    },
+    {
+      "start": 37.99,
+      "end": 43.09,
+      "timestamp": "00:37",
+      "text": "Nós traduzimos as práticas das empresas que mais crescem no mundo para o seu negócio."
+    },
+    {
+      "start": 43.09,
+      "end": 46.57,
+      "timestamp": "00:43",
+      "text": "Eu sou mentor de um dos produtos, o G4 Imersão e Mentoria."
+    },
+    {
+      "start": 46.57,
+      "end": 48.01,
+      "timestamp": "00:46",
+      "text": "Ela possui três pilares."
+    },
+    {
+      "start": 48.01,
+      "end": 55.4,
+      "timestamp": "00:48",
+      "text": "Primeiro, conteúdo de altíssima qualidade que trazem as práticas das empresas que mais crescem no mundo para o seu negócio."
+    },
+    {
+      "start": 55.4,
+      "end": 67.82,
+      "timestamp": "00:55",
+      "text": "Segundo, mentorias em que você pode tirar as suas dúvidas com os mentores, como eu, e que não são professores, mas sim empresários bem-sucedidos que já passaram pelos desafios que você está enfrentando hoje."
+    },
+    {
+      "start": 67.82,
+      "end": 73.64,
+      "timestamp": "01:07",
+      "text": "Terceiro, networking com outros gestores, pois sabemos que a jornada do empreendedor é solitária."
+    },
+    {
+      "start": 73.64,
+      "end": 79.04,
+      "timestamp": "01:13",
+      "text": "E por isso, oferecemos um ambiente onde você pode fazer relacionamentos e também negócios."
+    },
+    {
+      "start": 79.04,
+      "end": 92.49,
+      "timestamp": "01:19",
+      "text": "Se você quiser ser mentorado por mim e outros empreendedores, é só entrar em g4educacão.com barra mentoria ou ir na descrição desse episódio e clicar no link para se inscrever no processo de seleção do G4 Imersão e Mentoria."
+    },
+    {
+      "start": 92.49,
+      "end": 101.61,
+      "timestamp": "01:32",
+      "text": "Nela, você terá três dias comigo, Alfredo e Bruno, e também acessam a plataforma com conteúdos exclusivos para transformar o seu negócio após a imersão."
+    },
+    {
+      "start": 101.61,
+      "end": 107.37,
+      "timestamp": "01:41",
+      "text": "Um verdadeiro MBA de três dias, com lições que você já irá aplicar um dia depois na sua empresa."
+    },
+    {
+      "start": 107.37,
+      "end": 107.97,
+      "timestamp": "01:47",
+      "text": "Boa noite!"
+    },
+    {
+      "start": 107.97,
+      "end": 108.51,
+      "timestamp": "01:47",
+      "text": "Vamos lá!"
+    },
+    {
+      "start": 108.51,
+      "end": 117.09,
+      "timestamp": "01:48",
+      "text": "Hoje é um assunto bem transformador na minha vida, sobre como eu consegui começar um negócio sem a presença de um programador, de um developer."
+    },
+    {
+      "start": 117.09,
+      "end": 122.8,
+      "timestamp": "01:57",
+      "text": "Então, eu pretendo ensinar a vocês aqui nas próximas 20, 30 minutos sobre como que eu fiz isso."
+    },
+    {
+      "start": 122.8,
+      "end": 123.34,
+      "timestamp": "02:02",
+      "text": "Vamos lá!"
+    },
+    {
+      "start": 123.34,
+      "end": 126.16,
+      "timestamp": "02:03",
+      "text": "Como que eu comecei a EasyTaxi sem programador?"
+    },
+    {
+      "start": 126.16,
+      "end": 127.54,
+      "timestamp": "02:06",
+      "text": "Eu não sabia programar."
+    },
+    {
+      "start": 127.54,
+      "end": 132.94,
+      "timestamp": "02:07",
+      "text": "Quer dizer, eu sabia o básico ali, mas não conseguia fazer o produto como ele deveria ser."
+    },
+    {
+      "start": 132.94,
+      "end": 134.14,
+      "timestamp": "02:12",
+      "text": "Então, o que eu fiz?"
+    },
+    {
+      "start": 134.14,
+      "end": 146.68,
+      "timestamp": "02:14",
+      "text": "O meu MVP, que eu já ensinei para vocês aqui o que é, aquele protótipo funcional, eu peguei um blog pré-pronto e coloquei um formulário de e-mail onde eu perguntava o nome, o endereço e o telefone das pessoas."
+    },
+    {
+      "start": 146.68,
+      "end": 150.1,
+      "timestamp": "02:26",
+      "text": "E aí, o botão de pedir táxi, eu mudei o front-end para..."
+    },
+    {
+      "start": 150.1,
+      "end": 152.14,
+      "timestamp": "02:30",
+      "text": "Quer dizer, era enviar e-mail, né?"
+    },
+    {
+      "start": 152.14,
+      "end": 155.27,
+      "timestamp": "02:32",
+      "text": "Eu mudei o front-end para ser o botão de pedir táxi."
+    },
+    {
+      "start": 155.27,
+      "end": 160.79,
+      "timestamp": "02:35",
+      "text": "Então, na prática, era o seguinte, era um formulário que você preenchia, clicava pedir táxi."
+    },
+    {
+      "start": 160.79,
+      "end": 162.11,
+      "timestamp": "02:40",
+      "text": "Lá em 2011, né, gente?"
+    },
+    {
+      "start": 162.11,
+      "end": 164.75,
+      "timestamp": "02:42",
+      "text": "4% da população brasileira tinha smartphone."
+    },
+    {
+      "start": 164.75,
+      "end": 170.27,
+      "timestamp": "02:44",
+      "text": "Então, naquele momento ali, eu consegui validar o meu negócio sem ter que mexer em software."
+    },
+    {
+      "start": 170.27,
+      "end": 176.39,
+      "timestamp": "02:50",
+      "text": "Então, eu entrei num lugar chamado ThemeForest, que tinha uns frameworks ali de site, tudo pré-pronto."
+    },
+    {
+      "start": 176.39,
+      "end": 180.29,
+      "timestamp": "02:56",
+      "text": "Só subi esse troço para o servidor e aí consegui fazer o meu MVP."
+    },
+    {
+      "start": 180.29,
+      "end": 183.11,
+      "timestamp": "03:00",
+      "text": "E aí, como é que funcionava por trás desse MVP?"
+    },
+    {
+      "start": 183.11,
+      "end": 189.3,
+      "timestamp": "03:03",
+      "text": "Eu recebia esses dados ali no meu e-mail, eu copiava o endereço, colava na área ali do Google Maps, né?"
+    },
+    {
+      "start": 189.3,
+      "end": 193.74,
+      "timestamp": "03:09",
+      "text": "E aí, no Google Maps, eu usava uma função chamada pontos de táxi ao redor."
+    },
+    {
+      "start": 193.74,
+      "end": 209.22,
+      "timestamp": "03:13",
+      "text": "Ao usar o pontos de táxi ao redor, eu achava os pontos de táxi, ligava para os pontos de táxi, conseguia o táxi para a pessoa, mandava SMS para a pessoa com as informações do táxi e aí, 10 minutos depois, eu entrava em contato para saber se de fato embarcou."
+    },
+    {
+      "start": 209.22,
+      "end": 212.34,
+      "timestamp": "03:29",
+      "text": "Embarcou, eu marcava na minha pranilha que embarcou."
+    },
+    {
+      "start": 212.34,
+      "end": 220.32,
+      "timestamp": "03:32",
+      "text": "Fui fazendo isso ao longo das semanas e ia semanalmente lá nos pontos de táxi e pedia com que esses caras me pagassem a planilha, né?"
+    },
+    {
+      "start": 220.32,
+      "end": 224.17,
+      "timestamp": "03:40",
+      "text": "Porque eles tinham a figura do prancheta antes da Easy Taxi, né?"
+    },
+    {
+      "start": 224.17,
+      "end": 229.15,
+      "timestamp": "03:44",
+      "text": "O prancheta era aquele rapaz que ficava com a pranchetinha embarcando você no táxi."
+    },
+    {
+      "start": 229.15,
+      "end": 232.21,
+      "timestamp": "03:49",
+      "text": "Cada vez que ele te embarcava, ele ganhava 2 reais."
+    },
+    {
+      "start": 232.21,
+      "end": 234.37,
+      "timestamp": "03:52",
+      "text": "E aí, basicamente, o que eu fiz, né?"
+    },
+    {
+      "start": 234.37,
+      "end": 243.25,
+      "timestamp": "03:54",
+      "text": "Eu entrava ali no final de semana, passava ali os pontos de táxi, fiz um acordo lá com os gerentes do ponto de táxi onde eles me pagavam a planilha."
+    },
+    {
+      "start": 243.25,
+      "end": 245.59,
+      "timestamp": "04:03",
+      "text": "Dá para ganhar dinheiro com esse troço?"
+    },
+    {
+      "start": 245.59,
+      "end": 246.43,
+      "timestamp": "04:05",
+      "text": "Óbvio que não."
+    },
+    {
+      "start": 246.43,
+      "end": 254.84,
+      "timestamp": "04:06",
+      "text": "Mas tudo que eu queria ali era validar se de fato as pessoas estariam dispostas a pedir táxi pela internet, sem falar com um ser humano, né?"
+    },
+    {
+      "start": 254.84,
+      "end": 258.08,
+      "timestamp": "04:14",
+      "text": "Então, puta, foi como a gente começou esse negócio lá."
+    },
+    {
+      "start": 258.08,
+      "end": 260.72,
+      "timestamp": "04:18",
+      "text": "Dá para começar uma startup sem programador?"
+    },
+    {
+      "start": 260.72,
+      "end": 260.9,
+      "timestamp": "04:20",
+      "text": "Dá."
+    },
+    {
+      "start": 260.9,
+      "end": 261.8,
+      "timestamp": "04:20",
+      "text": "Eu comecei, né?"
+    },
+    {
+      "start": 261.8,
+      "end": 262.82,
+      "timestamp": "04:21",
+      "text": "Ali na Easy Taxi."
+    },
+    {
+      "start": 262.82,
+      "end": 263.96,
+      "timestamp": "04:22",
+      "text": "Cingu é outro caso."
+    },
+    {
+      "start": 263.96,
+      "end": 270.8,
+      "timestamp": "04:23",
+      "text": "Cingu eu já estava capitalizado, eu tinha medido da Easy Taxi, eu tinha contato, aí foi muito mais fácil o início."
+    },
+    {
+      "start": 270.8,
+      "end": 275.3,
+      "timestamp": "04:30",
+      "text": "Eu sempre falo isso, foi fácil o início da jornada, foi tão difícil quanto."
+    },
+    {
+      "start": 275.3,
+      "end": 277.52,
+      "timestamp": "04:35",
+      "text": "Agora, o início foi muito mais fácil."
+    },
+    {
+      "start": 277.52,
+      "end": 282.02,
+      "timestamp": "04:37",
+      "text": "Agora, uma vez que eu fiz o MVP e validei, eu tinha que conseguir um sócio."
+    },
+    {
+      "start": 282.02,
+      "end": 283.94,
+      "timestamp": "04:42",
+      "text": "Como que eu consegui esse sócio?"
+    },
+    {
+      "start": 283.94,
+      "end": 293.43,
+      "timestamp": "04:43",
+      "text": "Primeira coisa que eu fiz para poder conseguir o meu sócio foi buscar no meu networking se tinha alguém que eles conheciam que era muito bom nessa função, né?"
+    },
+    {
+      "start": 293.43,
+      "end": 294.51,
+      "timestamp": "04:53",
+      "text": "Que era developer."
+    },
+    {
+      "start": 294.51,
+      "end": 298.47,
+      "timestamp": "04:54",
+      "text": "Só que a gente estava falando, gente, de mobile developer em 2011."
+    },
+    {
+      "start": 298.47,
+      "end": 301.05,
+      "timestamp": "04:58",
+      "text": "Ninguém nem sabia o que era isso no Brasil."
+    },
+    {
+      "start": 301.05,
+      "end": 307.71,
+      "timestamp": "05:01",
+      "text": "Você tinha um pouco mais de algumas centenas, talvez alguns poucos milhares de mobile developers no Brasil, né?"
+    },
+    {
+      "start": 307.71,
+      "end": 309.09,
+      "timestamp": "05:07",
+      "text": "Praticamente não tinha."
+    },
+    {
+      "start": 309.09,
+      "end": 318.15,
+      "timestamp": "05:09",
+      "text": "Então, eu por uma sorte, eu achei um cara, velho, que chegou a trabalhar comigo no Hortobom, pra quem não sabe, eu cheguei a trabalhar no Hortobom, tá?"
+    },
+    {
+      "start": 318.15,
+      "end": 327.04,
+      "timestamp": "05:18",
+      "text": "E aí, puta, tem um cara que trabalhou comigo no Hortobom, que ele era da TI lá, que era um moleque, porra, mega inteligente, sabe esses geniozinhos?"
+    },
+    {
+      "start": 327.04,
+      "end": 329.86,
+      "timestamp": "05:27",
+      "text": "Mas o cara, meu irmão, programava Cobol, assim."
+    },
+    {
+      "start": 329.86,
+      "end": 331.72,
+      "timestamp": "05:29",
+      "text": "Cobol é uma coisa de velho, né?"
+    },
+    {
+      "start": 331.72,
+      "end": 332.92,
+      "timestamp": "05:31",
+      "text": "Pra quem entende aí."
+    },
+    {
+      "start": 332.92,
+      "end": 336.58,
+      "timestamp": "05:32",
+      "text": "Mas só que ele era um cara que aprendia qualquer coisa, sabe?"
+    },
+    {
+      "start": 336.58,
+      "end": 342.64,
+      "timestamp": "05:36",
+      "text": "É um puta autodidata, um cara muito bom, que era o Márcio, meu sócio e ex-head de mobile da EasyTaxi."
+    },
+    {
+      "start": 342.64,
+      "end": 350.68,
+      "timestamp": "05:42",
+      "text": "E eu lembro que eu virei pro Márcio e falei assim, Marção, tô montando uma startup aí, a minha visão é essa, aqui que eu quero chegar."
+    },
+    {
+      "start": 350.68,
+      "end": 353.32,
+      "timestamp": "05:50",
+      "text": "E, cara, só que eu quero fazer um app, sabe?"
+    },
+    {
+      "start": 353.32,
+      "end": 354.52,
+      "timestamp": "05:53",
+      "text": "Você sabe fazer app?"
+    },
+    {
+      "start": 354.52,
+      "end": 360.35,
+      "timestamp": "05:54",
+      "text": "E aí o Márcio falou assim, olha, eu não faço a mínima ideia, mas eu tenho certeza que eu aprendo."
+    },
+    {
+      "start": 360.35,
+      "end": 364.43,
+      "timestamp": "06:00",
+      "text": "E eu tinha conhecido ele, eu vi que o moleque era inteligente mesmo."
+    },
+    {
+      "start": 364.43,
+      "end": 366.29,
+      "timestamp": "06:04",
+      "text": "Eu falei, pô, ele vai aprender."
+    },
+    {
+      "start": 366.29,
+      "end": 374.75,
+      "timestamp": "06:06",
+      "text": "E aí, puta, eu virei pro Márcio e falei, cara, vamos fazer o seguinte, pra fazer mais simples ainda, vamos fazer um sistema web primeiro, né?"
+    },
+    {
+      "start": 374.75,
+      "end": 381.29,
+      "timestamp": "06:14",
+      "text": "A gente foi e fez um sistema web, onde a gente rodava EasyTaxi web aí aprendendo como rodar a operação e tal."
+    },
+    {
+      "start": 381.29,
+      "end": 389.27,
+      "timestamp": "06:21",
+      "text": "E aí, depois desse sistema web ter funcionado muito bem, que a gente fez ali o nosso aplicativo, sei lá, uns quatro meses depois, tá?"
+    },
+    {
+      "start": 389.27,
+      "end": 392.22,
+      "timestamp": "06:29",
+      "text": "Mas, por muito tempo, ficamos ali em sistema web."
+    },
+    {
+      "start": 392.22,
+      "end": 394.86,
+      "timestamp": "06:32",
+      "text": "E aí o resto da história vocês conhecem, né?"
+    },
+    {
+      "start": 394.86,
+      "end": 397.38,
+      "timestamp": "06:34",
+      "text": "35 países, um bilhão de evaluation, enfim."
+    },
+    {
+      "start": 397.38,
+      "end": 399.3,
+      "timestamp": "06:37",
+      "text": "Agora, até chegar no Márcio, né?"
+    },
+    {
+      "start": 399.3,
+      "end": 402.84,
+      "timestamp": "06:39",
+      "text": "Eu tive que ralar um pouco ali sozinho, sem um programador."
+    },
+    {
+      "start": 402.84,
+      "end": 412.26,
+      "timestamp": "06:42",
+      "text": "Então, como é que você monta um protótipo de um negócio, por exemplo, pra você apresentar num pitch deck pro investidor ou apresentar pro próprio Márcio, né?"
+    },
+    {
+      "start": 412.26,
+      "end": 413.1,
+      "timestamp": "06:52",
+      "text": "Meu sócio, né?"
+    },
+    {
+      "start": 413.1,
+      "end": 421.56,
+      "timestamp": "06:53",
+      "text": "Eu montei um protótipo desse troço, junto com um amigo meu que é designer, que me ajudou bastante na época, numa ferramenta chamada InVision."
+    },
+    {
+      "start": 421.56,
+      "end": 423.12,
+      "timestamp": "07:01",
+      "text": "Então, anota aí, InVision."
+    },
+    {
+      "start": 423.12,
+      "end": 427.39,
+      "timestamp": "07:03",
+      "text": "No InVision, você consegue subir ali uma JPEG, se eu não me engano, né?"
+    },
+    {
+      "start": 427.39,
+      "end": 431.65,
+      "timestamp": "07:07",
+      "text": "E aí, com isso, você consegue montar o seu protótipo funcional ali, tá?"
+    },
+    {
+      "start": 431.65,
+      "end": 433.51,
+      "timestamp": "07:11",
+      "text": "Então, é tão fácil quanto isso."
+    },
+    {
+      "start": 433.51,
+      "end": 439.15,
+      "timestamp": "07:13",
+      "text": "Você senta com um designer, desenha mais ou menos o que seriam as suas telas, desenha o fluxo."
+    },
+    {
+      "start": 439.15,
+      "end": 441.01,
+      "timestamp": "07:19",
+      "text": "Pega um papelzinho mesmo, sabe?"
+    },
+    {
+      "start": 441.01,
+      "end": 447.43,
+      "timestamp": "07:21",
+      "text": "Faz aquele organograma ali, dizendo o que seriam os fluxos do seu aplicativo e você monta isso no InVision."
+    },
+    {
+      "start": 447.43,
+      "end": 457.03,
+      "timestamp": "07:27",
+      "text": "O InVision, cara, é uma ferramenta bem acessível e, puta, faz todo sentido pra todo mundo validar primeiro se o negócio funciona ou não através do InVision, tá?"
+    },
+    {
+      "start": 457.03,
+      "end": 464.18,
+      "timestamp": "07:37",
+      "text": "Então, entrou ali pelo InVision, pega aquele protótipo ali e entrega na mão de uma pessoa, que seria o teu usuário, né?"
+    },
+    {
+      "start": 464.18,
+      "end": 467.42,
+      "timestamp": "07:44",
+      "text": "A tua persona, e pede ele pra poder completar o fluxo."
+    },
+    {
+      "start": 467.42,
+      "end": 472.1,
+      "timestamp": "07:47",
+      "text": "Se ele completa esse fluxo, provavelmente a gente tá no caminho certo ali, né?"
+    },
+    {
+      "start": 472.1,
+      "end": 476.3,
+      "timestamp": "07:52",
+      "text": "De fazer um produto que, pelo menos, funciona do ponto de vista de UX."
+    },
+    {
+      "start": 476.3,
+      "end": 484.82,
+      "timestamp": "07:56",
+      "text": "Mas, se eu tô começando uma startup sem programador, o que eu tenho que pensar é qual é o MVP que eu consigo fazer e que eu consigo rodar, né?"
+    },
+    {
+      "start": 484.82,
+      "end": 485.72,
+      "timestamp": "08:04",
+      "text": "Principalmente."
+    },
+    {
+      "start": 485.72,
+      "end": 491.72,
+      "timestamp": "08:05",
+      "text": "Então, esse meu MVP\n\nTrês corridas por dia, cinco corridas por dia, então é tão simples quanto isso."
+    },
+    {
+      "start": 491.72,
+      "end": 493.65,
+      "timestamp": "08:11",
+      "text": "Singular é outro caso, né gente?"
+    },
+    {
+      "start": 493.65,
+      "end": 498.33,
+      "timestamp": "08:13",
+      "text": "Singul, quando eu montei a Singul, só para quem não me acompanha desde lá, né?"
+    },
+    {
+      "start": 498.33,
+      "end": 502.35,
+      "timestamp": "08:18",
+      "text": "Eu vendi esse táxi e montei uma venture builder, que chama eGenius."
+    },
+    {
+      "start": 502.35,
+      "end": 506.25,
+      "timestamp": "08:22",
+      "text": "Nessa venture builder, a gente construiu ali alguns negócios, né?"
+    },
+    {
+      "start": 506.25,
+      "end": 514.05,
+      "timestamp": "08:26",
+      "text": "O Easy Carros, que existe até hoje, que é um serviço que leva mecânicos e pessoal que lava carro na casa das pessoas nas empresas."
+    },
+    {
+      "start": 514.05,
+      "end": 518.49,
+      "timestamp": "08:34",
+      "text": "Acabou que eles pivotaram para fazer um serviço B2B, estão indo super bem."
+    },
+    {
+      "start": 518.49,
+      "end": 523.59,
+      "timestamp": "08:38",
+      "text": "Então o Fernando Sadiq é o cofundador, a gente criou dentro da nossa venture builder."
+    },
+    {
+      "start": 523.59,
+      "end": 525.45,
+      "timestamp": "08:43",
+      "text": "A gente construiu a Singul, né?"
+    },
+    {
+      "start": 525.45,
+      "end": 529.3,
+      "timestamp": "08:45",
+      "text": "Nessa época e depois o pessoal ajudou a construir lá a Bicambio."
+    },
+    {
+      "start": 529.3,
+      "end": 534.28,
+      "timestamp": "08:49",
+      "text": "Então foram vários negócios que foram construídos ali dentro dessa venture builder."
+    },
+    {
+      "start": 534.28,
+      "end": 542.44,
+      "timestamp": "08:54",
+      "text": "Só que quando eu construí a Singul, que eu pesquisei o mercado, comecei a Singul, eu falei, puta, esse negócio é grande pra caramba, né?"
+    },
+    {
+      "start": 542.44,
+      "end": 549.76,
+      "timestamp": "09:02",
+      "text": "E aí, obviamente, que eu me dediquei 100% à Singul, eu fiz uma troca de ações com os meus sócios e fiquei só com o Singul."
+    },
+    {
+      "start": 549.76,
+      "end": 551.5,
+      "timestamp": "09:09",
+      "text": "Acabou que funcionou bem, né?"
+    },
+    {
+      "start": 551.5,
+      "end": 555.76,
+      "timestamp": "09:11",
+      "text": "Ao nos juntar com a Natura agora, é meu segundo grande sucesso da vida."
+    },
+    {
+      "start": 555.76,
+      "end": 561.47,
+      "timestamp": "09:15",
+      "text": "Mas o importante é a gente entender que quando eu fiz a Singul, eu já tinha um time de produto."
+    },
+    {
+      "start": 561.47,
+      "end": 565.73,
+      "timestamp": "09:21",
+      "text": "Então, puta, o meu MVP, ele foi bem mais completo do que foi esse táxi."
+    },
+    {
+      "start": 565.73,
+      "end": 571.49,
+      "timestamp": "09:25",
+      "text": "Porque eu tinha um time de front-end developer, back-end developer, um PO, eu tinha um designer."
+    },
+    {
+      "start": 571.49,
+      "end": 578.27,
+      "timestamp": "09:31",
+      "text": "Então, puta, a gente fez um app super bonitinho ali, que a gente tirou em três semanas do chão e botou pra rodar."
+    },
+    {
+      "start": 578.27,
+      "end": 591.95,
+      "timestamp": "09:38",
+      "text": "Eu me lembro que antes disso, pra validar, validar mesmo, a gente meio que fez um blog ali, onde eu mudei, em vez de post no blog, eu colocava os serviços que a gente contratava, e eu ligava nos salões, na casa que faz massagem."
+    },
+    {
+      "start": 591.95,
+      "end": 595.86,
+      "timestamp": "09:51",
+      "text": "E aí eu acabava meio que fazendo essa intermediação por telefone."
+    },
+    {
+      "start": 595.86,
+      "end": 599.52,
+      "timestamp": "09:55",
+      "text": "Inclusive foi muito legal, porque a gente deu uma puta sorte."
+    },
+    {
+      "start": 599.52,
+      "end": 614.28,
+      "timestamp": "09:59",
+      "text": "Em 2015, quando a gente tava lançando a Singul, tava no MVP ainda, tava no primeiro versão do app ali, que era MVPzinho mesmo, a gente foi capa da Verginha São Paulo, falando dos serviços via aplicativo e tal, e a Singul era um baita destaque lá."
+    },
+    {
+      "start": 614.28,
+      "end": 619.08,
+      "timestamp": "10:14",
+      "text": "A editora da Verginha São Paulo até usou Singul, foi a personagem da foto e tal."
+    },
+    {
+      "start": 619.08,
+      "end": 628.51,
+      "timestamp": "10:19",
+      "text": "E cara, aquilo bombou a gente de demanda, e era legal, porque a Singul tinha tudo que vocês imaginam, personal trainer, professor de yoga, um monte de coisa."
+    },
+    {
+      "start": 628.51,
+      "end": 633.91,
+      "timestamp": "10:28",
+      "text": "Era meio que pra ser um business de beleza e bem-estar, então eu queria englobar tudo ali."
+    },
+    {
+      "start": 633.91,
+      "end": 654.55,
+      "timestamp": "10:33",
+      "text": "E aí eu fui e entendi que não faz sentido você fazer com profissionais onde você não consegue criar serviços que são codificáveis, que eu crio um código de execução, pra que a variação de percepção de qualidade seja ínfima, de modo que você não queira me desintermediar, e tinham que ser serviços que eu conseguia também entregar imediatamente."
+    },
+    {
+      "start": 654.55,
+      "end": 667.28,
+      "timestamp": "10:54",
+      "text": "Além disso, uma característica que a gente percebeu que marketplace só funciona se forem serviços comoditizáveis, ou seja, commodity, praticamente tanto faz quem faz, que a execução vai ser mais ou menos a mesma."
+    },
+    {
+      "start": 667.28,
+      "end": 675.74,
+      "timestamp": "11:07",
+      "text": "E por fim, quanto maior é a necessidade de capacitação pra execução de um determinado serviço, maior a tendência de você ser desintermediado."
+    },
+    {
+      "start": 675.74,
+      "end": 696.93,
+      "timestamp": "11:15",
+      "text": "Então por isso que a gente acabou focando em depilação, massagem, manicure, que tem essas características, que são antagônicas a essas características negativas que eu falei com vocês, que acaba causando uma desintermediação que, por sua vez, traz uma recorrência menor, com a hot retention menor, diminui o meu LTV, e aí o negócio não fica sustentável."
+    },
+    {
+      "start": 696.93,
+      "end": 703.11,
+      "timestamp": "11:36",
+      "text": "Voltando aqui pra MVP, como começar a startup sem o programador, talvez você esteja se perguntando, né?"
+    },
+    {
+      "start": 703.11,
+      "end": 706.77,
+      "timestamp": "11:43",
+      "text": "Puta, e como que eu trago esse cara se eu não tenho dinheiro?"
+    },
+    {
+      "start": 706.77,
+      "end": 708.03,
+      "timestamp": "11:46",
+      "text": "Long story short, né?"
+    },
+    {
+      "start": 708.03,
+      "end": 719.25,
+      "timestamp": "11:48",
+      "text": "Basicamente o que a gente faz é fazer um contrato onde eu vou doar participação da minha empresa pra essas pessoas, a gente chama de um contrato de equity, que vão ter duas cláusulas, né?"
+    },
+    {
+      "start": 719.25,
+      "end": 731.5,
+      "timestamp": "11:59",
+      "text": "Que é a cláusula de vesting, onde eu vou parcelar a quantidade de ações que eu vou doar, e a cláusula de cliff, que é onde eu vou me dar o direito de tirar essa pessoa da sociedade sem onerar a sociedade."
+    },
+    {
+      "start": 731.5,
+      "end": 736.96,
+      "timestamp": "12:11",
+      "text": "Ou seja, eu posso te demitir da minha sociedade sem ter que pagar nada pra você como sócio."
+    },
+    {
+      "start": 736.96,
+      "end": 740.32,
+      "timestamp": "12:16",
+      "text": "Você abdica dos seus direitos como sócio durante um ano."
+    },
+    {
+      "start": 740.32,
+      "end": 745.18,
+      "timestamp": "12:20",
+      "text": "Se passou um ano, eu não te tirei da minha sociedade, aí puta, tamo alinhado, né?"
+    },
+    {
+      "start": 745.18,
+      "end": 748.48,
+      "timestamp": "12:25",
+      "text": "Aí você começa a virar sócio, você começa a vestir ali."
+    },
+    {
+      "start": 748.48,
+      "end": 750.58,
+      "timestamp": "12:28",
+      "text": "Mas é importante destacar isso, né?"
+    },
+    {
+      "start": 750.58,
+      "end": 758.86,
+      "timestamp": "12:30",
+      "text": "Não precisa ter dinheiro pra começar uma startup, não precisa ter dinheiro pra começar um time, porque o teu primeiro cliente é teu sócio."
+    },
+    {
+      "start": 758.86,
+      "end": 760.12,
+      "timestamp": "12:38",
+      "text": "Até postei isso hoje."
+    },
+    {
+      "start": 760.12,
+      "end": 766.61,
+      "timestamp": "12:40",
+      "text": "Você tem que ter a capacidade de atrair esse sócio, e não necessariamente tem que atraí-lo com dinheiro, né?"
+    },
+    {
+      "start": 766.61,
+      "end": 767.81,
+      "timestamp": "12:46",
+      "text": "Pode ser com equity."
+    },
+    {
+      "start": 767.81,
+      "end": 769.49,
+      "timestamp": "12:47",
+      "text": "Agora, isso depende de você."
+    },
+    {
+      "start": 769.49,
+      "end": 770.81,
+      "timestamp": "12:49",
+      "text": "Ao bem da verdade, né?"
+    },
+    {
+      "start": 770.81,
+      "end": 772.67,
+      "timestamp": "12:50",
+      "text": "O cara precisa conseguir viver."
+    },
+    {
+      "start": 772.67,
+      "end": 775.07,
+      "timestamp": "12:52",
+      "text": "Ele precisa conseguir pagar suas contas."
+    },
+    {
+      "start": 775.07,
+      "end": 779.45,
+      "timestamp": "12:55",
+      "text": "Se ele não tiver uma reserva de capital, ele não vai topar ser seu sócio."
+    },
+    {
+      "start": 779.45,
+      "end": 783.65,
+      "timestamp": "12:59",
+      "text": "Então você tem que também contar que ele tenha uma reserva de capital."
+    },
+    {
+      "start": 783.65,
+      "end": 800.04,
+      "timestamp": "13:03",
+      "text": "Se você arrumar um recurso pra poder garantir que aqueles bons sócios, potenciais bons sócios, que não têm reserva de capital, consigam se manter ali pelo menos, de repente o cara fala, olha velho, eu ganho 10 pau aqui, lembrei onde eu trabalho, mas eu consigo viver com 5."
+    },
+    {
+      "start": 800.04,
+      "end": 803.28,
+      "timestamp": "13:20",
+      "text": "Então, pô, eu topo ganhar 5 aí, se você me der equity."
+    },
+    {
+      "start": 803.28,
+      "end": 803.88,
+      "timestamp": "13:23",
+      "text": "Ótimo, né?"
+    },
+    {
+      "start": 803.88,
+      "end": 805.68,
+      "timestamp": "13:23",
+      "text": "A gente chama de haircut isso."
+    },
+    {
+      "start": 805.68,
+      "end": 811.86,
+      "timestamp": "13:25",
+      "text": "O cara toma um haircut e começa a trabalhar com você pra você complementar o pagamento dele com equity."
+    },
+    {
+      "start": 811.86,
+      "end": 813.36,
+      "timestamp": "13:31",
+      "text": "Inclusive, vou dar uma..."
+    },
+    {
+      "start": 813.36,
+      "end": 815.58,
+      "timestamp": "13:33",
+      "text": "até uma fast forward aqui nessa aula."
+    },
+    {
+      "start": 815.58,
+      "end": 822.24,
+      "timestamp": "13:35",
+      "text": "Está uma aula bem inicial, mas vou falar aqui de CEO pra CEO, pra quem está nessa jornada aonde eu estou agora."
+    },
+    {
+      "start": 822.24,
+      "end": 834.13,
+      "timestamp": "13:42",
+      "text": "Uma das formas que eu tenho, um dos hacks que eu tenho pra trazer gente boa, que é muito cara no mercado, é eu faço um cálculo de quanto que ele está deixando na mesa pra poder vir trabalhar comigo."
+    },
+    {
+      "start": 834.13,
+      "end": 839.23,
+      "timestamp": "13:54",
+      "text": "Então, nesse caso, a gente falou que o cara que ganha 10 está deixando 5 na mesa, né?"
+    },
+    {
+      "start": 839.23,
+      "end": 841.33,
+      "timestamp": "13:59",
+      "text": "Está deixando 60 pau o ano na mesa."
+    },
+    {
+      "start": 841.33,
+      "end": 846.49,
+      "timestamp": "14:01",
+      "text": "E eu pego esse valor que ele deixou em ano na mesa, 60 pau, e coloco um multiplicador."
+    },
+    {
+      "start": 846.49,
+      "end": 852.67,
+      "timestamp": "14:06",
+      "text": "Então, digamos que é o seguinte, cara, a cada um real que você deixar na mesa, eu vou te dar 3 em ação."
+    },
+    {
+      "start": 852.67,
+      "end": 855.13,
+      "timestamp": "14:12",
+      "text": "Então, porra, isso daria 180 pau em ação."
+    },
+    {
+      "start": 855.13,
+      "end": 863.71,
+      "timestamp": "14:15",
+      "text": "E aí, digamos que a gente vai colocar, pra facilitar a conta aqui, o valuation da empresa inicial ali, que está só na ideia, em 1 milhão e 800."
+    },
+    {
+      "start": 863.71,
+      "end": 867.86,
+      "timestamp": "14:23",
+      "text": "Então, pô, eu vou te dar 10% da minha empresa pra você vir trabalhar."
+    },
+    {
+      "start": 867.86,
+      "end": 875.0,
+      "timestamp": "14:27",
+      "text": "Então, eu te dou 5 pau de salário e te dou mais 10% da minha empresa pra ter você comitado aqui, pra ter você no risco."
+    },
+    {
+      "start": 875.0,
+      "end": 884.24,
+      "timestamp": "14:34",
+      "text": "Ou seja, a cada um real que você deixou na mesa, eu te dou 3 reais em ações da companhia a serem realizadas em um evento de liquidez, em um IPO, whatever."
+    },
+    {
+      "start": 884.24,
+      "end": 884.78,
+      "timestamp": "14:44",
+      "text": "Vamos lá!"
+    },
+    {
+      "start": 884.78,
+      "end": 892.52,
+      "timestamp": "14:44",
+      "text": "Uma vez que eu consegui, então, fazer meu MVP, testar meu MVP no mercado, eventualmente fiz o InVision, como a gente falou agora."
+    },
+    {
+      "start": 892.52,
+      "end": 894.02,
+      "timestamp": "14:52",
+      "text": "Mas mais do que isso, né?"
+    },
+    {
+      "start": 894.02,
+      "end": 898.7,
+      "timestamp": "14:54",
+      "text": "Eu tô agora conseguindo atrair um sócio programador pra começar o meu negócio."
+    },
+    {
+      "start": 898.7,
+      "end": 900.75,
+      "timestamp": "14:58",
+      "text": "Então, o que eu quero fazer agora?"
+    },
+    {
+      "start": 900.75,
+      "end": 907.59,
+      "timestamp": "15:00",
+      "text": "Eu quero sentar com esse sócio e definir quais são as avenidas que a gente vai percorrer na construção do produto."
+    },
+    {
+      "start": 907.59,
+      "end": 909.33,
+      "timestamp": "15:07",
+      "text": "Da onde que vem essa decisão?"
+    },
+    {
+      "start": 909.33,
+      "end": 912.09,
+      "timestamp": "15:09",
+      "text": "Então, vem das minhas diretrizes estratégicas."
+    },
+    {
+      "start": 912.09,
+      "end": 916.83,
+      "timestamp": "15:12",
+      "text": "Vou deixar um exerciciozinho pra vocês agora que estão começando o seu negócio."
+    },
+    {
+      "start": 916.83,
+      "end": 925.17,
+      "timestamp": "15:16",
+      "text": "Senta com os seus sócios e defina quais são as três principais diretrizes estratégicas que vocês querem atingir nesses próximos três meses."
+    },
+    {
+      "start": 925.17,
+      "end": 927.81,
+      "timestamp": "15:25",
+      "text": "Então, uma diretriz estratégica por mês, tá?"
+    },
+    {
+      "start": 927.81,
+      "end": 930.09,
+      "timestamp": "15:27",
+      "text": "Com base nessa diretriz estratégica..."
+    },
+    {
+      "start": 930.09,
+      "end": 931.95,
+      "timestamp": "15:30",
+      "text": "Faz um plano de execução mesmo."
+    },
+    {
+      "start": 931.95,
+      "end": 936.52,
+      "timestamp": "15:31",
+      "text": "Então eu não vou nem falar de PMO aqui não, é um negócio tão simples quanto."
+    },
+    {
+      "start": 936.52,
+      "end": 943.0,
+      "timestamp": "15:36",
+      "text": "Coloca ali quais são as ações que vocês deveriam executar para poder realizar essas diretrizes estratégicas."
+    },
+    {
+      "start": 943.0,
+      "end": 946.0,
+      "timestamp": "15:42",
+      "text": "Coloca uma data para poder realizar cada ação, tá?"
+    },
+    {
+      "start": 946.0,
+      "end": 948.4,
+      "timestamp": "15:45",
+      "text": "Se não tiver data, fudeu, não vai andar."
+    },
+    {
+      "start": 948.4,
+      "end": 951.46,
+      "timestamp": "15:48",
+      "text": "E coloca alguém como responsável por aquelas ações."
+    },
+    {
+      "start": 951.46,
+      "end": 955.12,
+      "timestamp": "15:51",
+      "text": "Alguns dos sócios têm que ser responsáveis por aquelas ações."
+    },
+    {
+      "start": 955.12,
+      "end": 970.25,
+      "timestamp": "15:55",
+      "text": "Feito isso, você vai ter uma visibilidade melhor de o que o seu produto precisa ter para que você atinja aquelas ações, perdão, para que você realize aquelas ações, de modo que você atinja aquele direcionamento estratégico, aquela diretriz estratégica."
+    },
+    {
+      "start": 970.25,
+      "end": 981.83,
+      "timestamp": "16:10",
+      "text": "Se você fizer isso que eu estou te falando, você já vai estar gerindo melhor que 80% dos gestores que eu já conheci na minha vida, porque a galera toca o negócio, é uma caralha mesmo, entendeu?"
+    },
+    {
+      "start": 981.83,
+      "end": 983.81,
+      "timestamp": "16:21",
+      "text": "Não para para poder planejar ali."
+    },
+    {
+      "start": 983.81,
+      "end": 985.25,
+      "timestamp": "16:23",
+      "text": "E qual que é o problema?"
+    },
+    {
+      "start": 985.25,
+      "end": 989.99,
+      "timestamp": "16:25",
+      "text": "Vocês vão ver que o mais difícil nesse momento é você fazer as escolhas certas."
+    },
+    {
+      "start": 989.99,
+      "end": 995.15,
+      "timestamp": "16:29",
+      "text": "O gestor bom é aquele gestor que consegue percorrer as avenidas de crescimento certas."
+    },
+    {
+      "start": 995.15,
+      "end": 1002.48,
+      "timestamp": "16:35",
+      "text": "E o problema é que assim, quando você está em uma grande companhia, você tem tempo e recurso para poder errar as avenidas."
+    },
+    {
+      "start": 1002.48,
+      "end": 1005.78,
+      "timestamp": "16:42",
+      "text": "Então eu estou em uma avenida aqui e falo, puta, errei."
+    },
+    {
+      "start": 1005.78,
+      "end": 1008.9,
+      "timestamp": "16:45",
+      "text": "Se no trimestre que vem eu vou tentar outra avenida."
+    },
+    {
+      "start": 1008.9,
+      "end": 1010.1,
+      "timestamp": "16:48",
+      "text": "Ah, errei, tudo bem."
+    },
+    {
+      "start": 1010.1,
+      "end": 1012.74,
+      "timestamp": "16:50",
+      "text": "Se no trimestre que vem eu vou tentar outra."
+    },
+    {
+      "start": 1012.74,
+      "end": 1016.22,
+      "timestamp": "16:52",
+      "text": "Agora aqui na startup é, você errou, querido, você morreu."
+    },
+    {
+      "start": 1016.22,
+      "end": 1021.56,
+      "timestamp": "16:56",
+      "text": "A startup é um grupo de pessoas em busca de um modelo escalável e sustentável de negócio."
+    },
+    {
+      "start": 1021.56,
+      "end": 1023.24,
+      "timestamp": "17:01",
+      "text": "Tão simples quanto isso, tá?"
+    },
+    {
+      "start": 1023.24,
+      "end": 1024.5,
+      "timestamp": "17:03",
+      "text": "O que mata a startup?"
+    },
+    {
+      "start": 1024.5,
+      "end": 1027.26,
+      "timestamp": "17:04",
+      "text": "O que mata a startup é a falta de recurso, pô."
+    },
+    {
+      "start": 1027.26,
+      "end": 1030.74,
+      "timestamp": "17:07",
+      "text": "Sei lá, o Uber queima, perde 3 bilhões de dólares por ano."
+    },
+    {
+      "start": 1030.74,
+      "end": 1032.48,
+      "timestamp": "17:10",
+      "text": "3 bilhões de dólares por ano."
+    },
+    {
+      "start": 1032.48,
+      "end": 1039.99,
+      "timestamp": "17:12",
+      "text": "Se o Uber não tivesse um arcabouço de grandes investidores ali fomentando, se não tivesse feito o IPO, ele já teria quebrado."
+    },
+    {
+      "start": 1039.99,
+      "end": 1042.45,
+      "timestamp": "17:19",
+      "text": "Eles perdem 3 bilhões de dólares por ano."
+    },
+    {
+      "start": 1042.45,
+      "end": 1044.19,
+      "timestamp": "17:22",
+      "text": "Então o que mata uma startup?"
+    },
+    {
+      "start": 1044.19,
+      "end": 1046.89,
+      "timestamp": "17:24",
+      "text": "É falta de dinheiro, tão simples quanto isso."
+    },
+    {
+      "start": 1046.89,
+      "end": 1050.01,
+      "timestamp": "17:26",
+      "text": "Então o que um bom founder de startup tem que fazer?"
+    },
+    {
+      "start": 1050.01,
+      "end": 1053.43,
+      "timestamp": "17:30",
+      "text": "Ele tem que se adaptar o mais rápido possível a mudanças."
+    },
+    {
+      "start": 1053.43,
+      "end": 1060.51,
+      "timestamp": "17:33",
+      "text": "Então qual que é a forma que eu utilizo para poder ficar capacitado para me adaptar o mais rápido possível a mudanças?"
+    },
+    {
+      "start": 1060.51,
+      "end": 1070.96,
+      "timestamp": "17:40",
+      "text": "Primeiro é mapear essas diretrizes estratégicas e tentar aí fazer as melhores escolhas possíveis das avenidas de crescimento que eu vou percorrer, dado os dados que eu tenho."
+    },
+    {
+      "start": 1070.96,
+      "end": 1072.76,
+      "timestamp": "17:50",
+      "text": "E essa é a grande dificuldade."
+    },
+    {
+      "start": 1072.76,
+      "end": 1073.24,
+      "timestamp": "17:52",
+      "text": "Por quê?"
+    },
+    {
+      "start": 1073.24,
+      "end": 1080.2,
+      "timestamp": "17:53",
+      "text": "Geralmente você tem 10% das informações que você precisa para tomar uma decisão crucial que vai matar o seu negócio."
+    },
+    {
+      "start": 1080.2,
+      "end": 1085.12,
+      "timestamp": "18:00",
+      "text": "Eu passei por isso pra caramba na Easy Taxi, passei por isso pra caramba na Simbu."
+    },
+    {
+      "start": 1085.12,
+      "end": 1090.22,
+      "timestamp": "18:05",
+      "text": "Então, puta, sei lá, lembrar uma mudança importante aqui na Easy Taxi no iniciozinho."
+    },
+    {
+      "start": 1090.22,
+      "end": 1092.86,
+      "timestamp": "18:10",
+      "text": "O nosso modelo de monetização era o PPU, né?"
+    },
+    {
+      "start": 1092.86,
+      "end": 1101.44,
+      "timestamp": "18:12",
+      "text": "Pay Per Use, que eu tinha definido, que basicamente eu pegava o pranchetinho e ganhava R$2 por cada pessoa que ele colocava dentro do táxi, né?"
+    },
+    {
+      "start": 1101.44,
+      "end": 1102.83,
+      "timestamp": "18:21",
+      "text": "Eu substituí esse cara."
+    },
+    {
+      "start": 1102.83,
+      "end": 1108.41,
+      "timestamp": "18:22",
+      "text": "Então minha proposta de valor era, deixa eu substituir o pranchetinho, me dá R$2 por corrida."
+    },
+    {
+      "start": 1108.41,
+      "end": 1115.19,
+      "timestamp": "18:28",
+      "text": "Fiz o PPU e estava funcionando muito bem, até que em 2013, dois anos depois, surgiu a 99 e ela veio de graça, né?"
+    },
+    {
+      "start": 1115.19,
+      "end": 1120.89,
+      "timestamp": "18:35",
+      "text": "Tipo, quando elas vieram e ficaram de graça, a gente foi obrigado a parar de cobrar também, né?"
+    },
+    {
+      "start": 1120.89,
+      "end": 1125.99,
+      "timestamp": "18:40",
+      "text": "Foi aí que começou essa putaria toda no mercado, de ninguém ganhar dinheiro com isso."
+    },
+    {
+      "start": 1125.99,
+      "end": 1129.35,
+      "timestamp": "18:45",
+      "text": "Mas até então estava bonito o modelo de monetização, né?"
+    },
+    {
+      "start": 1129.35,
+      "end": 1133.43,
+      "timestamp": "18:49",
+      "text": "A gente ganhava dinheiro pra caramba com esse negócio, cobrando R$2."
+    },
+    {
+      "start": 1133.43,
+      "end": 1138.6,
+      "timestamp": "18:53",
+      "text": "Aí depois a gente mudou esse modelo e foi pro FII, no percentual de pagamento ali, né?"
+    },
+    {
+      "start": 1138.6,
+      "end": 1142.56,
+      "timestamp": "18:58",
+      "text": "Ganhar um percentual do que é cobrado de pagamento na corrida, né?"
+    },
+    {
+      "start": 1142.56,
+      "end": 1147.24,
+      "timestamp": "19:02",
+      "text": "O que obviamente baixou pra caramba a nossa margem, consequentemente o EBITDA."
+    },
+    {
+      "start": 1147.24,
+      "end": 1148.74,
+      "timestamp": "19:07",
+      "text": "Mas o player é outro, né?"
+    },
+    {
+      "start": 1148.74,
+      "end": 1152.4,
+      "timestamp": "19:08",
+      "text": "Um player de crescimento, de rodadas de fã, de outro negócio."
+    },
+    {
+      "start": 1152.4,
+      "end": 1156.12,
+      "timestamp": "19:12",
+      "text": "Na Simbu, a gente passou por um momento muito complexo também."
+    },
+    {
+      "start": 1156.12,
+      "end": 1160.5,
+      "timestamp": "19:16",
+      "text": "Eu me lembro que quando a gente começou a Simbu, o que eu resolvi manter?"
+    },
+    {
+      "start": 1160.5,
+      "end": 1167.82,
+      "timestamp": "19:20",
+      "text": "Resolvi manter os serviços que a gente tem hoje, mas manter os serviços que a gente tem hoje, mais o serviço de maquiagem."
+    },
+    {
+      "start": 1167.82,
+      "end": 1171.55,
+      "timestamp": "19:27",
+      "text": "Porque maquiagem é um ticket médio, puta, bom pra caramba, né?"
+    },
+    {
+      "start": 1171.55,
+      "end": 1176.89,
+      "timestamp": "19:31",
+      "text": "Mas só que é um serviço muito complexo de rodar, cara, porque um kit de maquiagem é caro."
+    },
+    {
+      "start": 1176.89,
+      "end": 1182.95,
+      "timestamp": "19:36",
+      "text": "Pra vocês terem ideia, um kit, sei lá, básico de maquiagem custa R$10, R$12 mil, mais ou menos, sabe?"
+    },
+    {
+      "start": 1182.95,
+      "end": 1185.17,
+      "timestamp": "19:42",
+      "text": "Básico pra um profissional trabalhar."
+    },
+    {
+      "start": 1185.17,
+      "end": 1188.53,
+      "timestamp": "19:45",
+      "text": "É um negócio muito longe da realidade do brasileiro, né?"
+    },
+    {
+      "start": 1188.53,
+      "end": 1194.23,
+      "timestamp": "19:48",
+      "text": "A gente tem aí, se eu não me engano, quase 80% da população brasileira vive com salário mínimo."
+    },
+    {
+      "start": 1194.23,
+      "end": 1197.05,
+      "timestamp": "19:54",
+      "text": "Então, tipo assim, é um negócio assustador, né?"
+    },
+    {
+      "start": 1197.05,
+      "end": 1199.69,
+      "timestamp": "19:57",
+      "text": "Quando você sai da bolha e olha a realidade."
+    },
+    {
+      "start": 1199.69,
+      "end": 1203.77,
+      "timestamp": "19:59",
+      "text": "Não é a realidade nossa com internet boa pra ver live no smartphone."
+    },
+    {
+      "start": 1203.77,
+      "end": 1205.52,
+      "timestamp": "20:03",
+      "text": "A gente é bolha da bolha, tá?"
+    },
+    {
+      "start": 1205.52,
+      "end": 1206.96,
+      "timestamp": "20:05",
+      "text": "Vamos cair na real aqui."
+    },
+    {
+      "start": 1206.96,
+      "end": 1209.96,
+      "timestamp": "20:06",
+      "text": "O Brasil de verdade mesmo vive com salário mínimo."
+    },
+    {
+      "start": 1209.96,
+      "end": 1213.56,
+      "timestamp": "20:09",
+      "text": "Então esse é um dinheiro inimaginável pra essas pessoas, né?"
+    },
+    {
+      "start": 1213.56,
+      "end": 1218.0,
+      "timestamp": "20:13",
+      "text": "Então a gente falou, cara, é um negócio que é difícil trazer provider, né?"
+    },
+    {
+      "start": 1218.0,
+      "end": 1222.44,
+      "timestamp": "20:17",
+      "text": "Como a gente chama, trazer os artistas, os prestadores de serviço, perdão."
+    },
+    {
+      "start": 1222.44,
+      "end": 1228.08,
+      "timestamp": "20:22",
+      "text": "E é difícil também codificar esse serviço, porque maquiagem é um trabalho muito artístico, né?"
+    },
+    {
+      "start": 1228.08,
+      "end": 1239.55,
+      "timestamp": "20:28",
+      "text": "Então, puta, falei, cara, vai ser mega difícil pra gente eventualmente criar um código de execução de serviço pra garantir que todo serviço de maquiagem vai ser praticamente igual aos outros."
+    },
+    {
+      "start": 1239.55,
+      "end": 1244.65,
+      "timestamp": "20:39",
+      "text": "Diferente do que eu consigo fazer em massagem, do que eu consigo fazer em unha e tal."
+    },
+    {
+      "start": 1244.65,
+      "end": 1246.75,
+      "timestamp": "20:44",
+      "text": "Então, o que a gente decidiu fazer?"
+    },
+    {
+      "start": 1246.75,
+      "end": 1247.83,
+      "timestamp": "20:46",
+      "text": "Tirar a maquiagem."
+    },
+    {
+      "start": 1247.83,
+      "end": 1251.97,
+      "timestamp": "20:47",
+      "text": "Só que maquiagem, naquele momento da Simbu, era 30% da minha receita."
+    },
+    {
+      "start": 1251.97,
+      "end": 1275.38,
+      "timestamp": "20:51",
+      "text": "Então vocês imaginam eu virando pros meus sócios e falando assim, galera, eu sei que essa decisão é polêmica, parte dos sócios queriam tirar a maquiagem, parte não queriam, virar pros meus acionistas, meus investidores e falar assim, galera, eu vou tirar 30% da nossa receita, porque tirando isso eu vou livrar meu time pra que eu consiga percorrer as nossas outras avenidas de crescimento."
+    },
+    {
+      "start": 1275.38,
+      "end": 1278.92,
+      "timestamp": "21:15",
+      "text": "Essa aqui eu acho que vai ser muito mais dura de percorrer."
+    },
+    {
+      "start": 1278.92,
+      "end": 1282.1,
+      "timestamp": "21:18",
+      "text": "Dado os nossos recursos, eu acho que não faz sentido."
+    },
+    {
+      "start": 1282.1,
+      "end": 1284.98,
+      "timestamp": "21:22",
+      "text": "Foi um ato de muita coragem da nossa gestão ali."
+    },
+    {
+      "start": 1284.98,
+      "end": 1291.52,
+      "timestamp": "21:24",
+      "text": "A gente perdeu um terço da nossa receita num momento que era crucial pra gente, ali no iniciozinho de Singur."
+    },
+    {
+      "start": 1291.52,
+      "end": 1296.2,
+      "timestamp": "21:31",
+      "text": "Isso tá falando de 2016, então a gente tinha um pouco menos de um ano de vida."
+    },
+    {
+      "start": 1296.2,
+      "end": 1302.5,
+      "timestamp": "21:36",
+      "text": "Dois exemplos aí de direcionamento estratégico e decisões que a gente tem que tomar com pouca informação."
+    },
+    {
+      "start": 1302.5,
+      "end": 1305.62,
+      "timestamp": "21:42",
+      "text": "Mas, bom, foi a melhor escolha que eu poderia fazer."
+    },
+    {
+      "start": 1305.62,
+      "end": 1309.53,
+      "timestamp": "21:45",
+      "text": "Singur hoje é a maior plataforma do segmento em termos de pedido."
+    },
+    {
+      "start": 1309.53,
+      "end": 1311.69,
+      "timestamp": "21:49",
+      "text": "Nós somos a maior da América Latina."
+    },
+    {
+      "start": 1311.69,
+      "end": 1317.39,
+      "timestamp": "21:51",
+      "text": "A gente teve um assessment, acesso a esse assessment em todas as plataformas da América Latina."
+    },
+    {
+      "start": 1317.39,
+      "end": 1321.95,
+      "timestamp": "21:57",
+      "text": "Falamos com eles, contratamos uma boutique de M&A que falou com eles também."
+    },
+    {
+      "start": 1321.95,
+      "end": 1330.47,
+      "timestamp": "22:01",
+      "text": "Então nós somos a maior da América Latina e só somos os maiores da América Latina porque a gente escolheu as avenidas de crescimento corretas."
+    },
+    {
+      "start": 1330.47,
+      "end": 1335.75,
+      "timestamp": "22:10",
+      "text": "Então o conselho que eu deixo para vocês aqui, quais são minhas diretrizes estratégicas?"
+    },
+    {
+      "start": 1335.75,
+      "end": 1342.18,
+      "timestamp": "22:15",
+      "text": "Quais são as avenidas de crescimento que eu vou percorrer para poder atingir essas diretrizes estratégicas?"
+    },
+    {
+      "start": 1342.18,
+      "end": 1345.6,
+      "timestamp": "22:22",
+      "text": "Quem vai ser responsável por cada avenida de crescimento?"
+    },
+    {
+      "start": 1345.6,
+      "end": 1352.08,
+      "timestamp": "22:25",
+      "text": "Qual é a data que eu vou entregar as ações que estão previstas para percorrer essas avenidas de crescimento?"
+    },
+    {
+      "start": 1352.08,
+      "end": 1357.48,
+      "timestamp": "22:32",
+      "text": "O que o meu produto precisa se adaptar para que eu percorra essas avenidas de crescimento?"
+    },
+    {
+      "start": 1357.48,
+      "end": 1361.02,
+      "timestamp": "22:37",
+      "text": "Tão simples quanto isso, o difícil é executar no dia a dia."
+    },
+    {
+      "start": 1361.02,
+      "end": 1366.18,
+      "timestamp": "22:41",
+      "text": "Então, puta, tenha acompanhamento, tenha essa anotada na agenda, porque senão não faz."
+    },
+    {
+      "start": 1366.18,
+      "end": 1368.04,
+      "timestamp": "22:46",
+      "text": "E aqui, quem me segue sabe, né?"
+    },
+    {
+      "start": 1368.04,
+      "end": 1375.73,
+      "timestamp": "22:48",
+      "text": "Eu tento ser extremamente prático, sair do mundo das ideias que o pessoal fica falando aí, porque eu vivo isso no meu dia a dia."
+    },
+    {
+      "start": 1375.73,
+      "end": 1382.69,
+      "timestamp": "22:55",
+      "text": "Eu estou só falando para vocês o que eu faço todos os dias da minha vida, desde que eu comecei a fazer esse negócio."
+    },
+    {
+      "start": 1382.69,
+      "end": 1386.95,
+      "timestamp": "23:02",
+      "text": "Trabalho desde 14 anos, tenho startup desde 2011, comecei com o Status."
+    },
+    {
+      "start": 1386.95,
+      "end": 1390.55,
+      "timestamp": "23:06",
+      "text": "Então tem muitos anos que eu vivo isso que eu estou falando."
+    },
+    {
+      "start": 1390.55,
+      "end": 1396.01,
+      "timestamp": "23:10",
+      "text": "Por isso que quando eu falo parece simples, assim, porque faz muito parte do meu dia a dia."
+    },
+    {
+      "start": 1396.01,
+      "end": 1399.37,
+      "timestamp": "23:16",
+      "text": "Então eu tento simplificar o máximo possível para vocês."
+    },
+    {
+      "start": 1399.37,
+      "end": 1403.57,
+      "timestamp": "23:19",
+      "text": "Mas eu já aviso, o difícil não é entender o que tem que ser feito, tá?"
+    },
+    {
+      "start": 1403.57,
+      "end": 1405.25,
+      "timestamp": "23:23",
+      "text": "Não tem fórmula mágica aqui."
+    },
+    {
+      "start": 1405.25,
+      "end": 1408.2,
+      "timestamp": "23:25",
+      "text": "O difícil é fazer no dia a dia, com consistência."
+    },
+    {
+      "start": 1408.2,
+      "end": 1409.34,
+      "timestamp": "23:28",
+      "text": "Como você fala, né?"
+    },
+    {
+      "start": 1409.34,
+      "end": 1410.9,
+      "timestamp": "23:29",
+      "text": "Disciplina e consistência."
+    },
+    {
+      "start": 1410.9,
+      "end": 1412.4,
+      "timestamp": "23:30",
+      "text": "E aí, gostou do episódio?"
+    },
+    {
+      "start": 1412.4,
+      "end": 1415.34,
+      "timestamp": "23:32",
+      "text": "Se sim, não esquece de compartilhar com um amigo."
+    },
+    {
+      "start": 1415.34,
+      "end": 1420.38,
+      "timestamp": "23:35",
+      "text": "Se for postar nas redes sociais, não deixe de marcar o Instagram do arrobaG4Podcast."
+    },
+    {
+      "start": 1420.38,
+      "end": 1422.9,
+      "timestamp": "23:40",
+      "text": "Eu quero saber realmente o que você achou."
+    },
+    {
+      "start": 1422.9,
+      "end": 1425.0,
+      "timestamp": "23:42",
+      "text": "Um abraço e até o próximo episódio."
+    }
+  ],
+  "segment_count": 297,
+  "text_timestamped": "[00:00] Fala, galera!\n[00:00] Eu sou o Tales Gomes e esse é um episódio do Papo de Gestão, um podcast do G4 Educação em que eu converso com os maiores gestores do Brasil.\n[00:09] Aqui você vai aprender as lições que eu gostaria de ter escutado na minha trajetória e vai participar de conversas com pessoas que eu admiro sobre gestão, liderança, alta performance e outros assuntos que são necessários para você ser um líder 4.0.\n[00:24] E no final, não esquece de ir no Instagram do arroba G4 Podcast para me falar o que você está achando sobre esse projeto.\n[00:31] Antes de iniciar, quero te falar um pouco melhor sobre o que é o G4.\n[00:35] Nós somos a evolução da escola de negócios.\n[00:37] Nós traduzimos as práticas das empresas que mais crescem no mundo para o seu negócio.\n[00:43] Eu sou mentor de um dos produtos, o G4 Imersão e Mentoria.\n[00:46] Ela possui três pilares.\n[00:48] Primeiro, conteúdo de altíssima qualidade que trazem as práticas das empresas que mais crescem no mundo para o seu negócio.\n[00:55] Segundo, mentorias em que você pode tirar as suas dúvidas com os mentores, como eu, e que não são professores, mas sim empresários bem-sucedidos que já passaram pelos desafios que você está enfrentando hoje.\n[01:07] Terceiro, networking com outros gestores, pois sabemos que a jornada do empreendedor é solitária.\n[01:13] E por isso, oferecemos um ambiente onde você pode fazer relacionamentos e também negócios.\n[01:19] Se você quiser ser mentorado por mim e outros empreendedores, é só entrar em g4educacão.com barra mentoria ou ir na descrição desse episódio e clicar no link para se inscrever no processo de seleção do G4 Imersão e Mentoria.\n[01:32] Nela, você terá três dias comigo, Alfredo e Bruno, e também acessam a plataforma com conteúdos exclusivos para transformar o seu negócio após a imersão.\n[01:41] Um verdadeiro MBA de três dias, com lições que você já irá aplicar um dia depois na sua empresa.\n[01:47] Boa noite!\n[01:47] Vamos lá!\n[01:48] Hoje é um assunto bem transformador na minha vida, sobre como eu consegui começar um negócio sem a presença de um programador, de um developer.\n[01:57] Então, eu pretendo ensinar a vocês aqui nas próximas 20, 30 minutos sobre como que eu fiz isso.\n[02:02] Vamos lá!\n[02:03] Como que eu comecei a EasyTaxi sem programador?\n[02:06] Eu não sabia programar.\n[02:07] Quer dizer, eu sabia o básico ali, mas não conseguia fazer o produto como ele deveria ser.\n[02:12] Então, o que eu fiz?\n[02:14] O meu MVP, que eu já ensinei para vocês aqui o que é, aquele protótipo funcional, eu peguei um blog pré-pronto e coloquei um formulário de e-mail onde eu perguntava o nome, o endereço e o telefone das pessoas.\n[02:26] E aí, o botão de pedir táxi, eu mudei o front-end para...\n[02:30] Quer dizer, era enviar e-mail, né?\n[02:32] Eu mudei o front-end para ser o botão de pedir táxi.\n[02:35] Então, na prática, era o seguinte, era um formulário que você preenchia, clicava pedir táxi.\n[02:40] Lá em 2011, né, gente?\n[02:42] 4% da população brasileira tinha smartphone.\n[02:44] Então, naquele momento ali, eu consegui validar o meu negócio sem ter que mexer em software.\n[02:50] Então, eu entrei num lugar chamado ThemeForest, que tinha uns frameworks ali de site, tudo pré-pronto.\n[02:56] Só subi esse troço para o servidor e aí consegui fazer o meu MVP.\n[03:00] E aí, como é que funcionava por trás desse MVP?\n[03:03] Eu recebia esses dados ali no meu e-mail, eu copiava o endereço, colava na área ali do Google Maps, né?\n[03:09] E aí, no Google Maps, eu usava uma função chamada pontos de táxi ao redor.\n[03:13] Ao usar o pontos de táxi ao redor, eu achava os pontos de táxi, ligava para os pontos de táxi, conseguia o táxi para a pessoa, mandava SMS para a pessoa com as informações do táxi e aí, 10 minutos depois, eu entrava em contato para saber se de fato embarcou.\n[03:29] Embarcou, eu marcava na minha pranilha que embarcou.\n[03:32] Fui fazendo isso ao longo das semanas e ia semanalmente lá nos pontos de táxi e pedia com que esses caras me pagassem a planilha, né?\n[03:40] Porque eles tinham a figura do prancheta antes da Easy Taxi, né?\n[03:44] O prancheta era aquele rapaz que ficava com a pranchetinha embarcando você no táxi.\n[03:49] Cada vez que ele te embarcava, ele ganhava 2 reais.\n[03:52] E aí, basicamente, o que eu fiz, né?\n[03:54] Eu entrava ali no final de semana, passava ali os pontos de táxi, fiz um acordo lá com os gerentes do ponto de táxi onde eles me pagavam a planilha.\n[04:03] Dá para ganhar dinheiro com esse troço?\n[04:05] Óbvio que não.\n[04:06] Mas tudo que eu queria ali era validar se de fato as pessoas estariam dispostas a pedir táxi pela internet, sem falar com um ser humano, né?\n[04:14] Então, puta, foi como a gente começou esse negócio lá.\n[04:18] Dá para começar uma startup sem programador?\n[04:20] Dá.\n[04:20] Eu comecei, né?\n[04:21] Ali na Easy Taxi.\n[04:22] Cingu é outro caso.\n[04:23] Cingu eu já estava capitalizado, eu tinha medido da Easy Taxi, eu tinha contato, aí foi muito mais fácil o início.\n[04:30] Eu sempre falo isso, foi fácil o início da jornada, foi tão difícil quanto.\n[04:35] Agora, o início foi muito mais fácil.\n[04:37] Agora, uma vez que eu fiz o MVP e validei, eu tinha que conseguir um sócio.\n[04:42] Como que eu consegui esse sócio?\n[04:43] Primeira coisa que eu fiz para poder conseguir o meu sócio foi buscar no meu networking se tinha alguém que eles conheciam que era muito bom nessa função, né?\n[04:53] Que era developer.\n[04:54] Só que a gente estava falando, gente, de mobile developer em 2011.\n[04:58] Ninguém nem sabia o que era isso no Brasil.\n[05:01] Você tinha um pouco mais de algumas centenas, talvez alguns poucos milhares de mobile developers no Brasil, né?\n[05:07] Praticamente não tinha.\n[05:09] Então, eu por uma sorte, eu achei um cara, velho, que chegou a trabalhar comigo no Hortobom, pra quem não sabe, eu cheguei a trabalhar no Hortobom, tá?\n[05:18] E aí, puta, tem um cara que trabalhou comigo no Hortobom, que ele era da TI lá, que era um moleque, porra, mega inteligente, sabe esses geniozinhos?\n[05:27] Mas o cara, meu irmão, programava Cobol, assim.\n[05:29] Cobol é uma coisa de velho, né?\n[05:31] Pra quem entende aí.\n[05:32] Mas só que ele era um cara que aprendia qualquer coisa, sabe?\n[05:36] É um puta autodidata, um cara muito bom, que era o Márcio, meu sócio e ex-head de mobile da EasyTaxi.\n[05:42] E eu lembro que eu virei pro Márcio e falei assim, Marção, tô montando uma startup aí, a minha visão é essa, aqui que eu quero chegar.\n[05:50] E, cara, só que eu quero fazer um app, sabe?\n[05:53] Você sabe fazer app?\n[05:54] E aí o Márcio falou assim, olha, eu não faço a mínima ideia, mas eu tenho certeza que eu aprendo.\n[06:00] E eu tinha conhecido ele, eu vi que o moleque era inteligente mesmo.\n[06:04] Eu falei, pô, ele vai aprender.\n[06:06] E aí, puta, eu virei pro Márcio e falei, cara, vamos fazer o seguinte, pra fazer mais simples ainda, vamos fazer um sistema web primeiro, né?\n[06:14] A gente foi e fez um sistema web, onde a gente rodava EasyTaxi web aí aprendendo como rodar a operação e tal.\n[06:21] E aí, depois desse sistema web ter funcionado muito bem, que a gente fez ali o nosso aplicativo, sei lá, uns quatro meses depois, tá?\n[06:29] Mas, por muito tempo, ficamos ali em sistema web.\n[06:32] E aí o resto da história vocês conhecem, né?\n[06:34] 35 países, um bilhão de evaluation, enfim.\n[06:37] Agora, até chegar no Márcio, né?\n[06:39] Eu tive que ralar um pouco ali sozinho, sem um programador.\n[06:42] Então, como é que você monta um protótipo de um negócio, por exemplo, pra você apresentar num pitch deck pro investidor ou apresentar pro próprio Márcio, né?\n[06:52] Meu sócio, né?\n[06:53] Eu montei um protótipo desse troço, junto com um amigo meu que é designer, que me ajudou bastante na época, numa ferramenta chamada InVision.\n[07:01] Então, anota aí, InVision.\n[07:03] No InVision, você consegue subir ali uma JPEG, se eu não me engano, né?\n[07:07] E aí, com isso, você consegue montar o seu protótipo funcional ali, tá?\n[07:11] Então, é tão fácil quanto isso.\n[07:13] Você senta com um designer, desenha mais ou menos o que seriam as suas telas, desenha o fluxo.\n[07:19] Pega um papelzinho mesmo, sabe?\n[07:21] Faz aquele organograma ali, dizendo o que seriam os fluxos do seu aplicativo e você monta isso no InVision.\n[07:27] O InVision, cara, é uma ferramenta bem acessível e, puta, faz todo sentido pra todo mundo validar primeiro se o negócio funciona ou não através do InVision, tá?\n[07:37] Então, entrou ali pelo InVision, pega aquele protótipo ali e entrega na mão de uma pessoa, que seria o teu usuário, né?\n[07:44] A tua persona, e pede ele pra poder completar o fluxo.\n[07:47] Se ele completa esse fluxo, provavelmente a gente tá no caminho certo ali, né?\n[07:52] De fazer um produto que, pelo menos, funciona do ponto de vista de UX.\n[07:56] Mas, se eu tô começando uma startup sem programador, o que eu tenho que pensar é qual é o MVP que eu consigo fazer e que eu consigo rodar, né?\n[08:04] Principalmente.\n[08:05] Então, esse meu MVP\n\nTrês corridas por dia, cinco corridas por dia, então é tão simples quanto isso.\n[08:11] Singular é outro caso, né gente?\n[08:13] Singul, quando eu montei a Singul, só para quem não me acompanha desde lá, né?\n[08:18] Eu vendi esse táxi e montei uma venture builder, que chama eGenius.\n[08:22] Nessa venture builder, a gente construiu ali alguns negócios, né?\n[08:26] O Easy Carros, que existe até hoje, que é um serviço que leva mecânicos e pessoal que lava carro na casa das pessoas nas empresas.\n[08:34] Acabou que eles pivotaram para fazer um serviço B2B, estão indo super bem.\n[08:38] Então o Fernando Sadiq é o cofundador, a gente criou dentro da nossa venture builder.\n[08:43] A gente construiu a Singul, né?\n[08:45] Nessa época e depois o pessoal ajudou a construir lá a Bicambio.\n[08:49] Então foram vários negócios que foram construídos ali dentro dessa venture builder.\n[08:54] Só que quando eu construí a Singul, que eu pesquisei o mercado, comecei a Singul, eu falei, puta, esse negócio é grande pra caramba, né?\n[09:02] E aí, obviamente, que eu me dediquei 100% à Singul, eu fiz uma troca de ações com os meus sócios e fiquei só com o Singul.\n[09:09] Acabou que funcionou bem, né?\n[09:11] Ao nos juntar com a Natura agora, é meu segundo grande sucesso da vida.\n[09:15] Mas o importante é a gente entender que quando eu fiz a Singul, eu já tinha um time de produto.\n[09:21] Então, puta, o meu MVP, ele foi bem mais completo do que foi esse táxi.\n[09:25] Porque eu tinha um time de front-end developer, back-end developer, um PO, eu tinha um designer.\n[09:31] Então, puta, a gente fez um app super bonitinho ali, que a gente tirou em três semanas do chão e botou pra rodar.\n[09:38] Eu me lembro que antes disso, pra validar, validar mesmo, a gente meio que fez um blog ali, onde eu mudei, em vez de post no blog, eu colocava os serviços que a gente contratava, e eu ligava nos salões, na casa que faz massagem.\n[09:51] E aí eu acabava meio que fazendo essa intermediação por telefone.\n[09:55] Inclusive foi muito legal, porque a gente deu uma puta sorte.\n[09:59] Em 2015, quando a gente tava lançando a Singul, tava no MVP ainda, tava no primeiro versão do app ali, que era MVPzinho mesmo, a gente foi capa da Verginha São Paulo, falando dos serviços via aplicativo e tal, e a Singul era um baita destaque lá.\n[10:14] A editora da Verginha São Paulo até usou Singul, foi a personagem da foto e tal.\n[10:19] E cara, aquilo bombou a gente de demanda, e era legal, porque a Singul tinha tudo que vocês imaginam, personal trainer, professor de yoga, um monte de coisa.\n[10:28] Era meio que pra ser um business de beleza e bem-estar, então eu queria englobar tudo ali.\n[10:33] E aí eu fui e entendi que não faz sentido você fazer com profissionais onde você não consegue criar serviços que são codificáveis, que eu crio um código de execução, pra que a variação de percepção de qualidade seja ínfima, de modo que você não queira me desintermediar, e tinham que ser serviços que eu conseguia também entregar imediatamente.\n[10:54] Além disso, uma característica que a gente percebeu que marketplace só funciona se forem serviços comoditizáveis, ou seja, commodity, praticamente tanto faz quem faz, que a execução vai ser mais ou menos a mesma.\n[11:07] E por fim, quanto maior é a necessidade de capacitação pra execução de um determinado serviço, maior a tendência de você ser desintermediado.\n[11:15] Então por isso que a gente acabou focando em depilação, massagem, manicure, que tem essas características, que são antagônicas a essas características negativas que eu falei com vocês, que acaba causando uma desintermediação que, por sua vez, traz uma recorrência menor, com a hot retention menor, diminui o meu LTV, e aí o negócio não fica sustentável.\n[11:36] Voltando aqui pra MVP, como começar a startup sem o programador, talvez você esteja se perguntando, né?\n[11:43] Puta, e como que eu trago esse cara se eu não tenho dinheiro?\n[11:46] Long story short, né?\n[11:48] Basicamente o que a gente faz é fazer um contrato onde eu vou doar participação da minha empresa pra essas pessoas, a gente chama de um contrato de equity, que vão ter duas cláusulas, né?\n[11:59] Que é a cláusula de vesting, onde eu vou parcelar a quantidade de ações que eu vou doar, e a cláusula de cliff, que é onde eu vou me dar o direito de tirar essa pessoa da sociedade sem onerar a sociedade.\n[12:11] Ou seja, eu posso te demitir da minha sociedade sem ter que pagar nada pra você como sócio.\n[12:16] Você abdica dos seus direitos como sócio durante um ano.\n[12:20] Se passou um ano, eu não te tirei da minha sociedade, aí puta, tamo alinhado, né?\n[12:25] Aí você começa a virar sócio, você começa a vestir ali.\n[12:28] Mas é importante destacar isso, né?\n[12:30] Não precisa ter dinheiro pra começar uma startup, não precisa ter dinheiro pra começar um time, porque o teu primeiro cliente é teu sócio.\n[12:38] Até postei isso hoje.\n[12:40] Você tem que ter a capacidade de atrair esse sócio, e não necessariamente tem que atraí-lo com dinheiro, né?\n[12:46] Pode ser com equity.\n[12:47] Agora, isso depende de você.\n[12:49] Ao bem da verdade, né?\n[12:50] O cara precisa conseguir viver.\n[12:52] Ele precisa conseguir pagar suas contas.\n[12:55] Se ele não tiver uma reserva de capital, ele não vai topar ser seu sócio.\n[12:59] Então você tem que também contar que ele tenha uma reserva de capital.\n[13:03] Se você arrumar um recurso pra poder garantir que aqueles bons sócios, potenciais bons sócios, que não têm reserva de capital, consigam se manter ali pelo menos, de repente o cara fala, olha velho, eu ganho 10 pau aqui, lembrei onde eu trabalho, mas eu consigo viver com 5.\n[13:20] Então, pô, eu topo ganhar 5 aí, se você me der equity.\n[13:23] Ótimo, né?\n[13:23] A gente chama de haircut isso.\n[13:25] O cara toma um haircut e começa a trabalhar com você pra você complementar o pagamento dele com equity.\n[13:31] Inclusive, vou dar uma...\n[13:33] até uma fast forward aqui nessa aula.\n[13:35] Está uma aula bem inicial, mas vou falar aqui de CEO pra CEO, pra quem está nessa jornada aonde eu estou agora.\n[13:42] Uma das formas que eu tenho, um dos hacks que eu tenho pra trazer gente boa, que é muito cara no mercado, é eu faço um cálculo de quanto que ele está deixando na mesa pra poder vir trabalhar comigo.\n[13:54] Então, nesse caso, a gente falou que o cara que ganha 10 está deixando 5 na mesa, né?\n[13:59] Está deixando 60 pau o ano na mesa.\n[14:01] E eu pego esse valor que ele deixou em ano na mesa, 60 pau, e coloco um multiplicador.\n[14:06] Então, digamos que é o seguinte, cara, a cada um real que você deixar na mesa, eu vou te dar 3 em ação.\n[14:12] Então, porra, isso daria 180 pau em ação.\n[14:15] E aí, digamos que a gente vai colocar, pra facilitar a conta aqui, o valuation da empresa inicial ali, que está só na ideia, em 1 milhão e 800.\n[14:23] Então, pô, eu vou te dar 10% da minha empresa pra você vir trabalhar.\n[14:27] Então, eu te dou 5 pau de salário e te dou mais 10% da minha empresa pra ter você comitado aqui, pra ter você no risco.\n[14:34] Ou seja, a cada um real que você deixou na mesa, eu te dou 3 reais em ações da companhia a serem realizadas em um evento de liquidez, em um IPO, whatever.\n[14:44] Vamos lá!\n[14:44] Uma vez que eu consegui, então, fazer meu MVP, testar meu MVP no mercado, eventualmente fiz o InVision, como a gente falou agora.\n[14:52] Mas mais do que isso, né?\n[14:54] Eu tô agora conseguindo atrair um sócio programador pra começar o meu negócio.\n[14:58] Então, o que eu quero fazer agora?\n[15:00] Eu quero sentar com esse sócio e definir quais são as avenidas que a gente vai percorrer na construção do produto.\n[15:07] Da onde que vem essa decisão?\n[15:09] Então, vem das minhas diretrizes estratégicas.\n[15:12] Vou deixar um exerciciozinho pra vocês agora que estão começando o seu negócio.\n[15:16] Senta com os seus sócios e defina quais são as três principais diretrizes estratégicas que vocês querem atingir nesses próximos três meses.\n[15:25] Então, uma diretriz estratégica por mês, tá?\n[15:27] Com base nessa diretriz estratégica...\n[15:30] Faz um plano de execução mesmo.\n[15:31] Então eu não vou nem falar de PMO aqui não, é um negócio tão simples quanto.\n[15:36] Coloca ali quais são as ações que vocês deveriam executar para poder realizar essas diretrizes estratégicas.\n[15:42] Coloca uma data para poder realizar cada ação, tá?\n[15:45] Se não tiver data, fudeu, não vai andar.\n[15:48] E coloca alguém como responsável por aquelas ações.\n[15:51] Alguns dos sócios têm que ser responsáveis por aquelas ações.\n[15:55] Feito isso, você vai ter uma visibilidade melhor de o que o seu produto precisa ter para que você atinja aquelas ações, perdão, para que você realize aquelas ações, de modo que você atinja aquele direcionamento estratégico, aquela diretriz estratégica.\n[16:10] Se você fizer isso que eu estou te falando, você já vai estar gerindo melhor que 80% dos gestores que eu já conheci na minha vida, porque a galera toca o negócio, é uma caralha mesmo, entendeu?\n[16:21] Não para para poder planejar ali.\n[16:23] E qual que é o problema?\n[16:25] Vocês vão ver que o mais difícil nesse momento é você fazer as escolhas certas.\n[16:29] O gestor bom é aquele gestor que consegue percorrer as avenidas de crescimento certas.\n[16:35] E o problema é que assim, quando você está em uma grande companhia, você tem tempo e recurso para poder errar as avenidas.\n[16:42] Então eu estou em uma avenida aqui e falo, puta, errei.\n[16:45] Se no trimestre que vem eu vou tentar outra avenida.\n[16:48] Ah, errei, tudo bem.\n[16:50] Se no trimestre que vem eu vou tentar outra.\n[16:52] Agora aqui na startup é, você errou, querido, você morreu.\n[16:56] A startup é um grupo de pessoas em busca de um modelo escalável e sustentável de negócio.\n[17:01] Tão simples quanto isso, tá?\n[17:03] O que mata a startup?\n[17:04] O que mata a startup é a falta de recurso, pô.\n[17:07] Sei lá, o Uber queima, perde 3 bilhões de dólares por ano.\n[17:10] 3 bilhões de dólares por ano.\n[17:12] Se o Uber não tivesse um arcabouço de grandes investidores ali fomentando, se não tivesse feito o IPO, ele já teria quebrado.\n[17:19] Eles perdem 3 bilhões de dólares por ano.\n[17:22] Então o que mata uma startup?\n[17:24] É falta de dinheiro, tão simples quanto isso.\n[17:26] Então o que um bom founder de startup tem que fazer?\n[17:30] Ele tem que se adaptar o mais rápido possível a mudanças.\n[17:33] Então qual que é a forma que eu utilizo para poder ficar capacitado para me adaptar o mais rápido possível a mudanças?\n[17:40] Primeiro é mapear essas diretrizes estratégicas e tentar aí fazer as melhores escolhas possíveis das avenidas de crescimento que eu vou percorrer, dado os dados que eu tenho.\n[17:50] E essa é a grande dificuldade.\n[17:52] Por quê?\n[17:53] Geralmente você tem 10% das informações que você precisa para tomar uma decisão crucial que vai matar o seu negócio.\n[18:00] Eu passei por isso pra caramba na Easy Taxi, passei por isso pra caramba na Simbu.\n[18:05] Então, puta, sei lá, lembrar uma mudança importante aqui na Easy Taxi no iniciozinho.\n[18:10] O nosso modelo de monetização era o PPU, né?\n[18:12] Pay Per Use, que eu tinha definido, que basicamente eu pegava o pranchetinho e ganhava R$2 por cada pessoa que ele colocava dentro do táxi, né?\n[18:21] Eu substituí esse cara.\n[18:22] Então minha proposta de valor era, deixa eu substituir o pranchetinho, me dá R$2 por corrida.\n[18:28] Fiz o PPU e estava funcionando muito bem, até que em 2013, dois anos depois, surgiu a 99 e ela veio de graça, né?\n[18:35] Tipo, quando elas vieram e ficaram de graça, a gente foi obrigado a parar de cobrar também, né?\n[18:40] Foi aí que começou essa putaria toda no mercado, de ninguém ganhar dinheiro com isso.\n[18:45] Mas até então estava bonito o modelo de monetização, né?\n[18:49] A gente ganhava dinheiro pra caramba com esse negócio, cobrando R$2.\n[18:53] Aí depois a gente mudou esse modelo e foi pro FII, no percentual de pagamento ali, né?\n[18:58] Ganhar um percentual do que é cobrado de pagamento na corrida, né?\n[19:02] O que obviamente baixou pra caramba a nossa margem, consequentemente o EBITDA.\n[19:07] Mas o player é outro, né?\n[19:08] Um player de crescimento, de rodadas de fã, de outro negócio.\n[19:12] Na Simbu, a gente passou por um momento muito complexo também.\n[19:16] Eu me lembro que quando a gente começou a Simbu, o que eu resolvi manter?\n[19:20] Resolvi manter os serviços que a gente tem hoje, mas manter os serviços que a gente tem hoje, mais o serviço de maquiagem.\n[19:27] Porque maquiagem é um ticket médio, puta, bom pra caramba, né?\n[19:31] Mas só que é um serviço muito complexo de rodar, cara, porque um kit de maquiagem é caro.\n[19:36] Pra vocês terem ideia, um kit, sei lá, básico de maquiagem custa R$10, R$12 mil, mais ou menos, sabe?\n[19:42] Básico pra um profissional trabalhar.\n[19:45] É um negócio muito longe da realidade do brasileiro, né?\n[19:48] A gente tem aí, se eu não me engano, quase 80% da população brasileira vive com salário mínimo.\n[19:54] Então, tipo assim, é um negócio assustador, né?\n[19:57] Quando você sai da bolha e olha a realidade.\n[19:59] Não é a realidade nossa com internet boa pra ver live no smartphone.\n[20:03] A gente é bolha da bolha, tá?\n[20:05] Vamos cair na real aqui.\n[20:06] O Brasil de verdade mesmo vive com salário mínimo.\n[20:09] Então esse é um dinheiro inimaginável pra essas pessoas, né?\n[20:13] Então a gente falou, cara, é um negócio que é difícil trazer provider, né?\n[20:17] Como a gente chama, trazer os artistas, os prestadores de serviço, perdão.\n[20:22] E é difícil também codificar esse serviço, porque maquiagem é um trabalho muito artístico, né?\n[20:28] Então, puta, falei, cara, vai ser mega difícil pra gente eventualmente criar um código de execução de serviço pra garantir que todo serviço de maquiagem vai ser praticamente igual aos outros.\n[20:39] Diferente do que eu consigo fazer em massagem, do que eu consigo fazer em unha e tal.\n[20:44] Então, o que a gente decidiu fazer?\n[20:46] Tirar a maquiagem.\n[20:47] Só que maquiagem, naquele momento da Simbu, era 30% da minha receita.\n[20:51] Então vocês imaginam eu virando pros meus sócios e falando assim, galera, eu sei que essa decisão é polêmica, parte dos sócios queriam tirar a maquiagem, parte não queriam, virar pros meus acionistas, meus investidores e falar assim, galera, eu vou tirar 30% da nossa receita, porque tirando isso eu vou livrar meu time pra que eu consiga percorrer as nossas outras avenidas de crescimento.\n[21:15] Essa aqui eu acho que vai ser muito mais dura de percorrer.\n[21:18] Dado os nossos recursos, eu acho que não faz sentido.\n[21:22] Foi um ato de muita coragem da nossa gestão ali.\n[21:24] A gente perdeu um terço da nossa receita num momento que era crucial pra gente, ali no iniciozinho de Singur.\n[21:31] Isso tá falando de 2016, então a gente tinha um pouco menos de um ano de vida.\n[21:36] Dois exemplos aí de direcionamento estratégico e decisões que a gente tem que tomar com pouca informação.\n[21:42] Mas, bom, foi a melhor escolha que eu poderia fazer.\n[21:45] Singur hoje é a maior plataforma do segmento em termos de pedido.\n[21:49] Nós somos a maior da América Latina.\n[21:51] A gente teve um assessment, acesso a esse assessment em todas as plataformas da América Latina.\n[21:57] Falamos com eles, contratamos uma boutique de M&A que falou com eles também.\n[22:01] Então nós somos a maior da América Latina e só somos os maiores da América Latina porque a gente escolheu as avenidas de crescimento corretas.\n[22:10] Então o conselho que eu deixo para vocês aqui, quais são minhas diretrizes estratégicas?\n[22:15] Quais são as avenidas de crescimento que eu vou percorrer para poder atingir essas diretrizes estratégicas?\n[22:22] Quem vai ser responsável por cada avenida de crescimento?\n[22:25] Qual é a data que eu vou entregar as ações que estão previstas para percorrer essas avenidas de crescimento?\n[22:32] O que o meu produto precisa se adaptar para que eu percorra essas avenidas de crescimento?\n[22:37] Tão simples quanto isso, o difícil é executar no dia a dia.\n[22:41] Então, puta, tenha acompanhamento, tenha essa anotada na agenda, porque senão não faz.\n[22:46] E aqui, quem me segue sabe, né?\n[22:48] Eu tento ser extremamente prático, sair do mundo das ideias que o pessoal fica falando aí, porque eu vivo isso no meu dia a dia.\n[22:55] Eu estou só falando para vocês o que eu faço todos os dias da minha vida, desde que eu comecei a fazer esse negócio.\n[23:02] Trabalho desde 14 anos, tenho startup desde 2011, comecei com o Status.\n[23:06] Então tem muitos anos que eu vivo isso que eu estou falando.\n[23:10] Por isso que quando eu falo parece simples, assim, porque faz muito parte do meu dia a dia.\n[23:16] Então eu tento simplificar o máximo possível para vocês.\n[23:19] Mas eu já aviso, o difícil não é entender o que tem que ser feito, tá?\n[23:23] Não tem fórmula mágica aqui.\n[23:25] O difícil é fazer no dia a dia, com consistência.\n[23:28] Como você fala, né?\n[23:29] Disciplina e consistência.\n[23:30] E aí, gostou do episódio?\n[23:32] Se sim, não esquece de compartilhar com um amigo.\n[23:35] Se for postar nas redes sociais, não deixe de marcar o Instagram do arrobaG4Podcast.\n[23:40] Eu quero saber realmente o que você achou.\n[23:42] Um abraço e até o próximo episódio.",
+  "timestamps_estimated": true
+}

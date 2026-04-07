@@ -1,0 +1,231 @@
+{
+  "episode_id": "34748488477",
+  "title": "A MARCA DE CAFÉ QUE NÃO VENDE CAFÉ - COM MURILO ALLAN (CAFFEINE ARMY) | G4 PODCASTS",
+  "date_published": 1704877200,
+  "duration": 3183,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Marcela Zaiden",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia e Diretora de Pessoas"
+    },
+    {
+      "name": "Murilo Allan",
+      "role": "guest",
+      "company": "Caffeine Army",
+      "title": "Head de Branding"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação para negócios e empreendedorismo"
+    },
+    {
+      "name": "Caffeine Army",
+      "industry": "Alimentos e Bebidas",
+      "context": "Empresa focada em produtos energéticos e saudáveis"
+    },
+    {
+      "name": "Bold",
+      "industry": "Alimentos e Bebidas",
+      "context": "Mencionada como parceira no mercado de bem-estar."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "MVP (Minimum Viable Product)",
+      "category": "Desenvolvimento de Produto"
+    },
+    {
+      "name": "Bulletproof Coffee",
+      "category": "Alimentos e Bebidas"
+    },
+    {
+      "name": "Marketing Digital",
+      "category": "Marketing"
+    },
+    {
+      "name": "Super Coffee",
+      "category": "Produto"
+    },
+    {
+      "name": "Pesquisa de Persona",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Mercado de Bem-Estar",
+      "category": "Indústria"
+    },
+    {
+      "name": "Construção de Comunidade",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Prova Social",
+      "category": "Marketing"
+    },
+    {
+      "name": "Feedback em Tempo Real",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Marketing Espontâneo",
+      "category": "Marketing"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "2016",
+      "context": "Ano de fundação da Caffeine Army"
+    },
+    {
+      "value": "2019",
+      "context": "Lançamento do Super Coffee pela Caffeine Army"
+    },
+    {
+      "value": "2020",
+      "context": "Lançamento do Super Coffee 2.0 pela Caffeine Army"
+    },
+    {
+      "value": "5 anos",
+      "context": "Tempo de Murilo Allan na Caffeine Army"
+    },
+    {
+      "value": "5 anos",
+      "context": "Tempo estimado de crescimento do mercado de bem-estar no Brasil."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Murilo Allan",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Caffeine Army",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Caffeine Army",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Super Coffee",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bold",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Caffeine Army",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcela Zaiden",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Caffeine Army",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Bold",
+      "target_type": "company"
+    },
+    {
+      "source": "Caffeine Army",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Pesquisa De Persona",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caffeine Army",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mvp (Minimum Viable Product)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caffeine Army",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Super Coffee",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bulletproof Coffee",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Caffeine Army",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Caffeine Army",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "episode_id": "34748488626",
+  "title": "Ícaro de Carvalho (Parte 2) - Home Office, Junk Food, Como criar Cultura e Não tirar o direito de quem quer prosperar | Papo de Gestão",
+  "date_published": 1671784801,
+  "duration": 5265,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Thales Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Ícaro De Carvalho",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ana",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Matheus",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Lavínia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Brunão",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Muzi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Olavo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Amaral",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rodrigo Simonsen",
+      "role": "mentioned",
+      "company": "Novo Mercado",
+      "title": "Diretor"
+    },
+    {
+      "name": "Bruno",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Matheu",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fábio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Cavaca",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla",
+      "title": ""
+    },
+    {
+      "name": "Deng Xiaoping",
+      "role": "mentioned",
+      "company": "Partido Comunista Chinês",
+      "title": ""
+    },
+    {
+      "name": "Paulo Guedes",
+      "role": "mentioned",
+      "company": "Governo Brasileiro",
+      "title": "Ministro da Economia"
+    },
+    {
+      "name": "Luísa",
+      "role": "mentioned",
+      "company": "Magazine Luiza",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Podcast e educação empresarial"
+    },
+    {
+      "name": "Novo Mercado",
+      "industry": "Publishing",
+      "context": "Rodrigo Simonsen é diretor nesta empresa."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotivo",
+      "context": "Mencionada como pioneira na indústria de carros elétricos"
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Retail",
+      "context": "Mentioned in the context of consumer credit and services."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Finance",
+      "context": "Mentioned as a venue where Paulo Guedes discussed Brazil's economic growth."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Home Office",
+      "category": "Estratégia de trabalho"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Junk Food",
+      "category": "Alimentação"
+    },
+    {
+      "name": "Renda Básica Universal",
+      "category": "Economia"
+    },
+    {
+      "name": "Jiu Jitsu",
+      "category": "Esporte"
+    },
+    {
+      "name": "Masculinidade",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Desenvolvimento infantil",
+      "category": "Educação e saúde"
+    },
+    {
+      "name": "Uso de telas por crianças",
+      "category": "Tecnologia e educação"
+    },
+    {
+      "name": "Cultura Goldman Sachs",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Capitalismo",
+      "category": "Sistema Econômico"
+    },
+    {
+      "name": "Geração de Riqueza",
+      "category": "Economia"
+    },
+    {
+      "name": "Desigualdade Econômica",
+      "category": "Economia"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Negócios"
+    },
+    {
+      "name": "Trabalho Voluntário",
+      "category": "Estratégia de Carreira"
+    },
+    {
+      "name": "Meritocracia",
+      "category": "Sociologia"
+    },
+    {
+      "name": "Blackout de Mão de Obra",
+      "category": "Mercado de Trabalho"
+    },
+    {
+      "name": "Desemprego",
+      "category": "Economia"
+    },
+    {
+      "name": "Selic",
+      "category": "Economic Indicator"
+    },
+    {
+      "name": "Superávit Primário",
+      "category": "Economic Indicator"
+    },
+    {
+      "name": "Desindustrialização",
+      "category": "Economic Trend"
+    },
+    {
+      "name": "Concessões de Infraestrutura",
+      "category": "Economic Policy"
+    },
+    {
+      "name": "Estatuto do Armamento",
+      "category": "Legislation"
+    },
+    {
+      "name": "Centrão",
+      "category": "Political Group"
+    }
+  ],
+  "books": [
+    {
+      "title": "Imbecil Juvenil",
+      "author": "Olavo"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "70%",
+      "context": "Porcentagem do trabalho relacionado a coisas desconhecidas que são descobertas interagindo com outras pessoas."
+    },
+    {
+      "value": "8%",
+      "context": "Taxa de desemprego mencionada como parte de um período econômico favorável no Brasil"
+    },
+    {
+      "value": "2,75%",
+      "context": "Taxa Selic mencionada como parte de um período econômico favorável no Brasil"
+    },
+    {
+      "value": "8%",
+      "context": "Unemployment rate during the past four years."
+    },
+    {
+      "value": "2.75%",
+      "context": "Selic rate during the past four years."
+    },
+    {
+      "value": "13.75%",
+      "context": "Current Selic rate."
+    },
+    {
+      "value": "220 million",
+      "context": "Population of Brazil."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Governo Brasileiro",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Deng Xiaoping",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Partido Comunista Chinês",
+      "target_type": "company"
+    },
+    {
+      "source": "Luísa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Simonsen",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Novo Mercado",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "Ícaro De Carvalho",
+      "target_type": "person"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Tesla",
+      "target_type": "company"
+    }
+  ]
+}

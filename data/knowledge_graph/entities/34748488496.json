@@ -1,0 +1,215 @@
+{
+  "episode_id": "34748488496",
+  "title": "Ele Construiu o Maior Ecossistema de Ensino Tech do Brasil - Com Paulo Silveira (Allura) | Papo de Gestão",
+  "date_published": 1701680400,
+  "duration": 4281,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Paulo Silveira",
+      "role": "guest",
+      "company": "Alura",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Sérgio Silveira",
+      "role": "mentioned",
+      "company": "Alura",
+      "title": "CTO"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla, SpaceX",
+      "title": "CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Alura",
+      "industry": "Educação",
+      "context": "Plataforma de ensino de tecnologia com mais de 1.200 cursos e 500 mil alunos."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de treinamento e capacitação empresarial."
+    },
+    {
+      "name": "Fgv",
+      "industry": "Educação",
+      "context": "Instituição de ensino superior e pesquisa no Brasil."
+    },
+    {
+      "name": "Fiap",
+      "industry": "Education",
+      "context": "Mentioned in the context of collaboration with Alura"
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotive and Energy",
+      "context": "Mentioned in relation to Elon Musk."
+    },
+    {
+      "name": "Spacex",
+      "industry": "Aerospace",
+      "context": "Mentioned in relation to Elon Musk."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Community Led Companies",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Barreiras de entrada",
+      "category": "Conceito de mercado"
+    },
+    {
+      "name": "Reputação de marca",
+      "category": "Marketing"
+    },
+    {
+      "name": "Educação e saúde como processos longos",
+      "category": "Conceito de mercado"
+    },
+    {
+      "name": "Innovator's Dilemma",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Investment"
+    },
+    {
+      "name": "Growth Strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "TAM (Total Addressable Market)",
+      "category": "Market Analysis"
+    },
+    {
+      "name": "OKR (Objectives and Key Results)",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Framework",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Playbook",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Humildade Intelectual",
+      "category": "Leadership"
+    }
+  ],
+  "books": [
+    {
+      "title": "Innovator's Dilemma",
+      "author": "Clayton M. Christensen"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1.200 cursos",
+      "context": "Número de cursos disponíveis na plataforma Alura."
+    },
+    {
+      "value": "500 mil alunos",
+      "context": "Número de alunos que passaram pela Alura."
+    },
+    {
+      "value": "500 colaboradores",
+      "context": "Número de colaboradores da Alura."
+    },
+    {
+      "value": "10 million",
+      "context": "Initial revenue milestone for Alura's online courses"
+    },
+    {
+      "value": "950 employees",
+      "context": "Combined workforce of Alura and FIAP in recent times"
+    },
+    {
+      "value": "19-20% growth",
+      "context": "Growth rate of Alura in 2017"
+    },
+    {
+      "value": "19%-20%",
+      "context": "Growth rate in 2017 for Alura."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Paulo Silveira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alura",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tesla",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Sérgio Silveira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Alura",
+      "target_type": "company"
+    },
+    {
+      "source": "Innovator'S Dilemma",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Alura",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Spacex",
+      "target_type": "company"
+    },
+    {
+      "source": "Alura",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Fiap",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "episode_id": "35618087085",
+  "title": "O QUE SABER ANTES DE EMPREENDER NOS EUA COM ROBERTO SPIGHEL | EXTREMOS",
+  "date_published": 1743606000,
+  "duration": 3813,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Roberto Spiegel",
+      "role": "guest",
+      "company": "Morareua",
+      "title": "CEO and Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Dilma Rousseff",
+      "role": "mentioned",
+      "company": "",
+      "title": "Former President of Brazil"
+    },
+    {
+      "name": "Gui",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mark Lema",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Geraldo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Roberto Spighel",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Boale",
+      "title": "CEO"
+    },
+    {
+      "name": "Guilherme",
+      "role": "mentioned",
+      "company": "Smiles",
+      "title": "Head de TI"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Tesla",
+      "industry": "Automotive",
+      "context": "Service provider relationship with a Brazilian client"
+    },
+    {
+      "name": "Morareua",
+      "industry": "Concierge and Migration Services",
+      "context": "Company founded by Roberto Spiegel to assist families moving to the USA"
+    },
+    {
+      "name": "Sd Global Group",
+      "industry": "Migration and Business Services",
+      "context": "Group founded by Roberto Spiegel offering comprehensive migration services"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education and Business Training",
+      "context": "Hosts Alfredo Soares and Bruno Nardon are associated with this company"
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Negócio iniciado por Guilherme"
+    },
+    {
+      "name": "Smiles",
+      "industry": "Programas de fidelidade",
+      "context": "Empresa onde Guilherme foi Head de TI"
+    },
+    {
+      "name": "Boale",
+      "industry": "Foodtech",
+      "context": "Expansão no mercado de alimentação saudável"
+    },
+    {
+      "name": "Costco",
+      "industry": "Varejo",
+      "context": "Mercado mencionado como potencial para produtos nos EUA"
+    },
+    {
+      "name": "Walmart",
+      "industry": "Varejo",
+      "context": "Mercado mencionado como potencial para produtos nos EUA"
+    },
+    {
+      "name": "Publix",
+      "industry": "Varejo",
+      "context": "Mercado mencionado como potencial para produtos nos EUA"
+    },
+    {
+      "name": "Whole Foods",
+      "industry": "Varejo",
+      "context": "Mercado mencionado como potencial para produtos nos EUA"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "B2B services",
+      "category": "Business Model"
+    },
+    {
+      "name": "Migration ecosystem",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Dolarization",
+      "category": "Financial Strategy"
+    },
+    {
+      "name": "Concierge services",
+      "category": "Customer Service"
+    },
+    {
+      "name": "Professional relocation",
+      "category": "Career Development"
+    },
+    {
+      "name": "Investment in dollar assets",
+      "category": "Financial Planning"
+    },
+    {
+      "name": "Valuation",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Foodtech",
+      "category": "Indústria"
+    },
+    {
+      "name": "Advisor",
+      "category": "Consultoria"
+    },
+    {
+      "name": "Kosher",
+      "category": "Certificação alimentar"
+    },
+    {
+      "name": "Board Members",
+      "category": "Governança Corporativa"
+    },
+    {
+      "name": "Classe Média nos Estados Unidos",
+      "category": "Socioeconômico"
+    },
+    {
+      "name": "Conversão de Moeda",
+      "category": "Finanças Pessoais"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "800 families per year",
+      "context": "Number of families assisted by Roberto Spiegel's company to move to the USA"
+    },
+    {
+      "value": "10 years",
+      "context": "Duration of Morareua's operation"
+    },
+    {
+      "value": "6.15 BRL/USD",
+      "context": "Exchange rate mentioned during the podcast"
+    },
+    {
+      "value": "8 billion USD",
+      "context": "Amount intervened by the Central Bank to stabilize the dollar"
+    },
+    {
+      "value": "2 milhões de dólares por ano",
+      "context": "Faturamento do negócio de Guilherme na Amazon"
+    },
+    {
+      "value": "30%",
+      "context": "Margem líquida do negócio de Guilherme na Amazon"
+    },
+    {
+      "value": "6 meses a 1 ano",
+      "context": "Tempo estimado para projetos de entrada no mercado dos Estados Unidos."
+    },
+    {
+      "value": "8 mil dólares por mês",
+      "context": "Renda média de um casal classe média nos Estados Unidos."
+    },
+    {
+      "value": "25 a 30 mil reais por mês",
+      "context": "Renda média de classe média alta no Brasil."
+    },
+    {
+      "value": "96 mil dólares por ano",
+      "context": "Renda anual de um casal classe média nos Estados Unidos."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Boale",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberto Spighel",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Smiles",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberto Spiegel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Morareua",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberto Spiegel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sd Global Group",
+      "target_type": "company"
+    },
+    {
+      "source": "Tesla",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Brazilian Service Provider",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberto Spiegel",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    }
+  ]
+}

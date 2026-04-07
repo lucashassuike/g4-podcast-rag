@@ -1,0 +1,362 @@
+{
+  "episode_id": "52494091345",
+  "title": "ARTHURITO DA FARIA LIMA: O INFLUENCER ANÔNIMO QUE VIROU VOZ DO MERCADO FINANCEIRO | EXTREMOS",
+  "date_published": 1773846000,
+  "duration": 3419,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Arturito Da Faria Lima",
+      "role": "guest",
+      "company": "",
+      "title": "Influencer do mercado financeiro"
+    },
+    {
+      "name": "Jordan Belfort",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ana",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influencer de finanças"
+    },
+    {
+      "name": "Faria Lima Elevato",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influencer de finanças"
+    },
+    {
+      "name": "Arthurito",
+      "role": "guest",
+      "company": "Humans of Faria Lima",
+      "title": "Founder"
+    },
+    {
+      "name": "Roberto Salucci",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Unknown"
+    },
+    {
+      "name": "Roberto Campos Neto",
+      "role": "mentioned",
+      "company": "Banco Central do Brasil",
+      "title": "President"
+    },
+    {
+      "name": "Cris Junqueira",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Augusto Martins",
+      "role": "mentioned",
+      "company": "JHSF",
+      "title": "CEO"
+    },
+    {
+      "name": "Henry Zilberstein",
+      "role": "mentioned",
+      "company": "Azuki",
+      "title": "Unknown"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e consultoria empresarial",
+      "context": "Plataforma de educação e consultoria empresarial mencionada no podcast"
+    },
+    {
+      "name": "Ifood Benefício",
+      "industry": "Tecnologia e benefícios corporativos",
+      "context": "Serviço de benefícios corporativos mencionado como parceiro estratégico do G4 Educação"
+    },
+    {
+      "name": "Banco Master",
+      "industry": "Financeiro",
+      "context": "Banco mencionado em relação a problemas financeiros e investigações"
+    },
+    {
+      "name": "B3",
+      "industry": "Financeiro",
+      "context": "Bolsa de valores brasileira mencionada como parceira em um projeto de podcast"
+    },
+    {
+      "name": "Humans Of Faria Lima",
+      "industry": "Media",
+      "context": "Podcast and Instagram content creation"
+    },
+    {
+      "name": "Jhsf",
+      "industry": "Real Estate",
+      "context": "Mentioned in relation to CEO Augusto Martins"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Financial Services",
+      "context": "Mentioned as a recording location for Roberto Campos Neto interview"
+    },
+    {
+      "name": "Azuki",
+      "industry": "Unknown",
+      "context": "Mentioned as a partner in influencer marketing"
+    },
+    {
+      "name": "Xp Inc.",
+      "industry": "Financial Services",
+      "context": "Discussed as a leader in open investment architecture"
+    },
+    {
+      "name": "Ambima",
+      "industry": "Financeiro",
+      "context": "Regulação e certificação no mercado financeiro"
+    },
+    {
+      "name": "Banco Mister",
+      "industry": "Financeiro",
+      "context": "Distribuição de CDBs e compliance"
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Financeiro",
+      "context": "Distribuição de produtos financeiros"
+    },
+    {
+      "name": "Safra",
+      "industry": "Financeiro",
+      "context": "Distribuição de produtos financeiros"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Estratégia de humor",
+      "category": "Estratégia de conteúdo"
+    },
+    {
+      "name": "Engajamento em redes sociais",
+      "category": "Métrica de marketing"
+    },
+    {
+      "name": "Anonimato como estratégia",
+      "category": "Estratégia de branding"
+    },
+    {
+      "name": "Transição de CLT para empreendedorismo",
+      "category": "Carreira"
+    },
+    {
+      "name": "Ecossistema de mídia e consultoria",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Skin in the game",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Influencer marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Open investment architecture",
+      "category": "Financial Services"
+    },
+    {
+      "name": "Education in financial literacy",
+      "category": "Financial Services"
+    },
+    {
+      "name": "Certificação financeira",
+      "category": "Regulação"
+    },
+    {
+      "name": "FGC (Fundo Garantidor de Créditos)",
+      "category": "Sistema financeiro"
+    },
+    {
+      "name": "Fee-based",
+      "category": "Modelo de remuneração"
+    },
+    {
+      "name": "Comissionamento",
+      "category": "Modelo de remuneração"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "250 mil seguidores",
+      "context": "Número de seguidores no Instagram do convidado"
+    },
+    {
+      "value": "14 anos",
+      "context": "Tempo de trabalho do convidado em um banco de investimento"
+    },
+    {
+      "value": "10 episodes",
+      "context": "Initial podcast series with B3"
+    },
+    {
+      "value": "250 mil reais",
+      "context": "Cobertura do FGC para investimentos"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Arthurito",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Roberto Salucci",
+      "target_type": "person"
+    },
+    {
+      "source": "Arthurito",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Skin In The Game",
+      "target_type": "concept"
+    },
+    {
+      "source": "Arthurito",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Augusto Martins",
+      "target_type": "person"
+    },
+    {
+      "source": "Arturito Da Faria Lima",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Banco Master",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Mister",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Fgc (Fundo Garantidor De Créditos)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Arthurito",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Xp Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Arthurito",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Influencer Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Arturito Da Faria Lima",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "B3",
+      "target_type": "company"
+    },
+    {
+      "source": "Arthurito",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Humans Of Faria Lima",
+      "target_type": "company"
+    },
+    {
+      "source": "Fee-Based",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Comissionamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Arthurito",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Henry Zilberstein",
+      "target_type": "person"
+    },
+    {
+      "source": "Arturito Da Faria Lima",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ana",
+      "target_type": "person"
+    },
+    {
+      "source": "Arthurito",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Roberto Campos Neto",
+      "target_type": "person"
+    },
+    {
+      "source": "Arthurito",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Open Investment Architecture",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ambima",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Certificação Financeira",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Arthurito",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Education In Financial Literacy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Arturito Da Faria Lima",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Faria Lima Elevato",
+      "target_type": "person"
+    }
+  ]
+}

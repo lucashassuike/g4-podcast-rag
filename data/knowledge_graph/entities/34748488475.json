@@ -1,0 +1,293 @@
+{
+  "episode_id": "34748488475",
+  "title": "COMO ELE FOI DE FRENTISTA A CEO - COM LAURENCE TATAREN | EXTREMOS",
+  "date_published": 1705506541,
+  "duration": 3564,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Laurence Tatarian",
+      "role": "guest",
+      "company": "THX Group",
+      "title": "CEO"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Laurence Tataren",
+      "role": "guest",
+      "company": "Optimove",
+      "title": "CEO"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Thx Group",
+      "industry": "Logistics",
+      "context": "Founded by Laurence Tatarian in 2010, operates in Paraná."
+    },
+    {
+      "name": "Clivo",
+      "industry": "Healthcare",
+      "context": "Founded by Marcelo Toledo."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Provides corporate education tools and programs."
+    },
+    {
+      "name": "Optimove",
+      "industry": "Logística e Transporte",
+      "context": "Empresa fundada por Laurence Tataren para prestar serviços tecnológicos para transportadores."
+    },
+    {
+      "name": "Coca-Cola",
+      "industry": "Bebidas",
+      "context": "Cliente da empresa de Laurence Tataren, utilizando serviços de transporte e rastreabilidade."
+    },
+    {
+      "name": "Café Três Corações",
+      "industry": "Alimentos e Bebidas",
+      "context": "Cliente mencionado no contexto de serviços de transporte."
+    },
+    {
+      "name": "Thx",
+      "industry": "Tecnologia e Transporte",
+      "context": "Empresa liderada por Laurence Tataren, focada em motoristas e tecnologia."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Rebranding",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Corporate Education",
+      "category": "Education"
+    },
+    {
+      "name": "Leadership Development",
+      "category": "Education"
+    },
+    {
+      "name": "Tecnologia em Logística",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Automatização de Processos",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Rastreabilidade",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Input Digital",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Indústria Digital",
+      "category": "Tendências de Mercado"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "PDI (Plano de Desenvolvimento Individual)",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Feedback 360",
+      "category": "Gestão de Pessoas"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "18 million",
+      "context": "Revenue in 2017 for Laurence Tatarian's company."
+    },
+    {
+      "value": "9.4 million",
+      "context": "Revenue in 2019 for Laurence Tatarian's company."
+    },
+    {
+      "value": "38 employees",
+      "context": "Initial team size of Laurence Tatarian's company."
+    },
+    {
+      "value": "2 employees",
+      "context": "Remaining team size after restructuring."
+    },
+    {
+      "value": "22.504 cargas carregadas",
+      "context": "Operações realizadas no ano passado pela empresa de Laurence Tataren."
+    },
+    {
+      "value": "102 mil toneladas",
+      "context": "Quantidade de carga transportada no ano passado."
+    },
+    {
+      "value": "2 milhões e 100 mil quilômetros",
+      "context": "Distância percorrida no ano passado."
+    },
+    {
+      "value": "40 funcionários",
+      "context": "Equipe envolvida nas operações mencionadas."
+    },
+    {
+      "value": "27 milhões",
+      "context": "Faturamento anual da empresa de Laurence Tataren."
+    },
+    {
+      "value": "60% do faturamento",
+      "context": "Custo com motoristas."
+    },
+    {
+      "value": "40 mil pessoas",
+      "context": "Número de pessoas impactadas pelo G4 Skills."
+    },
+    {
+      "value": "4 mil motoristas",
+      "context": "Número de motoristas atendidos pela THX."
+    },
+    {
+      "value": "17-18 horas por semana",
+      "context": "Tempo dedicado por Laurence Tataren à THX."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Laurence Tataren",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Feedback 360",
+      "target_type": "concept"
+    },
+    {
+      "source": "Laurence Tataren",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Laurence Tataren",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pdi (Plano De Desenvolvimento Individual)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Corporate Education",
+      "target_type": "concept"
+    },
+    {
+      "source": "Optimove",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Tecnologia Em Logística",
+      "target_type": "concept"
+    },
+    {
+      "source": "Optimove",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Coca-Cola",
+      "target_type": "company"
+    },
+    {
+      "source": "Thx",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Tecnologia E Transporte",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Educação E Consultoria",
+      "target_type": "company"
+    },
+    {
+      "source": "Laurence Tataren",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Optimove",
+      "target_type": "company"
+    },
+    {
+      "source": "Laurence Tatarian",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Thx Group",
+      "target_type": "company"
+    },
+    {
+      "source": "Optimove",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Café Três Corações",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Leadership Development",
+      "target_type": "concept"
+    },
+    {
+      "source": "Laurence Tataren",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Thx",
+      "target_type": "company"
+    }
+  ]
+}

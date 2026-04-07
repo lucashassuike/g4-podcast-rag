@@ -1,0 +1,259 @@
+{
+  "episode_id": "34748488368",
+  "title": "O PODER DAS REDES SOCIAIS NOS NEGÓCIOS - COM GUE OLIVEIRA | EXTREMOS",
+  "date_published": 1732835721,
+  "duration": 4185,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Gue Oliveira",
+      "role": "guest",
+      "company": "",
+      "title": "Fenômeno da Internet"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rubens Barrichello",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Igor",
+      "role": "mentioned",
+      "company": "Land Rover",
+      "title": ""
+    },
+    {
+      "name": "Gabriel Medina",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Juarez",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Virgínia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tiago",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de ensino de estratégias de negócios"
+    },
+    {
+      "name": "Land Rover",
+      "industry": "Automotivo",
+      "context": "Mencionada em relação a Igor"
+    },
+    {
+      "name": "Hbo",
+      "industry": "Entertainment",
+      "context": "Plataforma onde o reality Hairstyle Brasil está disponível."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Redes sociais",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Engajamento",
+      "category": "Métrica de redes sociais"
+    },
+    {
+      "name": "Algoritmo",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Transformação visual",
+      "category": "Beleza"
+    },
+    {
+      "name": "Tendências de mercado",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Marketing de atenção",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Gestão de negócios",
+      "category": "Administração"
+    },
+    {
+      "name": "Saúde mental",
+      "category": "Bem-estar no trabalho"
+    },
+    {
+      "name": "Equity",
+      "category": "Finanças"
+    },
+    {
+      "name": "Furar bolha",
+      "category": "Estratégia de mercado"
+    },
+    {
+      "name": "recorrência",
+      "category": "estratégia de negócios"
+    },
+    {
+      "name": "experiência do cliente",
+      "category": "estratégia de negócios"
+    },
+    {
+      "name": "avaliação no Google",
+      "category": "métrica de satisfação do cliente"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "1 milhão",
+      "context": "Número de seguidores alcançados em redes sociais"
+    },
+    {
+      "value": "99,8 kg",
+      "context": "Peso mencionado em contexto de esportes"
+    },
+    {
+      "value": "2,7 milhões",
+      "context": "Número de seguidores de Gue Oliveira em novembro de 2023."
+    },
+    {
+      "value": "500-600 milhões",
+      "context": "Faturamento estimado para Virgínia em 2023."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gue Oliveira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Saúde Mental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gue Oliveira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Experiência Do Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gue Oliveira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Juarez",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gue Oliveira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Virgínia",
+      "target_type": "person"
+    },
+    {
+      "source": "Gue Oliveira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Furar Bolha",
+      "target_type": "concept"
+    },
+    {
+      "source": "Igor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Land Rover",
+      "target_type": "company"
+    },
+    {
+      "source": "Gue Oliveira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marketing De Atenção",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gue Oliveira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Recorrência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gue Oliveira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Negócios",
+      "target_type": "concept"
+    },
+    {
+      "source": "Virgínia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tiago",
+      "target_type": "person"
+    },
+    {
+      "source": "Gue Oliveira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Avaliação No Google",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gue Oliveira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Equity",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "episode_id": "34748488614",
+  "title": "Rapha Avellar - Rotina, Produtividade, Cultura Woke e Influenciadores | Papo de Gestão",
+  "date_published": 1679302815,
+  "duration": 4376,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Rapha Avellar",
+      "role": "guest",
+      "company": "Brain Lovers",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Thiago Volpi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Médico"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Facundo Guerra",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Daniel Kahneman",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Richard Taylor",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Aristóteles",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Euclides",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marisabel",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "CFO"
+    },
+    {
+      "name": "Mari",
+      "role": "mentioned",
+      "company": "",
+      "title": "Medical Professional and Triathlete"
+    },
+    {
+      "name": "Gustavo Lima",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gabriel Vickbold",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Podcast e educação para líderes e empreendedores"
+    },
+    {
+      "name": "Americanas",
+      "industry": "Varejo",
+      "context": "Mencionada em relação à restauração financeira"
+    },
+    {
+      "name": "Singu",
+      "industry": "Technology",
+      "context": "Mentioned as a workplace for Marisabel"
+    },
+    {
+      "name": "Brain Lovers",
+      "industry": "Technology",
+      "context": "Founded by Rapha Avellar"
+    },
+    {
+      "name": "Adventurous",
+      "industry": "Consultoria e Gestão de Marcas",
+      "context": "Empresa fundada por Rapha Avellar, especializada em ajudar celebridades a lançarem suas marcas."
+    },
+    {
+      "name": "Nativosa (Nv)",
+      "industry": "Moda",
+      "context": "Exemplo de marca que cresceu organicamente e gerou riqueza."
+    },
+    {
+      "name": "Unilever",
+      "industry": "Bens de Consumo",
+      "context": "Mencionada como exemplo de expertise em CPG."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "TDAH (Transtorno de Déficit de Atenção e Hiperatividade)",
+      "category": "Condição de saúde"
+    },
+    {
+      "name": "Rotina",
+      "category": "Produtividade"
+    },
+    {
+      "name": "Stakeholder",
+      "category": "Negócios"
+    },
+    {
+      "name": "Endurance",
+      "category": "Esporte"
+    },
+    {
+      "name": "Endurance Sports",
+      "category": "Sports"
+    },
+    {
+      "name": "Ambition vs. Greed",
+      "category": "Ethics"
+    },
+    {
+      "name": "Insecurity in Brazilian Legal System",
+      "category": "Legal"
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Business"
+    },
+    {
+      "name": "tribalismo",
+      "category": "social dynamics"
+    },
+    {
+      "name": "viés cognitivo",
+      "category": "psychology"
+    },
+    {
+      "name": "filosofia socrática",
+      "category": "philosophy"
+    },
+    {
+      "name": "cultura woke",
+      "category": "social dynamics"
+    },
+    {
+      "name": "Inclusão",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "ESG",
+      "category": "Sustentabilidade e Governança"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Gestão"
+    },
+    {
+      "name": "Análise Multivariada",
+      "category": "Estatística"
+    },
+    {
+      "name": "Viés de Confirmação",
+      "category": "Psicologia Cognitiva"
+    },
+    {
+      "name": "influencer marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "content creators",
+      "category": "Marketing"
+    },
+    {
+      "name": "supply and demand platform",
+      "category": "Business Model"
+    },
+    {
+      "name": "Google AdWords",
+      "category": "Advertising"
+    },
+    {
+      "name": "frequency 3",
+      "category": "Advertising Strategy"
+    },
+    {
+      "name": "ROIC (Return on Invested Capital)",
+      "category": "Finance"
+    },
+    {
+      "name": "Celebrity Product Fit (CPF)",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "ROI (Retorno sobre Investimento)",
+      "category": "Métrica Financeira"
+    },
+    {
+      "name": "Micro Influenciadores",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Equity",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "Gestão de Marca",
+      "category": "Negócios"
+    },
+    {
+      "name": "mindset",
+      "category": "framework"
+    },
+    {
+      "name": "publicidade",
+      "category": "estrategia"
+    },
+    {
+      "name": "empreendedorismo",
+      "category": "conceito"
+    }
+  ],
+  "books": [
+    {
+      "title": "Nudge",
+      "author": "Richard Taylor"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "36%",
+      "context": "Percentual de gordura de Tallis Gomes em 2015"
+    },
+    {
+      "value": "10%",
+      "context": "Percentual de gordura atual de Tallis Gomes"
+    },
+    {
+      "value": "200,000+ jobs",
+      "context": "Generated by companies led by G4 Educação alumni."
+    },
+    {
+      "value": "50%",
+      "context": "Percentage of purchase decisions in Brazil influenced by content creators"
+    },
+    {
+      "value": "14%",
+      "context": "Percentage of purchase decisions in the United States influenced by content creators"
+    },
+    {
+      "value": "18%",
+      "context": "Percentage of purchase decisions in Europe influenced by content creators"
+    },
+    {
+      "value": "10 million",
+      "context": "Number of professional content creators in Brazil"
+    },
+    {
+      "value": "23 million",
+      "context": "Number of professional content creators in Latin America"
+    },
+    {
+      "value": "86%",
+      "context": "Percentage of content creators earning less than $200 per month in Latin America"
+    },
+    {
+      "value": "10,000",
+      "context": "Number of active monthly users on the Brain Lovers platform after 45 days of launch"
+    },
+    {
+      "value": "40 pessoas",
+      "context": "Equipe na Adventurous gerenciando campanhas de micro influenciadores."
+    },
+    {
+      "value": "100 mil reais por mês",
+      "context": "Exemplo de receita de influenciador com publicidades."
+    },
+    {
+      "value": "3-5 anos",
+      "context": "Tempo estimado para retorno financeiro significativo em um negócio"
+    },
+    {
+      "value": "8 anos",
+      "context": "Tempo de experiência em empreendedorismo mencionado por um participante"
+    },
+    {
+      "value": "21 anos",
+      "context": "Tempo de experiência em empreendedorismo mencionado por outro participante"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Filosofia Socrática",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Woke",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Brain Lovers",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Euclides",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marisabel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Singu",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "hosted",
+      "target": "Rapha Avellar",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Daniel Kahneman",
+      "target_type": "person"
+    },
+    {
+      "source": "Nativosa (Nv)",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Micro Influenciadores",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marisabel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Viés Cognitivo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tribalismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Richard Taylor",
+      "target_type": "person"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Adventurous",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Vickbold",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Gestão De Marca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Aristóteles",
+      "target_type": "person"
+    },
+    {
+      "source": "Adventurous",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gustavo Lima",
+      "target_type": "person"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Facundo Guerra",
+      "target_type": "person"
+    }
+  ]
+}

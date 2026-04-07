@@ -1,0 +1,650 @@
+{
+  "episode_id": "34748488392",
+  "title": "O QUE VOCÊ PRECISA APRENDER COM A ESTRATÉGIA DAS MARCAS DE LUXO - COM BERNARDO ENTUSIASTA | EXTREMOS",
+  "date_published": 1727251200,
+  "duration": 4690,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Bruno Nardoni",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Bernardo Entusiasta",
+      "role": "guest",
+      "company": "Avocado",
+      "title": "Fundador"
+    },
+    {
+      "name": "Bernardo Brito",
+      "role": "guest",
+      "company": "Avocado",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Rafael",
+      "role": "mentioned",
+      "company": "Tecla T",
+      "title": "Aluno e parceiro"
+    },
+    {
+      "name": "Victor",
+      "role": "mentioned",
+      "company": "Avocado",
+      "title": "Sócio de Bernardo Brito"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Thiago Nigro",
+      "role": "mentioned",
+      "company": "Primo Rico",
+      "title": "Fundador"
+    },
+    {
+      "name": "Nigro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Avocado",
+      "industry": "Audiovisual",
+      "context": "Produtora fundada por Bernardo Entusiasta, especializada em audiovisual e estratégia de redes sociais."
+    },
+    {
+      "name": "Globo",
+      "industry": "Mídia e Entretenimento",
+      "context": "Cliente da Avocado para projetos audiovisuais."
+    },
+    {
+      "name": "Coca-Cola",
+      "industry": "Bebidas",
+      "context": "Cliente da Avocado para projetos audiovisuais."
+    },
+    {
+      "name": "Americanas",
+      "industry": "Varejo",
+      "context": "Cliente da Avocado para projetos audiovisuais."
+    },
+    {
+      "name": "Chitos",
+      "industry": "Alimentos e Bebidas",
+      "context": "Cliente da Avocado para projetos audiovisuais."
+    },
+    {
+      "name": "Rock In Rio",
+      "industry": "Eventos e Entretenimento",
+      "context": "Evento atendido pela Avocado para projetos audiovisuais."
+    },
+    {
+      "name": "Kazer Tv",
+      "industry": "media",
+      "context": "Local onde Bernardo Entusiasta presenteou com um relógio."
+    },
+    {
+      "name": "Rolex",
+      "industry": "luxury goods",
+      "context": "Discussão sobre compra de relógios de luxo."
+    },
+    {
+      "name": "Swatch",
+      "industry": "luxury goods",
+      "context": "Discussão sobre relógios e colaboração com os Simpsons."
+    },
+    {
+      "name": "X-Tech",
+      "industry": "E-commerce",
+      "context": "Discussão sobre patrocínio e relevância de marca"
+    },
+    {
+      "name": "Vetex",
+      "industry": "E-commerce",
+      "context": "Discussão sobre relevância de marca em eventos"
+    },
+    {
+      "name": "Primo Rico",
+      "industry": "Educação financeira",
+      "context": "Discussão sobre construção de marca"
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Discussão sobre o Apple Watch e seu impacto em reuniões"
+    },
+    {
+      "name": "Patek Philippe",
+      "industry": "Luxury Watches",
+      "context": "Discussed as a high-value luxury watch brand with specific retail and market dynamics."
+    },
+    {
+      "name": "Pinarello",
+      "industry": "High-End Bicycles",
+      "context": "Discussed as a premium bicycle brand with exclusive models like Dogma F."
+    },
+    {
+      "name": "Trek",
+      "industry": "Bicycles",
+      "context": "Mentioned for its Project One customization program."
+    },
+    {
+      "name": "Cartier",
+      "industry": "Relógios e joias",
+      "context": "Discussão sobre o modelo Santos Black e a história da marca"
+    },
+    {
+      "name": "Lvmh",
+      "industry": "Produtos de luxo",
+      "context": "Discussão sobre o impacto no mercado asiático e estratégias de mercado"
+    },
+    {
+      "name": "Fp Journe",
+      "industry": "Luxury Watches",
+      "context": "Discussed as a high-end watch brand with innovative technology."
+    },
+    {
+      "name": "Ferrari",
+      "industry": "Automotive",
+      "context": "Mentioned in relation to Formula 1 sponsorships."
+    },
+    {
+      "name": "Mclaren",
+      "industry": "Automotive",
+      "context": "Mentioned in relation to Formula 1 sponsorships."
+    },
+    {
+      "name": "Porsche",
+      "industry": "Automotive",
+      "context": "Discussed as a desirable brand for collaboration."
+    },
+    {
+      "name": "Gulfstream",
+      "industry": "Aerospace",
+      "context": "Mentioned as a luxury brand admired by the guest."
+    },
+    {
+      "name": "Rolls Royce",
+      "industry": "Automotive",
+      "context": "Discussed as a luxury automotive brand."
+    },
+    {
+      "name": "Aston Martin",
+      "industry": "Automotive",
+      "context": "Mentioned as a desirable luxury car brand."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Mercado de luxo",
+      "category": "Indústria"
+    },
+    {
+      "name": "Audiovisual",
+      "category": "Indústria"
+    },
+    {
+      "name": "Estratégia de redes sociais",
+      "category": "Marketing"
+    },
+    {
+      "name": "Watches & Wonders",
+      "category": "Evento de relojoaria"
+    },
+    {
+      "name": "Produção audiovisual",
+      "category": "Estratégia de conteúdo"
+    },
+    {
+      "name": "TikTok",
+      "category": "Plataforma de mídia social"
+    },
+    {
+      "name": "Rolex",
+      "category": "Marca de relógios de luxo"
+    },
+    {
+      "name": "marca pessoal",
+      "category": "branding"
+    },
+    {
+      "name": "sazonalidade",
+      "category": "business strategy"
+    },
+    {
+      "name": "boleto inteligente",
+      "category": "financial management"
+    },
+    {
+      "name": "boleto burro",
+      "category": "financial management"
+    },
+    {
+      "name": "Frequência de conteúdo",
+      "category": "Marketing digital"
+    },
+    {
+      "name": "Colaboração estratégica",
+      "category": "Networking"
+    },
+    {
+      "name": "Irresponsabilidade consciente",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Posicionamento de marca",
+      "category": "Branding"
+    },
+    {
+      "name": "Luxury Market Dynamics",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Retail vs Market Price",
+      "category": "Economic Concepts"
+    },
+    {
+      "name": "Offer and Demand in Luxury Goods",
+      "category": "Economic Concepts"
+    },
+    {
+      "name": "Oferta e demanda",
+      "category": "Economia"
+    },
+    {
+      "name": "Quiet Luxury",
+      "category": "Tendências de consumo"
+    },
+    {
+      "name": "Luxury Watches",
+      "category": "Industry"
+    },
+    {
+      "name": "Formula 1 Sponsorship",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Brand Collaboration",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Market Premium",
+      "category": "Economic Concept"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "2019",
+      "context": "Ano de fundação da Avocado."
+    },
+    {
+      "value": "2022",
+      "context": "Ano em que Bernardo Entusiasta enfrentou um momento pessoal extremo."
+    },
+    {
+      "value": "29",
+      "context": "Idade de Bernardo Entusiasta."
+    },
+    {
+      "value": "Março de 2023",
+      "context": "Início da transição de Bernardo Brito para influenciador"
+    },
+    {
+      "value": "Julho/Agosto de 2023",
+      "context": "Mudança de nome para 'Entusiasta'"
+    },
+    {
+      "value": "300 mil seguidores",
+      "context": "Crescimento de seguidores no Instagram de Bernardo Entusiasta em seis meses."
+    },
+    {
+      "value": "50 mil reais",
+      "context": "Valor do relógio Rolex comprado por Bernardo Entusiasta."
+    },
+    {
+      "value": "10 a 300 mil seguidores",
+      "context": "Meta de crescimento de perfil pessoal no Instagram em seis meses"
+    },
+    {
+      "value": "Final de 2025",
+      "context": "Deadline para investimento em conteúdo de nicho"
+    },
+    {
+      "value": "150,000 BRL",
+      "context": "Price of a high-end bicycle in Brazil."
+    },
+    {
+      "value": "15,000 USD",
+      "context": "Price of a high-end bicycle in the United States."
+    },
+    {
+      "value": "60%",
+      "context": "Import tax rate for goods brought into Brazil."
+    },
+    {
+      "value": "18%",
+      "context": "Aumento de participação de indianos no mercado de luxo no ano anterior"
+    },
+    {
+      "value": "11,000 BRL",
+      "context": "Price of Omega Speedmaster Reduce mentioned as a missed opportunity."
+    },
+    {
+      "value": "18,000 BRL",
+      "context": "Current value of Omega Speedmaster Reduce."
+    },
+    {
+      "value": "10 million BRL",
+      "context": "Estimated cost of FP Journe watch."
+    },
+    {
+      "value": "50 million USD",
+      "context": "Rolex's previous sponsorship amount for Formula 1."
+    },
+    {
+      "value": "150 million USD",
+      "context": "New sponsorship amount for Formula 1 by another group."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Brand Collaboration",
+      "target_type": "concept"
+    },
+    {
+      "source": "Avocado",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Estratégia De Conteúdo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Brito",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rolex",
+      "target_type": "company"
+    },
+    {
+      "source": "Avocado",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Americanas",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Entusiasta",
+      "target_type": "company"
+    },
+    {
+      "source": "Lvmh",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Formula 1 Sponsorship",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rolex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Formula 1 Sponsorship",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bernardo Brito",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Avocado",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Nigro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Primo Rico",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Brito",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Watches & Wonders",
+      "target_type": "concept"
+    },
+    {
+      "source": "Avocado",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Audiovisual",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lvmh",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mercado Asiático",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Trek",
+      "target_type": "company"
+    },
+    {
+      "source": "X-Tech",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Vetex",
+      "target_type": "company"
+    },
+    {
+      "source": "Avocado",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Luxury Market Dynamics",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Patek Philippe",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Brito",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mercado De Luxo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Luxury Watches",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Swatch",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Entusiasta",
+      "target_type": "company"
+    },
+    {
+      "source": "Avocado",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rock In Rio",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Entusiasta",
+      "target_type": "company"
+    },
+    {
+      "source": "Cartier",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Santos Black",
+      "target_type": "company"
+    },
+    {
+      "source": "Avocado",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Estratégia De Redes Sociais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Thiago Nigro",
+      "target_type": "person"
+    },
+    {
+      "source": "Bernardo Brito",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Produção Audiovisual",
+      "target_type": "concept"
+    },
+    {
+      "source": "Avocado",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Chitos",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Avocado",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Avocado",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Produção Audiovisual",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rolex",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Kazer Tv",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Avocado",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Avocado",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Coca-Cola",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Brito",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Avocado",
+      "target_type": "company"
+    },
+    {
+      "source": "Apple",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Apple Watch",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Entusiasta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pinarello",
+      "target_type": "company"
+    }
+  ]
+}

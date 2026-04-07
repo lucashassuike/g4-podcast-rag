@@ -1,0 +1,121 @@
+{
+  "episode_id": "41815195200",
+  "title": "[CORTE] FRANQUEADOR X FRANQUEADO: FAZ SENTIDO ESSA \"GUERRA\"?",
+  "date_published": 1756422000,
+  "duration": 952,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Flávio Augusto",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ale",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Cacau Show",
+      "industry": "Food and Beverage",
+      "context": "Discussed in the context of franchise operations and challenges."
+    },
+    {
+      "name": "Boticário",
+      "industry": "Cosmetics",
+      "context": "Mentioned as a successful franchise model."
+    },
+    {
+      "name": "Óticas Carol",
+      "industry": "Retail",
+      "context": "Mentioned as a successful franchise model."
+    },
+    {
+      "name": "Hortobon",
+      "industry": "Retail",
+      "context": "Mentioned as a successful franchise model."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Franchise Model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Partnership",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Royalties",
+      "category": "Financial Terms"
+    },
+    {
+      "name": "Innovation in Business",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "3,000 to 4,000 stores",
+      "context": "Scale of large franchise operations discussed."
+    },
+    {
+      "value": "50 to 100 stores",
+      "context": "Scale of successful franchisees in models like Boticário and Óticas Carol."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Cacau Show",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Franchise Model",
+      "target_type": "concept"
+    },
+    {
+      "source": "Óticas Carol",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Franchise Model",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hortobon",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Franchise Model",
+      "target_type": "concept"
+    },
+    {
+      "source": "Boticário",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Franchise Model",
+      "target_type": "concept"
+    },
+    {
+      "source": "Flávio Augusto",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Franchise Model",
+      "target_type": "concept"
+    }
+  ]
+}

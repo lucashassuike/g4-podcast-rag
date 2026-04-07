@@ -1,0 +1,193 @@
+{
+  "episode_id": "51483613953",
+  "title": "IN HSIEH: FEZ HISTÓRIA NA SUBMARINO E HOJE NA TIKTOK SHOP, ALIEXPRESS E ALIBABA | PAPO DE GESTÃO",
+  "date_published": 1773068400,
+  "duration": 3663,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "In Hsieh",
+      "role": "guest",
+      "company": "TikTok Shop",
+      "title": "Executive"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Tiktok Shop",
+      "industry": "E-commerce",
+      "context": "In Hsieh trabalha na TikTok Shop."
+    },
+    {
+      "name": "Alibaba",
+      "industry": "E-commerce",
+      "context": "Discussão sobre a história e práticas de gestão do Alibaba."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Organizou um programa em parceria com o Alibaba."
+    },
+    {
+      "name": "Aliexpress",
+      "industry": "E-commerce",
+      "context": "Plataforma de comércio eletrônico mencionada como parte das atividades de In Hsieh."
+    },
+    {
+      "name": "Byd",
+      "industry": "Automotivo",
+      "context": "Fabricante de carros chineses mencionada como exemplo de qualidade."
+    },
+    {
+      "name": "Xiaomi",
+      "industry": "Eletrônicos de consumo",
+      "context": "Marca chinesa mencionada como pioneira no mercado internacional."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura chinesa",
+      "category": "Cultural"
+    },
+    {
+      "name": "Importação de produtos",
+      "category": "Negócios"
+    },
+    {
+      "name": "História da China",
+      "category": "História"
+    },
+    {
+      "name": "Confucionismo",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Disagree and commit",
+      "category": "Estratégia de liderança"
+    },
+    {
+      "name": "Top-down",
+      "category": "Estratégia de gestão"
+    },
+    {
+      "name": "Internacionalização",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Internacionalização de empresas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Conflito cultural",
+      "category": "Gestão de equipes"
+    },
+    {
+      "name": "996 (cultura de trabalho)",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Line flat (fenômeno social)",
+      "category": "Comportamento social"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "40 mil seguidores",
+      "context": "Número de seguidores no perfil em mandarim no WeChat gerido por uma das empresas de In Hsieh."
+    },
+    {
+      "value": "1.4 bilhão",
+      "context": "População da China mencionada como um fator de competição e mercado."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "In Hsieh",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Top-Down",
+      "target_type": "concept"
+    },
+    {
+      "source": "In Hsieh",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aliexpress",
+      "target_type": "company"
+    },
+    {
+      "source": "In Hsieh",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Disagree And Commit",
+      "target_type": "concept"
+    },
+    {
+      "source": "In Hsieh",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Internacionalização",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Alibaba",
+      "target_type": "company"
+    },
+    {
+      "source": "In Hsieh",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Alibaba",
+      "target_type": "company"
+    },
+    {
+      "source": "In Hsieh",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tiktok Shop",
+      "target_type": "company"
+    },
+    {
+      "source": "In Hsieh",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Confucionismo",
+      "target_type": "concept"
+    }
+  ]
+}

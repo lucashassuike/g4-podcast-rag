@@ -1,0 +1,787 @@
+{
+  "episode_id": "34748488640",
+  "title": "#039 - Inovação, tecnologia e performance com Bruno Prado",
+  "date_published": 1647029702,
+  "duration": 7579,
+  "chunks_processed": 10,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Prado",
+      "role": "guest",
+      "company": "UPX",
+      "title": "Fundador"
+    },
+    {
+      "name": "Reinaldo Fagundes",
+      "role": "mentioned",
+      "company": "UOL",
+      "title": "Desenvolvedor"
+    },
+    {
+      "name": "Gilberto Maltin",
+      "role": "mentioned",
+      "company": "Local Web",
+      "title": "Fundador"
+    },
+    {
+      "name": "Vini Graça",
+      "role": "mentioned",
+      "company": "Exitaxi",
+      "title": "Ex-CTO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Charlie Munger",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "mentioned",
+      "company": "Berkshire Hathaway",
+      "title": "CEO"
+    },
+    {
+      "name": "Luiz Barsi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "Founder"
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "role": "mentioned",
+      "company": "Meta Platforms",
+      "title": "CEO"
+    },
+    {
+      "name": "Priscilla Chan",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thales",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Musk",
+      "role": "mentioned",
+      "company": "SpaceX",
+      "title": ""
+    },
+    {
+      "name": "Barão De Mauá",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Neymar",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Kim Kardashian",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rainha Elizabeth",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sean Parker",
+      "role": "mentioned",
+      "company": "Napster",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Ray Kurzweil",
+      "role": "mentioned",
+      "company": "Singularity University",
+      "title": "Futurista"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação para negócios"
+    },
+    {
+      "name": "Upx",
+      "industry": "Tecnologia",
+      "context": "Empresa pioneira em serviços de streaming"
+    },
+    {
+      "name": "Uol",
+      "industry": "Tecnologia",
+      "context": "Provedor de internet e serviços digitais"
+    },
+    {
+      "name": "Local Web",
+      "industry": "Tecnologia",
+      "context": "Empresa de hospedagem de sites"
+    },
+    {
+      "name": "África",
+      "industry": "Publicidade",
+      "context": "Agência de publicidade responsável por impulsionar o uso de streaming em rádios"
+    },
+    {
+      "name": "Rocket",
+      "industry": "Investimentos",
+      "context": "Investidora mencionada no contexto de trabalho e cultura de hard work."
+    },
+    {
+      "name": "Exitax",
+      "industry": "Tecnologia",
+      "context": "Empresa mencionada como vendida por um dos participantes."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce and Cloud Computing",
+      "context": "Founded by Jeff Bezos"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Co-founded by Bill Gates"
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "industry": "Investment and Insurance",
+      "context": "Led by Warren Buffett"
+    },
+    {
+      "name": "Meta Platforms",
+      "industry": "Social Media and Technology",
+      "context": "Led by Mark Zuckerberg"
+    },
+    {
+      "name": "Spacex",
+      "industry": "Aeroespacial",
+      "context": "Exploração espacial mencionada como exemplo de ambição e realização pessoal."
+    },
+    {
+      "name": "Nvidia",
+      "industry": "Tecnologia",
+      "context": "Desenvolvimento de placas de processamento avançadas e aplicações em blockchain, NFT e metaverso."
+    },
+    {
+      "name": "Dolce & Gabbana",
+      "industry": "Moda",
+      "context": "Integração de NFTs com produtos físicos."
+    },
+    {
+      "name": "Crypto.Com",
+      "industry": "Criptomoedas",
+      "context": "Distribuição de NFTs para celebridades."
+    },
+    {
+      "name": "Twitter",
+      "industry": "Technology",
+      "context": "Discussed in relation to NFT verification and profile features."
+    },
+    {
+      "name": "Chanel",
+      "industry": "Fashion",
+      "context": "Discussed in relation to exclusive NFT-based product access."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Finance",
+      "context": "Critiqued for lack of disruption in financial services."
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Finance",
+      "context": "Mentioned in comparison to Nubank."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Finance",
+      "context": "Mentioned in comparison to Nubank."
+    },
+    {
+      "name": "Opx",
+      "industry": "Cybersecurity",
+      "context": "Discussed in relation to its evolution and product offerings."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotivo e Tecnologia",
+      "context": "Mencionada como exemplo de automação em fábricas."
+    },
+    {
+      "name": "Volkswagen",
+      "industry": "Automotivo",
+      "context": "Mencionada como exemplo de fábricas tradicionais."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Streaming",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Canal de distribuição",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Deep Tech",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Hard Science",
+      "category": "Ciência"
+    },
+    {
+      "name": "Soft Science",
+      "category": "Ciência"
+    },
+    {
+      "name": "fake science",
+      "category": "Criticism of scientific validation"
+    },
+    {
+      "name": "ambição",
+      "category": "Personal development"
+    },
+    {
+      "name": "resiliência",
+      "category": "Personal development"
+    },
+    {
+      "name": "Ironman",
+      "category": "Sports and endurance challenges"
+    },
+    {
+      "name": "Hard Work",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "Endurance",
+      "category": "Esporte e Resiliência"
+    },
+    {
+      "name": "Construção de Riqueza",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "Thousand True Fans",
+      "category": "Marketing e Audiência"
+    },
+    {
+      "name": "Stock Market",
+      "category": "Finance"
+    },
+    {
+      "name": "Equity",
+      "category": "Finance"
+    },
+    {
+      "name": "Family Office",
+      "category": "Investment Management"
+    },
+    {
+      "name": "Wealth Creation",
+      "category": "Finance"
+    },
+    {
+      "name": "Resilience",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Emotional Stability",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Ganância",
+      "category": "Valores e motivação"
+    },
+    {
+      "name": "Missão empresarial",
+      "category": "Gestão e estratégia"
+    },
+    {
+      "name": "Liberdade financeira",
+      "category": "Finanças pessoais"
+    },
+    {
+      "name": "Contribuição social",
+      "category": "Impacto social"
+    },
+    {
+      "name": "Web1",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Web2",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Web3",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Blockchain",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Smart Contracts",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "DAO (Decentralized Autonomous Organization)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "NFT (Non-Fungible Token)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Metaverso",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Proof of Work",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Ethereum",
+      "category": "Criptomoeda"
+    },
+    {
+      "name": "NFT",
+      "category": "Technology"
+    },
+    {
+      "name": "DAO",
+      "category": "Technology"
+    },
+    {
+      "name": "Anarcocapitalismo",
+      "category": "Political Philosophy"
+    },
+    {
+      "name": "Cibersegurança",
+      "category": "Technology"
+    },
+    {
+      "name": "DDoS",
+      "category": "Cybersecurity"
+    },
+    {
+      "name": "Renda Universal Básica (BI)",
+      "category": "Economia e Políticas Públicas"
+    },
+    {
+      "name": "Automação",
+      "category": "Tecnologia e Economia"
+    },
+    {
+      "name": "Trabalho Criativo",
+      "category": "Economia e Educação"
+    },
+    {
+      "name": "Programação",
+      "category": "Habilidade Técnica"
+    },
+    {
+      "name": "Matemática",
+      "category": "Habilidade Técnica"
+    },
+    {
+      "name": "DAO (Organizações Autônomas Descentralizadas)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Neuralink",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Energia Nuclear",
+      "category": "Energia"
+    },
+    {
+      "name": "Desigualdade",
+      "category": "Sociedade"
+    },
+    {
+      "name": "Pobreza Extrema",
+      "category": "Sociedade"
+    },
+    {
+      "name": "Web 3",
+      "category": "tecnologia"
+    },
+    {
+      "name": "organizações autônomas",
+      "category": "tecnologia"
+    },
+    {
+      "name": "Revolução Industrial",
+      "category": "história econômica"
+    }
+  ],
+  "books": [
+    {
+      "title": "Thousand True Fans",
+      "author": "Kevin Kelly"
+    },
+    {
+      "title": "Works by Hofbauer",
+      "author": "Hofbauer"
+    },
+    {
+      "title": "Publicações do Clube de Roma",
+      "author": "Clube de Roma"
+    },
+    {
+      "title": "The Transcendental Man",
+      "author": "Ray Kurzweil"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "65 mil acessos simultâneos",
+      "context": "Rede criada por Bruno Prado"
+    },
+    {
+      "value": "1.200 clientes",
+      "context": "Carteira de clientes iniciais da UPX"
+    },
+    {
+      "value": "187 quilos",
+      "context": "Previous weight of Bruno Prado"
+    },
+    {
+      "value": "100 quilos",
+      "context": "Current weight of Bruno Prado"
+    },
+    {
+      "value": "3.800 metros",
+      "context": "Distância de natação em um Ironman completo."
+    },
+    {
+      "value": "1.800 metros",
+      "context": "Distância de natação em um meio Ironman."
+    },
+    {
+      "value": "169",
+      "context": "Number of companies invested in by Bruno Prado"
+    },
+    {
+      "value": "6 milhões de reais",
+      "context": "Perda por leilão de dólar mencionada no caso do banco de investimentos."
+    },
+    {
+      "value": "400 mil dólares",
+      "context": "Valor de negociação de NFTs como os Board Apes."
+    },
+    {
+      "value": "20 dólares por dia",
+      "context": "Revenue generated by blockchain-based decentralized internet devices."
+    },
+    {
+      "value": "192 capítulos",
+      "context": "Extent of cybersecurity offerings by OPX."
+    },
+    {
+      "value": "192 capítulos",
+      "context": "Número de capítulos na área de cibersegurança mencionados."
+    },
+    {
+      "value": "1,8% da população brasileira",
+      "context": "Percentual de brasileiros que ganham mais de 15 mil reais por mês."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Mark Zuckerberg",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Meta Platforms",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Revolução Industrial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rocket",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Exitax",
+      "target_type": "company"
+    },
+    {
+      "source": "Nvidia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Blockchain",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Prado",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "The Transcendental Man",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ray Kurzweil",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Neymar",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nft (Non-Fungible Token)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Web 3",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Blockchain",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bill Gates",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Upx",
+      "target_type": "company"
+    },
+    {
+      "source": "Crypto.Com",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Nft (Non-Fungible Token)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Organizações Autônomas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sean Parker",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Napster",
+      "target_type": "company"
+    },
+    {
+      "source": "Sean Parker",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Facebook",
+      "target_type": "company"
+    },
+    {
+      "source": "Gilberto Maltin",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Local Web",
+      "target_type": "company"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Berkshire Hathaway",
+      "target_type": "company"
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Priscilla Chan",
+      "target_type": "person"
+    },
+    {
+      "source": "Dolce & Gabbana",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Nft (Non-Fungible Token)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Prado",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Opx",
+      "target_type": "company"
+    },
+    {
+      "source": "Reinaldo Fagundes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Uol",
+      "target_type": "company"
+    },
+    {
+      "source": "Ray Kurzweil",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singularity University",
+      "target_type": "company"
+    },
+    {
+      "source": "Charlie Munger",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Warren Buffett",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Prado",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Upx",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Prado",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "África",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Upx",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Smart Contracts",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thousand True Fans",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Kevin Kelly",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Prado",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

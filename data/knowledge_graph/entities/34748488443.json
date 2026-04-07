@@ -1,0 +1,454 @@
+{
+  "episode_id": "34748488443",
+  "title": "COMO A ACER CONQUISTOU O MERCADO BRASILEIRO? - COM ALEXANDRE GERARDO (DIRETOR GERAL)",
+  "date_published": 1714984200,
+  "duration": 4510,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Alexandre Gerardo",
+      "role": "guest",
+      "company": "Acer",
+      "title": "Diretor Geral"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Sami Dana",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Host do podcast Visão"
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Fundador"
+    },
+    {
+      "name": "Bruno",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alessio Alionço",
+      "role": "mentioned",
+      "company": "Pipefy",
+      "title": "Fundador"
+    },
+    {
+      "name": "Carlos Alberto Júlio",
+      "role": "mentioned",
+      "company": "Polaroid",
+      "title": "Presidente"
+    },
+    {
+      "name": "Luciano Rocha",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Acer",
+      "industry": "Tecnologia",
+      "context": "Fabricante de PCs e notebooks, com operação no Brasil liderada por Alexandre Gerardo."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Empresa que oferece treinamentos e plataformas como o G4 Skills."
+    },
+    {
+      "name": "Acer Brasil",
+      "industry": "Tecnologia",
+      "context": "Discussão sobre estratégias de mercado e logística no Brasil."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia",
+      "context": "Mencionada em relação ao Excel."
+    },
+    {
+      "name": "Unis",
+      "industry": "Serviços de TI",
+      "context": "Parceira da Acer para oferecer serviços de TI."
+    },
+    {
+      "name": "Pipefy",
+      "industry": "Software",
+      "context": "Plataforma de gerenciamento de processos mencionada no contexto de inteligência artificial."
+    },
+    {
+      "name": "Openai",
+      "industry": "Tecnologia",
+      "context": "Desenvolvedora do ChatGPT, mencionada no contexto de inteligência artificial."
+    },
+    {
+      "name": "Salesforce",
+      "industry": "Software",
+      "context": "Plataforma de CRM mencionada no contexto de inteligência artificial."
+    },
+    {
+      "name": "Hubspot",
+      "industry": "Software",
+      "context": "Plataforma de CRM mencionada no contexto de inteligência artificial."
+    },
+    {
+      "name": "Polaroid",
+      "industry": "Fotografia",
+      "context": "Empresa onde Alexandre Gerardo trabalhou e encerrou operações no Brasil."
+    },
+    {
+      "name": "Duratex",
+      "industry": "Construção",
+      "context": "Empresa onde Alexandre Gerardo trabalhou antes de ingressar na Polaroid."
+    },
+    {
+      "name": "Hilton",
+      "industry": "Construção",
+      "context": "Empresa de equipamentos para construção civil onde Alexandre Gerardo trabalhou."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Customer Centric",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Treinamento"
+    },
+    {
+      "name": "Logística",
+      "category": "Operações"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Distribuição",
+      "category": "Operações"
+    },
+    {
+      "name": "Black Friday",
+      "category": "Evento Comercial"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Canais de distribuição"
+    },
+    {
+      "name": "Segmentação de mercado",
+      "category": "Estratégias de marketing"
+    },
+    {
+      "name": "Configuração de produtos",
+      "category": "Desenvolvimento de produtos"
+    },
+    {
+      "name": "Conflito de canal",
+      "category": "Gestão de canais"
+    },
+    {
+      "name": "locação de equipamentos",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "mercado gamer",
+      "category": "Indústria"
+    },
+    {
+      "name": "cyber security",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Inteligência artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Feedback loop",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Unidade de negócios",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Processadores com inteligência artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Influenciadores digitais",
+      "category": "Marketing"
+    },
+    {
+      "name": "Patrocínio de times de eSports",
+      "category": "Marketing"
+    },
+    {
+      "name": "Humildade na Liderança",
+      "category": "Liderança"
+    },
+    {
+      "name": "Network",
+      "category": "Carreira"
+    },
+    {
+      "name": "DRE (Demonstração do Resultado do Exercício)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Gestão",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Liderança",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Inovação tecnológica",
+      "category": "Tecnologia"
+    }
+  ],
+  "books": [
+    {
+      "title": "Certificado de Liderança e Customer Experience pela Disney",
+      "author": "Disney Institute"
+    },
+    {
+      "title": "O Que Eu Não Posso Deixar de Fazer",
+      "author": "Carlos Alberto Júlio"
+    },
+    {
+      "title": "Vencendo a Batalha da Mente",
+      "author": "Luciano Rocha"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "14 anos",
+      "context": "Tempo de Alexandre Gerardo na Acer."
+    },
+    {
+      "value": "80 funcionários",
+      "context": "Número de funcionários na operação da Acer no Brasil."
+    },
+    {
+      "value": "15% a 17%",
+      "context": "Participação de mercado da Acer Brasil no segmento geral de notebooks no Brasil."
+    },
+    {
+      "value": "60%",
+      "context": "Participação de mercado da Acer Brasil no segmento de notebooks e desktops para gamers no Brasil."
+    },
+    {
+      "value": "7 a 8 milhões",
+      "context": "Valor estimado de notebooks transportados em uma carreta."
+    },
+    {
+      "value": "25%",
+      "context": "Participação do e-commerce no faturamento da Acer no Brasil."
+    },
+    {
+      "value": "15 marketplaces",
+      "context": "Número de marketplaces conectados à plataforma da Acer."
+    },
+    {
+      "value": "70%",
+      "context": "Participação de mercado da Acer no segmento gamer no Brasil."
+    },
+    {
+      "value": "10% a 15%",
+      "context": "Representação da linha Predator no faturamento total da Acer no Brasil."
+    },
+    {
+      "value": "80",
+      "context": "Número de funcionários da Acer no Brasil."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Acer Brasil",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "E-Commerce",
+      "target_type": "concept"
+    },
+    {
+      "source": "Acer",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Influenciadores Digitais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alexandre Gerardo",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Carlos Alberto Júlio",
+      "target_type": "person"
+    },
+    {
+      "source": "Acer",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "E-Commerce",
+      "target_type": "concept"
+    },
+    {
+      "source": "Acer Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Segmentação De Mercado",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alexandre Gerardo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Acer",
+      "target_type": "company"
+    },
+    {
+      "source": "Acer",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Feedback Loop",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Acer Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Conflito De Canal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Alberto Júlio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Polaroid",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlos Alberto Júlio",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "O Que Eu Não Posso Deixar De Fazer",
+      "target_type": "company"
+    },
+    {
+      "source": "Alessio Alionço",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Pipefy",
+      "target_type": "company"
+    },
+    {
+      "source": "Luciano Rocha",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Vencendo A Batalha Da Mente",
+      "target_type": "company"
+    },
+    {
+      "source": "Acer",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Inteligência Artificial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Customer Centric",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Acer",
+      "target_type": "company"
+    },
+    {
+      "source": "Acer",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Mercado Gamer",
+      "target_type": "concept"
+    },
+    {
+      "source": "Acer",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Unidade De Negócios",
+      "target_type": "concept"
+    },
+    {
+      "source": "Acer Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Configuração De Produtos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Acer",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Patrocínio De Times De Esports",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sami Dana",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Gerardo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Acer Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Acer Brasil",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Logística",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Acer",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Processadores Com Inteligência Artificial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Acer",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Unis",
+      "target_type": "company"
+    }
+  ]
+}

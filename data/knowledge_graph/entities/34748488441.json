@@ -1,0 +1,225 @@
+{
+  "episode_id": "34748488441",
+  "title": "COMO NÃO ERRAR NA CONTRATAÇÃO E NO ONBOARDING - COM ADEMAR COUTO | PAPO DE GESTÃO",
+  "date_published": 1715589000,
+  "duration": 4145,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Ademar Couto",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Helbert",
+      "role": "mentioned",
+      "company": "Monte Bravo",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa mencionada como parte do podcast e das mídias sociais relacionadas."
+    },
+    {
+      "name": "Monte Bravo",
+      "industry": "Serviços Financeiros",
+      "context": "Empresa mencionada em relação ao desenvolvimento de sistemas de AI."
+    },
+    {
+      "name": "Audius",
+      "industry": "Technology",
+      "context": "Criou um chatbot para transcrição e análise de entrevistas."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Executive Search",
+      "category": "recruitment"
+    },
+    {
+      "name": "Fit Cultural",
+      "category": "organizational culture"
+    },
+    {
+      "name": "Soft Skills",
+      "category": "skills"
+    },
+    {
+      "name": "Hard Skills",
+      "category": "skills"
+    },
+    {
+      "name": "Assessment",
+      "category": "evaluation"
+    },
+    {
+      "name": "Investment Bank",
+      "category": "finance"
+    },
+    {
+      "name": "Private Equity",
+      "category": "finance"
+    },
+    {
+      "name": "Financial Service",
+      "category": "finance"
+    },
+    {
+      "name": "C-level",
+      "category": "corporate hierarchy"
+    },
+    {
+      "name": "SEALs dos Estados Unidos",
+      "category": "military"
+    },
+    {
+      "name": "Performance e Confiança",
+      "category": "evaluation metrics"
+    },
+    {
+      "name": "Onboarding",
+      "category": "Processos de Recursos Humanos"
+    },
+    {
+      "name": "Recrutamento",
+      "category": "Processos de Recursos Humanos"
+    },
+    {
+      "name": "TICES",
+      "category": "Framework de Avaliação de Candidatos"
+    },
+    {
+      "name": "Automatização de Processos",
+      "category": "Tecnologia e Inovação"
+    },
+    {
+      "name": "AI (Inteligência Artificial)",
+      "category": "Tecnologia e Inovação"
+    },
+    {
+      "name": "inteligência artificial (AI)",
+      "category": "tecnologia"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "12 meses",
+      "context": "tempo perdido em uma contratação errada"
+    },
+    {
+      "value": "500 milhões",
+      "context": "faturamento de uma empresa de logística mencionada no case"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ademar Couto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "C-Level",
+      "target_type": "concept"
+    },
+    {
+      "source": "Monte Bravo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Audius",
+      "target_type": "company"
+    },
+    {
+      "source": "Helbert",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Monte Bravo",
+      "target_type": "company"
+    },
+    {
+      "source": "Ademar Couto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Executive Search",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ademar Couto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Performance E Confiança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ademar Couto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Investment Bank",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ademar Couto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Financial Service",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ademar Couto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hard Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ademar Couto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Soft Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ademar Couto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Seals Dos Estados Unidos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ademar Couto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Assessment",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ademar Couto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Private Equity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ademar Couto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fit Cultural",
+      "target_type": "concept"
+    }
+  ]
+}

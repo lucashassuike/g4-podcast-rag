@@ -1,0 +1,326 @@
+{
+  "episode_id": "44371213021",
+  "title": "ELE PROVOU QUE CUIDAR DO CLIENTE DÁ MAIS LUCRO QUE VENDER | EXTREMOS",
+  "date_published": 1761577200,
+  "duration": 3341,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Caio Polin",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Caio",
+      "role": "guest",
+      "company": "99",
+      "title": "Responsável pela experiência e relacionamento com o cliente fora da China"
+    },
+    {
+      "name": "Denis",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Organizador do evento G4 Valley e foco em educação empresarial"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Serviços Financeiros",
+      "context": "Empresa onde Caio Polin construiu a área de experiência do cliente"
+    },
+    {
+      "name": "99",
+      "industry": "Transporte e Mobilidade",
+      "context": "Empresa onde Caio Polin liderou a experiência do cliente"
+    },
+    {
+      "name": "Didi",
+      "industry": "Transporte e Mobilidade",
+      "context": "Empresa que adquiriu a 99 e onde Caio Polin atuou como diretor executivo internacional de CX"
+    },
+    {
+      "name": "Veduca",
+      "industry": "Educação",
+      "context": "Edtech onde Caio Polin foi COO"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Delivery de Alimentos",
+      "context": "Concorrente mencionado no setor de delivery"
+    },
+    {
+      "name": "Rappi",
+      "industry": "Delivery de Alimentos",
+      "context": "Concorrente mencionado no setor de delivery"
+    },
+    {
+      "name": "Meituan",
+      "industry": "Delivery e Serviços Online",
+      "context": "Concorrente mencionado no setor de delivery"
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Citada como exemplo de excelência em experiência do cliente"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Experiência do Cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Funil de Aquisição",
+      "category": "Marketing e Vendas"
+    },
+    {
+      "name": "Churn",
+      "category": "Métricas de Negócios"
+    },
+    {
+      "name": "Ticket Médio",
+      "category": "Métricas de Negócios"
+    },
+    {
+      "name": "Confiança do Cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Consistência na Experiência do Cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Squad",
+      "category": "Estratégia organizacional"
+    },
+    {
+      "name": "Pirâmide de mensuração de experiência do cliente",
+      "category": "Framework de negócios"
+    },
+    {
+      "name": "CX (Customer Experience)",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Previsibilidade de receita",
+      "category": "Conceito financeiro"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métrica de satisfação do cliente"
+    },
+    {
+      "name": "Eficiência operacional",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Logística",
+      "category": "Operações"
+    },
+    {
+      "name": "Atendimento ao cliente",
+      "category": "Serviço ao cliente"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Pergunta Definitiva",
+      "author": "Fred Reichheld"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "500 milhões",
+      "context": "Base de usuários sob responsabilidade de Caio Polin"
+    },
+    {
+      "value": "10 mil",
+      "context": "Número de empresários esperados no evento G4 Valley"
+    },
+    {
+      "value": "4 anos e meio",
+      "context": "Tempo de atuação de Caio na 99"
+    },
+    {
+      "value": "América Latina, Austrália, Egito e Nova Zelândia",
+      "context": "Mercados sob responsabilidade de Caio na 99"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Caio Polin",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "99",
+      "target_type": "company"
+    },
+    {
+      "source": "Amazon",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Logística",
+      "target_type": "concept"
+    },
+    {
+      "source": "99",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Meituan",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "99",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "99",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Nubank",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Financeiro",
+      "target_type": "company"
+    },
+    {
+      "source": "99",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Mobilidade E Serviços Financeiros",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Experiência Do Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caio",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Polin",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Nps (Net Promoter Score)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "A Pergunta Definitiva",
+      "target_type": "company"
+    },
+    {
+      "source": "Amazon",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Eficiência Operacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "99",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Polin",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Veduca",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Polin",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Didi",
+      "target_type": "company"
+    },
+    {
+      "source": "99",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Didi",
+      "target_type": "company"
+    },
+    {
+      "source": "Amazon",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Atendimento Ao Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caio Polin",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "episode_id": "34748488356",
+  "title": "COMO PREPARAR AS FINANÇAS DA EMPRESA PARA 2025 | COM JULIAN TONIOLI | G4 PODCASTS",
+  "date_published": 1735203600,
+  "duration": 1595,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Maria Isabel Antonini",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "CEO"
+    },
+    {
+      "name": "Julián Tonioli",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Julian Tonioli",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa organizadora do G4 Valley e foco do podcast."
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Exemplo de experiência de cliente e percepção de valor."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão Financeira",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Planejamento Estratégico Financeiro",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Ciclo Operacional",
+      "category": "Finanças"
+    },
+    {
+      "name": "Custo do Dinheiro",
+      "category": "Finanças"
+    },
+    {
+      "name": "Orçamento Empresarial",
+      "category": "Finanças"
+    },
+    {
+      "name": "Cenários Econômicos",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Customer Experience (CX)",
+      "category": "Marketing e Experiência do Cliente"
+    },
+    {
+      "name": "Projeção Financeira",
+      "category": "Finanças"
+    },
+    {
+      "name": "Taxa de Retorno",
+      "category": "Finanças"
+    },
+    {
+      "name": "Liquidez",
+      "category": "Finanças"
+    },
+    {
+      "name": "Processo de Vendas",
+      "category": "Gestão de Vendas"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Três dias",
+      "context": "Duração do evento G4 Valley."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "Maria Isabel Antonini",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Eficiência Operacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Julian Tonioli",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Customer Experience (Cx)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Julián Tonioli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

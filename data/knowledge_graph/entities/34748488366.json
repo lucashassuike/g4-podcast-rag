@@ -1,0 +1,431 @@
+{
+  "episode_id": "34748488366",
+  "title": "WENDELL CARVALHO: EVOLUA APÓS DESCOBRIR OS PADRÕES QUE TE IMPEDEM DE CRESCER",
+  "date_published": 1733334774,
+  "duration": 6302,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Wendel De Carvalho",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Karina",
+      "role": "mentioned",
+      "company": "Método Cronos",
+      "title": "Esposa de Wendel de Carvalho"
+    },
+    {
+      "name": "Bento",
+      "role": "mentioned",
+      "company": "Minimal Club",
+      "title": "Sócio e investidor"
+    },
+    {
+      "name": "Gabriel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filho de Wendel de Carvalho"
+    },
+    {
+      "name": "Wendell Carvalho",
+      "role": "guest",
+      "company": "Método Cronos",
+      "title": "Founder"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Co-CEO"
+    },
+    {
+      "name": "Geraldo",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Co-CEO"
+    },
+    {
+      "name": "Juarez",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Barbeiro"
+    },
+    {
+      "name": "Ariane Maluf",
+      "role": "mentioned",
+      "company": "Mahalo",
+      "title": "Chefe de cozinha"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "role": "mentioned",
+      "company": "Meta Platforms",
+      "title": "CEO"
+    },
+    {
+      "name": "John Adibe",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bloys",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": ""
+    },
+    {
+      "name": "Salute",
+      "role": "mentioned",
+      "company": "BTG Pactual",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Guilherme Freire",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo e Palestrante"
+    },
+    {
+      "name": "Paulo Guedes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Economista"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Minimal Club",
+      "industry": "Vestuário",
+      "context": "Patrocinadora do episódio e marca de roupas básicas para empreendedores"
+    },
+    {
+      "name": "Método Cronos",
+      "industry": "Education",
+      "context": "Provides training on time management, focus, and discipline."
+    },
+    {
+      "name": "Vtex",
+      "industry": "Technology",
+      "context": "E-commerce platform with co-CEO leadership model."
+    },
+    {
+      "name": "Hotmart",
+      "industry": "Educação online",
+      "context": "Plataforma utilizada por Wendell Carvalho para vender seus cursos"
+    },
+    {
+      "name": "Protagon",
+      "industry": "Desenvolvimento humano",
+      "context": "Programa de desenvolvimento humano mencionado por Wendell Carvalho"
+    },
+    {
+      "name": "Mahalo",
+      "industry": "Restaurante",
+      "context": "Restaurante mencionado por Wendell Carvalho em Cuiabá"
+    },
+    {
+      "name": "Meta Platforms",
+      "industry": "Technology",
+      "context": "Referenced in the context of CEOs building personal brands."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Food Delivery",
+      "context": "Referenced in the context of CEOs building personal brands."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Finance",
+      "context": "Referenced in the context of CEOs building personal brands."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Sabotadores financeiros",
+      "category": "Psicologia financeira"
+    },
+    {
+      "name": "Gestão e Estratégia",
+      "category": "Educação empresarial"
+    },
+    {
+      "name": "Time Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Focus and Discipline",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Infoproduct Market",
+      "category": "Business Model"
+    },
+    {
+      "name": "Life Design",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Desenvolvimento humano",
+      "category": "Conceito"
+    },
+    {
+      "name": "Franquias",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Ecossistema de negócios",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Síndrome de não merecimento",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Jiu-jitsu",
+      "category": "Hobby"
+    },
+    {
+      "name": "Musculação",
+      "category": "Hobby"
+    },
+    {
+      "name": "Personal Branding",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Energy Dynamics in Relationships",
+      "category": "Psychology"
+    },
+    {
+      "name": "Leadership Roles",
+      "category": "Organizational Behavior"
+    },
+    {
+      "name": "Masculine and Feminine Energies",
+      "category": "Psychology"
+    },
+    {
+      "name": "Temperament Types",
+      "category": "Psychology"
+    },
+    {
+      "name": "Energia masculina e feminina",
+      "category": "Psicologia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Imersão Milion",
+      "category": "Evento de Desenvolvimento Pessoal"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "15%",
+      "context": "Desconto oferecido pela Minimal Club para ouvintes do podcast"
+    },
+    {
+      "value": "35 million reais",
+      "context": "Revenue generated by Wendell Carvalho through teaching time management, focus, and discipline."
+    },
+    {
+      "value": "200,000 reais",
+      "context": "Investment made by Wendell Carvalho in marketing campaigns for Método Cronos."
+    },
+    {
+      "value": "2,000 to 2,500 participants",
+      "context": "Attendance per session of the Protagon program."
+    },
+    {
+      "value": "80 units",
+      "context": "Expansion achieved by a Protagon participant in their automotive aesthetics business."
+    },
+    {
+      "value": "1.100.000",
+      "context": "Número de alunos únicos de Wendell Carvalho na Hotmart"
+    },
+    {
+      "value": "80",
+      "context": "Número de unidades abertas por um participante do Protagon"
+    },
+    {
+      "value": "40 milhões de reais",
+      "context": "Revenue generated by Karina's company through weight loss courses."
+    },
+    {
+      "value": "4.700-4.800 pessoas",
+      "context": "Número de participantes matriculados na Imersão Milion"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bento",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Minimal Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Juarez",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Wendell Carvalho",
+      "target_type": "person"
+    },
+    {
+      "source": "Wendell Carvalho",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bloys",
+      "target_type": "person"
+    },
+    {
+      "source": "Karina",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Weight Loss Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Geraldo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Wendell Carvalho",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Education",
+      "target_type": "company"
+    },
+    {
+      "source": "Wendel De Carvalho",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Karina",
+      "target_type": "person"
+    },
+    {
+      "source": "Ariane Maluf",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mahalo",
+      "target_type": "company"
+    },
+    {
+      "source": "Wendell Carvalho",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Salute",
+      "target_type": "person"
+    },
+    {
+      "source": "Wendell Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Energia Masculina E Feminina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Wendell Carvalho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Método Cronos",
+      "target_type": "company"
+    },
+    {
+      "source": "Wendell Carvalho",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ariane Maluf",
+      "target_type": "person"
+    },
+    {
+      "source": "Wendell Carvalho",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mark Zuckerberg",
+      "target_type": "person"
+    },
+    {
+      "source": "Wendell Carvalho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Protagon",
+      "target_type": "company"
+    },
+    {
+      "source": "Wendell Carvalho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hotmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Imersão Milion",
+      "target_type": "concept"
+    },
+    {
+      "source": "Wendell Carvalho",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "John Adibe",
+      "target_type": "person"
+    },
+    {
+      "source": "Wendell Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Imersão Milion",
+      "target_type": "concept"
+    },
+    {
+      "source": "Karina",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Método Cronos",
+      "target_type": "company"
+    },
+    {
+      "source": "Wendel De Carvalho",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gabriel",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Imersão Milion",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mariano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    }
+  ]
+}

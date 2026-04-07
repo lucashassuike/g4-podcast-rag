@@ -1,0 +1,345 @@
+{
+  "episode_id": "34748488469",
+  "title": "COMO O IFOOD UTILIZOU AI PARA REVOLUCIONAR O NEGÓCIO - COM SANDOR CAETANO | PAPO DE GESTÃO",
+  "date_published": 1707227947,
+  "duration": 4080,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Sandor Caetano",
+      "role": "guest",
+      "company": "PicPay",
+      "title": "Chief Data Officer"
+    },
+    {
+      "name": "João Vitor",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "COO, CPTO, CIO"
+    },
+    {
+      "name": "Fabrício",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": "CEO"
+    },
+    {
+      "name": "Itano Mollick",
+      "role": "mentioned",
+      "company": "Wharton",
+      "title": "Professor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Henriques",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Platform for team training and skill development"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Food Delivery",
+      "context": "Implemented AI to transform operations and achieve global success"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Financial Services",
+      "context": "Sandor Caetano worked as a data scientist"
+    },
+    {
+      "name": "Picpay",
+      "industry": "Financial Services",
+      "context": "Sandor Caetano is the Chief Data Officer"
+    },
+    {
+      "name": "Openai",
+      "industry": "Artificial Intelligence",
+      "context": "Collaborated with iFood on AI projects"
+    },
+    {
+      "name": "Prosus",
+      "industry": "Investment",
+      "context": "Mentioned as a group associated with iFood and other companies."
+    },
+    {
+      "name": "Olx",
+      "industry": "E-commerce",
+      "context": "Mentioned as part of the group associated with Prosus."
+    },
+    {
+      "name": "Mckinsey & Company",
+      "industry": "Consulting",
+      "context": "Referenced as an example of a company with a strong alumni network."
+    },
+    {
+      "name": "Canui",
+      "industry": "Retail",
+      "context": "Discussed in the context of team management and growth strategies."
+    },
+    {
+      "name": "Rocket International",
+      "industry": "Investment",
+      "context": "Mentioned as an investor in Canui."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "AI (Artificial Intelligence)",
+      "category": "Technology"
+    },
+    {
+      "name": "Data Analytics",
+      "category": "Technology"
+    },
+    {
+      "name": "Skill Development",
+      "category": "Education"
+    },
+    {
+      "name": "Centaur and Cyborg Framework",
+      "category": "AI Operations"
+    },
+    {
+      "name": "GPT-3 and ChatGPT",
+      "category": "AI Models"
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "category": "Technology"
+    },
+    {
+      "name": "Generative AI",
+      "category": "Technology"
+    },
+    {
+      "name": "GPT (Generative Pre-trained Transformer)",
+      "category": "Technology"
+    },
+    {
+      "name": "Slack Bots",
+      "category": "Technology"
+    },
+    {
+      "name": "Prototyping",
+      "category": "Business Process"
+    },
+    {
+      "name": "Growth Phases (0 to 1, 1 to 10, 10 to 100)",
+      "category": "Business Framework"
+    },
+    {
+      "name": "Career Development",
+      "category": "Human Resources"
+    },
+    {
+      "name": "AI Generative Models",
+      "category": "Technology"
+    },
+    {
+      "name": "Leadership Development",
+      "category": "Management"
+    },
+    {
+      "name": "Alumni Networks",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Product Personalization",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Cost Management",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Cientista e o Executivo",
+      "author": "Sandor Caetano"
+    },
+    {
+      "title": "The Executive Scientist",
+      "author": "Unknown"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "16 years",
+      "context": "Sandor Caetano's experience in data science and analytics"
+    },
+    {
+      "value": "4 phases",
+      "context": "Development stages of AI implementation at iFood"
+    },
+    {
+      "value": "45%",
+      "context": "Usage of the Plus One tool for coding within the Prosus group."
+    },
+    {
+      "value": "10,000",
+      "context": "Number of users of the Plus One tool within the Prosus group."
+    },
+    {
+      "value": "2011-2015",
+      "context": "Period of Canui's growth and eventual sale."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabrício",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandor Caetano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Picpay",
+      "target_type": "company"
+    },
+    {
+      "source": "Itano Mollick",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Centaur And Cyborg Framework",
+      "target_type": "concept"
+    },
+    {
+      "source": "Prosus",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Olx",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandor Caetano",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Canui",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rocket International",
+      "target_type": "company"
+    },
+    {
+      "source": "Canui",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Prosus",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Openai",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Henriques",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandor Caetano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandor Caetano",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Openai",
+      "source_type": "company",
+      "relation": "collaborated_with",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandor Caetano",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "O Cientista E O Executivo",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "episode_id": "34748488526",
+  "title": "O que Define o Sucesso ou o Fracasso de Uma Franquia - Com Marcelo Cherto | Extremos",
+  "date_published": 1697617800,
+  "duration": 5036,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Marcelo Cherto",
+      "role": "guest",
+      "company": "Cherto Consultoria",
+      "title": "Fundador"
+    },
+    {
+      "name": "Máximo Balduco",
+      "role": "mentioned",
+      "company": "Balduco",
+      "title": "CEO"
+    },
+    {
+      "name": "Carlo André Balduco",
+      "role": "mentioned",
+      "company": "Balduco",
+      "title": "Executivo"
+    },
+    {
+      "name": "Américo",
+      "role": "mentioned",
+      "company": "Cherto Consultoria",
+      "title": "Sócio"
+    },
+    {
+      "name": "Carlos Brito",
+      "role": "mentioned",
+      "company": "AB InBev",
+      "title": "Ex-CEO"
+    },
+    {
+      "name": "Patrícia",
+      "role": "mentioned",
+      "company": "Porto Seguro",
+      "title": "CEO"
+    },
+    {
+      "name": "Trabuco",
+      "role": "mentioned",
+      "company": "Bradesco",
+      "title": "Ex-CEO"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Caíto Maia",
+      "role": "mentioned",
+      "company": "Chili Beans",
+      "title": "Founder"
+    },
+    {
+      "name": "Jorgios Frangulis",
+      "role": "mentioned",
+      "company": "Oakberry",
+      "title": "Founder"
+    },
+    {
+      "name": "Alexandre Tadeu Da Costa",
+      "role": "mentioned",
+      "company": "Cacau Show",
+      "title": "Founder"
+    },
+    {
+      "name": "Thamila Arrec",
+      "role": "mentioned",
+      "company": "Borelli",
+      "title": "CEO"
+    },
+    {
+      "name": "Chain Arrec",
+      "role": "mentioned",
+      "company": "Grupo SEB",
+      "title": "Founder"
+    },
+    {
+      "name": "Carlinhos Maia",
+      "role": "mentioned",
+      "company": "Hamburgueria do Carlinhos Maia",
+      "title": "Founder"
+    },
+    {
+      "name": "Michael Jackson",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Zé Carlos Semenzato",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Débora Seco",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sabrina",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Xuxa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Semenzato",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Balduco",
+      "industry": "Alimentos",
+      "context": "Desenvolvimento da Casa Balduco como franquia"
+    },
+    {
+      "name": "Hope",
+      "industry": "Moda Íntima",
+      "context": "Transformação de marca e expansão de franquias"
+    },
+    {
+      "name": "Swift",
+      "industry": "Alimentos",
+      "context": "Criação do conceito de mercado da carne"
+    },
+    {
+      "name": "Gerando Falcões",
+      "industry": "ONG",
+      "context": "Projeto de transformação de favelas"
+    },
+    {
+      "name": "Cherto Consultoria",
+      "industry": "Consultoria",
+      "context": "Consultoria em franquias e varejo"
+    },
+    {
+      "name": "Samsung",
+      "industry": "Electronics",
+      "context": "Discussão sobre estratégias de loja e branding"
+    },
+    {
+      "name": "Fast Shop",
+      "industry": "Retail",
+      "context": "Relação com a Samsung e impacto de estratégias de loja"
+    },
+    {
+      "name": "Havaianas",
+      "industry": "Footwear",
+      "context": "Mentioned as an example of brand success."
+    },
+    {
+      "name": "Timberland",
+      "industry": "Footwear",
+      "context": "Mentioned as an example of brand success."
+    },
+    {
+      "name": "Marisol",
+      "industry": "Apparel",
+      "context": "Discussed in relation to the creation of Lilica Repelica stores."
+    },
+    {
+      "name": "Lilica Repelica",
+      "industry": "Apparel",
+      "context": "Discussed as a successful brand created by Marcelo Cherto's consultancy."
+    },
+    {
+      "name": "Chili Beans",
+      "industry": "Eyewear",
+      "context": "Discussed as a successful franchise led by Caíto Maia."
+    },
+    {
+      "name": "Oakberry",
+      "industry": "Food & Beverage",
+      "context": "Discussed as a successful franchise in the acai market."
+    },
+    {
+      "name": "Havana",
+      "industry": "Food & Beverage",
+      "context": "Discussed as a successful franchise in the coffee shop market."
+    },
+    {
+      "name": "Bat De Latte",
+      "industry": "Food & Beverage",
+      "context": "Discussed as a high-quality gelato brand."
+    },
+    {
+      "name": "Borelli",
+      "industry": "Food & Beverage",
+      "context": "Discussed as an emerging gelato brand with potential for growth."
+    },
+    {
+      "name": "Cacau Show",
+      "industry": "Food & Beverage",
+      "context": "Discussed as a successful franchise in the chocolate market."
+    },
+    {
+      "name": "Arby'S",
+      "industry": "Food & Beverage",
+      "context": "Discussed as a failed franchise in the Brazilian market."
+    },
+    {
+      "name": "Yogo Berry",
+      "industry": "Food & Beverage",
+      "context": "Discussed as a declining franchise in the frozen yogurt market."
+    },
+    {
+      "name": "Rochinha",
+      "industry": "Food & Beverage",
+      "context": "Discussed as a successful premium ice cream brand."
+    },
+    {
+      "name": "Hamburgueria Do Carlinhos Maia",
+      "industry": "Food & Beverage",
+      "context": "Discussed in relation to controversies surrounding influencer-led franchises."
+    },
+    {
+      "name": "Pepsi",
+      "industry": "Beverages",
+      "context": "Mentioned in relation to marketing strategies involving live characters."
+    },
+    {
+      "name": "Nanica",
+      "industry": "Food and Beverage",
+      "context": "Mentioned as a growing franchise supported by Zé Carlos Semenzato."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Franquia",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Pilotagem de Conceitos",
+      "category": "Estratégia de Negócio"
+    },
+    {
+      "name": "Franquia Social",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Favela 3D",
+      "category": "Projeto Social"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Franquias",
+      "category": "Business Model"
+    },
+    {
+      "name": "Rebranding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Sistema Límbico",
+      "category": "Neuroscience"
+    },
+    {
+      "name": "Canais de Venda",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Experiência do Cliente",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Franchising",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Brand Awareness",
+      "category": "Marketing"
+    },
+    {
+      "name": "Focus Groups",
+      "category": "Market Research"
+    },
+    {
+      "name": "Pivoting",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Franchise Marketing",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Influencer Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Business Structure",
+      "category": "Organizational Design"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "37 anos",
+      "context": "Tempo de casamento de Marcelo Cherto"
+    },
+    {
+      "value": "600 açougues",
+      "context": "Número de operações da Swift"
+    },
+    {
+      "value": "400 lojas",
+      "context": "Número de lojas da Hope"
+    },
+    {
+      "value": "5 anos",
+      "context": "Tempo de desenvolvimento do projeto Casa Balduco"
+    },
+    {
+      "value": "13 a 14 mil favelas",
+      "context": "Número estimado de favelas no Brasil"
+    },
+    {
+      "value": "13 ou 14 mil",
+      "context": "Número de favelas no Brasil"
+    },
+    {
+      "value": "98%",
+      "context": "Taxa de empregabilidade em projeto piloto de favela 3D"
+    },
+    {
+      "value": "470",
+      "context": "Número de lojas Samsung no Brasil após estratégia de redução de tamanho"
+    },
+    {
+      "value": "500 stores",
+      "context": "Number of Lilica Repelica stores."
+    },
+    {
+      "value": "4 days",
+      "context": "Duration of the Franchising University course."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gerando Falcões",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Favela 3D",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cherto Consultoria",
+      "target_type": "company"
+    },
+    {
+      "source": "Samsung",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Fast Shop",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Franquias",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alexandre Tadeu Da Costa",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cacau Show",
+      "target_type": "company"
+    },
+    {
+      "source": "Thamila Arrec",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Borelli",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sistema Límbico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Zé Carlos Semenzato",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Bruno Semenzato",
+      "target_type": "person"
+    },
+    {
+      "source": "Caíto Maia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Chili Beans",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Cherto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xerto Consultoria",
+      "target_type": "company"
+    },
+    {
+      "source": "Zé Carlos Semenzato",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Nanica",
+      "target_type": "company"
+    },
+    {
+      "source": "Américo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cherto Consultoria",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "person",
+      "relation": "supports",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlo André Balduco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Balduco",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlinhos Maia",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Hamburgueria Franquias",
+      "target_type": "company"
+    },
+    {
+      "source": "Gerando Falcões",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Favelas No Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Michael Jackson",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Pepsi",
+      "target_type": "company"
+    },
+    {
+      "source": "Máximo Balduco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Balduco",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorgios Frangulis",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Oakberry",
+      "target_type": "company"
+    },
+    {
+      "source": "Chain Arrec",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Seb",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlinhos Maia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Hamburgueria Do Carlinhos Maia",
+      "target_type": "company"
+    }
+  ]
+}

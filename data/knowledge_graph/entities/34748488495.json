@@ -1,0 +1,394 @@
+{
+  "episode_id": "34748488495",
+  "title": "De Lavador a Dono da Loja de Carros Mais Famosa do Brasil - Com Tiago Tcar | Extremos",
+  "date_published": 1701765000,
+  "duration": 6303,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tiago Tcar",
+      "role": "guest",
+      "company": "TK",
+      "title": "Empresário"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Fundador"
+    },
+    {
+      "name": "Mc Gui",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cantor"
+    },
+    {
+      "name": "Thiago Concer",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em Vendas"
+    },
+    {
+      "name": "Flávio Augusto",
+      "role": "mentioned",
+      "company": "Wise Up",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Caio Carneiro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empreendedor e Autor"
+    },
+    {
+      "name": "Rony Meisler",
+      "role": "mentioned",
+      "company": "Reserva",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "João Adib",
+      "role": "mentioned",
+      "company": "Cimed",
+      "title": "Empresário"
+    },
+    {
+      "name": "Benedito Cantanhete",
+      "role": "mentioned",
+      "company": "",
+      "title": "Professor"
+    },
+    {
+      "name": "Felipe Dabu",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Wellington Soares",
+      "role": "mentioned",
+      "company": "",
+      "title": "Pastor"
+    },
+    {
+      "name": "Evandro Guedes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação corporativa",
+      "context": "Plataforma de educação corporativa mencionada no podcast"
+    },
+    {
+      "name": "Clivo",
+      "industry": "Saúde",
+      "context": "Empresa fundada por Marcelo Toledo"
+    },
+    {
+      "name": "Oi",
+      "industry": "Telecomunicações",
+      "context": "Empresa onde um dos hosts trabalhou"
+    },
+    {
+      "name": "Modaly",
+      "industry": "Eventos e design de interiores",
+      "context": "Parceira do G4 Educação para estúdios e eventos"
+    },
+    {
+      "name": "Tk",
+      "industry": "Automóveis",
+      "context": "Loja de carros de luxo fundada por Tiago Tcar"
+    },
+    {
+      "name": "Tk Multimarcas",
+      "industry": "Automotivo",
+      "context": "Loja de carros fundada por Tiago Tcar"
+    },
+    {
+      "name": "Mercedes",
+      "industry": "Automotivo",
+      "context": "Concessionária mencionada como referência de padrão"
+    },
+    {
+      "name": "Bmw",
+      "industry": "Automotivo",
+      "context": "Concessionária mencionada como referência de padrão"
+    },
+    {
+      "name": "Ferrari",
+      "industry": "Automotivo",
+      "context": "Concessionária mencionada como referência de padrão"
+    },
+    {
+      "name": "Reserva",
+      "industry": "Moda",
+      "context": "Empresa fundada por Rony Meisler"
+    },
+    {
+      "name": "Wise Up",
+      "industry": "Educação",
+      "context": "Empresa fundada por Flávio Augusto"
+    },
+    {
+      "name": "Tcar",
+      "industry": "Automotive",
+      "context": "Car dealership owned by Tiago Tcar"
+    },
+    {
+      "name": "Hyper",
+      "industry": "Suplementação",
+      "context": "Apoiou a produção de um documentário sobre a Pororoca."
+    },
+    {
+      "name": "Olx",
+      "industry": "Classificados online",
+      "context": "Fechou um contrato de marketing com o convidado."
+    },
+    {
+      "name": "Editora Gente",
+      "industry": "Publishing",
+      "context": "Mentioned as a potential partner for book publishing"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Liderança adaptativa",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Educação corporativa",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Ambição renovada",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Gestão de negócios"
+    },
+    {
+      "name": "Experiência do Cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Padrão TK",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Credibilidade em Vendas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Processos de Venda",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Processos empresariais",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Crescimento empresarial",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Investigação financeira",
+      "category": "Legal/Compliance"
+    },
+    {
+      "name": "Lavagem de dinheiro",
+      "category": "Legal/Compliance"
+    },
+    {
+      "name": "Associação ao terrorismo",
+      "category": "Legal/Compliance"
+    },
+    {
+      "name": "Marketing autêntico",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "G4 Traction",
+      "category": "Programa de educação empresarial"
+    },
+    {
+      "name": "Metanoia",
+      "category": "Transformação pessoal"
+    },
+    {
+      "name": "book writing process",
+      "category": "strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Seja Foda!",
+      "author": "Caio Carneiro"
+    },
+    {
+      "title": "Seja Foda",
+      "author": "Caio Carneiro"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "300 carros por mês",
+      "context": "Volume de vendas da loja de Tiago Tcar"
+    },
+    {
+      "value": "80 franquias vendidas",
+      "context": "Expansão da franquia de donuts fundada por Tiago Tcar"
+    },
+    {
+      "value": "730 mil reais",
+      "context": "Investimento inicial em carros para a loja"
+    },
+    {
+      "value": "2016",
+      "context": "Ano de fundação da loja com o conceito inovador"
+    },
+    {
+      "value": "3.500 reais",
+      "context": "Value of a transaction for an e-commerce store"
+    },
+    {
+      "value": "70 mil visualizações",
+      "context": "Conteúdo produzido profissionalmente pela equipe de marketing."
+    },
+    {
+      "value": "3 milhões de visualizações",
+      "context": "Conteúdo amador gravado pelo celular."
+    },
+    {
+      "value": "2 milhões e meio de visualizações",
+      "context": "Vídeo de uma Ferrari atravessando uma enchente em Dubai."
+    },
+    {
+      "value": "80-100 questions",
+      "context": "Number of questions answered during the book writing process"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávio Augusto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Wise Up",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Tcar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tk Multimarcas",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Tcar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tk",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Tcar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tcar",
+      "target_type": "company"
+    },
+    {
+      "source": "Wellington Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Felipe Dabu",
+      "target_type": "person"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Seja Foda",
+      "target_type": "company"
+    },
+    {
+      "source": "Modaly",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Tcar",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Editora Gente",
+      "target_type": "company"
+    },
+    {
+      "source": "Hyper",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Documentário Sobre A Pororoca",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "offers",
+      "target": "G4 Traction",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rony Meisler",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Reserva",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Seja Foda!",
+      "target_type": "company"
+    }
+  ]
+}

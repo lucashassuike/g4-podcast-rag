@@ -1,0 +1,189 @@
+{
+  "episode_id": "34748488575",
+  "title": "Sandra Chayo - Escolhas saudáveis, Relação com a Morte, Fé e Religião | Sem Atalhos",
+  "date_published": 1688979600,
+  "duration": 3203,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Sandra Chayo",
+      "role": "guest",
+      "company": "Hope",
+      "title": "Sócia e Diretora"
+    },
+    {
+      "name": "Thay",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Cris Junqueira",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Co-fundadora"
+    },
+    {
+      "name": "Renato Amioca",
+      "role": "mentioned",
+      "company": "",
+      "title": "Médico Ginecologista"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Hope",
+      "industry": "Moda Íntima",
+      "context": "Sandra Chayo é sócia e diretora do grupo Hope."
+    },
+    {
+      "name": "Hope Resort",
+      "industry": "moda casual e wellness",
+      "context": "Marca criada dentro do grupo Hope, focada em moda casual e atleisure."
+    },
+    {
+      "name": "Bonjour Lingerie",
+      "industry": "moda íntima",
+      "context": "Marca de lingerie cofundada por Sandra Chayo em 2015."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alimentação Vegana",
+      "category": "Estilo de Vida"
+    },
+    {
+      "name": "Câncer de Tireoide",
+      "category": "Saúde"
+    },
+    {
+      "name": "Longevidade",
+      "category": "Saúde"
+    },
+    {
+      "name": "Yoga",
+      "category": "Prática de Bem-Estar"
+    },
+    {
+      "name": "atleisure",
+      "category": "tendência de moda"
+    },
+    {
+      "name": "gestão do tempo",
+      "category": "habilidade pessoal"
+    },
+    {
+      "name": "Jejum Intermitente",
+      "category": "health"
+    },
+    {
+      "name": "Proteína Isolada da Ervilha",
+      "category": "nutrition"
+    },
+    {
+      "name": "Proteína Isolada do Hemp",
+      "category": "nutrition"
+    },
+    {
+      "name": "Proteína Vegana",
+      "category": "nutrition"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "2017",
+      "context": "Ano de lançamento do projeto Hope Resort."
+    },
+    {
+      "value": "2015",
+      "context": "Ano de fundação da Bonjour Lingerie."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Cris Junqueira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Sandra Chayo",
+      "target_type": "person"
+    },
+    {
+      "source": "Sandra Chayo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Proteína Isolada Da Ervilha",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bonjour Lingerie",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Hope",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandra Chayo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Proteína Vegana",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sandra Chayo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hope Resort",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandra Chayo",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Thay",
+      "target_type": "person"
+    },
+    {
+      "source": "Sandra Chayo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bonjour Lingerie",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Amioca",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Sandra Chayo",
+      "target_type": "person"
+    },
+    {
+      "source": "Sandra Chayo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hope",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandra Chayo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jejum Intermitente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sandra Chayo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Proteína Isolada Do Hemp",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hope Resort",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Hope",
+      "target_type": "company"
+    }
+  ]
+}

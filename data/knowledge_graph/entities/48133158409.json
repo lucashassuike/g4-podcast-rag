@@ -1,0 +1,319 @@
+{
+  "episode_id": "48133158409",
+  "title": "TECNOLOGIA COMO MOTOR DE CRESCIMENTO COM RAFAEL FIGUEIREDO | TOOLS LIVE",
+  "date_published": 1767970800,
+  "duration": 3285,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Rafael Figueiredo",
+      "role": "guest",
+      "company": "Tecla T",
+      "title": "Founder"
+    },
+    {
+      "name": "Felipe Drogovic",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Tecla T",
+      "industry": "Technology Outsourcing",
+      "context": "Provides outsourcing services for technology professionals and teams."
+    },
+    {
+      "name": "Foodora",
+      "industry": "Food Delivery",
+      "context": "Similar to iFood and Rappi, focused on B2B food delivery solutions."
+    },
+    {
+      "name": "Mckinsey",
+      "industry": "Consulting",
+      "context": "Client of Foodora's B2B food delivery service."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Client of Foodora's B2B food delivery service."
+    },
+    {
+      "name": "Heineken Global",
+      "industry": "Beverage",
+      "context": "Collaborated with Tecla T on a logistics project for truck routing."
+    },
+    {
+      "name": "Magalu",
+      "industry": "Retail",
+      "context": "Worked with Tecla T on an intelligence recommendation engine project."
+    },
+    {
+      "name": "V4 Company",
+      "industry": "Marketing",
+      "context": "Collaborated with Tecla T on developing a CRM system."
+    },
+    {
+      "name": "American Express",
+      "industry": "Financial Services",
+      "context": "Mentioned in the context of sponsorship strategies."
+    },
+    {
+      "name": "Heineken",
+      "industry": "Bebidas",
+      "context": "Patrocínio à Fórmula 1"
+    },
+    {
+      "name": "Lovable",
+      "industry": "Tecnologia",
+      "context": "Plataforma de desenvolvimento low-code"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Outsourcing",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Technology Outsourcing",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "B2B Food Delivery",
+      "category": "Business Model"
+    },
+    {
+      "name": "Retention of Technology Professionals",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Mentorship",
+      "category": "Leadership"
+    },
+    {
+      "name": "CRM",
+      "category": "Technology"
+    },
+    {
+      "name": "Retention Strategies",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Engagement Metrics",
+      "category": "Performance Measurement"
+    },
+    {
+      "name": "Relationship Selling",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "category": "Technology"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Low-code",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "MVP (Minimum Viable Product)",
+      "category": "Estratégia de Produto"
+    },
+    {
+      "name": "Escalabilidade",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Digitalização",
+      "category": "Transformação Digital"
+    },
+    {
+      "name": "Segurança da Informação",
+      "category": "Tecnologia"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "60 days",
+      "context": "Average time companies take to fill a technology position."
+    },
+    {
+      "value": "7 days",
+      "context": "Time Rafael Figueiredo claims to fill technology positions across Brazil."
+    },
+    {
+      "value": "1,200,000 BRL",
+      "context": "Cost for developing a solution."
+    },
+    {
+      "value": "6,000,000 BRL",
+      "context": "Savings achieved in a year using the developed solution."
+    },
+    {
+      "value": "5,000 professionals",
+      "context": "Number of technology professionals interested in working at Tecla T in the last semester."
+    },
+    {
+      "value": "7 days",
+      "context": "Time Tecla T guarantees to fill a technology position."
+    },
+    {
+      "value": "60 days",
+      "context": "Average time for companies to fill a technology position."
+    },
+    {
+      "value": "9 months",
+      "context": "Duration Tecla T has consistently met its hiring promise."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Inteligência Artificial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Figueiredo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tecla T",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "collaborated_with",
+      "target": "Magalu",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "collaborated_with",
+      "target": "Heineken Global",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Escalabilidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "collaborated_with",
+      "target": "V4 Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Foodora",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Low-Code",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Figueiredo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tecla T",
+      "target_type": "company"
+    },
+    {
+      "source": "Heineken",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Fórmula 1",
+      "target_type": "company"
+    },
+    {
+      "source": "Foodora",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mckinsey",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Figueiredo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Felipe Drogovic",
+      "target_type": "person"
+    },
+    {
+      "source": "Tecla T",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Segurança Da Informação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

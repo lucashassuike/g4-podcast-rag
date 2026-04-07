@@ -1,0 +1,244 @@
+{
+  "episode_id": "45322109248",
+  "title": "Os Erros Que Estão Matando Pequenas e Médias | PAPO DE GESTÃO",
+  "date_published": 1763397050,
+  "duration": 3599,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Manuel",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nicolas Santos",
+      "role": "mentioned",
+      "company": "",
+      "title": "Nadador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Plataforma de educação e consultoria mencionada no podcast."
+    },
+    {
+      "name": "Unibanco",
+      "industry": "Financeiro",
+      "context": "Manuel participou de campanhas publicitárias para o Unibanco"
+    },
+    {
+      "name": "Coca-Cola",
+      "industry": "Bebidas",
+      "context": "Campanhas publicitárias mencionadas pelo convidado"
+    },
+    {
+      "name": "Johnson & Johnson",
+      "industry": "Produtos de consumo",
+      "context": "Campanhas publicitárias mencionadas pelo convidado"
+    },
+    {
+      "name": "Kodak",
+      "industry": "Fotografia",
+      "context": "Campanhas publicitárias mencionadas pelo convidado"
+    },
+    {
+      "name": "Technos Relógios",
+      "industry": "Relógios",
+      "context": "Empresa onde o convidado trabalhou como diretor de qualidade"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "OKR",
+      "category": "Metodologia de Gestão"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Turnover",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Rotina Organizacional",
+      "category": "Gestão de Mudança"
+    },
+    {
+      "name": "Cadência de Acompanhamento",
+      "category": "Gestão de Projetos"
+    },
+    {
+      "name": "rotina",
+      "category": "gestão"
+    },
+    {
+      "name": "disciplina de gestão",
+      "category": "gestão"
+    },
+    {
+      "name": "fricção",
+      "category": "psicologia comportamental"
+    },
+    {
+      "name": "educação",
+      "category": "desenvolvimento pessoal"
+    },
+    {
+      "name": "longevidade",
+      "category": "saúde e bem-estar"
+    },
+    {
+      "name": "Administração",
+      "category": "Educação"
+    },
+    {
+      "name": "Marketing",
+      "category": "Educação"
+    },
+    {
+      "name": "MBA",
+      "category": "Educação"
+    },
+    {
+      "name": "Mestrado",
+      "category": "Educação"
+    },
+    {
+      "name": "Gestão de qualidade",
+      "category": "Negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "70%",
+      "context": "Taxa de turnover mencionada como problemática em uma empresa."
+    },
+    {
+      "value": "500 calorias",
+      "context": "Déficit calórico diário para perda de peso"
+    },
+    {
+      "value": "200 calorias",
+      "context": "Calorias em um brigadeiro"
+    },
+    {
+      "value": "350 calorias",
+      "context": "Calorias em uma torta de limão"
+    },
+    {
+      "value": "42 anos",
+      "context": "Idade mencionada por Manuel"
+    },
+    {
+      "value": "22 anos",
+      "context": "Tempo de envolvimento de Manuel com cavalos"
+    },
+    {
+      "value": "100 comerciais",
+      "context": "Número de comerciais de TV feitos por Manuel"
+    },
+    {
+      "value": "11 campanhas",
+      "context": "Número de campanhas publicitárias feitas por Manuel para o Unibanco"
+    },
+    {
+      "value": "Mais de 100 comerciais",
+      "context": "Número de comerciais realizados pelo convidado"
+    },
+    {
+      "value": "11 campanhas",
+      "context": "Número de campanhas realizadas para o Unibanco"
+    },
+    {
+      "value": "4 meses",
+      "context": "Tempo de trabalho como modelo no Japão"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Manuel",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Unibanco",
+      "target_type": "company"
+    },
+    {
+      "source": "Unibanco",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Campanhas Publicitárias",
+      "target_type": "company"
+    },
+    {
+      "source": "Technos Relógios",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão De Qualidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Manuel",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nicolas Santos",
+      "target_type": "person"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

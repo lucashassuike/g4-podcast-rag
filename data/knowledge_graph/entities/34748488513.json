@@ -1,0 +1,331 @@
+{
+  "episode_id": "34748488513",
+  "title": "Como Formar Líderes Dentro de Uma Empresa? | G4 Podcasts",
+  "date_published": 1699282983,
+  "duration": 4780,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Sandra Chaio",
+      "role": "guest",
+      "company": "Hope",
+      "title": "Mentora no G4 e Líder de Estilo e Marketing"
+    },
+    {
+      "name": "Bernardo Carneiro",
+      "role": "guest",
+      "company": "Stone",
+      "title": "Sócio Diretor e Fundador"
+    },
+    {
+      "name": "Helio Azevedo",
+      "role": "guest",
+      "company": "Insider Training",
+      "title": "CEO"
+    },
+    {
+      "name": "Ayrton Senna",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Sandra",
+      "role": "guest",
+      "company": "Hope",
+      "title": ""
+    },
+    {
+      "name": "Bernardo",
+      "role": "guest",
+      "company": "Stone",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Priscila",
+      "role": "mentioned",
+      "company": "Jean Pass",
+      "title": "Presidente"
+    },
+    {
+      "name": "Denis",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Plataforma de mentoria e formação empresarial"
+    },
+    {
+      "name": "Hope",
+      "industry": "Moda e Indústria Têxtil",
+      "context": "Empresa de lingeries e moda feminina"
+    },
+    {
+      "name": "Stone",
+      "industry": "Pagamentos e Fintech",
+      "context": "Empresa de meios de pagamento"
+    },
+    {
+      "name": "Insider Training",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa focada em treinamento e formação empresarial"
+    },
+    {
+      "name": "Jean Pass",
+      "industry": "Tecnologia",
+      "context": "Empresa mencionada em contexto de treinamento de vendas."
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Empresa mencionada em exemplo de integração de equipes."
+    },
+    {
+      "name": "Linkedin",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de empresa que adotou o cargo de COO no Brasil nos últimos cinco anos."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de empresa que adotou o cargo de COO no Brasil nos últimos cinco anos."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Bancário",
+      "context": "Mencionada em um exemplo sobre operações e atendimento ao cliente."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Diversificação de Riscos",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Employer Branding",
+      "category": "Gestão de Talentos"
+    },
+    {
+      "name": "Onboarding",
+      "category": "Gestão de Talentos"
+    },
+    {
+      "name": "Pipeline de Talentos",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "DISC",
+      "category": "Psicologia Organizacional"
+    },
+    {
+      "name": "PNL (Programação Neurolinguística)",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Tripé da Liderança",
+      "category": "Estratégia de liderança"
+    },
+    {
+      "name": "Rituais de Cultura",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Customer Journey",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "CRO (Chief Revenue Officer)",
+      "category": "Cargos Executivos"
+    },
+    {
+      "name": "CRM (Customer Relationship Management)",
+      "category": "Tecnologia de Negócios"
+    },
+    {
+      "name": "Data Hélio",
+      "category": "Problemas de Dados"
+    },
+    {
+      "name": "Funil de Vendas",
+      "category": "Estratégia de Negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "57 anos",
+      "context": "Tempo de operação da Hope"
+    },
+    {
+      "value": "70% das vendas para seis clientes",
+      "context": "Dependência de grandes clientes na Hope"
+    },
+    {
+      "value": "18,000 colaboradores",
+      "context": "Número de funcionários na Stone."
+    },
+    {
+      "value": "15 mil",
+      "context": "Número de colaboradores considerados no time principal da Stone."
+    },
+    {
+      "value": "20 mil",
+      "context": "Número total de colaboradores incluindo franquias na Stone."
+    },
+    {
+      "value": "60",
+      "context": "Número de pessoas que Priscila queria treinar em sua equipe de vendas."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bernardo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stone",
+      "target_type": "company"
+    },
+    {
+      "source": "Helio Azevedo",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Stone",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jean Pass",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cro (Chief Revenue Officer)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Helio Azevedo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Insider Training",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Carneiro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Stone",
+      "target_type": "company"
+    },
+    {
+      "source": "Priscila",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Jean Pass",
+      "target_type": "company"
+    },
+    {
+      "source": "Hope",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Linkedin",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Coo (Chief Operating Officer)",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandra Chaio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hope",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandra",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hope",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandra Chaio",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Carneiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stone",
+      "target_type": "company"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Coo (Chief Operating Officer)",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Stone",
+      "target_type": "company"
+    }
+  ]
+}

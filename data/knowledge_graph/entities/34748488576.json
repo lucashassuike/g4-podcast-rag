@@ -1,0 +1,506 @@
+{
+  "episode_id": "34748488576",
+  "title": "Igor Morais - Kings Sneakers: Da Galeria do Rock ao Faturamento de Milhões | Extremos",
+  "date_published": 1688461200,
+  "duration": 2881,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Igor Moraes",
+      "role": "guest",
+      "company": "Kings Sneakers",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Igor Morais",
+      "role": "guest",
+      "company": "Kings Sneakers",
+      "title": "Founder"
+    },
+    {
+      "name": "Lucas Penido",
+      "role": "mentioned",
+      "company": "Hype BR",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Ferréz",
+      "role": "mentioned",
+      "company": "",
+      "title": "Writer"
+    },
+    {
+      "name": "Lana",
+      "role": "mentioned",
+      "company": "",
+      "title": "Public Relations"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "",
+      "title": "Guest on G4 Podcast"
+    },
+    {
+      "name": "Debra",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Vivi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Alquimista"
+    },
+    {
+      "name": "Cláudia Luca",
+      "role": "mentioned",
+      "company": "Cláudia Luca",
+      "title": "Owner"
+    },
+    {
+      "name": "Mônica",
+      "role": "mentioned",
+      "company": "",
+      "title": "Astróloga"
+    },
+    {
+      "name": "Amanda Prado",
+      "role": "mentioned",
+      "company": "Nike",
+      "title": "Financeira"
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "Grupo Fisia",
+      "title": ""
+    },
+    {
+      "name": "Branco",
+      "role": "mentioned",
+      "company": "Grupo DAS",
+      "title": ""
+    },
+    {
+      "name": "Henrique",
+      "role": "mentioned",
+      "company": "Grupo DAS",
+      "title": ""
+    },
+    {
+      "name": "Anderson Cavalcante",
+      "role": "mentioned",
+      "company": "Buzz",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Kings Sneakers",
+      "industry": "Retail",
+      "context": "Founded by Igor Moraes, operates in the sneakers and streetwear market."
+    },
+    {
+      "name": "Santander",
+      "industry": "Finance",
+      "context": "Provided financial support to Igor Moraes for his business expansion."
+    },
+    {
+      "name": "Stockx",
+      "industry": "E-commerce",
+      "context": "Platform for trading sneakers and streetwear items."
+    },
+    {
+      "name": "Nike",
+      "industry": "Retail",
+      "context": "Collaborates with influencers and produces exclusive sneakers."
+    },
+    {
+      "name": "Tiffany & Co.",
+      "industry": "Luxury Goods",
+      "context": "Collaborated with Nike for exclusive sneaker releases."
+    },
+    {
+      "name": "Número Store",
+      "industry": "Retail",
+      "context": "Energy sneaker retail store in Rio de Janeiro"
+    },
+    {
+      "name": "Cartel 011",
+      "industry": "Retail",
+      "context": "Streetwear and sneaker retail store"
+    },
+    {
+      "name": "Maze",
+      "industry": "Retail",
+      "context": "Streetwear and sneaker retail store"
+    },
+    {
+      "name": "Itaú",
+      "industry": "Finance",
+      "context": "Provided financial support to Igor Morais"
+    },
+    {
+      "name": "Cláudia Luca",
+      "industry": "Fashion",
+      "context": "Operates in the fashion industry, specializing in beachwear."
+    },
+    {
+      "name": "Grupo Fisia",
+      "industry": "Retail",
+      "context": "Holding company owning Centauro and managing Nike in Brazil."
+    },
+    {
+      "name": "Grupo Das",
+      "industry": "Retail",
+      "context": "Owns brands like Fila and New Balance."
+    },
+    {
+      "name": "Buzz",
+      "industry": "Publicação e Livros",
+      "context": "Editora do livro de Igor Moraes"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Franchise Model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Retail",
+      "category": "Industry"
+    },
+    {
+      "name": "Energy Channel",
+      "category": "Retail Strategy"
+    },
+    {
+      "name": "Sneakers",
+      "category": "Product Category"
+    },
+    {
+      "name": "Streetwear",
+      "category": "Fashion"
+    },
+    {
+      "name": "StockX Platform",
+      "category": "E-commerce"
+    },
+    {
+      "name": "Collaboration",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Energy",
+      "category": "Retail Strategy"
+    },
+    {
+      "name": "Exclusive Retail",
+      "category": "Retail Strategy"
+    },
+    {
+      "name": "COF (Circular of Offering Franchise)",
+      "category": "Franchise Documentation"
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Business"
+    },
+    {
+      "name": "Energy Calibration",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Astrology",
+      "category": "Belief System"
+    },
+    {
+      "name": "Alquimia",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Trademark Registration",
+      "category": "Legal"
+    },
+    {
+      "name": "Retail Strategy",
+      "category": "Business"
+    },
+    {
+      "name": "Brand Partnerships",
+      "category": "Business"
+    },
+    {
+      "name": "Gestão empresarial",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Marketing",
+      "category": "Estratégia de Negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "Nada Vem Fácil",
+      "author": "Igor Moraes"
+    },
+    {
+      "title": "Forbes Magazine",
+      "author": "Forbes"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "140",
+      "context": "Number of stores operated by Kings Sneakers."
+    },
+    {
+      "value": "33",
+      "context": "Number of employees in Kings Sneakers' management hub."
+    },
+    {
+      "value": "23",
+      "context": "Number of stores Igor Moraes owned before transitioning to a franchise model."
+    },
+    {
+      "value": "50,000",
+      "context": "Price of a Nike Tiffany sneaker sold before official release."
+    },
+    {
+      "value": "148 stores",
+      "context": "Kings Sneakers retail chain size"
+    },
+    {
+      "value": "First million loan",
+      "context": "Loan provided by Itaú to Igor Morais"
+    },
+    {
+      "value": "Millions",
+      "context": "Faturamento da Kings Sneakers"
+    },
+    {
+      "value": "Three new projects",
+      "context": "Current initiatives by Igor Morais"
+    },
+    {
+      "value": "Employment generation",
+      "context": "Focus on providing jobs for youth in Brazil"
+    },
+    {
+      "value": "60%-70% sneakers, 30%-40% apparel",
+      "context": "Product portfolio distribution of Kings Sneakers."
+    },
+    {
+      "value": "40,000 employees",
+      "context": "Workforce size of Grupo DAS."
+    },
+    {
+      "value": "5,000 BRL",
+      "context": "Initial credit provided by Nike to Igor Morais."
+    },
+    {
+      "value": "500 shoppings",
+      "context": "Número de shoppings no Brasil mencionados como limite para expansão da Kings Sneakers"
+    },
+    {
+      "value": "140 lojas",
+      "context": "Número atual de lojas da Kings Sneakers"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Igor Morais",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Vivi",
+      "target_type": "person"
+    },
+    {
+      "source": "Kings Sneakers",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Número Store",
+      "target_type": "company"
+    },
+    {
+      "source": "Igor Morais",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Debra",
+      "target_type": "person"
+    },
+    {
+      "source": "Igor Morais",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Kings Sneakers",
+      "target_type": "company"
+    },
+    {
+      "source": "Kings Sneakers",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Nike",
+      "target_type": "company"
+    },
+    {
+      "source": "Kings Sneakers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Stockx",
+      "target_type": "company"
+    },
+    {
+      "source": "Igor Moraes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Kings Sneakers",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Fisia",
+      "source_type": "company",
+      "relation": "manages",
+      "target": "Nike",
+      "target_type": "company"
+    },
+    {
+      "source": "Kings Sneakers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Nike",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Cláudia Luca",
+      "target_type": "person"
+    },
+    {
+      "source": "Igor Moraes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Kings Sneakers",
+      "target_type": "company"
+    },
+    {
+      "source": "Igor Moraes",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Nada Vem Fácil",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mônica",
+      "target_type": "person"
+    },
+    {
+      "source": "Kings Sneakers",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Cartel 011",
+      "target_type": "company"
+    },
+    {
+      "source": "Nada Vem Fácil",
+      "source_type": "person",
+      "relation": "published_by",
+      "target": "Buzz",
+      "target_type": "company"
+    },
+    {
+      "source": "Santander",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Igor Morais",
+      "target_type": "person"
+    },
+    {
+      "source": "Grupo Das",
+      "source_type": "company",
+      "relation": "owns",
+      "target": "New Balance",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Penido",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Hype Br",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Fisia",
+      "source_type": "company",
+      "relation": "owns",
+      "target": "Centauro",
+      "target_type": "company"
+    },
+    {
+      "source": "Itaú",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Igor Morais",
+      "target_type": "person"
+    },
+    {
+      "source": "Kings Sneakers",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Maze",
+      "target_type": "company"
+    },
+    {
+      "source": "Igor Moraes",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Nada Vem Fácil",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Das",
+      "source_type": "company",
+      "relation": "owns",
+      "target": "Fila",
+      "target_type": "company"
+    },
+    {
+      "source": "Kings Sneakers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Tiffany & Co.",
+      "target_type": "company"
+    }
+  ]
+}

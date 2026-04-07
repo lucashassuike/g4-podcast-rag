@@ -1,0 +1,335 @@
+{
+  "episode_id": "34748488479",
+  "title": "ENTENDA COMO EMPREENDER EM PARALELO COM SUA PROFISSÃO - COM BRUNO LAGOEIRO | PAPO DE GESTÃO",
+  "date_published": 1704704400,
+  "duration": 4170,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Lagoeiro",
+      "role": "guest",
+      "company": "AFIA",
+      "title": "CEO"
+    },
+    {
+      "name": "Júlio",
+      "role": "mentioned",
+      "company": "AFIA",
+      "title": "Conselheiro"
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "Áfia",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Edu",
+      "role": "mentioned",
+      "company": "",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Ben Horowitz",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Eduardo",
+      "role": "mentioned",
+      "company": "Áfia",
+      "title": "Founder"
+    },
+    {
+      "name": "Eusebio Vieira",
+      "role": "mentioned",
+      "company": "Áfia",
+      "title": "Director of Content"
+    },
+    {
+      "name": "Fred",
+      "role": "mentioned",
+      "company": "Áfia",
+      "title": "Interviewer"
+    },
+    {
+      "name": "Dani Unic",
+      "role": "mentioned",
+      "company": "Salve",
+      "title": ""
+    },
+    {
+      "name": "Bruno Rabin",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Provides training and development platforms like G4 Skills."
+    },
+    {
+      "name": "Modale",
+      "industry": "Event Services",
+      "context": "Partner for cenography in G4 Educação's events and formations."
+    },
+    {
+      "name": "Afia",
+      "industry": "Education",
+      "context": "Largest group of medical schools in Brazil."
+    },
+    {
+      "name": "Fundação Oswaldo Cruz (Fiocruz)",
+      "industry": "Research",
+      "context": "Center for research in medicine and biotechnology."
+    },
+    {
+      "name": "Áfia",
+      "industry": "Healthcare",
+      "context": "Acquired Bruno Lagoeiro's company to integrate into its ecosystem for medical professionals."
+    },
+    {
+      "name": "Salve",
+      "industry": "Healthcare",
+      "context": "Mentioned as the company of Dani Unic."
+    },
+    {
+      "name": "Minha Vida",
+      "industry": "Healthcare",
+      "context": "Mentioned as a company previously owned by Dani Unic."
+    },
+    {
+      "name": "Medcell",
+      "industry": "Education",
+      "context": "Mentioned in relation to acquisition attempts by Afia."
+    },
+    {
+      "name": "Medscape",
+      "industry": "Healthcare",
+      "context": "Mentioned as a benchmark and potential acquisition target."
+    },
+    {
+      "name": "Deloitte",
+      "industry": "Professional Services",
+      "context": "Involved in due diligence processes during acquisition discussions."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Training Platform"
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Business Concept"
+    },
+    {
+      "name": "Complementarity in Teams",
+      "category": "Team Dynamics"
+    },
+    {
+      "name": "Trust in Teams",
+      "category": "Team Dynamics"
+    },
+    {
+      "name": "Medical Entrepreneurship",
+      "category": "Business Concept"
+    },
+    {
+      "name": "Zero to One",
+      "category": "Business Growth Framework"
+    },
+    {
+      "name": "One to Ten",
+      "category": "Business Growth Framework"
+    },
+    {
+      "name": "Ten to Hundred",
+      "category": "Business Growth Framework"
+    },
+    {
+      "name": "Founder Roles",
+      "category": "Entrepreneurship"
+    },
+    {
+      "name": "Xadrez de Gente",
+      "category": "Team Management"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finance"
+    },
+    {
+      "name": "M&A",
+      "category": "Finance"
+    },
+    {
+      "name": "due diligence",
+      "category": "Finance"
+    }
+  ],
+  "books": [
+    {
+      "title": "What You Do Is Who You Are",
+      "author": "Ben Horowitz"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "32 medical schools",
+      "context": "AFIA's scale as the largest group of medical schools in Brazil."
+    },
+    {
+      "value": "2017",
+      "context": "Year the company experienced significant growth and restructuring."
+    },
+    {
+      "value": "2020",
+      "context": "Year Áfia acquired Bruno Lagoeiro's company."
+    },
+    {
+      "value": "2015-2020",
+      "context": "Period during which the company was frequently approached for acquisition."
+    },
+    {
+      "value": "July 2019",
+      "context": "Date of Afia's IPO."
+    },
+    {
+      "value": "September 2019",
+      "context": "Date of signing MOU with a foreign company."
+    },
+    {
+      "value": "July 2020",
+      "context": "Date of finalizing acquisition with Afia."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ben Horowitz",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "What You Do Is Who You Are",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Afia",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Lagoeiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Afia",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Lagoeiro",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Afia",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Medscape",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Áfia",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Lagoeiro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Áfia",
+      "target_type": "company"
+    },
+    {
+      "source": "Eusebio Vieira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Áfia",
+      "target_type": "company"
+    },
+    {
+      "source": "Afia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Medcell",
+      "target_type": "company"
+    },
+    {
+      "source": "Dani Unic",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Salve",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Áfia",
+      "target_type": "company"
+    },
+    {
+      "source": "Deloitte",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Due Diligence",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dani Unic",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Minha Vida",
+      "target_type": "company"
+    },
+    {
+      "source": "Eduardo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Áfia",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Áfia",
+      "target_type": "company"
+    }
+  ]
+}

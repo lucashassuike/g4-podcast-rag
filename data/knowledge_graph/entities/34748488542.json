@@ -1,0 +1,633 @@
+{
+  "episode_id": "34748488542",
+  "title": "O Empreendedorismo que Transforma Vidas - Com Henri Zylberstajn | Papo de Gestão",
+  "date_published": 1695630600,
+  "duration": 4389,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Henri Zylberstajn",
+      "role": "guest",
+      "company": "Kiwara",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Marina Zylberstajn",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pedro Zylberstajn",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filho de Henri Zylberstajn"
+    },
+    {
+      "name": "Nina Zylberstajn",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Lipe Zylberstajn",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marininha",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Anitta",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Edu Lira",
+      "role": "mentioned",
+      "company": "Gerando Falcões",
+      "title": "Founder"
+    },
+    {
+      "name": "Alcione Albernese",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Carlos Brito",
+      "role": "mentioned",
+      "company": "Ambev",
+      "title": "Former CEO"
+    },
+    {
+      "name": "Paulo Kakinoff",
+      "role": "mentioned",
+      "company": "Gol Linhas Aéreas",
+      "title": "Former CEO"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Edu Lyra",
+      "role": "mentioned",
+      "company": "Gerando Falcões",
+      "title": "Founder"
+    },
+    {
+      "name": "Nizan Guanaes",
+      "role": "mentioned",
+      "company": "Grupo ABC",
+      "title": "Founder"
+    },
+    {
+      "name": "Zeca",
+      "role": "mentioned",
+      "company": "Tarpon",
+      "title": "Executive"
+    },
+    {
+      "name": "André Escobar",
+      "role": "mentioned",
+      "company": "Tarpon",
+      "title": "Executive"
+    },
+    {
+      "name": "André Zuckerman",
+      "role": "mentioned",
+      "company": "Quara",
+      "title": "Sócio"
+    },
+    {
+      "name": "Xuxa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Keynote Speaker"
+    },
+    {
+      "name": "Luciano Huck",
+      "role": "mentioned",
+      "company": "",
+      "title": "Keynote Speaker"
+    },
+    {
+      "name": "Luísa Posse",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cantora"
+    },
+    {
+      "name": "Afonso Nigro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cantor"
+    },
+    {
+      "name": "Bob Iger",
+      "role": "mentioned",
+      "company": "Disney",
+      "title": "Former CEO"
+    },
+    {
+      "name": "Raj Sisodia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Founder of Capitalismo Consciente"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Desenvolvimento de habilidades e treinamento de equipes"
+    },
+    {
+      "name": "Kiwara",
+      "industry": "Tecnologia",
+      "context": "Plataforma de compra e venda de bens e ativos"
+    },
+    {
+      "name": "Soul De Leilões",
+      "industry": "Leilões",
+      "context": "Fundada por Henri Zylberstajn e vendida em 2018"
+    },
+    {
+      "name": "Instituto Serendipidade",
+      "industry": "Terceiro Setor",
+      "context": "ONG fundada por Henri Zylberstajn focada em inclusão e impacto social"
+    },
+    {
+      "name": "Revista Pais E Filhos",
+      "industry": "Media",
+      "context": "Hosts a column related to inclusion and diversity."
+    },
+    {
+      "name": "Serendipidade",
+      "industry": "Social Consulting",
+      "context": "Discussed as a social business focusing on inclusion and diversity."
+    },
+    {
+      "name": "Gerando Falcões",
+      "industry": "Nonprofit",
+      "context": "ONG mencionada como parceira do G4 Educação e liderada por Edu Lira."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Beverage",
+      "context": "Empresa mencionada em relação a Carlos Brito."
+    },
+    {
+      "name": "Gol Linhas Aéreas",
+      "industry": "Aviation",
+      "context": "Empresa mencionada em relação a Paulo Kakinoff."
+    },
+    {
+      "name": "Clara",
+      "industry": "Technology",
+      "context": "Founded by Henri Zylberstajn in 2023"
+    },
+    {
+      "name": "Sold",
+      "industry": "E-commerce",
+      "context": "Founded by Henri Zylberstajn in 2008 and sold in 2018"
+    },
+    {
+      "name": "Tarpon",
+      "industry": "Investment",
+      "context": "Henri Zylberstajn worked there for over a year"
+    },
+    {
+      "name": "Grupo Abc",
+      "industry": "Advertising",
+      "context": "Founded by Nizan Guanaes"
+    },
+    {
+      "name": "Quara",
+      "industry": "Tecnologia e Logística",
+      "context": "Plataforma para venda de bens, produtos e ativos"
+    },
+    {
+      "name": "Portal Zuc",
+      "industry": "Imobiliário",
+      "context": "Maior vendedor de imóveis em leilão no Brasil"
+    },
+    {
+      "name": "Disney",
+      "industry": "Entertainment",
+      "context": "Bob Iger's leadership and book authorship"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Treinamento de equipes",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Terceiro setor",
+      "category": "Setor econômico"
+    },
+    {
+      "name": "Impacto social",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Inclusão",
+      "category": "Conceito social"
+    },
+    {
+      "name": "Lei Rouanet",
+      "category": "Legislation"
+    },
+    {
+      "name": "Flywheel",
+      "category": "Business Framework"
+    },
+    {
+      "name": "Imposto de Transmissão e Doação e Causa-Mortes (ITC-MD)",
+      "category": "Taxation"
+    },
+    {
+      "name": "Inclusão e Diversidade",
+      "category": "Social Strategy"
+    },
+    {
+      "name": "Cultura de Doação",
+      "category": "Philanthropy"
+    },
+    {
+      "name": "Value Creation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Win-win-win",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Favela 3D",
+      "category": "Social Innovation"
+    },
+    {
+      "name": "BHAG (Big Hairy Audacious Goal)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Inclusion as a strategy for innovation",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Third sector entrepreneurship",
+      "category": "Social entrepreneurship"
+    },
+    {
+      "name": "Governance in NGOs",
+      "category": "Organizational management"
+    },
+    {
+      "name": "Logística Reversa",
+      "category": "Operações"
+    },
+    {
+      "name": "Mindfulness",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Capitalismo Consciente",
+      "category": "Business Philosophy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Livro publicado pelo Instituto Serendipidade",
+      "author": "Instituto Serendipidade"
+    },
+    {
+      "title": "TED Talk: How Can We Have Google Dreams If We Don't Pay As Google",
+      "author": "Dan Palhota"
+    },
+    {
+      "title": "Longevity",
+      "author": "Desconhecido"
+    },
+    {
+      "title": "The Ride of a Lifetime",
+      "author": "Bob Iger"
+    },
+    {
+      "title": "Empresas que Curam",
+      "author": "Raj Sisodia"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "98%",
+      "context": "Porcentagem de ONGs gerenciadas com base na emoção e propósito"
+    },
+    {
+      "value": "900 mil",
+      "context": "Número aproximado de ONGs no Brasil"
+    },
+    {
+      "value": "160 mil",
+      "context": "Seguidores na conta de Instagram @pepozilber"
+    },
+    {
+      "value": "900,000",
+      "context": "Number of NGOs in Brazil."
+    },
+    {
+      "value": "750,000",
+      "context": "Amount raised in an event by Instituto Serendipidade."
+    },
+    {
+      "value": "85%",
+      "context": "Time spent by NGOs on fundraising."
+    },
+    {
+      "value": "15%",
+      "context": "Time spent by NGOs on their core activities."
+    },
+    {
+      "value": "0.2% do PIB",
+      "context": "Percentage of GDP represented by donations in Brazil."
+    },
+    {
+      "value": "2% do PIB",
+      "context": "Percentage of GDP represented by donations in the United States."
+    },
+    {
+      "value": "85 mil reais",
+      "context": "Threshold for tax exemption on donations in certain cases."
+    },
+    {
+      "value": "6 milhões de reais",
+      "context": "Doação do G4 Educação para Gerando Falcões."
+    },
+    {
+      "value": "300 mil empregos",
+      "context": "Empregos gerados pelas empresas dos alunos do G4 Educação até o momento."
+    },
+    {
+      "value": "1 milhão de pessoas",
+      "context": "Impacto gerado pela ONG Serendipidade."
+    },
+    {
+      "value": "98% employment rate",
+      "context": "Achieved in transformed favelas by Gerando Falcões"
+    },
+    {
+      "value": "14,000 favelas",
+      "context": "Total number in Brazil"
+    },
+    {
+      "value": "8,000 favelas",
+      "context": "Within Gerando Falcões' ecosystem"
+    },
+    {
+      "value": "900,000 NGOs",
+      "context": "Total number in Brazil"
+    },
+    {
+      "value": "15 anos",
+      "context": "Parceria entre Henri Zylberstajn e André Zuckerman"
+    },
+    {
+      "value": "400 pessoas",
+      "context": "Capacidade do evento A Verdade de Chave"
+    },
+    {
+      "value": "25 lugares restantes",
+      "context": "Disponibilidade para o evento A Verdade de Chave"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Instituto Serendipidade",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Inclusão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Edu Lyra",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Instituto Serendipidade",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sold",
+      "target_type": "company"
+    },
+    {
+      "source": "André Zuckerman",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Quara",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlos Brito",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Soul De Leilões",
+      "target_type": "company"
+    },
+    {
+      "source": "Raj Sisodia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Capitalismo Consciente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Raj Sisodia",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Empresas Que Curam",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Quara",
+      "target_type": "company"
+    },
+    {
+      "source": "Nizan Guanaes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Abc",
+      "target_type": "company"
+    },
+    {
+      "source": "Instituto Serendipidade",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Impacto Social",
+      "target_type": "concept"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Instituto Serendipidade",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Revista Pais E Filhos",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "mentioned",
+      "target": "Serendipidade",
+      "target_type": "company"
+    },
+    {
+      "source": "Instituto Serendipidade",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Terceiro Setor",
+      "target_type": "concept"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clara",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Tarpon",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "supports",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Serendipidade",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Kiwara",
+      "target_type": "company"
+    },
+    {
+      "source": "Edu Lira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Quara",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "donated_to",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Kakinoff",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gol Linhas Aéreas",
+      "target_type": "company"
+    },
+    {
+      "source": "Lei Rouanet",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Serendipidade",
+      "target_type": "company"
+    },
+    {
+      "source": "Instituto Serendipidade",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Inclusão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bob Iger",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "The Ride Of A Lifetime",
+      "target_type": "company"
+    }
+  ]
+}

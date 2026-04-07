@@ -1,0 +1,149 @@
+{
+  "episode_id": "52494091338",
+  "title": "BERNARDO NICOLAU: O MAIOR ERRO DE COMUNICAÇÃO DOS LÍDERES | PAPO DE GESTÃO",
+  "date_published": 1774278000,
+  "duration": 2957,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Bernardo Nicolau",
+      "role": "guest",
+      "company": "Dália",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Joseph Campbell",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Dália",
+      "industry": "Communication Training",
+      "context": "Founded by Bernardo Nicolau, focuses on personalized communication training for leaders and executives."
+    },
+    {
+      "name": "Tedx Belo Horizonte",
+      "industry": "Events",
+      "context": "Bernardo Nicolau prepared speakers for this event, one of the three largest TEDx events in Brazil."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts the G4 Podcast and provides mentorship programs, including those involving Bernardo Nicolau."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Story Equity",
+      "category": "Communication Strategy"
+    },
+    {
+      "name": "Media Training",
+      "category": "Professional Development"
+    },
+    {
+      "name": "Storytelling",
+      "category": "Communication Strategy"
+    },
+    {
+      "name": "Story Making",
+      "category": "Communication Strategy"
+    },
+    {
+      "name": "Estrutura de Três Atos",
+      "category": "Estratégia de Comunicação"
+    },
+    {
+      "name": "Jornada do Herói",
+      "category": "Estratégia de Comunicação"
+    },
+    {
+      "name": "Retenção de Atenção",
+      "category": "Desafio de Comunicação"
+    },
+    {
+      "name": "Gestos na Comunicação",
+      "category": "Técnica de Comunicação"
+    },
+    {
+      "name": "Pausas na Comunicação",
+      "category": "Técnica de Comunicação"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Herói de Mil Faces",
+      "author": "Joseph Campbell"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "15 clients",
+      "context": "Recurring clients managed by Dália."
+    },
+    {
+      "value": "4 years",
+      "context": "Duration since Dália was founded."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bernardo Nicolau",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dália",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Nicolau",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tedx Belo Horizonte",
+      "target_type": "company"
+    },
+    {
+      "source": "Jornada Do Herói",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Joseph Campbell",
+      "target_type": "person"
+    },
+    {
+      "source": "Bernardo Nicolau",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "Bernardo Nicolau",
+      "target_type": "person"
+    },
+    {
+      "source": "Joseph Campbell",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "O Herói De Mil Faces",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Nicolau",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Dália",
+      "target_type": "company"
+    }
+  ]
+}

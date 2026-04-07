@@ -1,0 +1,207 @@
+{
+  "episode_id": "34748488538",
+  "title": "Melhores Momentos de Setembro - Roberto Sallouti, Netão Bom Beef e Marcelo Toledo",
+  "date_published": 1695976200,
+  "duration": 1845,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Roberto Sallouti",
+      "role": "guest",
+      "company": "BTG Pactual",
+      "title": "CEO"
+    },
+    {
+      "name": "Netão Bom Beef",
+      "role": "guest",
+      "company": "Bom Beef",
+      "title": "Founder"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "guest",
+      "company": "Clivo",
+      "title": "Founder"
+    },
+    {
+      "name": "Edgar",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Military Officer"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Btg Pactual",
+      "industry": "Finance",
+      "context": "Discussed in relation to market operations and economic resilience."
+    },
+    {
+      "name": "Bom Beef",
+      "industry": "Food",
+      "context": "Mentioned in relation to Netão Bom Beef's entrepreneurial journey."
+    },
+    {
+      "name": "Clivo",
+      "industry": "Healthcare Technology",
+      "context": "Discussed in relation to Marcelo Toledo's experiences with organizational models."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Finance Technology",
+      "context": "Discussed in relation to organizational models and product diversification."
+    },
+    {
+      "name": "Spotify",
+      "industry": "Tecnologia",
+      "context": "Exemplo de organização de squads"
+    },
+    {
+      "name": "Bom Bife",
+      "industry": "Alimentação",
+      "context": "Rede de franquias de açougues"
+    },
+    {
+      "name": "Viujo Cruzeiro",
+      "industry": "Turismo",
+      "context": "Emprego anterior de Netão Bom Beef"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Squad Model",
+      "category": "Organizational Structure"
+    },
+    {
+      "name": "Productivity",
+      "category": "Economic Development"
+    },
+    {
+      "name": "Hyperinflation",
+      "category": "Economic Condition"
+    },
+    {
+      "name": "Debt Dollarization",
+      "category": "Economic Condition"
+    },
+    {
+      "name": "Account Deficit",
+      "category": "Economic Condition"
+    },
+    {
+      "name": "Planning",
+      "category": "Strategic Management"
+    },
+    {
+      "name": "Squads",
+      "category": "Estratégia de organização"
+    },
+    {
+      "name": "Indicadores de desempenho",
+      "category": "Métricas"
+    },
+    {
+      "name": "Receita e margem",
+      "category": "Métricas financeiras"
+    },
+    {
+      "name": "Cortes especiais de carne",
+      "category": "Inovação em produtos"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "25% real interest rate",
+      "context": "Historical economic condition in Brazil."
+    },
+    {
+      "value": "5.5% real interest rate",
+      "context": "Current economic condition in Brazil."
+    },
+    {
+      "value": "30 days average term",
+      "context": "Historical market condition in Brazil."
+    },
+    {
+      "value": "10 years average term",
+      "context": "Current market condition in Brazil."
+    },
+    {
+      "value": "100 volunteers",
+      "context": "Operational scale of Rally dos Sertões."
+    },
+    {
+      "value": "30 years",
+      "context": "Duration of Rally dos Sertões."
+    },
+    {
+      "value": "200-300 pessoas",
+      "context": "Participantes de workshops na indústria frigorífica"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Netão Bom Beef",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bom Bife",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberto Sallouti",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Netão Bom Beef",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bom Beef",
+      "target_type": "company"
+    },
+    {
+      "source": "Netão Bom Beef",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bom Bife",
+      "target_type": "company"
+    },
+    {
+      "source": "Nubank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Squad Model",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nubank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Spotify",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Squad Model",
+      "target_type": "concept"
+    }
+  ]
+}

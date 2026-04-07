@@ -1,0 +1,326 @@
+{
+  "episode_id": "37696464312",
+  "title": "POR DENTRO DA XP: BASTIDORES, PRESSÃO E ESTRATÉGIA COM FURLANETTI | EXTREMOS",
+  "date_published": 1747828800,
+  "duration": 3958,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Rafael Furlanetti",
+      "role": "guest",
+      "company": "XP Inc",
+      "title": "Sócio e VP de Relacionamento"
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Fundador"
+    },
+    {
+      "name": "Rodrigo Santoro",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Garoto Propaganda"
+    },
+    {
+      "name": "Renan",
+      "role": "mentioned",
+      "company": "",
+      "title": "Anestesista"
+    },
+    {
+      "name": "Karen",
+      "role": "mentioned",
+      "company": "",
+      "title": "Esposa de Rafael Furlanetti"
+    },
+    {
+      "name": "Wolf Klabin",
+      "role": "mentioned",
+      "company": "Klabin",
+      "title": ""
+    },
+    {
+      "name": "Wilson",
+      "role": "mentioned",
+      "company": "Grupo Mateus",
+      "title": "Empresário"
+    },
+    {
+      "name": "Fernando Vasconcelos",
+      "role": "mentioned",
+      "company": "Grupo Primo",
+      "title": "CEO"
+    },
+    {
+      "name": "Tiago Reis",
+      "role": "mentioned",
+      "company": "Suno",
+      "title": ""
+    },
+    {
+      "name": "Marcos Molina",
+      "role": "mentioned",
+      "company": "MarFrig",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Xp Inc",
+      "industry": "Financeiro",
+      "context": "Empresa de serviços financeiros e investimentos"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação para empreendedores"
+    },
+    {
+      "name": "Conte Beer",
+      "industry": "Bebidas",
+      "context": "Empresa de cervejas localizada em Cândido Mota"
+    },
+    {
+      "name": "Grupo Mateus",
+      "industry": "Varejo",
+      "context": "Discussão sobre IPO e governança"
+    },
+    {
+      "name": "Smart Fit",
+      "industry": "Fitness",
+      "context": "Discussão sobre mercado e consolidação"
+    },
+    {
+      "name": "Localiza",
+      "industry": "Aluguel de veículos",
+      "context": "Discussão sobre eficiência e mercado"
+    },
+    {
+      "name": "Grupo Júlio Simões",
+      "industry": "Logística",
+      "context": "Discussão sobre market share e consolidação"
+    },
+    {
+      "name": "Marfrig",
+      "industry": "Alimentação",
+      "context": "Discussão sobre abastecimento de alimentos"
+    },
+    {
+      "name": "Grupo Primo",
+      "industry": "Educação Financeira",
+      "context": "Fernando Vasconcelos mencionado como CEO"
+    },
+    {
+      "name": "Suno",
+      "industry": "Educação Financeira",
+      "context": "Tiago Reis mencionado como colaborador"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Empreendedorismo",
+      "category": "Negócios"
+    },
+    {
+      "name": "Marca pessoal",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Fundação Getúlio Vargas",
+      "category": "Educação"
+    },
+    {
+      "name": "The Economist",
+      "category": "Publicação"
+    },
+    {
+      "name": "Eventos corporativos",
+      "category": "Networking"
+    },
+    {
+      "name": "IPO",
+      "category": "Estratégia Financeira"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Gestão de Risco",
+      "category": "Estratégia Financeira"
+    },
+    {
+      "name": "Inteligência Emocional",
+      "category": "Habilidade Pessoal"
+    },
+    {
+      "name": "Consistência",
+      "category": "Habilidade Pessoal"
+    },
+    {
+      "name": "Lives empresariais",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Fusões e aquisições",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Mercado de capitais",
+      "category": "Setor financeiro"
+    },
+    {
+      "name": "Comunidades empresariais",
+      "category": "Networking"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "25 milhões",
+      "context": "Número de brasileiros que empreendem"
+    },
+    {
+      "value": "65 milhões",
+      "context": "Número de pessoas empregadas por empreendedores brasileiros"
+    },
+    {
+      "value": "40 mil habitantes",
+      "context": "População atual da cidade natal de Rafael Furlanetti"
+    },
+    {
+      "value": "20 mil habitantes",
+      "context": "População da cidade natal de Rafael Furlanetti na época mencionada"
+    },
+    {
+      "value": "300 milhões",
+      "context": "Faturamento anual do G4 Educação"
+    },
+    {
+      "value": "50%",
+      "context": "Taxa de crescimento anual do G4 Educação"
+    },
+    {
+      "value": "600 milhões",
+      "context": "Projeção de faturamento futuro do G4 Educação"
+    },
+    {
+      "value": "250 pessoas por lista de transmissão",
+      "context": "Limite de contatos em listas de transmissão"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Reis",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Suno",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Vasconcelos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Primo",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Santoro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Grupo Júlio Simões",
+      "target_type": "company"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Localiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Wolf Klabin",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Klabin",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Furlanetti",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Grupo Mateus",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcos Molina",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Marfrig",
+      "target_type": "company"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Smart Fit",
+      "target_type": "company"
+    }
+  ]
+}

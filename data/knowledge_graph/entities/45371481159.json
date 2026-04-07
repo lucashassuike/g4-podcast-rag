@@ -1,0 +1,647 @@
+{
+  "episode_id": "45371481159",
+  "title": "RENATO CARIANI: COMO UM QUÍMICO CRIOU O MAIOR ECOSSISTEMA DE FITNESS DO BRASIL | EXTREMOS",
+  "date_published": 1763499601,
+  "duration": 7218,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Renato Cariani",
+      "role": "guest",
+      "company": "Renato Cariani (canal)",
+      "title": "Influenciador Fitness e Empresário"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Júlio",
+      "role": "mentioned",
+      "company": "Renato Cariani (canal)",
+      "title": "Membro da equipe"
+    },
+    {
+      "name": "Salles",
+      "role": "mentioned",
+      "company": "Renato Cariani (canal)",
+      "title": "Membro da equipe"
+    },
+    {
+      "name": "Maurício",
+      "role": "mentioned",
+      "company": "Ecossistema de geração de conteúdo",
+      "title": "Diretor"
+    },
+    {
+      "name": "Júlio Balestrino",
+      "role": "mentioned",
+      "company": "Ecossistema de academias",
+      "title": "Sócio"
+    },
+    {
+      "name": "Neto",
+      "role": "mentioned",
+      "company": "Ecossistema de infoprodutos",
+      "title": "Sócio"
+    },
+    {
+      "name": "Richard Rasmussen",
+      "role": "mentioned",
+      "company": "",
+      "title": "Biólogo e criador de conteúdo"
+    },
+    {
+      "name": "Sérgio Sacani",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cientista e criador de conteúdo"
+    },
+    {
+      "name": "Danilo Gentili",
+      "role": "mentioned",
+      "company": "",
+      "title": "Apresentador e humorista"
+    },
+    {
+      "name": "Rodrigo Faro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Apresentador"
+    },
+    {
+      "name": "Ricardinho Acf",
+      "role": "mentioned",
+      "company": "",
+      "title": "Criador de conteúdo automotivo"
+    },
+    {
+      "name": "Tiago Tk",
+      "role": "mentioned",
+      "company": "",
+      "title": "Criador de conteúdo automotivo"
+    },
+    {
+      "name": "Fábio",
+      "role": "mentioned",
+      "company": "Ecossistema de Academias",
+      "title": "Partner"
+    },
+    {
+      "name": "Pablo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Vick",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Richard",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thiago Tk",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marcos Paulo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Primo Rico",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fernando",
+      "role": "mentioned",
+      "company": "Growth Supplements",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Eduardo",
+      "role": "mentioned",
+      "company": "Growth Supplements",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Manu Cité",
+      "role": "mentioned",
+      "company": "Good Day",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Plataforma de educação e networking empresarial mencionada no podcast"
+    },
+    {
+      "name": "Renato Cariani (Canal)",
+      "industry": "Fitness e Wellness",
+      "context": "Ecossistema de conteúdo e negócios liderado por Renato Cariani"
+    },
+    {
+      "name": "Ifood Benefícios",
+      "industry": "Alimentação e Benefícios",
+      "context": "Parceiro do G4 Podcast"
+    },
+    {
+      "name": "Fluence Pass",
+      "industry": "Educação e Desenvolvimento Pessoal",
+      "context": "Parceiro do G4 Podcast"
+    },
+    {
+      "name": "Foxbit",
+      "industry": "Criptomoedas e Finanças",
+      "context": "Parceiro do G4 Podcast"
+    },
+    {
+      "name": "Indústria Química Fundada Em 1981",
+      "industry": "Química e farmacêutica",
+      "context": "Empresa mencionada como vítima de fraude e regulada por órgãos como Polícia Federal e Anvisa"
+    },
+    {
+      "name": "Ecossistema Do Cariane",
+      "industry": "Fitness and Wellness",
+      "context": "Operates in fitness and wellness, including infoproducts and physical products."
+    },
+    {
+      "name": "Ecossistema De Infoprodutos",
+      "industry": "Digital Products",
+      "context": "Focuses on infoproducts and digital content."
+    },
+    {
+      "name": "Ecossistema De Geração De Conteúdo",
+      "industry": "Media and Content Creation",
+      "context": "Specializes in content creation and media production."
+    },
+    {
+      "name": "Ecossistema De Academias",
+      "industry": "Fitness and Wellness",
+      "context": "Operates physical fitness centers and gyms."
+    },
+    {
+      "name": "Growth Supplements",
+      "industry": "Fitness and Wellness",
+      "context": "Largest ecosystem of fitness and wellness in Brazil, major creatine importer."
+    },
+    {
+      "name": "Merama",
+      "industry": "Investment",
+      "context": "Investor in Growth Supplements."
+    },
+    {
+      "name": "Smartfit",
+      "industry": "Fitness and Wellness",
+      "context": "Reported 43% revenue growth in a quarter, planning to open 800 gyms next year."
+    },
+    {
+      "name": "Good Day",
+      "industry": "Fitness and Wellness",
+      "context": "Reported revenue of 100 million in the current year."
+    },
+    {
+      "name": "Supercoff",
+      "industry": "Fitness and Wellness",
+      "context": "Reported revenue of 300 million."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Growth Supplements opened an official store on Mercado Livre."
+    },
+    {
+      "name": "Manucite",
+      "industry": "Fitness",
+      "context": "Empresa mencionada com faturamento de 30-40 milhões."
+    },
+    {
+      "name": "Mamba Water",
+      "industry": "Bebidas",
+      "context": "Empresa mencionada como produtora de água com colágeno."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Ecossistema de Negócios",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Produção de Conteúdo",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Funil de Conteúdo",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Networking Empresarial",
+      "category": "Desenvolvimento Profissional"
+    },
+    {
+      "name": "Compliance",
+      "category": "Governança corporativa"
+    },
+    {
+      "name": "Ecossistema de geração de conteúdo",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Ecossistema de infoprodutos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Ecossistema de academias",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Infoproduto",
+      "category": "Digital Products"
+    },
+    {
+      "name": "Ecossistema",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Storytelling",
+      "category": "Marketing and Content Creation"
+    },
+    {
+      "name": "Engajamento",
+      "category": "Social Media Metrics"
+    },
+    {
+      "name": "ROI (Return on Investment)",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Influencer Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Creativity",
+      "category": "Personal Skill"
+    },
+    {
+      "name": "Fitness and Wellness Market",
+      "category": "Industry"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Business Model"
+    },
+    {
+      "name": "mercado de fitness wellness",
+      "category": "Indústria"
+    },
+    {
+      "name": "mercado farmacêutico",
+      "category": "Indústria"
+    },
+    {
+      "name": "peptídeos",
+      "category": "Química"
+    },
+    {
+      "name": "melatonan",
+      "category": "Química"
+    },
+    {
+      "name": "Timozin Beta 500 (TB500)",
+      "category": "Química"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "5 bilhões de visualizações por mês",
+      "context": "Alcance do ecossistema de conteúdo de Renato Cariani"
+    },
+    {
+      "value": "400 milhões",
+      "context": "Faturamento em produtos físicos e digitais mencionado por Renato Cariani"
+    },
+    {
+      "value": "70 milhões de reais",
+      "context": "Faturamento anual estimado do ecossistema de infoprodutos"
+    },
+    {
+      "value": "17 mil notas fiscais",
+      "context": "Quantidade de notas fiscais emitidas pela indústria química mencionada"
+    },
+    {
+      "value": "130-150 mil reais/mês",
+      "context": "Salário do diretor do ecossistema de geração de conteúdo"
+    },
+    {
+      "value": "70 milhões de reais",
+      "context": "Revenue from infoproducts in the fitness and wellness market."
+    },
+    {
+      "value": "23 pessoas",
+      "context": "Team size dedicated to infoproducts."
+    },
+    {
+      "value": "400 milhões de reais",
+      "context": "Annual revenue from physical and digital products."
+    },
+    {
+      "value": "27 pessoas",
+      "context": "Team size for content creation."
+    },
+    {
+      "value": "500 mil seguidores",
+      "context": "Follower count of a clipper page related to Renato Cariani's content."
+    },
+    {
+      "value": "30 million",
+      "context": "Investment mentioned by Renato Cariani."
+    },
+    {
+      "value": "5,000 sales",
+      "context": "Growth Supplements' first day on Mercado Livre."
+    },
+    {
+      "value": "1,600 influencers",
+      "context": "Growth Supplements' influencer network."
+    },
+    {
+      "value": "43% revenue growth",
+      "context": "Smartfit's quarterly performance."
+    },
+    {
+      "value": "100 million",
+      "context": "Good Day's annual revenue."
+    },
+    {
+      "value": "300 million",
+      "context": "Supercoff's annual revenue."
+    },
+    {
+      "value": "30-40 milhões",
+      "context": "Faturamento da Manucite mencionado."
+    },
+    {
+      "value": "100 milhões",
+      "context": "Faturamento da Good Day mencionado para este ano."
+    },
+    {
+      "value": "300 milhões",
+      "context": "Faturamento da Supercoff mencionado."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Neto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ecossistema De Infoprodutos",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Renato Cariani (Canal)",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Renato Cariani (Canal)",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ecossistema De Academias",
+      "target_type": "company"
+    },
+    {
+      "source": "Good Day",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Fitness And Wellness Market",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio Balestrino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ecossistema De Academias",
+      "target_type": "company"
+    },
+    {
+      "source": "Supercoff",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Fitness And Wellness Market",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Manucite",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Good Day",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mamba Water",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Peptídeos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Growth Supplements",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Growth Supplements",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Merama",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Growth Supplements",
+      "target_type": "company"
+    },
+    {
+      "source": "Salles",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Renato Cariani (Canal)",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ecossistema Do Cariane",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ecossistema Do Cariane",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mercado De Fitness Wellness",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ecossistema De Geração De Conteúdo",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mercado Farmacêutico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Júlio Balestrino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ecossistema De Geração De Conteúdo",
+      "target_type": "company"
+    },
+    {
+      "source": "Eduardo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Growth Supplements",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurício",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ecossistema De Geração De Conteúdo",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ecossistema De Infoprodutos",
+      "target_type": "company"
+    },
+    {
+      "source": "Smartfit",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Fitness And Wellness Market",
+      "target_type": "concept"
+    },
+    {
+      "source": "Growth Supplements",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Fitness And Wellness Market",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Indústria Química Fundada Em 1981",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Growth Supplements",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Supercoff",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ecossistema De Academias",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Renato Cariani (Canal)",
+      "target_type": "company"
+    }
+  ]
+}

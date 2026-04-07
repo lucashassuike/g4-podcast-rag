@@ -1,0 +1,134 @@
+{
+  "episode_id": "34748488396",
+  "title": "COMO FAZER A CULTURA CORRER PELAS VEIAS DO SEU NEGÓCIO | G4 PODCASTS",
+  "date_published": 1726214400,
+  "duration": 1390,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Felipe Atab",
+      "role": "guest",
+      "company": "4Equity",
+      "title": "Fundador e CEO"
+    },
+    {
+      "name": "Simon Sinek",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Plataforma de aprendizado e consultoria para negócios"
+    },
+    {
+      "name": "4Equity",
+      "industry": "Investimentos e Consultoria",
+      "context": "Empresa fundada por Felipe Atab"
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Mencionado em relação a palestra sobre cultura organizacional"
+    },
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Exemplo de cultura organizacional e liderança"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Inteligência emocional",
+      "category": "Habilidades Pessoais"
+    },
+    {
+      "name": "Humildade intelectual",
+      "category": "Habilidades Pessoais"
+    },
+    {
+      "name": "Espírito de dono",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Grit",
+      "category": "Psicologia e Motivação"
+    },
+    {
+      "name": "Navy Seals Matrix",
+      "category": "Gestão e Liderança"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "700 quilos",
+      "context": "Peso do urso mencionado como metáfora para desafios"
+    },
+    {
+      "value": "12 milhões para 300 milhões",
+      "context": "Crescimento financeiro mencionado na lógica da Ambev"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Simon Sinek",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Navy Seals Matrix",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Espírito De Dono",
+      "target_type": "concept"
+    },
+    {
+      "source": "Felipe Atab",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "4Equity",
+      "target_type": "company"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    }
+  ]
+}

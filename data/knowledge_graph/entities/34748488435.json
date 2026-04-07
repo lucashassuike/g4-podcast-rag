@@ -1,0 +1,171 @@
+{
+  "episode_id": "34748488435",
+  "title": "COMO O STARK BANK CRESCEU E CONQUISTOU FUNDADOR DA AMAZON - COM RAFAEL STARK | G4 PODCASTS",
+  "date_published": 1716539400,
+  "duration": 1632,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Rafael Stark",
+      "role": "guest",
+      "company": "Stark Bank",
+      "title": "Fundador"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "Fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa cofundada por Tallis Gomes, mencionada como parte do podcast."
+    },
+    {
+      "name": "Stark Bank",
+      "industry": "Fintech",
+      "context": "Empresa fundada por Rafael Stark, discutida extensivamente no episódio."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce e Tecnologia",
+      "context": "Mencionada em relação ao fundador Jeff Bezos."
+    },
+    {
+      "name": "Colgate",
+      "industry": "Produtos de Higiene e Saúde",
+      "context": "Cliente mencionado por Rafael Stark em sua trajetória profissional."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Lean",
+      "category": "Metodologia de Gestão"
+    },
+    {
+      "name": "Just-In-Time",
+      "category": "Metodologia de Produção"
+    },
+    {
+      "name": "Kanban",
+      "category": "Ferramenta de Gestão"
+    },
+    {
+      "name": "Product Market Fit",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Break-even",
+      "category": "Métrica Financeira"
+    },
+    {
+      "name": "Borderline",
+      "category": "Estratégia Financeira"
+    },
+    {
+      "name": "AI (Inteligência Artificial)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Visão Computacional",
+      "category": "Tecnologia"
+    }
+  ],
+  "books": [
+    {
+      "title": "iOS for Dummies",
+      "author": "Neal Goldstein"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "3 milhões de dólares",
+      "context": "Capital inicial levantado pela Stark Bank nos primeiros anos."
+    },
+    {
+      "value": "71,5",
+      "context": "Indicador financeiro mencionado em relação à Stark Bank."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rafael Stark",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Kanban",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Stark",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Stark Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Stark",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lean",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Stark",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Product Market Fit",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Stark",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Visão Computacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Stark",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Break-Even",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Stark",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stark Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Stark",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ai (Inteligência Artificial)",
+      "target_type": "concept"
+    }
+  ]
+}

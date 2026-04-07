@@ -1,0 +1,255 @@
+{
+  "episode_id": "42095979037",
+  "title": "CULTURA ORGANIZACIONAL: O PILAR PARA ESCALAR NEGÓCIOS COM MARIA CÂNDIDA BAUMER | PAPO DE GESTÃO",
+  "date_published": 1756738800,
+  "duration": 3539,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Maria Cândida Baumer",
+      "role": "guest",
+      "company": "People and Results",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Rafa Silites",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "People And Results",
+      "industry": "Consultoria",
+      "context": "Fundada por Maria Cândida Baumer, especializada em cultura organizacional e liderança."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Plataforma de educação empresarial mencionada no podcast."
+    },
+    {
+      "name": "Disney",
+      "industry": "Entretenimento",
+      "context": "Exemplo de heróis culturais com o personagem Mickey."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Diagnóstico de cultura",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Ferramenta Label",
+      "category": "Avaliação de personalidade"
+    },
+    {
+      "name": "Hofstede",
+      "category": "Metodologia de análise cultural"
+    },
+    {
+      "name": "Símbolos",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Heróis",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Rituais",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Práticas",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Valores",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Estratégia Empresarial",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Clusters de Liderança",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Label",
+      "category": "Ferramenta de Avaliação de Liderança"
+    },
+    {
+      "name": "Pareto",
+      "category": "Princípio de Priorização"
+    },
+    {
+      "name": "Visão Sistêmica",
+      "category": "Habilidade de Liderança"
+    },
+    {
+      "name": "Estabilidade Emocional",
+      "category": "Habilidade de Liderança"
+    },
+    {
+      "name": "Automotivação",
+      "category": "Habilidade de Liderança"
+    },
+    {
+      "name": "Agilidade de Aprendizado",
+      "category": "Habilidade de Liderança"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "750 projetos",
+      "context": "Número de projetos realizados por Maria Cândida Baumer para grandes empresas."
+    },
+    {
+      "value": "15 anos",
+      "context": "Tempo de existência da consultoria People and Results."
+    },
+    {
+      "value": "1.600 executivos",
+      "context": "Estudo sobre a adequação de personalidade para cargos de liderança."
+    },
+    {
+      "value": "50%",
+      "context": "Porcentagem de executivos sem condições de ocupar cargos de liderança."
+    },
+    {
+      "value": "260",
+      "context": "Número de adjetivos utilizados no Label para avaliação de liderança."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Maria Cândida Baumer",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Diagnóstico De Cultura",
+      "target_type": "concept"
+    },
+    {
+      "source": "Disney",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Heróis",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Maria Cândida Baumer",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafa Silites",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Maria Cândida Baumer",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maria Cândida Baumer",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Label",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maria Cândida Baumer",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "People And Results",
+      "target_type": "company"
+    },
+    {
+      "source": "Maria Cândida Baumer",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hofstede",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maria Cândida Baumer",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "People And Results",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ferramenta Label",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "episode_id": "34748488355",
+  "title": "QUAL DEVE SER O FOCO DE TODO CEO EM 2025 | G4 PODCASTS",
+  "date_published": 1735293600,
+  "duration": 2225,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Heitor Siveiro",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretor de Educação"
+    },
+    {
+      "name": "René",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Head de Cultura de Pessoas"
+    },
+    {
+      "name": "Henrique",
+      "role": "guest",
+      "company": "Portal Zuc",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Renê",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Heitor",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Zé",
+      "role": "mentioned",
+      "company": "Vals",
+      "title": "Representative"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Organizadora do evento e programas mencionados"
+    },
+    {
+      "name": "Portal Zuc",
+      "industry": "Tecnologia e Leilões",
+      "context": "Empresa liderada por Henrique"
+    },
+    {
+      "name": "Ambev",
+      "industry": "Beverage",
+      "context": "Known for its strong corporate culture."
+    },
+    {
+      "name": "Vals",
+      "industry": "Beverage",
+      "context": "Discussed in relation to Ambev's culture."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Finance",
+      "context": "Example of a company with a strong but non-aggressive culture."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Liderança",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Fit Cultural",
+      "category": "Recrutamento e Seleção"
+    },
+    {
+      "name": "Hard Skills",
+      "category": "Recrutamento e Seleção"
+    },
+    {
+      "name": "Soft Skills",
+      "category": "Recrutamento e Seleção"
+    },
+    {
+      "name": "G4 Traction",
+      "category": "Programas Educacionais"
+    },
+    {
+      "name": "Culture",
+      "category": "Organizational"
+    },
+    {
+      "name": "Operational vs Strategic Focus",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Empower Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Networking",
+      "category": "Business Development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "9 mil pessoas ao vivo",
+      "context": "Participantes na terceira edição do G4 Valley"
+    },
+    {
+      "value": "20 mil pessoas",
+      "context": "Audiência combinada entre presencial e online no evento mencionado"
+    },
+    {
+      "value": "55 turmas",
+      "context": "Number of G4 Traction cohorts conducted."
+    },
+    {
+      "value": "6,000-7,000 alunos",
+      "context": "Estimated number of students who attended G4 Traction."
+    },
+    {
+      "value": "3 vezes crescimento",
+      "context": "Reported growth by a G4 Traction alumnus."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Heitor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Traction",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Zé",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vals",
+      "target_type": "company"
+    },
+    {
+      "source": "Heitor Siveiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Operational Vs Strategic Focus",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Traction",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renê",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Empower Branding",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Culture",
+      "target_type": "concept"
+    },
+    {
+      "source": "Networking",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Traction",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Culture",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Henrique",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Henrique",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Portal Zuc",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "René",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "episode_id": "34748488641",
+  "title": "#038 - Como construir uma marca bilionária com João Paulo, CEO da Natura",
+  "date_published": 1638347402,
+  "duration": 2190,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "João Paulo",
+      "role": "guest",
+      "company": "Natura",
+      "title": "CEO"
+    },
+    {
+      "name": "Roberto Marques",
+      "role": "mentioned",
+      "company": "Natura",
+      "title": "Executive"
+    },
+    {
+      "name": "Agenor",
+      "role": "mentioned",
+      "company": "Singoo",
+      "title": "Executive"
+    },
+    {
+      "name": "Sergey Brin",
+      "role": "mentioned",
+      "company": "Google",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosmetics",
+      "context": "Discussed as a platform for expansion and community building"
+    },
+    {
+      "name": "Singoo",
+      "industry": "Beauty Services",
+      "context": "Startup integrating with Natura for expansion"
+    },
+    {
+      "name": "Avon",
+      "industry": "Cosmetics",
+      "context": "Mentioned in context of market reach in Latin America"
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Mentioned in context of innovation and diversity"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Collaborating with Natura on emission zero initiatives."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Finance",
+      "context": "Part of a coalition for voluntary carbon emission neutralization."
+    },
+    {
+      "name": "Renner",
+      "industry": "Retail",
+      "context": "Part of a coalition for voluntary carbon emission neutralization."
+    },
+    {
+      "name": "B3",
+      "industry": "Finance",
+      "context": "Part of a coalition for voluntary carbon emission neutralization."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão 4.0",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Squads",
+      "category": "Organizational Structure"
+    },
+    {
+      "name": "Community Building",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "CAC (Customer Acquisition Cost)",
+      "category": "Business Metric"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Business Metric"
+    },
+    {
+      "name": "Matchmaking",
+      "category": "Technology"
+    },
+    {
+      "name": "International Expansion",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Purpose-driven Business",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "Diversity and Innovation",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "diversity",
+      "category": "organizational culture"
+    },
+    {
+      "name": "innovation",
+      "category": "business strategy"
+    },
+    {
+      "name": "bioeconomy",
+      "category": "sustainability"
+    },
+    {
+      "name": "low-carbon economy",
+      "category": "sustainability"
+    },
+    {
+      "name": "Protocol of Nagoya",
+      "category": "international agreements"
+    },
+    {
+      "name": "net zero emission",
+      "category": "sustainability"
+    },
+    {
+      "name": "carbon neutrality",
+      "category": "sustainability"
+    },
+    {
+      "name": "ISD (Environmental, Social, and Corporate Governance)",
+      "category": "investment framework"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "4.5 million consultants",
+      "context": "Combined reach of Natura and Avon in Latin America"
+    },
+    {
+      "value": "150 million consumers",
+      "context": "Combined consumer base of Natura and Avon in Latin America"
+    },
+    {
+      "value": "2 billion reais",
+      "context": "Funds raised by Natura for social and environmental responsibility initiatives."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Natura",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Avon",
+      "target_type": "company"
+    },
+    {
+      "source": "Natura",
+      "source_type": "company",
+      "relation": "collaborates_with",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberto Marques",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Natura",
+      "source_type": "company",
+      "relation": "collaborates_with",
+      "target": "Itaú",
+      "target_type": "company"
+    },
+    {
+      "source": "Singoo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "João Paulo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Natura",
+      "source_type": "company",
+      "relation": "collaborates_with",
+      "target": "B3",
+      "target_type": "company"
+    },
+    {
+      "source": "Agenor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Singoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Natura",
+      "source_type": "company",
+      "relation": "collaborates_with",
+      "target": "Renner",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Sergey Brin",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Google",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "episode_id": "51346497939",
+  "title": "A venda começa antes da negociação com Sergio Bronstein | PAPO DE GESTÃO",
+  "date_published": 1772463600,
+  "duration": 3653,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Sérgio Bronstein",
+      "role": "guest",
+      "company": "BZCP Advogados",
+      "title": "Sócio"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Felipe Bronstein",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sergio Bronstein",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nabil",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Bzcp Advogados",
+      "industry": "Legal Services",
+      "context": "Especializado em governança corporativa, M&A e negociação."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Plataforma de educação focada em negócios e empreendedorismo."
+    },
+    {
+      "name": "International Engine Corporation",
+      "industry": "Manufacturing",
+      "context": "Empresa americana que adquiriu a divisão de motores da Yoship Maxion."
+    },
+    {
+      "name": "Yoship Maxion",
+      "industry": "Manufacturing",
+      "context": "Empresa brasileira cuja divisão de motores foi adquirida pela International Engine Corporation."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Business Management"
+    },
+    {
+      "name": "Negociação",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Due Diligence",
+      "category": "Business Process"
+    },
+    {
+      "name": "Early Stage Investment",
+      "category": "Finance"
+    },
+    {
+      "name": "Acquihires",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finance"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Finance"
+    },
+    {
+      "name": "MRR (Monthly Recurring Revenue)",
+      "category": "Finance"
+    },
+    {
+      "name": "sinergia",
+      "category": "business"
+    },
+    {
+      "name": "mercado de capitais",
+      "category": "finance"
+    },
+    {
+      "name": "cap table",
+      "category": "business"
+    },
+    {
+      "name": "estrutura societária",
+      "category": "business"
+    }
+  ],
+  "books": [
+    {
+      "title": "Never Split the Difference",
+      "author": "Chris Voss"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "Centenas de milhões",
+      "context": "Aporte financeiro oferecido por um grande banco comercial em uma negociação de co-controle."
+    },
+    {
+      "value": "188 deals",
+      "context": "Número de transações realizadas pelo escritório de Sergio Bronstein no primeiro ano."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Sergio Bronstein",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "M&A (Mergers And Acquisitions)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sérgio Bronstein",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "International Engine Corporation",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Yoship Maxion",
+      "target_type": "company"
+    },
+    {
+      "source": "Sergio Bronstein",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governança Corporativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sérgio Bronstein",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Never Split The Difference",
+      "target_type": "company"
+    },
+    {
+      "source": "Sérgio Bronstein",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bzcp Advogados",
+      "target_type": "company"
+    },
+    {
+      "source": "Sergio Bronstein",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nabil",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cap Table",
+      "target_type": "concept"
+    }
+  ]
+}

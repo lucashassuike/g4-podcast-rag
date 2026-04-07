@@ -1,0 +1,262 @@
+{
+  "episode_id": "41225046062",
+  "title": "STARTUP NÃO É CIRCO: CRESÇA COM ESTRATÉGIA EXPLICA JOÃO MORESSI | EXTREMOS",
+  "date_published": 1755097200,
+  "duration": 3561,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "João Morese",
+      "role": "guest",
+      "company": "Opar",
+      "title": "Founder"
+    },
+    {
+      "name": "Igor Moura",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "João Moressi",
+      "role": "guest",
+      "company": "OPA",
+      "title": "Founder"
+    },
+    {
+      "name": "Henrique Bugrasse",
+      "role": "mentioned",
+      "company": "Bugrasse",
+      "title": "CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts of the podcast and mentioned in relation to business education."
+    },
+    {
+      "name": "Opar",
+      "industry": "Technology",
+      "context": "Founded by João Morese, specializes in custom technological solutions."
+    },
+    {
+      "name": "Dual Seed",
+      "industry": "Consumer Goods",
+      "context": "Mentioned in relation to gel products."
+    },
+    {
+      "name": "Royal Saunas",
+      "industry": "Wellness",
+      "context": "Mentioned in relation to sauna products."
+    },
+    {
+      "name": "Opa",
+      "industry": "Technology",
+      "context": "Discussed as a company specializing in technology delivery and software development."
+    },
+    {
+      "name": "Bugrasse",
+      "industry": "Technology",
+      "context": "Mentioned in the context of AI tools for development."
+    },
+    {
+      "name": "Openai",
+      "industry": "Artificial Intelligence",
+      "context": "Discussed as a provider of AI tools and platforms like ChatGPT."
+    },
+    {
+      "name": "Grupo Cvc",
+      "industry": "Travel and Tourism",
+      "context": "Mentioned as an innovative company"
+    },
+    {
+      "name": "Banco Carrefour",
+      "industry": "Financial Services",
+      "context": "Mentioned as an innovative company"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Remote Work",
+      "category": "Workplace Trends"
+    },
+    {
+      "name": "Technology Leadership",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Custom Technological Solutions",
+      "category": "Business Services"
+    },
+    {
+      "name": "Cultural Fit",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "category": "Technology"
+    },
+    {
+      "name": "Mobile First",
+      "category": "Development Strategy"
+    },
+    {
+      "name": "Software Development",
+      "category": "Technology"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Business Model"
+    },
+    {
+      "name": "RPA (Robotic Process Automation)",
+      "category": "Automation"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "category": "Technology"
+    },
+    {
+      "name": "Cloud Infrastructure",
+      "category": "Technology"
+    },
+    {
+      "name": "Organizational Structure",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "350 developers",
+      "context": "Current team size at Opar."
+    },
+    {
+      "value": "30 million BRL",
+      "context": "Annual revenue of Opar during João Morese's participation in G4."
+    },
+    {
+      "value": "110-115 million BRL",
+      "context": "Projected annual revenue of Opar for the current year."
+    },
+    {
+      "value": "3-4 years",
+      "context": "Evolution of AI tools and their impact on development productivity."
+    },
+    {
+      "value": "12-14 years",
+      "context": "Age of smartphones and their technological advancements."
+    },
+    {
+      "value": "13 years",
+      "context": "João Moressi's tenure leading UPA"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Upa",
+      "target_type": "company"
+    },
+    {
+      "source": "João Morese",
+      "source_type": "person",
+      "relation": "member_of",
+      "target": "G4 Club",
+      "target_type": "company"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Opa",
+      "target_type": "company"
+    },
+    {
+      "source": "Openai",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Artificial Intelligence (Ai)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Henrique Bugrasse",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bugrasse",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Organizational Structure",
+      "target_type": "concept"
+    },
+    {
+      "source": "Openai",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Artificial Intelligence",
+      "target_type": "concept"
+    },
+    {
+      "source": "Banco Carrefour",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cloud Infrastructure",
+      "target_type": "concept"
+    },
+    {
+      "source": "Opa",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Software Development",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Morese",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Opar",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Cvc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cloud Infrastructure",
+      "target_type": "concept"
+    }
+  ]
+}

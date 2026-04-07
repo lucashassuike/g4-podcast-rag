@@ -1,0 +1,292 @@
+{
+  "episode_id": "34748488569",
+  "title": "Dr.Danilo Sguillar - Como Dormir Melhor e Obter o Descanso Necessário? | Sem Atalhos",
+  "date_published": 1690810084,
+  "duration": 4729,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Dr. Danilo Sguillar",
+      "role": "guest",
+      "company": "Unifesp",
+      "title": "Otorrinolaringologista e Médico do Sono"
+    },
+    {
+      "name": "Thay",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de treinamentos e desenvolvimento de times"
+    },
+    {
+      "name": "Unifesp",
+      "industry": "Educação e Pesquisa",
+      "context": "Instituição de ensino superior onde Dr. Danilo Sguillar é mestre e doutorando"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Melatonina",
+      "category": "Hormônio"
+    },
+    {
+      "name": "Sistema glinfático",
+      "category": "Fisiologia do sono"
+    },
+    {
+      "name": "Ritmo circadiano",
+      "category": "Biologia"
+    },
+    {
+      "name": "Sono REM",
+      "category": "Fisiologia do sono"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de treinamento e desenvolvimento"
+    },
+    {
+      "name": "Higiene do Sono",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Ritual do Sono",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Sociedade Brasileira de Medicina do Sono",
+      "category": "Organização"
+    },
+    {
+      "name": "Síndrome do Atraso de Fase",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Distúrbio Comportamental do Sono REM",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Doença de Parkinson",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Sonambulismo",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Terror Noturno",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Polisonografia",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "polissonografia",
+      "category": "diagnostic method"
+    },
+    {
+      "name": "apneia do sono",
+      "category": "medical condition"
+    },
+    {
+      "name": "insônia de má percepção de sono",
+      "category": "medical condition"
+    },
+    {
+      "name": "proteína beta-amiloide",
+      "category": "biological concept"
+    },
+    {
+      "name": "doença de Alzheimer",
+      "category": "medical condition"
+    },
+    {
+      "name": "neurodegeneração",
+      "category": "biological concept"
+    },
+    {
+      "name": "hipoxemia intermitente",
+      "category": "condição médica"
+    },
+    {
+      "name": "catecolaminas",
+      "category": "substância química"
+    },
+    {
+      "name": "noradrenalina",
+      "category": "substância química"
+    },
+    {
+      "name": "cortisol",
+      "category": "substância química"
+    },
+    {
+      "name": "leptina",
+      "category": "hormônio"
+    },
+    {
+      "name": "grelina",
+      "category": "hormônio"
+    },
+    {
+      "name": "desvio de septo",
+      "category": "condição médica"
+    },
+    {
+      "name": "rinite",
+      "category": "condição médica"
+    },
+    {
+      "name": "amígdalas",
+      "category": "anatomia"
+    },
+    {
+      "name": "adenoide",
+      "category": "anatomia"
+    },
+    {
+      "name": "hipertrofia de amígdalas e adenoide",
+      "category": "condição médica"
+    },
+    {
+      "name": "fonoterapia",
+      "category": "tratamento"
+    },
+    {
+      "name": "tratamento ortodôntico",
+      "category": "tratamento"
+    },
+    {
+      "name": "expansão rápida de maxila",
+      "category": "tratamento"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "7 dias gratuitos",
+      "context": "Demonstração do G4 Skills"
+    },
+    {
+      "value": "60-65 anos",
+      "context": "Idade comum para início de distúrbios comportamentais do sono REM"
+    },
+    {
+      "value": "49 milhões",
+      "context": "Número estimado de brasileiros com apneia obstrutiva do sono"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Dr. Danilo Sguillar",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Unifesp",
+      "target_type": "company"
+    },
+    {
+      "source": "Apneia Do Sono",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Problemas Cardiovasculares",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Danilo Sguillar",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sociedade Brasileira De Medicina Do Sono",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hipertrofia De Amígdalas E Adenoide",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Respirador Oral",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Apneia Do Sono",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Desvio De Septo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Distúrbio Comportamental Do Sono Rem",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Doença De Parkinson",
+      "target_type": "concept"
+    },
+    {
+      "source": "Proteína Beta-Amiloide",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Doença De Alzheimer",
+      "target_type": "concept"
+    },
+    {
+      "source": "Apneia Do Sono",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Hipoxemia Intermitente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Apneia Do Sono",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Adenoide",
+      "target_type": "concept"
+    },
+    {
+      "source": "Apneia Do Sono",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Amígdalas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Apneia Do Sono",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Catecolaminas",
+      "target_type": "concept"
+    }
+  ]
+}

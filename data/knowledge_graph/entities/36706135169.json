@@ -1,0 +1,240 @@
+{
+  "episode_id": "36706135169",
+  "title": "OS BASTIDORES DA JOGADA BILIONÁRIA DE JOÃO ADIBE | EXTREMOS",
+  "date_published": 1746619200,
+  "duration": 2836,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "João Adib",
+      "role": "guest",
+      "company": "Cimed",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Carla",
+      "role": "mentioned",
+      "company": "Cimed",
+      "title": "Sócia"
+    },
+    {
+      "name": "João Pedro",
+      "role": "mentioned",
+      "company": "Cimed",
+      "title": "Futuro Sucessor"
+    },
+    {
+      "name": "João Adibe",
+      "role": "guest",
+      "company": "CIMED",
+      "title": "CEO"
+    },
+    {
+      "name": "Carla Dias",
+      "role": "mentioned",
+      "company": "CIMED",
+      "title": "Marketing Collaborator"
+    },
+    {
+      "name": "Neymar",
+      "role": "mentioned",
+      "company": "",
+      "title": "Professional Football Player"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Cimed",
+      "industry": "Farmacêutico",
+      "context": "Discussão sobre investimento e expansão"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Plataforma de mentoria e educação empresarial"
+    },
+    {
+      "name": "Fundo Soberano De Singapura",
+      "industry": "Investimentos",
+      "context": "Investimento na Cimed"
+    },
+    {
+      "name": "Cbf",
+      "industry": "Sports",
+      "context": "Mentioned in relation to a marketing decision involving the Brazilian football team."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura de vendas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Investimento primário",
+      "category": "Finanças"
+    },
+    {
+      "name": "Fundo soberano",
+      "category": "Finanças"
+    },
+    {
+      "name": "Mercado farmacêutico brasileiro",
+      "category": "Indústria"
+    },
+    {
+      "name": "Perpetuidade empresarial",
+      "category": "Gestão"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Expansão Internacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Humanização Empresarial",
+      "category": "Branding"
+    },
+    {
+      "name": "Distribuição Farmacêutica",
+      "category": "Supply Chain"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "48 anos",
+      "context": "Tempo de existência da Cimed"
+    },
+    {
+      "value": "300 bilhões de reais",
+      "context": "Tamanho estimado do mercado farmacêutico brasileiro anual"
+    },
+    {
+      "value": "65%",
+      "context": "Participação de empresas nacionais no mercado farmacêutico brasileiro"
+    },
+    {
+      "value": "90,000",
+      "context": "Number of pharmacies in CIMED's distribution network."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Carla",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Cbf",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "João Pedro",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "João Adib",
+      "target_type": "person"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governança Corporativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fundo Soberano De Singapura",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adib",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Humanização Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Carla Dias",
+      "target_type": "person"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Distribuição Farmacêutica",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Expansão Internacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Neymar",
+      "target_type": "person"
+    }
+  ]
+}

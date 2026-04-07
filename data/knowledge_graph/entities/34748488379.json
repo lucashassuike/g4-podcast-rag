@@ -1,0 +1,330 @@
+{
+  "episode_id": "34748488379",
+  "title": "COMO O AUTOCONHECIMENTO PODE TE LEVAR PARA O PRÓXIMO NÍVEL - COM SAMER AGI | EXTREMOS",
+  "date_published": 1730275200,
+  "duration": 4773,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Samer Agi",
+      "role": "guest",
+      "company": "CP Yuri's",
+      "title": "Empreendedor e ex-juiz"
+    },
+    {
+      "name": "Pedro Sobral",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em marketing digital"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Machado De Assis",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Eça De Queiroz",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gabriel Garcia Marques",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Raul Pompeia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Adhemar Couto",
+      "role": "mentioned",
+      "company": "Odgers",
+      "title": "Recruitment Specialist"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Escola de negócios mencionada como patrocinadora do podcast e local de conexão entre os participantes."
+    },
+    {
+      "name": "Cp Yuri'S",
+      "industry": "Educação",
+      "context": "Empresa fundada por Samer Agi para preparação de candidatos à magistratura."
+    },
+    {
+      "name": "Cpurs",
+      "industry": "Education",
+      "context": "Company led by Samer Agi"
+    },
+    {
+      "name": "Ser Mais Criativo",
+      "industry": "Creative Consulting",
+      "context": "Company led by Samer Agi"
+    },
+    {
+      "name": "Odgers",
+      "industry": "Recruitment",
+      "context": "Mentioned as a recruitment firm"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Coaching jurídico",
+      "category": "Estratégia educacional"
+    },
+    {
+      "name": "Conselho Nacional de Justiça (CNJ)",
+      "category": "Órgão regulador"
+    },
+    {
+      "name": "Autenticidade em redes sociais",
+      "category": "Estratégia de comunicação"
+    },
+    {
+      "name": "Transição de carreira",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Gestão e Estratégia",
+      "category": "Curso de Negócios"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Clube dos Pensadores",
+      "category": "Iniciativa de leitura"
+    },
+    {
+      "name": "Domínio público",
+      "category": "Categoria de livros mencionada"
+    },
+    {
+      "name": "Audiência de custódia",
+      "category": "Procedimento jurídico"
+    },
+    {
+      "name": "Prescrição penal",
+      "category": "Conceito jurídico"
+    },
+    {
+      "name": "Certeza da punição",
+      "category": "Criminal Justice"
+    },
+    {
+      "name": "Gestão de tempo",
+      "category": "Productivity"
+    },
+    {
+      "name": "Recrutamento sênior",
+      "category": "Human Resources"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Arte de Ter Razão",
+      "author": "Arthur Schopenhauer"
+    },
+    {
+      "title": "O Mercador de Veneza",
+      "author": "William Shakespeare"
+    },
+    {
+      "title": "Orgulho e Preconceito",
+      "author": "Jane Austen"
+    },
+    {
+      "title": "Cem Anos de Solidão",
+      "author": "Gabriel Garcia Marques"
+    },
+    {
+      "title": "O Ateneu",
+      "author": "Raul Pompeia"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "60% a 70%",
+      "context": "Porcentagem de juízes aprovados nos últimos anos que foram alunos do CP Yuri's."
+    },
+    {
+      "value": "3 anos e 2 dias",
+      "context": "Tempo como delegado antes de se tornar juiz."
+    },
+    {
+      "value": "2 anos e 9 meses",
+      "context": "Tempo antes de completar os requisitos para ser juiz."
+    },
+    {
+      "value": "15 milhões",
+      "context": "Faturamento mencionado como referência para empresas participarem do programa Gestão e Estratégia."
+    },
+    {
+      "value": "90%",
+      "context": "Porcentagem de homicídios no Brasil sem autoria conhecida."
+    },
+    {
+      "value": "90%",
+      "context": "Percentage of homicides in Brazil without known perpetrator"
+    },
+    {
+      "value": "98%",
+      "context": "Percentage of solved cases with known perpetrator in Japan"
+    },
+    {
+      "value": "50",
+      "context": "Number of employees at CPURS"
+    },
+    {
+      "value": "15",
+      "context": "Number of employees at Ser Mais Criativo"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Samer Agi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cpurs",
+      "target_type": "company"
+    },
+    {
+      "source": "Adhemar Couto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Odgers",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Samer Agi",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Conselho Nacional De Justiça (Cnj)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Samer Agi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "A Arte De Ter Razão",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "offers",
+      "target": "Gestão E Estratégia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Samer Agi",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Samer Agi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autoconhecimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão E Estratégia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Samer Agi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ser Mais Criativo",
+      "target_type": "company"
+    },
+    {
+      "source": "Samer Agi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tribunal De Justiça",
+      "target_type": "company"
+    },
+    {
+      "source": "Samer Agi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cp Yuri'S",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Sobral",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Samer Agi",
+      "target_type": "person"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

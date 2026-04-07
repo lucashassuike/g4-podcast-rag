@@ -1,0 +1,510 @@
+{
+  "episode_id": "51931284428",
+  "title": "HENRI ZYLBERSTAJN: COMO ESCALAR SUA EMPRESA SEM GERAR GARGALO",
+  "date_published": 1773677870,
+  "duration": 4413,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Henri Zylberstajn",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "role": "mentioned",
+      "company": "Facebook",
+      "title": "Founder"
+    },
+    {
+      "name": "João Vitor",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Prado",
+      "role": "mentioned",
+      "company": "PX",
+      "title": "Founder"
+    },
+    {
+      "name": "Semenzato",
+      "role": "mentioned",
+      "company": "Microlins",
+      "title": ""
+    },
+    {
+      "name": "Pedro Lobato",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Member"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Podcast de negócios e educação empresarial"
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Discussed in the context of competition and strategy."
+    },
+    {
+      "name": "Netshoes",
+      "industry": "E-commerce",
+      "context": "Mentioned as a competitor to Canoe."
+    },
+    {
+      "name": "Dafiti",
+      "industry": "E-commerce",
+      "context": "Mentioned as a competitor to Canoe."
+    },
+    {
+      "name": "Asus",
+      "industry": "E-commerce",
+      "context": "Referenced as an example of competitive strategy in the UK."
+    },
+    {
+      "name": "Facebook",
+      "industry": "Technology",
+      "context": "Discussed in the context of strategic focus on mobile development."
+    },
+    {
+      "name": "Px",
+      "industry": "Cibersegurança",
+      "context": "Empresa mencionada como referência em cibersegurança"
+    },
+    {
+      "name": "Zouk",
+      "industry": "Imobiliário",
+      "context": "Empresa mencionada por Henri Zylberstajn como parte de sua atuação."
+    },
+    {
+      "name": "Microlins",
+      "industry": "Educação",
+      "context": "Comparada ao impacto inicial da informática com a inteligência artificial."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Bancário",
+      "context": "Cliente mencionado de Zouk."
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Bancário",
+      "context": "Cliente mencionado de Zouk."
+    },
+    {
+      "name": "Santander",
+      "industry": "Bancário",
+      "context": "Cliente mencionado de Zouk."
+    },
+    {
+      "name": "Banco Inter",
+      "industry": "Bancário",
+      "context": "Cliente mencionado de Zouk."
+    },
+    {
+      "name": "Caixa Econômica",
+      "industry": "Bancário",
+      "context": "Cliente mencionado de Zouk."
+    },
+    {
+      "name": "Banco Do Brasil",
+      "industry": "Bancário",
+      "context": "Cliente mencionado de Zouk."
+    },
+    {
+      "name": "Azuki",
+      "industry": "Real Estate",
+      "context": "Operates the largest portal for real estate auctions in Brazil."
+    },
+    {
+      "name": "Quara",
+      "industry": "General Auctions",
+      "context": "Operates auctions for items other than real estate."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Delegação de Tarefas",
+      "category": "Gestão"
+    },
+    {
+      "name": "Frameworks de Decisão",
+      "category": "Gestão"
+    },
+    {
+      "name": "Traction",
+      "category": "Programas de Desenvolvimento Empresarial"
+    },
+    {
+      "name": "Matriz de Delegação",
+      "category": "Ferramentas de Gestão"
+    },
+    {
+      "name": "Product-Market Fit",
+      "category": "Estratégia de Produto"
+    },
+    {
+      "name": "Discovery",
+      "category": "Processo de Desenvolvimento de Produto"
+    },
+    {
+      "name": "Benchmarking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "CTR (Click Through Rate)",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "CPC (Cost Per Click)",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Equity Play",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Humildade Intelectual",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Mobile Optimization",
+      "category": "Technology Strategy"
+    },
+    {
+      "name": "AI (Artificial Intelligence)",
+      "category": "Technology"
+    },
+    {
+      "name": "Inteligência Artificial (IA)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Vibe Coding",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Vibe Prompting",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "System Design",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Automação",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Negócios"
+    },
+    {
+      "name": "Clareza Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Fit Cultural",
+      "category": "Gestão"
+    },
+    {
+      "name": "Incentivos Organizacionais",
+      "category": "Gestão"
+    },
+    {
+      "name": "Desenvolvimento de Pessoas",
+      "category": "Gestão"
+    },
+    {
+      "name": "Treinamento de equipe",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Imersão de leilões de imóveis",
+      "category": "Education"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10 a 15 milhões de reais por ano",
+      "context": "Faturamento das empresas-alvo do programa Traction"
+    },
+    {
+      "value": "4 milhões de usuários cadastrados",
+      "context": "Base de usuários da empresa de leilão mencionada por Henri Zylberstajn"
+    },
+    {
+      "value": "200,000 to 400,000 BRL per day",
+      "context": "Cost of banner advertisements on UOL for Netshoes."
+    },
+    {
+      "value": "3% to 8%",
+      "context": "Increase in mobile site traffic for Canoe between 2011 and 2012."
+    },
+    {
+      "value": "150 milhões",
+      "context": "Faturamento do G4 Educação em 2023"
+    },
+    {
+      "value": "500 milhões",
+      "context": "Faturamento do G4 Educação no ano anterior"
+    },
+    {
+      "value": "400 pessoas",
+      "context": "Tamanho da equipe do G4 Educação em 2023"
+    },
+    {
+      "value": "450 pessoas",
+      "context": "Tamanho da equipe do G4 Educação no ano anterior"
+    },
+    {
+      "value": "2,100 imóveis disponíveis",
+      "context": "Number of properties available on Azuki's platform."
+    },
+    {
+      "value": "80% com descontos acima de 40%",
+      "context": "Percentage of properties with significant discounts."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Zouk",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Itaú",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Matriz De Delegação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Frameworks De Decisão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Prado",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Px",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Delegação De Tarefas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Dafiti",
+      "target_type": "company"
+    },
+    {
+      "source": "Zouk",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Banco Do Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Zouk",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Banco Inter",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João Vitor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Quara",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Zouk",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Caixa Econômica",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Zouk",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Traction",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Netshoes",
+      "target_type": "company"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Microlins",
+      "target_type": "company"
+    },
+    {
+      "source": "Zouk",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Santander",
+      "target_type": "company"
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Facebook",
+      "target_type": "company"
+    },
+    {
+      "source": "Zouk",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Bradesco",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Zylberstajn",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Azuki",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Lobato",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

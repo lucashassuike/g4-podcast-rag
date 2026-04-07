@@ -1,0 +1,103 @@
+{
+  "episode_id": "41894239799",
+  "title": "[CORTE] VOCÊ SABE QUAL É A TENDÊNCIA QUE VEIO PRA FICAR?",
+  "date_published": 1756508400,
+  "duration": 625,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Pedro Bartelli",
+      "role": "mentioned",
+      "company": "Mizuno e Olímpicos",
+      "title": "Empresário"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Mizuno",
+      "industry": "Sportswear",
+      "context": "Discussão sobre crescimento e tendências no mercado de roupas esportivas."
+    },
+    {
+      "name": "Olímpicos",
+      "industry": "Sportswear",
+      "context": "Discussão sobre crescimento e tendências no mercado de roupas esportivas."
+    },
+    {
+      "name": "Lululemon",
+      "industry": "Sportswear",
+      "context": "Citada como exemplo de marca global em crescimento no setor de wellness."
+    },
+    {
+      "name": "Unilever",
+      "industry": "Consumer Goods",
+      "context": "Mencionada como participante no mercado de isotônicos em pó."
+    },
+    {
+      "name": "Gatorade",
+      "industry": "Beverages",
+      "context": "Citada como referência tradicional no mercado de isotônicos."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Wellness",
+      "category": "Market Trend"
+    },
+    {
+      "name": "Isotônicos em pó",
+      "category": "Product Category"
+    },
+    {
+      "name": "Hidratação funcional",
+      "category": "Market Trend"
+    },
+    {
+      "name": "Performance de alto rendimento",
+      "category": "Market Trend"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Exponencial",
+      "context": "Crescimento do setor de wellness pós-Covid."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Pedro Bartelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Olímpicos",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Bartelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mizuno",
+      "target_type": "company"
+    },
+    {
+      "source": "Unilever",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Gatorade",
+      "target_type": "company"
+    },
+    {
+      "source": "Mizuno",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Olímpicos",
+      "target_type": "company"
+    }
+  ]
+}

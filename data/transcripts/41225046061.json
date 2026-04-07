@@ -1,0 +1,933 @@
+{
+  "id": 41225046061,
+  "title": "[CORTE] \"EU TENTAVA PREVER O MÁXIMO DO CAMINHO\" JOÃO MORESSI",
+  "guest": "",
+  "date_published": 1755118800,
+  "duration": 666,
+  "text": "Vou te perguntar, o que um dev pode ensinar para um empresário? O que você, com conhecimento de tecnologia, de desenvolver software, o que você acha que te ajudou na hora de virar empresário? Acho que com certeza tem muito a questão da lógica. O desenvolvedor é um cara de raciocínio lógico. Eu lembro do Ricardo falando muito para mim que o lance não é fazer o código, o lance é fazer o código limpo. Escrever o mínimo possível. É isso que faz um dev se diferenciar. E o que ser dev ajudou o João empresário? Cara, eu penso assim, software bom é o software que some. Ou seja, ele está tão bem feito que ninguém escuta falar do código ou outra coisa. Então o negócio roda tão bem ali que ele não gera uma preocupação. Como desenvolvedor, você tem uma necessidade de lógica muito grande, igual você falou. Então você consegue buscar, prever todos os passos que aquele sistema vai ter antes de fazer uma implementação, por exemplo. Então imagina um tabuleiro de xadrez, você mapeia todas as jogadas. E como empresário, a gente não tem uma visão total do que vai acontecer no mundo, mas todas aquelas que nos respeitam, se respeitam ao nosso negócio, a gente precisa ter. Então trazendo ali um conceito de construção de software, aplicando isso para dentro do mundo empresarial, todas as variáveis que são possíveis a gente identificar, eu aplicava isso dentro do negócio. Então tentava prever o máximo possível das ações que a gente ia fazer, do caminhar que a gente tinha. E com isso, ir moldando a empresa com todas essas necessidades. E qual que é a dificuldade? Você falou agora há pouco que na hora que você toma a decisão de crescer, daí vocês cresceram. Qual que é a maior dificuldade de escalar uma empresa de serviço? São duas, na minha visão, cara. A primeira, eu acredito que seja a contratação de mão de obra qualificada. Não é a contratação de mão de obra, né? Seria qualificada mesmo para atender aqueles requisitos específicos. Porque às vezes você tem muita gente boa, mas ela não está ali dentro daquele perfil necessário para aquele momento. E a segunda é lidar com o fluxo de caixa. Eu acho que a necessidade de fluxo de caixa dentro de empresas de serviço é muito grande, cara. Por quê? Por conta que a escala, ela depende de pessoas. Folha de pagamento, ela é muito alta, ela é custosa. Então, eu brinco assim que o nosso estoque são pessoas. O capital intelectual da empresa é o estoque. E com essa necessidade de fluxo de caixa, por quê? Porque a folha de pagamento acaba... Você tem que pagar todo mês a folha de pagamento e você recebe do teu cliente. Você acaba tendo que pagar duas ou três folhas de pagamento até receber. Então, cada vez que você cresce, você precisa injetar mais dinheiro. Então, essa... E existe alguma maneira de resolver isso que você achou no meio do caminho ou não? É, o que a gente conseguiu fazer foi estar muito atrelado ao crescimento do que a gente ia receber. Então, por muitos anos, eu fazia... Porque nós somos uma empresa totalmente bootstrap. Não tenho investidor, não temos nada. Então, até hoje. E isso fez com que a gente criasse algumas lógicas para identificar que ia ter lucro nos projetos para que a gente pudesse crescer mais. Então, isso acabou sendo um game ali que a gente aprendeu a jogar. Então, o crescimento estava atrelado ao resultado, que o resultado fazia a gente crescer mais. E quando você perde um cliente relevante, é um problema também, né? São dois pontos ali. Quando a gente perde um cliente relevante, ele é muito ruim porque ele estraga a tua visão ali de meta futura, pensando em faturamento, né? Ele tem ali aquele... Pô, você se projeta para conquistar um cliente e quando você perde, ainda mais um relevante, é muito ruim. A gente odeia perder cliente, não tem nem que ver sobre isso. Mas pensando em estruturação da empresa, como ela está hoje, perder um cliente faz com que eu aumente o meu caixa e com isso eu tenho uma necessidade de ir atrás de outros clientes. Mas, assim, pensando em caixa, que é esse primeiro problema, imagina assim, eu tenho um corte hoje de um cliente, aumenta o meu caixa. Então, hoje eu não tenho tanto problema de vida. Mas por quê? Você não vai ficar com, sei lá, vamos falar que você tinha 30 pessoas alocadas para aquele projeto. Daí você perdeu esse cliente. Talvez durante os próximos três meses, se ele tem um fluxo de pagamento para você de 90 dias, ele vai continuar te pagando, mas de certa forma aquelas pessoas vão ficar desalocadas. Perfeito. E daí depois de 90 dias você começa a ter um problema. Se você não conseguir outro cliente. Claro que, assim, a forma como a gente está estruturado hoje, a gente tem vazão para alocar muitos profissionais. Então, a gente tem dentro da empresa quase 90% quando tem um término de um projeto, esses profissionais já são direcionados para outros. A gente tem um... Então, hoje você tem uma demanda infinita. Eu tenho uma demanda infinita. Você que não aceita cliente, então. Sim. Na maioria das vezes. Projetos, isso daí foi algo que eu demorei para aprender. Projetos, mesmo que paguem bem, que não tenha fit cultural com a empresa, a gente não pega. Dá um exemplo. Não precisa dar o exemplo do nome, mas dá um exemplo de algo que é um setor, empresa de construção. Ou o que é o fit com vocês? Empresa que não tenha maturidade com TI. Uma empresa que está usando a tecnologia ou o aplicativo, a plataforma que vai ser desenvolvida como ponto principal para o negócio. Vou explicar. Ela não está usando a plataforma para escalar o negócio dela ou para movimentar o seu negócio. Ela está usando o aplicativo como uma solução final. Ela está imaginando... Ela é uma empresa da solução. É uma empresa da solução. Você criar HubSpot. Esse não é o teu trabalho. Não é o meu trabalho. Então, tem muita gente que vem... Ou, por exemplo, ele vem e te pede um app de táxi. É isso. Porque no final, o aplicativo de táxi vai ser o que vai usar no dia a dia. O cara não tem nada a ver com o táxi. Não tem uma estruturação nenhuma. Ele quer o aplicativo porque ele acha que vai conseguir fazer uma demanda ali de táxi. Ele não vai conseguir. Ele vai ser uma software house de startup. Depende também. É, empresa grande também tem esses pontos. Mas, assim, startup tem mais, lógico. Mas tem startup que vem bem estruturada. Que você já tem a galera ali que já trabalhou no negócio. Os caras já têm clientes, já têm base, já têm tudo. Então, a plataforma vai servir para atender aquele negócio específico. E não a plataforma ser o negócio. Perfeito. A gente entendeu que esse é um dos pontos, principal. Quando chega assim, a gente já não pega. Você sabe que vai ter dor de cabeça. Não vai entregar o que o cara está esperando. Ele vai culpar você. O cara vai culpar a gente. Ele vai colocar toda a expectativa daquele momento da vida dele na gente. E não vai ser correspondido. O projeto vai ser entregue e vai funcionar. Mas depois disso... Mas não é esse o problema. O problema não é a tecnologia que você criou. O problema é que não é a tecnologia que resolve. A tecnologia é meio, não é fim. É, nesse caso em si, a tecnologia tem que apoiar o negócio. É um conjunto de fatores. Não existe negócio sem tecnologia. Não existe tecnologia sem negócio. Tem que estar totalmente atrelado. Tem que ter a necessidade... Eu tenho mais uma aqui. AI. É um negócio que nos últimos 3, 4 anos tem evoluído muito. Então você vê hoje cursor, várias ferramentas que ajudam os desenvolvedores a desenvolverem mais rápido. Eu vi um post esses dias do Henrique do Bugras falando sobre isso. Falando que ele faz com que o time dele utilize as ferramentas para codar. Então os desenvolvedores... Ele, cara, quero que vocês usem as ferramentas sim. Mas eu quero que você revise e garante que esse código tem maturidade, tem qualidade, que tenha segurança e assim por diante. E aqui no próprio G4, a gente tem desenvolvido muita coisa com AI. Então uma pessoa que tem um conhecimento intermediário de desenvolvimento, um dev, ele consegue desenvolver ferramentas super completas. Que no fim do dia é muito mais uma pessoa de negócios com um conhecimento de tecnologia que consegue desenvolver bem. Depois ele passa pelo nosso time de segurança para garantir que está tudo redondo, para a gente não ter nenhum problema. Mas a gente vê que o ganho de produtividade é relevante. Como vocês têm visto o AI no negócio de vocês para ajudar o teu time de desenvolvimento a desenvolver mais rápido, melhor, mais eficiente? Cara, para qualquer negócio. Se não tiver AI daqui para frente, o negócio vai morrer. Isso é fato. E aí tem que ser utilizado para tudo. Para todos os departamentos e todas as empresas. Para desenvolvimento de software, a mesma coisa. Se a gente não utilizar a velocidade e a forma como a AI pode ajudar em padrões, em formas que antes era muito manual, a gente também vai ter um problema. Eu enxergo com muitos bons olhos essa evolução. Antigamente, quando você olhava a evolução tecnológica como um todo, demorava muito. Primeira máquina computacional ali que foi criada de computação, acho que foi em 1800, se não me engano. Depois uma memória magnética foi quase 100 anos depois, em 1900. Demorou 100 anos para",
+  "word_count": 1644,
+  "chunks_used": 1,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.65,
+      "timestamp": "00:00",
+      "text": "Vou te perguntar, o que um dev pode ensinar para um empresário?"
+    },
+    {
+      "start": 4.65,
+      "end": 14.04,
+      "timestamp": "00:04",
+      "text": "O que você, com conhecimento de tecnologia, de desenvolver software, o que você acha que te ajudou na hora de virar empresário?"
+    },
+    {
+      "start": 14.04,
+      "end": 17.8,
+      "timestamp": "00:14",
+      "text": "Acho que com certeza tem muito a questão da lógica."
+    },
+    {
+      "start": 17.8,
+      "end": 21.27,
+      "timestamp": "00:17",
+      "text": "O desenvolvedor é um cara de raciocínio lógico."
+    },
+    {
+      "start": 21.27,
+      "end": 29.33,
+      "timestamp": "00:21",
+      "text": "Eu lembro do Ricardo falando muito para mim que o lance não é fazer o código, o lance é fazer o código limpo."
+    },
+    {
+      "start": 29.33,
+      "end": 31.32,
+      "timestamp": "00:29",
+      "text": "Escrever o mínimo possível."
+    },
+    {
+      "start": 31.32,
+      "end": 34.05,
+      "timestamp": "00:31",
+      "text": "É isso que faz um dev se diferenciar."
+    },
+    {
+      "start": 34.05,
+      "end": 37.08,
+      "timestamp": "00:34",
+      "text": "E o que ser dev ajudou o João empresário?"
+    },
+    {
+      "start": 37.08,
+      "end": 41.29,
+      "timestamp": "00:37",
+      "text": "Cara, eu penso assim, software bom é o software que some."
+    },
+    {
+      "start": 41.29,
+      "end": 47.35,
+      "timestamp": "00:41",
+      "text": "Ou seja, ele está tão bem feito que ninguém escuta falar do código ou outra coisa."
+    },
+    {
+      "start": 47.35,
+      "end": 52.23,
+      "timestamp": "00:47",
+      "text": "Então o negócio roda tão bem ali que ele não gera uma preocupação."
+    },
+    {
+      "start": 52.23,
+      "end": 58.58,
+      "timestamp": "00:52",
+      "text": "Como desenvolvedor, você tem uma necessidade de lógica muito grande, igual você falou."
+    },
+    {
+      "start": 58.58,
+      "end": 67.74,
+      "timestamp": "00:58",
+      "text": "Então você consegue buscar, prever todos os passos que aquele sistema vai ter antes de fazer uma implementação, por exemplo."
+    },
+    {
+      "start": 67.74,
+      "end": 72.69,
+      "timestamp": "01:07",
+      "text": "Então imagina um tabuleiro de xadrez, você mapeia todas as jogadas."
+    },
+    {
+      "start": 72.69,
+      "end": 85.24,
+      "timestamp": "01:12",
+      "text": "E como empresário, a gente não tem uma visão total do que vai acontecer no mundo, mas todas aquelas que nos respeitam, se respeitam ao nosso negócio, a gente precisa ter."
+    },
+    {
+      "start": 85.24,
+      "end": 100.02,
+      "timestamp": "01:25",
+      "text": "Então trazendo ali um conceito de construção de software, aplicando isso para dentro do mundo empresarial, todas as variáveis que são possíveis a gente identificar, eu aplicava isso dentro do negócio."
+    },
+    {
+      "start": 100.02,
+      "end": 107.48,
+      "timestamp": "01:40",
+      "text": "Então tentava prever o máximo possível das ações que a gente ia fazer, do caminhar que a gente tinha."
+    },
+    {
+      "start": 107.48,
+      "end": 112.13,
+      "timestamp": "01:47",
+      "text": "E com isso, ir moldando a empresa com todas essas necessidades."
+    },
+    {
+      "start": 112.13,
+      "end": 114.13,
+      "timestamp": "01:52",
+      "text": "E qual que é a dificuldade?"
+    },
+    {
+      "start": 114.13,
+      "end": 121.07,
+      "timestamp": "01:54",
+      "text": "Você falou agora há pouco que na hora que você toma a decisão de crescer, daí vocês cresceram."
+    },
+    {
+      "start": 121.07,
+      "end": 125.87,
+      "timestamp": "02:01",
+      "text": "Qual que é a maior dificuldade de escalar uma empresa de serviço?"
+    },
+    {
+      "start": 125.87,
+      "end": 128.16,
+      "timestamp": "02:05",
+      "text": "São duas, na minha visão, cara."
+    },
+    {
+      "start": 128.16,
+      "end": 133.63,
+      "timestamp": "02:08",
+      "text": "A primeira, eu acredito que seja a contratação de mão de obra qualificada."
+    },
+    {
+      "start": 133.63,
+      "end": 136.51,
+      "timestamp": "02:13",
+      "text": "Não é a contratação de mão de obra, né?"
+    },
+    {
+      "start": 136.51,
+      "end": 141.53,
+      "timestamp": "02:16",
+      "text": "Seria qualificada mesmo para atender aqueles requisitos específicos."
+    },
+    {
+      "start": 141.53,
+      "end": 150.1,
+      "timestamp": "02:21",
+      "text": "Porque às vezes você tem muita gente boa, mas ela não está ali dentro daquele perfil necessário para aquele momento."
+    },
+    {
+      "start": 150.1,
+      "end": 153.13,
+      "timestamp": "02:30",
+      "text": "E a segunda é lidar com o fluxo de caixa."
+    },
+    {
+      "start": 153.13,
+      "end": 160.15,
+      "timestamp": "02:33",
+      "text": "Eu acho que a necessidade de fluxo de caixa dentro de empresas de serviço é muito grande, cara."
+    },
+    {
+      "start": 160.15,
+      "end": 160.74,
+      "timestamp": "02:40",
+      "text": "Por quê?"
+    },
+    {
+      "start": 160.74,
+      "end": 164.21,
+      "timestamp": "02:40",
+      "text": "Por conta que a escala, ela depende de pessoas."
+    },
+    {
+      "start": 164.21,
+      "end": 168.05,
+      "timestamp": "02:44",
+      "text": "Folha de pagamento, ela é muito alta, ela é custosa."
+    },
+    {
+      "start": 168.05,
+      "end": 172.11,
+      "timestamp": "02:48",
+      "text": "Então, eu brinco assim que o nosso estoque são pessoas."
+    },
+    {
+      "start": 172.11,
+      "end": 175.44,
+      "timestamp": "02:52",
+      "text": "O capital intelectual da empresa é o estoque."
+    },
+    {
+      "start": 175.44,
+      "end": 179.13,
+      "timestamp": "02:55",
+      "text": "E com essa necessidade de fluxo de caixa, por quê?"
+    },
+    {
+      "start": 179.13,
+      "end": 181.79,
+      "timestamp": "02:59",
+      "text": "Porque a folha de pagamento acaba..."
+    },
+    {
+      "start": 181.79,
+      "end": 187.55,
+      "timestamp": "03:01",
+      "text": "Você tem que pagar todo mês a folha de pagamento e você recebe do teu cliente."
+    },
+    {
+      "start": 187.55,
+      "end": 192.87,
+      "timestamp": "03:07",
+      "text": "Você acaba tendo que pagar duas ou três folhas de pagamento até receber."
+    },
+    {
+      "start": 192.87,
+      "end": 197.89,
+      "timestamp": "03:12",
+      "text": "Então, cada vez que você cresce, você precisa injetar mais dinheiro."
+    },
+    {
+      "start": 197.89,
+      "end": 198.93,
+      "timestamp": "03:17",
+      "text": "Então, essa..."
+    },
+    {
+      "start": 198.93,
+      "end": 204.99,
+      "timestamp": "03:18",
+      "text": "E existe alguma maneira de resolver isso que você achou no meio do caminho ou não?"
+    },
+    {
+      "start": 204.99,
+      "end": 212.3,
+      "timestamp": "03:24",
+      "text": "É, o que a gente conseguiu fazer foi estar muito atrelado ao crescimento do que a gente ia receber."
+    },
+    {
+      "start": 212.3,
+      "end": 214.88,
+      "timestamp": "03:32",
+      "text": "Então, por muitos anos, eu fazia..."
+    },
+    {
+      "start": 214.88,
+      "end": 218.58,
+      "timestamp": "03:34",
+      "text": "Porque nós somos uma empresa totalmente bootstrap."
+    },
+    {
+      "start": 218.58,
+      "end": 221.31,
+      "timestamp": "03:38",
+      "text": "Não tenho investidor, não temos nada."
+    },
+    {
+      "start": 221.31,
+      "end": 222.49,
+      "timestamp": "03:41",
+      "text": "Então, até hoje."
+    },
+    {
+      "start": 222.49,
+      "end": 232.54,
+      "timestamp": "03:42",
+      "text": "E isso fez com que a gente criasse algumas lógicas para identificar que ia ter lucro nos projetos para que a gente pudesse crescer mais."
+    },
+    {
+      "start": 232.54,
+      "end": 237.41,
+      "timestamp": "03:52",
+      "text": "Então, isso acabou sendo um game ali que a gente aprendeu a jogar."
+    },
+    {
+      "start": 237.41,
+      "end": 244.36,
+      "timestamp": "03:57",
+      "text": "Então, o crescimento estava atrelado ao resultado, que o resultado fazia a gente crescer mais."
+    },
+    {
+      "start": 244.36,
+      "end": 249.31,
+      "timestamp": "04:04",
+      "text": "E quando você perde um cliente relevante, é um problema também, né?"
+    },
+    {
+      "start": 249.31,
+      "end": 250.78,
+      "timestamp": "04:09",
+      "text": "São dois pontos ali."
+    },
+    {
+      "start": 250.78,
+      "end": 261.05,
+      "timestamp": "04:10",
+      "text": "Quando a gente perde um cliente relevante, ele é muito ruim porque ele estraga a tua visão ali de meta futura, pensando em faturamento, né?"
+    },
+    {
+      "start": 261.05,
+      "end": 262.6,
+      "timestamp": "04:21",
+      "text": "Ele tem ali aquele..."
+    },
+    {
+      "start": 262.6,
+      "end": 270.43,
+      "timestamp": "04:22",
+      "text": "Pô, você se projeta para conquistar um cliente e quando você perde, ainda mais um relevante, é muito ruim."
+    },
+    {
+      "start": 270.43,
+      "end": 274.94,
+      "timestamp": "04:30",
+      "text": "A gente odeia perder cliente, não tem nem que ver sobre isso."
+    },
+    {
+      "start": 274.94,
+      "end": 288.31,
+      "timestamp": "04:34",
+      "text": "Mas pensando em estruturação da empresa, como ela está hoje, perder um cliente faz com que eu aumente o meu caixa e com isso eu tenho uma necessidade de ir atrás de outros clientes."
+    },
+    {
+      "start": 288.31,
+      "end": 298.21,
+      "timestamp": "04:48",
+      "text": "Mas, assim, pensando em caixa, que é esse primeiro problema, imagina assim, eu tenho um corte hoje de um cliente, aumenta o meu caixa."
+    },
+    {
+      "start": 298.21,
+      "end": 301.75,
+      "timestamp": "04:58",
+      "text": "Então, hoje eu não tenho tanto problema de vida."
+    },
+    {
+      "start": 301.75,
+      "end": 302.64,
+      "timestamp": "05:01",
+      "text": "Mas por quê?"
+    },
+    {
+      "start": 302.64,
+      "end": 309.95,
+      "timestamp": "05:02",
+      "text": "Você não vai ficar com, sei lá, vamos falar que você tinha 30 pessoas alocadas para aquele projeto."
+    },
+    {
+      "start": 309.95,
+      "end": 312.1,
+      "timestamp": "05:09",
+      "text": "Daí você perdeu esse cliente."
+    },
+    {
+      "start": 312.1,
+      "end": 325.47,
+      "timestamp": "05:12",
+      "text": "Talvez durante os próximos três meses, se ele tem um fluxo de pagamento para você de 90 dias, ele vai continuar te pagando, mas de certa forma aquelas pessoas vão ficar desalocadas."
+    },
+    {
+      "start": 325.47,
+      "end": 326.13,
+      "timestamp": "05:25",
+      "text": "Perfeito."
+    },
+    {
+      "start": 326.13,
+      "end": 330.12,
+      "timestamp": "05:26",
+      "text": "E daí depois de 90 dias você começa a ter um problema."
+    },
+    {
+      "start": 330.12,
+      "end": 332.78,
+      "timestamp": "05:30",
+      "text": "Se você não conseguir outro cliente."
+    },
+    {
+      "start": 332.78,
+      "end": 341.13,
+      "timestamp": "05:32",
+      "text": "Claro que, assim, a forma como a gente está estruturado hoje, a gente tem vazão para alocar muitos profissionais."
+    },
+    {
+      "start": 341.13,
+      "end": 351.17,
+      "timestamp": "05:41",
+      "text": "Então, a gente tem dentro da empresa quase 90% quando tem um término de um projeto, esses profissionais já são direcionados para outros."
+    },
+    {
+      "start": 351.17,
+      "end": 352.43,
+      "timestamp": "05:51",
+      "text": "A gente tem um..."
+    },
+    {
+      "start": 352.43,
+      "end": 355.53,
+      "timestamp": "05:52",
+      "text": "Então, hoje você tem uma demanda infinita."
+    },
+    {
+      "start": 355.53,
+      "end": 357.75,
+      "timestamp": "05:55",
+      "text": "Eu tenho uma demanda infinita."
+    },
+    {
+      "start": 357.75,
+      "end": 360.33,
+      "timestamp": "05:57",
+      "text": "Você que não aceita cliente, então."
+    },
+    {
+      "start": 360.33,
+      "end": 360.63,
+      "timestamp": "06:00",
+      "text": "Sim."
+    },
+    {
+      "start": 360.63,
+      "end": 362.18,
+      "timestamp": "06:00",
+      "text": "Na maioria das vezes."
+    },
+    {
+      "start": 362.18,
+      "end": 366.39,
+      "timestamp": "06:02",
+      "text": "Projetos, isso daí foi algo que eu demorei para aprender."
+    },
+    {
+      "start": 366.39,
+      "end": 373.11,
+      "timestamp": "06:06",
+      "text": "Projetos, mesmo que paguem bem, que não tenha fit cultural com a empresa, a gente não pega."
+    },
+    {
+      "start": 373.11,
+      "end": 374.14,
+      "timestamp": "06:13",
+      "text": "Dá um exemplo."
+    },
+    {
+      "start": 374.14,
+      "end": 381.46,
+      "timestamp": "06:14",
+      "text": "Não precisa dar o exemplo do nome, mas dá um exemplo de algo que é um setor, empresa de construção."
+    },
+    {
+      "start": 381.46,
+      "end": 383.45,
+      "timestamp": "06:21",
+      "text": "Ou o que é o fit com vocês?"
+    },
+    {
+      "start": 383.45,
+      "end": 386.41,
+      "timestamp": "06:23",
+      "text": "Empresa que não tenha maturidade com TI."
+    },
+    {
+      "start": 386.41,
+      "end": 396.16,
+      "timestamp": "06:26",
+      "text": "Uma empresa que está usando a tecnologia ou o aplicativo, a plataforma que vai ser desenvolvida como ponto principal para o negócio."
+    },
+    {
+      "start": 396.16,
+      "end": 397.12,
+      "timestamp": "06:36",
+      "text": "Vou explicar."
+    },
+    {
+      "start": 397.12,
+      "end": 404.06,
+      "timestamp": "06:37",
+      "text": "Ela não está usando a plataforma para escalar o negócio dela ou para movimentar o seu negócio."
+    },
+    {
+      "start": 404.06,
+      "end": 407.9,
+      "timestamp": "06:44",
+      "text": "Ela está usando o aplicativo como uma solução final."
+    },
+    {
+      "start": 407.9,
+      "end": 409.53,
+      "timestamp": "06:47",
+      "text": "Ela está imaginando..."
+    },
+    {
+      "start": 409.53,
+      "end": 411.67,
+      "timestamp": "06:49",
+      "text": "Ela é uma empresa da solução."
+    },
+    {
+      "start": 411.67,
+      "end": 413.52,
+      "timestamp": "06:51",
+      "text": "É uma empresa da solução."
+    },
+    {
+      "start": 413.52,
+      "end": 414.92,
+      "timestamp": "06:53",
+      "text": "Você criar HubSpot."
+    },
+    {
+      "start": 414.92,
+      "end": 416.84,
+      "timestamp": "06:54",
+      "text": "Esse não é o teu trabalho."
+    },
+    {
+      "start": 416.84,
+      "end": 418.39,
+      "timestamp": "06:56",
+      "text": "Não é o meu trabalho."
+    },
+    {
+      "start": 418.39,
+      "end": 420.83,
+      "timestamp": "06:58",
+      "text": "Então, tem muita gente que vem..."
+    },
+    {
+      "start": 420.83,
+      "end": 424.52,
+      "timestamp": "07:00",
+      "text": "Ou, por exemplo, ele vem e te pede um app de táxi."
+    },
+    {
+      "start": 424.52,
+      "end": 425.04,
+      "timestamp": "07:04",
+      "text": "É isso."
+    },
+    {
+      "start": 425.04,
+      "end": 430.51,
+      "timestamp": "07:05",
+      "text": "Porque no final, o aplicativo de táxi vai ser o que vai usar no dia a dia."
+    },
+    {
+      "start": 430.51,
+      "end": 433.24,
+      "timestamp": "07:10",
+      "text": "O cara não tem nada a ver com o táxi."
+    },
+    {
+      "start": 433.24,
+      "end": 435.68,
+      "timestamp": "07:13",
+      "text": "Não tem uma estruturação nenhuma."
+    },
+    {
+      "start": 435.68,
+      "end": 442.03,
+      "timestamp": "07:15",
+      "text": "Ele quer o aplicativo porque ele acha que vai conseguir fazer uma demanda ali de táxi."
+    },
+    {
+      "start": 442.03,
+      "end": 443.66,
+      "timestamp": "07:22",
+      "text": "Ele não vai conseguir."
+    },
+    {
+      "start": 443.66,
+      "end": 446.76,
+      "timestamp": "07:23",
+      "text": "Ele vai ser uma software house de startup."
+    },
+    {
+      "start": 446.76,
+      "end": 447.87,
+      "timestamp": "07:26",
+      "text": "Depende também."
+    },
+    {
+      "start": 447.87,
+      "end": 450.97,
+      "timestamp": "07:27",
+      "text": "É, empresa grande também tem esses pontos."
+    },
+    {
+      "start": 450.97,
+      "end": 453.7,
+      "timestamp": "07:30",
+      "text": "Mas, assim, startup tem mais, lógico."
+    },
+    {
+      "start": 453.7,
+      "end": 456.66,
+      "timestamp": "07:33",
+      "text": "Mas tem startup que vem bem estruturada."
+    },
+    {
+      "start": 456.66,
+      "end": 460.87,
+      "timestamp": "07:36",
+      "text": "Que você já tem a galera ali que já trabalhou no negócio."
+    },
+    {
+      "start": 460.87,
+      "end": 464.63,
+      "timestamp": "07:40",
+      "text": "Os caras já têm clientes, já têm base, já têm tudo."
+    },
+    {
+      "start": 464.63,
+      "end": 469.8,
+      "timestamp": "07:44",
+      "text": "Então, a plataforma vai servir para atender aquele negócio específico."
+    },
+    {
+      "start": 469.8,
+      "end": 472.24,
+      "timestamp": "07:49",
+      "text": "E não a plataforma ser o negócio."
+    },
+    {
+      "start": 472.24,
+      "end": 472.91,
+      "timestamp": "07:52",
+      "text": "Perfeito."
+    },
+    {
+      "start": 472.91,
+      "end": 476.82,
+      "timestamp": "07:52",
+      "text": "A gente entendeu que esse é um dos pontos, principal."
+    },
+    {
+      "start": 476.82,
+      "end": 479.78,
+      "timestamp": "07:56",
+      "text": "Quando chega assim, a gente já não pega."
+    },
+    {
+      "start": 479.78,
+      "end": 482.44,
+      "timestamp": "07:59",
+      "text": "Você sabe que vai ter dor de cabeça."
+    },
+    {
+      "start": 482.44,
+      "end": 485.76,
+      "timestamp": "08:02",
+      "text": "Não vai entregar o que o cara está esperando."
+    },
+    {
+      "start": 485.76,
+      "end": 487.24,
+      "timestamp": "08:05",
+      "text": "Ele vai culpar você."
+    },
+    {
+      "start": 487.24,
+      "end": 489.16,
+      "timestamp": "08:07",
+      "text": "O cara vai culpar a gente."
+    },
+    {
+      "start": 489.16,
+      "end": 494.55,
+      "timestamp": "08:09",
+      "text": "Ele vai colocar toda a expectativa daquele momento da vida dele na gente."
+    },
+    {
+      "start": 494.55,
+      "end": 496.62,
+      "timestamp": "08:14",
+      "text": "E não vai ser correspondido."
+    },
+    {
+      "start": 496.62,
+      "end": 499.8,
+      "timestamp": "08:16",
+      "text": "O projeto vai ser entregue e vai funcionar."
+    },
+    {
+      "start": 499.8,
+      "end": 501.2,
+      "timestamp": "08:19",
+      "text": "Mas depois disso..."
+    },
+    {
+      "start": 501.2,
+      "end": 503.12,
+      "timestamp": "08:21",
+      "text": "Mas não é esse o problema."
+    },
+    {
+      "start": 503.12,
+      "end": 506.44,
+      "timestamp": "08:23",
+      "text": "O problema não é a tecnologia que você criou."
+    },
+    {
+      "start": 506.44,
+      "end": 509.99,
+      "timestamp": "08:26",
+      "text": "O problema é que não é a tecnologia que resolve."
+    },
+    {
+      "start": 509.99,
+      "end": 512.28,
+      "timestamp": "08:29",
+      "text": "A tecnologia é meio, não é fim."
+    },
+    {
+      "start": 512.28,
+      "end": 516.64,
+      "timestamp": "08:32",
+      "text": "É, nesse caso em si, a tecnologia tem que apoiar o negócio."
+    },
+    {
+      "start": 516.64,
+      "end": 518.48,
+      "timestamp": "08:36",
+      "text": "É um conjunto de fatores."
+    },
+    {
+      "start": 518.48,
+      "end": 521.0,
+      "timestamp": "08:38",
+      "text": "Não existe negócio sem tecnologia."
+    },
+    {
+      "start": 521.0,
+      "end": 523.51,
+      "timestamp": "08:40",
+      "text": "Não existe tecnologia sem negócio."
+    },
+    {
+      "start": 523.51,
+      "end": 526.02,
+      "timestamp": "08:43",
+      "text": "Tem que estar totalmente atrelado."
+    },
+    {
+      "start": 526.02,
+      "end": 528.09,
+      "timestamp": "08:46",
+      "text": "Tem que ter a necessidade..."
+    },
+    {
+      "start": 528.09,
+      "end": 529.79,
+      "timestamp": "08:48",
+      "text": "Eu tenho mais uma aqui."
+    },
+    {
+      "start": 529.79,
+      "end": 530.01,
+      "timestamp": "08:49",
+      "text": "AI."
+    },
+    {
+      "start": 530.01,
+      "end": 534.29,
+      "timestamp": "08:50",
+      "text": "É um negócio que nos últimos 3, 4 anos tem evoluído muito."
+    },
+    {
+      "start": 534.29,
+      "end": 541.97,
+      "timestamp": "08:54",
+      "text": "Então você vê hoje cursor, várias ferramentas que ajudam os desenvolvedores a desenvolverem mais rápido."
+    },
+    {
+      "start": 541.97,
+      "end": 546.85,
+      "timestamp": "09:01",
+      "text": "Eu vi um post esses dias do Henrique do Bugras falando sobre isso."
+    },
+    {
+      "start": 546.85,
+      "end": 552.32,
+      "timestamp": "09:06",
+      "text": "Falando que ele faz com que o time dele utilize as ferramentas para codar."
+    },
+    {
+      "start": 552.32,
+      "end": 554.31,
+      "timestamp": "09:12",
+      "text": "Então os desenvolvedores..."
+    },
+    {
+      "start": 554.31,
+      "end": 558.08,
+      "timestamp": "09:14",
+      "text": "Ele, cara, quero que vocês usem as ferramentas sim."
+    },
+    {
+      "start": 558.08,
+      "end": 567.31,
+      "timestamp": "09:18",
+      "text": "Mas eu quero que você revise e garante que esse código tem maturidade, tem qualidade, que tenha segurança e assim por diante."
+    },
+    {
+      "start": 567.31,
+      "end": 572.19,
+      "timestamp": "09:27",
+      "text": "E aqui no próprio G4, a gente tem desenvolvido muita coisa com AI."
+    },
+    {
+      "start": 572.19,
+      "end": 582.23,
+      "timestamp": "09:32",
+      "text": "Então uma pessoa que tem um conhecimento intermediário de desenvolvimento, um dev, ele consegue desenvolver ferramentas super completas."
+    },
+    {
+      "start": 582.23,
+      "end": 590.88,
+      "timestamp": "09:42",
+      "text": "Que no fim do dia é muito mais uma pessoa de negócios com um conhecimento de tecnologia que consegue desenvolver bem."
+    },
+    {
+      "start": 590.88,
+      "end": 599.74,
+      "timestamp": "09:50",
+      "text": "Depois ele passa pelo nosso time de segurança para garantir que está tudo redondo, para a gente não ter nenhum problema."
+    },
+    {
+      "start": 599.74,
+      "end": 603.88,
+      "timestamp": "09:59",
+      "text": "Mas a gente vê que o ganho de produtividade é relevante."
+    },
+    {
+      "start": 603.88,
+      "end": 614.07,
+      "timestamp": "10:03",
+      "text": "Como vocês têm visto o AI no negócio de vocês para ajudar o teu time de desenvolvimento a desenvolver mais rápido, melhor, mais eficiente?"
+    },
+    {
+      "start": 614.07,
+      "end": 616.14,
+      "timestamp": "10:14",
+      "text": "Cara, para qualquer negócio."
+    },
+    {
+      "start": 616.14,
+      "end": 620.28,
+      "timestamp": "10:16",
+      "text": "Se não tiver AI daqui para frente, o negócio vai morrer."
+    },
+    {
+      "start": 620.28,
+      "end": 621.16,
+      "timestamp": "10:20",
+      "text": "Isso é fato."
+    },
+    {
+      "start": 621.16,
+      "end": 623.89,
+      "timestamp": "10:21",
+      "text": "E aí tem que ser utilizado para tudo."
+    },
+    {
+      "start": 623.89,
+      "end": 627.44,
+      "timestamp": "10:23",
+      "text": "Para todos os departamentos e todas as empresas."
+    },
+    {
+      "start": 627.44,
+      "end": 630.99,
+      "timestamp": "10:27",
+      "text": "Para desenvolvimento de software, a mesma coisa."
+    },
+    {
+      "start": 630.99,
+      "end": 642.36,
+      "timestamp": "10:30",
+      "text": "Se a gente não utilizar a velocidade e a forma como a AI pode ajudar em padrões, em formas que antes era muito manual, a gente também vai ter um problema."
+    },
+    {
+      "start": 642.36,
+      "end": 645.83,
+      "timestamp": "10:42",
+      "text": "Eu enxergo com muitos bons olhos essa evolução."
+    },
+    {
+      "start": 645.83,
+      "end": 652.04,
+      "timestamp": "10:45",
+      "text": "Antigamente, quando você olhava a evolução tecnológica como um todo, demorava muito."
+    },
+    {
+      "start": 652.04,
+      "end": 659.72,
+      "timestamp": "10:52",
+      "text": "Primeira máquina computacional ali que foi criada de computação, acho que foi em 1800, se não me engano."
+    },
+    {
+      "start": 659.72,
+      "end": 664.45,
+      "timestamp": "10:59",
+      "text": "Depois uma memória magnética foi quase 100 anos depois, em 1900."
+    },
+    {
+      "start": 664.45,
+      "end": 666.0,
+      "timestamp": "11:04",
+      "text": "Demorou 100 anos para"
+    }
+  ],
+  "segment_count": 153,
+  "text_timestamped": "[00:00] Vou te perguntar, o que um dev pode ensinar para um empresário?\n[00:04] O que você, com conhecimento de tecnologia, de desenvolver software, o que você acha que te ajudou na hora de virar empresário?\n[00:14] Acho que com certeza tem muito a questão da lógica.\n[00:17] O desenvolvedor é um cara de raciocínio lógico.\n[00:21] Eu lembro do Ricardo falando muito para mim que o lance não é fazer o código, o lance é fazer o código limpo.\n[00:29] Escrever o mínimo possível.\n[00:31] É isso que faz um dev se diferenciar.\n[00:34] E o que ser dev ajudou o João empresário?\n[00:37] Cara, eu penso assim, software bom é o software que some.\n[00:41] Ou seja, ele está tão bem feito que ninguém escuta falar do código ou outra coisa.\n[00:47] Então o negócio roda tão bem ali que ele não gera uma preocupação.\n[00:52] Como desenvolvedor, você tem uma necessidade de lógica muito grande, igual você falou.\n[00:58] Então você consegue buscar, prever todos os passos que aquele sistema vai ter antes de fazer uma implementação, por exemplo.\n[01:07] Então imagina um tabuleiro de xadrez, você mapeia todas as jogadas.\n[01:12] E como empresário, a gente não tem uma visão total do que vai acontecer no mundo, mas todas aquelas que nos respeitam, se respeitam ao nosso negócio, a gente precisa ter.\n[01:25] Então trazendo ali um conceito de construção de software, aplicando isso para dentro do mundo empresarial, todas as variáveis que são possíveis a gente identificar, eu aplicava isso dentro do negócio.\n[01:40] Então tentava prever o máximo possível das ações que a gente ia fazer, do caminhar que a gente tinha.\n[01:47] E com isso, ir moldando a empresa com todas essas necessidades.\n[01:52] E qual que é a dificuldade?\n[01:54] Você falou agora há pouco que na hora que você toma a decisão de crescer, daí vocês cresceram.\n[02:01] Qual que é a maior dificuldade de escalar uma empresa de serviço?\n[02:05] São duas, na minha visão, cara.\n[02:08] A primeira, eu acredito que seja a contratação de mão de obra qualificada.\n[02:13] Não é a contratação de mão de obra, né?\n[02:16] Seria qualificada mesmo para atender aqueles requisitos específicos.\n[02:21] Porque às vezes você tem muita gente boa, mas ela não está ali dentro daquele perfil necessário para aquele momento.\n[02:30] E a segunda é lidar com o fluxo de caixa.\n[02:33] Eu acho que a necessidade de fluxo de caixa dentro de empresas de serviço é muito grande, cara.\n[02:40] Por quê?\n[02:40] Por conta que a escala, ela depende de pessoas.\n[02:44] Folha de pagamento, ela é muito alta, ela é custosa.\n[02:48] Então, eu brinco assim que o nosso estoque são pessoas.\n[02:52] O capital intelectual da empresa é o estoque.\n[02:55] E com essa necessidade de fluxo de caixa, por quê?\n[02:59] Porque a folha de pagamento acaba...\n[03:01] Você tem que pagar todo mês a folha de pagamento e você recebe do teu cliente.\n[03:07] Você acaba tendo que pagar duas ou três folhas de pagamento até receber.\n[03:12] Então, cada vez que você cresce, você precisa injetar mais dinheiro.\n[03:17] Então, essa...\n[03:18] E existe alguma maneira de resolver isso que você achou no meio do caminho ou não?\n[03:24] É, o que a gente conseguiu fazer foi estar muito atrelado ao crescimento do que a gente ia receber.\n[03:32] Então, por muitos anos, eu fazia...\n[03:34] Porque nós somos uma empresa totalmente bootstrap.\n[03:38] Não tenho investidor, não temos nada.\n[03:41] Então, até hoje.\n[03:42] E isso fez com que a gente criasse algumas lógicas para identificar que ia ter lucro nos projetos para que a gente pudesse crescer mais.\n[03:52] Então, isso acabou sendo um game ali que a gente aprendeu a jogar.\n[03:57] Então, o crescimento estava atrelado ao resultado, que o resultado fazia a gente crescer mais.\n[04:04] E quando você perde um cliente relevante, é um problema também, né?\n[04:09] São dois pontos ali.\n[04:10] Quando a gente perde um cliente relevante, ele é muito ruim porque ele estraga a tua visão ali de meta futura, pensando em faturamento, né?\n[04:21] Ele tem ali aquele...\n[04:22] Pô, você se projeta para conquistar um cliente e quando você perde, ainda mais um relevante, é muito ruim.\n[04:30] A gente odeia perder cliente, não tem nem que ver sobre isso.\n[04:34] Mas pensando em estruturação da empresa, como ela está hoje, perder um cliente faz com que eu aumente o meu caixa e com isso eu tenho uma necessidade de ir atrás de outros clientes.\n[04:48] Mas, assim, pensando em caixa, que é esse primeiro problema, imagina assim, eu tenho um corte hoje de um cliente, aumenta o meu caixa.\n[04:58] Então, hoje eu não tenho tanto problema de vida.\n[05:01] Mas por quê?\n[05:02] Você não vai ficar com, sei lá, vamos falar que você tinha 30 pessoas alocadas para aquele projeto.\n[05:09] Daí você perdeu esse cliente.\n[05:12] Talvez durante os próximos três meses, se ele tem um fluxo de pagamento para você de 90 dias, ele vai continuar te pagando, mas de certa forma aquelas pessoas vão ficar desalocadas.\n[05:25] Perfeito.\n[05:26] E daí depois de 90 dias você começa a ter um problema.\n[05:30] Se você não conseguir outro cliente.\n[05:32] Claro que, assim, a forma como a gente está estruturado hoje, a gente tem vazão para alocar muitos profissionais.\n[05:41] Então, a gente tem dentro da empresa quase 90% quando tem um término de um projeto, esses profissionais já são direcionados para outros.\n[05:51] A gente tem um...\n[05:52] Então, hoje você tem uma demanda infinita.\n[05:55] Eu tenho uma demanda infinita.\n[05:57] Você que não aceita cliente, então.\n[06:00] Sim.\n[06:00] Na maioria das vezes.\n[06:02] Projetos, isso daí foi algo que eu demorei para aprender.\n[06:06] Projetos, mesmo que paguem bem, que não tenha fit cultural com a empresa, a gente não pega.\n[06:13] Dá um exemplo.\n[06:14] Não precisa dar o exemplo do nome, mas dá um exemplo de algo que é um setor, empresa de construção.\n[06:21] Ou o que é o fit com vocês?\n[06:23] Empresa que não tenha maturidade com TI.\n[06:26] Uma empresa que está usando a tecnologia ou o aplicativo, a plataforma que vai ser desenvolvida como ponto principal para o negócio.\n[06:36] Vou explicar.\n[06:37] Ela não está usando a plataforma para escalar o negócio dela ou para movimentar o seu negócio.\n[06:44] Ela está usando o aplicativo como uma solução final.\n[06:47] Ela está imaginando...\n[06:49] Ela é uma empresa da solução.\n[06:51] É uma empresa da solução.\n[06:53] Você criar HubSpot.\n[06:54] Esse não é o teu trabalho.\n[06:56] Não é o meu trabalho.\n[06:58] Então, tem muita gente que vem...\n[07:00] Ou, por exemplo, ele vem e te pede um app de táxi.\n[07:04] É isso.\n[07:05] Porque no final, o aplicativo de táxi vai ser o que vai usar no dia a dia.\n[07:10] O cara não tem nada a ver com o táxi.\n[07:13] Não tem uma estruturação nenhuma.\n[07:15] Ele quer o aplicativo porque ele acha que vai conseguir fazer uma demanda ali de táxi.\n[07:22] Ele não vai conseguir.\n[07:23] Ele vai ser uma software house de startup.\n[07:26] Depende também.\n[07:27] É, empresa grande também tem esses pontos.\n[07:30] Mas, assim, startup tem mais, lógico.\n[07:33] Mas tem startup que vem bem estruturada.\n[07:36] Que você já tem a galera ali que já trabalhou no negócio.\n[07:40] Os caras já têm clientes, já têm base, já têm tudo.\n[07:44] Então, a plataforma vai servir para atender aquele negócio específico.\n[07:49] E não a plataforma ser o negócio.\n[07:52] Perfeito.\n[07:52] A gente entendeu que esse é um dos pontos, principal.\n[07:56] Quando chega assim, a gente já não pega.\n[07:59] Você sabe que vai ter dor de cabeça.\n[08:02] Não vai entregar o que o cara está esperando.\n[08:05] Ele vai culpar você.\n[08:07] O cara vai culpar a gente.\n[08:09] Ele vai colocar toda a expectativa daquele momento da vida dele na gente.\n[08:14] E não vai ser correspondido.\n[08:16] O projeto vai ser entregue e vai funcionar.\n[08:19] Mas depois disso...\n[08:21] Mas não é esse o problema.\n[08:23] O problema não é a tecnologia que você criou.\n[08:26] O problema é que não é a tecnologia que resolve.\n[08:29] A tecnologia é meio, não é fim.\n[08:32] É, nesse caso em si, a tecnologia tem que apoiar o negócio.\n[08:36] É um conjunto de fatores.\n[08:38] Não existe negócio sem tecnologia.\n[08:40] Não existe tecnologia sem negócio.\n[08:43] Tem que estar totalmente atrelado.\n[08:46] Tem que ter a necessidade...\n[08:48] Eu tenho mais uma aqui.\n[08:49] AI.\n[08:50] É um negócio que nos últimos 3, 4 anos tem evoluído muito.\n[08:54] Então você vê hoje cursor, várias ferramentas que ajudam os desenvolvedores a desenvolverem mais rápido.\n[09:01] Eu vi um post esses dias do Henrique do Bugras falando sobre isso.\n[09:06] Falando que ele faz com que o time dele utilize as ferramentas para codar.\n[09:12] Então os desenvolvedores...\n[09:14] Ele, cara, quero que vocês usem as ferramentas sim.\n[09:18] Mas eu quero que você revise e garante que esse código tem maturidade, tem qualidade, que tenha segurança e assim por diante.\n[09:27] E aqui no próprio G4, a gente tem desenvolvido muita coisa com AI.\n[09:32] Então uma pessoa que tem um conhecimento intermediário de desenvolvimento, um dev, ele consegue desenvolver ferramentas super completas.\n[09:42] Que no fim do dia é muito mais uma pessoa de negócios com um conhecimento de tecnologia que consegue desenvolver bem.\n[09:50] Depois ele passa pelo nosso time de segurança para garantir que está tudo redondo, para a gente não ter nenhum problema.\n[09:59] Mas a gente vê que o ganho de produtividade é relevante.\n[10:03] Como vocês têm visto o AI no negócio de vocês para ajudar o teu time de desenvolvimento a desenvolver mais rápido, melhor, mais eficiente?\n[10:14] Cara, para qualquer negócio.\n[10:16] Se não tiver AI daqui para frente, o negócio vai morrer.\n[10:20] Isso é fato.\n[10:21] E aí tem que ser utilizado para tudo.\n[10:23] Para todos os departamentos e todas as empresas.\n[10:27] Para desenvolvimento de software, a mesma coisa.\n[10:30] Se a gente não utilizar a velocidade e a forma como a AI pode ajudar em padrões, em formas que antes era muito manual, a gente também vai ter um problema.\n[10:42] Eu enxergo com muitos bons olhos essa evolução.\n[10:45] Antigamente, quando você olhava a evolução tecnológica como um todo, demorava muito.\n[10:52] Primeira máquina computacional ali que foi criada de computação, acho que foi em 1800, se não me engano.\n[10:59] Depois uma memória magnética foi quase 100 anos depois, em 1900.\n[11:04] Demorou 100 anos para",
+  "timestamps_estimated": true
+}

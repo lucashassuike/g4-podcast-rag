@@ -1,0 +1,299 @@
+{
+  "episode_id": "34748488514",
+  "title": "Ele Mudou o Jeito de Comprar e Alugar Imóveis - Com Alexandre Frankel (Vitacon e Housi) | Extremos",
+  "date_published": 1699002432,
+  "duration": 5376,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alexandre Frankel",
+      "role": "guest",
+      "company": "Vitacon",
+      "title": "Chairman"
+    },
+    {
+      "name": "Silvio Santos",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fred Trajano",
+      "role": "mentioned",
+      "company": "Magazine Luiza",
+      "title": "CEO"
+    },
+    {
+      "name": "Roberta",
+      "role": "mentioned",
+      "company": "Housi",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alexandre Frankel'S Brother",
+      "role": "mentioned",
+      "company": "Vitacom",
+      "title": "Executive"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Empresa mencionada como referência em educação para negócios"
+    },
+    {
+      "name": "Vitacon",
+      "industry": "Imobiliário",
+      "context": "Empresa fundada por Alexandre Frankel, mencionada no contexto de inovação no mercado imobiliário"
+    },
+    {
+      "name": "Housi",
+      "industry": "Imobiliário",
+      "context": "Plataforma mencionada como parte do trabalho de Alexandre Frankel"
+    },
+    {
+      "name": "Patagônia",
+      "industry": "Vestuário",
+      "context": "Marca de vestuário mencionada no contexto de roupas usadas pelos hosts"
+    },
+    {
+      "name": "North Face",
+      "industry": "Vestuário",
+      "context": "Marca de vestuário mencionada no contexto de roupas usadas pelos hosts"
+    },
+    {
+      "name": "Columbia",
+      "industry": "Vestuário",
+      "context": "Marca de vestuário mencionada no contexto de roupas usadas pelos hosts"
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Retail",
+      "context": "Discussed as an example of business transformation."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Food Delivery",
+      "context": "Mentioned in the context of logistical challenges in residential buildings."
+    },
+    {
+      "name": "Rappi",
+      "industry": "Delivery Services",
+      "context": "Mentioned in the context of delivery logistics and cultural differences in service."
+    },
+    {
+      "name": "Vitacom",
+      "industry": "Real Estate",
+      "context": "Compact apartment development and shared economy concepts"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Minimalismo",
+      "category": "Estilo de vida"
+    },
+    {
+      "name": "Disrupção no mercado imobiliário",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Eficiência no uso do tempo",
+      "category": "Produtividade"
+    },
+    {
+      "name": "Valor no metro quadrado",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "market fit",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "startup",
+      "category": "Business Model"
+    },
+    {
+      "name": "multipropriedade",
+      "category": "Real Estate"
+    },
+    {
+      "name": "club de assinatura de moradia",
+      "category": "Real Estate"
+    },
+    {
+      "name": "modelo das duas curvas",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Omnichannel",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Showrooming",
+      "category": "Consumer Behavior"
+    },
+    {
+      "name": "Marketing 3.0",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "RFV (Recency, Frequency, Monetary Value)",
+      "category": "Customer Analytics"
+    },
+    {
+      "name": "Metaverso",
+      "category": "Technology and Innovation"
+    },
+    {
+      "name": "economia compartilhada",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "co-working",
+      "category": "Business Concept"
+    },
+    {
+      "name": "lounge compartilhado",
+      "category": "Business Concept"
+    },
+    {
+      "name": "sala de jantar compartilhada",
+      "category": "Business Concept"
+    }
+  ],
+  "books": [
+    {
+      "title": "Como viver em São Paulo sem carro",
+      "author": "Alexandre Frankel"
+    },
+    {
+      "title": "Crise de Harvard",
+      "author": "Unknown"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "4%",
+      "context": "Participação da Vitacon nos imóveis gerenciados pela Housi"
+    },
+    {
+      "value": "1.5 billion BRL",
+      "context": "Annual revenue of Vitacon."
+    },
+    {
+      "value": "500,000",
+      "context": "Value of an apartment sold through an event in the Metaverse."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Fred Trajano",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Frankel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Housi",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Frankel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vitacon",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitacon",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Housi",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Frankel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vitacom",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Frankel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vitacom",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Frankel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Housi",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberta",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Housi",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Frankel'S Brother",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vitacom",
+      "target_type": "company"
+    }
+  ]
+}

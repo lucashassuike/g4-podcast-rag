@@ -1,0 +1,171 @@
+{
+  "episode_id": "40455338413",
+  "title": "[CORTE] \"MEU SONHO É ROBOTIZAR TUDO NA CONSTRUÇÃO CIVIL\"",
+  "date_published": 1753650000,
+  "duration": 566,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Vinícius",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento Empresarial",
+      "context": "Oferece programas de gestão estratégica e educação empresarial."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "robotização",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "gestão estratégica",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "industrialização na construção civil",
+      "category": "Construção Civil"
+    },
+    {
+      "name": "Steel Frame",
+      "category": "Método de Construção"
+    },
+    {
+      "name": "Lightwall",
+      "category": "Método de Construção"
+    },
+    {
+      "name": "impressão de casas",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "CRM",
+      "category": "Gestão de Relacionamento com Clientes"
+    },
+    {
+      "name": "life cycle",
+      "category": "Marketing e Vendas"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "6.8%",
+      "context": "Taxa de desemprego mencionada no Brasil."
+    },
+    {
+      "value": "quatro vezes mais",
+      "context": "Crescimento do faturamento da empresa de Vinícius após implementar estratégias aprendidas no G4 Educação."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Vinícius",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão Estratégica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vinícius",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Life Cycle",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vinícius",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Industrialização Na Construção Civil",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vinícius",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Vinícius",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Robotização",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vinícius",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Impressão De Casas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vinícius",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Crm",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vinícius",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lightwall",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vinícius",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Steel Frame",
+      "target_type": "concept"
+    }
+  ]
+}

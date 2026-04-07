@@ -1,0 +1,387 @@
+{
+  "episode_id": "34748488539",
+  "title": "Faça Marketing do Jeito Certo - Com Ricardo Dias | Extremos",
+  "date_published": 1695889800,
+  "duration": 3267,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Ricardo Dias",
+      "role": "guest",
+      "company": "Advent",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Anitta",
+      "role": "mentioned",
+      "company": "Anitta Enterprises",
+      "title": "Singer"
+    },
+    {
+      "name": "Geraldo Da Vetex",
+      "role": "mentioned",
+      "company": "Vetex",
+      "title": ""
+    },
+    {
+      "name": "Mr. Beast",
+      "role": "mentioned",
+      "company": "MrBeast Burger",
+      "title": "Content Creator"
+    },
+    {
+      "name": "Casimiro Miguel",
+      "role": "mentioned",
+      "company": "Casimiro Channel",
+      "title": "Content Creator"
+    },
+    {
+      "name": "Gustavo Lima",
+      "role": "mentioned",
+      "company": "Gustavo Lima Music",
+      "title": "Singer"
+    },
+    {
+      "name": "Ludmilla",
+      "role": "mentioned",
+      "company": "Ludmilla Music",
+      "title": "Singer"
+    },
+    {
+      "name": "João Dolpac",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Student"
+    },
+    {
+      "name": "Gil Do Vigor",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Juliette",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rony",
+      "role": "mentioned",
+      "company": "Reserva",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Plataforma de treinamentos de times e liderança."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Beverages",
+      "context": "Ricardo Dias foi VP de marketing global e trabalhou por 20 anos na empresa."
+    },
+    {
+      "name": "Ab Inbev",
+      "industry": "Beverages",
+      "context": "Controladora da Ambev mencionada por Ricardo Dias."
+    },
+    {
+      "name": "Advent",
+      "industry": "Private Equity",
+      "context": "Ricardo Dias mencionou sua experiência empreendendo na Advent."
+    },
+    {
+      "name": "Vetex",
+      "industry": "Technology",
+      "context": "Geraldo da Vetex foi mencionado em relação ao Brasil Conference."
+    },
+    {
+      "name": "Vitex",
+      "industry": "E-commerce",
+      "context": "Ricardo Dias sold his company to Vitex."
+    },
+    {
+      "name": "Rappi",
+      "industry": "Delivery Services",
+      "context": "Bruno Nardon mentioned his time at Rappi."
+    },
+    {
+      "name": "Adventures",
+      "industry": "Marketing and Advertising",
+      "context": "Ricardo Dias founded Adventures."
+    },
+    {
+      "name": "Desenchar",
+      "industry": "Health and Wellness",
+      "context": "Mentioned as a case study of influencer-driven branding."
+    },
+    {
+      "name": "Super Coffee",
+      "industry": "Health and Wellness",
+      "context": "Mentioned as a case study of influencer-driven branding."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Banking",
+      "context": "Mentioned in relation to marketing campaigns"
+    },
+    {
+      "name": "Santander",
+      "industry": "Banking",
+      "context": "Mentioned in relation to marketing campaigns"
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Banking",
+      "context": "Mentioned in relation to marketing campaigns"
+    },
+    {
+      "name": "Reserva",
+      "industry": "Retail",
+      "context": "Discussed in relation to CRM practices"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Meritocracia",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Marketing de influência",
+      "category": "Marketing"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Marketing",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Share of Voice",
+      "category": "Marketing Metrics"
+    },
+    {
+      "name": "Influencer Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Customer Acquisition",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "DNVB (Digitally Native Vertical Brands)",
+      "category": "Business Model"
+    },
+    {
+      "name": "D2C (Direct-to-Consumer)",
+      "category": "Business Model"
+    },
+    {
+      "name": "CRM (Customer Relationship Management)",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "100 million subscribers",
+      "context": "Mr. Beast's main channel subscriber count."
+    },
+    {
+      "value": "50 million subscribers",
+      "context": "Additional channels of Mr. Beast."
+    },
+    {
+      "value": "80 employees",
+      "context": "Adventures team size."
+    },
+    {
+      "value": "100 million BRL annual revenue",
+      "context": "João Dolpac's company revenue."
+    },
+    {
+      "value": "100 milhões por ano",
+      "context": "Annual revenue of a referenced company"
+    },
+    {
+      "value": "100 milhões de consumidores",
+      "context": "Number of consumers of Ambev annually"
+    },
+    {
+      "value": "30 mil consumidores conhecidos",
+      "context": "Number of consumers Ambev has detailed data on"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Advent",
+      "target_type": "company"
+    },
+    {
+      "source": "Geraldo Da Vetex",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vetex",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Meritocracia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marketing De Influência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rony",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Reserva",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gil Do Vigor",
+      "target_type": "person"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Juliette",
+      "target_type": "person"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Empreendedorismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "sold_to",
+      "target": "Vitex",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Super Coffee",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ab Inbev",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Advent",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Anitta",
+      "target_type": "person"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Adventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Adventures",
+      "target_type": "company"
+    }
+  ]
+}

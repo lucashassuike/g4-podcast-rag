@@ -1,0 +1,162 @@
+{
+  "episode_id": "46933769507",
+  "title": "PEDRO JANOT - CONSELHEIRO E SÓCIO GRUPO SOLUM",
+  "date_published": 1765983600,
+  "duration": 3916,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Pedro Janot",
+      "role": "guest",
+      "company": "Grupo Solum",
+      "title": "Conselheiro e Sócio"
+    },
+    {
+      "name": "Débora",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "David Emilion",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Carlinhos",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Maria Cândida",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Zara",
+      "industry": "Fashion Retail",
+      "context": "Discussed as a global fashion retailer with operations in Brazil and its adaptation to the local market."
+    },
+    {
+      "name": "Richards",
+      "industry": "Fashion Retail",
+      "context": "Discussed as a prominent Brazilian fashion brand."
+    },
+    {
+      "name": "Osklen",
+      "industry": "Fashion Retail",
+      "context": "Mentioned as a Brazilian fashion brand."
+    },
+    {
+      "name": "C&A",
+      "industry": "Fashion Retail",
+      "context": "Mentioned as a retail company providing consumer insights."
+    },
+    {
+      "name": "Renner",
+      "industry": "Fashion Retail",
+      "context": "Mentioned as a retail company providing consumer insights."
+    },
+    {
+      "name": "Grupo Solum",
+      "industry": "Investimentos e Consultoria",
+      "context": "Pedro Janot é conselheiro e sócio do Grupo Solum."
+    },
+    {
+      "name": "Azul Linhas Aéreas",
+      "industry": "Aviação",
+      "context": "Pedro Janot mencionou sua experiência na Azul como referência para criar uma empresa de eventos."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Consumer Behavior Analysis",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Retail Operations",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Adaptation of Business Models",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Leadership and People Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Premier Vision",
+      "category": "Fashion Industry Event"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Multigeracional",
+      "category": "Gestão de Pessoas"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "140 countries",
+      "context": "Zara's global presence."
+    },
+    {
+      "value": "13 countries",
+      "context": "Zara's initial presence before expansion."
+    },
+    {
+      "value": "66 anos",
+      "context": "Idade de Pedro Janot mencionada durante o episódio."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Pedro Janot",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Solum",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Janot",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "David Emilion",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Janot",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Richards",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Janot",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Zara",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Janot",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Azul Linhas Aéreas",
+      "target_type": "company"
+    }
+  ]
+}

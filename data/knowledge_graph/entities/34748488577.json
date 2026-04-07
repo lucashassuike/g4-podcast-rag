@@ -1,0 +1,267 @@
+{
+  "episode_id": "34748488577",
+  "title": "Ana Couto - Como Construir uma Marca Forte | Sem Atalhos",
+  "date_published": 1688374800,
+  "duration": 3755,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Ana Couto",
+      "role": "guest",
+      "company": "Ana Couto Branding",
+      "title": "Fundadora e Especialista em Branding"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "Apple",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Heráclito",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gilles Deleuze",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Félix Guattari",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de educação e desenvolvimento de negócios"
+    },
+    {
+      "name": "Fedex",
+      "industry": "Logística e Transporte",
+      "context": "Exemplo de aplicação de branding em pontos de contato"
+    },
+    {
+      "name": "Ibm",
+      "industry": "Tecnologia",
+      "context": "Exemplo de branding estratégico e cultural"
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Exemplo de marca forte e icônica com estratégia clara e consistente."
+    },
+    {
+      "name": "Samsung",
+      "industry": "Tecnologia",
+      "context": "Exemplo de marca com estratégia de marca forte."
+    },
+    {
+      "name": "Disney",
+      "industry": "Entretenimento",
+      "context": "Exemplo de diversificação de negócios com segmento imobiliário nos EUA."
+    },
+    {
+      "name": "Coca-Cola",
+      "industry": "Bebidas",
+      "context": "Exemplo de empresa global com framework claro."
+    },
+    {
+      "name": "Procter & Gamble",
+      "industry": "Bens de consumo",
+      "context": "Exemplo de empresa global com framework claro."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Framework",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Branding",
+      "category": "Gestão de Marca"
+    },
+    {
+      "name": "Propósito Organizacional",
+      "category": "Cultura e Estratégia Empresarial"
+    },
+    {
+      "name": "Jornada do Consumidor",
+      "category": "Marketing e Experiência do Cliente"
+    },
+    {
+      "name": "Execução Estratégica",
+      "category": "Gestão e Operações"
+    },
+    {
+      "name": "Brand equity",
+      "category": "Marketing"
+    },
+    {
+      "name": "Posicionamento de marca",
+      "category": "Marketing"
+    },
+    {
+      "name": "Posicionamento de produto",
+      "category": "Marketing"
+    },
+    {
+      "name": "Ondas de valor do branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Awareness",
+      "category": "Marketing"
+    },
+    {
+      "name": "Gestão de valor",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Funil de vendas",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Marca pessoal",
+      "category": "Branding"
+    },
+    {
+      "name": "Jornada do cliente",
+      "category": "Experiência do cliente"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "65%",
+      "context": "Proporção de leads e receita gerados pelo Instagram do G4 Educação."
+    },
+    {
+      "value": "65%",
+      "context": "Proporção de leads e receita provenientes de leads sociais para o G4 Educação."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ibm",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Steve Jobs",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fedex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Educação E Treinamento",
+      "target_type": "company"
+    },
+    {
+      "source": "Ana Couto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ana Couto Branding",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

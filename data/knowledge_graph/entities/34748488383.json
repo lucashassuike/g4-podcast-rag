@@ -1,0 +1,275 @@
+{
+  "episode_id": "34748488383",
+  "title": "COMO INOVAR EM UM MERCADO TRADICIONAL? - COM ALEXANDRE FRANKEL (HOUSI) | PAPO DE GESTÃO",
+  "date_published": 1729497600,
+  "duration": 3889,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alexandre Frankel",
+      "role": "guest",
+      "company": "Housi",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Denis Wang",
+      "role": "mentioned",
+      "company": "Rappi",
+      "title": "Executive"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Housi",
+      "industry": "Real Estate",
+      "context": "Empresa fundada por Alexandre Frankel focada em moradia como serviço."
+    },
+    {
+      "name": "Vitacom",
+      "industry": "Real Estate",
+      "context": "Empresa anterior de Alexandre Frankel, pioneira em moradia compacta."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Plataforma de educação para empreendedores, co-fundada pelos hosts do podcast."
+    },
+    {
+      "name": "Rappi",
+      "industry": "Delivery",
+      "context": "Empresa mencionada no contexto de moradia e aluguel."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Exemplo de empresa que realizou uma curva de crescimento bem-sucedida."
+    },
+    {
+      "name": "Nestlé",
+      "industry": "Food and Beverage",
+      "context": "Exemplo de inovação com a criação da Nespresso."
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entertainment",
+      "context": "Exemplo de transformação de modelo de negócios de DVDs para streaming."
+    },
+    {
+      "name": "Blockbuster",
+      "industry": "Entertainment",
+      "context": "Competitor to Netflix in the DVD rental market."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Moradia como serviço",
+      "category": "Business Model"
+    },
+    {
+      "name": "Tokenização",
+      "category": "Technology"
+    },
+    {
+      "name": "Living as a Service",
+      "category": "Business Model"
+    },
+    {
+      "name": "Crescimento exponencial",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Data-driven",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Zona de desconforto",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Resilience",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Discipline",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Long-term Planning",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Short-term Planning",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "PDCA (Plan-Do-Check-Act)",
+      "category": "Business Process"
+    },
+    {
+      "name": "Fit Cultural",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Startup Development",
+      "category": "Business Growth"
+    },
+    {
+      "name": "Ironman 70.3",
+      "category": "Sports"
+    },
+    {
+      "name": "G4 Gestão e Estratégia",
+      "category": "Education Program"
+    },
+    {
+      "name": "disciplina",
+      "category": "habilidade pessoal"
+    },
+    {
+      "name": "consistência",
+      "category": "habilidade pessoal"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "80 cidades",
+      "context": "Número de cidades visitadas por Alexandre Frankel em um ano para entender diferentes culturas e mercados."
+    },
+    {
+      "value": "200 cities",
+      "context": "Housi operates in 200 cities across Brazil."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Netflix",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Transformação De Modelo De Negócios",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitacom",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Housi",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Frankel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Housi",
+      "target_type": "company"
+    },
+    {
+      "source": "Nestlé",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Nespresso",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Netflix",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Blockbuster",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Frankel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vitacom",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Frankel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Housi",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alexandre Frankel",
+      "target_type": "person"
+    },
+    {
+      "source": "Denis Wang",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Nestlé",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Inovação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Curva De Crescimento",
+      "target_type": "company"
+    }
+  ]
+}

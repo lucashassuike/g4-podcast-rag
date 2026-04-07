@@ -1,0 +1,647 @@
+{
+  "episode_id": "34748488533",
+  "title": "Aumente as suas Vendas Ouvindo o seu Cliente - Com Theo Orosco | Extremos",
+  "date_published": 1696581000,
+  "duration": 4505,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Theo Orosco",
+      "role": "guest",
+      "company": "Exact Sales",
+      "title": "Fundador e CEO"
+    },
+    {
+      "name": "Roman",
+      "role": "mentioned",
+      "company": "Exact Sales",
+      "title": "Sócio de Theo Orosco"
+    },
+    {
+      "name": "Fred Gelli",
+      "role": "mentioned",
+      "company": "Tátil Design",
+      "title": "Founder"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "Apple Inc.",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "Fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Isaac Newton",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cientista"
+    },
+    {
+      "name": "Michael Jordan",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta"
+    },
+    {
+      "name": "Nicolau",
+      "role": "mentioned",
+      "company": "",
+      "title": "Colaborador"
+    },
+    {
+      "name": "Aaron Ross",
+      "role": "mentioned",
+      "company": "Salesforce",
+      "title": "Author"
+    },
+    {
+      "name": "Ernesto Haberkorn",
+      "role": "mentioned",
+      "company": "TOTVS",
+      "title": "Founder"
+    },
+    {
+      "name": "Miguel Abuhab",
+      "role": "mentioned",
+      "company": "NeoGrid",
+      "title": "Founder"
+    },
+    {
+      "name": "Chris Yeh",
+      "role": "mentioned",
+      "company": "LinkedIn",
+      "title": "Author of Blitzscaling"
+    },
+    {
+      "name": "Reid Hoffman",
+      "role": "mentioned",
+      "company": "LinkedIn",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de treinamentos e mentoria para negócios"
+    },
+    {
+      "name": "Exact Sales",
+      "industry": "Tecnologia e Vendas",
+      "context": "Empresa especializada em soluções de vendas e coleta de dados"
+    },
+    {
+      "name": "Sap",
+      "industry": "Tecnologia",
+      "context": "Cliente mencionado como exemplo de empresa global"
+    },
+    {
+      "name": "Thompson",
+      "industry": "Tecnologia",
+      "context": "Cliente mencionado como exemplo de empresa global"
+    },
+    {
+      "name": "Dr. Al",
+      "industry": "Tecnologia",
+      "context": "Cliente mencionado como exemplo de empresa global"
+    },
+    {
+      "name": "Vl Laser",
+      "industry": "Laser Machines",
+      "context": "First company founded by Theo Orosco, focused on laser machines for industrial use."
+    },
+    {
+      "name": "Nanovetores",
+      "industry": "Nanotechnology",
+      "context": "Second company founded by Theo Orosco, focused on nanotechnology solutions for various applications."
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosmetics",
+      "context": "Client mentioned in the context of Nanovetores' sales strategy."
+    },
+    {
+      "name": "Unilever",
+      "industry": "Consumer Goods",
+      "context": "Client mentioned in the context of 2x1's design services."
+    },
+    {
+      "name": "Procter & Gamble",
+      "industry": "Consumer Goods",
+      "context": "Client mentioned in the context of 2x1's design services."
+    },
+    {
+      "name": "Globo",
+      "industry": "Mídia e Entretenimento",
+      "context": "Cliente da Exact Sales mencionado por Theo Orosco."
+    },
+    {
+      "name": "Philips",
+      "industry": "Eletrônicos e Saúde",
+      "context": "Cliente da Exact Sales mencionado por Theo Orosco."
+    },
+    {
+      "name": "Totus",
+      "industry": "Tecnologia e Software",
+      "context": "Cliente da Exact Sales mencionado por Theo Orosco."
+    },
+    {
+      "name": "Basf",
+      "industry": "Química",
+      "context": "Cliente da Exact Sales mencionado por Theo Orosco."
+    },
+    {
+      "name": "2 Para 1",
+      "industry": "Design e Consultoria",
+      "context": "Empresa mencionada por Theo Orosco em projetos de design e empatização."
+    },
+    {
+      "name": "Meno",
+      "industry": "Produtos para Escritório",
+      "context": "Cliente da 2 para 1 mencionado por Theo Orosco."
+    },
+    {
+      "name": "C&A",
+      "industry": "Retail",
+      "context": "Mentioned in context of sales strategies"
+    },
+    {
+      "name": "Totvs",
+      "industry": "Enterprise Software",
+      "context": "Mentioned as a company founded by Ernesto Haberkorn."
+    },
+    {
+      "name": "Neogrid",
+      "industry": "Supply Chain Management",
+      "context": "Mentioned as a company founded by Miguel Abuhab."
+    },
+    {
+      "name": "Linkedin",
+      "industry": "Social Networking",
+      "context": "Mentioned in relation to Chris Yeh and Reid Hoffman."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Trilha de liderança",
+      "category": "Treinamento"
+    },
+    {
+      "name": "Proatividade",
+      "category": "Habilidade de vendas"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Habilidade de vendas"
+    },
+    {
+      "name": "Coachability",
+      "category": "Habilidade de vendas"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métrica de satisfação"
+    },
+    {
+      "name": "Rice",
+      "category": "Framework de priorização"
+    },
+    {
+      "name": "Coleta ativa de dados",
+      "category": "Tecnologia de vendas"
+    },
+    {
+      "name": "Personalização em massa",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Pré-vendas",
+      "category": "Sales Process"
+    },
+    {
+      "name": "Custo de Aquisição de Cliente (CAC)",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Máquina de aprendizado",
+      "category": "Technology"
+    },
+    {
+      "name": "Produto Mínimo Viável (MVP)",
+      "category": "Product Development"
+    },
+    {
+      "name": "Framework de Impacto e Esforço",
+      "category": "Business Framework"
+    },
+    {
+      "name": "Design Thinking",
+      "category": "Metodologia"
+    },
+    {
+      "name": "Empatização",
+      "category": "Metodologia"
+    },
+    {
+      "name": "Prototipação",
+      "category": "Metodologia"
+    },
+    {
+      "name": "Inbound Marketing",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Prospecção Ativa",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "Mídia Tradicional",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Efeito Cotovelo",
+      "category": "Conceito Organizacional"
+    },
+    {
+      "name": "MVP (Minimum Viable Product)",
+      "category": "Framework"
+    },
+    {
+      "name": "Prototipagem",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Enablement",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Mídia offline",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Impacto",
+      "category": "Métrica"
+    },
+    {
+      "name": "Growth",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Sales Ops",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Test AB",
+      "category": "Experimentation"
+    },
+    {
+      "name": "Padronização de Processos",
+      "category": "Operational Efficiency"
+    },
+    {
+      "name": "Mindfulness",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Culture of Entrepreneurship",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "Sales Process Optimization",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Exact Network",
+      "category": "Event"
+    },
+    {
+      "name": "MRR (Monthly Recurring Revenue)",
+      "category": "Business Metric"
+    },
+    {
+      "name": "ARR (Annual Recurring Revenue)",
+      "category": "Business Metric"
+    }
+  ],
+  "books": [
+    {
+      "title": "De 0 a 50 milhões",
+      "author": "Theo Orosco"
+    },
+    {
+      "title": "Sonho Grande",
+      "author": "Cristiane Correa"
+    },
+    {
+      "title": "A Grande Aposta",
+      "author": "Michael Lewis"
+    },
+    {
+      "title": "Em Busca da Felicidade",
+      "author": "Chris Gardner"
+    },
+    {
+      "title": "Receita Previsível",
+      "author": "Aaron Ross"
+    },
+    {
+      "title": "Blitzscaling",
+      "author": "Chris Yeh and Reid Hoffman"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7 dias gratuitos",
+      "context": "Período de teste do G4 Skills"
+    },
+    {
+      "value": "10 mil pessoas",
+      "context": "Tamanho da audiência na primeira palestra de Theo Orosco"
+    },
+    {
+      "value": "8 NPS 10 em 9 oportunidades",
+      "context": "Desempenho de Theo Orosco como mentor do G4 Sales"
+    },
+    {
+      "value": "4%",
+      "context": "Initial conversion rate of VL Laser's sales meetings."
+    },
+    {
+      "value": "10.6 milhões",
+      "context": "Revenue achieved by VL Laser after implementing new sales strategies."
+    },
+    {
+      "value": "6 meses",
+      "context": "Tempo mencionado como inviável para startups fecharem contratos em grandes empresas."
+    },
+    {
+      "value": "8 segundos",
+      "context": "Tempo médio para uma pessoa proativa abrir uma conversa, segundo estudo de Harvard."
+    },
+    {
+      "value": "14 seconds",
+      "context": "Time taken by top-performing salespeople to respond"
+    },
+    {
+      "value": "13 seconds",
+      "context": "Maximum time for effective sales response"
+    },
+    {
+      "value": "40-50 million BRL",
+      "context": "Annual revenue of Exact Sales."
+    },
+    {
+      "value": "2 million BRL",
+      "context": "Monthly Recurring Revenue (MRR) of Exact Sales."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vl Laser",
+      "target_type": "company"
+    },
+    {
+      "source": "Exact Sales",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nanovetores",
+      "target_type": "company"
+    },
+    {
+      "source": "Nanovetores",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "2X1",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Procter & Gamble",
+      "target_type": "company"
+    },
+    {
+      "source": "Chris Yeh",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Blitzscaling",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ernesto Haberkorn",
+      "target_type": "person"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "De 0 A 50 Milhões",
+      "target_type": "company"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Receita Previsível",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Reid Hoffman",
+      "target_type": "person"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Exact Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Exact Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Exact Sales",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Basf",
+      "target_type": "company"
+    },
+    {
+      "source": "Exact Sales",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Philips",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Chris Yeh",
+      "target_type": "person"
+    },
+    {
+      "source": "Exact Sales",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Totus",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Miguel Abuhab",
+      "target_type": "person"
+    },
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Neogrid",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "collaborates_with",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Exact Sales",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Coleta Ativa De Dados",
+      "target_type": "concept"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "2 Para 1",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "2X1",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Unilever",
+      "target_type": "company"
+    },
+    {
+      "source": "Steve Jobs",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Apple Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "Ernesto Haberkorn",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Totvs",
+      "target_type": "company"
+    },
+    {
+      "source": "Reid Hoffman",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Blitzscaling",
+      "target_type": "company"
+    }
+  ]
+}

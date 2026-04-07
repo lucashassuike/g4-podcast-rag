@@ -1,0 +1,379 @@
+{
+  "episode_id": "37883132249",
+  "title": "IRONMAN DA VIDA REAL: COMO SER EMPREENDEDOR E ATLETA | A JORNADA",
+  "date_published": 1748336400,
+  "duration": 6499,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "João Pedro Perpetuo",
+      "role": "guest",
+      "company": "Hiperlocal",
+      "title": "CFO"
+    },
+    {
+      "name": "Caio Vinícius Souza",
+      "role": "guest",
+      "company": "Limeyard",
+      "title": "Treinador"
+    },
+    {
+      "name": "Denis Wang",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Caio",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Amanda",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Denis",
+      "role": "guest",
+      "company": "Linear",
+      "title": "Professor"
+    },
+    {
+      "name": "Dennis",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marina",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Michael Phelps",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Enzo Toma",
+      "role": "mentioned",
+      "company": "",
+      "title": "Son of a doctor"
+    },
+    {
+      "name": "Silvia",
+      "role": "mentioned",
+      "company": "Linear",
+      "title": "Athlete"
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "Linear",
+      "title": "Athlete"
+    },
+    {
+      "name": "Vinícius",
+      "role": "mentioned",
+      "company": "Linear",
+      "title": "Athlete"
+    },
+    {
+      "name": "Léo",
+      "role": "mentioned",
+      "company": "Linear",
+      "title": "Athlete"
+    },
+    {
+      "name": "Jv",
+      "role": "mentioned",
+      "company": "",
+      "title": "Mascot"
+    },
+    {
+      "name": "Bruno",
+      "role": "host",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Hiperlocal",
+      "industry": "Tecnologia",
+      "context": "Empresa onde João Pedro Perpetuo é CFO"
+    },
+    {
+      "name": "Limeyard",
+      "industry": "Treinamento esportivo",
+      "context": "Empresa associada ao treinador Caio Vinícius Souza"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Plataforma de educação para empreendedores"
+    },
+    {
+      "name": "Linear",
+      "industry": "Sports Training",
+      "context": "Triathlon training group"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Ironman",
+      "category": "Evento esportivo"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Habilidade pessoal"
+    },
+    {
+      "name": "Conciliar trabalho e treino",
+      "category": "Desafio pessoal"
+    },
+    {
+      "name": "liderança genuína",
+      "category": "Gestão"
+    },
+    {
+      "name": "qualidade de vida",
+      "category": "Bem-estar"
+    },
+    {
+      "name": "triatlo",
+      "category": "Esporte"
+    },
+    {
+      "name": "sub-3",
+      "category": "Metas pessoais"
+    },
+    {
+      "name": "periodização",
+      "category": "treinamento esportivo"
+    },
+    {
+      "name": "70.3",
+      "category": "evento esportivo"
+    },
+    {
+      "name": "treino direcionado",
+      "category": "estratégia de treinamento"
+    },
+    {
+      "name": "estratégia de prova",
+      "category": "planejamento esportivo"
+    },
+    {
+      "name": "Periodization",
+      "category": "Training Strategy"
+    },
+    {
+      "name": "Neuromuscular Stimulus",
+      "category": "Physiology"
+    },
+    {
+      "name": "Glycogen Accumulation",
+      "category": "Physiology"
+    },
+    {
+      "name": "Psychological Preparation",
+      "category": "Mental Training"
+    },
+    {
+      "name": "Prova de montanha",
+      "category": "Sports"
+    },
+    {
+      "name": "Abdicação para esportes",
+      "category": "Lifestyle"
+    }
+  ],
+  "books": [
+    {
+      "title": "Can't Hurt Me",
+      "author": "David Goggins"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "4:32",
+      "context": "Tempo de João Pedro Perpetuo no 70.3 de Brasília"
+    },
+    {
+      "value": "120km",
+      "context": "Distância percorrida em prova de ciclismo"
+    },
+    {
+      "value": "17-20% inclinação",
+      "context": "Inclinação média e máxima em subida de ciclismo"
+    },
+    {
+      "value": "180 km",
+      "context": "distância de prova Ironman"
+    },
+    {
+      "value": "100 km",
+      "context": "distância de treino mencionado"
+    },
+    {
+      "value": "70.3",
+      "context": "distância de prova específica mencionada"
+    },
+    {
+      "value": "4 hours and 30 minutes",
+      "context": "Completion time for 70.3 triathlon"
+    },
+    {
+      "value": "7-8 people",
+      "context": "Number of participants from Linear in the Ironman"
+    },
+    {
+      "value": "7",
+      "context": "Number of people from Linear participating in the activity"
+    },
+    {
+      "value": "2019",
+      "context": "Year referenced for personal improvement"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Linear",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Triathlon Training",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Pedro",
+      "target_type": "person"
+    },
+    {
+      "source": "Caio",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Bruno Nardon",
+      "target_type": "person"
+    },
+    {
+      "source": "João Pedro Perpetuo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hiperlocal",
+      "target_type": "company"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Léo",
+      "target_type": "person"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jv",
+      "target_type": "person"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Silvia",
+      "target_type": "person"
+    },
+    {
+      "source": "Michael Phelps",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Under Armour",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Vinícius Souza",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Limeyard",
+      "target_type": "company"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Vinícius",
+      "target_type": "person"
+    },
+    {
+      "source": "Caio",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Dennis",
+      "target_type": "person"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Prova De Montanha",
+      "target_type": "concept"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Caio",
+      "target_type": "person"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Linear",
+      "target_type": "company"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Abdicação Para Esportes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Enzo Toma",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Doctor",
+      "target_type": "company"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Linear",
+      "target_type": "company"
+    }
+  ]
+}

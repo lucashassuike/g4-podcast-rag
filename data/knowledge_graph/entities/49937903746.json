@@ -1,0 +1,279 @@
+{
+  "episode_id": "49937903746",
+  "title": "ALESSANDRO CUNHA: COMO LUCRAR NO SETOR DE ENERGIA NO BRASIL | EXTREMOS",
+  "date_published": 1770822174,
+  "duration": 3932,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Alessandro Cunha",
+      "role": "guest",
+      "company": "Grupo BC Energia",
+      "title": "Fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Plataforma de educação para negócios e empreendedorismo"
+    },
+    {
+      "name": "Grupo Bc Energia",
+      "industry": "Energia",
+      "context": "Empresa de comercialização, geração e consultoria no setor elétrico"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Tecnologia e Alimentação",
+      "context": "Plataforma de delivery e benefícios corporativos"
+    },
+    {
+      "name": "B.O.",
+      "industry": "Energy Storage",
+      "context": "Developing battery storage solutions for energy management."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Alavancagem Financeira",
+      "category": "Finanças"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finanças"
+    },
+    {
+      "name": "Custo de Capital",
+      "category": "Finanças"
+    },
+    {
+      "name": "Equity",
+      "category": "Finanças"
+    },
+    {
+      "name": "Capital de Terceiros",
+      "category": "Finanças"
+    },
+    {
+      "name": "Capital próprio",
+      "category": "Finanças"
+    },
+    {
+      "name": "ROI (Return on Investment)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Controladoria",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "CAE (Custo de Oportunidade do Capital Próprio)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Leasing",
+      "category": "Finanças"
+    },
+    {
+      "name": "Custo médio ponderado de capital (WACC)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Energia fotovoltaica",
+      "category": "Energia Renovável"
+    },
+    {
+      "name": "Energia eólica",
+      "category": "Energia Renovável"
+    },
+    {
+      "name": "Energia termoelétrica",
+      "category": "Energia"
+    },
+    {
+      "name": "Energia hidrelétrica",
+      "category": "Energia"
+    },
+    {
+      "name": "Gestão empresarial",
+      "category": "Gestão"
+    },
+    {
+      "name": "Empreendedorismo no Brasil",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Regulação do setor de energia",
+      "category": "Política e Regulação"
+    },
+    {
+      "name": "Energy Storage",
+      "category": "Technology"
+    },
+    {
+      "name": "Solar Energy",
+      "category": "Renewable Energy"
+    },
+    {
+      "name": "B2C",
+      "category": "Business Model"
+    },
+    {
+      "name": "Industrial Energy Consumption",
+      "category": "Energy Management"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10 mil",
+      "context": "Número de clientes do Grupo BC Energia"
+    },
+    {
+      "value": "600 milhões",
+      "context": "Economia gerada para os clientes do Grupo BC Energia"
+    },
+    {
+      "value": "1 bilhão",
+      "context": "Meta de economia até 2027 para o Grupo BC Energia"
+    },
+    {
+      "value": "50 megawatts",
+      "context": "Capacidade de operação do Grupo BC Energia"
+    },
+    {
+      "value": "3 milhões por mês",
+      "context": "Faturamento inicial da unidade de varejo do Grupo BC Energia ao ingressar no G4 Educação"
+    },
+    {
+      "value": "10 milhões por mês",
+      "context": "Faturamento atual da unidade de varejo do Grupo BC Energia"
+    },
+    {
+      "value": "120 milhões",
+      "context": "Investimento em geração de energia em 2020 e 2021 pelo Grupo BC Energia"
+    },
+    {
+      "value": "650 mil",
+      "context": "Valor de aluguel pago pelo G4 Educação."
+    },
+    {
+      "value": "50 megas",
+      "context": "Meta de geração de energia em 2020."
+    },
+    {
+      "value": "6 megas",
+      "context": "Capacidade inicial de geração de energia em 2020."
+    },
+    {
+      "value": "83%",
+      "context": "Proporção de capital de terceiros na alavancagem financeira."
+    },
+    {
+      "value": "17%",
+      "context": "Proporção de capital próprio na alavancagem financeira."
+    },
+    {
+      "value": "22 vezes",
+      "context": "Dívida líquida por EBITDA permitida em contrato de banco no primeiro ano."
+    },
+    {
+      "value": "5 batteries installed",
+      "context": "Initial testing phase for battery storage solutions."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Tecnologia E Alimentação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Bc Energia",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Energia",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "hosts",
+      "target": "Alessandro Cunha",
+      "target_type": "person"
+    },
+    {
+      "source": "Alessandro Cunha",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Bc Energia",
+      "target_type": "company"
+    },
+    {
+      "source": "Alessandro Cunha",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "B.O.",
+      "target_type": "company"
+    },
+    {
+      "source": "Alessandro Cunha",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

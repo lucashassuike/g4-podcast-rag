@@ -1,0 +1,329 @@
+{
+  "episode_id": "34748488486",
+  "title": "TATUAPÉ CONCEITO E O IMPÉRIO DAS MARCAS DE LUXO - COM BRUNO VINÍCIUS (TATUAPÉ CONCEITO) | EXTREMOS",
+  "date_published": 1702976400,
+  "duration": 4915,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Vinícius",
+      "role": "guest",
+      "company": "Itatuapé Concepts",
+      "title": "Founder and CEO"
+    },
+    {
+      "name": "Lucas Hilton",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Deolane",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Oruan",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Daniel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empresário"
+    },
+    {
+      "name": "Rian",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Edu Lyra",
+      "role": "mentioned",
+      "company": "Gerando Falcões",
+      "title": "Fundador"
+    },
+    {
+      "name": "Whindersson Nunes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thiago Tk",
+      "role": "mentioned",
+      "company": "TK",
+      "title": "Empresário"
+    },
+    {
+      "name": "Pabllo Marçal",
+      "role": "mentioned",
+      "company": "",
+      "title": "Visionário"
+    },
+    {
+      "name": "Jj",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empresário"
+    },
+    {
+      "name": "Flávio Augusto",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empresário"
+    },
+    {
+      "name": "Virginia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influenciadora"
+    },
+    {
+      "name": "Boca Rosa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influenciadora"
+    },
+    {
+      "name": "Caíto Maia",
+      "role": "mentioned",
+      "company": "Chilli Beans",
+      "title": "Empresário"
+    },
+    {
+      "name": "Mc Rian",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artista"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Clivo",
+      "industry": "Healthcare",
+      "context": "Founded by Marcelo Toledo"
+    },
+    {
+      "name": "Itatuapé Concepts",
+      "industry": "Fashion and Retail",
+      "context": "Founded and led by Bruno Vinícius"
+    },
+    {
+      "name": "Tatuapé Conceito",
+      "industry": "Moda e Luxo",
+      "context": "Empresa de moda e luxo mencionada como foco principal do convidado Bruno Vinícius."
+    },
+    {
+      "name": "Gerando Falcões",
+      "industry": "Social",
+      "context": "Organização social mencionada como potencial parceira para projetos sociais."
+    },
+    {
+      "name": "Canui",
+      "industry": "E-commerce",
+      "context": "Empresa de e-commerce mencionada como exemplo de operação de marketplace e marca própria."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Competitor in volume-based retail"
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Retail",
+      "context": "Competitor in volume-based retail"
+    },
+    {
+      "name": "Chilli Beans",
+      "industry": "Retail",
+      "context": "Eyewear and accessories"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Leadership Development",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Business Model"
+    },
+    {
+      "name": "Social Media Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Luxury Fashion",
+      "category": "Industry"
+    },
+    {
+      "name": "Pandemic Impact on Retail",
+      "category": "Market Dynamics"
+    },
+    {
+      "name": "Marketing de Influência",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Reinvestimento de Lucros",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Marca Própria",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Experiência do Cliente",
+      "category": "Estratégia de Negócio"
+    },
+    {
+      "name": "Marketing orgânico",
+      "category": "Marketing"
+    },
+    {
+      "name": "Recorrência de clientes",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Entretenimento no marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Gestão empresarial",
+      "category": "Business management"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "390",
+      "context": "Monthly salary of Bruno Vinícius as a supermarket packer"
+    },
+    {
+      "value": "300,000",
+      "context": "Instagram followers of Itatuapé Concepts during the pandemic"
+    },
+    {
+      "value": "2,000,000",
+      "context": "Current Instagram followers of Itatuapé Concepts"
+    },
+    {
+      "value": "180,000",
+      "context": "Amount spent by a customer at Itatuapé Concepts to set a record"
+    },
+    {
+      "value": "428 presentes",
+      "context": "Quantidade de presentes comprados por um cliente na loja Tatuapé Conceito."
+    },
+    {
+      "value": "R$ 1.500.000,00",
+      "context": "Valor anual reinvestido na estrutura e melhorias da Tatuapé Conceito."
+    },
+    {
+      "value": "R$ 500.000,00",
+      "context": "Custo da reforma da loja durante a pandemia, reduzido devido às condições do mercado."
+    },
+    {
+      "value": "R$ 500,00",
+      "context": "Valor pago por publicidade com Whindersson Nunes no início das operações da Canui."
+    },
+    {
+      "value": "R$ 500.000.000,00",
+      "context": "Faturamento anual da Canui em seu auge."
+    },
+    {
+      "value": "3 bilhões de faturamento",
+      "context": "Grupo mencionado após venda da empresa"
+    },
+    {
+      "value": "5-7% de lucro líquido",
+      "context": "Margem de lucro em estratégia de volume"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Edu Lyra",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Magazine Luiza",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Tatuapé Conceito",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Vinícius",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tatuapé Conceito",
+      "target_type": "company"
+    },
+    {
+      "source": "Canui",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Tatuapé Conceito",
+      "target_type": "company"
+    },
+    {
+      "source": "Caíto Maia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Chilli Beans",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Vinícius",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tatuapé Conceito",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Vinícius",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Itatuapé Concepts",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Tatuapé Conceito",
+      "target_type": "company"
+    }
+  ]
+}

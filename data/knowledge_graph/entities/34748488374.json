@@ -1,0 +1,297 @@
+{
+  "episode_id": "34748488374",
+  "title": "COMO RETER OS CLIENTES? - PAULA PIMENTA | PAPO DE GESTÃO",
+  "date_published": 1731308400,
+  "duration": 3406,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Paula Pimenta",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Mentora"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Plant Power",
+      "title": ""
+    },
+    {
+      "name": "Edu Lyra",
+      "role": "mentioned",
+      "company": "Girando Falcões",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa mencionada como local de atuação de Paula Pimenta e organizadora do podcast."
+    },
+    {
+      "name": "Harvard",
+      "industry": "Educação",
+      "context": "Instituição citada em estudo sobre retenção de clientes."
+    },
+    {
+      "name": "Mcdonald'S",
+      "industry": "Alimentação",
+      "context": "Exemplo de experiência de cliente com batatas fritas."
+    },
+    {
+      "name": "Outback",
+      "industry": "Alimentação",
+      "context": "Exemplo de experiência de cliente com batatas fritas."
+    },
+    {
+      "name": "Latam",
+      "industry": "Aviação",
+      "context": "Citada como exemplo de empresa aérea no Brasil."
+    },
+    {
+      "name": "Gol",
+      "industry": "Aviação",
+      "context": "Citada como exemplo de empresa aérea no Brasil."
+    },
+    {
+      "name": "Azul",
+      "industry": "Aviação",
+      "context": "Citada como exemplo de empresa aérea no Brasil."
+    },
+    {
+      "name": "Plant Power",
+      "industry": "Food and Beverage",
+      "context": "Mentioned in relation to the beverage isotonic product Django."
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Mentioned in the context of purchasing a phone and account management."
+    },
+    {
+      "name": "Girando Falcões",
+      "industry": "Nonprofit",
+      "context": "Edu Lyra organizes gala events for fundraising."
+    },
+    {
+      "name": "Disney",
+      "industry": "Entertainment",
+      "context": "Referenced for its recruitment process."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Experiência do Cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Retenção de Clientes",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Custo de Aquisição de Cliente (CAC)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Net Promoter Score (NPS)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Lifetime Value (LTV)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Jornada do Cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "TBC (Tira a Bunda da Cadeira)",
+      "category": "Metodologia"
+    },
+    {
+      "name": "Customer Retention",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Continuous Improvement",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Recency, Frequency, Monetary (RFM) Analysis",
+      "category": "Analytical Framework"
+    },
+    {
+      "name": "Customer Pain Points",
+      "category": "Customer Insights"
+    },
+    {
+      "name": "Word-of-Mouth Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Maslow's Hierarchy of Needs",
+      "category": "Psychological Framework"
+    },
+    {
+      "name": "Five Senses Framework",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Pyramid of Customer Experience Measurement",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Resource Constraints",
+      "category": "Business Operations"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "5%",
+      "context": "Aumento na taxa de retenção de clientes."
+    },
+    {
+      "value": "25% a 95%",
+      "context": "Impacto no lucro ao aumentar a retenção de clientes em 5%."
+    },
+    {
+      "value": "24 hours",
+      "context": "Maximum acceptable wait time for problem resolution as per customer expectations."
+    },
+    {
+      "value": "400 reais",
+      "context": "Cost of makeup at a salon compared to in-store service."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Latam",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Experiência Do Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Outback",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Experiência Do Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Azul",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Experiência Do Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paula Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Retenção De Clientes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paula Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Latam",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Plant Power",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Django",
+      "target_type": "company"
+    },
+    {
+      "source": "Mcdonald'S",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Experiência Do Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paula Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Experiência Do Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Edu Lyra",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Girando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Paula Pimenta",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Harvard",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Retenção De Clientes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gol",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Experiência Do Cliente",
+      "target_type": "concept"
+    }
+  ]
+}

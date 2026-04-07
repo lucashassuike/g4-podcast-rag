@@ -1,0 +1,229 @@
+{
+  "episode_id": "34748488597",
+  "title": "Rony Meisler - Os Valores por trás do sucesso da Reserva e O Caminho para a Excelência | Conectando os pontos",
+  "date_published": 1684139400,
+  "duration": 3610,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Rony Meisler",
+      "role": "guest",
+      "company": "Reserva",
+      "title": "Fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Luiza Helena",
+      "role": "mentioned",
+      "company": "Magazine Luiza",
+      "title": "Founder"
+    },
+    {
+      "name": "Fred",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Romário",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Reserva",
+      "industry": "Varejo de moda",
+      "context": "Fundada por Rony Meisler, conhecida por sua abordagem inovadora no mercado de moda."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Plataforma de educação para empreendedores, co-fundada por Tallis Gomes, Alfredo Soares e Bruno Nardon."
+    },
+    {
+      "name": "Accenture",
+      "industry": "Consultoria",
+      "context": "Empresa onde Rony Meisler trabalhou antes de fundar a Reserva."
+    },
+    {
+      "name": "Banco De Alimentos",
+      "industry": "Nonprofit",
+      "context": "Collaborates with Reserva to provide meals through their initiative."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Bootstrapping",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Capitalismo consciente",
+      "category": "Filosofia de negócios"
+    },
+    {
+      "name": "Fluxo de caixa",
+      "category": "Finanças"
+    },
+    {
+      "name": "DRE (Demonstração do Resultado do Exercício)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Curiosidade como matéria-prima para criatividade",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Clube de leitura",
+      "category": "Educação e desenvolvimento"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Valores empresariais",
+      "category": "Business Ethics"
+    },
+    {
+      "name": "fit cultural",
+      "category": "organizational culture"
+    },
+    {
+      "name": "OKR",
+      "category": "performance management"
+    },
+    {
+      "name": "impacto social",
+      "category": "business strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "16 anos",
+      "context": "Tempo de operação da Reserva com lucro contínuo."
+    },
+    {
+      "value": "60 a 80 lojistas",
+      "context": "Número de revendedores antes da abertura da primeira loja da Reserva."
+    },
+    {
+      "value": "33 metros quadrados",
+      "context": "Tamanho da primeira loja da Reserva em Ipanema."
+    },
+    {
+      "value": "90 milhões de refeições complementares",
+      "context": "Impact of Reserva's social initiative since 2016."
+    },
+    {
+      "value": "5 refeições por peça vendida",
+      "context": "Metric for Reserva's partnership with Banco de Alimentos."
+    },
+    {
+      "value": "crescimento de lucros mesmo durante a pandemia",
+      "context": "Reserva demonstrou resiliência financeira."
+    },
+    {
+      "value": "cinco maracanãs cheias",
+      "context": "Quantidade de alimentos doados através das iniciativas da Reserva."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rony Meisler",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Fred",
+      "target_type": "person"
+    },
+    {
+      "source": "Rony Meisler",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Accenture",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rony Meisler",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Reserva",
+      "target_type": "company"
+    },
+    {
+      "source": "Rony Meisler",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Luiza Helena",
+      "target_type": "person"
+    },
+    {
+      "source": "Rony Meisler",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Romário",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Reserva",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Banco De Alimentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Rony Meisler",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Reserva",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

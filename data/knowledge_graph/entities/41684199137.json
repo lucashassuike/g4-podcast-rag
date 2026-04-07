@@ -1,0 +1,87 @@
+{
+  "episode_id": "41684199137",
+  "title": "[CORTE] O OBJETIVO DA POSITIVE É TRAZER SAÚDE PARA AS PESSOAS",
+  "date_published": 1756155600,
+  "duration": 446,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Positive Company",
+      "industry": "Alimentos e Bebidas",
+      "context": "Empresa mencionada como foco principal da discussão, anteriormente chamada Positive Brands."
+    },
+    {
+      "name": "Jungle",
+      "industry": "Bebidas esportivas",
+      "context": "Produto da Positive Company mencionado como isotônico saudável."
+    },
+    {
+      "name": "Plant Power",
+      "industry": "Suplementos alimentares",
+      "context": "Linha de produtos da Positive Company mencionada com foco em saúde e ingredientes naturais."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Spin-off",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Saudabilidade",
+      "category": "Tendência de mercado"
+    },
+    {
+      "name": "Consistência de marca",
+      "category": "Estratégia de marketing"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "100 milhões",
+      "context": "Faturamento hipotético mencionado em comparação com marcas que crescem rapidamente sem consistência."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Positive Company",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Jungle",
+      "target_type": "company"
+    },
+    {
+      "source": "Positive Company",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Plant Power",
+      "target_type": "company"
+    }
+  ]
+}

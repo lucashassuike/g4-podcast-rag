@@ -1,0 +1,438 @@
+{
+  "episode_id": "38400148983",
+  "title": "O QUE REALMENTE FUNCIONA NO MARKETING EM 2025? RAPHA AVELLAR ENTREGA A VERDADE! | PAPO DE GESTÃO",
+  "date_published": 1749459600,
+  "duration": 3981,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Rapha Avellar",
+      "role": "guest",
+      "company": "Brand Lovers",
+      "title": "Fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Ludmilla",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cantora"
+    },
+    {
+      "name": "Flávia Pavanelli",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influenciadora"
+    },
+    {
+      "name": "Jade Picom",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influenciadora"
+    },
+    {
+      "name": "Gustavo Lima",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cantor"
+    },
+    {
+      "name": "Ricardinho",
+      "role": "mentioned",
+      "company": "Adventures",
+      "title": "Sócio"
+    },
+    {
+      "name": "Gê",
+      "role": "mentioned",
+      "company": "Adventures",
+      "title": "Sócio"
+    },
+    {
+      "name": "Amanda",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "Max Titanium",
+      "title": "CMO"
+    },
+    {
+      "name": "Mari",
+      "role": "mentioned",
+      "company": "Probiótica",
+      "title": "Unknown"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Brand Lovers",
+      "industry": "Tecnologia",
+      "context": "Fundada por Rapha Avellar, atua na interseção entre criadores de conteúdo e negócios, utilizando tecnologia para conectar anunciantes e criadores."
+    },
+    {
+      "name": "Adventures",
+      "industry": "Marketing e Branding",
+      "context": "Fundada por Rapha Avellar, atua como venture builder e venture capital, co-investindo com celebridades em marcas de consumo."
+    },
+    {
+      "name": "L'Oreal",
+      "industry": "Cosméticos",
+      "context": "Mencionada como exemplo de grande marca competindo no mercado de branding moderno."
+    },
+    {
+      "name": "Unilever",
+      "industry": "Bens de Consumo",
+      "context": "Mencionada como exemplo de grande marca competindo no mercado de branding moderno."
+    },
+    {
+      "name": "Procter & Gamble (P&G)",
+      "industry": "Bens de Consumo",
+      "context": "Mencionada como exemplo de grande marca competindo no mercado de branding moderno."
+    },
+    {
+      "name": "Coca-Cola",
+      "industry": "Bebidas",
+      "context": "Cliente da Brand Lovers para campanhas de mídia com criadores de conteúdo."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Cliente da Brand Lovers para campanhas de mídia com criadores de conteúdo."
+    },
+    {
+      "name": "Mercado Pago",
+      "industry": "Fintech",
+      "context": "Cliente da Brand Lovers para campanhas de mídia com criadores de conteúdo."
+    },
+    {
+      "name": "Hubspot",
+      "industry": "Tecnologia e Marketing",
+      "context": "Discussão sobre tráfego orgânico e estratégias de SEO"
+    },
+    {
+      "name": "Perplex",
+      "industry": "Tecnologia e Inteligência Artificial",
+      "context": "Mencionada como exemplo de motor de busca baseado em IA"
+    },
+    {
+      "name": "L'Oréal",
+      "industry": "Cosméticos",
+      "context": "Exemplo de empresa que utiliza influenciadores em estratégias de marketing"
+    },
+    {
+      "name": "Max Titanium",
+      "industry": "Supplements",
+      "context": "Highlighted for its collaboration with creators for product promotion."
+    },
+    {
+      "name": "Suplei",
+      "industry": "Supplements",
+      "context": "Parent company of Max Titanium."
+    },
+    {
+      "name": "Probiótica",
+      "industry": "Supplements",
+      "context": "Mentioned in relation to Max Titanium."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Creator Economy",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Google AdWords",
+      "category": "Plataforma de Publicidade"
+    },
+    {
+      "name": "AI (Inteligência Artificial)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Engajamento",
+      "category": "Métrica de Marketing"
+    },
+    {
+      "name": "ROI (Retorno sobre Investimento)",
+      "category": "Métrica Financeira"
+    },
+    {
+      "name": "Sobreposição de Audiência",
+      "category": "Análise de Dados"
+    },
+    {
+      "name": "Venture Builder",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "SEO",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Inbound Sales",
+      "category": "Marketing e Vendas"
+    },
+    {
+      "name": "Marketing de Influenciadores",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Criação de Conteúdo",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Pesquisa em Ferramentas de IA",
+      "category": "Tecnologia e Marketing"
+    },
+    {
+      "name": "Estratégias de Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "AI (Artificial Intelligence)",
+      "category": "Technology"
+    },
+    {
+      "name": "Winner Takes All",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Marketplace Dynamics",
+      "category": "Business Model"
+    },
+    {
+      "name": "Product-Market Fit",
+      "category": "Startup Development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "250 mil",
+      "context": "Número de criadores de conteúdo utilizando o aplicativo da Brand Lovers."
+    },
+    {
+      "value": "Quase 40",
+      "context": "Número de investimentos anjo realizados por Rapha Avellar."
+    },
+    {
+      "value": "1 ano e 10 meses",
+      "context": "Tempo de operação da Brand Lovers."
+    },
+    {
+      "value": "4 contratos por minuto",
+      "context": "Taxa de contratos fechados entre criadores e marcas pela Brand Lovers."
+    },
+    {
+      "value": "70-80%",
+      "context": "Queda no tráfego orgânico do blog da HubSpot"
+    },
+    {
+      "value": "Mais de 50%",
+      "context": "Orçamento de marketing da L'Oréal destinado a influenciadores"
+    },
+    {
+      "value": "20 vezes",
+      "context": "Compromisso da Unilever em aumentar o volume de criadores contratados"
+    },
+    {
+      "value": "20 times",
+      "context": "Increase in the volume of creators contracted by Unilever."
+    },
+    {
+      "value": "1 year and 8 months",
+      "context": "Age of Rapha Avellar's current company."
+    },
+    {
+      "value": "40 days",
+      "context": "Time taken to focus on the successful product direction in Brand Lovers."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "L'Oréal",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Marketing De Influenciadores",
+      "target_type": "concept"
+    },
+    {
+      "source": "Perplex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Pesquisa Em Ferramentas De Ia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Brand Lovers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ai (Inteligência Artificial)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Adventures",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Gustavo Lima",
+      "target_type": "person"
+    },
+    {
+      "source": "Max Titanium",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Suplei",
+      "target_type": "company"
+    },
+    {
+      "source": "Brand Lovers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Coca-Cola",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Adventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Adventures",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Ludmilla",
+      "target_type": "person"
+    },
+    {
+      "source": "Hubspot",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Seo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Brand Lovers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Brand Lovers",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Creator Economy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Brand Lovers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mercado Pago",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Max Titanium",
+      "target_type": "company"
+    },
+    {
+      "source": "Brand Lovers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Google Adwords",
+      "target_type": "concept"
+    },
+    {
+      "source": "Max Titanium",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Probiótica",
+      "target_type": "company"
+    },
+    {
+      "source": "Adventures",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Brand Lovers",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Avellar Media",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Brand Lovers",
+      "target_type": "company"
+    },
+    {
+      "source": "Adventures",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Jade Picom",
+      "target_type": "person"
+    },
+    {
+      "source": "Mari",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Probiótica",
+      "target_type": "company"
+    },
+    {
+      "source": "Adventures",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Flávia Pavanelli",
+      "target_type": "person"
+    },
+    {
+      "source": "Unilever",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Marketing De Influenciadores",
+      "target_type": "concept"
+    }
+  ]
+}

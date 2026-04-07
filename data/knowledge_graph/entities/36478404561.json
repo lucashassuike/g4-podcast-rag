@@ -1,0 +1,391 @@
+{
+  "episode_id": "36478404561",
+  "title": "DO MERCADO FINANCEIRO AO EMPREENDEDORISMO: A JORNADA DE ILANA BOBROW | PAPO DE GESTÃO",
+  "date_published": 1745226000,
+  "duration": 3361,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Ilana Bobrow",
+      "role": "guest",
+      "company": "Benup",
+      "title": "Co-fundadora"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Patrick",
+      "role": "mentioned",
+      "company": "Benup",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Felipe",
+      "role": "mentioned",
+      "company": "AWZ",
+      "title": "Fundador"
+    },
+    {
+      "name": "André Sack",
+      "role": "mentioned",
+      "company": "Vectis",
+      "title": "Partner"
+    },
+    {
+      "name": "José Aparecido Feliz",
+      "role": "mentioned",
+      "company": "",
+      "title": "Father of Bruno Nardon"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Xp Inc",
+      "industry": "Financeiro",
+      "context": "Ilana Bobrow foi sócia e trabalhou na XP Inc."
+    },
+    {
+      "name": "Credit Suisse",
+      "industry": "Financeiro",
+      "context": "Ilana Bobrow iniciou sua carreira no Credit Suisse."
+    },
+    {
+      "name": "Goldman Sachs",
+      "industry": "Financeiro",
+      "context": "Ilana Bobrow trabalhou na Goldman Sachs antes de se juntar à XP."
+    },
+    {
+      "name": "Vectis Partners",
+      "industry": "Investimentos",
+      "context": "Ilana Bobrow é co-fundadora da Vectis Partners."
+    },
+    {
+      "name": "Vitro",
+      "industry": "Investimentos",
+      "context": "Empresa fundada por Ilana Bobrow e vendida ao BTG."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Financeiro",
+      "context": "Comprou a Vitro, empresa fundada por Ilana Bobrow."
+    },
+    {
+      "name": "Benup",
+      "industry": "RH e Benefícios",
+      "context": "Empresa co-fundada por Ilana Bobrow e Patrick."
+    },
+    {
+      "name": "Empiricus",
+      "industry": "Financeiro",
+      "context": "Parceira comercial da Vitro no início."
+    },
+    {
+      "name": "Awz",
+      "industry": "Consultoria",
+      "context": "Empresa investida pela Vectis Partners."
+    },
+    {
+      "name": "Benap",
+      "industry": "Human Resources",
+      "context": "Company led by Ilana Bobrow, focusing on HR solutions"
+    },
+    {
+      "name": "Lugar De Gente (Lg)",
+      "industry": "Human Resources",
+      "context": "Parent company of Benap, acquired by Vectis"
+    },
+    {
+      "name": "Vectis",
+      "industry": "Investment",
+      "context": "Investment firm involved in acquiring LG and Benap"
+    },
+    {
+      "name": "Rix Capital",
+      "industry": "Investment",
+      "context": "Gestora involved in special situations and club deals"
+    },
+    {
+      "name": "G4 Capital",
+      "industry": "Investment",
+      "context": "Mentioned as a proprietary capital initiative by G4 Educação."
+    },
+    {
+      "name": "Cretzvis",
+      "industry": "Finance",
+      "context": "Mentioned in the context of Ilana Bobrow's interview experience."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Empreendedorismo",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Smart Money",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Estruturação de Processos",
+      "category": "Gestão"
+    },
+    {
+      "name": "Mercado Financeiro",
+      "category": "Setor"
+    },
+    {
+      "name": "Zero to One",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Take Rate",
+      "category": "Business Model"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Business Model"
+    },
+    {
+      "name": "B2B",
+      "category": "Business Model"
+    },
+    {
+      "name": "B2C",
+      "category": "Business Model"
+    },
+    {
+      "name": "Minimum Viable Product (MVP)",
+      "category": "Product Development"
+    },
+    {
+      "name": "All Hands Meeting",
+      "category": "Organizational Communication"
+    },
+    {
+      "name": "Dashboard Transparency",
+      "category": "Organizational Communication"
+    },
+    {
+      "name": "Blitzscaling",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Evergreen Fund",
+      "category": "Investment Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "FAQ do Novo Consignado",
+      "author": "Benap"
+    },
+    {
+      "title": "Blitzscaling",
+      "author": "Reid Hoffman"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "2012",
+      "context": "Ano em que Ilana Bobrow ingressou na XP Inc."
+    },
+    {
+      "value": "2018",
+      "context": "Ano de fundação da Vitro."
+    },
+    {
+      "value": "2021",
+      "context": "Ano de venda da Vitro para o BTG Pactual."
+    },
+    {
+      "value": "15 anos",
+      "context": "Tempo que Patrick foi sócio do BTG Pactual."
+    },
+    {
+      "value": "25%",
+      "context": "Market share of LG in payroll management in the Enterprise segment"
+    },
+    {
+      "value": "40 solutions",
+      "context": "Number of solutions offered by LG"
+    },
+    {
+      "value": "50 employees",
+      "context": "Current size of Benap's team"
+    },
+    {
+      "value": "80 employees",
+      "context": "Projected size of Benap's team by next year"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ilana Bobrow",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vitro",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Capital",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Patrick",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Benup",
+      "target_type": "company"
+    },
+    {
+      "source": "Benap",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Lugar De Gente (Lg)",
+      "target_type": "company"
+    },
+    {
+      "source": "André Sack",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vectis",
+      "target_type": "company"
+    },
+    {
+      "source": "Vectis",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Lugar De Gente (Lg)",
+      "target_type": "company"
+    },
+    {
+      "source": "Vectis Partners",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Awz",
+      "target_type": "company"
+    },
+    {
+      "source": "Blitzscaling",
+      "source_type": "concept",
+      "relation": "recommends",
+      "target": "Blitzscaling",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ilana Bobrow",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Ilana Bobrow",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Goldman Sachs",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ilana Bobrow",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vectis",
+      "target_type": "company"
+    },
+    {
+      "source": "Benap",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Human Resources",
+      "target_type": "company"
+    },
+    {
+      "source": "Ilana Bobrow",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Benap",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitro",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Blitzscaling",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Vectis",
+      "target_type": "company"
+    },
+    {
+      "source": "Rix Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Lugar De Gente (Lg)",
+      "target_type": "company"
+    },
+    {
+      "source": "Ilana Bobrow",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vectis Partners",
+      "target_type": "company"
+    },
+    {
+      "source": "Ilana Bobrow",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Credit Suisse",
+      "target_type": "company"
+    },
+    {
+      "source": "Ilana Bobrow",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Benup",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitro",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Empiricus",
+      "target_type": "company"
+    },
+    {
+      "source": "Patrick",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vectis",
+      "target_type": "company"
+    },
+    {
+      "source": "Lugar De Gente (Lg)",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Human Resources",
+      "target_type": "company"
+    }
+  ]
+}

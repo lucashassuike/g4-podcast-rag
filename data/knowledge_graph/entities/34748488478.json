@@ -1,0 +1,921 @@
+{
+  "episode_id": "34748488478",
+  "title": "O SUCESSO DA SUA EMPRESA COMEÇA NA EDUCAÇÃO - COM GUILHERME JUNQUEIRA | EXTREMOS",
+  "date_published": 1704821216,
+  "duration": 6136,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Guilherme Junqueira",
+      "role": "guest",
+      "company": "Gama Academy",
+      "title": "Founder"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Founder"
+    },
+    {
+      "name": "Rosinha",
+      "role": "mentioned",
+      "company": "Gama Academy",
+      "title": "CEO"
+    },
+    {
+      "name": "Amuri",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Theo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Júlio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marco França",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rodrigo Cartacho",
+      "role": "mentioned",
+      "company": "Sympla",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "Easy Taxi",
+      "title": "Founder"
+    },
+    {
+      "name": "Laércio Cosentino",
+      "role": "mentioned",
+      "company": "TOTVS",
+      "title": "Founder"
+    },
+    {
+      "name": "Eric Santos",
+      "role": "mentioned",
+      "company": "RD Station",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "Méliuz",
+      "title": "CEO"
+    },
+    {
+      "name": "Israel",
+      "role": "mentioned",
+      "company": "Méliuz",
+      "title": ""
+    },
+    {
+      "name": "Daniel Castanho",
+      "role": "mentioned",
+      "company": "Anima Educação",
+      "title": "Chairman"
+    },
+    {
+      "name": "Bueno",
+      "role": "mentioned",
+      "company": "Anima Educação",
+      "title": "Executive"
+    },
+    {
+      "name": "Escobar",
+      "role": "mentioned",
+      "company": "Anima Educação",
+      "title": "Executive"
+    },
+    {
+      "name": "Mariano Gomide",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Co-CEO"
+    },
+    {
+      "name": "Camila Farane",
+      "role": "mentioned",
+      "company": "",
+      "title": "Investor"
+    },
+    {
+      "name": "Júlio De Angeli",
+      "role": "mentioned",
+      "company": "",
+      "title": "Investor"
+    },
+    {
+      "name": "Fábio Pova",
+      "role": "mentioned",
+      "company": "",
+      "title": "Investor"
+    },
+    {
+      "name": "Julian",
+      "role": "mentioned",
+      "company": "",
+      "title": "Advisor"
+    },
+    {
+      "name": "Marco",
+      "role": "mentioned",
+      "company": "",
+      "title": "Advisor"
+    },
+    {
+      "name": "Ricardo Oliveira",
+      "role": "mentioned",
+      "company": "Xtech Commerce",
+      "title": "Co-Founder"
+    },
+    {
+      "name": "Adriano",
+      "role": "mentioned",
+      "company": "Loja Integrada",
+      "title": ""
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "Vetex",
+      "title": ""
+    },
+    {
+      "name": "Ricardo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jordão",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gustavo Caetano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Kepler",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "André",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Polidoro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Breno",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Berê",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Castanho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Diamã",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ricardo Jordão",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Andrezinho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Edu",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Valverde",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Clivo",
+      "industry": "Healthcare",
+      "context": "Founded by Marcelo Toledo"
+    },
+    {
+      "name": "Oi",
+      "industry": "Telecommunications",
+      "context": "Company where Guilherme Junqueira worked"
+    },
+    {
+      "name": "Gama Academy",
+      "industry": "Education",
+      "context": "Founded by Guilherme Junqueira"
+    },
+    {
+      "name": "Accenture",
+      "industry": "Consulting",
+      "context": "Client of Gama Academy"
+    },
+    {
+      "name": "Sympla",
+      "industry": "Event Management",
+      "context": "First client of Gama Academy"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Referenced in a startup context"
+    },
+    {
+      "name": "Totvs",
+      "industry": "Software",
+      "context": "Referenced in a business context"
+    },
+    {
+      "name": "Rd Station",
+      "industry": "Marketing Software",
+      "context": "Discussed in relation to talent acquisition challenges"
+    },
+    {
+      "name": "General Assembly",
+      "industry": "Education",
+      "context": "Inspiration for Gama Academy"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Educação para empreendedores e líderes empresariais"
+    },
+    {
+      "name": "Méliuz",
+      "industry": "Finance",
+      "context": "Empresa mencionada como exemplo de sucesso de ex-aluno"
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entertainment",
+      "context": "Mentioned in the context of HR practices."
+    },
+    {
+      "name": "Anima Educação",
+      "industry": "Education",
+      "context": "Mentioned in the context of acquiring Gama Academy."
+    },
+    {
+      "name": "Vtex",
+      "industry": "E-commerce",
+      "context": "Collaborated with Gama Academy on the Hiring Coders project."
+    },
+    {
+      "name": "Maxmilhas",
+      "industry": "Travel",
+      "context": "Used as a case study in Gama Academy's educational projects."
+    },
+    {
+      "name": "Simpla",
+      "industry": "Event Management",
+      "context": "Used as a case study in Gama Academy's educational projects."
+    },
+    {
+      "name": "Hot Content",
+      "industry": "Content Marketing",
+      "context": "Used as a case study in Gama Academy's educational projects."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Used as a case study in Gama Academy's educational projects."
+    },
+    {
+      "name": "Loja Integrada",
+      "industry": "E-commerce",
+      "context": "Acquired by VTEX"
+    },
+    {
+      "name": "Xtech Commerce",
+      "industry": "E-commerce",
+      "context": "Founded by Ricardo Oliveira and competed with VTEX"
+    },
+    {
+      "name": "Gran Cru",
+      "industry": "Wine Retail",
+      "context": "Mentioned as a client served by the speaker's company."
+    },
+    {
+      "name": "Vetex",
+      "industry": "E-commerce Solutions",
+      "context": "Discussed extensively in the context of partnerships and M&A."
+    },
+    {
+      "name": "Pagseguro",
+      "industry": "Financial Services",
+      "context": "Mentioned as a company involved in discussions."
+    },
+    {
+      "name": "Cielo",
+      "industry": "Financial Services",
+      "context": "Mentioned as a company involved in discussions."
+    },
+    {
+      "name": "Local Web",
+      "industry": "Web Hosting and Cloud Services",
+      "context": "Mentioned in relation to Mercado Livre."
+    },
+    {
+      "name": "Rakuten",
+      "industry": "E-commerce",
+      "context": "Mentioned as a company involved in discussions."
+    },
+    {
+      "name": "Anima",
+      "industry": "Educação",
+      "context": "Participação de 55% adquirida por 34 milhões."
+    },
+    {
+      "name": "Bodytech",
+      "industry": "Fitness",
+      "context": "Academia frequentada por Alfredo Soares durante o período de negociações."
+    },
+    {
+      "name": "Vitex",
+      "industry": "Tecnologia",
+      "context": "Empresa envolvida na negociação mencionada no episódio."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "track record",
+      "category": "business"
+    },
+    {
+      "name": "playbook",
+      "category": "business"
+    },
+    {
+      "name": "Series A",
+      "category": "fundraising"
+    },
+    {
+      "name": "term sheet",
+      "category": "fundraising"
+    },
+    {
+      "name": "due diligence",
+      "category": "fundraising"
+    },
+    {
+      "name": "venture capital",
+      "category": "fundraising"
+    },
+    {
+      "name": "private equity",
+      "category": "fundraising"
+    },
+    {
+      "name": "fundraising",
+      "category": "business"
+    },
+    {
+      "name": "burnout",
+      "category": "personal development"
+    },
+    {
+      "name": "protagonismo",
+      "category": "personal development"
+    },
+    {
+      "name": "B2B and B2C business models",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Talent acquisition",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Startup ecosystem",
+      "category": "Entrepreneurship"
+    },
+    {
+      "name": "Soft skills and hard skills",
+      "category": "Education"
+    },
+    {
+      "name": "Employability rate",
+      "category": "Metrics"
+    },
+    {
+      "name": "Empregabilidade",
+      "category": "Business Impact"
+    },
+    {
+      "name": "Transformação Digital",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Andragogia",
+      "category": "Educational Methodology"
+    },
+    {
+      "name": "Eutagogia",
+      "category": "Educational Methodology"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Business Management"
+    },
+    {
+      "name": "RH Estratégico",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Cultura de aprendizagem",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Universidade corporativa",
+      "category": "Corporate Training"
+    },
+    {
+      "name": "Metodologia da Gama",
+      "category": "Educational Methodology"
+    },
+    {
+      "name": "Project Based Learning (PBL)",
+      "category": "Educational Framework"
+    },
+    {
+      "name": "Content Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Accountability",
+      "category": "Leadership and Management"
+    },
+    {
+      "name": "Soft Skills",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Hard Skills",
+      "category": "Professional Development"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Earn-out",
+      "category": "Business Finance"
+    },
+    {
+      "name": "Path to Control",
+      "category": "Corporate Structure"
+    },
+    {
+      "name": "Outbound Sales",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Inbound Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Outbound Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Black Friday",
+      "category": "Retail Event"
+    },
+    {
+      "name": "Bootstrap",
+      "category": "Modelo de financiamento"
+    },
+    {
+      "name": "Closing",
+      "category": "Processo de Negociação"
+    },
+    {
+      "name": "Certificado Digital",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "TED",
+      "category": "Transações Financeiras"
+    },
+    {
+      "name": "Depressão Pós-MNE",
+      "category": "Saúde Mental"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "200 hours",
+      "context": "Content available for team development"
+    },
+    {
+      "value": "10 collaborators",
+      "context": "Special offer for team development"
+    },
+    {
+      "value": "270,000",
+      "context": "Monthly payroll for Gama Academy"
+    },
+    {
+      "value": "4 million",
+      "context": "Investment amount in Series A"
+    },
+    {
+      "value": "500,000",
+      "context": "Contract value with Accenture"
+    },
+    {
+      "value": "500,000",
+      "context": "Contract value that helped save the company"
+    },
+    {
+      "value": "95%",
+      "context": "Employability rate of Gama Academy graduates in the first year"
+    },
+    {
+      "value": "50,000",
+      "context": "Alunos formados pela Gama Academy"
+    },
+    {
+      "value": "80%",
+      "context": "Taxa de empregabilidade dos formados pela Gama Academy no mercado digital"
+    },
+    {
+      "value": "800",
+      "context": "Clientes da Gama Academy"
+    },
+    {
+      "value": "350,000",
+      "context": "Empregos gerados por alunos do G4 Educação"
+    },
+    {
+      "value": "1,200",
+      "context": "Salário inicial do motoboy antes de formação na Gama Academy"
+    },
+    {
+      "value": "6,000-8,000",
+      "context": "Salário atual do motoboy após formação na Gama Academy"
+    },
+    {
+      "value": "5%",
+      "context": "População brasileira que ganha mais de 3 mil reais"
+    },
+    {
+      "value": "300%",
+      "context": "Growth of Gama Academy during the pandemic."
+    },
+    {
+      "value": "75,000",
+      "context": "Number of students reached through the Hiring Coders project."
+    },
+    {
+      "value": "75,000",
+      "context": "Number of students online in the Tetris program by Gama Academy"
+    },
+    {
+      "value": "330,000",
+      "context": "Number of students at Anima Educação during acquisition"
+    },
+    {
+      "value": "400,000",
+      "context": "Current number of students at Anima Educação"
+    },
+    {
+      "value": "9 digits",
+      "context": "Transaction value of Gama Academy's acquisition by Anima Educação"
+    },
+    {
+      "value": "80,000",
+      "context": "Cost of Vetex's product at the time."
+    },
+    {
+      "value": "59",
+      "context": "Monthly cost of the speaker's product."
+    },
+    {
+      "value": "18,000,000",
+      "context": "Valuation of Xtech proposed by the speaker."
+    },
+    {
+      "value": "5 milhões de reais",
+      "context": "Valor mínimo líquido exigido por Alfredo Soares para fechar o negócio."
+    },
+    {
+      "value": "10 meses",
+      "context": "Duração do processo de negociação."
+    },
+    {
+      "value": "34 milhões de reais",
+      "context": "Valor da aquisição de 55% da empresa pela Anima."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Lucas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Méliuz",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Gama Academy",
+      "source_type": "company",
+      "relation": "collaborated_with",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Junqueira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vetex",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mariano",
+      "target_type": "person"
+    },
+    {
+      "source": "Vetex",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Gran Cru",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Adriano",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Breno",
+      "target_type": "person"
+    },
+    {
+      "source": "Rodrigo Cartacho",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Sympla",
+      "target_type": "company"
+    },
+    {
+      "source": "Gama Academy",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Education",
+      "target_type": "company"
+    },
+    {
+      "source": "Gama Academy",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Project Based Learning (Pbl)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "collaborated_with",
+      "target": "Gama Academy",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Gama Academy",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "General Assembly",
+      "target_type": "company"
+    },
+    {
+      "source": "Laércio Cosentino",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Totvs",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Guilherme Junqueira",
+      "target_type": "person"
+    },
+    {
+      "source": "Xtech Commerce",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Gama Academy",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Accenture",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano Gomide",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jordão",
+      "target_type": "person"
+    },
+    {
+      "source": "Mariano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vitex",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Local Web",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Amuri",
+      "target_type": "person"
+    },
+    {
+      "source": "Guilherme Junqueira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gama Academy",
+      "target_type": "company"
+    },
+    {
+      "source": "Rosinha",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gama Academy",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Education",
+      "target_type": "company"
+    },
+    {
+      "source": "Anima Educação",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Gama Academy",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Kepler",
+      "target_type": "person"
+    },
+    {
+      "source": "Anima",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Loja Integrada",
+      "target_type": "company"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Loja Integrada",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Oliveira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xtech Commerce",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Junqueira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gama Academy",
+      "target_type": "company"
+    }
+  ]
+}

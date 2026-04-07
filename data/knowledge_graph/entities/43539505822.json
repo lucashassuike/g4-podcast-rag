@@ -1,0 +1,178 @@
+{
+  "episode_id": "43539505822",
+  "title": "COMO TRANSFORMAR CREDIBILIDADE EM NEGÓCIOS COM PHELIPE SIANI | EXTREMOS",
+  "date_published": 1759935600,
+  "duration": 3544,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Phelipe Siani",
+      "role": "guest",
+      "company": "PHS Holding",
+      "title": "Fundador"
+    },
+    {
+      "name": "Alexandre De Moraes",
+      "role": "mentioned",
+      "company": "STF",
+      "title": "Ministro"
+    },
+    {
+      "name": "Barroso",
+      "role": "mentioned",
+      "company": "STF",
+      "title": "Ministro"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Organizadora do evento G4 Valley e produtora do G4 Podcast"
+    },
+    {
+      "name": "Foxbit",
+      "industry": "Tecnologia e Criptomoedas",
+      "context": "Patrocinadora do G4 Podcast e fornecedora de serviços de criptomoedas"
+    },
+    {
+      "name": "Phs Holding",
+      "industry": "Comunicação e Dados",
+      "context": "Empresa fundada por Phelipe Siani, atuando em comunicação automotiva e dados"
+    },
+    {
+      "name": "Stf",
+      "industry": "Judiciário",
+      "context": "Discussão sobre o papel e funcionamento do Supremo Tribunal Federal no Brasil."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Marketing",
+      "category": "Negócios"
+    },
+    {
+      "name": "Gestão",
+      "category": "Negócios"
+    },
+    {
+      "name": "Networking",
+      "category": "Negócios"
+    },
+    {
+      "name": "Comunicação",
+      "category": "Mídia e Jornalismo"
+    },
+    {
+      "name": "Algoritmos",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Computação Quântica",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Imparcialidade na Comunicação",
+      "category": "Mídia"
+    },
+    {
+      "name": "Câmeras de Eco",
+      "category": "Mídia"
+    },
+    {
+      "name": "Foro Privilegiado",
+      "category": "Política"
+    },
+    {
+      "name": "Constituição",
+      "category": "Política"
+    },
+    {
+      "name": "humildade intelectual",
+      "category": "Personal Development"
+    },
+    {
+      "name": "conhecimento",
+      "category": "Education"
+    },
+    {
+      "name": "inteligência",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10,000",
+      "context": "Número de empresários esperados no evento G4 Valley"
+    },
+    {
+      "value": "82%",
+      "context": "Porcentagem de ouvintes do podcast que não são inscritos no canal"
+    },
+    {
+      "value": "1,000,000",
+      "context": "Número de contas criadas na Foxbit"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Phelipe Siani",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Phelipe Siani",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Phs Holding",
+      "target_type": "company"
+    },
+    {
+      "source": "Foxbit",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "episode_id": "40897965187",
+  "title": "[CORTE] “QUASE NUNCA É FALHA MECÂNICA” | OS BASTIDORES DOS ACIDENTES AÉREOS",
+  "date_published": 1754254800,
+  "duration": 540,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Rogério",
+      "role": "guest",
+      "company": "Avanto",
+      "title": "Especialista e Empresário do Setor de Aviação"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Flávio Rio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Avanto",
+      "industry": "Aviação",
+      "context": "Companhia aérea mencionada como exemplo de segurança e operação no setor de aviação."
+    },
+    {
+      "name": "United Airlines",
+      "industry": "Aviação",
+      "context": "Mencionada em relação à economia de combustível devido à redução de peso dos passageiros."
+    },
+    {
+      "name": "Eletron",
+      "industry": "Indústria não especificada",
+      "context": "Mencionada de forma casual no contexto do episódio."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Segurança de voo",
+      "category": "Conceito de aviação"
+    },
+    {
+      "name": "Certificação de qualidade em segurança de voo",
+      "category": "Certificação"
+    },
+    {
+      "name": "Cota de aeronave",
+      "category": "Modelo de negócio"
+    },
+    {
+      "name": "FII (Fundo de Investimento Imobiliário)",
+      "category": "Modelo de receita"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "13 treinamentos anuais",
+      "context": "Número de treinamentos realizados por pilotos da Avanto para manter a segurança de voo."
+    },
+    {
+      "value": "100 milhões de dólares",
+      "context": "Economia da United Airlines devido à redução de peso dos passageiros."
+    },
+    {
+      "value": "500 mil dólares",
+      "context": "Custo de uma cota de aeronave mencionada no modelo de negócio da Avanto."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Avanto",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Segurança De Voo",
+      "target_type": "concept"
+    },
+    {
+      "source": "United Airlines",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Economia De Combustível",
+      "target_type": "company"
+    },
+    {
+      "source": "Rogério",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Avanto",
+      "target_type": "company"
+    }
+  ]
+}

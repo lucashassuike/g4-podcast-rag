@@ -1,0 +1,282 @@
+{
+  "episode_id": "41116203332",
+  "title": "IA NA PRÁTICA: COMO GERAR RESULTADOS REAIS COM INTELIGÊNCIA ARTIFICIAL | PAPO DE GESTÃO",
+  "date_published": 1754924400,
+  "duration": 3907,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Rafael Milagre",
+      "role": "guest",
+      "company": "Viver de A",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "João Vitor",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor de IA"
+    },
+    {
+      "name": "Iago",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Viver De A",
+      "industry": "Education and Consulting",
+      "context": "Focuses on artificial intelligence education and consulting."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts the G4 Podcasts and provides business education."
+    },
+    {
+      "name": "Quinto Andar",
+      "industry": "Real Estate",
+      "context": "Mentioned as a competitor in the startup ecosystem."
+    },
+    {
+      "name": "Rock Content",
+      "industry": "Marketing de Conteúdo",
+      "context": "Experiência de Rafael Milagre em automação de SEO"
+    },
+    {
+      "name": "Openai",
+      "industry": "Tecnologia e IA",
+      "context": "Referência ao lançamento de novos modelos de IA"
+    },
+    {
+      "name": "Viver De Ia",
+      "industry": "Technology",
+      "context": "Discussed as a case study for implementing AI in business."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inteligência Artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "Framework de Processos",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Automação",
+      "category": "Technology"
+    },
+    {
+      "name": "Lead Scoring",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Inbound Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "CRM",
+      "category": "Ferramenta de Gestão de Relacionamento com Clientes"
+    },
+    {
+      "name": "Spin Selling",
+      "category": "Metodologia de Vendas"
+    },
+    {
+      "name": "SEO",
+      "category": "Otimização de Mecanismos de Busca"
+    },
+    {
+      "name": "Automação de Processos",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Academia de IA",
+      "category": "Programa Educacional"
+    },
+    {
+      "name": "ERP",
+      "category": "Technology"
+    },
+    {
+      "name": "Framework de automação",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "VO3",
+      "category": "Technology"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "15 dias para 5 minutos",
+      "context": "Time reduction achieved through artificial intelligence."
+    },
+    {
+      "value": "200-300 colaboradores",
+      "context": "Size of the company where Rafael Milagre worked as a director."
+    },
+    {
+      "value": "20 soluções",
+      "context": "Número de ferramentas mencionadas para marketing e vendas"
+    },
+    {
+      "value": "1 dia",
+      "context": "Duração da Academia de IA"
+    },
+    {
+      "value": "1 milhão de reais",
+      "context": "Monthly revenue achieved by Viver de IA with 12 employees."
+    },
+    {
+      "value": "60%",
+      "context": "Operational margin achieved by Viver de IA."
+    },
+    {
+      "value": "20 milhões de reais",
+      "context": "Projected revenue for Viver de IA by 2025."
+    },
+    {
+      "value": "300 empresários",
+      "context": "Participants in the business club mentioned."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Framework De Automação",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Viver De Ia",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Milagre",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Milagre",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rock Content",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Milagre",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Openai",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Quinto Andar",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Rafael Milagre",
+      "target_type": "person"
+    },
+    {
+      "source": "Academia De Ia",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Viver De Ia",
+      "target_type": "company"
+    },
+    {
+      "source": "Crm",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Viver De Ia",
+      "target_type": "company"
+    },
+    {
+      "source": "Seo",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Viver De Ia",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Milagre",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Viver De A",
+      "target_type": "company"
+    },
+    {
+      "source": "Erp",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Viver De Ia",
+      "target_type": "company"
+    },
+    {
+      "source": "Vo3",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Viver De Ia",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Milagre",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Academia De Ia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Milagre",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Spin Selling",
+      "target_type": "concept"
+    },
+    {
+      "source": "Iago",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Milagre",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João Vitor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Milagre",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Viver De Ia",
+      "target_type": "company"
+    }
+  ]
+}

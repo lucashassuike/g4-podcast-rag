@@ -1,0 +1,479 @@
+{
+  "episode_id": "34748488615",
+  "title": "Dennys Xavier - Um debate sobre a coletivização e a produtivadade na sociedade moderna | Sem Atalhos",
+  "date_published": 1678784400,
+  "duration": 4659,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Dennys Xavier",
+      "role": "guest",
+      "company": "Instituto Mises Brasil",
+      "title": "Doutor em História da Filosofia"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Thomas Sowell",
+      "role": "mentioned",
+      "company": "",
+      "title": "Economista e filósofo"
+    },
+    {
+      "name": "Nicolau Maquiavel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo e Cientista Político"
+    },
+    {
+      "name": "Sócrates",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo"
+    },
+    {
+      "name": "Platão",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo"
+    },
+    {
+      "name": "Ayn Rand",
+      "role": "mentioned",
+      "company": "",
+      "title": "Philosopher"
+    },
+    {
+      "name": "Mário Vargas Llosa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Writer"
+    },
+    {
+      "name": "Adam Smith",
+      "role": "mentioned",
+      "company": "",
+      "title": "Economist"
+    },
+    {
+      "name": "Vargas Llosa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Escola de negócios mencionada como parte do podcast."
+    },
+    {
+      "name": "Instituto Mises Brasil",
+      "industry": "Educação e Filosofia",
+      "context": "Organização onde Dennys Xavier trabalhou."
+    },
+    {
+      "name": "Insper",
+      "industry": "Education",
+      "context": "Mentioned as the location of a lecture by Mário Vargas Llosa"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Filosofia",
+      "category": "Conceito Filosófico"
+    },
+    {
+      "name": "Estratégia",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Tática",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Alta Performance",
+      "category": "Conceito de Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Estoicismo",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Igualdade de oportunidades",
+      "category": "Sociedade"
+    },
+    {
+      "name": "Igualdade de resultados",
+      "category": "Sociedade"
+    },
+    {
+      "name": "Autenticidade",
+      "category": "Conceito"
+    },
+    {
+      "name": "Liderança",
+      "category": "Conceito"
+    },
+    {
+      "name": "Carisma",
+      "category": "Conceito"
+    },
+    {
+      "name": "Deontologia",
+      "category": "Conceito"
+    },
+    {
+      "name": "Ciência Política",
+      "category": "Conceito"
+    },
+    {
+      "name": "memento mori",
+      "category": "philosophical concept"
+    },
+    {
+      "name": "objectivism",
+      "category": "philosophical concept"
+    },
+    {
+      "name": "Collectivism",
+      "category": "Social Philosophy"
+    },
+    {
+      "name": "Individualism",
+      "category": "Social Philosophy"
+    },
+    {
+      "name": "Egoísmo racional",
+      "category": "Ethics"
+    },
+    {
+      "name": "Altruísmo por egoísmo",
+      "category": "Leadership Philosophy"
+    },
+    {
+      "name": "coletivismo",
+      "category": "filosofia"
+    },
+    {
+      "name": "individualismo",
+      "category": "filosofia"
+    },
+    {
+      "name": "liberalismo",
+      "category": "filosofia"
+    },
+    {
+      "name": "racismo",
+      "category": "sociedade"
+    },
+    {
+      "name": "liberdade econômica",
+      "category": "economia"
+    },
+    {
+      "name": "educação",
+      "category": "sociedade"
+    },
+    {
+      "name": "políticas de reparação histórica",
+      "category": "política"
+    },
+    {
+      "name": "mentalidade estoica",
+      "category": "filosofia"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Odisseia",
+      "author": "Homero"
+    },
+    {
+      "title": "O Príncipe",
+      "author": "Nicolau Maquiavel"
+    },
+    {
+      "title": "Atlas Shrugged",
+      "author": "Ayn Rand"
+    },
+    {
+      "title": "O Chamado da Tribo",
+      "author": "Vargas Llosa"
+    },
+    {
+      "title": "A Virtude do Egoísmo",
+      "author": "Ayn Rand"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "70-90 anos",
+      "context": "Expectativa de vida mencionada no contexto filosófico."
+    },
+    {
+      "value": "500 anos",
+      "context": "Duração da corrente filosófica estoica"
+    },
+    {
+      "value": "4.5 billion years",
+      "context": "Age of planet Earth"
+    },
+    {
+      "value": "300,000 years",
+      "context": "Existence of Homo sapiens"
+    },
+    {
+      "value": "10,000 years",
+      "context": "First religious manifestations"
+    },
+    {
+      "value": "2,500 years",
+      "context": "Birth of philosophy"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Adam Smith",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Coletivismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Egoísmo Racional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Objectivism",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vargas Llosa",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "O Chamado Da Tribo",
+      "target_type": "company"
+    },
+    {
+      "source": "Thomas Sowell",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Coletivismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estratégia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ayn Rand",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "A Virtude Do Egoísmo",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sócrates",
+      "target_type": "person"
+    },
+    {
+      "source": "Thomas Sowell",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Liberdade Econômica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thomas Sowell",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Educação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Liderança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Altruísmo Por Egoísmo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thomas Sowell",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Educação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Memento Mori",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Collectivism",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Instituto Mises Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Ayn Rand",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Objectivism",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ayn Rand",
+      "target_type": "person"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Filosofia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ayn Rand",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mentalidade Estoica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Platão",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Sócrates",
+      "target_type": "person"
+    },
+    {
+      "source": "Thomas Sowell",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Igualdade De Resultados",
+      "target_type": "concept"
+    },
+    {
+      "source": "Adam Smith",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Egoísmo Racional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Individualism",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thomas Sowell",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Igualdade De Oportunidades",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mário Vargas Llosa",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Insper",
+      "target_type": "company"
+    },
+    {
+      "source": "Sócrates",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Filosofia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estoicismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thomas Sowell",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Liberdade Econômica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennys Xavier",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autenticidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nicolau Maquiavel",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "O Príncipe",
+      "target_type": "company"
+    }
+  ]
+}

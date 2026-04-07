@@ -1,0 +1,939 @@
+{
+  "id": 41225046063,
+  "title": "[CORTE] COMO ELE CONQUISTOU 1 MILHÃO DE ACESSOS EM 1 ANO (DO ZERO)?",
+  "guest": "",
+  "date_published": 1755032400,
+  "duration": 762,
+  "text": "Eu trabalhei numa startup brasileira chamada Rock Content e eu entendi todo o processo de produção de blog a nível técnico. Então a nível de otimização de SEO, de palavra-chave. E aí eu peguei esse processo e falei o seguinte, tem esse processo de otimização de SEO, de meta description, várias coisas mega técnicas, a produção de um conteúdo que ranqueia no Google para a web. Eu posso automatizar isso com assistente de A. Então eu criei um fluxo de automação que basicamente funciona replicando o que eu aprendi lá dentro. Exemplo, qual que era a primeira figura? Um editor. O que o editor de um blog, um blog de sucesso, ele tem que fazer? Cara, tem que ficar antenado a posicionamento de palavra-chave. Ah, saiu uma novidade de A hoje, a OpenAI lançou um novo modelo. Ele precisa pegar essa pauta, trazer para cá, para trazer um conteúdo quente. Então o que eu fiz? Eu peguei uma ferramenta que se chama rss.app. Essa ferramenta eu crio feeds de atualizações de mercado. Então eu consigo monitorar, por exemplo... Tudo que está acontecendo de novo. Isso. E detalhe, no mundo inteiro, tá? Pode ser lá na Rússia. Perfeito. Porque a A vai entender todo o conteúdo e depois escrever o artigo em português. Depois vai para um cara que define o melhor título, com hooks, com chamadas. Mais uma AI também. Tudo IA. Quando eu falo cara, é tudo assistente de A. Aí esse cara escreve o título, esse cara escreve o artigo, esse cara otimiza a palavra-chave, esse cara otimiza a URL do artigo. Ou seja, acho que são sete ou oito assistentes de A, cada um fazendo... Com a sua especialidade. Com a sua especialidade, o seu prompt. Que basicamente, como é que eu escrevo esse prompt? Como é que seria se uma pessoa tivesse que criar um título para um artigo? Tem que colocar até 70 caracteres, a chamada... O treinamento dessa pessoa, eu passo a treinar IA com os mesmos direcionamentos do que deve fazer e o que não deve fazer. Basicamente, esses outputs vão sendo carregados, etapa por etapa. Então, esse cara escreveu o título, esse cara otimiza com base no conteúdo, no título. E no fim, sai um artigo pronto, que já é publicado no WordPress. Então, hoje eu estou aqui conversando com você, tem cinco artigos por dia sendo escritos em meu nome no blog. Porra. Nesse jeito, eu crio uma IA que eu brinco que chama IA no piloto automático. E a mesma coisa acontece no LinkedIn. Eu estou aqui conversando com você, o meu LinkedIn está sendo atualizado a cada três horas com notícias de inteligência artificial. Que estão acontecendo atualizadas no Brasil. E no seu Instagram? No meu Instagram ainda não, por quê? Porque o modelo de imagem de A, na minha opinião, não está tão sólido para eu ter uma entrega de qualidade ali. Mas assim que a gente tiver modelos de vídeo e imagem sólidos para eu criar uma automação e deixar no piloto automático, pode ter certeza que a gente vai colocar. Então, o artigo e o LinkedIn estão rodando automatizado. Mais um. É podcast. Eu clonei a minha voz de forma profissional. E aí, o que eu fiz? Eu criei um boletim diário das notícias de três, cinco minutinhos para o cara ouvir no carro, indo para o trabalho. O cara bota ali e ele sabe as novidades da IA que estão acontecendo no mundo com a minha voz clonada. Então, assim, a gente vai criando camadas de automação e eficiência operacional. Primeiro, reduzindo o número de pessoas que precisam para isso. Segundo, mantendo qualidade. Terceiro, é o que eu sempre falo, eficiência operacional. Além disso, vou falar uma de RH, tá? E para tudo aqui, você usa o sistema operacional, que é a linguagem que faz mais sentido? Então, para alguns é ChatGPT, para outros é Gemini, para outros é, sei lá, o que você falou. É DeepSeek, Clouded Unprof, Clouded Unprof, isso. Beleza, você vai usando aqui. Grok, do Elon Musk lá. Cada um, dependendo do teu objetivo final, você usa um deles. Legal. Manda o outro. Outro, vamos falar... Agora, o teu blog, ele está sendo bem ranqueado? Como é que é? Isso é que... É isso que eu mostro na prática. É isso que eu gosto de fazer. Aí, eu já sei que as pessoas já começam com essa objeção na cabeça. Ah, mas falam que blog com IA não funciona. Daqui a pouco, eu vou mostrar na academia de IA lá a curda do meu blog. A curda do meu blog é assim, ó. Crescendo pra caramba. Crescendo pra caramba. Em um ano. Eu já tenho mais de 1 milhão e 200 mil acessos com o blog do zero. O meu número de cliques é dar 36 mil cliques. Se você botar um custo por clique de 1,50, eu tenho uma economia de 50 mil reais de tráfego orgânico. Isso por mês. Não, isso durante o ano. Só que assim... Você está só no começo. Isso, e eu gastei 500. E eu gasto 500 reais de tokens para manter esse blog ativo no mês. Ou seja... Ele está se pagando e está... 6 mil reais gerou mais de 50 mil de tráfego. Então assim... E detalhe, é isso que você falou. Tem muito aprendizado meu nesse processo. Se eu fosse criar um blog hoje, seria bem mais otimizado. Porque é muito no detalhe. Eu falo assim, Rafael, mas e se o blog sair errado? Então, é outra objeção que as pessoas têm, né? Mas se o cara publicar uma notícia que não tem nada a ver, uma coisa que eu não concordo, eu mandava o artigo no formato... No draft, né? No rascunho. E aí eu li o artigo, revisava ele manualmente e ia melhorando o prompt. Chega um determinado momento que você começa só a aprovar. Nesse momento que você pode deixar no piloto automático. Perfeito. Tá? Então, você pode colocar uma camada de curadoria humana enquanto você vai ajustando o prompt. Isso não só pra blog. Pra qualquer coisa. Pro seu atendimento, pra qualquer coisa. Então, essa é a dica que eu dou. Coloca ali um formato onde você vai apertando pra dar fuço. Uma hora que você vira e fala assim, cara, tá melhor que o meu... Uma pessoa tivesse que escrever um artigo pra mim, a agência de marketing que eu contrato. Aí você deixa no piloto automático e vai. Cara, muito legal. Outro é de RH. Olha que legal. A gente tem uma ferramenta que chama... Recruta aí uma ferramenta que eu desenvolvi internamente. Porque a gente via que tinha muita divergência de análise de currículo interna. Porque você começa a ter... Cara, eu tenho uma visão de análise, o Iago tem outra, e as pessoas do time têm visões diferentes pra se tomar decisão. A gente pega e monta um assistente de como que a gente quer que analisa aquele currículo. Eu pego o PDF e coloco a descrição lá vaga e ele faz uma análise de todos aqueles perfis e fala, fala, quem que vai pra próxima etapa, quem não vai pra aquela etapa e por aí vai. Pra uma empresa pequena, no meu caso, foi muito mais por questão de padronização e de querer entender o que a gente tem como regra e a IA fazer essa análise. Numa empresa grande, isso faz muita diferença. A gente foi numa telecom em Recife que o maior gargalo deles era essa parte de triagem do currículo. Porque eles falavam que demorava 15 dias por tanto de currículo que chegava. E aí a gente colocou, e eles falaram, cara, passou de 15 dias pra 5 minutos. Que irado. Porrada. E outro detalhe, a IA conversacional, o pessoal falou assim, pô Rafa, mas não é só a análise do currículo do PDF, porque querendo ou não, hoje em dia o cara pode mentir muito ali, a gente acaba não conhecendo a pessoa lendo o PDF. O ideal seria ter uma ligação pra conversar com a pessoa. Aí eu desenvolvi. Aí eu desenvolvi um agente de IA no Eleven Labs que liga pro candidato e conversa com ele. E ele sabe que é um IA? Eu, no meu caso, aí é opcional, tá? Você pode passar pra uma pessoa, mas ainda tem um certo delayzinho. É muito bom já, tá? Passa tranquilamente ali, mas no meu caso eu apresento como IA, tá? Até porque eu acho que as pessoas gostam. Porque ter uma IA conversando comigo e me qualificando, essa empresa, ela já tá jogando outro jogo. Então eu acho interessante posicionar como IA, tá? Não vejo como algo ruim. Então ela fala, olha, eu sou a inteligência social que eu vou fazer umas perguntas pra você sobre a sua experiência e tudo mais. E aí eu tenho toda a transcrição daquela conversa. Aí eu mando pro novo assistente de A que resume e qualifica aquele lead pra um processo seletivo com mais acurácia. Com mais acurácia. O que mais você tem aí de legal? A gente tem essa parte do processo de marketing e vendas. A gente tem automações, por exemplo, dentro da parte contratual, que, por exemplo, o contrato chega, a gente consegue fazer uma análise contratual identificando os principais gargalos, tá? Isso eu uso muito pra mim. Pô, você deve ter muito",
+  "word_count": 1566,
+  "chunks_used": 1,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.25,
+      "timestamp": "00:00",
+      "text": "Eu trabalhei numa startup brasileira chamada Rock Content e eu entendi todo o processo de produção de blog a nível técnico."
+    },
+    {
+      "start": 11.25,
+      "end": 16.1,
+      "timestamp": "00:11",
+      "text": "Então a nível de otimização de SEO, de palavra-chave."
+    },
+    {
+      "start": 16.1,
+      "end": 34.31,
+      "timestamp": "00:16",
+      "text": "E aí eu peguei esse processo e falei o seguinte, tem esse processo de otimização de SEO, de meta description, várias coisas mega técnicas, a produção de um conteúdo que ranqueia no Google para a web."
+    },
+    {
+      "start": 34.31,
+      "end": 38.52,
+      "timestamp": "00:34",
+      "text": "Eu posso automatizar isso com assistente de A."
+    },
+    {
+      "start": 38.52,
+      "end": 47.67,
+      "timestamp": "00:38",
+      "text": "Então eu criei um fluxo de automação que basicamente funciona replicando o que eu aprendi lá dentro."
+    },
+    {
+      "start": 47.67,
+      "end": 51.32,
+      "timestamp": "00:47",
+      "text": "Exemplo, qual que era a primeira figura?"
+    },
+    {
+      "start": 51.32,
+      "end": 52.24,
+      "timestamp": "00:51",
+      "text": "Um editor."
+    },
+    {
+      "start": 52.24,
+      "end": 58.19,
+      "timestamp": "00:52",
+      "text": "O que o editor de um blog, um blog de sucesso, ele tem que fazer?"
+    },
+    {
+      "start": 58.19,
+      "end": 63.95,
+      "timestamp": "00:58",
+      "text": "Cara, tem que ficar antenado a posicionamento de palavra-chave."
+    },
+    {
+      "start": 63.95,
+      "end": 69.81,
+      "timestamp": "01:03",
+      "text": "Ah, saiu uma novidade de A hoje, a OpenAI lançou um novo modelo."
+    },
+    {
+      "start": 69.81,
+      "end": 76.85,
+      "timestamp": "01:09",
+      "text": "Ele precisa pegar essa pauta, trazer para cá, para trazer um conteúdo quente."
+    },
+    {
+      "start": 76.85,
+      "end": 78.59,
+      "timestamp": "01:16",
+      "text": "Então o que eu fiz?"
+    },
+    {
+      "start": 78.59,
+      "end": 82.8,
+      "timestamp": "01:18",
+      "text": "Eu peguei uma ferramenta que se chama rss.app."
+    },
+    {
+      "start": 82.8,
+      "end": 88.01,
+      "timestamp": "01:22",
+      "text": "Essa ferramenta eu crio feeds de atualizações de mercado."
+    },
+    {
+      "start": 88.01,
+      "end": 91.85,
+      "timestamp": "01:28",
+      "text": "Então eu consigo monitorar, por exemplo..."
+    },
+    {
+      "start": 91.85,
+      "end": 94.96,
+      "timestamp": "01:31",
+      "text": "Tudo que está acontecendo de novo."
+    },
+    {
+      "start": 94.96,
+      "end": 95.42,
+      "timestamp": "01:34",
+      "text": "Isso."
+    },
+    {
+      "start": 95.42,
+      "end": 98.35,
+      "timestamp": "01:35",
+      "text": "E detalhe, no mundo inteiro, tá?"
+    },
+    {
+      "start": 98.35,
+      "end": 100.36,
+      "timestamp": "01:38",
+      "text": "Pode ser lá na Rússia."
+    },
+    {
+      "start": 100.36,
+      "end": 101.19,
+      "timestamp": "01:40",
+      "text": "Perfeito."
+    },
+    {
+      "start": 101.19,
+      "end": 108.5,
+      "timestamp": "01:41",
+      "text": "Porque a A vai entender todo o conteúdo e depois escrever o artigo em português."
+    },
+    {
+      "start": 108.5,
+      "end": 115.46,
+      "timestamp": "01:48",
+      "text": "Depois vai para um cara que define o melhor título, com hooks, com chamadas."
+    },
+    {
+      "start": 115.46,
+      "end": 117.2,
+      "timestamp": "01:55",
+      "text": "Mais uma AI também."
+    },
+    {
+      "start": 117.2,
+      "end": 117.93,
+      "timestamp": "01:57",
+      "text": "Tudo IA."
+    },
+    {
+      "start": 117.93,
+      "end": 121.95,
+      "timestamp": "01:57",
+      "text": "Quando eu falo cara, é tudo assistente de A."
+    },
+    {
+      "start": 121.95,
+      "end": 133.66,
+      "timestamp": "02:01",
+      "text": "Aí esse cara escreve o título, esse cara escreve o artigo, esse cara otimiza a palavra-chave, esse cara otimiza a URL do artigo."
+    },
+    {
+      "start": 133.66,
+      "end": 140.16,
+      "timestamp": "02:13",
+      "text": "Ou seja, acho que são sete ou oito assistentes de A, cada um fazendo..."
+    },
+    {
+      "start": 140.16,
+      "end": 142.35,
+      "timestamp": "02:20",
+      "text": "Com a sua especialidade."
+    },
+    {
+      "start": 142.35,
+      "end": 145.83,
+      "timestamp": "02:22",
+      "text": "Com a sua especialidade, o seu prompt."
+    },
+    {
+      "start": 145.83,
+      "end": 150.5,
+      "timestamp": "02:25",
+      "text": "Que basicamente, como é que eu escrevo esse prompt?"
+    },
+    {
+      "start": 150.5,
+      "end": 157.27,
+      "timestamp": "02:30",
+      "text": "Como é que seria se uma pessoa tivesse que criar um título para um artigo?"
+    },
+    {
+      "start": 157.27,
+      "end": 161.57,
+      "timestamp": "02:37",
+      "text": "Tem que colocar até 70 caracteres, a chamada..."
+    },
+    {
+      "start": 161.57,
+      "end": 172.64,
+      "timestamp": "02:41",
+      "text": "O treinamento dessa pessoa, eu passo a treinar IA com os mesmos direcionamentos do que deve fazer e o que não deve fazer."
+    },
+    {
+      "start": 172.64,
+      "end": 178.58,
+      "timestamp": "02:52",
+      "text": "Basicamente, esses outputs vão sendo carregados, etapa por etapa."
+    },
+    {
+      "start": 178.58,
+      "end": 186.45,
+      "timestamp": "02:58",
+      "text": "Então, esse cara escreveu o título, esse cara otimiza com base no conteúdo, no título."
+    },
+    {
+      "start": 186.45,
+      "end": 192.31,
+      "timestamp": "03:06",
+      "text": "E no fim, sai um artigo pronto, que já é publicado no WordPress."
+    },
+    {
+      "start": 192.31,
+      "end": 202.28,
+      "timestamp": "03:12",
+      "text": "Então, hoje eu estou aqui conversando com você, tem cinco artigos por dia sendo escritos em meu nome no blog."
+    },
+    {
+      "start": 202.28,
+      "end": 202.83,
+      "timestamp": "03:22",
+      "text": "Porra."
+    },
+    {
+      "start": 202.83,
+      "end": 209.78,
+      "timestamp": "03:22",
+      "text": "Nesse jeito, eu crio uma IA que eu brinco que chama IA no piloto automático."
+    },
+    {
+      "start": 209.78,
+      "end": 213.17,
+      "timestamp": "03:29",
+      "text": "E a mesma coisa acontece no LinkedIn."
+    },
+    {
+      "start": 213.17,
+      "end": 225.15,
+      "timestamp": "03:33",
+      "text": "Eu estou aqui conversando com você, o meu LinkedIn está sendo atualizado a cada três horas com notícias de inteligência artificial."
+    },
+    {
+      "start": 225.15,
+      "end": 229.18,
+      "timestamp": "03:45",
+      "text": "Que estão acontecendo atualizadas no Brasil."
+    },
+    {
+      "start": 229.18,
+      "end": 230.91,
+      "timestamp": "03:49",
+      "text": "E no seu Instagram?"
+    },
+    {
+      "start": 230.91,
+      "end": 234.21,
+      "timestamp": "03:50",
+      "text": "No meu Instagram ainda não, por quê?"
+    },
+    {
+      "start": 234.21,
+      "end": 244.36,
+      "timestamp": "03:54",
+      "text": "Porque o modelo de imagem de A, na minha opinião, não está tão sólido para eu ter uma entrega de qualidade ali."
+    },
+    {
+      "start": 244.36,
+      "end": 259.18,
+      "timestamp": "04:04",
+      "text": "Mas assim que a gente tiver modelos de vídeo e imagem sólidos para eu criar uma automação e deixar no piloto automático, pode ter certeza que a gente vai colocar."
+    },
+    {
+      "start": 259.18,
+      "end": 264.31,
+      "timestamp": "04:19",
+      "text": "Então, o artigo e o LinkedIn estão rodando automatizado."
+    },
+    {
+      "start": 264.31,
+      "end": 265.04,
+      "timestamp": "04:24",
+      "text": "Mais um."
+    },
+    {
+      "start": 265.04,
+      "end": 265.95,
+      "timestamp": "04:25",
+      "text": "É podcast."
+    },
+    {
+      "start": 265.95,
+      "end": 269.98,
+      "timestamp": "04:25",
+      "text": "Eu clonei a minha voz de forma profissional."
+    },
+    {
+      "start": 269.98,
+      "end": 271.72,
+      "timestamp": "04:29",
+      "text": "E aí, o que eu fiz?"
+    },
+    {
+      "start": 271.72,
+      "end": 282.24,
+      "timestamp": "04:31",
+      "text": "Eu criei um boletim diário das notícias de três, cinco minutinhos para o cara ouvir no carro, indo para o trabalho."
+    },
+    {
+      "start": 282.24,
+      "end": 291.48,
+      "timestamp": "04:42",
+      "text": "O cara bota ali e ele sabe as novidades da IA que estão acontecendo no mundo com a minha voz clonada."
+    },
+    {
+      "start": 291.48,
+      "end": 298.8,
+      "timestamp": "04:51",
+      "text": "Então, assim, a gente vai criando camadas de automação e eficiência operacional."
+    },
+    {
+      "start": 298.8,
+      "end": 304.56,
+      "timestamp": "04:58",
+      "text": "Primeiro, reduzindo o número de pessoas que precisam para isso."
+    },
+    {
+      "start": 304.56,
+      "end": 307.12,
+      "timestamp": "05:04",
+      "text": "Segundo, mantendo qualidade."
+    },
+    {
+      "start": 307.12,
+      "end": 312.34,
+      "timestamp": "05:07",
+      "text": "Terceiro, é o que eu sempre falo, eficiência operacional."
+    },
+    {
+      "start": 312.34,
+      "end": 315.63,
+      "timestamp": "05:12",
+      "text": "Além disso, vou falar uma de RH, tá?"
+    },
+    {
+      "start": 315.63,
+      "end": 323.77,
+      "timestamp": "05:15",
+      "text": "E para tudo aqui, você usa o sistema operacional, que é a linguagem que faz mais sentido?"
+    },
+    {
+      "start": 323.77,
+      "end": 332.19,
+      "timestamp": "05:23",
+      "text": "Então, para alguns é ChatGPT, para outros é Gemini, para outros é, sei lá, o que você falou."
+    },
+    {
+      "start": 332.19,
+      "end": 336.67,
+      "timestamp": "05:32",
+      "text": "É DeepSeek, Clouded Unprof, Clouded Unprof, isso."
+    },
+    {
+      "start": 336.67,
+      "end": 339.33,
+      "timestamp": "05:36",
+      "text": "Beleza, você vai usando aqui."
+    },
+    {
+      "start": 339.33,
+      "end": 341.34,
+      "timestamp": "05:39",
+      "text": "Grok, do Elon Musk lá."
+    },
+    {
+      "start": 341.34,
+      "end": 346.92,
+      "timestamp": "05:41",
+      "text": "Cada um, dependendo do teu objetivo final, você usa um deles."
+    },
+    {
+      "start": 346.92,
+      "end": 347.47,
+      "timestamp": "05:46",
+      "text": "Legal."
+    },
+    {
+      "start": 347.47,
+      "end": 348.75,
+      "timestamp": "05:47",
+      "text": "Manda o outro."
+    },
+    {
+      "start": 348.75,
+      "end": 350.67,
+      "timestamp": "05:48",
+      "text": "Outro, vamos falar..."
+    },
+    {
+      "start": 350.67,
+      "end": 355.06,
+      "timestamp": "05:50",
+      "text": "Agora, o teu blog, ele está sendo bem ranqueado?"
+    },
+    {
+      "start": 355.06,
+      "end": 356.25,
+      "timestamp": "05:55",
+      "text": "Como é que é?"
+    },
+    {
+      "start": 356.25,
+      "end": 357.44,
+      "timestamp": "05:56",
+      "text": "Isso é que..."
+    },
+    {
+      "start": 357.44,
+      "end": 360.37,
+      "timestamp": "05:57",
+      "text": "É isso que eu mostro na prática."
+    },
+    {
+      "start": 360.37,
+      "end": 363.02,
+      "timestamp": "06:00",
+      "text": "É isso que eu gosto de fazer."
+    },
+    {
+      "start": 363.02,
+      "end": 369.15,
+      "timestamp": "06:03",
+      "text": "Aí, eu já sei que as pessoas já começam com essa objeção na cabeça."
+    },
+    {
+      "start": 369.15,
+      "end": 373.09,
+      "timestamp": "06:09",
+      "text": "Ah, mas falam que blog com IA não funciona."
+    },
+    {
+      "start": 373.09,
+      "end": 379.58,
+      "timestamp": "06:13",
+      "text": "Daqui a pouco, eu vou mostrar na academia de IA lá a curda do meu blog."
+    },
+    {
+      "start": 379.58,
+      "end": 382.42,
+      "timestamp": "06:19",
+      "text": "A curda do meu blog é assim, ó."
+    },
+    {
+      "start": 382.42,
+      "end": 384.43,
+      "timestamp": "06:22",
+      "text": "Crescendo pra caramba."
+    },
+    {
+      "start": 384.43,
+      "end": 386.44,
+      "timestamp": "06:24",
+      "text": "Crescendo pra caramba."
+    },
+    {
+      "start": 386.44,
+      "end": 387.36,
+      "timestamp": "06:26",
+      "text": "Em um ano."
+    },
+    {
+      "start": 387.36,
+      "end": 393.4,
+      "timestamp": "06:27",
+      "text": "Eu já tenho mais de 1 milhão e 200 mil acessos com o blog do zero."
+    },
+    {
+      "start": 393.4,
+      "end": 397.51,
+      "timestamp": "06:33",
+      "text": "O meu número de cliques é dar 36 mil cliques."
+    },
+    {
+      "start": 397.51,
+      "end": 406.75,
+      "timestamp": "06:37",
+      "text": "Se você botar um custo por clique de 1,50, eu tenho uma economia de 50 mil reais de tráfego orgânico."
+    },
+    {
+      "start": 406.75,
+      "end": 407.94,
+      "timestamp": "06:46",
+      "text": "Isso por mês."
+    },
+    {
+      "start": 407.94,
+      "end": 410.14,
+      "timestamp": "06:47",
+      "text": "Não, isso durante o ano."
+    },
+    {
+      "start": 410.14,
+      "end": 411.51,
+      "timestamp": "06:50",
+      "text": "Só que assim..."
+    },
+    {
+      "start": 411.51,
+      "end": 413.62,
+      "timestamp": "06:51",
+      "text": "Você está só no começo."
+    },
+    {
+      "start": 413.62,
+      "end": 415.63,
+      "timestamp": "06:53",
+      "text": "Isso, e eu gastei 500."
+    },
+    {
+      "start": 415.63,
+      "end": 421.67,
+      "timestamp": "06:55",
+      "text": "E eu gasto 500 reais de tokens para manter esse blog ativo no mês."
+    },
+    {
+      "start": 421.67,
+      "end": 422.58,
+      "timestamp": "07:01",
+      "text": "Ou seja..."
+    },
+    {
+      "start": 422.58,
+      "end": 425.23,
+      "timestamp": "07:02",
+      "text": "Ele está se pagando e está..."
+    },
+    {
+      "start": 425.23,
+      "end": 429.26,
+      "timestamp": "07:05",
+      "text": "6 mil reais gerou mais de 50 mil de tráfego."
+    },
+    {
+      "start": 429.26,
+      "end": 430.54,
+      "timestamp": "07:09",
+      "text": "Então assim..."
+    },
+    {
+      "start": 430.54,
+      "end": 433.56,
+      "timestamp": "07:10",
+      "text": "E detalhe, é isso que você falou."
+    },
+    {
+      "start": 433.56,
+      "end": 437.31,
+      "timestamp": "07:13",
+      "text": "Tem muito aprendizado meu nesse processo."
+    },
+    {
+      "start": 437.31,
+      "end": 442.53,
+      "timestamp": "07:17",
+      "text": "Se eu fosse criar um blog hoje, seria bem mais otimizado."
+    },
+    {
+      "start": 442.53,
+      "end": 444.9,
+      "timestamp": "07:22",
+      "text": "Porque é muito no detalhe."
+    },
+    {
+      "start": 444.9,
+      "end": 449.57,
+      "timestamp": "07:24",
+      "text": "Eu falo assim, Rafael, mas e se o blog sair errado?"
+    },
+    {
+      "start": 449.57,
+      "end": 453.78,
+      "timestamp": "07:29",
+      "text": "Então, é outra objeção que as pessoas têm, né?"
+    },
+    {
+      "start": 453.78,
+      "end": 465.03,
+      "timestamp": "07:33",
+      "text": "Mas se o cara publicar uma notícia que não tem nada a ver, uma coisa que eu não concordo, eu mandava o artigo no formato..."
+    },
+    {
+      "start": 465.03,
+      "end": 466.22,
+      "timestamp": "07:45",
+      "text": "No draft, né?"
+    },
+    {
+      "start": 466.22,
+      "end": 467.32,
+      "timestamp": "07:46",
+      "text": "No rascunho."
+    },
+    {
+      "start": 467.32,
+      "end": 473.81,
+      "timestamp": "07:47",
+      "text": "E aí eu li o artigo, revisava ele manualmente e ia melhorando o prompt."
+    },
+    {
+      "start": 473.81,
+      "end": 479.12,
+      "timestamp": "07:53",
+      "text": "Chega um determinado momento que você começa só a aprovar."
+    },
+    {
+      "start": 479.12,
+      "end": 484.24,
+      "timestamp": "07:59",
+      "text": "Nesse momento que você pode deixar no piloto automático."
+    },
+    {
+      "start": 484.24,
+      "end": 485.07,
+      "timestamp": "08:04",
+      "text": "Perfeito."
+    },
+    {
+      "start": 485.07,
+      "end": 485.34,
+      "timestamp": "08:05",
+      "text": "Tá?"
+    },
+    {
+      "start": 485.34,
+      "end": 493.85,
+      "timestamp": "08:05",
+      "text": "Então, você pode colocar uma camada de curadoria humana enquanto você vai ajustando o prompt."
+    },
+    {
+      "start": 493.85,
+      "end": 495.77,
+      "timestamp": "08:13",
+      "text": "Isso não só pra blog."
+    },
+    {
+      "start": 495.77,
+      "end": 497.51,
+      "timestamp": "08:15",
+      "text": "Pra qualquer coisa."
+    },
+    {
+      "start": 497.51,
+      "end": 501.17,
+      "timestamp": "08:17",
+      "text": "Pro seu atendimento, pra qualquer coisa."
+    },
+    {
+      "start": 501.17,
+      "end": 504.1,
+      "timestamp": "08:21",
+      "text": "Então, essa é a dica que eu dou."
+    },
+    {
+      "start": 504.1,
+      "end": 509.49,
+      "timestamp": "08:24",
+      "text": "Coloca ali um formato onde você vai apertando pra dar fuço."
+    },
+    {
+      "start": 509.49,
+      "end": 515.44,
+      "timestamp": "08:29",
+      "text": "Uma hora que você vira e fala assim, cara, tá melhor que o meu..."
+    },
+    {
+      "start": 515.44,
+      "end": 523.67,
+      "timestamp": "08:35",
+      "text": "Uma pessoa tivesse que escrever um artigo pra mim, a agência de marketing que eu contrato."
+    },
+    {
+      "start": 523.67,
+      "end": 527.43,
+      "timestamp": "08:43",
+      "text": "Aí você deixa no piloto automático e vai."
+    },
+    {
+      "start": 527.43,
+      "end": 529.07,
+      "timestamp": "08:47",
+      "text": "Cara, muito legal."
+    },
+    {
+      "start": 529.07,
+      "end": 530.35,
+      "timestamp": "08:49",
+      "text": "Outro é de RH."
+    },
+    {
+      "start": 530.35,
+      "end": 531.73,
+      "timestamp": "08:50",
+      "text": "Olha que legal."
+    },
+    {
+      "start": 531.73,
+      "end": 535.29,
+      "timestamp": "08:51",
+      "text": "A gente tem uma ferramenta que chama..."
+    },
+    {
+      "start": 535.29,
+      "end": 540.51,
+      "timestamp": "08:55",
+      "text": "Recruta aí uma ferramenta que eu desenvolvi internamente."
+    },
+    {
+      "start": 540.51,
+      "end": 547.74,
+      "timestamp": "09:00",
+      "text": "Porque a gente via que tinha muita divergência de análise de currículo interna."
+    },
+    {
+      "start": 547.74,
+      "end": 550.21,
+      "timestamp": "09:07",
+      "text": "Porque você começa a ter..."
+    },
+    {
+      "start": 550.21,
+      "end": 561.09,
+      "timestamp": "09:10",
+      "text": "Cara, eu tenho uma visão de análise, o Iago tem outra, e as pessoas do time têm visões diferentes pra se tomar decisão."
+    },
+    {
+      "start": 561.09,
+      "end": 569.24,
+      "timestamp": "09:21",
+      "text": "A gente pega e monta um assistente de como que a gente quer que analisa aquele currículo."
+    },
+    {
+      "start": 569.24,
+      "end": 585.52,
+      "timestamp": "09:29",
+      "text": "Eu pego o PDF e coloco a descrição lá vaga e ele faz uma análise de todos aqueles perfis e fala, fala, quem que vai pra próxima etapa, quem não vai pra aquela etapa e por aí vai."
+    },
+    {
+      "start": 585.52,
+      "end": 599.88,
+      "timestamp": "09:45",
+      "text": "Pra uma empresa pequena, no meu caso, foi muito mais por questão de padronização e de querer entender o que a gente tem como regra e a IA fazer essa análise."
+    },
+    {
+      "start": 599.88,
+      "end": 604.09,
+      "timestamp": "09:59",
+      "text": "Numa empresa grande, isso faz muita diferença."
+    },
+    {
+      "start": 604.09,
+      "end": 613.24,
+      "timestamp": "10:04",
+      "text": "A gente foi numa telecom em Recife que o maior gargalo deles era essa parte de triagem do currículo."
+    },
+    {
+      "start": 613.24,
+      "end": 620.19,
+      "timestamp": "10:13",
+      "text": "Porque eles falavam que demorava 15 dias por tanto de currículo que chegava."
+    },
+    {
+      "start": 620.19,
+      "end": 627.15,
+      "timestamp": "10:20",
+      "text": "E aí a gente colocou, e eles falaram, cara, passou de 15 dias pra 5 minutos."
+    },
+    {
+      "start": 627.15,
+      "end": 628.06,
+      "timestamp": "10:27",
+      "text": "Que irado."
+    },
+    {
+      "start": 628.06,
+      "end": 628.79,
+      "timestamp": "10:28",
+      "text": "Porrada."
+    },
+    {
+      "start": 628.79,
+      "end": 649.84,
+      "timestamp": "10:28",
+      "text": "E outro detalhe, a IA conversacional, o pessoal falou assim, pô Rafa, mas não é só a análise do currículo do PDF, porque querendo ou não, hoje em dia o cara pode mentir muito ali, a gente acaba não conhecendo a pessoa lendo o PDF."
+    },
+    {
+      "start": 649.84,
+      "end": 655.05,
+      "timestamp": "10:49",
+      "text": "O ideal seria ter uma ligação pra conversar com a pessoa."
+    },
+    {
+      "start": 655.05,
+      "end": 656.61,
+      "timestamp": "10:55",
+      "text": "Aí eu desenvolvi."
+    },
+    {
+      "start": 656.61,
+      "end": 664.84,
+      "timestamp": "10:56",
+      "text": "Aí eu desenvolvi um agente de IA no Eleven Labs que liga pro candidato e conversa com ele."
+    },
+    {
+      "start": 664.84,
+      "end": 666.94,
+      "timestamp": "11:04",
+      "text": "E ele sabe que é um IA?"
+    },
+    {
+      "start": 666.94,
+      "end": 670.15,
+      "timestamp": "11:06",
+      "text": "Eu, no meu caso, aí é opcional, tá?"
+    },
+    {
+      "start": 670.15,
+      "end": 676.28,
+      "timestamp": "11:10",
+      "text": "Você pode passar pra uma pessoa, mas ainda tem um certo delayzinho."
+    },
+    {
+      "start": 676.28,
+      "end": 678.01,
+      "timestamp": "11:16",
+      "text": "É muito bom já, tá?"
+    },
+    {
+      "start": 678.01,
+      "end": 684.14,
+      "timestamp": "11:18",
+      "text": "Passa tranquilamente ali, mas no meu caso eu apresento como IA, tá?"
+    },
+    {
+      "start": 684.14,
+      "end": 687.9,
+      "timestamp": "11:24",
+      "text": "Até porque eu acho que as pessoas gostam."
+    },
+    {
+      "start": 687.9,
+      "end": 696.95,
+      "timestamp": "11:27",
+      "text": "Porque ter uma IA conversando comigo e me qualificando, essa empresa, ela já tá jogando outro jogo."
+    },
+    {
+      "start": 696.95,
+      "end": 701.53,
+      "timestamp": "11:36",
+      "text": "Então eu acho interessante posicionar como IA, tá?"
+    },
+    {
+      "start": 701.53,
+      "end": 703.72,
+      "timestamp": "11:41",
+      "text": "Não vejo como algo ruim."
+    },
+    {
+      "start": 703.72,
+      "end": 715.43,
+      "timestamp": "11:43",
+      "text": "Então ela fala, olha, eu sou a inteligência social que eu vou fazer umas perguntas pra você sobre a sua experiência e tudo mais."
+    },
+    {
+      "start": 715.43,
+      "end": 720.01,
+      "timestamp": "11:55",
+      "text": "E aí eu tenho toda a transcrição daquela conversa."
+    },
+    {
+      "start": 720.01,
+      "end": 730.53,
+      "timestamp": "12:00",
+      "text": "Aí eu mando pro novo assistente de A que resume e qualifica aquele lead pra um processo seletivo com mais acurácia."
+    },
+    {
+      "start": 730.53,
+      "end": 732.18,
+      "timestamp": "12:10",
+      "text": "Com mais acurácia."
+    },
+    {
+      "start": 732.18,
+      "end": 735.1,
+      "timestamp": "12:12",
+      "text": "O que mais você tem aí de legal?"
+    },
+    {
+      "start": 735.1,
+      "end": 740.32,
+      "timestamp": "12:15",
+      "text": "A gente tem essa parte do processo de marketing e vendas."
+    },
+    {
+      "start": 740.32,
+      "end": 757.52,
+      "timestamp": "12:20",
+      "text": "A gente tem automações, por exemplo, dentro da parte contratual, que, por exemplo, o contrato chega, a gente consegue fazer uma análise contratual identificando os principais gargalos, tá?"
+    },
+    {
+      "start": 757.52,
+      "end": 759.9,
+      "timestamp": "12:37",
+      "text": "Isso eu uso muito pra mim."
+    },
+    {
+      "start": 759.9,
+      "end": 762.0,
+      "timestamp": "12:39",
+      "text": "Pô, você deve ter muito"
+    }
+  ],
+  "segment_count": 154,
+  "text_timestamped": "[00:00] Eu trabalhei numa startup brasileira chamada Rock Content e eu entendi todo o processo de produção de blog a nível técnico.\n[00:11] Então a nível de otimização de SEO, de palavra-chave.\n[00:16] E aí eu peguei esse processo e falei o seguinte, tem esse processo de otimização de SEO, de meta description, várias coisas mega técnicas, a produção de um conteúdo que ranqueia no Google para a web.\n[00:34] Eu posso automatizar isso com assistente de A.\n[00:38] Então eu criei um fluxo de automação que basicamente funciona replicando o que eu aprendi lá dentro.\n[00:47] Exemplo, qual que era a primeira figura?\n[00:51] Um editor.\n[00:52] O que o editor de um blog, um blog de sucesso, ele tem que fazer?\n[00:58] Cara, tem que ficar antenado a posicionamento de palavra-chave.\n[01:03] Ah, saiu uma novidade de A hoje, a OpenAI lançou um novo modelo.\n[01:09] Ele precisa pegar essa pauta, trazer para cá, para trazer um conteúdo quente.\n[01:16] Então o que eu fiz?\n[01:18] Eu peguei uma ferramenta que se chama rss.app.\n[01:22] Essa ferramenta eu crio feeds de atualizações de mercado.\n[01:28] Então eu consigo monitorar, por exemplo...\n[01:31] Tudo que está acontecendo de novo.\n[01:34] Isso.\n[01:35] E detalhe, no mundo inteiro, tá?\n[01:38] Pode ser lá na Rússia.\n[01:40] Perfeito.\n[01:41] Porque a A vai entender todo o conteúdo e depois escrever o artigo em português.\n[01:48] Depois vai para um cara que define o melhor título, com hooks, com chamadas.\n[01:55] Mais uma AI também.\n[01:57] Tudo IA.\n[01:57] Quando eu falo cara, é tudo assistente de A.\n[02:01] Aí esse cara escreve o título, esse cara escreve o artigo, esse cara otimiza a palavra-chave, esse cara otimiza a URL do artigo.\n[02:13] Ou seja, acho que são sete ou oito assistentes de A, cada um fazendo...\n[02:20] Com a sua especialidade.\n[02:22] Com a sua especialidade, o seu prompt.\n[02:25] Que basicamente, como é que eu escrevo esse prompt?\n[02:30] Como é que seria se uma pessoa tivesse que criar um título para um artigo?\n[02:37] Tem que colocar até 70 caracteres, a chamada...\n[02:41] O treinamento dessa pessoa, eu passo a treinar IA com os mesmos direcionamentos do que deve fazer e o que não deve fazer.\n[02:52] Basicamente, esses outputs vão sendo carregados, etapa por etapa.\n[02:58] Então, esse cara escreveu o título, esse cara otimiza com base no conteúdo, no título.\n[03:06] E no fim, sai um artigo pronto, que já é publicado no WordPress.\n[03:12] Então, hoje eu estou aqui conversando com você, tem cinco artigos por dia sendo escritos em meu nome no blog.\n[03:22] Porra.\n[03:22] Nesse jeito, eu crio uma IA que eu brinco que chama IA no piloto automático.\n[03:29] E a mesma coisa acontece no LinkedIn.\n[03:33] Eu estou aqui conversando com você, o meu LinkedIn está sendo atualizado a cada três horas com notícias de inteligência artificial.\n[03:45] Que estão acontecendo atualizadas no Brasil.\n[03:49] E no seu Instagram?\n[03:50] No meu Instagram ainda não, por quê?\n[03:54] Porque o modelo de imagem de A, na minha opinião, não está tão sólido para eu ter uma entrega de qualidade ali.\n[04:04] Mas assim que a gente tiver modelos de vídeo e imagem sólidos para eu criar uma automação e deixar no piloto automático, pode ter certeza que a gente vai colocar.\n[04:19] Então, o artigo e o LinkedIn estão rodando automatizado.\n[04:24] Mais um.\n[04:25] É podcast.\n[04:25] Eu clonei a minha voz de forma profissional.\n[04:29] E aí, o que eu fiz?\n[04:31] Eu criei um boletim diário das notícias de três, cinco minutinhos para o cara ouvir no carro, indo para o trabalho.\n[04:42] O cara bota ali e ele sabe as novidades da IA que estão acontecendo no mundo com a minha voz clonada.\n[04:51] Então, assim, a gente vai criando camadas de automação e eficiência operacional.\n[04:58] Primeiro, reduzindo o número de pessoas que precisam para isso.\n[05:04] Segundo, mantendo qualidade.\n[05:07] Terceiro, é o que eu sempre falo, eficiência operacional.\n[05:12] Além disso, vou falar uma de RH, tá?\n[05:15] E para tudo aqui, você usa o sistema operacional, que é a linguagem que faz mais sentido?\n[05:23] Então, para alguns é ChatGPT, para outros é Gemini, para outros é, sei lá, o que você falou.\n[05:32] É DeepSeek, Clouded Unprof, Clouded Unprof, isso.\n[05:36] Beleza, você vai usando aqui.\n[05:39] Grok, do Elon Musk lá.\n[05:41] Cada um, dependendo do teu objetivo final, você usa um deles.\n[05:46] Legal.\n[05:47] Manda o outro.\n[05:48] Outro, vamos falar...\n[05:50] Agora, o teu blog, ele está sendo bem ranqueado?\n[05:55] Como é que é?\n[05:56] Isso é que...\n[05:57] É isso que eu mostro na prática.\n[06:00] É isso que eu gosto de fazer.\n[06:03] Aí, eu já sei que as pessoas já começam com essa objeção na cabeça.\n[06:09] Ah, mas falam que blog com IA não funciona.\n[06:13] Daqui a pouco, eu vou mostrar na academia de IA lá a curda do meu blog.\n[06:19] A curda do meu blog é assim, ó.\n[06:22] Crescendo pra caramba.\n[06:24] Crescendo pra caramba.\n[06:26] Em um ano.\n[06:27] Eu já tenho mais de 1 milhão e 200 mil acessos com o blog do zero.\n[06:33] O meu número de cliques é dar 36 mil cliques.\n[06:37] Se você botar um custo por clique de 1,50, eu tenho uma economia de 50 mil reais de tráfego orgânico.\n[06:46] Isso por mês.\n[06:47] Não, isso durante o ano.\n[06:50] Só que assim...\n[06:51] Você está só no começo.\n[06:53] Isso, e eu gastei 500.\n[06:55] E eu gasto 500 reais de tokens para manter esse blog ativo no mês.\n[07:01] Ou seja...\n[07:02] Ele está se pagando e está...\n[07:05] 6 mil reais gerou mais de 50 mil de tráfego.\n[07:09] Então assim...\n[07:10] E detalhe, é isso que você falou.\n[07:13] Tem muito aprendizado meu nesse processo.\n[07:17] Se eu fosse criar um blog hoje, seria bem mais otimizado.\n[07:22] Porque é muito no detalhe.\n[07:24] Eu falo assim, Rafael, mas e se o blog sair errado?\n[07:29] Então, é outra objeção que as pessoas têm, né?\n[07:33] Mas se o cara publicar uma notícia que não tem nada a ver, uma coisa que eu não concordo, eu mandava o artigo no formato...\n[07:45] No draft, né?\n[07:46] No rascunho.\n[07:47] E aí eu li o artigo, revisava ele manualmente e ia melhorando o prompt.\n[07:53] Chega um determinado momento que você começa só a aprovar.\n[07:59] Nesse momento que você pode deixar no piloto automático.\n[08:04] Perfeito.\n[08:05] Tá?\n[08:05] Então, você pode colocar uma camada de curadoria humana enquanto você vai ajustando o prompt.\n[08:13] Isso não só pra blog.\n[08:15] Pra qualquer coisa.\n[08:17] Pro seu atendimento, pra qualquer coisa.\n[08:21] Então, essa é a dica que eu dou.\n[08:24] Coloca ali um formato onde você vai apertando pra dar fuço.\n[08:29] Uma hora que você vira e fala assim, cara, tá melhor que o meu...\n[08:35] Uma pessoa tivesse que escrever um artigo pra mim, a agência de marketing que eu contrato.\n[08:43] Aí você deixa no piloto automático e vai.\n[08:47] Cara, muito legal.\n[08:49] Outro é de RH.\n[08:50] Olha que legal.\n[08:51] A gente tem uma ferramenta que chama...\n[08:55] Recruta aí uma ferramenta que eu desenvolvi internamente.\n[09:00] Porque a gente via que tinha muita divergência de análise de currículo interna.\n[09:07] Porque você começa a ter...\n[09:10] Cara, eu tenho uma visão de análise, o Iago tem outra, e as pessoas do time têm visões diferentes pra se tomar decisão.\n[09:21] A gente pega e monta um assistente de como que a gente quer que analisa aquele currículo.\n[09:29] Eu pego o PDF e coloco a descrição lá vaga e ele faz uma análise de todos aqueles perfis e fala, fala, quem que vai pra próxima etapa, quem não vai pra aquela etapa e por aí vai.\n[09:45] Pra uma empresa pequena, no meu caso, foi muito mais por questão de padronização e de querer entender o que a gente tem como regra e a IA fazer essa análise.\n[09:59] Numa empresa grande, isso faz muita diferença.\n[10:04] A gente foi numa telecom em Recife que o maior gargalo deles era essa parte de triagem do currículo.\n[10:13] Porque eles falavam que demorava 15 dias por tanto de currículo que chegava.\n[10:20] E aí a gente colocou, e eles falaram, cara, passou de 15 dias pra 5 minutos.\n[10:27] Que irado.\n[10:28] Porrada.\n[10:28] E outro detalhe, a IA conversacional, o pessoal falou assim, pô Rafa, mas não é só a análise do currículo do PDF, porque querendo ou não, hoje em dia o cara pode mentir muito ali, a gente acaba não conhecendo a pessoa lendo o PDF.\n[10:49] O ideal seria ter uma ligação pra conversar com a pessoa.\n[10:55] Aí eu desenvolvi.\n[10:56] Aí eu desenvolvi um agente de IA no Eleven Labs que liga pro candidato e conversa com ele.\n[11:04] E ele sabe que é um IA?\n[11:06] Eu, no meu caso, aí é opcional, tá?\n[11:10] Você pode passar pra uma pessoa, mas ainda tem um certo delayzinho.\n[11:16] É muito bom já, tá?\n[11:18] Passa tranquilamente ali, mas no meu caso eu apresento como IA, tá?\n[11:24] Até porque eu acho que as pessoas gostam.\n[11:27] Porque ter uma IA conversando comigo e me qualificando, essa empresa, ela já tá jogando outro jogo.\n[11:36] Então eu acho interessante posicionar como IA, tá?\n[11:41] Não vejo como algo ruim.\n[11:43] Então ela fala, olha, eu sou a inteligência social que eu vou fazer umas perguntas pra você sobre a sua experiência e tudo mais.\n[11:55] E aí eu tenho toda a transcrição daquela conversa.\n[12:00] Aí eu mando pro novo assistente de A que resume e qualifica aquele lead pra um processo seletivo com mais acurácia.\n[12:10] Com mais acurácia.\n[12:12] O que mais você tem aí de legal?\n[12:15] A gente tem essa parte do processo de marketing e vendas.\n[12:20] A gente tem automações, por exemplo, dentro da parte contratual, que, por exemplo, o contrato chega, a gente consegue fazer uma análise contratual identificando os principais gargalos, tá?\n[12:37] Isso eu uso muito pra mim.\n[12:39] Pô, você deve ter muito",
+  "timestamps_estimated": true
+}

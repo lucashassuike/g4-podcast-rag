@@ -1,0 +1,230 @@
+{
+  "episode_id": "34748488442",
+  "title": "DE PEÃO DE RODEIOS A IDEALIZADOR DO CHURRASCADA - COM FELIPE AVERSA | EXTREMOS",
+  "date_published": 1715243400,
+  "duration": 3777,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Felipe Aversa",
+      "role": "guest",
+      "company": "Fazenda Churrascada",
+      "title": "Fundador e Idealizador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Will",
+      "role": "mentioned",
+      "company": "G4 Club",
+      "title": "Fundador"
+    },
+    {
+      "name": "Pierre",
+      "role": "mentioned",
+      "company": "Fazenda Churrascada",
+      "title": "Sócio"
+    },
+    {
+      "name": "Gustavo Lima",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cantor"
+    },
+    {
+      "name": "Chitãozinho E Xororó",
+      "role": "mentioned",
+      "company": "",
+      "title": "Dupla Sertaneja"
+    },
+    {
+      "name": "Leonardo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cantor"
+    },
+    {
+      "name": "Bruno Marrone",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cantor"
+    },
+    {
+      "name": "Botino",
+      "role": "mentioned",
+      "company": "Churrascada",
+      "title": "Curador e Sócio Fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Fazenda Churrascada",
+      "industry": "Gastronomia",
+      "context": "Empresa fundada por Felipe Aversa, focada em experiências gastronômicas relacionadas ao churrasco."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Organização envolvida na validação e acompanhamento de doações para o Rio Grande do Sul."
+    },
+    {
+      "name": "G4 Club",
+      "industry": "Rede de Negócios",
+      "context": "Organização mencionada em relação ao trabalho de Will no apoio às vítimas no Rio Grande do Sul."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Marca que ativou ações no espaço Fazenda Churrascada."
+    },
+    {
+      "name": "Diageo",
+      "industry": "Bebidas",
+      "context": "Marca que ativou ações no espaço Fazenda Churrascada."
+    },
+    {
+      "name": "Churrascada",
+      "industry": "Gastronomia e Eventos",
+      "context": "Festival e restaurante especializado em churrasco"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura do churrasco",
+      "category": "Cultura Gastronômica"
+    },
+    {
+      "name": "Aproveitamento total do animal",
+      "category": "Sustentabilidade Alimentar"
+    },
+    {
+      "name": "Defumação",
+      "category": "Técnica Culinária"
+    },
+    {
+      "name": "Churrasco brasileiro",
+      "category": "Cultura Gastronômica"
+    },
+    {
+      "name": "Churrasco americano",
+      "category": "Cultura Gastronômica"
+    },
+    {
+      "name": "Cultura Crioula",
+      "category": "Cultura Gastronômica"
+    },
+    {
+      "name": "Churrasco",
+      "category": "Cultura Gastronômica"
+    },
+    {
+      "name": "Rodeio",
+      "category": "Esporte e Cultura"
+    },
+    {
+      "name": "Corn Belt",
+      "category": "Agricultura"
+    },
+    {
+      "name": "CRM",
+      "category": "Tecnologia de Gestão"
+    },
+    {
+      "name": "Projeto de Fidelização",
+      "category": "Estratégia de Retenção de Clientes"
+    },
+    {
+      "name": "Ticket Médio",
+      "category": "Métrica Financeira"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "900 pessoas",
+      "context": "Número de pessoas envolvidas no movimento de apoio às vítimas no Rio Grande do Sul em dois dias."
+    },
+    {
+      "value": "100 a 150 mil reais",
+      "context": "Dívida acumulada por Felipe Aversa durante sua estadia na Itália."
+    },
+    {
+      "value": "1 milhão de dólares",
+      "context": "Prêmio para o vencedor do circuito de rodeio nos Estados Unidos."
+    },
+    {
+      "value": "Três meses",
+      "context": "Tempo de espera para reservas no restaurante Fazenda Churrascada após sua abertura."
+    },
+    {
+      "value": "22 edições",
+      "context": "Número de edições do Churrascada Festival"
+    },
+    {
+      "value": "5 mil convites em um dia",
+      "context": "Venda de ingressos para o Churrascada Festival"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Felipe Aversa",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Fazenda Churrascada",
+      "target_type": "company"
+    },
+    {
+      "source": "Botino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Churrascada",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Aversa",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Churrascada",
+      "target_type": "company"
+    },
+    {
+      "source": "Pierre",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Fazenda Churrascada",
+      "target_type": "company"
+    },
+    {
+      "source": "Will",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Fazenda Churrascada",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Fazenda Churrascada",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Diageo",
+      "target_type": "company"
+    }
+  ]
+}

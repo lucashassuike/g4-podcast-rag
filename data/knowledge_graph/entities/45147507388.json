@@ -1,0 +1,349 @@
+{
+  "episode_id": "45147507388",
+  "title": "O QUE RODRIGO MAROJA APRENDEU SOBRE CRESCIMENTO À FRENTE DO UNICÓRNIO DAKI | PAPO DE GESTÃO",
+  "date_published": 1762786801,
+  "duration": 3520,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Rodrigo Maroja",
+      "role": "guest",
+      "company": "Daki",
+      "title": "Fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "Daki",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alex",
+      "role": "mentioned",
+      "company": "Daki",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Dennis Wang",
+      "role": "mentioned",
+      "company": "Cabify",
+      "title": "Líder"
+    },
+    {
+      "name": "Travis Kalanick",
+      "role": "mentioned",
+      "company": "Cloud Kitchens",
+      "title": "Fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Daki",
+      "industry": "Delivery",
+      "context": "Startup de delivery fundada por Rodrigo Maroja e seus sócios, que se tornou um unicórnio em menos de um ano."
+    },
+    {
+      "name": "Cabify",
+      "industry": "Transporte",
+      "context": "Empresa onde Rodrigo Maroja trabalhou após a aquisição da Ezi Taxi."
+    },
+    {
+      "name": "Oyo",
+      "industry": "Hospitalidade",
+      "context": "Rede de hotéis populares que Rodrigo Maroja ajudou a trazer para o Brasil."
+    },
+    {
+      "name": "Cloud Kitchens",
+      "industry": "Cozinhas Compartilhadas",
+      "context": "Empresa fundada por Travis Kalanick, onde Rodrigo Maroja trabalhou antes de fundar a Daki."
+    },
+    {
+      "name": "Joker",
+      "industry": "Delivery",
+      "context": "Empresa americana com a qual a Daki realizou um M&A."
+    },
+    {
+      "name": "Softbank",
+      "industry": "Investimentos",
+      "context": "Investidor mencionado no contexto de startups e venture capital."
+    },
+    {
+      "name": "Nordic",
+      "industry": "Venture Capital",
+      "context": "Empresa de investimento mencionada por Bruno Nardon."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts of the podcast discussing business strategies."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Unicórnio",
+      "category": "Termo de Negócios"
+    },
+    {
+      "name": "Dark Kitchen",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Dark Store",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Margem",
+      "category": "Métrica Financeira"
+    },
+    {
+      "name": "Governança",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Tempo de Caixa",
+      "category": "Métrica Financeira"
+    },
+    {
+      "name": "unit economics",
+      "category": "Financial Analysis"
+    },
+    {
+      "name": "P&L (Profit and Loss Statement)",
+      "category": "Financial Analysis"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "KPIs (Key Performance Indicators)",
+      "category": "Performance Measurement"
+    },
+    {
+      "name": "sortimento",
+      "category": "Retail Strategy"
+    },
+    {
+      "name": "proposta de valor",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "CRM",
+      "category": "Gestão de relacionamento com o cliente"
+    },
+    {
+      "name": "Persona",
+      "category": "Marketing"
+    },
+    {
+      "name": "Lifestyle business",
+      "category": "Modelos de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "1.2 milhões de reais",
+      "context": "Capital inicial captado pela Daki com família e amigos."
+    },
+    {
+      "value": "20 mil reais",
+      "context": "Investimento inicial de Rodrigo Maroja na Daki."
+    },
+    {
+      "value": "50% year-over-year growth",
+      "context": "Growth rate of Daki since implementing operational efficiencies."
+    },
+    {
+      "value": "84 stores reduced to 60",
+      "context": "Daki's store count adjustment for operational efficiency."
+    },
+    {
+      "value": "Double-digit positive EBITDA",
+      "context": "Profitability of Daki's stores."
+    },
+    {
+      "value": "500,000 BRL monthly savings",
+      "context": "Savings from stopping bicycle rentals for delivery."
+    },
+    {
+      "value": "80+ regional food retailers with over 1 billion BRL revenue",
+      "context": "Illustration of Brazil's regional retail market strength."
+    },
+    {
+      "value": "80%",
+      "context": "Porcentagem de compras realizadas na Daki por clientes frequentes"
+    },
+    {
+      "value": "20%",
+      "context": "Porcentagem de compras realizadas em outros locais por clientes frequentes"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Daki",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Kpis (Key Performance Indicators)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Unit Economics",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Proposta De Valor",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Cloud Kitchens",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "P&L (Profit And Loss Statement)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Nordic",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Cabify",
+      "target_type": "company"
+    },
+    {
+      "source": "Daki",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Joker",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Maroja Works",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ebitda",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Oyo",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sortimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Maroja",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Daki",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

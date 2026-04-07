@@ -1,0 +1,337 @@
+{
+  "episode_id": "34748488454",
+  "title": "MUDE O JOGO DO NEGÓCIO COM UMA BOA GESTÃO FINANCEIRA - COM VINÍCIUS ROVEDA (CONTA AZUL) | PAPO DE GESTÃO",
+  "date_published": 1711355400,
+  "duration": 4265,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Vinícius Roveda",
+      "role": "guest",
+      "company": "Conta Azul",
+      "title": "Founder and CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Dona Orfila",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Freitas",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mickey Malka",
+      "role": "mentioned",
+      "company": "Ribbit Capital",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Conta Azul",
+      "industry": "Technology",
+      "context": "ERP and financial management solutions"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and training"
+    },
+    {
+      "name": "500 Startups",
+      "industry": "Aceleradora de Startups",
+      "context": "Aceleradora que ajudou a Conta Azul em seus estágios iniciais."
+    },
+    {
+      "name": "Peixe Urbano",
+      "industry": "E-commerce",
+      "context": "Mencionada como parte da geração anterior de startups no Brasil."
+    },
+    {
+      "name": "Buscapé",
+      "industry": "E-commerce",
+      "context": "Mencionada como parte da geração anterior de startups no Brasil."
+    },
+    {
+      "name": "Netshoes",
+      "industry": "E-commerce",
+      "context": "Mencionada como parte da geração anterior de startups no Brasil."
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Mencionada como parte da geração anterior de startups no Brasil."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Mencionada como parte da geração anterior de startups no Brasil."
+    },
+    {
+      "name": "Monaxis",
+      "industry": "Investimento em startups",
+      "context": "Investidora brasileira da Conta Azul."
+    },
+    {
+      "name": "Ribbit Capital",
+      "industry": "Investimento em startups",
+      "context": "Investidora da Conta Azul, mencionada como liderada por Mickey Malka."
+    },
+    {
+      "name": "Tiger Global",
+      "industry": "Investimento em startups",
+      "context": "Investidora da Conta Azul."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Serviços financeiros",
+      "context": "Investidora recente da Conta Azul, contribuindo com expertise em banking."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "gestão financeira",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "fluxo de caixa",
+      "category": "Financial Management"
+    },
+    {
+      "name": "planejamento financeiro",
+      "category": "Financial Management"
+    },
+    {
+      "name": "educação empresarial",
+      "category": "Business Education"
+    },
+    {
+      "name": "ERP",
+      "category": "Technology"
+    },
+    {
+      "name": "ERP em Nuvem",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "DRE (Demonstrativo de Resultados do Exercício)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Automatização de Processos",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "SaaS (Software as a Service)",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Ecossistema de Startups",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Crescimento sustentável",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Fundraising",
+      "category": "Financiamento de startups"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Zero to one",
+      "category": "Desenvolvimento de negócios"
+    },
+    {
+      "name": "Growth para eficiência",
+      "category": "Mudança estratégica"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "58%",
+      "context": "Percentage of small and medium businesses in Brazil that close within the first five years"
+    },
+    {
+      "value": "4 mil participantes",
+      "context": "Número de participantes na última conferência Conta Azul Con."
+    },
+    {
+      "value": "100 mil clientes",
+      "context": "Número de clientes da Conta Azul."
+    },
+    {
+      "value": "7 milhões de empresas",
+      "context": "Tamanho estimado do mercado potencial no Brasil."
+    },
+    {
+      "value": "100,000+ clientes",
+      "context": "Número de clientes da Conta Azul atualmente."
+    },
+    {
+      "value": "40% ao ano",
+      "context": "Taxa de crescimento anual atual da Conta Azul."
+    },
+    {
+      "value": "70%-100% ao ano",
+      "context": "Taxa de crescimento anual anterior da Conta Azul durante a fase de fundraising."
+    },
+    {
+      "value": "300 reais por mês",
+      "context": "Custo mensal do serviço de RP da Conta Azul."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Educação Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Conta Azul",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Peixe Urbano",
+      "target_type": "company"
+    },
+    {
+      "source": "Conta Azul",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "500 Startups",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Conta Azul",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Conta Azul",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "500 Startups",
+      "target_type": "company"
+    },
+    {
+      "source": "Conta Azul",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão Financeira",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vinícius Roveda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Conta Azul",
+      "target_type": "company"
+    },
+    {
+      "source": "Conta Azul",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Tiger Global",
+      "target_type": "company"
+    },
+    {
+      "source": "Conta Azul",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Mickey Malka",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ribbit Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Conta Azul",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Netshoes",
+      "target_type": "company"
+    },
+    {
+      "source": "Conta Azul",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Conta Azul",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Buscapé",
+      "target_type": "company"
+    },
+    {
+      "source": "Vinícius Roveda",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Conta Azul",
+      "target_type": "company"
+    },
+    {
+      "source": "Conta Azul",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Monaxis",
+      "target_type": "company"
+    },
+    {
+      "source": "Conta Azul",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Ribbit Capital",
+      "target_type": "company"
+    }
+  ]
+}

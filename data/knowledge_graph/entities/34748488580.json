@@ -1,0 +1,261 @@
+{
+  "episode_id": "34748488580",
+  "title": "Inteligência Artificial para Gerir e Escalar negócios - Afonso Menegola e Kleber Rodrigues (Microsoft) | Papo de Gestão",
+  "date_published": 1687510834,
+  "duration": 3196,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "João Vitor",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio e CEO"
+    },
+    {
+      "name": "Afonso Menegola",
+      "role": "guest",
+      "company": "Microsoft",
+      "title": "Arquiteto de Soluções"
+    },
+    {
+      "name": "Kleber Rodrigues",
+      "role": "guest",
+      "company": "Qualyserve",
+      "title": "CEO"
+    },
+    {
+      "name": "Satya Nadella",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Presidente"
+    },
+    {
+      "name": "Kevin Scott",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "CTO"
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia",
+      "context": "Parceira do G4 Educação e investidora da OpenAI"
+    },
+    {
+      "name": "Openai",
+      "industry": "Inteligência Artificial",
+      "context": "Desenvolvedora do ChatGPT e parceira da Microsoft"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Utiliza soluções de AI como Tutor AI e G4 AI"
+    },
+    {
+      "name": "Qualyserve",
+      "industry": "Consultoria e Serviços",
+      "context": "Empresa liderada por Kleber Rodrigues, membro do G4 Club"
+    },
+    {
+      "name": "Salesforce",
+      "industry": "Technology",
+      "context": "Mentioned as a CRM tool"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inteligência Artificial (AI)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "ChatGPT",
+      "category": "Ferramenta de AI"
+    },
+    {
+      "name": "Azure Cognitive Services",
+      "category": "Plataforma de AI"
+    },
+    {
+      "name": "Tutor AI",
+      "category": "Ferramenta de AI"
+    },
+    {
+      "name": "G4 AI",
+      "category": "Ferramenta de AI"
+    },
+    {
+      "name": "Data-driven",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Codex",
+      "category": "Modelo de AI"
+    },
+    {
+      "name": "Copilot",
+      "category": "Ferramenta de AI"
+    },
+    {
+      "name": "Power BI",
+      "category": "Ferramenta de BI"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "Cloud Computing",
+      "category": "Technology"
+    },
+    {
+      "name": "Machine Learning",
+      "category": "Technology"
+    },
+    {
+      "name": "Governança de Dados",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Plataformas as a Service",
+      "category": "Technology"
+    },
+    {
+      "name": "Intelligence Process Automation (IPA)",
+      "category": "Automation"
+    },
+    {
+      "name": "Robotic Process Automation (RPA)",
+      "category": "Automation"
+    },
+    {
+      "name": "OKR",
+      "category": "Management Framework"
+    },
+    {
+      "name": "CRM",
+      "category": "Business Tool"
+    },
+    {
+      "name": "KPIs",
+      "category": "Performance Metrics"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "1.200",
+      "context": "Usuários do Tutor AI no primeiro dia de lançamento"
+    },
+    {
+      "value": "940 horas",
+      "context": "Tempo de mentoria simulada pelo Tutor AI em 24 horas"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Openai",
+      "target_type": "company"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Salesforce",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Tutor Ai",
+      "target_type": "concept"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Copilot",
+      "target_type": "concept"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Openai",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Azure Cognitive Services",
+      "target_type": "concept"
+    },
+    {
+      "source": "Kleber Rodrigues",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Openai",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Chatgpt",
+      "target_type": "concept"
+    },
+    {
+      "source": "Afonso Menegola",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Bill Gates",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Ai",
+      "target_type": "concept"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Codex",
+      "target_type": "concept"
+    }
+  ]
+}

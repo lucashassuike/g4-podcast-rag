@@ -1,0 +1,290 @@
+{
+  "episode_id": "34748488464",
+  "title": "VISÃO DE NEGÓCIOS PARA 2024 NO BRASIL - COM SAMY DANA | PAPO DE GESTÃO",
+  "date_published": 1708938240,
+  "duration": 4268,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Sami Dana",
+      "role": "guest",
+      "company": "Jovem Pan",
+      "title": "Comentarista"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Paulo Guedes",
+      "role": "mentioned",
+      "company": "Governo Brasileiro",
+      "title": "Ex-Ministro da Economia"
+    },
+    {
+      "name": "Ricardo Basaglia",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Samy Dana",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Vitão",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marcelinha",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "André",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Victor",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Plataforma de treinamento e desenvolvimento empresarial"
+    },
+    {
+      "name": "Americanas",
+      "industry": "Varejo",
+      "context": "Discussão sobre impacto no mercado de crédito devido a problemas financeiros"
+    },
+    {
+      "name": "Unilever",
+      "industry": "Consumer Goods",
+      "context": "Consultoria realizada por Samy Dana para análise de mercado de desodorantes."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Fornecedor do Power BI, uma ferramenta de BI mencionada."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Fornecedor de soluções de BI mencionadas."
+    },
+    {
+      "name": "Tableau",
+      "industry": "Technology",
+      "context": "Provider of BI solutions"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Arcabouço Fiscal",
+      "category": "Política Econômica"
+    },
+    {
+      "name": "Produtividade",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Tecnologia para aumento de produtividade",
+      "category": "Inovação Empresarial"
+    },
+    {
+      "name": "foco e priorização",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "maturidade empresarial",
+      "category": "Business Development"
+    },
+    {
+      "name": "eficiência operacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "tecnologia proprietária",
+      "category": "Technology"
+    },
+    {
+      "name": "cultura de dados",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "KPIs",
+      "category": "Performance Metrics"
+    },
+    {
+      "name": "economia de recursos",
+      "category": "Economics"
+    },
+    {
+      "name": "ciência de dados",
+      "category": "Data Science"
+    },
+    {
+      "name": "clusterização de clientes",
+      "category": "Marketing"
+    },
+    {
+      "name": "promoções de preço",
+      "category": "Marketing"
+    },
+    {
+      "name": "correlação espúria",
+      "category": "Statistics"
+    },
+    {
+      "name": "Business Intelligence (BI)",
+      "category": "Technology"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "Regra de Pareto",
+      "category": "Framework"
+    },
+    {
+      "name": "Smart Efficiency",
+      "category": "Strategy"
+    },
+    {
+      "name": "Reconhecimento de Imagem",
+      "category": "Technology"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "4 empresas fechando por minuto",
+      "context": "Taxa de fechamento de empresas no Brasil em 2023"
+    },
+    {
+      "value": "Mais de 2 milhões de negócios extintos",
+      "context": "Número de empresas fechadas em 2023"
+    },
+    {
+      "value": "25% maior que 2022",
+      "context": "Aumento na taxa de fechamento de empresas comparado ao ano anterior"
+    },
+    {
+      "value": "77%",
+      "context": "Percentual de respondentes otimistas com o ambiente de negócios para 2024."
+    },
+    {
+      "value": "3.500",
+      "context": "Número de pessoas participantes da pesquisa mencionada."
+    },
+    {
+      "value": "40 minutos",
+      "context": "Duration of pre-sales interviews before AI implementation"
+    },
+    {
+      "value": "24 minutos",
+      "context": "Duration of pre-sales interviews after AI implementation"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Samy Dana",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ciência De Dados",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Sami Dana",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Jovem Pan",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Arcabouço Fiscal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Samy Dana",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Artificial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Soluções De Bi",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Business Intelligence (Bi)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Samy Dana",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Unilever",
+      "target_type": "company"
+    },
+    {
+      "source": "Samy Dana",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura De Dados",
+      "target_type": "concept"
+    },
+    {
+      "source": "Microsoft",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Power Bi",
+      "target_type": "company"
+    },
+    {
+      "source": "Americanas",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mercado De Crédito",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Inteligência Artificial",
+      "target_type": "concept"
+    }
+  ]
+}

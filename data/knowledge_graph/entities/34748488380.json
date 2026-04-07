@@ -1,0 +1,353 @@
+{
+  "episode_id": "34748488380",
+  "title": "COMO ELE CONSEGUIU RECUPERAR UM NEGÓCIO MILIONÁRIO - COM PEDRO BARTELLE, CEO DA VULCABRAS | PAPO DE GESTÃO",
+  "date_published": 1730098800,
+  "duration": 3402,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Pedro Bartelle",
+      "role": "guest",
+      "company": "Vulcabras",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Vulcabras",
+      "industry": "Footwear and Sportswear",
+      "context": "Operates brands Olímpicos, Under Armour, Mizuno in Brazil"
+    },
+    {
+      "name": "Mizuno",
+      "industry": "Sportswear",
+      "context": "Brand operated by Vulcabras in Brazil"
+    },
+    {
+      "name": "Under Armour",
+      "industry": "Sportswear",
+      "context": "Brand operated by Vulcabras in Brazil"
+    },
+    {
+      "name": "Olímpicos",
+      "industry": "Sportswear",
+      "context": "Brand operated by Vulcabras in Brazil"
+    },
+    {
+      "name": "Grandene",
+      "industry": "Footwear",
+      "context": "Founded by Pedro Bartelle's father and uncle"
+    },
+    {
+      "name": "Reebok",
+      "industry": "Sportswear",
+      "context": "Pedro Bartelle opened the first outlets in Brazil for this brand"
+    },
+    {
+      "name": "Sight Shoes",
+      "industry": "Retail",
+      "context": "Pedro Bartelle's multibrand store and e-commerce venture"
+    },
+    {
+      "name": "Privalia",
+      "industry": "E-commerce",
+      "context": "Used by Vulcabras for inventory clearance"
+    },
+    {
+      "name": "Galeazzi & Associados",
+      "industry": "Consulting",
+      "context": "Consultancy firm that assisted Vulcabras in restructuring"
+    },
+    {
+      "name": "Zalea",
+      "industry": "Footwear",
+      "context": "Acquired by Vulcabras, bringing the brand Olímpicos."
+    },
+    {
+      "name": "Canui",
+      "industry": "E-commerce",
+      "context": "Referenced as an example of implementing consumer-oriented production strategies."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Decision-making",
+      "category": "Management"
+    },
+    {
+      "name": "Business restructuring",
+      "category": "Strategy"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Retail"
+    },
+    {
+      "name": "Brand licensing",
+      "category": "Business model"
+    },
+    {
+      "name": "Inventory management",
+      "category": "Operations"
+    },
+    {
+      "name": "Market adaptation",
+      "category": "Strategy"
+    },
+    {
+      "name": "re-IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "CAPEX",
+      "category": "Finance"
+    },
+    {
+      "name": "sell-out analysis",
+      "category": "Market Intelligence"
+    },
+    {
+      "name": "consumer-oriented production",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "vertical integration",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "professionalization",
+      "category": "Business Management"
+    },
+    {
+      "name": "Licenciamento de marcas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Eficiência operacional",
+      "category": "Gestão empresarial"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "18,000",
+      "context": "Number of employees at Vulcabras"
+    },
+    {
+      "value": "25%",
+      "context": "Percentage of Vulcabras' revenue from the female footwear sector before restructuring"
+    },
+    {
+      "value": "1 billion and 100 million BRL",
+      "context": "Debt of Vulcabras during 2012-2013."
+    },
+    {
+      "value": "300 million BRL",
+      "context": "Annual loss of Vulcabras during 2012-2013."
+    },
+    {
+      "value": "700 million BRL",
+      "context": "Capital raised during Vulcabras' re-IPO in 2017."
+    },
+    {
+      "value": "1 billion and 300 million BRL",
+      "context": "Vulcabras' revenue before restructuring."
+    },
+    {
+      "value": "3 billion BRL",
+      "context": "Vulcabras' revenue after restructuring and growth."
+    },
+    {
+      "value": "120 pessoas",
+      "context": "Número médio de pessoas envolvidas na produção de um tênis"
+    },
+    {
+      "value": "18 mil colaboradores",
+      "context": "Número total de funcionários na Vulcabras"
+    },
+    {
+      "value": "25% do faturamento",
+      "context": "Participação do setor feminino no faturamento da Vulcabras antes da reestruturação"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Vulcabras",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mizuno",
+      "target_type": "company"
+    },
+    {
+      "source": "Vulcabras",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Privalia",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Bartelle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Consumer-Oriented Production",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vulcabras",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Mizuno",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Bartelle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Capex",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vulcabras",
+      "source_type": "company",
+      "relation": "licensed",
+      "target": "Grandene",
+      "target_type": "company"
+    },
+    {
+      "source": "Vulcabras",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Zalea",
+      "target_type": "company"
+    },
+    {
+      "source": "Vulcabras",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Sportswear",
+      "target_type": "company"
+    },
+    {
+      "source": "Vulcabras",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Under Armour",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Bartelle",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vulcabras",
+      "target_type": "company"
+    },
+    {
+      "source": "Vulcabras",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Under Armour",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Bartelle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Professionalization",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vulcabras",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Galeazzi & Associados",
+      "target_type": "company"
+    },
+    {
+      "source": "Vulcabras",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Olímpicos",
+      "target_type": "company"
+    },
+    {
+      "source": "Zalea",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Olímpicos",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Bartelle",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sight Shoes",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Bartelle",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Grandene",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Bartelle",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Reebok Outlets In Brazil",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Bartelle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Canui",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Bartelle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vertical Integration",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Bartelle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sell-Out Analysis",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Bartelle",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Re-Ipo",
+      "target_type": "concept"
+    }
+  ]
+}

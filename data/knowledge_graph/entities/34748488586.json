@@ -1,0 +1,360 @@
+{
+  "episode_id": "34748488586",
+  "title": "Luciano Bruno - Hábitos Para Aumentar o Rendimento, Epigenética e Como Evitar Doenças | Sem Atalhos",
+  "date_published": 1686560432,
+  "duration": 4780,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Luciano Bruno",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Doutor Goldenberg",
+      "role": "mentioned",
+      "company": "",
+      "title": "reumatologista"
+    },
+    {
+      "name": "Arthur",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Universidade Federal",
+      "industry": "Educação",
+      "context": "Local onde Luciano Bruno trabalhou antes de empreender"
+    },
+    {
+      "name": "Whole Foods",
+      "industry": "Varejo",
+      "context": "Local onde Luciano Bruno comprou revistas"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "estilo de vida saudável",
+      "category": "health"
+    },
+    {
+      "name": "radicais livres",
+      "category": "health"
+    },
+    {
+      "name": "antioxidantes",
+      "category": "health"
+    },
+    {
+      "name": "vasodilatação",
+      "category": "health"
+    },
+    {
+      "name": "óxido nítrico",
+      "category": "health"
+    },
+    {
+      "name": "jejum",
+      "category": "health"
+    },
+    {
+      "name": "corpos cetônicos",
+      "category": "health"
+    },
+    {
+      "name": "tiroidite Hashimoto",
+      "category": "health"
+    },
+    {
+      "name": "espondilite anquilosante",
+      "category": "health"
+    },
+    {
+      "name": "proteína C reativa",
+      "category": "health"
+    },
+    {
+      "name": "VHS (velocidade de hemossedimentação)",
+      "category": "health"
+    },
+    {
+      "name": "banheira de gelo",
+      "category": "health"
+    },
+    {
+      "name": "ciência de alimentos",
+      "category": "academic"
+    },
+    {
+      "name": "iniciativa privada em pesquisa",
+      "category": "business"
+    },
+    {
+      "name": "Epigenética",
+      "category": "Ciência"
+    },
+    {
+      "name": "Estilo de vida",
+      "category": "Saúde e bem-estar"
+    },
+    {
+      "name": "Sono reparador",
+      "category": "Saúde e bem-estar"
+    },
+    {
+      "name": "Polimorfismos genéticos",
+      "category": "Genética"
+    },
+    {
+      "name": "NF-KB",
+      "category": "Biologia molecular"
+    },
+    {
+      "name": "fitoquímicos",
+      "category": "nutrição"
+    },
+    {
+      "name": "macronutrientes",
+      "category": "nutrição"
+    },
+    {
+      "name": "massa magra",
+      "category": "saúde"
+    },
+    {
+      "name": "carb cycling",
+      "category": "estratégia nutricional"
+    },
+    {
+      "name": "jejum intermitente",
+      "category": "estratégia nutricional"
+    },
+    {
+      "name": "Distribuição de carga glicêmica",
+      "category": "nutrição"
+    },
+    {
+      "name": "Musculação",
+      "category": "exercício físico"
+    },
+    {
+      "name": "Fisiculturismo",
+      "category": "profissão"
+    },
+    {
+      "name": "Inflamação intestinal",
+      "category": "saúde"
+    },
+    {
+      "name": "Inflamações articulares",
+      "category": "saúde"
+    },
+    {
+      "name": "Anabolizantes",
+      "category": "substâncias"
+    },
+    {
+      "name": "Estado hipercatabólico",
+      "category": "saúde"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "3 mil",
+      "context": "nível de proteína C reativa mencionado por Luciano Bruno"
+    },
+    {
+      "value": "25-30",
+      "context": "nível de VHS mencionado por Luciano Bruno"
+    },
+    {
+      "value": "50 miligramas",
+      "context": "média de ingestão de fitoquímicos pelo brasileiro"
+    },
+    {
+      "value": "2.000 miligramas",
+      "context": "necessidade diária de fitoquímicos"
+    },
+    {
+      "value": "40 minutos",
+      "context": "tempo de caminhada diária mencionada pelo paciente"
+    },
+    {
+      "value": "92 anos",
+      "context": "idade de um paciente mencionado"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Carb Cycling",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fisiculturismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jejum Intermitente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Anabolizantes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Musculação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inflamação Intestinal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Doutor Goldenberg",
+      "target_type": "person"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Massa Magra",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Polimorfismos Genéticos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estado Hipercatabólico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Universidade Federal",
+      "target_type": "company"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sono Reparador",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Radicais Livres",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Macronutrientes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Epigenética",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estilo De Vida",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inflamações Articulares",
+      "target_type": "concept"
+    },
+    {
+      "source": "Arnold Schwarzenegger",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Fisiculturismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Distribuição De Carga Glicêmica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nf-Kb",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Whole Foods",
+      "target_type": "company"
+    },
+    {
+      "source": "Luciano Bruno",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fitoquímicos",
+      "target_type": "concept"
+    }
+  ]
+}

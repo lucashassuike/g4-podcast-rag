@@ -1,0 +1,361 @@
+{
+  "episode_id": "34748488612",
+  "title": "Batalha dos Tronos | Conectando os Pontos",
+  "date_published": 1679562058,
+  "duration": 1995,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Renata Spalit",
+      "role": "mentioned",
+      "company": "Apsem",
+      "title": "Vice-presidente executiva"
+    },
+    {
+      "name": "Abílio Diniz",
+      "role": "mentioned",
+      "company": "Grupo Pão de Açúcar",
+      "title": "Empresário"
+    },
+    {
+      "name": "Francesco Matarazzo",
+      "role": "mentioned",
+      "company": "Indústrias Reunidas Matarazzo",
+      "title": "Patriarca da família Matarazzo"
+    },
+    {
+      "name": "Richard Stade",
+      "role": "guest",
+      "company": "Aramis",
+      "title": "CEO"
+    },
+    {
+      "name": "Sandra Schaio",
+      "role": "guest",
+      "company": "Grupo Roupe",
+      "title": "Diretora de Marketing e Estilo"
+    },
+    {
+      "name": "Valécio Kepp",
+      "role": "mentioned",
+      "company": "Grupo Águia Branca",
+      "title": "Fundador"
+    },
+    {
+      "name": "Vander Kepp",
+      "role": "mentioned",
+      "company": "Grupo Águia Branca",
+      "title": "Fundador"
+    },
+    {
+      "name": "Ailmer Kepp",
+      "role": "mentioned",
+      "company": "Grupo Águia Branca",
+      "title": "Fundador"
+    },
+    {
+      "name": "Leon Pfeffer",
+      "role": "mentioned",
+      "company": "Suzano",
+      "title": "Fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Apsem",
+      "industry": "Farmacêutica",
+      "context": "Empresa familiar mencionada como exemplo de transição geracional bem-sucedida."
+    },
+    {
+      "name": "Puma",
+      "industry": "Materiais esportivos",
+      "context": "Fundada após a separação dos irmãos Dassler."
+    },
+    {
+      "name": "Adidas",
+      "industry": "Materiais esportivos",
+      "context": "Fundada após a separação dos irmãos Dassler."
+    },
+    {
+      "name": "Nike",
+      "industry": "Materiais esportivos",
+      "context": "Concorrente das empresas Puma e Adidas."
+    },
+    {
+      "name": "Gucci",
+      "industry": "Moda",
+      "context": "Empresa familiar que enfrentou crises e foi vendida para a Kering."
+    },
+    {
+      "name": "Kering",
+      "industry": "Moda",
+      "context": "Conglomerado que adquiriu a Gucci."
+    },
+    {
+      "name": "Gerdau",
+      "industry": "Siderurgia",
+      "context": "Exemplo de empresa familiar brasileira."
+    },
+    {
+      "name": "Tramontina",
+      "industry": "Utensílios domésticos",
+      "context": "Exemplo de empresa familiar brasileira."
+    },
+    {
+      "name": "Weg",
+      "industry": "Eletroeletrônicos",
+      "context": "Exemplo de empresa familiar brasileira."
+    },
+    {
+      "name": "Randon",
+      "industry": "Implementos rodoviários",
+      "context": "Exemplo de empresa familiar brasileira."
+    },
+    {
+      "name": "Siemens",
+      "industry": "Tecnologia e engenharia",
+      "context": "Fundada por irmãos na Europa."
+    },
+    {
+      "name": "Peugeot",
+      "industry": "Automotiva",
+      "context": "Fundada por irmãos na Europa."
+    },
+    {
+      "name": "Michelin",
+      "industry": "Pneus",
+      "context": "Fundada por irmãos na Europa."
+    },
+    {
+      "name": "Johnson & Johnson",
+      "industry": "Farmacêutica e bens de consumo",
+      "context": "Fundada por irmãos nos Estados Unidos."
+    },
+    {
+      "name": "Warner",
+      "industry": "Entretenimento",
+      "context": "Fundada por irmãos nos Estados Unidos."
+    },
+    {
+      "name": "Disney",
+      "industry": "Entretenimento",
+      "context": "Fundada por irmãos nos Estados Unidos."
+    },
+    {
+      "name": "Grupo Pão De Açúcar",
+      "industry": "Varejo",
+      "context": "Discussão sobre conflitos familiares e reestruturação liderada por Abílio Diniz."
+    },
+    {
+      "name": "Indústrias Reunidas Matarazzo",
+      "industry": "Diversos setores",
+      "context": "Exemplo de empresa familiar que enfrentou ruína devido a conflitos familiares."
+    },
+    {
+      "name": "Aramis",
+      "industry": "Moda",
+      "context": "Discussão sobre sucessão e respeito nas empresas familiares."
+    },
+    {
+      "name": "Grupo Roupe",
+      "industry": "Moda",
+      "context": "Discussão sobre sucessão e respeito nas empresas familiares."
+    },
+    {
+      "name": "Grupo Águia Branca",
+      "industry": "Transporte",
+      "context": "Exemplo de empresa familiar que prosperou através da profissionalização da gestão."
+    },
+    {
+      "name": "Suzano",
+      "industry": "Celulose",
+      "context": "Exemplo de empresa familiar que implementou governança corporativa para sucesso."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Empresas familiares",
+      "category": "Modelo de negócio"
+    },
+    {
+      "name": "Governança corporativa",
+      "category": "Estratégia de gestão"
+    },
+    {
+      "name": "Planejamento sucessório",
+      "category": "Estratégia de gestão"
+    },
+    {
+      "name": "Revolução Industrial",
+      "category": "Evento histórico"
+    },
+    {
+      "name": "Dinastias empresariais",
+      "category": "Modelo de negócio"
+    },
+    {
+      "name": "Globalização",
+      "category": "Fenômeno econômico"
+    },
+    {
+      "name": "Conflitos familiares",
+      "category": "Desafios empresariais"
+    },
+    {
+      "name": "Profissionalização da gestão",
+      "category": "Estratégia de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "90%",
+      "context": "Porcentagem de empresas familiares no Brasil."
+    },
+    {
+      "value": "85%",
+      "context": "Porcentagem de empresas familiares no mundo."
+    },
+    {
+      "value": "36%",
+      "context": "Porcentagem de empresas familiares que sobrevivem até a segunda geração."
+    },
+    {
+      "value": "19%",
+      "context": "Porcentagem de empresas familiares que sobrevivem até a terceira geração."
+    },
+    {
+      "value": "7%",
+      "context": "Porcentagem de empresas familiares que sobrevivem até a quarta geração."
+    },
+    {
+      "value": "75%",
+      "context": "Porcentagem de empregos gerados por empresas familiares no Brasil."
+    },
+    {
+      "value": "65%",
+      "context": "Porcentagem do PIB brasileiro representado por empresas familiares."
+    },
+    {
+      "value": "36%",
+      "context": "Empresas familiares que sobrevivem até a segunda geração, segundo estudo da PWC."
+    },
+    {
+      "value": "19%",
+      "context": "Empresas familiares que sobrevivem até a terceira geração, segundo estudo da PWC."
+    },
+    {
+      "value": "7%",
+      "context": "Empresas familiares que sobrevivem até a quarta geração, segundo estudo da PWC."
+    },
+    {
+      "value": "45,000",
+      "context": "Número de funcionários antes da reestruturação no Grupo Pão de Açúcar."
+    },
+    {
+      "value": "17,000",
+      "context": "Número de funcionários após a reestruturação no Grupo Pão de Açúcar."
+    },
+    {
+      "value": "10 bilhões de reais",
+      "context": "Faturamento do Grupo Águia Branca."
+    },
+    {
+      "value": "14,000",
+      "context": "Número de funcionários do Grupo Águia Branca."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Valécio Kepp",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Águia Branca",
+      "target_type": "company"
+    },
+    {
+      "source": "Adidas",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Nike",
+      "target_type": "company"
+    },
+    {
+      "source": "Francesco Matarazzo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Indústrias Reunidas Matarazzo",
+      "target_type": "company"
+    },
+    {
+      "source": "Vander Kepp",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Águia Branca",
+      "target_type": "company"
+    },
+    {
+      "source": "Puma",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Nike",
+      "target_type": "company"
+    },
+    {
+      "source": "Leon Pfeffer",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Suzano",
+      "target_type": "company"
+    },
+    {
+      "source": "Puma",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Adidas",
+      "target_type": "company"
+    },
+    {
+      "source": "Ailmer Kepp",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Águia Branca",
+      "target_type": "company"
+    },
+    {
+      "source": "Renata Spalit",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Apsem",
+      "target_type": "company"
+    },
+    {
+      "source": "Richard Stade",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aramis",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandra Schaio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Roupe",
+      "target_type": "company"
+    },
+    {
+      "source": "Abílio Diniz",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Pão De Açúcar",
+      "target_type": "company"
+    },
+    {
+      "source": "Gucci",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Kering",
+      "target_type": "company"
+    }
+  ]
+}

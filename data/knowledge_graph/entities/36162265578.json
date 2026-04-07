@@ -1,0 +1,500 @@
+{
+  "episode_id": "36162265578",
+  "title": "MUITO ALÉM DO ESTÉTICO: A ARQUITETURA COMO EXPERIÊNCIA COM OTTO FELIX | PAPO DE GESTÃO",
+  "date_published": 1744016400,
+  "duration": 4302,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Otto Félix",
+      "role": "guest",
+      "company": "Estúdio Félix",
+      "title": "Arquiteto e Empresário"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcasts",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcasts",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Podcasts",
+      "title": "Host"
+    },
+    {
+      "name": "Otto Felix",
+      "role": "guest",
+      "company": "Otto Felix Studio",
+      "title": "Arquiteto"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Jader Almeida",
+      "role": "mentioned",
+      "company": "",
+      "title": "Designer"
+    },
+    {
+      "name": "Jean Gellon",
+      "role": "mentioned",
+      "company": "",
+      "title": "Designer"
+    },
+    {
+      "name": "Philippe Starck",
+      "role": "mentioned",
+      "company": "",
+      "title": "Arquiteto"
+    },
+    {
+      "name": "Janouveau",
+      "role": "mentioned",
+      "company": "",
+      "title": "Arquiteto"
+    },
+    {
+      "name": "Matheus",
+      "role": "mentioned",
+      "company": "Santo Concreto",
+      "title": "Gestor de obra"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Estúdio Félix",
+      "industry": "Architecture",
+      "context": "Otto Félix's architecture firm specializing in contemporary and high-standard projects."
+    },
+    {
+      "name": "G4 Podcasts",
+      "industry": "Media",
+      "context": "Podcast platform hosting business-related discussions."
+    },
+    {
+      "name": "Casa Vogue",
+      "industry": "Media",
+      "context": "Magazine featuring Otto Félix's architectural projects."
+    },
+    {
+      "name": "Art Daily",
+      "industry": "Media",
+      "context": "Publication showcasing Otto Félix's architectural works."
+    },
+    {
+      "name": "Otto Felix Studio",
+      "industry": "Arquitetura",
+      "context": "Empresa de arquitetura liderada por Otto Felix."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação empresarial fundada por Tallis Gomes, Alfredo Soares, Bruno Nardon e Tony Celestino."
+    },
+    {
+      "name": "Estúdio Felix",
+      "industry": "Architecture",
+      "context": "Founded by Otto Felix, focuses on luxury residential projects."
+    },
+    {
+      "name": "Babson College",
+      "industry": "Education",
+      "context": "Institution where Otto Felix studied entrepreneurship."
+    },
+    {
+      "name": "Gv (Fundação Getulio Vargas)",
+      "industry": "Education",
+      "context": "Institution where Otto Felix completed an MBA in marketing."
+    },
+    {
+      "name": "Autori",
+      "industry": "Hospitality",
+      "context": "Restaurant designed by Otto Felix in Campinas"
+    },
+    {
+      "name": "Hermes",
+      "industry": "Luxury Goods",
+      "context": "Example of high-priced exclusive products"
+    },
+    {
+      "name": "Beibeitália",
+      "industry": "Furniture",
+      "context": "Italian sofa brand mentioned for its high price and quality"
+    },
+    {
+      "name": "Rosewood",
+      "industry": "Hospitality",
+      "context": "Hotel mencionado como exemplo de projeto arquitetônico"
+    },
+    {
+      "name": "Triptych",
+      "industry": "Architecture",
+      "context": "Possível envolvimento no projeto do Rosewood"
+    },
+    {
+      "name": "Santo Concreto",
+      "industry": "Construction",
+      "context": "Empresa mencionada por sua tecnologia de gestão de obras"
+    },
+    {
+      "name": "Estúdio Otto Félix",
+      "industry": "Architecture",
+      "context": "Discussed as the guest's company specializing in high-standard architecture."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Architecture Contemporary",
+      "category": "Design"
+    },
+    {
+      "name": "Customer Journey",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Service Expectation Management",
+      "category": "Customer Service"
+    },
+    {
+      "name": "High-Standard Residential Projects",
+      "category": "Architecture"
+    },
+    {
+      "name": "Horizontal Organizational Structure",
+      "category": "Business Management"
+    },
+    {
+      "name": "Arquitetura como experiência",
+      "category": "Design e Construção"
+    },
+    {
+      "name": "Programa de necessidades",
+      "category": "Planejamento de Projetos"
+    },
+    {
+      "name": "Trusted advisor",
+      "category": "Consultoria"
+    },
+    {
+      "name": "Alinhamento de expectativas",
+      "category": "Comunicação e Gestão"
+    },
+    {
+      "name": "luxury residential architecture",
+      "category": "Industry"
+    },
+    {
+      "name": "market positioning",
+      "category": "Strategy"
+    },
+    {
+      "name": "investment in branding",
+      "category": "Strategy"
+    },
+    {
+      "name": "customer journey mapping",
+      "category": "Framework"
+    },
+    {
+      "name": "branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "positioning",
+      "category": "Marketing"
+    },
+    {
+      "name": "briefing",
+      "category": "Project Management"
+    },
+    {
+      "name": "exclusive pricing strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "steel frame construction",
+      "category": "Architecture"
+    },
+    {
+      "name": "Exclusividade",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Oferta e demanda",
+      "category": "Economic Principle"
+    },
+    {
+      "name": "Compatibilização de projetos",
+      "category": "Architecture Process"
+    },
+    {
+      "name": "Software BIM",
+      "category": "Technology"
+    },
+    {
+      "name": "Mindset japonês",
+      "category": "Cultural Approach"
+    },
+    {
+      "name": "Gestão de obra",
+      "category": "Construction Management"
+    },
+    {
+      "name": "ICP (Ideal Customer Profile)",
+      "category": "Marketing"
+    },
+    {
+      "name": "Client Journey",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "High-standard Architecture",
+      "category": "Architecture"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "12,000 BRL per square meter",
+      "context": "Cost of high-standard residential construction in Brazil."
+    },
+    {
+      "value": "500 square meters",
+      "context": "Typical size of high-standard residential projects."
+    },
+    {
+      "value": "20 anos",
+      "context": "Tempo de experiência de Otto Felix no setor de arquitetura."
+    },
+    {
+      "value": "45 anos",
+      "context": "Idade de Otto Felix."
+    },
+    {
+      "value": "10 years",
+      "context": "Duration Otto Felix invested in branding and positioning."
+    },
+    {
+      "value": "30 square meters",
+      "context": "Size of the apartment Otto Felix shared with his brother."
+    },
+    {
+      "value": "300 reais",
+      "context": "Monthly rent paid by Otto Felix and his brother for their apartment."
+    },
+    {
+      "value": "200 square meters",
+      "context": "Size of a construction project by Otto Felix using steel frame"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Otto Félix",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcasts",
+      "target_type": "company"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jean Gellon",
+      "target_type": "person"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autori",
+      "target_type": "company"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Positioning",
+      "target_type": "concept"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "studied_at",
+      "target": "Gv (Fundação Getulio Vargas)",
+      "target_type": "company"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Steel Frame Construction",
+      "target_type": "concept"
+    },
+    {
+      "source": "Otto Félix",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Casa Vogue",
+      "target_type": "company"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Briefing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Otto Félix",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Art Daily",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Otto Félix",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Estúdio Félix",
+      "target_type": "company"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Compatibilização De Projetos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Estúdio Felix",
+      "target_type": "company"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mindset Japonês",
+      "target_type": "concept"
+    },
+    {
+      "source": "Otto Félix",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Estúdio Otto Félix",
+      "target_type": "company"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "studied_at",
+      "target": "Babson College",
+      "target_type": "company"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Obra",
+      "target_type": "concept"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Oferta E Demanda",
+      "target_type": "concept"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Luxury Residential Architecture",
+      "target_type": "concept"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Software Bim",
+      "target_type": "concept"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Otto Felix Studio",
+      "target_type": "company"
+    },
+    {
+      "source": "Matheus",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Santo Concreto",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Exclusividade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Otto Felix",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jader Almeida",
+      "target_type": "person"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

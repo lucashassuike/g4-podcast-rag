@@ -1,0 +1,201 @@
+{
+  "episode_id": "34748488472",
+  "title": "COMO ELA VAI REAPROXIMAR O FLOW DAS MARCAS? - COM SARAH BUCHWITZ (CEO DO GRUPO FLOW) | Papo de Gestão",
+  "date_published": 1706517000,
+  "duration": 3870,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Sarah Buchwitz",
+      "role": "guest",
+      "company": "Grupo Flow",
+      "title": "CEO"
+    },
+    {
+      "name": "Monark",
+      "role": "mentioned",
+      "company": "Grupo Flow",
+      "title": "Ex-fundador"
+    },
+    {
+      "name": "Igor",
+      "role": "mentioned",
+      "company": "Grupo Flow",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "André",
+      "role": "mentioned",
+      "company": "Grupo Flow",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Felipe Suliman",
+      "role": "mentioned",
+      "company": "BTG",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Whindersson Nunes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Grupo Flow",
+      "industry": "Mídia e Entretenimento",
+      "context": "Podcast e produção de conteúdo"
+    },
+    {
+      "name": "Insider",
+      "industry": "Moda e Vestuário",
+      "context": "Parceiro publicitário do Flow"
+    },
+    {
+      "name": "Btg",
+      "industry": "Serviços Financeiros",
+      "context": "Comprou o negócio de Felipe Suliman"
+    },
+    {
+      "name": "Google Analytics",
+      "industry": "Tecnologia",
+      "context": "Ferramenta de análise de dados mencionada para medir visitas em sites."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Financeiro",
+      "context": "Empresa que adquiriu o negócio de Felipe Suliman."
+    },
+    {
+      "name": "Mastercard",
+      "industry": "Financeiro",
+      "context": "Exemplo de empresa multinacional mencionada em relação a práticas de marketing consistentes."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Publicidade em podcasts",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Product placement",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Conteúdo proprietário",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Performance de mídia",
+      "category": "Métricas de Marketing"
+    },
+    {
+      "name": "Engajamento de audiência",
+      "category": "Métricas de Marketing"
+    },
+    {
+      "name": "Testes de mercado",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Governança corporativa",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Rituais de alinhamento",
+      "category": "Gestão"
+    },
+    {
+      "name": "Comunicação organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Consistência de marca",
+      "category": "Marketing"
+    },
+    {
+      "name": "Escala de distribuição",
+      "category": "Operações"
+    },
+    {
+      "name": "Agilidade empresarial",
+      "category": "Gestão"
+    },
+    {
+      "name": "agilidade",
+      "category": "estratégia"
+    },
+    {
+      "name": "mudança",
+      "category": "estratégia"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "6 meses",
+      "context": "Período sem faturamento do Grupo Flow após a crise com Monark"
+    },
+    {
+      "value": "1 ano e meio",
+      "context": "Tempo desde a crise até o crescimento atual do Grupo Flow"
+    },
+    {
+      "value": "40%",
+      "context": "Percentual da receita do site proveniente de canais patrocinados no YouTube."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Monark",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Flow Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Igor",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Flow",
+      "target_type": "company"
+    },
+    {
+      "source": "Monark",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Flow",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Suliman",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Suliman",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg",
+      "target_type": "company"
+    },
+    {
+      "source": "André",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Flow",
+      "target_type": "company"
+    },
+    {
+      "source": "Sarah Buchwitz",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Flow",
+      "target_type": "company"
+    }
+  ]
+}

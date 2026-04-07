@@ -1,0 +1,385 @@
+{
+  "episode_id": "34748488638",
+  "title": "Daniel Castanho - Educação e propósito como ferramentas de transformação social.",
+  "date_published": 1649884598,
+  "duration": 5259,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Daniel Castanho",
+      "role": "guest",
+      "company": "Ânima Educação",
+      "title": "Fundador e Presidente"
+    },
+    {
+      "name": "Edu Lyra",
+      "role": "mentioned",
+      "company": "Gerando Falcões",
+      "title": "Fundador"
+    },
+    {
+      "name": "Murilo Gun",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gabriel Goffi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mariano Gomide",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Sócio"
+    },
+    {
+      "name": "Sérgio Valente",
+      "role": "mentioned",
+      "company": "Globo",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "André Siqueira",
+      "role": "mentioned",
+      "company": "Loja Integrada",
+      "title": "Sócio"
+    },
+    {
+      "name": "Gunn",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Benjamin Zander",
+      "role": "mentioned",
+      "company": "",
+      "title": "Maestro"
+    },
+    {
+      "name": "Maria Eduarda",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Ânima Educação",
+      "industry": "Educação",
+      "context": "Grupo educacional com foco em ensino superior e pós-graduação"
+    },
+    {
+      "name": "Hsm",
+      "industry": "Educação",
+      "context": "Parte do grupo Ânima Educação"
+    },
+    {
+      "name": "Le Cordon Bleu",
+      "industry": "Educação",
+      "context": "Parte do grupo Ânima Educação"
+    },
+    {
+      "name": "Inspirare",
+      "industry": "Educação",
+      "context": "Parte do grupo Ânima Educação"
+    },
+    {
+      "name": "Singular",
+      "industry": "Educação",
+      "context": "Parte do grupo Ânima Educação"
+    },
+    {
+      "name": "Lumiar",
+      "industry": "Educação",
+      "context": "Escola em São Paulo"
+    },
+    {
+      "name": "Castanheiras",
+      "industry": "Educação",
+      "context": "Escola em Alphaville"
+    },
+    {
+      "name": "Grupo Ótimo",
+      "industry": "Educação",
+      "context": "Grupo de escolas em São Paulo e Campinas"
+    },
+    {
+      "name": "Bahema Educação",
+      "industry": "Educação",
+      "context": "Grupo de escolas em São Paulo"
+    },
+    {
+      "name": "Gerando Falcões",
+      "industry": "Social",
+      "context": "Projeto social de educação e transformação social"
+    },
+    {
+      "name": "Loja Integrada",
+      "industry": "E-commerce",
+      "context": "Mencionada como empresa onde André Siqueira é sócio."
+    },
+    {
+      "name": "Laureate",
+      "industry": "Educação",
+      "context": "Discussão sobre M&A"
+    },
+    {
+      "name": "Spirale",
+      "industry": "Educação",
+      "context": "Discussão sobre Carvalte"
+    },
+    {
+      "name": "Dna",
+      "industry": "Educação",
+      "context": "Discussão sobre entrada no mercado"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Educação personalizada",
+      "category": "Estratégia educacional"
+    },
+    {
+      "name": "Lifelong learning",
+      "category": "Conceito educacional"
+    },
+    {
+      "name": "Assessment",
+      "category": "Método de avaliação"
+    },
+    {
+      "name": "Fear of Missing Out (FOMO)",
+      "category": "Comportamento social"
+    },
+    {
+      "name": "Diversidade",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "ESG",
+      "category": "Sustentabilidade e Governança"
+    },
+    {
+      "name": "Discernimento",
+      "category": "Liderança"
+    },
+    {
+      "name": "Intuição",
+      "category": "Psicologia e Liderança"
+    },
+    {
+      "name": "Autenticidade",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Liberdade",
+      "category": "Filosofia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Ego",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Sorte as a Service",
+      "category": "Conceito Abstrato"
+    },
+    {
+      "name": "M&A",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Carvalte",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Transformação social",
+      "category": "Propósito e impacto"
+    },
+    {
+      "name": "Ikigai",
+      "category": "framework"
+    },
+    {
+      "name": "propósito",
+      "category": "concept"
+    },
+    {
+      "name": "escolhas",
+      "category": "concept"
+    },
+    {
+      "name": "essência",
+      "category": "concept"
+    },
+    {
+      "name": "erro como aprendizado",
+      "category": "concept"
+    },
+    {
+      "name": "intensidade",
+      "category": "concept"
+    }
+  ],
+  "books": [
+    {
+      "title": "Judgment",
+      "author": ""
+    }
+  ],
+  "metrics": [
+    {
+      "value": "330,000",
+      "context": "Número de alunos atualmente matriculados na Ânima Educação"
+    },
+    {
+      "value": "3,000,000",
+      "context": "Número de alunos formados pela Ânima Educação"
+    },
+    {
+      "value": "82 dias",
+      "context": "Tempo que a filha de Daniel Castanho ficou na UTI"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "André Siqueira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Loja Integrada",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Bahema Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Spirale",
+      "target_type": "company"
+    },
+    {
+      "source": "Edu Lyra",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Hsm",
+      "target_type": "company"
+    },
+    {
+      "source": "Benjamin Zander",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Judgment",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Laureate",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Grupo Ótimo",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Lumiar",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Singular",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Castanheiras",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ânima Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Inspirare",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Le Cordon Bleu",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dna",
+      "target_type": "company"
+    }
+  ]
+}

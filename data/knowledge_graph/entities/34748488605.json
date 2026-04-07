@@ -1,0 +1,181 @@
+{
+  "episode_id": "34748488605",
+  "title": "Karina Al Assal - A Importância da Saúde Intestinal e Como ter uma Alimentação Melhor | Sem Atalhos",
+  "date_published": 1681718414,
+  "duration": 3808,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Karina Al Assal",
+      "role": "guest",
+      "company": "Amazing You",
+      "title": "Nutricionista e Fundadora"
+    },
+    {
+      "name": "Usp",
+      "role": "mentioned",
+      "company": "",
+      "title": "Instituição de Ensino"
+    },
+    {
+      "name": "Rita",
+      "role": "mentioned",
+      "company": "Amazing",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de aprendizado e desenvolvimento de habilidades"
+    },
+    {
+      "name": "Amazing You",
+      "industry": "Alimentos e Bebidas",
+      "context": "Marca de chá mencionada como apoiadora do podcast"
+    },
+    {
+      "name": "Amazing",
+      "industry": "Food and Beverage",
+      "context": "A brand specializing in teas."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Microbiota intestinal",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Nervo vago",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Desbiose",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Brain fog",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Barreira hematocefálica",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Probióticos",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Pré-bióticos",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Ritmo circadiano",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "saúde intestinal",
+      "category": "health"
+    },
+    {
+      "name": "microbiota",
+      "category": "health"
+    },
+    {
+      "name": "sistema nervoso simpático",
+      "category": "biology"
+    },
+    {
+      "name": "sistema nervoso parassimpático",
+      "category": "biology"
+    },
+    {
+      "name": "dieta mediterrânea",
+      "category": "nutrition"
+    },
+    {
+      "name": "Diversidade da microbiota",
+      "category": "Health"
+    },
+    {
+      "name": "Índice glicêmico",
+      "category": "Nutrition"
+    },
+    {
+      "name": "Meditação",
+      "category": "Wellness"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "90%",
+      "context": "Porcentagem da serotonina produzida no intestino"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Karina Al Assal",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Amazing You",
+      "target_type": "company"
+    },
+    {
+      "source": "Karina Al Assal",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Amazing",
+      "target_type": "company"
+    },
+    {
+      "source": "Karina Al Assal",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Amazing",
+      "target_type": "company"
+    },
+    {
+      "source": "Karina Al Assal",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Microbiota Intestinal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Karina Al Assal",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Dieta Mediterrânea",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Skills",
+      "target_type": "company"
+    },
+    {
+      "source": "Karina Al Assal",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Usp",
+      "target_type": "person"
+    }
+  ]
+}

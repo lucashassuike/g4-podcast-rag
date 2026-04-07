@@ -1,0 +1,455 @@
+{
+  "episode_id": "38742044769",
+  "title": "COMO ELE FEZ A GETNET VIRAR O 1º UNICÓRNIO DO BRASIL | PAPO DE GESTÃO",
+  "date_published": 1750064400,
+  "duration": 5418,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "José Renato Rof",
+      "role": "guest",
+      "company": "Grupo For",
+      "title": "Líder"
+    },
+    {
+      "name": "Ernesto Correia",
+      "role": "mentioned",
+      "company": "Investidor em Setor de Calçados",
+      "title": "Investidor"
+    },
+    {
+      "name": "Guilherme Stumpf",
+      "role": "mentioned",
+      "company": "Investidor",
+      "title": "Investidor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Ricardo Galli",
+      "role": "mentioned",
+      "company": "GetNet",
+      "title": "Head de Inovação"
+    },
+    {
+      "name": "Zé Renato",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "Instituto Caldeira",
+      "title": ""
+    },
+    {
+      "name": "Joaquim",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Getnet",
+      "industry": "Fintech",
+      "context": "Fundada por José Renato Rof, vendida ao Santander por 1.1 bilhão de reais"
+    },
+    {
+      "name": "Santander",
+      "industry": "Bancário",
+      "context": "Comprou a GetNet por 1.1 bilhão de reais"
+    },
+    {
+      "name": "Grupo For",
+      "industry": "Holding",
+      "context": "Liderado por José Renato Rof, inclui negócios como Hul Wine Locals e South Summit Brasil"
+    },
+    {
+      "name": "South Summit Brasil",
+      "industry": "Eventos de Inovação",
+      "context": "Evento de inovação realizado em Porto Alegre"
+    },
+    {
+      "name": "Banco Do Sul",
+      "industry": "Bancário",
+      "context": "José Renato Rof trabalhou liderando produtos e serviços"
+    },
+    {
+      "name": "Tencent",
+      "industry": "Tecnologia",
+      "context": "Referência em digitalização global mencionada por José Renato Rof"
+    },
+    {
+      "name": "For All",
+      "industry": "Tecnologia e Plataformas",
+      "context": "Empresa fundada pelo convidado em 2015 focada em digitalização e plataformas."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Cliente de projetos de digitalização desenvolvidos pela For All."
+    },
+    {
+      "name": "Shelf",
+      "industry": "Tecnologia",
+      "context": "Cliente de projetos de digitalização desenvolvidos pela For All."
+    },
+    {
+      "name": "Uhu",
+      "industry": "Entretenimento",
+      "context": "Plataforma de soluções digitais para entretenimento, incluindo tickets e gestão de arenas."
+    },
+    {
+      "name": "Opus",
+      "industry": "Entretenimento",
+      "context": "Sócia da Uhu em projetos de digitalização para entretenimento."
+    },
+    {
+      "name": "Raiou Benefício",
+      "industry": "Employee Benefits",
+      "context": "Discussed as a new venture disrupting the employee benefits market."
+    },
+    {
+      "name": "Caju",
+      "industry": "Employee Benefits",
+      "context": "Mentioned as a competitor in the employee benefits market."
+    },
+    {
+      "name": "Flash",
+      "industry": "Employee Benefits",
+      "context": "Mentioned as a competitor in the employee benefits market."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Food Delivery",
+      "context": "Mentioned as entering the employee benefits market."
+    },
+    {
+      "name": "Instituto Caldeira",
+      "industry": "Innovation Hub",
+      "context": "Discussed in the context of regional development and resilience."
+    },
+    {
+      "name": "Upload",
+      "industry": "Investment",
+      "context": "Mentioned as strategic investors"
+    },
+    {
+      "name": "Provence Partners",
+      "industry": "Investment",
+      "context": "Mentioned as strategic investors"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Skin in the Game",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Digitalização",
+      "category": "Transformação Digital"
+    },
+    {
+      "name": "Ecossistemas de Alto Impacto",
+      "category": "Inovação"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Plataforma",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Estratégia de Escalabilidade",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "B2C",
+      "category": "Modelo de Negócios"
+    },
+    {
+      "name": "Ecossistema de Negócios",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Market Disruption",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Employee Benefits",
+      "category": "Industry"
+    },
+    {
+      "name": "Resilience",
+      "category": "Societal Concept"
+    },
+    {
+      "name": "RecargaPix",
+      "category": "Payment Technology"
+    },
+    {
+      "name": "Corporate Partnerships",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "commodity",
+      "category": "Business"
+    },
+    {
+      "name": "platform business model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "customized employee benefits",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Plataforma",
+      "author": "Não especificado"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1.1 bilhão de reais",
+      "context": "Valor da venda da GetNet ao Santander"
+    },
+    {
+      "value": "2003",
+      "context": "Ano de fundação da GetNet"
+    },
+    {
+      "value": "2014",
+      "context": "Ano de venda da GetNet ao Santander"
+    },
+    {
+      "value": "40 anos",
+      "context": "Tempo de relacionamento do convidado com sua esposa."
+    },
+    {
+      "value": "8 operações",
+      "context": "Número de empresas no portfólio do grupo do convidado."
+    },
+    {
+      "value": "18 arenas",
+      "context": "Número de arenas operadas pela Uhu no Brasil."
+    },
+    {
+      "value": "8 operations",
+      "context": "Number of businesses managed within the discussed portfolio."
+    },
+    {
+      "value": "40% of Porto Alegre's GDP affected",
+      "context": "Economic impact of flooding in Porto Alegre."
+    },
+    {
+      "value": "Multibillion-dollar investment",
+      "context": "Required for flood prevention and reconstruction in affected areas."
+    },
+    {
+      "value": "5 years",
+      "context": "Objective to become one of the largest in Brazil"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "José Renato Rof",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Digitalização",
+      "target_type": "concept"
+    },
+    {
+      "source": "Upload",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Joaquim",
+      "target_type": "person"
+    },
+    {
+      "source": "José Renato Rof",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Banco Do Sul",
+      "target_type": "company"
+    },
+    {
+      "source": "José Renato Rof",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo For",
+      "target_type": "company"
+    },
+    {
+      "source": "Getnet",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Santander",
+      "target_type": "company"
+    },
+    {
+      "source": "Raiou Benefício",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Flash",
+      "target_type": "company"
+    },
+    {
+      "source": "Getnet",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Santander",
+      "target_type": "company"
+    },
+    {
+      "source": "Raiou Benefício",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "José Renato Rof",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Getnet",
+      "target_type": "company"
+    },
+    {
+      "source": "José Renato Rof",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ecossistemas De Alto Impacto",
+      "target_type": "concept"
+    },
+    {
+      "source": "Shelf",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "For All",
+      "target_type": "company"
+    },
+    {
+      "source": "Uhu",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Opus",
+      "target_type": "company"
+    },
+    {
+      "source": "For All",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Ricardo Galli",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Instituto Caldeira",
+      "target_type": "company"
+    },
+    {
+      "source": "José Renato Rof",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Guilherme Stumpf",
+      "target_type": "person"
+    },
+    {
+      "source": "José Renato Rof",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Raiou Benefício",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Caju",
+      "target_type": "company"
+    },
+    {
+      "source": "José Renato Rof",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ernesto Correia",
+      "target_type": "person"
+    },
+    {
+      "source": "Ricardo Galli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Getnet",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "For All",
+      "target_type": "company"
+    },
+    {
+      "source": "José Renato Rof",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tencent",
+      "target_type": "company"
+    },
+    {
+      "source": "José Renato Rof",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Skin In The Game",
+      "target_type": "concept"
+    },
+    {
+      "source": "Santander",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "For All",
+      "target_type": "company"
+    },
+    {
+      "source": "Provence Partners",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Joaquim",
+      "target_type": "person"
+    }
+  ]
+}

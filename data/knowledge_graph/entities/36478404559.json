@@ -1,0 +1,465 @@
+{
+  "episode_id": "36478404559",
+  "title": "COMO A SPEEDO VIROU UMA MARCA DE LIFESTYLE COM ROBERTO JALONETSKY | EXTREMOS",
+  "date_published": 1745409600,
+  "duration": 4451,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Roberto Jalonetsky",
+      "role": "guest",
+      "company": "Speedo",
+      "title": "Executive"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Boale",
+      "title": "CEO"
+    },
+    {
+      "name": "Flávio",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Audiovisualista"
+    },
+    {
+      "name": "Felipe Ratab",
+      "role": "mentioned",
+      "company": "",
+      "title": "Mentor convidado"
+    },
+    {
+      "name": "Bernardo Carneiro",
+      "role": "mentioned",
+      "company": "Stony",
+      "title": "Mentor convidado"
+    },
+    {
+      "name": "Julian",
+      "role": "mentioned",
+      "company": "Aldas",
+      "title": "Mentor convidado"
+    },
+    {
+      "name": "Denis Wang",
+      "role": "mentioned",
+      "company": "",
+      "title": "Mentor convidado"
+    },
+    {
+      "name": "Henry",
+      "role": "mentioned",
+      "company": "",
+      "title": "Mentor convidado"
+    },
+    {
+      "name": "Ilana",
+      "role": "mentioned",
+      "company": "",
+      "title": "Mentor convidado"
+    },
+    {
+      "name": "Roberto Jalonetzky",
+      "role": "guest",
+      "company": "Speedo",
+      "title": "Not specified"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Speedo",
+      "industry": "Sportswear",
+      "context": "Discussed as transitioning from aquatic niche to lifestyle brand"
+    },
+    {
+      "name": "Centauro",
+      "industry": "Retail",
+      "context": "Mentioned as a key account in sports retail"
+    },
+    {
+      "name": "Decathlon",
+      "industry": "Retail",
+      "context": "Mentioned as a key account in sports retail"
+    },
+    {
+      "name": "Boale",
+      "industry": "Healthy Food and Nutrition",
+      "context": "Mentioned as a partner in the podcast and expanding nationally."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Business Education",
+      "context": "Providing training for Boale franchisees."
+    },
+    {
+      "name": "Brands Club",
+      "industry": "E-commerce",
+      "context": "Empresa fundada por Roberto Jalonetsky, posteriormente adquirida pela Naspers."
+    },
+    {
+      "name": "Buscapé",
+      "industry": "E-commerce",
+      "context": "Empresa que adquiriu o Brands Club."
+    },
+    {
+      "name": "Naspers",
+      "industry": "Investimentos",
+      "context": "Investidora e compradora do Brands Club."
+    },
+    {
+      "name": "Stony",
+      "industry": "Tecnologia financeira",
+      "context": "Bernardo Carneiro é mencionado como mentor convidado"
+    },
+    {
+      "name": "Aldas",
+      "industry": "Consultoria",
+      "context": "Julian é mencionado como mentor convidado"
+    },
+    {
+      "name": "Nasper'S",
+      "industry": "Investment",
+      "context": "Involved in the acquisition of Brands Club."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Clusterização",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Diversificação",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Lifestyle Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Key Accounts",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Humanização do Consumidor",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Pesquisa e Desenvolvimento",
+      "category": "Innovation"
+    },
+    {
+      "name": "Franchise Expansion",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "ESG (Environmental, Social, and Governance)",
+      "category": "Corporate Responsibility"
+    },
+    {
+      "name": "Multigenerational Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Team Clustering",
+      "category": "Organizational Strategy"
+    },
+    {
+      "name": "G4 Traction",
+      "category": "Educação Empresarial"
+    },
+    {
+      "name": "Networking",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Oceano Vermelho",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Dados, Processos e Pessoas",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "DNVB (Digitally Native Vertical Brands)",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Marketing esportivo",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Embaixadores de marca",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Gestão Estratégica",
+      "category": "Educação empresarial"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Omnichannel",
+      "category": "Retail Strategy"
+    },
+    {
+      "name": "Market Share",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Pandemic Response",
+      "category": "Crisis Management"
+    },
+    {
+      "name": "Product Innovation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Digitalization",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Brand Authenticity",
+      "category": "Marketing"
+    }
+  ],
+  "books": [
+    {
+      "title": "Meu último livro sobre marca",
+      "author": "Not specified"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "40,000",
+      "context": "Number of physical points of sale for Speedo in Brazil"
+    },
+    {
+      "value": "18-20%",
+      "context": "Percentage of revenue from key accounts for Speedo"
+    },
+    {
+      "value": "10-12%",
+      "context": "Percentage of Speedo's revenue allocated to research and development"
+    },
+    {
+      "value": "200 employees",
+      "context": "Speedo's workforce described as multidisciplinary managers."
+    },
+    {
+      "value": "2004-2011",
+      "context": "Período inicial de Roberto Jalonetsky na Speedo."
+    },
+    {
+      "value": "2015",
+      "context": "Ano em que Roberto Jalonetsky retornou à Speedo."
+    },
+    {
+      "value": "24%",
+      "context": "Crescimento da Speedo em 2023 comparado a 2022"
+    },
+    {
+      "value": "30%",
+      "context": "Projeção de crescimento da Speedo para o ano seguinte"
+    },
+    {
+      "value": "Mais de 100 milhões",
+      "context": "Faturamento anual da Speedo no Brasil"
+    },
+    {
+      "value": "5 mil empresários",
+      "context": "Participantes dos programas do G4 Educação no ano anterior"
+    },
+    {
+      "value": "40%",
+      "context": "Growth of Speedo's e-commerce in the discussed year."
+    },
+    {
+      "value": "200",
+      "context": "Number of collaborators at Speedo during the pandemic."
+    },
+    {
+      "value": "40,000",
+      "context": "Number of Speedo's points of sale during the pandemic."
+    },
+    {
+      "value": "7x",
+      "context": "Growth with a key account post-pandemic."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Roberto Jalonetsky",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Brands Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Boale",
+      "target_type": "company"
+    },
+    {
+      "source": "Speedo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Brand Authenticity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Roberto Jalonetsky",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Speedo",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Speedo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Lifestyle Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Julian",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aldas",
+      "target_type": "company"
+    },
+    {
+      "source": "Speedo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Centauro",
+      "target_type": "company"
+    },
+    {
+      "source": "Speedo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Digitalization",
+      "target_type": "concept"
+    },
+    {
+      "source": "Brands Club",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Roberto Jalonetsky",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Nasper'S",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Brands Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Brands Club",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Buscapé",
+      "target_type": "company"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Extremos Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberto Jalonetzky",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Speedo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Carneiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stony",
+      "target_type": "company"
+    },
+    {
+      "source": "Brands Club",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Naspers",
+      "target_type": "company"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Speedo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Decathlon",
+      "target_type": "company"
+    }
+  ]
+}

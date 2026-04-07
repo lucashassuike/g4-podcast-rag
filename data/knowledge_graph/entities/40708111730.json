@@ -1,0 +1,130 @@
+{
+  "episode_id": "40708111730",
+  "title": "[CORTE] SUCESSO NO BRASIL É SOBRE CORAGEM, NÃO SOBRE SER GÊNIO!",
+  "date_published": 1753736401,
+  "duration": 644,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Glauber Gentil",
+      "role": "mentioned",
+      "company": "O Boticário",
+      "title": "Maior franqueado do Brasil"
+    },
+    {
+      "name": "Sandra Schai",
+      "role": "mentioned",
+      "company": "Rope Lingerie",
+      "title": "Fundadora"
+    },
+    {
+      "name": "Chaim",
+      "role": "mentioned",
+      "company": "Gelato Borelli",
+      "title": "Investidor"
+    },
+    {
+      "name": "Tamila",
+      "role": "mentioned",
+      "company": "Gelato Borelli",
+      "title": "Investidora"
+    }
+  ],
+  "companies": [
+    {
+      "name": "O Boticário",
+      "industry": "Cosméticos",
+      "context": "Franquias mencionadas como exemplo de sucesso no Brasil"
+    },
+    {
+      "name": "Quem Disse, Berenice?",
+      "industry": "Cosméticos",
+      "context": "Franquias mencionadas como exemplo de sucesso no Brasil"
+    },
+    {
+      "name": "Rope Lingerie",
+      "industry": "Moda",
+      "context": "Empresa mencionada como exemplo de negócio bem-sucedido"
+    },
+    {
+      "name": "Gelato Borelli",
+      "industry": "Alimentação",
+      "context": "Empresa mencionada como exemplo de franquia de sucesso"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Franquias",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "CAPEX",
+      "category": "Finanças"
+    },
+    {
+      "name": "Sistema Tributário Brasileiro",
+      "category": "Legislação"
+    },
+    {
+      "name": "Substituição Tributária",
+      "category": "Legislação"
+    },
+    {
+      "name": "Mom and Pop",
+      "category": "Modelo de Negócio"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "180 lojas",
+      "context": "Número de lojas operadas por Glauber Gentil e sua família"
+    },
+    {
+      "value": "500-600 milhões por ano",
+      "context": "Faturamento estimado de Glauber Gentil e sua família com as franquias"
+    },
+    {
+      "value": "40-45 franquias",
+      "context": "Número de franquias operadas por um amigo mencionado no texto"
+    },
+    {
+      "value": "700 Burger King",
+      "context": "Exemplo de número de franquias nos Estados Unidos"
+    },
+    {
+      "value": "1,5 bilhões de dólares por ano",
+      "context": "Faturamento de franqueados nos Estados Unidos"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tamila",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Gelato Borelli",
+      "target_type": "company"
+    },
+    {
+      "source": "Chaim",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Gelato Borelli",
+      "target_type": "company"
+    },
+    {
+      "source": "Glauber Gentil",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "O Boticário",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandra Schai",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rope Lingerie",
+      "target_type": "company"
+    }
+  ]
+}

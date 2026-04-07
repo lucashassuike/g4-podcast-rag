@@ -1,0 +1,421 @@
+{
+  "episode_id": "34748488373",
+  "title": "COMO TOMAR MELHORES DECISÕES E ESCALAR O NEGÓCIO COM RODRIGO BARROS (BOALI) | EXTREMOS",
+  "date_published": 1731481200,
+  "duration": 6453,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Rodrigo Barros",
+      "role": "guest",
+      "company": "Boali",
+      "title": "Fundador e CEO"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Adriano",
+      "role": "mentioned",
+      "company": "",
+      "title": "Imperador"
+    },
+    {
+      "name": "Cariane",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Joel Jota",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Richard",
+      "role": "mentioned",
+      "company": "Urba",
+      "title": ""
+    },
+    {
+      "name": "Paulo Vieira",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fred Gelli",
+      "role": "mentioned",
+      "company": "Tátil Design",
+      "title": "CEO"
+    },
+    {
+      "name": "Leandro Ladeira",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "SpaceX, Tesla, Inc.",
+      "title": "CEO"
+    },
+    {
+      "name": "Nery",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Gestor de Podcasts"
+    },
+    {
+      "name": "Ben Shmall",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Júlio Capa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Boali",
+      "industry": "Food Service",
+      "context": "Rede de alimentação mencionada como exemplo de Foodtech."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Organizadora do G4 Valley e anfitriã do podcast."
+    },
+    {
+      "name": "Salad Creations",
+      "industry": "Food Service",
+      "context": "Empresa mencionada como investimento de Rodrigo Barros."
+    },
+    {
+      "name": "Urba",
+      "industry": "Real Estate",
+      "context": "Empresa mencionada em relação ao Richard e ao Joel Jota."
+    },
+    {
+      "name": "Tátil Design",
+      "industry": "Design and Branding",
+      "context": "Mentioned in relation to Fred Gelli's expertise."
+    },
+    {
+      "name": "Ernest Young",
+      "industry": "Professional Services",
+      "context": "Organizadora do prêmio Empreendedor do Ano."
+    },
+    {
+      "name": "Conta Azul",
+      "industry": "Financial Technology",
+      "context": "Mentioned in the context of Rodrigo Barros discussing his experiences."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Foodtech",
+      "category": "Indústria"
+    },
+    {
+      "name": "Propósito e visão",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Distribuição",
+      "category": "Logística e Estratégia"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Finanças"
+    },
+    {
+      "name": "Design Thinking",
+      "category": "Metodologia de Inovação"
+    },
+    {
+      "name": "Franquias",
+      "category": "Business Model"
+    },
+    {
+      "name": "Food Service",
+      "category": "Industry"
+    },
+    {
+      "name": "Master Franquia",
+      "category": "Business Model"
+    },
+    {
+      "name": "Expansão Internacional",
+      "category": "Strategy"
+    },
+    {
+      "name": "Storytelling",
+      "category": "Communication"
+    },
+    {
+      "name": "Oratória",
+      "category": "Communication"
+    },
+    {
+      "name": "Knowledge Lateralization",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Empirical Decision-Making",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Iterative Development",
+      "category": "Product Development"
+    },
+    {
+      "name": "Epigenética",
+      "category": "Science"
+    },
+    {
+      "name": "Jejum intermitente",
+      "category": "Health"
+    },
+    {
+      "name": "Autofagia",
+      "category": "Health"
+    },
+    {
+      "name": "Energia como fator de sucesso",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Lifestyle Choices",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Ping Pong",
+      "category": "Sports"
+    },
+    {
+      "name": "Iron Man",
+      "category": "Sports"
+    }
+  ],
+  "books": [
+    {
+      "title": "Versão Beta",
+      "author": "Rodrigo Barros"
+    },
+    {
+      "title": "Sinfonia da Vida",
+      "author": "Joe de Rosney"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "2 milhões",
+      "context": "Alcance de um vídeo do G4 Valley no Instagram."
+    },
+    {
+      "value": "2009-2012",
+      "context": "Período em que Rodrigo Barros foi proprietário de uma faculdade."
+    },
+    {
+      "value": "100 operações",
+      "context": "Número de operações da Boali no Brasil."
+    },
+    {
+      "value": "12 lojas próprias",
+      "context": "Número de lojas próprias da Boali antes de decidir focar em franquias."
+    },
+    {
+      "value": "2015",
+      "context": "Ano em que a Boali foi fundada após a aquisição da Salad Creations."
+    },
+    {
+      "value": "100 quilos",
+      "context": "Peso inicial de Rodrigo Barros antes de mudanças de estilo de vida."
+    },
+    {
+      "value": "78 quilos",
+      "context": "Peso atual de Rodrigo Barros após mudanças de estilo de vida."
+    },
+    {
+      "value": "6 meses",
+      "context": "Duração do processo de due diligence pela Ernest Young."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jejum Intermitente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Richard",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Urba",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ben Shmall",
+      "target_type": "person"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Versão Beta",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Leandro Ladeira",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Sinfonia Da Vida",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Júlio Capa",
+      "target_type": "person"
+    },
+    {
+      "source": "Fred Gelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tátil Design",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autofagia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Epigenética",
+      "target_type": "concept"
+    },
+    {
+      "source": "Boali",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Salad Creations",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Salad Creations",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Elon Musk",
+      "target_type": "person"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Boali",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "organized",
+      "target": "G4 Valley",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Energia Como Fator De Sucesso",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Barros",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Design Thinking",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

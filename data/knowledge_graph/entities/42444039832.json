@@ -1,0 +1,359 @@
+{
+  "episode_id": "42444039832",
+  "title": "DO VAREJO RAÍZ À FRANQUIA GIGANTE: A HISTÓRIA DA CELLAIRIS COM JONATHAN BENITEZ | EXTREMOS",
+  "date_published": 1757516400,
+  "duration": 4572,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Jonathan Benites",
+      "role": "guest",
+      "company": "Cellairis Brasil",
+      "title": "Líder"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Boale",
+      "title": ""
+    },
+    {
+      "name": "Pedrão",
+      "role": "mentioned",
+      "company": "Reserva",
+      "title": ""
+    },
+    {
+      "name": "Jonathan Benitez",
+      "role": "guest",
+      "company": "Celaris",
+      "title": "Founder"
+    },
+    {
+      "name": "Thiago Castelo",
+      "role": "mentioned",
+      "company": "iCase",
+      "title": "Former Owner"
+    },
+    {
+      "name": "Gustavo",
+      "role": "mentioned",
+      "company": "iCase",
+      "title": "Owner"
+    },
+    {
+      "name": "Day",
+      "role": "mentioned",
+      "company": "Ventra",
+      "title": "Partner"
+    },
+    {
+      "name": "Cadu",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Thiago Nigro",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Unknown"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Cellairis Brasil",
+      "industry": "Acessórios para dispositivos móveis",
+      "context": "Maior rede de franquias de acessórios do mundo"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Local de gravação do podcast e organizador do conteúdo"
+    },
+    {
+      "name": "Foxbit",
+      "industry": "Criptoativos",
+      "context": "Patrocinadora do podcast e fornecedora de soluções em criptoativos"
+    },
+    {
+      "name": "Reserva",
+      "industry": "Moda",
+      "context": "Parceira em coleções colaborativas com a Cellairis"
+    },
+    {
+      "name": "Mercato",
+      "industry": "Moda",
+      "context": "Empresa onde Jonathan Benites trabalhou como diretor de franquias"
+    },
+    {
+      "name": "Celaris",
+      "industry": "Retail",
+      "context": "Mobile accessories and services franchise"
+    },
+    {
+      "name": "Icase",
+      "industry": "Retail",
+      "context": "Mobile accessories"
+    },
+    {
+      "name": "Ventra",
+      "industry": "Consulting",
+      "context": "Franchise sales support"
+    },
+    {
+      "name": "Pitsy",
+      "industry": "Insurance",
+      "context": "Provides theft and damage insurance for Celaris"
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Mentioned in relation to AirPods sales."
+    },
+    {
+      "name": "Spotify",
+      "industry": "Entertainment",
+      "context": "Mentioned in comparison to AirPods sales."
+    },
+    {
+      "name": "Nintendo",
+      "industry": "Gaming",
+      "context": "Mentioned in comparison to AirPods sales."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Franquias",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Licenciamento de marcas",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "B2B",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Desenvolvimento de produtos",
+      "category": "Processo empresarial"
+    },
+    {
+      "name": "Franchise Development",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Retail Entrepreneurship",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Service Recurrence",
+      "category": "Customer Retention"
+    },
+    {
+      "name": "Franchise Sales Process",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Retail",
+      "category": "Industry"
+    },
+    {
+      "name": "Franchise",
+      "category": "Business Model"
+    },
+    {
+      "name": "Crisis Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Technology Accessories Market",
+      "category": "Market"
+    },
+    {
+      "name": "Shopping Center Costs",
+      "category": "Economic Factor"
+    },
+    {
+      "name": "Intelligence Artificial",
+      "category": "Technology Trend"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "2.000 SKUs por ano",
+      "context": "Quantidade de produtos desenvolvidos pela Cellairis"
+    },
+    {
+      "value": "250.000 reais",
+      "context": "Faturamento de uma loja própria da Cellairis com 9 metros quadrados"
+    },
+    {
+      "value": "50-52 operations",
+      "context": "Total Celaris stores in Brazil"
+    },
+    {
+      "value": "18 stores",
+      "context": "Celaris owned stores"
+    },
+    {
+      "value": "20 openings",
+      "context": "Celaris franchise openings target for the year"
+    },
+    {
+      "value": "11 contracts",
+      "context": "Celaris franchise contracts closed this year"
+    },
+    {
+      "value": "40 operations",
+      "context": "Celaris franchise openings target for next year"
+    },
+    {
+      "value": "80,000 BRL",
+      "context": "Investment for opening a Celaris Service store"
+    },
+    {
+      "value": "420 million",
+      "context": "Number of mobile devices in Brazil, including smartphones, tablets, and notebooks."
+    },
+    {
+      "value": "AirPods sales surpass Spotify and Nintendo combined",
+      "context": "Market size comparison."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gustavo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Icase",
+      "target_type": "company"
+    },
+    {
+      "source": "Jonathan Benitez",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Crisis Management",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Foxbit",
+      "target_type": "company"
+    },
+    {
+      "source": "Jonathan Benitez",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Intelligence Artificial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jonathan Benitez",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Shopping Center Costs",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jonathan Benitez",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ventra",
+      "target_type": "company"
+    },
+    {
+      "source": "Jonathan Benitez",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nintendo",
+      "target_type": "company"
+    },
+    {
+      "source": "Jonathan Benitez",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Celaris",
+      "target_type": "company"
+    },
+    {
+      "source": "Cellairis Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Reserva",
+      "target_type": "company"
+    },
+    {
+      "source": "Jonathan Benitez",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Celaris",
+      "target_type": "company"
+    },
+    {
+      "source": "Jonathan Benitez",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Technology Accessories Market",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jonathan Benitez",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "Jonathan Benites",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Mercato",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Castelo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Icase",
+      "target_type": "company"
+    },
+    {
+      "source": "Jonathan Benitez",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Spotify",
+      "target_type": "company"
+    },
+    {
+      "source": "Celaris",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Pitsy",
+      "target_type": "company"
+    },
+    {
+      "source": "Jonathan Benites",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cellairis Brasil",
+      "target_type": "company"
+    }
+  ]
+}

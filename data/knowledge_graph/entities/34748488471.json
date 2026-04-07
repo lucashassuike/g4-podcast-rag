@@ -1,0 +1,399 @@
+{
+  "episode_id": "34748488471",
+  "title": "EVOLUA COMO LÍDER E SER HUMANO - COM MARIANO GOMIDE (VTEX) | EXTREMOS",
+  "date_published": 1706688000,
+  "duration": 4056,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Mariano Gomide",
+      "role": "guest",
+      "company": "VTEX",
+      "title": "Co-CEO"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Founder"
+    },
+    {
+      "name": "Santiago",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "CRO"
+    },
+    {
+      "name": "Olga",
+      "role": "mentioned",
+      "company": "Vanto Group",
+      "title": "CEO"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla",
+      "title": "CEO"
+    },
+    {
+      "name": "Sérgio",
+      "role": "mentioned",
+      "company": "",
+      "title": "Banker"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Laura",
+      "role": "mentioned",
+      "company": "Family Office",
+      "title": "Employee"
+    },
+    {
+      "name": "Fernanda",
+      "role": "mentioned",
+      "company": "Family Office",
+      "title": "Employee"
+    },
+    {
+      "name": "Geraldo",
+      "role": "mentioned",
+      "company": "Family Office",
+      "title": "Leader"
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Employee"
+    },
+    {
+      "name": "Mari",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Employee"
+    },
+    {
+      "name": "Bento",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Employee"
+    },
+    {
+      "name": "Sabrina",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": ""
+    },
+    {
+      "name": "André Street",
+      "role": "mentioned",
+      "company": "Braspag",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Vtex",
+      "industry": "E-commerce",
+      "context": "Discussed as a leading company in e-commerce and its initiatives like VTEX Day."
+    },
+    {
+      "name": "Clivo",
+      "industry": "Healthcare",
+      "context": "Mentioned in relation to Marcelo Toledo's founding role."
+    },
+    {
+      "name": "Vanto Group",
+      "industry": "Consulting",
+      "context": "Discussed in relation to its book on performance fundamentals."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotive",
+      "context": "Mentioned in the context of innovation and disruption in electric vehicles."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Mentioned in the context of internet innovation."
+    },
+    {
+      "name": "Family Office",
+      "industry": "Investment Management",
+      "context": "Mentioned as the workplace of Laura and Fernanda."
+    },
+    {
+      "name": "Endeavor",
+      "industry": "Entrepreneurship Support",
+      "context": "Referenced as having a strong team of entrepreneurs."
+    },
+    {
+      "name": "Walmart",
+      "industry": "Retail",
+      "context": "Mentioned as a client of VTEX."
+    },
+    {
+      "name": "Log",
+      "industry": "Logistics",
+      "context": "Sponsor of the first VTEX Day."
+    },
+    {
+      "name": "Braspag",
+      "industry": "Payment Solutions",
+      "context": "Sponsor of the first VTEX Day."
+    },
+    {
+      "name": "Facebook",
+      "industry": "Technology",
+      "context": "Mentioned in the context of leadership by a Brazilian."
+    },
+    {
+      "name": "Coca-Cola",
+      "industry": "Beverages",
+      "context": "Mentioned as having Brazilian leadership."
+    },
+    {
+      "name": "Abi Inbev",
+      "industry": "Beverages",
+      "context": "Mentioned as having Brazilian leadership."
+    },
+    {
+      "name": "Mondelez",
+      "industry": "Food and Beverage",
+      "context": "Mentioned as having Brazilian leadership."
+    },
+    {
+      "name": "Procter & Gamble",
+      "industry": "Consumer Goods",
+      "context": "Mentioned as having Brazilian leadership."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "High Performance",
+      "category": "Leadership"
+    },
+    {
+      "name": "Future Declared",
+      "category": "Leadership"
+    },
+    {
+      "name": "Language of High Performance",
+      "category": "Leadership"
+    },
+    {
+      "name": "Evolution of Gap",
+      "category": "Innovation"
+    },
+    {
+      "name": "Rupture Innovation",
+      "category": "Innovation"
+    },
+    {
+      "name": "High Potential",
+      "category": "Talent Management"
+    },
+    {
+      "name": "High Performer",
+      "category": "Talent Management"
+    },
+    {
+      "name": "Work-Life Balance",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Crisis Management",
+      "category": "Leadership"
+    },
+    {
+      "name": "Butterfly Effect",
+      "category": "Systems Thinking"
+    },
+    {
+      "name": "Digital Service",
+      "category": "Industry"
+    },
+    {
+      "name": "Near shore",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Engineering Creativity",
+      "category": "Skillset"
+    },
+    {
+      "name": "Ecosystem Unity",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Three Fundamentals of Performance",
+      "author": "Vanto Group"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "20,000",
+      "context": "Attendees at VTEX Day."
+    },
+    {
+      "value": "4 clients in 2008 to 232 clients in 2012",
+      "context": "Growth of VTEX's client base."
+    },
+    {
+      "value": "50 million, 100 million, 200 million",
+      "context": "Revenue of companies started by former VTEX employees."
+    },
+    {
+      "value": "50",
+      "context": "Attendees at the first VTEX Day in 2009."
+    },
+    {
+      "value": "250",
+      "context": "Attendees at the second VTEX Day."
+    },
+    {
+      "value": "2,000",
+      "context": "Attendees at the third VTEX Day."
+    },
+    {
+      "value": "300,000",
+      "context": "Engineers formed annually in Latin America."
+    },
+    {
+      "value": "750,000",
+      "context": "Engineers formed annually in China."
+    },
+    {
+      "value": "600,000",
+      "context": "Engineers formed annually in Russia."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Fernanda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Family Office",
+      "target_type": "company"
+    },
+    {
+      "source": "Olga",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vanto Group",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tesla",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "André Street",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Braspag",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano Gomide",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Crisis Management",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mariano Gomide",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "High Potential",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mariano Gomide",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "High Performer",
+      "target_type": "concept"
+    },
+    {
+      "source": "Laura",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Family Office",
+      "target_type": "company"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Walmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano Gomide",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano Gomide",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Butterfly Effect",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Braspag",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano Gomide",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Work-Life Balance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vtex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Log",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano Gomide",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Geraldo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Family Office",
+      "target_type": "company"
+    }
+  ]
+}

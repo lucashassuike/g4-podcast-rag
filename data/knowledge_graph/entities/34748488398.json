@@ -1,0 +1,328 @@
+{
+  "episode_id": "34748488398",
+  "title": "O PRESENTE E O FUTURO DA COMUNICAÇÃO COM CLIENTES - ROBERTO OLIVEIRA (BLIP) | PAPO DE GESTÃO",
+  "date_published": 1725868800,
+  "duration": 3764,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Roberto Oliveira",
+      "role": "guest",
+      "company": "Blip",
+      "title": "Cofundador e CEO"
+    },
+    {
+      "name": "Marquinho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Martin Kagan",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Katsu",
+      "role": "mentioned",
+      "company": "Faith",
+      "title": "Overseas Manager"
+    },
+    {
+      "name": "Guedes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Blip",
+      "industry": "Tecnologia e Inovação",
+      "context": "Plataforma líder em conversas inteligentes entre marcas e consumidores"
+    },
+    {
+      "name": "Take",
+      "industry": "Tecnologia e Inovação",
+      "context": "Nome anterior da Blip"
+    },
+    {
+      "name": "Meta",
+      "industry": "Tecnologia",
+      "context": "Plataforma integrada com WhatsApp para geração de demanda"
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Plataforma integrada com WhatsApp para geração de demanda"
+    },
+    {
+      "name": "Faith",
+      "industry": "Technology",
+      "context": "Acquired Take Net and later offered it back to the original owners."
+    },
+    {
+      "name": "Take Net",
+      "industry": "Technology",
+      "context": "Developed ringtone sales through SMS and was acquired by Faith."
+    },
+    {
+      "name": "Nintendo",
+      "industry": "Gaming",
+      "context": "Engineers from Nintendo invented ringtones for mobile phones."
+    },
+    {
+      "name": "Mitsubishi",
+      "industry": "Automotive",
+      "context": "Mentioned in the context of a timeline related to Take Net."
+    },
+    {
+      "name": "Whatsapp",
+      "industry": "Technology",
+      "context": "Platform that became open in 2018, enabling integration with Bleep."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Black Swan",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Inteligência Conversacional",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Transformação Digital",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Gen.AI",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Feedback Loop",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Lookalike Segments",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "AI First",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Blip OS",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Contato Inteligente",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Intelligent Contact",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Conversational Commerce",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "OKRs",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Short Feedback Loop",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Empowered and Inspired Framework",
+      "category": "Product Development Methodology"
+    },
+    {
+      "name": "Interatividade SMS",
+      "category": "Technology"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Finance"
+    }
+  ],
+  "books": [
+    {
+      "title": "Empowered",
+      "author": "Martin Kagan"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "25 anos",
+      "context": "Experiência de Roberto Oliveira em tecnologia"
+    },
+    {
+      "value": "32 países",
+      "context": "Expansão da Blip"
+    },
+    {
+      "value": "Mais de 1.500 pessoas",
+      "context": "Tamanho da equipe da Blip"
+    },
+    {
+      "value": "200 million USD",
+      "context": "Expected annual recurring revenue for Blip in the current year."
+    },
+    {
+      "value": "1.4 billion messages per month",
+      "context": "Messages transacted by Blip monthly."
+    },
+    {
+      "value": "60 million unique users per month",
+      "context": "Unique users interacting with Blip's clients monthly."
+    },
+    {
+      "value": "4,000 clients",
+      "context": "Number of clients served by Blip."
+    },
+    {
+      "value": "250% annual growth",
+      "context": "Growth rate of Take Net from 2001 to 2004."
+    },
+    {
+      "value": "35 million USD",
+      "context": "Acquisition price of Take Net by Faith in 2005."
+    },
+    {
+      "value": "30 million BRL",
+      "context": "Take Net's revenue at the time of acquisition in 2005."
+    },
+    {
+      "value": "14 million BRL",
+      "context": "Take Net's revenue in 2008 after market changes."
+    },
+    {
+      "value": "1 milhão de dólares",
+      "context": "Amount paid to repurchase Take Net."
+    },
+    {
+      "value": "14 milhões",
+      "context": "Revenue of Take Net in 2008."
+    },
+    {
+      "value": "10 milhões",
+      "context": "Revenue of Take Net in 2009."
+    },
+    {
+      "value": "35% ao ano",
+      "context": "Growth rate of Take Net from 2010 to 2014."
+    },
+    {
+      "value": "100%",
+      "context": "Growth rate of Bleep from 2018 onwards."
+    },
+    {
+      "value": "40%",
+      "context": "Growth rate in 2023."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Take Net",
+      "source_type": "company",
+      "relation": "developed",
+      "target": "Interatividade Sms",
+      "target_type": "concept"
+    },
+    {
+      "source": "Roberto Oliveira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Blip",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberto Oliveira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Blip",
+      "target_type": "company"
+    },
+    {
+      "source": "Take Net",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Faith",
+      "target_type": "company"
+    },
+    {
+      "source": "Martin Kagan",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Empowered",
+      "target_type": "company"
+    },
+    {
+      "source": "Nintendo",
+      "source_type": "company",
+      "relation": "invented",
+      "target": "Ringtones",
+      "target_type": "company"
+    },
+    {
+      "source": "Blip",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Take",
+      "target_type": "company"
+    },
+    {
+      "source": "Blip",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Meta",
+      "target_type": "company"
+    },
+    {
+      "source": "Blip",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Faith",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Take Net",
+      "target_type": "company"
+    },
+    {
+      "source": "Take Net",
+      "source_type": "company",
+      "relation": "developed",
+      "target": "Contato Inteligente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Faith",
+      "source_type": "company",
+      "relation": "offered_back",
+      "target": "Take Net",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberto Oliveira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Take Net",
+      "target_type": "company"
+    },
+    {
+      "source": "Take Net",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Whatsapp",
+      "target_type": "company"
+    }
+  ]
+}

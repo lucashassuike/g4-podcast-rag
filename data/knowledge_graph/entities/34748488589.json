@@ -1,0 +1,308 @@
+{
+  "episode_id": "34748488589",
+  "title": "Clovis de Barros - Qual é a Vida Que Vale a Pena ser Vivida? | Sem Atalhos",
+  "date_published": 1686041720,
+  "duration": 3380,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Clóvis De Barros",
+      "role": "guest",
+      "company": "",
+      "title": "Professor"
+    },
+    {
+      "name": "Sócrates",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo"
+    },
+    {
+      "name": "Jesus",
+      "role": "mentioned",
+      "company": "",
+      "title": "Figura religiosa"
+    },
+    {
+      "name": "Gandhi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Líder político e espiritual"
+    },
+    {
+      "name": "Aristóteles",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo"
+    },
+    {
+      "name": "Paris",
+      "role": "mentioned",
+      "company": "",
+      "title": "Príncipe troiano"
+    },
+    {
+      "name": "Helena",
+      "role": "mentioned",
+      "company": "",
+      "title": "Rainha de Esparta"
+    },
+    {
+      "name": "Menelau",
+      "role": "mentioned",
+      "company": "",
+      "title": "Rei de Esparta"
+    },
+    {
+      "name": "Ulisses",
+      "role": "mentioned",
+      "company": "",
+      "title": "Herói grego"
+    },
+    {
+      "name": "Agamemnon",
+      "role": "mentioned",
+      "company": "",
+      "title": "Líder militar grego"
+    },
+    {
+      "name": "Ifigênia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filha de Agamemnon"
+    },
+    {
+      "name": "Clitemnestra",
+      "role": "mentioned",
+      "company": "",
+      "title": "Esposa de Agamemnon"
+    },
+    {
+      "name": "Messi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Jogador de futebol"
+    },
+    {
+      "name": "Pablo Picasso",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artista"
+    },
+    {
+      "name": "Beethoven",
+      "role": "mentioned",
+      "company": "",
+      "title": "Compositor"
+    },
+    {
+      "name": "Clovis De Barros",
+      "role": "guest",
+      "company": "",
+      "title": "Professor"
+    },
+    {
+      "name": "Immanuel Kant",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de treinamento e desenvolvimento de times e escola de negócios"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Coragem",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Ostentação",
+      "category": "Comportamento social"
+    },
+    {
+      "name": "Patrimonialização da vida",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Ética",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de treinamento"
+    },
+    {
+      "name": "conatus",
+      "category": "Filosofia"
+    },
+    {
+      "name": "autoconhecimento",
+      "category": "Filosofia"
+    },
+    {
+      "name": "algoritmo",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "talento",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "daimon",
+      "category": "Filosofia"
+    },
+    {
+      "name": "felicidade",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Teoria das Virtudes",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Ética Nicômaco",
+      "category": "Obra Filosófica"
+    },
+    {
+      "name": "Areté",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Temperança",
+      "category": "Virtude"
+    },
+    {
+      "name": "Espiral do Silêncio",
+      "category": "Sociologia"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ética Nicômaco",
+      "author": "Aristóteles"
+    }
+  ],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Algoritmo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Felicidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Teoria Das Virtudes",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Areté",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autoconhecimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Teoria Das Virtudes",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Ética Nicômaco",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Talento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Daimon",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clovis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Espiral Do Silêncio",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clovis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Teoria Das Virtudes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Teoria Das Virtudes",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Temperança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Teoria Das Virtudes",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Coragem",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clovis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ética Nicômaco",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Conatus",
+      "target_type": "concept"
+    }
+  ]
+}

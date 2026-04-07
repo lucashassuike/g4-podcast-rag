@@ -1,0 +1,308 @@
+{
+  "episode_id": "34748488440",
+  "title": "POR QUE VOCÊ PRECISA INVESTIR EM GESTÃO DE PESSOAS? | G4 PODCASTS",
+  "date_published": 1715761800,
+  "duration": 1458,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Mônica Halk",
+      "role": "guest",
+      "company": "Solids",
+      "title": "Cofundadora e CEO"
+    },
+    {
+      "name": "Ricardo Basaglia",
+      "role": "guest",
+      "company": "Michael Page",
+      "title": "CEO"
+    },
+    {
+      "name": "Sophie Esteves",
+      "role": "guest",
+      "company": "Companhia de Talentos",
+      "title": "Fundadora"
+    },
+    {
+      "name": "Jean Christian",
+      "role": "guest",
+      "company": "Flash People",
+      "title": "Diretor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Plataforma de conteúdos de negócios, gestão e alta performance"
+    },
+    {
+      "name": "Solids",
+      "industry": "Tecnologia e Recursos Humanos",
+      "context": "Empresa focada em soluções para gestão de pessoas"
+    },
+    {
+      "name": "Michael Page",
+      "industry": "Recrutamento e Seleção",
+      "context": "Empresa especializada em recrutamento e seleção"
+    },
+    {
+      "name": "Companhia De Talentos",
+      "industry": "Recursos Humanos",
+      "context": "Fundada por Sophie Esteves, atua em processos seletivos e desenvolvimento de talentos."
+    },
+    {
+      "name": "Flash People",
+      "industry": "Tecnologia para Recursos Humanos",
+      "context": "Diretor Jean Christian mencionou soluções para engajamento de colaboradores."
+    },
+    {
+      "name": "G4 Skills",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma criada para capacitação de equipes."
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Financeiro",
+      "context": "Cliente mencionado em processos seletivos de alta complexidade."
+    },
+    {
+      "name": "Flash",
+      "industry": "Tecnologia",
+      "context": "Aplicativo mencionado como solução para engajamento de colaboradores."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Rotatividade",
+      "category": "Métrica de Recursos Humanos"
+    },
+    {
+      "name": "RH Estratégico",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Onboarding",
+      "category": "Processo de Recursos Humanos"
+    },
+    {
+      "name": "Produtividade",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Diagnóstico de Recrutamento",
+      "category": "Processo de Recursos Humanos"
+    },
+    {
+      "name": "Mitigação de Riscos",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Processo Seletivo",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Clima Organizacional",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "Pesquisa Pulse",
+      "category": "Ferramentas de Recursos Humanos"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Micro-learning",
+      "category": "Educação e Treinamento"
+    },
+    {
+      "name": "Home Office",
+      "category": "Modelos de Trabalho"
+    },
+    {
+      "name": "Indicadores de Negócios",
+      "category": "Gestão Estratégica"
+    },
+    {
+      "name": "inteligência artificial (AI)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "framework de AI",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Desenvolvimento"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "4 a 12 vezes o salário do profissional",
+      "context": "Custo de uma contratação errada"
+    },
+    {
+      "value": "40% de rotatividade",
+      "context": "Média inicial de rotatividade em clientes da Solids"
+    },
+    {
+      "value": "17% de rotatividade",
+      "context": "Média de rotatividade após uso do software da Solids"
+    },
+    {
+      "value": "70% de rotatividade",
+      "context": "Rotatividade em empresas do varejo"
+    },
+    {
+      "value": "6 mil entrevistas",
+      "context": "Volume de entrevistas realizadas pela Michael Page no Brasil"
+    },
+    {
+      "value": "4 a 12 vezes o salário do profissional",
+      "context": "Custo de uma contratação errada."
+    },
+    {
+      "value": "15 a 18 mil posições",
+      "context": "Número de vagas trabalhadas pela Companhia de Talentos em um ano."
+    },
+    {
+      "value": "1.400.000 candidatos",
+      "context": "Número de pessoas inscritas em processos seletivos da Companhia de Talentos."
+    },
+    {
+      "value": "2 mil posições por ano",
+      "context": "Número de vagas trabalhadas para o Bradesco pela Companhia de Talentos."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Companhia De Talentos",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão De Pessoas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Michael Page",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Recrutamento E Seleção",
+      "target_type": "company"
+    },
+    {
+      "source": "Sophie Esteves",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Companhia De Talentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Flash People",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão De Pessoas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Inteligência Artificial (Ai)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Framework De Ai",
+      "target_type": "concept"
+    },
+    {
+      "source": "Flash",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gestão De Pessoas",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Michael Page",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Gestão De Pessoas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mônica Halk",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Solids",
+      "target_type": "company"
+    },
+    {
+      "source": "Jean Christian",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Flash People",
+      "target_type": "company"
+    },
+    {
+      "source": "Solids",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão De Pessoas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bradesco",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Companhia De Talentos",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Micro-Learning",
+      "target_type": "concept"
+    }
+  ]
+}

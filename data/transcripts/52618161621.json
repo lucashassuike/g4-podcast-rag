@@ -1,0 +1,3913 @@
+{
+  "id": 52618161621,
+  "title": "COMO A IA ENTROU NA ROTINA DO BRUNO NARDON | O JOGO DA IA",
+  "guest": "",
+  "date_published": 1774623600,
+  "duration": 2971,
+  "text": "Ah, lógico, quero fazer um sistema mega pau-udo, que não sei o quê, que não sei o quê, que vai tratar milhões de clientes. Você vai conseguir fazer vibe coding? Vai. Vai dar certo? Vai funcionar? Vai. Mas você vai depender da sua empresa disso? Pô, pega daí uma galera boa de tech, olha a segurança. Mas, cara, o MVP você fez. Você testou o conceito. Cara, você coloca 5, 10, 100, 200 pessoas, funcionou legal. Só que ele era um preguiçoso produtivo, que é o jeito que a gente está apilidando esse negócio aqui no G4. Preguiçoso produtivo. O que é o preguiçoso produtivo? É o cara que não quer repetir duas, três, quatro, cinco vezes a mesma coisa. Sei lá, não sei. Não sei qual que você recomenda, né? Tipo, você mandou para mim, eu devolvi para você. Me diz você, meu amigo. Você não é o fodão? Começando mais um O Jogo da Iá, para a gente conversar com os empresários que estão liderando o movimento de inteligência artificial no Brasil. E eu estou aqui com o meu sócio, o meu parceiro, Iago Martins. Estamos juntos. E com o grande Bruno Nardon, que está jogando esse jogo e gostando de ver, viu Nardon? Está jogando na prática. Outro dia a gente estava ali, tinha uma madrugada, vibe codando junto no grupo do WhatsApp. E eu fiquei sabendo que você fez uma aplicação de Iá ali para ajudar o seu filho. Já começa contando a história. Como é que foi? O que você está desenvolvendo? O que você está jogando na prática de Iá para a gente? Boa. Antes disso, eu acho que vale a pena dar um panorama aqui para a galera de como foi o passo a passo que eu falei, vou vibe codar. Cara, eu aprendi na faculdade a programar. Então, lá em 2005, 2006, aprendi o básico, C, JavaScript. Cara, aprendi ali o básico do básico, fazia os negócios. Achava super legal lá na época. E quando eu fui trabalhar, antes de eu fundar a Canoe com outros sócios, eu montei um projetinho que eu programei aquilo tudo. Mas desde então, quando montamos a Canoe, cara, eu usava o básico do básico do básico, SQL, quando precisava, porque tinha time para fazer as coisas. E daí vamos dar uma acelerada até hoje. 2022, ali no fim de 22, quando o OpenAI lançou o chat de IPT, e aqui no G4 a gente sempre foi muito inovador. Tecnologias novas surgem, vamos entender isso, porque se a gente entender isso antes do resto, a gente vai ter uma vantagem competitiva, que daqui seis meses, um ano, quando a galera estiver entrando, a gente já vai ter masterizado essa técnica aqui e usado aquilo a nosso favor. Fim de 22, acho que foi outubro, novembro, né, que lançou o chat de IPT. Cara, chegou para o João Victor e falou, João, para tudo que você está fazendo, para tudo. Não é mais nada. Estuda esse negócio. Se tem alguém aqui que vai entender e vai aprender é você. E cara, você vai ser o motor transformador desse negócio. Cara, 23, começamos a usar as primeiras ferramentas para dentro de casa, 24, mais ainda. E ano passado, assim, uma loucura. Quando você olha o G4 de 2023 para o G4 do ano passado, a gente triplicou a receita da companhia, basicamente com o mesmo time. Crescemos talvez 5% a 10% do time. Ou seja, triplicamos o tamanho com o mesmo time. Por que a gente fez isso? Porque a gente colocou, melhoramos muitos processos, colocamos muita tecnologia e desenvolver tecnologia ficou muito mais fácil com o advento do DA. Ou seja, a gente já capturou muito valor, mas eu, como um dos sócios, donos da empresa, eu estava usando o IA de uma maneira muito soft, de uma maneira muito simples, muito fácil, que é como a maioria das pessoas usam hoje. Até porque você tinha o João do seu lado também, né? Exatamente. Porque, cara, eu tinha a ideia, eu via a oportunidade, falava, João, resolvo que eu sei que dá para colocar IA nisso para automatizar. Mas como eu sempre tive gente, né? Que nem a história da Kanoe. Pô, 2012, 13, 14, até usava. Não sei, eu estava programando, eu usava mais SQL. Cara, eu sempre tive time para fazer as coisas. Aqui no G4 a mesma coisa. O meu papel é pegar as pessoas certas, colocar nos problemas certos, dar direção e, cara, fazer o negócio andar e cobrar para o negócio acontecer. E, cara, eu sempre usei do jeito fácil, né? Pô, fazer um prompt, vou usar como eu uso o Google, pô, coisas mais rebuscadas. Ah, preciso fazer aqui um texto para a mídia social, pô, quero... Estou estudando esse tema, me ajuda a entender mais. Sempre muito soft. Até fim desse ano, do ano passado, né? Olha ali o último trimestre, a gente estava discutindo muito. Todas as ferramentas de AI nas plataformas de AI lançaram muitas tecnologias novas. E eu já estava, eu e o Tales, o João, falando, cara, isso daqui está indo muito mais rápido do que a gente imagina, a gente precisa utilizar mais, precisa utilizar mais, precisa a gente utilizar para o time utilizar, não dá só para ficar no time do João. Cara, buscando ele, cara, como o João, como você pega o resto do time para usar? E, cara, ficou, ficou, ficou. Fechamos o ano, fui tirar férias, fui para os Estados Unidos. Lá nos Estados Unidos, eu andei com o Tesla, que já tinha andado outras vezes, já tinha andado com o self-driving car, mas, meu, numa outra qualidade do que está hoje. Eu fui para a casa lá do Bruno Prado, grande amigo nosso também, aluno aqui do G4, e, cara, foi... Ele me emprestou para mim o Cybertruck para ir para o museu com a família com a criançada. Eu apertei lá o endereço que eu queria ir, apertei o modelo de agressividade que eu queria do self-driving car, e, cara, eu não fiz mais nada durante 45 minutos. E eu chegava, agora vai dar merda, pô, você tem uma ponte aqui que eles estão reformando, vai dar merda agora. Eu já estava com a mão ali para assumir o controle. Vai dar nada, foi, passou. Cara, que loucura que eu estou vivendo, cara, que loucura que eu estou vivendo, o que é isso? Não é possível, eu fiz um vídeo, filmei, gravei para o YouTube lá. Cara, eu falei, cara, é inimaginável. E na hora que a gente chegou, ele estava lá, cara, tinha umas vagas para estacionar, apertei em uma, e ele já chegou e, cara, estacionou automaticamente. Na hora que eu saí do carro, eu falei para a minha esposa, amor, pelo amor de Deus, vai lá, vai lá comprar o ingresso para o museu, para as crianças, e para mim eu preciso falar com os meninos. Comecei a trocar mensagem, mandar áudio, liguei para eles e falei, galera, de boa. Já era. Cara, Nardon, o que você está viajando? Não é que eu sou meio assim, né? Quando vira a chave, quando o jogo muda, quando clica, cara, e eu sempre pensei em futuros desejáveis, cara, fazer aquele... E acontecer isso no futuro, e acontecer isso no futuro, e acontecer isso no futuro. Sempre tinha ali quatro, cinco cenários que poderiam acontecer no futuro. E na hora que eu andei, tangibilizei aquele negócio, me levou de um lado para o outro sem eu fazer nada, e eu já tinha visto vídeo, já tinha visto, não sei o quê, já tinha visto o Emo, a Tesla, já tinha visto a galera falando e tal, mas, cara, uma coisa é você ouvir as pessoas falarem, outra coisa é você viver. O jogo é completamente diferente. Falei para os caras, falei, caras, não é mais futuro, já é presente, na realidade já é passado. E a já veio, já dominou, e a gente está muito para trás, e se a gente não pisar no acelerador agora, por mais que a gente tenha feito um monte de coisa dentro do G4, a gente precisa ser mola propulsora de mudança no Brasil de IA. Só que para a gente fazer isso, a primeira coisa que a gente tem que fazer é a gente utilizar as ferramentas mais hardcore do que a gente está usando. E eu sempre achei que era, porque era o João Vitor, é o Rafael Milagre, mas, pô, uns negócios aí, né? É os nerds malucos. É os nerds malucos, é difícil. Só que eu também sou um nerd maluco. Eu só, ao longo do tempo, dada a minha posição, fui mudando o papel de nerd maluco, né? Para um gestor maluco. E daí chegou, cara, eu cheguei em carnaval, falei, pô, né? Os primeiros três semanas ali, correria com a Giano. Cara, chegou o carnaval, eu falei, No grupo, eu vou mandar a imagem, áudio, textos com aniversários de pessoas e eu gostaria que uma vez que você entender o que é, que você mandasse um invite para o meu e-mail, além disso que você colocasse, armazenasse isso num banco de dados para ter o histórico, para perguntar quais os próximos aniversários do próximo mês, do mês anterior, coisas do gênero, perguntar se eu vou ou não e automaticamente nesse e-mail mandar um invite e mandar aqui também um link do invite aqui no WhatsApp. Beleza. Daí ele chegou para mim e falou... O plano está aqui. Não, não, ele falou assim para mim, qual tecnologia de desenvolvimento, qual linguagem você prefere? Eu falei... Sei lá, né? Não sei, qual que você recomenda, né? Tipo, você mandou para mim e eu mandei para você. Diz você, meu amigo. Diz você, pô, você não é o fodão? Não é o todo poderoso com a lauda? Daí ele fez mais duas perguntas que eu não lembro qual que era, qual que eram. Ah, você já tem algum... Não sei, não lembro o que que eram as perguntas, mas daí moral da história, ele falou, olha, tem o Python, tem essa, tem essa, esse é o pró, esse é o contra de cada uma, qual que você quer? Daí eu falei, não, qual que você acha melhor para esse projeto? É um projeto pessoal, não vai ser escalável e tal. Ele falou, olha, eu acho que Python é um bom projeto. Daí eu falei, então vamos com o Python. Daí nisso eu pensei, né? Falei, tá, e aí, o que a gente vai trocar? Ele começa a pensar, pensar, pensar, pensar, tá aqui o código. Cara, já lançou lá, tipo, cinco, seis arquivos, ponto PY, pronto, tá aqui o Python, você precisa entrar no terminal e rodar isso e isso. Eu falei, eu não sei como abrir o terminal, eu sabia, né? Eu não sei como abrir o terminal, como eu faço? Daí ele falou, explicou, você tá no Windows ou no Mac? Ele falou, não, eu tô no Mac. Passo um, passo dois. Daí ele falou, ah, você tá no Mac, eu pensei que você tava no Windows, então eu já tenho até que mudar a biblioteca de Python. Daí ele rerodou os negócios, arrumou o que ele precisava. Daí, cara, ele explicou, entra no terminal, agora digita isso no terminal, agora faz isso, agora faz aquilo. Cara, deu erro. Print. Mandei um print pra ele subir e dei um enter. Cara, eu te juro, parecia assim, tipo, é bizarro, faz isso, faz isso. Então, assim, o vibe coding, que chama, eu acho que é o nome errado, você não coda. É o vibe prompting, né? E é diferente. É que você fica na vibe, aí, ah, faz o coding. É isso. Pode ser isso. Mas, cara, assim, não é vibe coding, porque é você conversar com a máquina, logicamente, você precisa ter um raciocínio lógico que faz sentido. Precisa saber delegar. Exato. E eu comecei com esse projetinho, cara, em coisa de duas horas, ele tava no ar. Daí eu falei, ah, no meu computador, daí testei, funcionou no meu computador. Eu falei, cara, agora eu quero colocar isso em algum servidor, na nuvem, pra eu usar, pra não precisar ficar meu computador ligado e tal. Daí ele me explicou como comitar no GitHub, como usar o Railway pra você ligar um pro outro e ele ficar com o servidor. Daí explicou que eu não podia deixar as chaves abertas, não sei o quê. Chave de app exposta. Cara, daí até uma hora eu coloquei lá e ele falou, não, não faça isso. Não coloque aqui pra mim as suas chaves, não sei o quê. E, cara, beleza. E coloquei no ar e começou a funcionar. Cara, tava lá em casa testando. Daí no outro dia eu cheguei aqui no escritório, fiz um videozinho, postei no Stories, postei no Reels. Cara, vieram umas quatro pessoas, amigos meus, que falaram, meu, tem o mesmo problema que você tem, Nardom. Não dá pra você liberar esse bot pra mim? Eu falei, ó, do jeito que tá, não dá. Porque ali tava muito... Suas credenciais. É, tava muito... Daí eu fui lá, falei, cara, eu quero liberar esse bot não só pra mim, mas pra outras pessoas. Como que eu faço pra ter segurança, individualidade entre grupos? Você entender a memória que você fica em um grupo no outro, um grupo não dá pra perguntar pro outro. E fiz também, ah, cara, coloca uns comandos aí caso eu queira colocar e-mail, tirar e-mail, o que que dá pra fazer. Cara, negócio mega basics. Fiz mais em 40 minutos, uma hora. Tava no ar. Daí eu mandei pros dois amigos meus lá que pediram, pro terceiro eu não mandei. Mandei pros dois amigos. Até isso aí, cara, começaram a usar. Tão usando. Eu vejo aqui, né, que eu tenho um WhatsApp Business, que eu comprei um número de telefone da Nubank pra colocar como esse bot, né, e eu consigo ver as coisas. Cara, eles tão usando. E pô, você podia por isso, né? Você podia por aquilo. Eu falei, galera, era um projetinho de duas horas. Se você quiser que eu faça mais, vai ter que pagar caro. Mas cara, foi assim que eu comecei e pra mim, de novo, foi... O jogo mudou, cara. Porque antes era algo que era super distante, longe, e conforme eu fui fazendo, eu falei, cara, imagina se eu tivesse isso em 2012, 2013, 2014. E te deu um sentimento assim, eu devia ter começado antes? Ou não? Você falou assim, ah, tá num timing. Eu falei, tá no timing. Eu acho que pra mim tá no timing. Mas a realidade é a seguinte, tá no timing pra mim, porque eu tenho um time que é muito bom, tenho o João Vitor, que tem um time muito bom, que implementa isso pra dentro do G4. Agora, com o tanto de melhorias que essas AIs tiveram no último semestre, nos últimos seis meses, é algo que os donos, eu e o Tales, e cara, eu tava fazendo isso, o Tales também tava fazendo, a gente, cara, olha o que eu fiz, olha o que eu fiz, olha o que dá pra fazer, olha que loucura, olha não sei o que. E agora eu tô meio que criando os building blocks do meu conhecimento do que dá pra fazer. Então, ah, eu descobri já como fazer um negócio que dá pra conectar no WhatsApp, tem uma maneira muito mais fácil, muito melhor, cara, e muito mais escalável do que eu fiz. Mas eu aprendi a usar todas as ferramentas e eu tive um contexto. Daí depois eu comecei a trabalhar num projetinho de banco de dados. Cara, fui lá, peguei um monte de base de dados abertas, cara, puxei automaticamente do site pro Cloud Server. O que você fez se usasse um Lovable ou Rapid seria economizar 80% do seu trabalho. Perfeito. Então, aqui, já fiz esse agora de banco de dados, que eu queria aprender como é que funcionava. Agora, a ideia desse fim de semana, desse próximo fim de semana, é começar a fazer as coisas no Lovable, pra aprender no Rapid, pra aprender como é que funciona isso. Daí depois eu quero fazer coisas na Eleven Labs pra entender como é áudio. Depois eu quero fazer coisas no Nano Banana pra entender. Então, o que eu tô querendo fazer nesse começo é muito mais tocar as coisas diferentes pra aprender como essas diferentes, mexer no Manos, que é diferente do resto. E daí depois, sei lá, a próxima fase é, pô, deixa eu colocar Open Clod aqui, sei lá, uma semana, num computador diferente, cara, mexer com a gente, fazer essas coisas meio maluca. É o metramento, né? É isso. Então, eu tô, cara, touching points, entendendo, só que o principal é que mostrou pra mim que é muito mais simples do que eu imaginava que era. E dito isso, eu e o Tales conversando, a gente falou, cara, acabou. Não dá para o time inteiro não estar fazendo isso. Porque muitas vezes você fica com medo e você tem uma objeção porque você nem sabe que você não sabe daquele tema. Então, você fala, não, mas programar? Você não programa. Só que você só aprende isso fazendo. Foi que nem a experiência que eu tive no Cybertruck me levando de um lugar pro outro. Falei, caralho, é isso. Daí eu voltei com uma cabeça de galera. A gente agora tem que empurrar isso. Cara, garganta abaixo no time. E quem não tiver afim, não tem problema. É só não ficar com a gente. Só que, cara, a gente vai continuar crescendo com o mesmo time. Eu não quero mandar a gente embora. Só que eu quero que as pessoas consigam liberar tempo delas. Pra quê? Pra que elas consigam pensar. Pra que elas sejam indispensáveis praquilo que ela faz no dia a dia dela, que ela perde tempo. Lendo e-mail, lendo Slack. Cara Quem não quiser, está fora. E é a mesma coisa que a gente está vivendo agora. E você que está me ouvindo aqui, cara, eu estou falando nesse tom mais agressivo, mais inconformado, porque é muito simples, galera, é muito simples, pô. É muito fácil. Ah, lógico, quero fazer um sistema mega pau do que não sei o quê, que não sei o quê, que vai tratar milhões de clientes. Você vai conseguir fazer vibe coding? Vai. Vai dar certo? Vai funcionar? Vai. Mas você vai depender da sua empresa disso? Pô, pega daí uma galera boa, de tech, olha a segurança. Mas o MVP você fez, você testou o conceito. Cara, você coloca 5, 10, 100, 200 pessoas, funcionou? Legal. Quanto tempo eu gastei para testar uma ideia rápido? Uma hora, duas horas, três horas. Testou, está funcionando? Escala, que sempre foi o conceito que a gente usou para tudo na vida. Então agora o que a gente quer fazer e está fazendo é isso. Estamos empurrando para o time inteiro. Vamos fazer agora um hackathon, que inclusive a gente precisa combinar, né? Porque eu gostaria que vocês estivessem juntos. Não, Tales já me afirmou que eu estou escalado. Boa. Então, cara, o que a gente vai fazer com o time, vai dar as ferramentas para o time, vai puxar isso, porque uma vez que todo mundo percebe que é tão simples e tão fácil, até o meu SDR que está lá na ponta, cara, fazendo call o dia inteiro, ele vai falar, cara, isso que eu faço é muito repetitivo. Deve ter um jeito mais fácil de fazer. Daí ele vai falar, putz, mas se eu fizer isso e perder esse tempo, talvez eu não vou conseguir fazer o que eu preciso. Mas eu posso levantar a mão aqui para o meu coordenador, o meu coordenador vai chegar lá para o time do João ou para o time de alguém e falar, galera, eu faço isso todo dia, a mesma coisa, eu sei que dá, porque eu aprendi que dá. Eu posso eu fazer aqui, mas vai funcionar mais ou menos? Ou vocês podem, cara, colocar alguém aqui, porque isso daqui é um negócio que não faz sentido. Acabou. Então, a partir do momento que as pessoas começam a saber aquilo que elas não sabem, elas começam a ver o mundo dela em vez de estar aqui, igual aquele cavalo do interior com tapa-olho, o cara abre. Não é abre de 180, é abre 360, cara, tua mente explode. Aí você fala, olha o tanto de coisa que dá para fazer, meu Deus do céu, como eu perdi tanto tempo pedindo para a Dev, cara. E, cara, hoje é quatro horas que a gente colocou aqui, que a gente integrou todas as bases de dados nossa lá, colocou alguns layers, facilitam muito o time trabalhar. Cara, era relatório que era seis meses a gente pedindo para o time que eles não davam conta de fazer. Cara, em 15 minutos deu uma query. A gente colocou no Discord. Oi? A gente colocou no Discord. Então, aqui é o meu bot de dados, qualquer coisa que eu pergunto aqui para ele de dados, quanto eu estou vendendo, quanto eu estou não sei o quê, tudo o que eu tenho. Então, para a gente que é mais de dados. Mas só para fechar essa linha de raciocínio, é uma coisa que eu acho que é super importante. Eu gosto dessa linha de pegar e ir fechando essas linhas de raciocínio. Não é só para ver se eu entendi bem. Então, assim, a data lógica da gente pensar, ela é assim, olha, o primeiro passo para implementar e para jogar esse jogo é o dono ou os sócios, o dono, as lideranças principais, elas precisam meter a mão na massa e entrar no mar. Ou seja, não adianta ela falar para o time, eu quero que vocês usem AI. Não adianta ela pegar desse podcast e mandar para o time, façam isso, se ela não faz. Óbvio que a tropa é espelho do guia. Você falou muito isso, a empresa faz no exército, então assim, eu sigo isso muito. Então, a tua linha de raciocínio é, primeiro o dono coloca a mão, ele entendeu o que dá para fazer na prática, ele viu, ele fez e como a gente está falando aqui, ninguém aqui é programador, ninguém aqui é desenvolvedor, o nosso produto Viverdear foi só o Rafa que fez, sozinho e ele não é programador, ele fez todo um produto de tecnologia e continua ele mesmo. Cara, precisa entender muito mais de produto do que de código. Muito mais, produto é mais importante. E AI depois disso, ele começa a escalar para o time. E aí eu quero colocar uma pergunta aqui para ti. Na tua visão, isso é, vai ter ali um time de duas, três, quatro, cinco, anyway, X pessoas para tocar isso? Vai ser uma área de tecnologia ou vai ser todas as empresas precisam ter o nível e não depender de uma pessoa? Como que tu vê no dia a dia uma empresa colocando IA mesmo? Depois que o dono já pegou, vou trazer para baixo, é top down, é todo mundo, uma área? Como que tu pensa isso no dia a dia? Cara, ótima pergunta e eu acho que tem diferentes approaches que podem ser feitos e tem um approach que a gente começou a fazer quando as ferramentas não tinham a tecnologia e tudo tão avançado como tem hoje, que foi, deixa eu pegar um time separado, que era o time do João, que já era um time de produto, tech, operações, e vamos colocar para eles aprenderem e eles serem um time ali de um squad de cinco, dez pessoas, eles vão ser os agentes transformadores disso dentro da companhia. Qual que é o pró disso? É um time que vai passando área a área, entendendo os problemas e resolvendo eles. Qual o contra disso? É um time com cinco, dez pessoas que não consegue fazer tudo e não consegue saber na ponta o que está acontecendo. Eles vão avaliar tudo, falar qual que é o ROI de cada um, então o que é o que eu vou fazer com menos esforço que vai me dar mais resultado e vai priorizar na fila para fazer isso, certo? Que é o que foi feito lá atrás. Porém, seis meses para cá, as ferramentas mudaram tanto de patamar, entraram tanto no nível de você consegue fazer coisas absurdas com uma assertividade tão grande de uma maneira tão fácil que o meu ponto de vista é joga para todo mundo, empurra para todo mundo, tenha um dono, um capitão, a pessoa que vai garantir que tudo que está sendo feito e as coisas que estão virando live ainda mais dependendo do tamanho da empresa. Cara, você vai me pedir cinco, dez pessoas? Foda-se, faz o que for, manda a bala, faz acontecer que é a melhor coisa. Até 40, 50, isso é mais para uso interno, só garante que tenha um layer de segurança. Mas cara, a maioria das ferramentas tem para não vazar teu banco de dados, para não vazar, cara, coisas, mas assim, e mesmo se vazar, se não tiver dado de cliente, o que teu concorrente vai fazer com teu faturamento? Mas mais o time interno ou prestação de serviço? Contrato uma empresa para fazer para mim ou meu time? Cara, eu acho que o seu time tem que ter a skill de fazer, você precisa ter algum capitão dentro do time que vai ser a pessoa dona daquilo para garantir que aquilo ande e que os grandes projetos que são pedra fundamental para o teu negócio sejam feitos da maneira correta. Então, vou fazer um CRM novo na minha empresa para de usar o HubSpot ou o Salesforce. Meu amigo, desculpa, você acorda a tua empresa, você tem que fazer isso bem feito, se você é uma empresa do tamanho do G4 que vai faturar 750 milhões esse ano. Não dá para eu pegar isso que é o core da minha empresa e mudar do dia para a noite se não for um negócio muito bem feito. Agora, se é uma ferramenta interna para o time financeiro, subir nota, olhar não sei o que de uma maneira mais simples. Começa pelos quick wins. Começa pelo simples e pelo fácil. Agora, na minha cabeça, todo mundo da empresa deveria entender sobre o tema mesmo que no dia a dia não use muito porque às vezes a pessoa tem um trabalho ali que já automatizou ao máximo, mas ela precisa estar ali trabalhando. Quanto mais time, mais pessoas saberem do time, mais na ponta você tem, mais na ponta a pessoa sabe o problema que ela tem na ponta, que é o que ela faz no dia a dia. E se ela sabe que aquilo é automatizável ou ela pode fazer e ela automatizava, ela pode pedir para alguém fazer porque ela sabe que dá para fazer. Legal. Aí a gente, só para, eu quero ver nessa pergunta porque eu acho que tem mais uma fase dela. Então a gente fez o quê? O dono foi lá da aprender. Beleza. Ele meteu a mão na massa. Segundo nível. Todo time fez um hackathon, treinou o time, contratou uma pessoa que sabe, colocou o time no verdear para todo mundo estudar. Enfim, N formas. Comprou aqui, a academia de AI para o time, enfim. Depois ele vai em um outro ponto que é, tá legal, agora eu sei meu time. Começo por onde? Ou seja, começo a atacar por que PIs que eu estou vendo que eu não estou atingindo e como resolvo eles com o IA? Não, começo a Automatizar a vida dele, trazer contexto para ele fazer aquela venda acontecer mais rápido. Foi a primeira coisa que a gente olhou aqui no G4. Foi vendedor e pré-vendedor. Então a gente olhou lá, cara, como que esse vendedor se relaciona melhor com o cliente? Então a gente já puxava de qual indústria que aquele oportunidade ia e eu trazia, cara, 10 cases. Esse foi o comecinho, lá atrás, 2020. Fim de 2022, 2023. Trazer 10 cases de cara do mesmo setor que passaram no G4, porque eu estou criando prova social. Ah, você é do setor de construção? Já veio a turma da Cirela, já veio a turma de não sei o quê, já veio a turma da Vitacom. Cara, e você, pelo telefone do cara, você sabe mais ou menos o CEP dele. E você que é aí do Sul, tem essa e essa e essa empresa que são aí do Sul. De que cidade você é? Ah, de Balneário? Pô, tem esse cara dessa empresa aí de Balneário. Você conhece ele? Conheço. Pois é, liga para ele e pergunta como foi a experiência dele no G4. Só que é um contexto que o vendedor, para ele achar isso num banco de dados, ele não vai conseguir. Cara, a gente plugou, trouxe um monte de coisa ali fácil para o cara ver. Uau! Então, começa o mais perto da venda e vai subindo o funil. Ou seja, de uma engenharia reversa. É isso. Porque, cara, é o meu jeito de ver. Tipicamente, ali você já vai destravar muito valor. E na hora que você destrava valor, que você coloca uma tecnologia que, cara, com pouco esforço, traz muito resultado, o time inteiro compra aquela ideia. O time fala, caramba, a gente melhorou em tanto as vendas, fazendo só isso? Imagina se a gente começar a colocar em outras áreas. E daí você vai entendendo o que é gargalo, o que não é gargalo, na tua companhia. Então, pode ser que não seja ali o teu gargalo. Pode ser que seja na produção. Então, eu estava com o Vitor Meirelles aqui, que foi o meu, não é, mas ele foi, entrou como analista lá na Canoe, lá em 2012. Ele que entrou para estruturar o nosso BI. Então, ele que fez as primeiras coisas de BI. E ele era um cara, que ele é engenheiro de computação, e ele era muito preguiçoso. É muito preguiçoso. Só que ele era um preguiçoso produtivo, que é o jeito que a gente está, né, apelidando esse negócio aqui no G4. Preguiçoso produtivo. O que é o preguiçoso produtivo? É o cara que não quer repetir duas, três, quatro, cinco vezes a mesma coisa. Eu chamava ele de braço curto. Cara, para de ser braço curto. Porra, cara, para de ser preguiçoso. Pega o problema até aí, vai lá e automatiza ele. Porque uma vez que você automatizou, cara, começa a puxar com o time, não fica... E, porra, ele foi aprendendo, aprendendo, aprendendo. E, cara, ele é um dos caras que, assim, um dos caras mais fodas quando você pensa em BI, negócio. E hoje, ele saiu lá da empresa dele e foi tocar a empresa de pães da família dele. Meu amigo, o tanto de AI que ele colocou para fazer pão, não está escrito no negócio. Se um cara conseguiu colocar AI numa fábrica de pão, como você não consegue? Daí o cara fala, mas o que ele colocou de AI? Gente, não precisa... Não é para fazer o pão. É, mas não precisa achar que é coisa de outro mundo, não. O que ele fez? Ele mapeou cada etapa do processo. Falou, pô, hoje o meu cara lá que faz pão, ele vai fazer a massa e vai passar essa massa para o próximo etapa. Só que o cara da próxima etapa vai falar, pô, mas essa massa é para quê? Para fazer hambúrguer? Precisa pôr gergelim? Cara, tinha um monte de erro, porque são pessoas conduzindo as coisas com zero tecnologia. Ele usou AI para quê? Para vibe, codar os sistemas de cada uma dessas etapas. Então, ele pegava lá e falou, eu preciso de um sistema aqui de pedido. Então, todos os pedidos entram para o sistema. Na hora que o pedido entra para o sistema, eu já sei quantas unidades eu vou precisar fazer de cada tipo de pão, para qual momento? Eu sei, para fazer tantos desses pães, o quanto que eu preciso de matéria-prima. Eu tenho essa matéria-prima no meu estoque? Tenho? Não tenho? Quanto que eu preciso comprar? Em que momento que eu preciso comprar? Porque os pedidos estão entrando. Uma vez que eu lanço, eu consigo ter uma visibilidade melhor da minha semana, o que eu vou colocar em cada momento. Então, eu preciso fazer o pão de hambúrguer tal, que é o que mais tem pedido e preciso entregar até sexta-feira? Cara, vou colocar lá no meu almoxerifado, para ele separar lá os pedidos e vou colocar a parte da manhã e a parte da tarde e a parte da manhã, segunda e terça de manhã. Cara, isso daqui já está tudo no sistema enquadrado, quando vão ser as fornadas de cada coisa. O time lá pega, pega os produtos, pesa, bipa. Cara, bipa, como que eu faço o aperto de mão entre uma área e outra? Saiu do almoxerifado, agora vai para o cara fazer a massa. O cara vai fazer a massa, o que eu tenho que fazer? Ele bipa as coisas de novo, vê isso daqui o que você precisa fazer. Então mistura isso, faz, vai sair tanto em tanto tempo. Então ele começou a cada área conseguir colocar tecnologia. Tecnologia é só uma plataforma, colocou as TVs lá para a galera ver o que estava acontecendo, o sistema que tudo ele criou com IA. O criar com IA no fim do dia é fazer os prompts, que antes ele precisaria de 10 devs para fazer tudo o que ele fez, ele fez em uma semana o sistema inteiro da fábrica dele e começou a testar, testar, testar, arrumou bug, arrumou bug. Cara, em coisa de duas semanas, uma semana e meia, ele sozinho mudou tudo aquilo. Só que ele, de novo, vem do histórico de saber muito bem disso. E tem muita gente que nem sabe o que não sabe. Daí, né, graças a Deus, além de perguntar para o João para a IA, eu peguei lá o Viver de A que vocês já liberaram para a gente faz muito tempo e, cara, eu comecei a ver. Agora, meu fim de semana agora, é ver as aulinhas todas do Lovable. Embora, formação Lovable. Aprender tudo do Lovable. Colocou a família também. Pô, coloquei minha família inteira também, cara, porque eu falei para a galera, cara, eu estou tão pirado. Você está igual eu, você está... Sabe o que aconteceu com você? Eu sou cristão, e eu acho que o cristão, quando ele se revela cristão, ele é tão bom que ele quer contar para os outros. E eu estou evangelizador da IA. Eu sou um evangelizador da IA. Você acabou de entrar para a minha... E você está evangelizando os outros também. Para a seita da IA, cara. Você falou assim, cara, isso é bom demais. Gente, vem. Isso aqui... Então, é real isso. E não é só isso, cara. É um negócio que as pessoas ainda não entenderam. Ou elas aprendem, ou elas usam isso ao favor delas, ou elas vão ficar para trás. E eu vejo que são poucos meses que isso vai acontecer e a distância entre o profissional que sabe e o profissional que não sabe vai abrir uma boca de jacaré gigantesca que as pessoas que não têm a curiosidade, não querem aprender, cara, elas vão ficar para trás. Então, eu já mandei lá, eu mandei essa semana agora, falei, brother, libera para essas pessoas aqui. Tipo, a minha irmã, o meu cunhado, o meu pai, a minha esposa. Teve mais alguém? Teve. Eu mando acho que umas 5, 6 pessoas. Eu mandei umas 5 pessoas para ele. O cachorro. Não, meu irmão. Meu irmão. Eu falei, galera, entra nesse negócio, pega um tema, aprende. Eu vou dar duas semanas pra vocês verem o básico e eu vou começar a cobrar projetinho. E eu falei, se vocês não quiserem pagar a API de qualquer coisa, me fala. Eu já falei, ó, estuda. Nem falei, eu vou pagar para vocês as licenças dos softwares para vocês fazerem isso. Porque assim, ou vocês fazem, ou vocês vão perder o emprego de vocês. E se vocês fizerem antes do resto, vocês vão se destacar pra caramba. E a partir do momento que você se destaca, o que vai acontecer? Você vai subir na porra da tua carreira, caramba. Ninguém é empreendedor ali. Meu pai é. A minha irmã foi lá ajudar a tocar o negócio da família. Cara, mas o meu pai, com quase 70 anos, falou, filho, eu não posso ficar pra trás. Isso é muito legal. Eu tenho que aprender. Daí eu vi ele no carnaval Pá caramba, mas gente, tem momentos na vida que dividem as crianças dos homens. E homem tem que fazer o que tem que ser feito, não aquilo que ele gosta. Porque senão eu ficaria tomando sorvete meu dia inteiro. Dia inteiro eu ficaria tomando sorvete. Meu filho também. Ficaria o dia inteiro na TV assistindo TV e comendo doce. Só que não é assim que o negócio funciona. E eu falo para os meus filhos isso, eu falo para todo mundo que eu já trabalhei. Você pode fazer o que você quiser, só aguente as consequências das decisões que você tomou. Porque essa decisão que você tomou hoje vai te impactar no curto prazo, no médio prazo, mas muito no longo prazo. Porque o composto disso que você faz hoje é muito grande. Então o que eu falaria para ele é isso, entenda, tem gente que fez e deu certo. Tem gente que fez e não deu certo. Quem está falando que é muleta, você tem que realmente repensar se você quer essas pessoas no seu time ou não. E quem está fazendo e está funcionando e está entregando a meta e está aprendendo isso, sabe o que ele está fazendo? Ele está fazendo fora do escritório, ele está fazendo fim de semana. Ah, mas as pessoas têm família. Ah, mas isso não está no combinado das horas de trabalho. Está bom? Não tem problema. Mas eu não quero essas pessoas na minha empresa. Por quê? Porque quem quer resolve. Quem quer resolve, quem quer dar um jeito. Se você como gestor deu as ferramentas, liberou. E daí eu convido talvez ele a liberar uma hora, duas horas na semana. Galera, essa agenda aqui na tua semana é para você aprender isso. Mas na hora que você for aprender isso, você tem que me mostrar o resultado daquilo que você fez. Então pega um projeto, qualquer coisa, faz. Dedica duas horas e me apresenta algo. Porque a melhor maneira de aprender é o quê? É fazendo. Então, se você só consome e não faz e não age, não adianta. Você tem que passar uma hora consumindo, dez horas executando. Cara, surgiu um monte de dúvidas. E a maioria das dúvidas, sabe o que você vai fazer? Vai perguntar para a própria OPA. Como eu resolvo isso? Logicamente que o jeito que eu fiz lá o meu bot, o jeito que eu estou fazendo os negócios no banco de dados, o jeito que eu vou fazendo o Lovable, o jeito que depois eu vou testar tudo, porque a minha ideia é isso. Como que eu tenho uma cabeça mais generalista de entender tudo para saber o que é melhor para quê. E daí, por exemplo, para esse caso, vou usar isso. Para aquele caso, vou usar isso. Logicamente, pô, no Vivertiá, avança muita vida. A metodologia lá, a gente já passou alguns caminhos que a gente acaba sendo atalho, né? Então, o ponto principal para mim é, executa. Executou, você vai ter dúvidas. Na hora que você tiver dúvida, vai tirar dúvida. Ah, mas eu não tenho quem tirar dúvida dele. E de novo, estou fazendo propaganda. Cara, vocês têm um esquema que é genial, que é aquela porra daquela mentoria. Eu fico chocado, cara. Porque, cara, é só você entrar lá. Você nem sabe o que fazer, entra lá. Fica uma hora assistindo aquele negócio. Daqui a pouco vocês vão soltar seis horas por dia de mentoria. Cara, só entra e vê o que a galera está fazendo. Cara, o cara está fazendo isso. Dá para eu aplicar isso nisso. Ah, ele está usando o N8N com isso. Cara, calma aí. Como é que é? Deixa eu pegar aqui o negócio de N8N. Pô, tal, aprendi. Deixa eu começar a fazer. Fiquei com dúvida, vai no outro dia na mentoria. E pergunta. Cara, só não aprende quem não quer. Só não aprende quem não quer. Eu tenho uma coisa que eu aprendi no Exército também. Uma vez eu falei, ah, muita gente bateu em mim quando foi uma linha. Mas eu gosto disso, que é... Eu acho que a gente tem alguns traumas na vida. E quando a gente cria alguns traumas, tem trauma bom e trauma ruim. Até que eu acredito. Eu tenho uma frase que somente o trauma gera compreensão. Perfeito. Então, no início vai dar uma traumatizada. Só que essa é uma traumatizada boa. É boa. Essa é aquela hora que quando tu mexer, tu vai dizer assim, ó. É o cyber truck. Ele no cyber truck. E aí vai dar... É o aha moment. É a maçã na cabeça de Newton. É aquele negócio assim que, cara, a tua vida, a partir daquele momento, muda. E galera, desculpa te atrapalhar aqui, né? Galera, mudou. E não mudou só para mim. Mudou para todo mundo. E eu não estou falando aqui de sacanagem. Cara, é real. Mudou. É real. Se você não estiver aprendendo isso, não é por causa de viver. Cara, tem um monte de plataforma para você aprender. Tem coisa no YouTube. Você vai perder muito tempo vendo coisa no YouTube. Cara, que você poderia resolver ali... Que está organizado do jeito certo para você aprender. Cara, mas aprenda isso. Aprenda isso, que isso vai mudar a sua fucking vida. Aprenda. Não perde tempo, cara. Não perde tempo, porque você já está para trás. E assim... Ah, mas eu não quero... Ah, mas eu... Aprende, cara. Ah, mas eu sou pedreiro. Aprende, porque daí você deixa de ser pedreiro. Fato. Quer mais? Manda aí. Não, eu não quero finalizar aqui. E aí eu quero finalizar de uma maneira diferente hoje. A gente falou muito aqui do empresário meter a mão na massa. Então, eu queria... Eu vou começar. Eu quero deixar uma provocação dizendo de algum projeto, alguma coisa que eu quero provocar o empresário a sair daqui e meter a mão na massa e fazer. E quem conseguir fazer, manda uma mensagem depois no Instagram dizendo o que fez. A minha provocação é o seguinte. Eu provoco o empresário que está ouvindo a gente. Simples, tá? A sair daqui, entrar no Lovable. Lovable, tá? Depois deixa na descrição aqui os nomes certinho. E fazer um site novo para a sua empresa. Essa é a minha provocação. Então, estou te provocando a você. Não é de marketing, não precisa fazer nada. Entrar no Lovable, uma ferramenta só, e fazer um site novo. É a minha provocação. Por onde eu começo? Pergunta. Pra ele. Eu quero fazer um site novo, porque eu fui provocado. Como você gostaria do seu site? Pede pra ele. Então, essa é a minha provocação que eu tenho aqui pra você. Eu vou dar, então. Vou na linha. Gostei da ideia. Vou mais uma. Minha provocação pra você é a seguinte. Você vai pegar aquela planilha que você adora, que você usa todo dia, e você vai jogar a planilha no Lovable. Você vai abrir o modo plan do Lovable. Ativa lá, clicou. Modo plan. E aí você vai fazer o seguinte comando. Faça uma análise dessa planilha. Entenda o contexto e o objetivo dessa planilha. E faça o planejamento de um sistema inteiro para substituir essa planilha. Depois você vem aqui e me conta nos comentários o que aconteceu. Se isso não mudar, se você não se evangelizar pela IA depois disso, aí, meu amigo, esquece. Eu não tenho mais nada pra fazer com você. Inclusive, eu nem quero você como cliente. Por favor. Eu ia falar pra se inscrever no canal, mas tira a inscrição do canal, porque eu não quero você consumindo conteúdos aqui. Agora, se você gostou, não se esquece também de dar o like, se inscrever no Jogo da IA, porque não é todo dia que a gente tem empresários como o Bruno Nardom todo dia aqui, jogando IA na prática e falando de um conteúdo tão profundo. E Nardom, e você? E você? Eu o quê? Neto, provoca o empresário a fazer o que, cara? Eu já provoquei esse podcast inteiro e só pra vocês entenderem, galera. A gente montou esse podcast aqui pros meninos que vai entrar pelo menos uma vez por semana no canal principal do G4 Podcasts. Só pra vocês entenderem. Por que a gente entendeu que isso não dá pra ficar mais fora de qualquer formação nossa? Porque isso não é mais futuro, isso já é passado. E se você não mudar agora na sua empresa, meu amigo, vai ter quem vai mudar e vai comer o seu queijo. Então, muda. Se não, vão te mudar no seu lugar. Então, cara, não perde tempo. E pode usar a Viverde A, pode vir no G4, pode... E, cara, em qualquer lugar, pra mim, tanto faz. O nosso papel aqui é ajudar o empreendedor, o empresário a entender o que é importante, como pode mudar a vida. E, cara, espero que você tenha ouvido esse podcast aqui e falado, caramba, o Nardom tava tão sério, tão diferente do que ele tá nos outros podcasts, tipo, meio arisco, meio irritado, meio transtornado. Não é porque eu tô dormindo pouco, porque eu tô, cara, nessa febre. Não, é porque, de fato, a gente no G4 vem colhendo frutos disso. Há mais de três anos, triplicou o faturamento com basicamente o",
+  "text_timestamped": "[00:00] Ah, lógico, quero fazer um sistema mega pau-udo, que não sei o quê, que não sei o quê, que vai tratar milhões de clientes.\n[00:09] Você vai conseguir fazer vibe coding?\n[00:11] Vai.\n[00:12] Vai dar certo?\n[00:13] Vai funcionar?\n[00:14] Vai.\n[00:14] Mas você vai depender da sua empresa disso?\n[00:17] Pô, pega daí uma galera boa de tech, olha a segurança.\n[00:21] Mas, cara, o MVP você fez.\n[00:23] Você testou o conceito.\n[00:25] Cara, você coloca 5, 10, 100, 200 pessoas, funcionou legal.\n[00:29] Só que ele era um preguiçoso produtivo, que é o jeito que a gente está apilidando esse negócio aqui no G4.\n[00:37] Preguiçoso produtivo.\n[00:39] O que é o preguiçoso produtivo?\n[00:41] É o cara que não quer repetir duas, três, quatro, cinco vezes a mesma coisa.\n[00:47] Sei lá, não sei.\n[00:48] Não sei qual que você recomenda, né?\n[00:50] Tipo, você mandou para mim, eu devolvi para você.\n[00:54] Me diz você, meu amigo.\n[00:56] Você não é o fodão?\n[00:57] Começando mais um O Jogo da Iá, para a gente conversar com os empresários que estão liderando o movimento de inteligência artificial no Brasil.\n[01:08] E eu estou aqui com o meu sócio, o meu parceiro, Iago Martins.\n[01:12] Estamos juntos.\n[01:14] E com o grande Bruno Nardon, que está jogando esse jogo e gostando de ver, viu Nardon?\n[01:20] Está jogando na prática.\n[01:22] Outro dia a gente estava ali, tinha uma madrugada, vibe codando junto no grupo do WhatsApp.\n[01:29] E eu fiquei sabendo que você fez uma aplicação de Iá ali para ajudar o seu filho.\n[01:35] Já começa contando a história.\n[01:37] Como é que foi?\n[01:38] O que você está desenvolvendo?\n[01:40] O que você está jogando na prática de Iá para a gente?\n[01:44] Boa.\n[01:44] Antes disso, eu acho que vale a pena dar um panorama aqui para a galera de como foi o passo a passo que eu falei, vou vibe codar.\n[01:54] Cara, eu aprendi na faculdade a programar.\n[01:57] Então, lá em 2005, 2006, aprendi o básico, C, JavaScript.\n[02:01] Cara, aprendi ali o básico do básico, fazia os negócios.\n[02:06] Achava super legal lá na época.\n[02:08] E quando eu fui trabalhar, antes de eu fundar a Canoe com outros sócios, eu montei um projetinho que eu programei aquilo tudo.\n[02:17] Mas desde então, quando montamos a Canoe, cara, eu usava o básico do básico do básico, SQL, quando precisava, porque tinha time para fazer as coisas.\n[02:28] E daí vamos dar uma acelerada até hoje.\n[02:31] 2022, ali no fim de 22, quando o OpenAI lançou o chat de IPT, e aqui no G4 a gente sempre foi muito inovador.\n[02:39] Tecnologias novas surgem, vamos entender isso, porque se a gente entender isso antes do resto, a gente vai ter uma vantagem competitiva, que daqui seis meses, um ano, quando a galera estiver entrando, a gente já vai ter masterizado essa técnica aqui e usado aquilo a nosso favor.\n[03:00] Fim de 22, acho que foi outubro, novembro, né, que lançou o chat de IPT.\n[03:05] Cara, chegou para o João Victor e falou, João, para tudo que você está fazendo, para tudo.\n[03:12] Não é mais nada.\n[03:13] Estuda esse negócio.\n[03:15] Se tem alguém aqui que vai entender e vai aprender é você.\n[03:19] E cara, você vai ser o motor transformador desse negócio.\n[03:23] Cara, 23, começamos a usar as primeiras ferramentas para dentro de casa, 24, mais ainda.\n[03:30] E ano passado, assim, uma loucura.\n[03:32] Quando você olha o G4 de 2023 para o G4 do ano passado, a gente triplicou a receita da companhia, basicamente com o mesmo time.\n[03:42] Crescemos talvez 5% a 10% do time.\n[03:44] Ou seja, triplicamos o tamanho com o mesmo time.\n[03:48] Por que a gente fez isso?\n[03:50] Porque a gente colocou, melhoramos muitos processos, colocamos muita tecnologia e desenvolver tecnologia ficou muito mais fácil com o advento do DA.\n[04:01] Ou seja, a gente já capturou muito valor, mas eu, como um dos sócios, donos da empresa, eu estava usando o IA de uma maneira muito soft, de uma maneira muito simples, muito fácil, que é como a maioria das pessoas usam hoje.\n[04:17] Até porque você tinha o João do seu lado também, né?\n[04:21] Exatamente.\n[04:22] Porque, cara, eu tinha a ideia, eu via a oportunidade, falava, João, resolvo que eu sei que dá para colocar IA nisso para automatizar.\n[04:32] Mas como eu sempre tive gente, né?\n[04:34] Que nem a história da Kanoe.\n[04:37] Pô, 2012, 13, 14, até usava.\n[04:39] Não sei, eu estava programando, eu usava mais SQL.\n[04:42] Cara, eu sempre tive time para fazer as coisas.\n[04:46] Aqui no G4 a mesma coisa.\n[04:48] O meu papel é pegar as pessoas certas, colocar nos problemas certos, dar direção e, cara, fazer o negócio andar e cobrar para o negócio acontecer.\n[04:59] E, cara, eu sempre usei do jeito fácil, né?\n[05:02] Pô, fazer um prompt, vou usar como eu uso o Google, pô, coisas mais rebuscadas.\n[05:08] Ah, preciso fazer aqui um texto para a mídia social, pô, quero...\n[05:12] Estou estudando esse tema, me ajuda a entender mais.\n[05:16] Sempre muito soft.\n[05:18] Até fim desse ano, do ano passado, né?\n[05:20] Olha ali o último trimestre, a gente estava discutindo muito.\n[05:25] Todas as ferramentas de AI nas plataformas de AI lançaram muitas tecnologias novas.\n[05:31] E eu já estava, eu e o Tales, o João, falando, cara, isso daqui está indo muito mais rápido do que a gente imagina, a gente precisa utilizar mais, precisa utilizar mais, precisa a gente utilizar para o time utilizar, não dá só para ficar no time do João.\n[05:50] Cara, buscando ele, cara, como o João, como você pega o resto do time para usar?\n[05:56] E, cara, ficou, ficou, ficou.\n[05:58] Fechamos o ano, fui tirar férias, fui para os Estados Unidos.\n[06:03] Lá nos Estados Unidos, eu andei com o Tesla, que já tinha andado outras vezes, já tinha andado com o self-driving car, mas, meu, numa outra qualidade do que está hoje.\n[06:15] Eu fui para a casa lá do Bruno Prado, grande amigo nosso também, aluno aqui do G4, e, cara, foi...\n[06:22] Ele me emprestou para mim o Cybertruck para ir para o museu com a família com a criançada.\n[06:29] Eu apertei lá o endereço que eu queria ir, apertei o modelo de agressividade que eu queria do self-driving car, e, cara, eu não fiz mais nada durante 45 minutos.\n[06:41] E eu chegava, agora vai dar merda, pô, você tem uma ponte aqui que eles estão reformando, vai dar merda agora.\n[06:49] Eu já estava com a mão ali para assumir o controle.\n[06:53] Vai dar nada, foi, passou.\n[06:55] Cara, que loucura que eu estou vivendo, cara, que loucura que eu estou vivendo, o que é isso?\n[07:02] Não é possível, eu fiz um vídeo, filmei, gravei para o YouTube lá.\n[07:07] Cara, eu falei, cara, é inimaginável.\n[07:09] E na hora que a gente chegou, ele estava lá, cara, tinha umas vagas para estacionar, apertei em uma, e ele já chegou e, cara, estacionou automaticamente.\n[07:21] Na hora que eu saí do carro, eu falei para a minha esposa, amor, pelo amor de Deus, vai lá, vai lá comprar o ingresso para o museu, para as crianças, e para mim eu preciso falar com os meninos.\n[07:35] Comecei a trocar mensagem, mandar áudio, liguei para eles e falei, galera, de boa.\n[07:41] Já era.\n[07:42] Cara, Nardon, o que você está viajando?\n[07:45] Não é que eu sou meio assim, né?\n[07:47] Quando vira a chave, quando o jogo muda, quando clica, cara, e eu sempre pensei em futuros desejáveis, cara, fazer aquele...\n[07:56] E acontecer isso no futuro, e acontecer isso no futuro, e acontecer isso no futuro.\n[08:02] Sempre tinha ali quatro, cinco cenários que poderiam acontecer no futuro.\n[08:08] E na hora que eu andei, tangibilizei aquele negócio, me levou de um lado para o outro sem eu fazer nada, e eu já tinha visto vídeo, já tinha visto, não sei o quê, já tinha visto o Emo, a Tesla, já tinha visto a galera falando e tal, mas, cara, uma coisa é você ouvir as pessoas falarem, outra coisa é você viver.\n[08:31] O jogo é completamente diferente.\n[08:33] Falei para os caras, falei, caras, não é mais futuro, já é presente, na realidade já é passado.\n[08:41] E a já veio, já dominou, e a gente está muito para trás, e se a gente não pisar no acelerador agora, por mais que a gente tenha feito um monte de coisa dentro do G4, a gente precisa ser mola propulsora de mudança no Brasil de IA.\n[08:58] Só que para a gente fazer isso, a primeira coisa que a gente tem que fazer é a gente utilizar as ferramentas mais hardcore do que a gente está usando.\n[09:09] E eu sempre achei que era, porque era o João Vitor, é o Rafael Milagre, mas, pô, uns negócios aí, né?\n[09:16] É os nerds malucos.\n[09:18] É os nerds malucos, é difícil.\n[09:20] Só que eu também sou um nerd maluco.\n[09:23] Eu só, ao longo do tempo, dada a minha posição, fui mudando o papel de nerd maluco, né?\n[09:29] Para um gestor maluco.\n[09:31] E daí chegou, cara, eu cheguei em carnaval, falei, pô, né?\n[09:35] Os primeiros três semanas ali, correria com a Giano.\n[09:39] Cara, chegou o carnaval, eu falei, No grupo, eu vou mandar a imagem, áudio, textos com aniversários de pessoas e eu gostaria que uma vez que você entender o que é, que você mandasse um invite para o meu e-mail, além disso que você colocasse, armazenasse isso num banco de dados para ter o histórico, para perguntar quais os próximos aniversários do próximo mês, do mês anterior, coisas do gênero, perguntar se eu vou ou não e automaticamente nesse e-mail mandar um invite e mandar aqui também um link do invite aqui no WhatsApp.\n[10:18] Beleza.\n[10:19] Daí ele chegou para mim e falou...\n[10:21] O plano está aqui.\n[10:22] Não, não, ele falou assim para mim, qual tecnologia de desenvolvimento, qual linguagem você prefere?\n[10:30] Eu falei...\n[10:31] Sei lá, né?\n[10:31] Não sei, qual que você recomenda, né?\n[10:34] Tipo, você mandou para mim e eu mandei para você.\n[10:38] Diz você, meu amigo.\n[10:39] Diz você, pô, você não é o fodão?\n[10:42] Não é o todo poderoso com a lauda?\n[10:44] Daí ele fez mais duas perguntas que eu não lembro qual que era, qual que eram.\n[10:50] Ah, você já tem algum...\n[10:52] Não sei, não lembro o que que eram as perguntas, mas daí moral da história, ele falou, olha, tem o Python, tem essa, tem essa, esse é o pró, esse é o contra de cada uma, qual que você quer?\n[11:06] Daí eu falei, não, qual que você acha melhor para esse projeto?\n[11:11] É um projeto pessoal, não vai ser escalável e tal.\n[11:14] Ele falou, olha, eu acho que Python é um bom projeto.\n[11:18] Daí eu falei, então vamos com o Python.\n[11:21] Daí nisso eu pensei, né?\n[11:23] Falei, tá, e aí, o que a gente vai trocar?\n[11:26] Ele começa a pensar, pensar, pensar, pensar, tá aqui o código.\n[11:31] Cara, já lançou lá, tipo, cinco, seis arquivos, ponto PY, pronto, tá aqui o Python, você precisa entrar no terminal e rodar isso e isso.\n[11:41] Eu falei, eu não sei como abrir o terminal, eu sabia, né?\n[11:45] Eu não sei como abrir o terminal, como eu faço?\n[11:49] Daí ele falou, explicou, você tá no Windows ou no Mac?\n[11:53] Ele falou, não, eu tô no Mac.\n[11:55] Passo um, passo dois.\n[11:56] Daí ele falou, ah, você tá no Mac, eu pensei que você tava no Windows, então eu já tenho até que mudar a biblioteca de Python.\n[12:06] Daí ele rerodou os negócios, arrumou o que ele precisava.\n[12:10] Daí, cara, ele explicou, entra no terminal, agora digita isso no terminal, agora faz isso, agora faz aquilo.\n[12:18] Cara, deu erro.\n[12:19] Print.\n[12:19] Mandei um print pra ele subir e dei um enter.\n[12:23] Cara, eu te juro, parecia assim, tipo, é bizarro, faz isso, faz isso.\n[12:28] Então, assim, o vibe coding, que chama, eu acho que é o nome errado, você não coda.\n[12:34] É o vibe prompting, né?\n[12:36] E é diferente.\n[12:37] É que você fica na vibe, aí, ah, faz o coding.\n[12:40] É isso.\n[12:41] Pode ser isso.\n[12:42] Mas, cara, assim, não é vibe coding, porque é você conversar com a máquina, logicamente, você precisa ter um raciocínio lógico que faz sentido.\n[12:52] Precisa saber delegar.\n[12:54] Exato.\n[12:55] E eu comecei com esse projetinho, cara, em coisa de duas horas, ele tava no ar.\n[13:00] Daí eu falei, ah, no meu computador, daí testei, funcionou no meu computador.\n[13:06] Eu falei, cara, agora eu quero colocar isso em algum servidor, na nuvem, pra eu usar, pra não precisar ficar meu computador ligado e tal.\n[13:16] Daí ele me explicou como comitar no GitHub, como usar o Railway pra você ligar um pro outro e ele ficar com o servidor.\n[13:25] Daí explicou que eu não podia deixar as chaves abertas, não sei o quê.\n[13:30] Chave de app exposta.\n[13:32] Cara, daí até uma hora eu coloquei lá e ele falou, não, não faça isso.\n[13:37] Não coloque aqui pra mim as suas chaves, não sei o quê.\n[13:41] E, cara, beleza.\n[13:42] E coloquei no ar e começou a funcionar.\n[13:45] Cara, tava lá em casa testando.\n[13:48] Daí no outro dia eu cheguei aqui no escritório, fiz um videozinho, postei no Stories, postei no Reels.\n[13:55] Cara, vieram umas quatro pessoas, amigos meus, que falaram, meu, tem o mesmo problema que você tem, Nardom.\n[14:03] Não dá pra você liberar esse bot pra mim?\n[14:06] Eu falei, ó, do jeito que tá, não dá.\n[14:09] Porque ali tava muito...\n[14:11] Suas credenciais.\n[14:12] É, tava muito...\n[14:13] Daí eu fui lá, falei, cara, eu quero liberar esse bot não só pra mim, mas pra outras pessoas.\n[14:20] Como que eu faço pra ter segurança, individualidade entre grupos?\n[14:25] Você entender a memória que você fica em um grupo no outro, um grupo não dá pra perguntar pro outro.\n[14:32] E fiz também, ah, cara, coloca uns comandos aí caso eu queira colocar e-mail, tirar e-mail, o que que dá pra fazer.\n[14:41] Cara, negócio mega basics.\n[14:43] Fiz mais em 40 minutos, uma hora.\n[14:45] Tava no ar.\n[14:46] Daí eu mandei pros dois amigos meus lá que pediram, pro terceiro eu não mandei.\n[14:52] Mandei pros dois amigos.\n[14:54] Até isso aí, cara, começaram a usar.\n[14:56] Tão usando.\n[14:57] Eu vejo aqui, né, que eu tenho um WhatsApp Business, que eu comprei um número de telefone da Nubank pra colocar como esse bot, né, e eu consigo ver as coisas.\n[15:09] Cara, eles tão usando.\n[15:11] E pô, você podia por isso, né?\n[15:13] Você podia por aquilo.\n[15:14] Eu falei, galera, era um projetinho de duas horas.\n[15:18] Se você quiser que eu faça mais, vai ter que pagar caro.\n[15:22] Mas cara, foi assim que eu comecei e pra mim, de novo, foi...\n[15:27] O jogo mudou, cara.\n[15:28] Porque antes era algo que era super distante, longe, e conforme eu fui fazendo, eu falei, cara, imagina se eu tivesse isso em 2012, 2013, 2014.\n[15:39] E te deu um sentimento assim, eu devia ter começado antes?\n[15:43] Ou não?\n[15:44] Você falou assim, ah, tá num timing.\n[15:46] Eu falei, tá no timing.\n[15:48] Eu acho que pra mim tá no timing.\n[15:51] Mas a realidade é a seguinte, tá no timing pra mim, porque eu tenho um time que é muito bom, tenho o João Vitor, que tem um time muito bom, que implementa isso pra dentro do G4.\n[16:04] Agora, com o tanto de melhorias que essas AIs tiveram no último semestre, nos últimos seis meses, é algo que os donos, eu e o Tales, e cara, eu tava fazendo isso, o Tales também tava fazendo, a gente, cara, olha o que eu fiz, olha o que eu fiz, olha o que dá pra fazer, olha que loucura, olha não sei o que.\n[16:27] E agora eu tô meio que criando os building blocks do meu conhecimento do que dá pra fazer.\n[16:33] Então, ah, eu descobri já como fazer um negócio que dá pra conectar no WhatsApp, tem uma maneira muito mais fácil, muito melhor, cara, e muito mais escalável do que eu fiz.\n[16:46] Mas eu aprendi a usar todas as ferramentas e eu tive um contexto.\n[16:51] Daí depois eu comecei a trabalhar num projetinho de banco de dados.\n[16:56] Cara, fui lá, peguei um monte de base de dados abertas, cara, puxei automaticamente do site pro Cloud Server.\n[17:04] O que você fez se usasse um Lovable ou Rapid seria economizar 80% do seu trabalho.\n[17:10] Perfeito.\n[17:11] Então, aqui, já fiz esse agora de banco de dados, que eu queria aprender como é que funcionava.\n[17:18] Agora, a ideia desse fim de semana, desse próximo fim de semana, é começar a fazer as coisas no Lovable, pra aprender no Rapid, pra aprender como é que funciona isso.\n[17:30] Daí depois eu quero fazer coisas na Eleven Labs pra entender como é áudio.\n[17:36] Depois eu quero fazer coisas no Nano Banana pra entender.\n[17:40] Então, o que eu tô querendo fazer nesse começo é muito mais tocar as coisas diferentes pra aprender como essas diferentes, mexer no Manos, que é diferente do resto.\n[17:52] E daí depois, sei lá, a próxima fase é, pô, deixa eu colocar Open Clod aqui, sei lá, uma semana, num computador diferente, cara, mexer com a gente, fazer essas coisas meio maluca.\n[18:05] É o metramento, né?\n[18:07] É isso.\n[18:07] Então, eu tô, cara, touching points, entendendo, só que o principal é que mostrou pra mim que é muito mais simples do que eu imaginava que era.\n[18:18] E dito isso, eu e o Tales conversando, a gente falou, cara, acabou.\n[18:23] Não dá para o time inteiro não estar fazendo isso.\n[18:27] Porque muitas vezes você fica com medo e você tem uma objeção porque você nem sabe que você não sabe daquele tema.\n[18:35] Então, você fala, não, mas programar?\n[18:38] Você não programa.\n[18:39] Só que você só aprende isso fazendo.\n[18:42] Foi que nem a experiência que eu tive no Cybertruck me levando de um lugar pro outro.\n[18:48] Falei, caralho, é isso.\n[18:50] Daí eu voltei com uma cabeça de galera.\n[18:53] A gente agora tem que empurrar isso.\n[18:55] Cara, garganta abaixo no time.\n[18:58] E quem não tiver afim, não tem problema.\n[19:01] É só não ficar com a gente.\n[19:03] Só que, cara, a gente vai continuar crescendo com o mesmo time.\n[19:07] Eu não quero mandar a gente embora.\n[19:10] Só que eu quero que as pessoas consigam liberar tempo delas.\n[19:14] Pra quê?\n[19:15] Pra que elas consigam pensar.\n[19:17] Pra que elas sejam indispensáveis praquilo que ela faz no dia a dia dela, que ela perde tempo.\n[19:24] Lendo e-mail, lendo Slack.\n[19:26] Cara Quem não quiser, está fora.\n[19:28] E é a mesma coisa que a gente está vivendo agora.\n[19:32] E você que está me ouvindo aqui, cara, eu estou falando nesse tom mais agressivo, mais inconformado, porque é muito simples, galera, é muito simples, pô.\n[19:43] É muito fácil.\n[19:44] Ah, lógico, quero fazer um sistema mega pau do que não sei o quê, que não sei o quê, que vai tratar milhões de clientes.\n[19:53] Você vai conseguir fazer vibe coding?\n[19:56] Vai.\n[19:56] Vai dar certo?\n[19:57] Vai funcionar?\n[19:58] Vai.\n[19:59] Mas você vai depender da sua empresa disso?\n[20:02] Pô, pega daí uma galera boa, de tech, olha a segurança.\n[20:06] Mas o MVP você fez, você testou o conceito.\n[20:09] Cara, você coloca 5, 10, 100, 200 pessoas, funcionou?\n[20:13] Legal.\n[20:14] Quanto tempo eu gastei para testar uma ideia rápido?\n[20:17] Uma hora, duas horas, três horas.\n[20:20] Testou, está funcionando?\n[20:22] Escala, que sempre foi o conceito que a gente usou para tudo na vida.\n[20:27] Então agora o que a gente quer fazer e está fazendo é isso.\n[20:31] Estamos empurrando para o time inteiro.\n[20:34] Vamos fazer agora um hackathon, que inclusive a gente precisa combinar, né?\n[20:40] Porque eu gostaria que vocês estivessem juntos.\n[20:43] Não, Tales já me afirmou que eu estou escalado.\n[20:47] Boa.\n[20:47] Então, cara, o que a gente vai fazer com o time, vai dar as ferramentas para o time, vai puxar isso, porque uma vez que todo mundo percebe que é tão simples e tão fácil, até o meu SDR que está lá na ponta, cara, fazendo call o dia inteiro, ele vai falar, cara, isso que eu faço é muito repetitivo.\n[21:09] Deve ter um jeito mais fácil de fazer.\n[21:12] Daí ele vai falar, putz, mas se eu fizer isso e perder esse tempo, talvez eu não vou conseguir fazer o que eu preciso.\n[21:21] Mas eu posso levantar a mão aqui para o meu coordenador, o meu coordenador vai chegar lá para o time do João ou para o time de alguém e falar, galera, eu faço isso todo dia, a mesma coisa, eu sei que dá, porque eu aprendi que dá.\n[21:38] Eu posso eu fazer aqui, mas vai funcionar mais ou menos?\n[21:42] Ou vocês podem, cara, colocar alguém aqui, porque isso daqui é um negócio que não faz sentido.\n[21:49] Acabou.\n[21:49] Então, a partir do momento que as pessoas começam a saber aquilo que elas não sabem, elas começam a ver o mundo dela em vez de estar aqui, igual aquele cavalo do interior com tapa-olho, o cara abre.\n[22:04] Não é abre de 180, é abre 360, cara, tua mente explode.\n[22:08] Aí você fala, olha o tanto de coisa que dá para fazer, meu Deus do céu, como eu perdi tanto tempo pedindo para a Dev, cara.\n[22:17] E, cara, hoje é quatro horas que a gente colocou aqui, que a gente integrou todas as bases de dados nossa lá, colocou alguns layers, facilitam muito o time trabalhar.\n[22:30] Cara, era relatório que era seis meses a gente pedindo para o time que eles não davam conta de fazer.\n[22:37] Cara, em 15 minutos deu uma query.\n[22:40] A gente colocou no Discord.\n[22:42] Oi?\n[22:42] A gente colocou no Discord.\n[22:44] Então, aqui é o meu bot de dados, qualquer coisa que eu pergunto aqui para ele de dados, quanto eu estou vendendo, quanto eu estou não sei o quê, tudo o que eu tenho.\n[22:56] Então, para a gente que é mais de dados.\n[22:59] Mas só para fechar essa linha de raciocínio, é uma coisa que eu acho que é super importante.\n[23:06] Eu gosto dessa linha de pegar e ir fechando essas linhas de raciocínio.\n[23:11] Não é só para ver se eu entendi bem.\n[23:14] Então, assim, a data lógica da gente pensar, ela é assim, olha, o primeiro passo para implementar e para jogar esse jogo é o dono ou os sócios, o dono, as lideranças principais, elas precisam meter a mão na massa e entrar no mar.\n[23:31] Ou seja, não adianta ela falar para o time, eu quero que vocês usem AI.\n[23:36] Não adianta ela pegar desse podcast e mandar para o time, façam isso, se ela não faz.\n[23:43] Óbvio que a tropa é espelho do guia.\n[23:45] Você falou muito isso, a empresa faz no exército, então assim, eu sigo isso muito.\n[23:51] Então, a tua linha de raciocínio é, primeiro o dono coloca a mão, ele entendeu o que dá para fazer na prática, ele viu, ele fez e como a gente está falando aqui, ninguém aqui é programador, ninguém aqui é desenvolvedor, o nosso produto Viverdear foi só o Rafa que fez, sozinho e ele não é programador, ele fez todo um produto de tecnologia e continua ele mesmo.\n[24:18] Cara, precisa entender muito mais de produto do que de código.\n[24:23] Muito mais, produto é mais importante.\n[24:26] E AI depois disso, ele começa a escalar para o time.\n[24:30] E aí eu quero colocar uma pergunta aqui para ti.\n[24:33] Na tua visão, isso é, vai ter ali um time de duas, três, quatro, cinco, anyway, X pessoas para tocar isso?\n[24:41] Vai ser uma área de tecnologia ou vai ser todas as empresas precisam ter o nível e não depender de uma pessoa?\n[24:49] Como que tu vê no dia a dia uma empresa colocando IA mesmo?\n[24:54] Depois que o dono já pegou, vou trazer para baixo, é top down, é todo mundo, uma área?\n[25:00] Como que tu pensa isso no dia a dia?\n[25:03] Cara, ótima pergunta e eu acho que tem diferentes approaches que podem ser feitos e tem um approach que a gente começou a fazer quando as ferramentas não tinham a tecnologia e tudo tão avançado como tem hoje, que foi, deixa eu pegar um time separado, que era o time do João, que já era um time de produto, tech, operações, e vamos colocar para eles aprenderem e eles serem um time ali de um squad de cinco, dez pessoas, eles vão ser os agentes transformadores disso dentro da companhia.\n[25:39] Qual que é o pró disso?\n[25:40] É um time que vai passando área a área, entendendo os problemas e resolvendo eles.\n[25:46] Qual o contra disso?\n[25:48] É um time com cinco, dez pessoas que não consegue fazer tudo e não consegue saber na ponta o que está acontecendo.\n[25:56] Eles vão avaliar tudo, falar qual que é o ROI de cada um, então o que é o que eu vou fazer com menos esforço que vai me dar mais resultado e vai priorizar na fila para fazer isso, certo?\n[26:10] Que é o que foi feito lá atrás.\n[26:13] Porém, seis meses para cá, as ferramentas mudaram tanto de patamar, entraram tanto no nível de você consegue fazer coisas absurdas com uma assertividade tão grande de uma maneira tão fácil que o meu ponto de vista é joga para todo mundo, empurra para todo mundo, tenha um dono, um capitão, a pessoa que vai garantir que tudo que está sendo feito e as coisas que estão virando live ainda mais dependendo do tamanho da empresa.\n[26:44] Cara, você vai me pedir cinco, dez pessoas?\n[26:47] Foda-se, faz o que for, manda a bala, faz acontecer que é a melhor coisa.\n[26:53] Até 40, 50, isso é mais para uso interno, só garante que tenha um layer de segurança.\n[26:59] Mas cara, a maioria das ferramentas tem para não vazar teu banco de dados, para não vazar, cara, coisas, mas assim, e mesmo se vazar, se não tiver dado de cliente, o que teu concorrente vai fazer com teu faturamento?\n[27:15] Mas mais o time interno ou prestação de serviço?\n[27:19] Contrato uma empresa para fazer para mim ou meu time?\n[27:23] Cara, eu acho que o seu time tem que ter a skill de fazer, você precisa ter algum capitão dentro do time que vai ser a pessoa dona daquilo para garantir que aquilo ande e que os grandes projetos que são pedra fundamental para o teu negócio sejam feitos da maneira correta.\n[27:43] Então, vou fazer um CRM novo na minha empresa para de usar o HubSpot ou o Salesforce.\n[27:49] Meu amigo, desculpa, você acorda a tua empresa, você tem que fazer isso bem feito, se você é uma empresa do tamanho do G4 que vai faturar 750 milhões esse ano.\n[28:01] Não dá para eu pegar isso que é o core da minha empresa e mudar do dia para a noite se não for um negócio muito bem feito.\n[28:10] Agora, se é uma ferramenta interna para o time financeiro, subir nota, olhar não sei o que de uma maneira mais simples.\n[28:19] Começa pelos quick wins.\n[28:21] Começa pelo simples e pelo fácil.\n[28:23] Agora, na minha cabeça, todo mundo da empresa deveria entender sobre o tema mesmo que no dia a dia não use muito porque às vezes a pessoa tem um trabalho ali que já automatizou ao máximo, mas ela precisa estar ali trabalhando.\n[28:40] Quanto mais time, mais pessoas saberem do time, mais na ponta você tem, mais na ponta a pessoa sabe o problema que ela tem na ponta, que é o que ela faz no dia a dia.\n[28:52] E se ela sabe que aquilo é automatizável ou ela pode fazer e ela automatizava, ela pode pedir para alguém fazer porque ela sabe que dá para fazer.\n[29:03] Legal.\n[29:04] Aí a gente, só para, eu quero ver nessa pergunta porque eu acho que tem mais uma fase dela.\n[29:10] Então a gente fez o quê?\n[29:12] O dono foi lá da aprender.\n[29:14] Beleza.\n[29:15] Ele meteu a mão na massa.\n[29:16] Segundo nível.\n[29:17] Todo time fez um hackathon, treinou o time, contratou uma pessoa que sabe, colocou o time no verdear para todo mundo estudar.\n[29:27] Enfim, N formas.\n[29:28] Comprou aqui, a academia de AI para o time, enfim.\n[29:32] Depois ele vai em um outro ponto que é, tá legal, agora eu sei meu time.\n[29:37] Começo por onde?\n[29:38] Ou seja, começo a atacar por que PIs que eu estou vendo que eu não estou atingindo e como resolvo eles com o IA?\n[29:46] Não, começo a Automatizar a vida dele, trazer contexto para ele fazer aquela venda acontecer mais rápido.\n[29:54] Foi a primeira coisa que a gente olhou aqui no G4.\n[29:58] Foi vendedor e pré-vendedor.\n[30:00] Então a gente olhou lá, cara, como que esse vendedor se relaciona melhor com o cliente?\n[30:07] Então a gente já puxava de qual indústria que aquele oportunidade ia e eu trazia, cara, 10 cases.\n[30:14] Esse foi o comecinho, lá atrás, 2020.\n[30:17] Fim de 2022, 2023.\n[30:18] Trazer 10 cases de cara do mesmo setor que passaram no G4, porque eu estou criando prova social.\n[30:25] Ah, você é do setor de construção?\n[30:28] Já veio a turma da Cirela, já veio a turma de não sei o quê, já veio a turma da Vitacom.\n[30:34] Cara, e você, pelo telefone do cara, você sabe mais ou menos o CEP dele.\n[30:39] E você que é aí do Sul, tem essa e essa e essa empresa que são aí do Sul.\n[30:45] De que cidade você é?\n[30:46] Ah, de Balneário?\n[30:48] Pô, tem esse cara dessa empresa aí de Balneário.\n[30:51] Você conhece ele?\n[30:52] Conheço.\n[30:53] Pois é, liga para ele e pergunta como foi a experiência dele no G4.\n[30:58] Só que é um contexto que o vendedor, para ele achar isso num banco de dados, ele não vai conseguir.\n[31:05] Cara, a gente plugou, trouxe um monte de coisa ali fácil para o cara ver.\n[31:11] Uau!\n[31:11] Então, começa o mais perto da venda e vai subindo o funil.\n[31:15] Ou seja, de uma engenharia reversa.\n[31:18] É isso.\n[31:19] Porque, cara, é o meu jeito de ver.\n[31:21] Tipicamente, ali você já vai destravar muito valor.\n[31:25] E na hora que você destrava valor, que você coloca uma tecnologia que, cara, com pouco esforço, traz muito resultado, o time inteiro compra aquela ideia.\n[31:36] O time fala, caramba, a gente melhorou em tanto as vendas, fazendo só isso?\n[31:42] Imagina se a gente começar a colocar em outras áreas.\n[31:46] E daí você vai entendendo o que é gargalo, o que não é gargalo, na tua companhia.\n[31:52] Então, pode ser que não seja ali o teu gargalo.\n[31:55] Pode ser que seja na produção.\n[31:58] Então, eu estava com o Vitor Meirelles aqui, que foi o meu, não é, mas ele foi, entrou como analista lá na Canoe, lá em 2012.\n[32:07] Ele que entrou para estruturar o nosso BI.\n[32:10] Então, ele que fez as primeiras coisas de BI.\n[32:13] E ele era um cara, que ele é engenheiro de computação, e ele era muito preguiçoso.\n[32:19] É muito preguiçoso.\n[32:21] Só que ele era um preguiçoso produtivo, que é o jeito que a gente está, né, apelidando esse negócio aqui no G4.\n[32:29] Preguiçoso produtivo.\n[32:31] O que é o preguiçoso produtivo?\n[32:33] É o cara que não quer repetir duas, três, quatro, cinco vezes a mesma coisa.\n[32:39] Eu chamava ele de braço curto.\n[32:41] Cara, para de ser braço curto.\n[32:43] Porra, cara, para de ser preguiçoso.\n[32:46] Pega o problema até aí, vai lá e automatiza ele.\n[32:49] Porque uma vez que você automatizou, cara, começa a puxar com o time, não fica...\n[32:55] E, porra, ele foi aprendendo, aprendendo, aprendendo.\n[32:59] E, cara, ele é um dos caras que, assim, um dos caras mais fodas quando você pensa em BI, negócio.\n[33:06] E hoje, ele saiu lá da empresa dele e foi tocar a empresa de pães da família dele.\n[33:13] Meu amigo, o tanto de AI que ele colocou para fazer pão, não está escrito no negócio.\n[33:19] Se um cara conseguiu colocar AI numa fábrica de pão, como você não consegue?\n[33:25] Daí o cara fala, mas o que ele colocou de AI?\n[33:28] Gente, não precisa...\n[33:29] Não é para fazer o pão.\n[33:31] É, mas não precisa achar que é coisa de outro mundo, não.\n[33:35] O que ele fez?\n[33:36] Ele mapeou cada etapa do processo.\n[33:39] Falou, pô, hoje o meu cara lá que faz pão, ele vai fazer a massa e vai passar essa massa para o próximo etapa.\n[33:47] Só que o cara da próxima etapa vai falar, pô, mas essa massa é para quê?\n[33:52] Para fazer hambúrguer?\n[33:54] Precisa pôr gergelim?\n[33:56] Cara, tinha um monte de erro, porque são pessoas conduzindo as coisas com zero tecnologia.\n[34:02] Ele usou AI para quê?\n[34:04] Para vibe, codar os sistemas de cada uma dessas etapas.\n[34:08] Então, ele pegava lá e falou, eu preciso de um sistema aqui de pedido.\n[34:13] Então, todos os pedidos entram para o sistema.\n[34:17] Na hora que o pedido entra para o sistema, eu já sei quantas unidades eu vou precisar fazer de cada tipo de pão, para qual momento?\n[34:26] Eu sei, para fazer tantos desses pães, o quanto que eu preciso de matéria-prima.\n[34:32] Eu tenho essa matéria-prima no meu estoque?\n[34:35] Tenho?\n[34:36] Não tenho?\n[34:37] Quanto que eu preciso comprar?\n[34:39] Em que momento que eu preciso comprar?\n[34:42] Porque os pedidos estão entrando.\n[34:44] Uma vez que eu lanço, eu consigo ter uma visibilidade melhor da minha semana, o que eu vou colocar em cada momento.\n[34:53] Então, eu preciso fazer o pão de hambúrguer tal, que é o que mais tem pedido e preciso entregar até sexta-feira?\n[35:01] Cara, vou colocar lá no meu almoxerifado, para ele separar lá os pedidos e vou colocar a parte da manhã e a parte da tarde e a parte da manhã, segunda e terça de manhã.\n[35:14] Cara, isso daqui já está tudo no sistema enquadrado, quando vão ser as fornadas de cada coisa.\n[35:21] O time lá pega, pega os produtos, pesa, bipa.\n[35:24] Cara, bipa, como que eu faço o aperto de mão entre uma área e outra?\n[35:29] Saiu do almoxerifado, agora vai para o cara fazer a massa.\n[35:33] O cara vai fazer a massa, o que eu tenho que fazer?\n[35:37] Ele bipa as coisas de novo, vê isso daqui o que você precisa fazer.\n[35:42] Então mistura isso, faz, vai sair tanto em tanto tempo.\n[35:46] Então ele começou a cada área conseguir colocar tecnologia.\n[35:50] Tecnologia é só uma plataforma, colocou as TVs lá para a galera ver o que estava acontecendo, o sistema que tudo ele criou com IA.\n[36:00] O criar com IA no fim do dia é fazer os prompts, que antes ele precisaria de 10 devs para fazer tudo o que ele fez, ele fez em uma semana o sistema inteiro da fábrica dele e começou a testar, testar, testar, arrumou bug, arrumou bug.\n[36:17] Cara, em coisa de duas semanas, uma semana e meia, ele sozinho mudou tudo aquilo.\n[36:23] Só que ele, de novo, vem do histórico de saber muito bem disso.\n[36:28] E tem muita gente que nem sabe o que não sabe.\n[36:32] Daí, né, graças a Deus, além de perguntar para o João para a IA, eu peguei lá o Viver de A que vocês já liberaram para a gente faz muito tempo e, cara, eu comecei a ver.\n[36:44] Agora, meu fim de semana agora, é ver as aulinhas todas do Lovable.\n[36:49] Embora, formação Lovable.\n[36:51] Aprender tudo do Lovable.\n[36:53] Colocou a família também.\n[36:55] Pô, coloquei minha família inteira também, cara, porque eu falei para a galera, cara, eu estou tão pirado.\n[37:03] Você está igual eu, você está...\n[37:05] Sabe o que aconteceu com você?\n[37:07] Eu sou cristão, e eu acho que o cristão, quando ele se revela cristão, ele é tão bom que ele quer contar para os outros.\n[37:16] E eu estou evangelizador da IA.\n[37:18] Eu sou um evangelizador da IA.\n[37:21] Você acabou de entrar para a minha...\n[37:23] E você está evangelizando os outros também.\n[37:27] Para a seita da IA, cara.\n[37:28] Você falou assim, cara, isso é bom demais.\n[37:32] Gente, vem.\n[37:32] Isso aqui...\n[37:33] Então, é real isso.\n[37:35] E não é só isso, cara.\n[37:36] É um negócio que as pessoas ainda não entenderam.\n[37:40] Ou elas aprendem, ou elas usam isso ao favor delas, ou elas vão ficar para trás.\n[37:46] E eu vejo que são poucos meses que isso vai acontecer e a distância entre o profissional que sabe e o profissional que não sabe vai abrir uma boca de jacaré gigantesca que as pessoas que não têm a curiosidade, não querem aprender, cara, elas vão ficar para trás.\n[38:05] Então, eu já mandei lá, eu mandei essa semana agora, falei, brother, libera para essas pessoas aqui.\n[38:13] Tipo, a minha irmã, o meu cunhado, o meu pai, a minha esposa.\n[38:17] Teve mais alguém?\n[38:19] Teve.\n[38:19] Eu mando acho que umas 5, 6 pessoas.\n[38:22] Eu mandei umas 5 pessoas para ele.\n[38:24] O cachorro.\n[38:25] Não, meu irmão.\n[38:26] Meu irmão.\n[38:27] Eu falei, galera, entra nesse negócio, pega um tema, aprende.\n[38:31] Eu vou dar duas semanas pra vocês verem o básico e eu vou começar a cobrar projetinho.\n[38:38] E eu falei, se vocês não quiserem pagar a API de qualquer coisa, me fala.\n[38:43] Eu já falei, ó, estuda.\n[38:45] Nem falei, eu vou pagar para vocês as licenças dos softwares para vocês fazerem isso.\n[38:51] Porque assim, ou vocês fazem, ou vocês vão perder o emprego de vocês.\n[38:56] E se vocês fizerem antes do resto, vocês vão se destacar pra caramba.\n[39:01] E a partir do momento que você se destaca, o que vai acontecer?\n[39:06] Você vai subir na porra da tua carreira, caramba.\n[39:10] Ninguém é empreendedor ali.\n[39:12] Meu pai é.\n[39:12] A minha irmã foi lá ajudar a tocar o negócio da família.\n[39:17] Cara, mas o meu pai, com quase 70 anos, falou, filho, eu não posso ficar pra trás.\n[39:23] Isso é muito legal.\n[39:24] Eu tenho que aprender.\n[39:26] Daí eu vi ele no carnaval Pá caramba, mas gente, tem momentos na vida que dividem as crianças dos homens.\n[39:34] E homem tem que fazer o que tem que ser feito, não aquilo que ele gosta.\n[39:39] Porque senão eu ficaria tomando sorvete meu dia inteiro.\n[39:43] Dia inteiro eu ficaria tomando sorvete.\n[39:46] Meu filho também.\n[39:47] Ficaria o dia inteiro na TV assistindo TV e comendo doce.\n[39:52] Só que não é assim que o negócio funciona.\n[39:55] E eu falo para os meus filhos isso, eu falo para todo mundo que eu já trabalhei.\n[40:01] Você pode fazer o que você quiser, só aguente as consequências das decisões que você tomou.\n[40:07] Porque essa decisão que você tomou hoje vai te impactar no curto prazo, no médio prazo, mas muito no longo prazo.\n[40:16] Porque o composto disso que você faz hoje é muito grande.\n[40:20] Então o que eu falaria para ele é isso, entenda, tem gente que fez e deu certo.\n[40:26] Tem gente que fez e não deu certo.\n[40:28] Quem está falando que é muleta, você tem que realmente repensar se você quer essas pessoas no seu time ou não.\n[40:37] E quem está fazendo e está funcionando e está entregando a meta e está aprendendo isso, sabe o que ele está fazendo?\n[40:45] Ele está fazendo fora do escritório, ele está fazendo fim de semana.\n[40:50] Ah, mas as pessoas têm família.\n[40:53] Ah, mas isso não está no combinado das horas de trabalho.\n[40:57] Está bom?\n[40:57] Não tem problema.\n[40:59] Mas eu não quero essas pessoas na minha empresa.\n[41:02] Por quê?\n[41:03] Porque quem quer resolve.\n[41:05] Quem quer resolve, quem quer dar um jeito.\n[41:08] Se você como gestor deu as ferramentas, liberou.\n[41:11] E daí eu convido talvez ele a liberar uma hora, duas horas na semana.\n[41:17] Galera, essa agenda aqui na tua semana é para você aprender isso.\n[41:21] Mas na hora que você for aprender isso, você tem que me mostrar o resultado daquilo que você fez.\n[41:29] Então pega um projeto, qualquer coisa, faz.\n[41:32] Dedica duas horas e me apresenta algo.\n[41:35] Porque a melhor maneira de aprender é o quê?\n[41:38] É fazendo.\n[41:39] Então, se você só consome e não faz e não age, não adianta.\n[41:43] Você tem que passar uma hora consumindo, dez horas executando.\n[41:48] Cara, surgiu um monte de dúvidas.\n[41:50] E a maioria das dúvidas, sabe o que você vai fazer?\n[41:54] Vai perguntar para a própria OPA.\n[41:56] Como eu resolvo isso?\n[41:58] Logicamente que o jeito que eu fiz lá o meu bot, o jeito que eu estou fazendo os negócios no banco de dados, o jeito que eu vou fazendo o Lovable, o jeito que depois eu vou testar tudo, porque a minha ideia é isso.\n[42:14] Como que eu tenho uma cabeça mais generalista de entender tudo para saber o que é melhor para quê.\n[42:21] E daí, por exemplo, para esse caso, vou usar isso.\n[42:25] Para aquele caso, vou usar isso.\n[42:27] Logicamente, pô, no Vivertiá, avança muita vida.\n[42:31] A metodologia lá, a gente já passou alguns caminhos que a gente acaba sendo atalho, né?\n[42:37] Então, o ponto principal para mim é, executa.\n[42:40] Executou, você vai ter dúvidas.\n[42:43] Na hora que você tiver dúvida, vai tirar dúvida.\n[42:46] Ah, mas eu não tenho quem tirar dúvida dele.\n[42:50] E de novo, estou fazendo propaganda.\n[42:52] Cara, vocês têm um esquema que é genial, que é aquela porra daquela mentoria.\n[42:58] Eu fico chocado, cara.\n[43:00] Porque, cara, é só você entrar lá.\n[43:02] Você nem sabe o que fazer, entra lá.\n[43:05] Fica uma hora assistindo aquele negócio.\n[43:08] Daqui a pouco vocês vão soltar seis horas por dia de mentoria.\n[43:12] Cara, só entra e vê o que a galera está fazendo.\n[43:16] Cara, o cara está fazendo isso.\n[43:18] Dá para eu aplicar isso nisso.\n[43:21] Ah, ele está usando o N8N com isso.\n[43:23] Cara, calma aí.\n[43:24] Como é que é?\n[43:25] Deixa eu pegar aqui o negócio de N8N.\n[43:28] Pô, tal, aprendi.\n[43:29] Deixa eu começar a fazer.\n[43:31] Fiquei com dúvida, vai no outro dia na mentoria.\n[43:35] E pergunta.\n[43:35] Cara, só não aprende quem não quer.\n[43:38] Só não aprende quem não quer.\n[43:40] Eu tenho uma coisa que eu aprendi no Exército também.\n[43:44] Uma vez eu falei, ah, muita gente bateu em mim quando foi uma linha.\n[43:49] Mas eu gosto disso, que é...\n[43:51] Eu acho que a gente tem alguns traumas na vida.\n[43:55] E quando a gente cria alguns traumas, tem trauma bom e trauma ruim.\n[44:00] Até que eu acredito.\n[44:01] Eu tenho uma frase que somente o trauma gera compreensão.\n[44:05] Perfeito.\n[44:06] Então, no início vai dar uma traumatizada.\n[44:09] Só que essa é uma traumatizada boa.\n[44:12] É boa.\n[44:12] Essa é aquela hora que quando tu mexer, tu vai dizer assim, ó.\n[44:17] É o cyber truck.\n[44:18] Ele no cyber truck.\n[44:20] E aí vai dar...\n[44:21] É o aha moment.\n[44:22] É a maçã na cabeça de Newton.\n[44:24] É aquele negócio assim que, cara, a tua vida, a partir daquele momento, muda.\n[44:30] E galera, desculpa te atrapalhar aqui, né?\n[44:33] Galera, mudou.\n[44:34] E não mudou só para mim.\n[44:36] Mudou para todo mundo.\n[44:37] E eu não estou falando aqui de sacanagem.\n[44:40] Cara, é real.\n[44:41] Mudou.\n[44:42] É real.\n[44:42] Se você não estiver aprendendo isso, não é por causa de viver.\n[44:47] Cara, tem um monte de plataforma para você aprender.\n[44:51] Tem coisa no YouTube.\n[44:52] Você vai perder muito tempo vendo coisa no YouTube.\n[44:56] Cara, que você poderia resolver ali...\n[44:59] Que está organizado do jeito certo para você aprender.\n[45:03] Cara, mas aprenda isso.\n[45:05] Aprenda isso, que isso vai mudar a sua fucking vida.\n[45:08] Aprenda.\n[45:09] Não perde tempo, cara.\n[45:11] Não perde tempo, porque você já está para trás.\n[45:14] E assim...\n[45:15] Ah, mas eu não quero...\n[45:17] Ah, mas eu...\n[45:18] Aprende, cara.\n[45:19] Ah, mas eu sou pedreiro.\n[45:20] Aprende, porque daí você deixa de ser pedreiro.\n[45:24] Fato.\n[45:24] Quer mais?\n[45:25] Manda aí.\n[45:26] Não, eu não quero finalizar aqui.\n[45:28] E aí eu quero finalizar de uma maneira diferente hoje.\n[45:32] A gente falou muito aqui do empresário meter a mão na massa.\n[45:37] Então, eu queria...\n[45:38] Eu vou começar.\n[45:39] Eu quero deixar uma provocação dizendo de algum projeto, alguma coisa que eu quero provocar o empresário a sair daqui e meter a mão na massa e fazer.\n[45:50] E quem conseguir fazer, manda uma mensagem depois no Instagram dizendo o que fez.\n[45:56] A minha provocação é o seguinte.\n[45:59] Eu provoco o empresário que está ouvindo a gente.\n[46:02] Simples, tá?\n[46:03] A sair daqui, entrar no Lovable.\n[46:05] Lovable, tá?\n[46:06] Depois deixa na descrição aqui os nomes certinho.\n[46:10] E fazer um site novo para a sua empresa.\n[46:13] Essa é a minha provocação.\n[46:15] Então, estou te provocando a você.\n[46:17] Não é de marketing, não precisa fazer nada.\n[46:21] Entrar no Lovable, uma ferramenta só, e fazer um site novo.\n[46:25] É a minha provocação.\n[46:27] Por onde eu começo?\n[46:28] Pergunta.\n[46:29] Pra ele.\n[46:29] Eu quero fazer um site novo, porque eu fui provocado.\n[46:33] Como você gostaria do seu site?\n[46:36] Pede pra ele.\n[46:36] Então, essa é a minha provocação que eu tenho aqui pra você.\n[46:41] Eu vou dar, então.\n[46:42] Vou na linha.\n[46:43] Gostei da ideia.\n[46:44] Vou mais uma.\n[46:45] Minha provocação pra você é a seguinte.\n[46:48] Você vai pegar aquela planilha que você adora, que você usa todo dia, e você vai jogar a planilha no Lovable.\n[46:56] Você vai abrir o modo plan do Lovable.\n[46:59] Ativa lá, clicou.\n[47:00] Modo plan.\n[47:01] E aí você vai fazer o seguinte comando.\n[47:04] Faça uma análise dessa planilha.\n[47:06] Entenda o contexto e o objetivo dessa planilha.\n[47:10] E faça o planejamento de um sistema inteiro para substituir essa planilha.\n[47:15] Depois você vem aqui e me conta nos comentários o que aconteceu.\n[47:20] Se isso não mudar, se você não se evangelizar pela IA depois disso, aí, meu amigo, esquece.\n[47:27] Eu não tenho mais nada pra fazer com você.\n[47:30] Inclusive, eu nem quero você como cliente.\n[47:33] Por favor.\n[47:34] Eu ia falar pra se inscrever no canal, mas tira a inscrição do canal, porque eu não quero você consumindo conteúdos aqui.\n[47:43] Agora, se você gostou, não se esquece também de dar o like, se inscrever no Jogo da IA, porque não é todo dia que a gente tem empresários como o Bruno Nardom todo dia aqui, jogando IA na prática e falando de um conteúdo tão profundo.\n[48:00] E Nardom, e você?\n[48:02] E você?\n[48:02] Eu o quê?\n[48:03] Neto, provoca o empresário a fazer o que, cara?\n[48:06] Eu já provoquei esse podcast inteiro e só pra vocês entenderem, galera.\n[48:12] A gente montou esse podcast aqui pros meninos que vai entrar pelo menos uma vez por semana no canal principal do G4 Podcasts.\n[48:21] Só pra vocês entenderem.\n[48:23] Por que a gente entendeu que isso não dá pra ficar mais fora de qualquer formação nossa?\n[48:29] Porque isso não é mais futuro, isso já é passado.\n[48:33] E se você não mudar agora na sua empresa, meu amigo, vai ter quem vai mudar e vai comer o seu queijo.\n[48:40] Então, muda.\n[48:41] Se não, vão te mudar no seu lugar.\n[48:44] Então, cara, não perde tempo.\n[48:46] E pode usar a Viverde A, pode vir no G4, pode...\n[48:49] E, cara, em qualquer lugar, pra mim, tanto faz.\n[48:53] O nosso papel aqui é ajudar o empreendedor, o empresário a entender o que é importante, como pode mudar a vida.\n[49:01] E, cara, espero que você tenha ouvido esse podcast aqui e falado, caramba, o Nardom tava tão sério, tão diferente do que ele tá nos outros podcasts, tipo, meio arisco, meio irritado, meio transtornado.\n[49:16] Não é porque eu tô dormindo pouco, porque eu tô, cara, nessa febre.\n[49:21] Não, é porque, de fato, a gente no G4 vem colhendo frutos disso.\n[49:26] Há mais de três anos, triplicou o faturamento com basicamente o",
+  "text_turns": "",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.07,
+      "timestamp": "00:00",
+      "text": "Ah, lógico, quero fazer um sistema mega pau-udo, que não sei o quê, que não sei o quê, que vai tratar milhões de clientes."
+    },
+    {
+      "start": 9.07,
+      "end": 11.81,
+      "timestamp": "00:09",
+      "text": "Você vai conseguir fazer vibe coding?"
+    },
+    {
+      "start": 11.81,
+      "end": 12.11,
+      "timestamp": "00:11",
+      "text": "Vai."
+    },
+    {
+      "start": 12.11,
+      "end": 13.15,
+      "timestamp": "00:12",
+      "text": "Vai dar certo?"
+    },
+    {
+      "start": 13.15,
+      "end": 14.19,
+      "timestamp": "00:13",
+      "text": "Vai funcionar?"
+    },
+    {
+      "start": 14.19,
+      "end": 14.49,
+      "timestamp": "00:14",
+      "text": "Vai."
+    },
+    {
+      "start": 14.49,
+      "end": 17.68,
+      "timestamp": "00:14",
+      "text": "Mas você vai depender da sua empresa disso?"
+    },
+    {
+      "start": 17.68,
+      "end": 21.7,
+      "timestamp": "00:17",
+      "text": "Pô, pega daí uma galera boa de tech, olha a segurança."
+    },
+    {
+      "start": 21.7,
+      "end": 23.63,
+      "timestamp": "00:21",
+      "text": "Mas, cara, o MVP você fez."
+    },
+    {
+      "start": 23.63,
+      "end": 25.34,
+      "timestamp": "00:23",
+      "text": "Você testou o conceito."
+    },
+    {
+      "start": 25.34,
+      "end": 29.72,
+      "timestamp": "00:25",
+      "text": "Cara, você coloca 5, 10, 100, 200 pessoas, funcionou legal."
+    },
+    {
+      "start": 29.72,
+      "end": 37.6,
+      "timestamp": "00:29",
+      "text": "Só que ele era um preguiçoso produtivo, que é o jeito que a gente está apilidando esse negócio aqui no G4."
+    },
+    {
+      "start": 37.6,
+      "end": 39.16,
+      "timestamp": "00:37",
+      "text": "Preguiçoso produtivo."
+    },
+    {
+      "start": 39.16,
+      "end": 41.46,
+      "timestamp": "00:39",
+      "text": "O que é o preguiçoso produtivo?"
+    },
+    {
+      "start": 41.46,
+      "end": 47.11,
+      "timestamp": "00:41",
+      "text": "É o cara que não quer repetir duas, três, quatro, cinco vezes a mesma coisa."
+    },
+    {
+      "start": 47.11,
+      "end": 48.3,
+      "timestamp": "00:47",
+      "text": "Sei lá, não sei."
+    },
+    {
+      "start": 48.3,
+      "end": 50.97,
+      "timestamp": "00:48",
+      "text": "Não sei qual que você recomenda, né?"
+    },
+    {
+      "start": 50.97,
+      "end": 54.62,
+      "timestamp": "00:50",
+      "text": "Tipo, você mandou para mim, eu devolvi para você."
+    },
+    {
+      "start": 54.62,
+      "end": 56.32,
+      "timestamp": "00:54",
+      "text": "Me diz você, meu amigo."
+    },
+    {
+      "start": 56.32,
+      "end": 57.74,
+      "timestamp": "00:56",
+      "text": "Você não é o fodão?"
+    },
+    {
+      "start": 57.74,
+      "end": 68.36,
+      "timestamp": "00:57",
+      "text": "Começando mais um O Jogo da Iá, para a gente conversar com os empresários que estão liderando o movimento de inteligência artificial no Brasil."
+    },
+    {
+      "start": 68.36,
+      "end": 72.97,
+      "timestamp": "01:08",
+      "text": "E eu estou aqui com o meu sócio, o meu parceiro, Iago Martins."
+    },
+    {
+      "start": 72.97,
+      "end": 74.08,
+      "timestamp": "01:12",
+      "text": "Estamos juntos."
+    },
+    {
+      "start": 74.08,
+      "end": 80.47,
+      "timestamp": "01:14",
+      "text": "E com o grande Bruno Nardon, que está jogando esse jogo e gostando de ver, viu Nardon?"
+    },
+    {
+      "start": 80.47,
+      "end": 82.26,
+      "timestamp": "01:20",
+      "text": "Está jogando na prática."
+    },
+    {
+      "start": 82.26,
+      "end": 89.02,
+      "timestamp": "01:22",
+      "text": "Outro dia a gente estava ali, tinha uma madrugada, vibe codando junto no grupo do WhatsApp."
+    },
+    {
+      "start": 89.02,
+      "end": 95.04,
+      "timestamp": "01:29",
+      "text": "E eu fiquei sabendo que você fez uma aplicação de Iá ali para ajudar o seu filho."
+    },
+    {
+      "start": 95.04,
+      "end": 97.27,
+      "timestamp": "01:35",
+      "text": "Já começa contando a história."
+    },
+    {
+      "start": 97.27,
+      "end": 98.38,
+      "timestamp": "01:37",
+      "text": "Como é que foi?"
+    },
+    {
+      "start": 98.38,
+      "end": 100.61,
+      "timestamp": "01:38",
+      "text": "O que você está desenvolvendo?"
+    },
+    {
+      "start": 100.61,
+      "end": 104.62,
+      "timestamp": "01:40",
+      "text": "O que você está jogando na prática de Iá para a gente?"
+    },
+    {
+      "start": 104.62,
+      "end": 104.92,
+      "timestamp": "01:44",
+      "text": "Boa."
+    },
+    {
+      "start": 104.92,
+      "end": 114.51,
+      "timestamp": "01:44",
+      "text": "Antes disso, eu acho que vale a pena dar um panorama aqui para a galera de como foi o passo a passo que eu falei, vou vibe codar."
+    },
+    {
+      "start": 114.51,
+      "end": 117.63,
+      "timestamp": "01:54",
+      "text": "Cara, eu aprendi na faculdade a programar."
+    },
+    {
+      "start": 117.63,
+      "end": 121.86,
+      "timestamp": "01:57",
+      "text": "Então, lá em 2005, 2006, aprendi o básico, C, JavaScript."
+    },
+    {
+      "start": 121.86,
+      "end": 126.02,
+      "timestamp": "02:01",
+      "text": "Cara, aprendi ali o básico do básico, fazia os negócios."
+    },
+    {
+      "start": 126.02,
+      "end": 128.33,
+      "timestamp": "02:06",
+      "text": "Achava super legal lá na época."
+    },
+    {
+      "start": 128.33,
+      "end": 137.69,
+      "timestamp": "02:08",
+      "text": "E quando eu fui trabalhar, antes de eu fundar a Canoe com outros sócios, eu montei um projetinho que eu programei aquilo tudo."
+    },
+    {
+      "start": 137.69,
+      "end": 148.76,
+      "timestamp": "02:17",
+      "text": "Mas desde então, quando montamos a Canoe, cara, eu usava o básico do básico do básico, SQL, quando precisava, porque tinha time para fazer as coisas."
+    },
+    {
+      "start": 148.76,
+      "end": 151.66,
+      "timestamp": "02:28",
+      "text": "E daí vamos dar uma acelerada até hoje."
+    },
+    {
+      "start": 151.66,
+      "end": 159.76,
+      "timestamp": "02:31",
+      "text": "2022, ali no fim de 22, quando o OpenAI lançou o chat de IPT, e aqui no G4 a gente sempre foi muito inovador."
+    },
+    {
+      "start": 159.76,
+      "end": 180.49,
+      "timestamp": "02:39",
+      "text": "Tecnologias novas surgem, vamos entender isso, porque se a gente entender isso antes do resto, a gente vai ter uma vantagem competitiva, que daqui seis meses, um ano, quando a galera estiver entrando, a gente já vai ter masterizado essa técnica aqui e usado aquilo a nosso favor."
+    },
+    {
+      "start": 180.49,
+      "end": 185.84,
+      "timestamp": "03:00",
+      "text": "Fim de 22, acho que foi outubro, novembro, né, que lançou o chat de IPT."
+    },
+    {
+      "start": 185.84,
+      "end": 192.53,
+      "timestamp": "03:05",
+      "text": "Cara, chegou para o João Victor e falou, João, para tudo que você está fazendo, para tudo."
+    },
+    {
+      "start": 192.53,
+      "end": 193.72,
+      "timestamp": "03:12",
+      "text": "Não é mais nada."
+    },
+    {
+      "start": 193.72,
+      "end": 195.2,
+      "timestamp": "03:13",
+      "text": "Estuda esse negócio."
+    },
+    {
+      "start": 195.2,
+      "end": 199.51,
+      "timestamp": "03:15",
+      "text": "Se tem alguém aqui que vai entender e vai aprender é você."
+    },
+    {
+      "start": 199.51,
+      "end": 203.75,
+      "timestamp": "03:19",
+      "text": "E cara, você vai ser o motor transformador desse negócio."
+    },
+    {
+      "start": 203.75,
+      "end": 210.29,
+      "timestamp": "03:23",
+      "text": "Cara, 23, começamos a usar as primeiras ferramentas para dentro de casa, 24, mais ainda."
+    },
+    {
+      "start": 210.29,
+      "end": 212.81,
+      "timestamp": "03:30",
+      "text": "E ano passado, assim, uma loucura."
+    },
+    {
+      "start": 212.81,
+      "end": 222.25,
+      "timestamp": "03:32",
+      "text": "Quando você olha o G4 de 2023 para o G4 do ano passado, a gente triplicou a receita da companhia, basicamente com o mesmo time."
+    },
+    {
+      "start": 222.25,
+      "end": 224.78,
+      "timestamp": "03:42",
+      "text": "Crescemos talvez 5% a 10% do time."
+    },
+    {
+      "start": 224.78,
+      "end": 228.34,
+      "timestamp": "03:44",
+      "text": "Ou seja, triplicamos o tamanho com o mesmo time."
+    },
+    {
+      "start": 228.34,
+      "end": 230.2,
+      "timestamp": "03:48",
+      "text": "Por que a gente fez isso?"
+    },
+    {
+      "start": 230.2,
+      "end": 241.2,
+      "timestamp": "03:50",
+      "text": "Porque a gente colocou, melhoramos muitos processos, colocamos muita tecnologia e desenvolver tecnologia ficou muito mais fácil com o advento do DA."
+    },
+    {
+      "start": 241.2,
+      "end": 257.77,
+      "timestamp": "04:01",
+      "text": "Ou seja, a gente já capturou muito valor, mas eu, como um dos sócios, donos da empresa, eu estava usando o IA de uma maneira muito soft, de uma maneira muito simples, muito fácil, que é como a maioria das pessoas usam hoje."
+    },
+    {
+      "start": 257.77,
+      "end": 261.63,
+      "timestamp": "04:17",
+      "text": "Até porque você tinha o João do seu lado também, né?"
+    },
+    {
+      "start": 261.63,
+      "end": 262.45,
+      "timestamp": "04:21",
+      "text": "Exatamente."
+    },
+    {
+      "start": 262.45,
+      "end": 272.41,
+      "timestamp": "04:22",
+      "text": "Porque, cara, eu tinha a ideia, eu via a oportunidade, falava, João, resolvo que eu sei que dá para colocar IA nisso para automatizar."
+    },
+    {
+      "start": 272.41,
+      "end": 274.93,
+      "timestamp": "04:32",
+      "text": "Mas como eu sempre tive gente, né?"
+    },
+    {
+      "start": 274.93,
+      "end": 277.01,
+      "timestamp": "04:34",
+      "text": "Que nem a história da Kanoe."
+    },
+    {
+      "start": 277.01,
+      "end": 279.1,
+      "timestamp": "04:37",
+      "text": "Pô, 2012, 13, 14, até usava."
+    },
+    {
+      "start": 279.1,
+      "end": 282.81,
+      "timestamp": "04:39",
+      "text": "Não sei, eu estava programando, eu usava mais SQL."
+    },
+    {
+      "start": 282.81,
+      "end": 286.3,
+      "timestamp": "04:42",
+      "text": "Cara, eu sempre tive time para fazer as coisas."
+    },
+    {
+      "start": 286.3,
+      "end": 288.16,
+      "timestamp": "04:46",
+      "text": "Aqui no G4 a mesma coisa."
+    },
+    {
+      "start": 288.16,
+      "end": 299.01,
+      "timestamp": "04:48",
+      "text": "O meu papel é pegar as pessoas certas, colocar nos problemas certos, dar direção e, cara, fazer o negócio andar e cobrar para o negócio acontecer."
+    },
+    {
+      "start": 299.01,
+      "end": 302.2,
+      "timestamp": "04:59",
+      "text": "E, cara, eu sempre usei do jeito fácil, né?"
+    },
+    {
+      "start": 302.2,
+      "end": 308.08,
+      "timestamp": "05:02",
+      "text": "Pô, fazer um prompt, vou usar como eu uso o Google, pô, coisas mais rebuscadas."
+    },
+    {
+      "start": 308.08,
+      "end": 312.91,
+      "timestamp": "05:08",
+      "text": "Ah, preciso fazer aqui um texto para a mídia social, pô, quero..."
+    },
+    {
+      "start": 312.91,
+      "end": 316.77,
+      "timestamp": "05:12",
+      "text": "Estou estudando esse tema, me ajuda a entender mais."
+    },
+    {
+      "start": 316.77,
+      "end": 318.11,
+      "timestamp": "05:16",
+      "text": "Sempre muito soft."
+    },
+    {
+      "start": 318.11,
+      "end": 320.93,
+      "timestamp": "05:18",
+      "text": "Até fim desse ano, do ano passado, né?"
+    },
+    {
+      "start": 320.93,
+      "end": 325.46,
+      "timestamp": "05:20",
+      "text": "Olha ali o último trimestre, a gente estava discutindo muito."
+    },
+    {
+      "start": 325.46,
+      "end": 331.63,
+      "timestamp": "05:25",
+      "text": "Todas as ferramentas de AI nas plataformas de AI lançaram muitas tecnologias novas."
+    },
+    {
+      "start": 331.63,
+      "end": 350.5,
+      "timestamp": "05:31",
+      "text": "E eu já estava, eu e o Tales, o João, falando, cara, isso daqui está indo muito mais rápido do que a gente imagina, a gente precisa utilizar mais, precisa utilizar mais, precisa a gente utilizar para o time utilizar, não dá só para ficar no time do João."
+    },
+    {
+      "start": 350.5,
+      "end": 356.45,
+      "timestamp": "05:50",
+      "text": "Cara, buscando ele, cara, como o João, como você pega o resto do time para usar?"
+    },
+    {
+      "start": 356.45,
+      "end": 358.6,
+      "timestamp": "05:56",
+      "text": "E, cara, ficou, ficou, ficou."
+    },
+    {
+      "start": 358.6,
+      "end": 363.14,
+      "timestamp": "05:58",
+      "text": "Fechamos o ano, fui tirar férias, fui para os Estados Unidos."
+    },
+    {
+      "start": 363.14,
+      "end": 375.55,
+      "timestamp": "06:03",
+      "text": "Lá nos Estados Unidos, eu andei com o Tesla, que já tinha andado outras vezes, já tinha andado com o self-driving car, mas, meu, numa outra qualidade do que está hoje."
+    },
+    {
+      "start": 375.55,
+      "end": 382.83,
+      "timestamp": "06:15",
+      "text": "Eu fui para a casa lá do Bruno Prado, grande amigo nosso também, aluno aqui do G4, e, cara, foi..."
+    },
+    {
+      "start": 382.83,
+      "end": 389.52,
+      "timestamp": "06:22",
+      "text": "Ele me emprestou para mim o Cybertruck para ir para o museu com a família com a criançada."
+    },
+    {
+      "start": 389.52,
+      "end": 401.48,
+      "timestamp": "06:29",
+      "text": "Eu apertei lá o endereço que eu queria ir, apertei o modelo de agressividade que eu queria do self-driving car, e, cara, eu não fiz mais nada durante 45 minutos."
+    },
+    {
+      "start": 401.48,
+      "end": 409.65,
+      "timestamp": "06:41",
+      "text": "E eu chegava, agora vai dar merda, pô, você tem uma ponte aqui que eles estão reformando, vai dar merda agora."
+    },
+    {
+      "start": 409.65,
+      "end": 413.44,
+      "timestamp": "06:49",
+      "text": "Eu já estava com a mão ali para assumir o controle."
+    },
+    {
+      "start": 413.44,
+      "end": 415.37,
+      "timestamp": "06:53",
+      "text": "Vai dar nada, foi, passou."
+    },
+    {
+      "start": 415.37,
+      "end": 422.28,
+      "timestamp": "06:55",
+      "text": "Cara, que loucura que eu estou vivendo, cara, que loucura que eu estou vivendo, o que é isso?"
+    },
+    {
+      "start": 422.28,
+      "end": 427.19,
+      "timestamp": "07:02",
+      "text": "Não é possível, eu fiz um vídeo, filmei, gravei para o YouTube lá."
+    },
+    {
+      "start": 427.19,
+      "end": 429.94,
+      "timestamp": "07:07",
+      "text": "Cara, eu falei, cara, é inimaginável."
+    },
+    {
+      "start": 429.94,
+      "end": 441.31,
+      "timestamp": "07:09",
+      "text": "E na hora que a gente chegou, ele estava lá, cara, tinha umas vagas para estacionar, apertei em uma, e ele já chegou e, cara, estacionou automaticamente."
+    },
+    {
+      "start": 441.31,
+      "end": 455.65,
+      "timestamp": "07:21",
+      "text": "Na hora que eu saí do carro, eu falei para a minha esposa, amor, pelo amor de Deus, vai lá, vai lá comprar o ingresso para o museu, para as crianças, e para mim eu preciso falar com os meninos."
+    },
+    {
+      "start": 455.65,
+      "end": 461.74,
+      "timestamp": "07:35",
+      "text": "Comecei a trocar mensagem, mandar áudio, liguei para eles e falei, galera, de boa."
+    },
+    {
+      "start": 461.74,
+      "end": 462.26,
+      "timestamp": "07:41",
+      "text": "Já era."
+    },
+    {
+      "start": 462.26,
+      "end": 465.16,
+      "timestamp": "07:42",
+      "text": "Cara, Nardon, o que você está viajando?"
+    },
+    {
+      "start": 465.16,
+      "end": 467.54,
+      "timestamp": "07:45",
+      "text": "Não é que eu sou meio assim, né?"
+    },
+    {
+      "start": 467.54,
+      "end": 476.75,
+      "timestamp": "07:47",
+      "text": "Quando vira a chave, quando o jogo muda, quando clica, cara, e eu sempre pensei em futuros desejáveis, cara, fazer aquele..."
+    },
+    {
+      "start": 476.75,
+      "end": 482.92,
+      "timestamp": "07:56",
+      "text": "E acontecer isso no futuro, e acontecer isso no futuro, e acontecer isso no futuro."
+    },
+    {
+      "start": 482.92,
+      "end": 488.34,
+      "timestamp": "08:02",
+      "text": "Sempre tinha ali quatro, cinco cenários que poderiam acontecer no futuro."
+    },
+    {
+      "start": 488.34,
+      "end": 511.53,
+      "timestamp": "08:08",
+      "text": "E na hora que eu andei, tangibilizei aquele negócio, me levou de um lado para o outro sem eu fazer nada, e eu já tinha visto vídeo, já tinha visto, não sei o quê, já tinha visto o Emo, a Tesla, já tinha visto a galera falando e tal, mas, cara, uma coisa é você ouvir as pessoas falarem, outra coisa é você viver."
+    },
+    {
+      "start": 511.53,
+      "end": 513.98,
+      "timestamp": "08:31",
+      "text": "O jogo é completamente diferente."
+    },
+    {
+      "start": 513.98,
+      "end": 521.04,
+      "timestamp": "08:33",
+      "text": "Falei para os caras, falei, caras, não é mais futuro, já é presente, na realidade já é passado."
+    },
+    {
+      "start": 521.04,
+      "end": 538.05,
+      "timestamp": "08:41",
+      "text": "E a já veio, já dominou, e a gente está muito para trás, e se a gente não pisar no acelerador agora, por mais que a gente tenha feito um monte de coisa dentro do G4, a gente precisa ser mola propulsora de mudança no Brasil de IA."
+    },
+    {
+      "start": 538.05,
+      "end": 549.2,
+      "timestamp": "08:58",
+      "text": "Só que para a gente fazer isso, a primeira coisa que a gente tem que fazer é a gente utilizar as ferramentas mais hardcore do que a gente está usando."
+    },
+    {
+      "start": 549.2,
+      "end": 556.7,
+      "timestamp": "09:09",
+      "text": "E eu sempre achei que era, porque era o João Vitor, é o Rafael Milagre, mas, pô, uns negócios aí, né?"
+    },
+    {
+      "start": 556.7,
+      "end": 558.12,
+      "timestamp": "09:16",
+      "text": "É os nerds malucos."
+    },
+    {
+      "start": 558.12,
+      "end": 560.35,
+      "timestamp": "09:18",
+      "text": "É os nerds malucos, é difícil."
+    },
+    {
+      "start": 560.35,
+      "end": 563.02,
+      "timestamp": "09:20",
+      "text": "Só que eu também sou um nerd maluco."
+    },
+    {
+      "start": 563.02,
+      "end": 569.49,
+      "timestamp": "09:23",
+      "text": "Eu só, ao longo do tempo, dada a minha posição, fui mudando o papel de nerd maluco, né?"
+    },
+    {
+      "start": 569.49,
+      "end": 571.12,
+      "timestamp": "09:29",
+      "text": "Para um gestor maluco."
+    },
+    {
+      "start": 571.12,
+      "end": 575.43,
+      "timestamp": "09:31",
+      "text": "E daí chegou, cara, eu cheguei em carnaval, falei, pô, né?"
+    },
+    {
+      "start": 575.43,
+      "end": 579.29,
+      "timestamp": "09:35",
+      "text": "Os primeiros três semanas ali, correria com a Giano."
+    },
+    {
+      "start": 579.29,
+      "end": 618.53,
+      "timestamp": "09:39",
+      "text": "Cara, chegou o carnaval, eu falei, No grupo, eu vou mandar a imagem, áudio, textos com aniversários de pessoas e eu gostaria que uma vez que você entender o que é, que você mandasse um invite para o meu e-mail, além disso que você colocasse, armazenasse isso num banco de dados para ter o histórico, para perguntar quais os próximos aniversários do próximo mês, do mês anterior, coisas do gênero, perguntar se eu vou ou não e automaticamente nesse e-mail mandar um invite e mandar aqui também um link do invite aqui no WhatsApp."
+    },
+    {
+      "start": 618.53,
+      "end": 619.05,
+      "timestamp": "10:18",
+      "text": "Beleza."
+    },
+    {
+      "start": 619.05,
+      "end": 621.57,
+      "timestamp": "10:19",
+      "text": "Daí ele chegou para mim e falou..."
+    },
+    {
+      "start": 621.57,
+      "end": 622.91,
+      "timestamp": "10:21",
+      "text": "O plano está aqui."
+    },
+    {
+      "start": 622.91,
+      "end": 630.34,
+      "timestamp": "10:22",
+      "text": "Não, não, ele falou assim para mim, qual tecnologia de desenvolvimento, qual linguagem você prefere?"
+    },
+    {
+      "start": 630.34,
+      "end": 631.16,
+      "timestamp": "10:30",
+      "text": "Eu falei..."
+    },
+    {
+      "start": 631.16,
+      "end": 631.98,
+      "timestamp": "10:31",
+      "text": "Sei lá, né?"
+    },
+    {
+      "start": 631.98,
+      "end": 634.73,
+      "timestamp": "10:31",
+      "text": "Não sei, qual que você recomenda, né?"
+    },
+    {
+      "start": 634.73,
+      "end": 638.37,
+      "timestamp": "10:34",
+      "text": "Tipo, você mandou para mim e eu mandei para você."
+    },
+    {
+      "start": 638.37,
+      "end": 639.85,
+      "timestamp": "10:38",
+      "text": "Diz você, meu amigo."
+    },
+    {
+      "start": 639.85,
+      "end": 642.31,
+      "timestamp": "10:39",
+      "text": "Diz você, pô, você não é o fodão?"
+    },
+    {
+      "start": 642.31,
+      "end": 644.83,
+      "timestamp": "10:42",
+      "text": "Não é o todo poderoso com a lauda?"
+    },
+    {
+      "start": 644.83,
+      "end": 650.63,
+      "timestamp": "10:44",
+      "text": "Daí ele fez mais duas perguntas que eu não lembro qual que era, qual que eram."
+    },
+    {
+      "start": 650.63,
+      "end": 652.41,
+      "timestamp": "10:50",
+      "text": "Ah, você já tem algum..."
+    },
+    {
+      "start": 652.41,
+      "end": 666.46,
+      "timestamp": "10:52",
+      "text": "Não sei, não lembro o que que eram as perguntas, mas daí moral da história, ele falou, olha, tem o Python, tem essa, tem essa, esse é o pró, esse é o contra de cada uma, qual que você quer?"
+    },
+    {
+      "start": 666.46,
+      "end": 671.14,
+      "timestamp": "11:06",
+      "text": "Daí eu falei, não, qual que você acha melhor para esse projeto?"
+    },
+    {
+      "start": 671.14,
+      "end": 674.85,
+      "timestamp": "11:11",
+      "text": "É um projeto pessoal, não vai ser escalável e tal."
+    },
+    {
+      "start": 674.85,
+      "end": 678.79,
+      "timestamp": "11:14",
+      "text": "Ele falou, olha, eu acho que Python é um bom projeto."
+    },
+    {
+      "start": 678.79,
+      "end": 681.69,
+      "timestamp": "11:18",
+      "text": "Daí eu falei, então vamos com o Python."
+    },
+    {
+      "start": 681.69,
+      "end": 683.47,
+      "timestamp": "11:21",
+      "text": "Daí nisso eu pensei, né?"
+    },
+    {
+      "start": 683.47,
+      "end": 686.59,
+      "timestamp": "11:23",
+      "text": "Falei, tá, e aí, o que a gente vai trocar?"
+    },
+    {
+      "start": 686.59,
+      "end": 691.2,
+      "timestamp": "11:26",
+      "text": "Ele começa a pensar, pensar, pensar, pensar, tá aqui o código."
+    },
+    {
+      "start": 691.2,
+      "end": 701.31,
+      "timestamp": "11:31",
+      "text": "Cara, já lançou lá, tipo, cinco, seis arquivos, ponto PY, pronto, tá aqui o Python, você precisa entrar no terminal e rodar isso e isso."
+    },
+    {
+      "start": 701.31,
+      "end": 705.54,
+      "timestamp": "11:41",
+      "text": "Eu falei, eu não sei como abrir o terminal, eu sabia, né?"
+    },
+    {
+      "start": 705.54,
+      "end": 709.03,
+      "timestamp": "11:45",
+      "text": "Eu não sei como abrir o terminal, como eu faço?"
+    },
+    {
+      "start": 709.03,
+      "end": 713.05,
+      "timestamp": "11:49",
+      "text": "Daí ele falou, explicou, você tá no Windows ou no Mac?"
+    },
+    {
+      "start": 713.05,
+      "end": 715.2,
+      "timestamp": "11:53",
+      "text": "Ele falou, não, eu tô no Mac."
+    },
+    {
+      "start": 715.2,
+      "end": 716.76,
+      "timestamp": "11:55",
+      "text": "Passo um, passo dois."
+    },
+    {
+      "start": 716.76,
+      "end": 726.12,
+      "timestamp": "11:56",
+      "text": "Daí ele falou, ah, você tá no Mac, eu pensei que você tava no Windows, então eu já tenho até que mudar a biblioteca de Python."
+    },
+    {
+      "start": 726.12,
+      "end": 730.36,
+      "timestamp": "12:06",
+      "text": "Daí ele rerodou os negócios, arrumou o que ele precisava."
+    },
+    {
+      "start": 730.36,
+      "end": 738.38,
+      "timestamp": "12:10",
+      "text": "Daí, cara, ele explicou, entra no terminal, agora digita isso no terminal, agora faz isso, agora faz aquilo."
+    },
+    {
+      "start": 738.38,
+      "end": 739.5,
+      "timestamp": "12:18",
+      "text": "Cara, deu erro."
+    },
+    {
+      "start": 739.5,
+      "end": 739.94,
+      "timestamp": "12:19",
+      "text": "Print."
+    },
+    {
+      "start": 739.94,
+      "end": 743.29,
+      "timestamp": "12:19",
+      "text": "Mandei um print pra ele subir e dei um enter."
+    },
+    {
+      "start": 743.29,
+      "end": 748.42,
+      "timestamp": "12:23",
+      "text": "Cara, eu te juro, parecia assim, tipo, é bizarro, faz isso, faz isso."
+    },
+    {
+      "start": 748.42,
+      "end": 754.58,
+      "timestamp": "12:28",
+      "text": "Então, assim, o vibe coding, que chama, eu acho que é o nome errado, você não coda."
+    },
+    {
+      "start": 754.58,
+      "end": 756.29,
+      "timestamp": "12:34",
+      "text": "É o vibe prompting, né?"
+    },
+    {
+      "start": 756.29,
+      "end": 757.33,
+      "timestamp": "12:36",
+      "text": "E é diferente."
+    },
+    {
+      "start": 757.33,
+      "end": 760.75,
+      "timestamp": "12:37",
+      "text": "É que você fica na vibe, aí, ah, faz o coding."
+    },
+    {
+      "start": 760.75,
+      "end": 761.27,
+      "timestamp": "12:40",
+      "text": "É isso."
+    },
+    {
+      "start": 761.27,
+      "end": 762.31,
+      "timestamp": "12:41",
+      "text": "Pode ser isso."
+    },
+    {
+      "start": 762.31,
+      "end": 772.94,
+      "timestamp": "12:42",
+      "text": "Mas, cara, assim, não é vibe coding, porque é você conversar com a máquina, logicamente, você precisa ter um raciocínio lógico que faz sentido."
+    },
+    {
+      "start": 772.94,
+      "end": 774.57,
+      "timestamp": "12:52",
+      "text": "Precisa saber delegar."
+    },
+    {
+      "start": 774.57,
+      "end": 775.02,
+      "timestamp": "12:54",
+      "text": "Exato."
+    },
+    {
+      "start": 775.02,
+      "end": 780.89,
+      "timestamp": "12:55",
+      "text": "E eu comecei com esse projetinho, cara, em coisa de duas horas, ele tava no ar."
+    },
+    {
+      "start": 780.89,
+      "end": 786.61,
+      "timestamp": "13:00",
+      "text": "Daí eu falei, ah, no meu computador, daí testei, funcionou no meu computador."
+    },
+    {
+      "start": 786.61,
+      "end": 796.79,
+      "timestamp": "13:06",
+      "text": "Eu falei, cara, agora eu quero colocar isso em algum servidor, na nuvem, pra eu usar, pra não precisar ficar meu computador ligado e tal."
+    },
+    {
+      "start": 796.79,
+      "end": 805.63,
+      "timestamp": "13:16",
+      "text": "Daí ele me explicou como comitar no GitHub, como usar o Railway pra você ligar um pro outro e ele ficar com o servidor."
+    },
+    {
+      "start": 805.63,
+      "end": 810.83,
+      "timestamp": "13:25",
+      "text": "Daí explicou que eu não podia deixar as chaves abertas, não sei o quê."
+    },
+    {
+      "start": 810.83,
+      "end": 812.39,
+      "timestamp": "13:30",
+      "text": "Chave de app exposta."
+    },
+    {
+      "start": 812.39,
+      "end": 817.6,
+      "timestamp": "13:32",
+      "text": "Cara, daí até uma hora eu coloquei lá e ele falou, não, não faça isso."
+    },
+    {
+      "start": 817.6,
+      "end": 821.68,
+      "timestamp": "13:37",
+      "text": "Não coloque aqui pra mim as suas chaves, não sei o quê."
+    },
+    {
+      "start": 821.68,
+      "end": 822.87,
+      "timestamp": "13:41",
+      "text": "E, cara, beleza."
+    },
+    {
+      "start": 822.87,
+      "end": 825.77,
+      "timestamp": "13:42",
+      "text": "E coloquei no ar e começou a funcionar."
+    },
+    {
+      "start": 825.77,
+      "end": 828.07,
+      "timestamp": "13:45",
+      "text": "Cara, tava lá em casa testando."
+    },
+    {
+      "start": 828.07,
+      "end": 835.65,
+      "timestamp": "13:48",
+      "text": "Daí no outro dia eu cheguei aqui no escritório, fiz um videozinho, postei no Stories, postei no Reels."
+    },
+    {
+      "start": 835.65,
+      "end": 843.6,
+      "timestamp": "13:55",
+      "text": "Cara, vieram umas quatro pessoas, amigos meus, que falaram, meu, tem o mesmo problema que você tem, Nardom."
+    },
+    {
+      "start": 843.6,
+      "end": 846.65,
+      "timestamp": "14:03",
+      "text": "Não dá pra você liberar esse bot pra mim?"
+    },
+    {
+      "start": 846.65,
+      "end": 849.4,
+      "timestamp": "14:06",
+      "text": "Eu falei, ó, do jeito que tá, não dá."
+    },
+    {
+      "start": 849.4,
+      "end": 851.18,
+      "timestamp": "14:09",
+      "text": "Porque ali tava muito..."
+    },
+    {
+      "start": 851.18,
+      "end": 852.45,
+      "timestamp": "14:11",
+      "text": "Suas credenciais."
+    },
+    {
+      "start": 852.45,
+      "end": 853.63,
+      "timestamp": "14:12",
+      "text": "É, tava muito..."
+    },
+    {
+      "start": 853.63,
+      "end": 860.54,
+      "timestamp": "14:13",
+      "text": "Daí eu fui lá, falei, cara, eu quero liberar esse bot não só pra mim, mas pra outras pessoas."
+    },
+    {
+      "start": 860.54,
+      "end": 865.37,
+      "timestamp": "14:20",
+      "text": "Como que eu faço pra ter segurança, individualidade entre grupos?"
+    },
+    {
+      "start": 865.37,
+      "end": 872.81,
+      "timestamp": "14:25",
+      "text": "Você entender a memória que você fica em um grupo no outro, um grupo não dá pra perguntar pro outro."
+    },
+    {
+      "start": 872.81,
+      "end": 881.35,
+      "timestamp": "14:32",
+      "text": "E fiz também, ah, cara, coloca uns comandos aí caso eu queira colocar e-mail, tirar e-mail, o que que dá pra fazer."
+    },
+    {
+      "start": 881.35,
+      "end": 883.28,
+      "timestamp": "14:41",
+      "text": "Cara, negócio mega basics."
+    },
+    {
+      "start": 883.28,
+      "end": 885.73,
+      "timestamp": "14:43",
+      "text": "Fiz mais em 40 minutos, uma hora."
+    },
+    {
+      "start": 885.73,
+      "end": 886.55,
+      "timestamp": "14:45",
+      "text": "Tava no ar."
+    },
+    {
+      "start": 886.55,
+      "end": 892.42,
+      "timestamp": "14:46",
+      "text": "Daí eu mandei pros dois amigos meus lá que pediram, pro terceiro eu não mandei."
+    },
+    {
+      "start": 892.42,
+      "end": 894.21,
+      "timestamp": "14:52",
+      "text": "Mandei pros dois amigos."
+    },
+    {
+      "start": 894.21,
+      "end": 896.88,
+      "timestamp": "14:54",
+      "text": "Até isso aí, cara, começaram a usar."
+    },
+    {
+      "start": 896.88,
+      "end": 897.7,
+      "timestamp": "14:56",
+      "text": "Tão usando."
+    },
+    {
+      "start": 897.7,
+      "end": 909.44,
+      "timestamp": "14:57",
+      "text": "Eu vejo aqui, né, que eu tenho um WhatsApp Business, que eu comprei um número de telefone da Nubank pra colocar como esse bot, né, e eu consigo ver as coisas."
+    },
+    {
+      "start": 909.44,
+      "end": 911.07,
+      "timestamp": "15:09",
+      "text": "Cara, eles tão usando."
+    },
+    {
+      "start": 911.07,
+      "end": 913.3,
+      "timestamp": "15:11",
+      "text": "E pô, você podia por isso, né?"
+    },
+    {
+      "start": 913.3,
+      "end": 914.94,
+      "timestamp": "15:13",
+      "text": "Você podia por aquilo."
+    },
+    {
+      "start": 914.94,
+      "end": 918.65,
+      "timestamp": "15:14",
+      "text": "Eu falei, galera, era um projetinho de duas horas."
+    },
+    {
+      "start": 918.65,
+      "end": 922.81,
+      "timestamp": "15:18",
+      "text": "Se você quiser que eu faça mais, vai ter que pagar caro."
+    },
+    {
+      "start": 922.81,
+      "end": 927.35,
+      "timestamp": "15:22",
+      "text": "Mas cara, foi assim que eu comecei e pra mim, de novo, foi..."
+    },
+    {
+      "start": 927.35,
+      "end": 928.76,
+      "timestamp": "15:27",
+      "text": "O jogo mudou, cara."
+    },
+    {
+      "start": 928.76,
+      "end": 939.38,
+      "timestamp": "15:28",
+      "text": "Porque antes era algo que era super distante, longe, e conforme eu fui fazendo, eu falei, cara, imagina se eu tivesse isso em 2012, 2013, 2014."
+    },
+    {
+      "start": 939.38,
+      "end": 943.69,
+      "timestamp": "15:39",
+      "text": "E te deu um sentimento assim, eu devia ter começado antes?"
+    },
+    {
+      "start": 943.69,
+      "end": 944.21,
+      "timestamp": "15:43",
+      "text": "Ou não?"
+    },
+    {
+      "start": 944.21,
+      "end": 946.89,
+      "timestamp": "15:44",
+      "text": "Você falou assim, ah, tá num timing."
+    },
+    {
+      "start": 946.89,
+      "end": 948.6,
+      "timestamp": "15:46",
+      "text": "Eu falei, tá no timing."
+    },
+    {
+      "start": 948.6,
+      "end": 951.05,
+      "timestamp": "15:48",
+      "text": "Eu acho que pra mim tá no timing."
+    },
+    {
+      "start": 951.05,
+      "end": 964.2,
+      "timestamp": "15:51",
+      "text": "Mas a realidade é a seguinte, tá no timing pra mim, porque eu tenho um time que é muito bom, tenho o João Vitor, que tem um time muito bom, que implementa isso pra dentro do G4."
+    },
+    {
+      "start": 964.2,
+      "end": 987.01,
+      "timestamp": "16:04",
+      "text": "Agora, com o tanto de melhorias que essas AIs tiveram no último semestre, nos últimos seis meses, é algo que os donos, eu e o Tales, e cara, eu tava fazendo isso, o Tales também tava fazendo, a gente, cara, olha o que eu fiz, olha o que eu fiz, olha o que dá pra fazer, olha que loucura, olha não sei o que."
+    },
+    {
+      "start": 987.01,
+      "end": 993.7,
+      "timestamp": "16:27",
+      "text": "E agora eu tô meio que criando os building blocks do meu conhecimento do que dá pra fazer."
+    },
+    {
+      "start": 993.7,
+      "end": 1006.48,
+      "timestamp": "16:33",
+      "text": "Então, ah, eu descobri já como fazer um negócio que dá pra conectar no WhatsApp, tem uma maneira muito mais fácil, muito melhor, cara, e muito mais escalável do que eu fiz."
+    },
+    {
+      "start": 1006.48,
+      "end": 1011.31,
+      "timestamp": "16:46",
+      "text": "Mas eu aprendi a usar todas as ferramentas e eu tive um contexto."
+    },
+    {
+      "start": 1011.31,
+      "end": 1016.29,
+      "timestamp": "16:51",
+      "text": "Daí depois eu comecei a trabalhar num projetinho de banco de dados."
+    },
+    {
+      "start": 1016.29,
+      "end": 1024.39,
+      "timestamp": "16:56",
+      "text": "Cara, fui lá, peguei um monte de base de dados abertas, cara, puxei automaticamente do site pro Cloud Server."
+    },
+    {
+      "start": 1024.39,
+      "end": 1030.48,
+      "timestamp": "17:04",
+      "text": "O que você fez se usasse um Lovable ou Rapid seria economizar 80% do seu trabalho."
+    },
+    {
+      "start": 1030.48,
+      "end": 1031.15,
+      "timestamp": "17:10",
+      "text": "Perfeito."
+    },
+    {
+      "start": 1031.15,
+      "end": 1038.21,
+      "timestamp": "17:11",
+      "text": "Então, aqui, já fiz esse agora de banco de dados, que eu queria aprender como é que funcionava."
+    },
+    {
+      "start": 1038.21,
+      "end": 1050.55,
+      "timestamp": "17:18",
+      "text": "Agora, a ideia desse fim de semana, desse próximo fim de semana, é começar a fazer as coisas no Lovable, pra aprender no Rapid, pra aprender como é que funciona isso."
+    },
+    {
+      "start": 1050.55,
+      "end": 1056.05,
+      "timestamp": "17:30",
+      "text": "Daí depois eu quero fazer coisas na Eleven Labs pra entender como é áudio."
+    },
+    {
+      "start": 1056.05,
+      "end": 1060.28,
+      "timestamp": "17:36",
+      "text": "Depois eu quero fazer coisas no Nano Banana pra entender."
+    },
+    {
+      "start": 1060.28,
+      "end": 1072.47,
+      "timestamp": "17:40",
+      "text": "Então, o que eu tô querendo fazer nesse começo é muito mais tocar as coisas diferentes pra aprender como essas diferentes, mexer no Manos, que é diferente do resto."
+    },
+    {
+      "start": 1072.47,
+      "end": 1085.77,
+      "timestamp": "17:52",
+      "text": "E daí depois, sei lá, a próxima fase é, pô, deixa eu colocar Open Clod aqui, sei lá, uma semana, num computador diferente, cara, mexer com a gente, fazer essas coisas meio maluca."
+    },
+    {
+      "start": 1085.77,
+      "end": 1087.18,
+      "timestamp": "18:05",
+      "text": "É o metramento, né?"
+    },
+    {
+      "start": 1087.18,
+      "end": 1087.7,
+      "timestamp": "18:07",
+      "text": "É isso."
+    },
+    {
+      "start": 1087.7,
+      "end": 1098.33,
+      "timestamp": "18:07",
+      "text": "Então, eu tô, cara, touching points, entendendo, só que o principal é que mostrou pra mim que é muito mais simples do que eu imaginava que era."
+    },
+    {
+      "start": 1098.33,
+      "end": 1103.3,
+      "timestamp": "18:18",
+      "text": "E dito isso, eu e o Tales conversando, a gente falou, cara, acabou."
+    },
+    {
+      "start": 1103.3,
+      "end": 1107.02,
+      "timestamp": "18:23",
+      "text": "Não dá para o time inteiro não estar fazendo isso."
+    },
+    {
+      "start": 1107.02,
+      "end": 1115.49,
+      "timestamp": "18:27",
+      "text": "Porque muitas vezes você fica com medo e você tem uma objeção porque você nem sabe que você não sabe daquele tema."
+    },
+    {
+      "start": 1115.49,
+      "end": 1118.24,
+      "timestamp": "18:35",
+      "text": "Então, você fala, não, mas programar?"
+    },
+    {
+      "start": 1118.24,
+      "end": 1119.58,
+      "timestamp": "18:38",
+      "text": "Você não programa."
+    },
+    {
+      "start": 1119.58,
+      "end": 1122.25,
+      "timestamp": "18:39",
+      "text": "Só que você só aprende isso fazendo."
+    },
+    {
+      "start": 1122.25,
+      "end": 1128.57,
+      "timestamp": "18:42",
+      "text": "Foi que nem a experiência que eu tive no Cybertruck me levando de um lugar pro outro."
+    },
+    {
+      "start": 1128.57,
+      "end": 1130.28,
+      "timestamp": "18:48",
+      "text": "Falei, caralho, é isso."
+    },
+    {
+      "start": 1130.28,
+      "end": 1133.18,
+      "timestamp": "18:50",
+      "text": "Daí eu voltei com uma cabeça de galera."
+    },
+    {
+      "start": 1133.18,
+      "end": 1135.85,
+      "timestamp": "18:53",
+      "text": "A gente agora tem que empurrar isso."
+    },
+    {
+      "start": 1135.85,
+      "end": 1138.08,
+      "timestamp": "18:55",
+      "text": "Cara, garganta abaixo no time."
+    },
+    {
+      "start": 1138.08,
+      "end": 1141.05,
+      "timestamp": "18:58",
+      "text": "E quem não tiver afim, não tem problema."
+    },
+    {
+      "start": 1141.05,
+      "end": 1143.06,
+      "timestamp": "19:01",
+      "text": "É só não ficar com a gente."
+    },
+    {
+      "start": 1143.06,
+      "end": 1147.74,
+      "timestamp": "19:03",
+      "text": "Só que, cara, a gente vai continuar crescendo com o mesmo time."
+    },
+    {
+      "start": 1147.74,
+      "end": 1150.34,
+      "timestamp": "19:07",
+      "text": "Eu não quero mandar a gente embora."
+    },
+    {
+      "start": 1150.34,
+      "end": 1154.8,
+      "timestamp": "19:10",
+      "text": "Só que eu quero que as pessoas consigam liberar tempo delas."
+    },
+    {
+      "start": 1154.8,
+      "end": 1155.39,
+      "timestamp": "19:14",
+      "text": "Pra quê?"
+    },
+    {
+      "start": 1155.39,
+      "end": 1157.55,
+      "timestamp": "19:15",
+      "text": "Pra que elas consigam pensar."
+    },
+    {
+      "start": 1157.55,
+      "end": 1164.53,
+      "timestamp": "19:17",
+      "text": "Pra que elas sejam indispensáveis praquilo que ela faz no dia a dia dela, que ela perde tempo."
+    },
+    {
+      "start": 1164.53,
+      "end": 1166.46,
+      "timestamp": "19:24",
+      "text": "Lendo e-mail, lendo Slack."
+    },
+    {
+      "start": 1166.46,
+      "end": 1168.84,
+      "timestamp": "19:26",
+      "text": "Cara Quem não quiser, está fora."
+    },
+    {
+      "start": 1168.84,
+      "end": 1172.48,
+      "timestamp": "19:28",
+      "text": "E é a mesma coisa que a gente está vivendo agora."
+    },
+    {
+      "start": 1172.48,
+      "end": 1183.85,
+      "timestamp": "19:32",
+      "text": "E você que está me ouvindo aqui, cara, eu estou falando nesse tom mais agressivo, mais inconformado, porque é muito simples, galera, é muito simples, pô."
+    },
+    {
+      "start": 1183.85,
+      "end": 1184.89,
+      "timestamp": "19:43",
+      "text": "É muito fácil."
+    },
+    {
+      "start": 1184.89,
+      "end": 1193.81,
+      "timestamp": "19:44",
+      "text": "Ah, lógico, quero fazer um sistema mega pau do que não sei o quê, que não sei o quê, que vai tratar milhões de clientes."
+    },
+    {
+      "start": 1193.81,
+      "end": 1196.56,
+      "timestamp": "19:53",
+      "text": "Você vai conseguir fazer vibe coding?"
+    },
+    {
+      "start": 1196.56,
+      "end": 1196.86,
+      "timestamp": "19:56",
+      "text": "Vai."
+    },
+    {
+      "start": 1196.86,
+      "end": 1197.9,
+      "timestamp": "19:56",
+      "text": "Vai dar certo?"
+    },
+    {
+      "start": 1197.9,
+      "end": 1198.94,
+      "timestamp": "19:57",
+      "text": "Vai funcionar?"
+    },
+    {
+      "start": 1198.94,
+      "end": 1199.23,
+      "timestamp": "19:58",
+      "text": "Vai."
+    },
+    {
+      "start": 1199.23,
+      "end": 1202.43,
+      "timestamp": "19:59",
+      "text": "Mas você vai depender da sua empresa disso?"
+    },
+    {
+      "start": 1202.43,
+      "end": 1206.52,
+      "timestamp": "20:02",
+      "text": "Pô, pega daí uma galera boa, de tech, olha a segurança."
+    },
+    {
+      "start": 1206.52,
+      "end": 1209.71,
+      "timestamp": "20:06",
+      "text": "Mas o MVP você fez, você testou o conceito."
+    },
+    {
+      "start": 1209.71,
+      "end": 1213.65,
+      "timestamp": "20:09",
+      "text": "Cara, você coloca 5, 10, 100, 200 pessoas, funcionou?"
+    },
+    {
+      "start": 1213.65,
+      "end": 1214.1,
+      "timestamp": "20:13",
+      "text": "Legal."
+    },
+    {
+      "start": 1214.1,
+      "end": 1217.96,
+      "timestamp": "20:14",
+      "text": "Quanto tempo eu gastei para testar uma ideia rápido?"
+    },
+    {
+      "start": 1217.96,
+      "end": 1220.41,
+      "timestamp": "20:17",
+      "text": "Uma hora, duas horas, três horas."
+    },
+    {
+      "start": 1220.41,
+      "end": 1222.27,
+      "timestamp": "20:20",
+      "text": "Testou, está funcionando?"
+    },
+    {
+      "start": 1222.27,
+      "end": 1227.4,
+      "timestamp": "20:22",
+      "text": "Escala, que sempre foi o conceito que a gente usou para tudo na vida."
+    },
+    {
+      "start": 1227.4,
+      "end": 1231.78,
+      "timestamp": "20:27",
+      "text": "Então agora o que a gente quer fazer e está fazendo é isso."
+    },
+    {
+      "start": 1231.78,
+      "end": 1234.68,
+      "timestamp": "20:31",
+      "text": "Estamos empurrando para o time inteiro."
+    },
+    {
+      "start": 1234.68,
+      "end": 1240.25,
+      "timestamp": "20:34",
+      "text": "Vamos fazer agora um hackathon, que inclusive a gente precisa combinar, né?"
+    },
+    {
+      "start": 1240.25,
+      "end": 1243.74,
+      "timestamp": "20:40",
+      "text": "Porque eu gostaria que vocês estivessem juntos."
+    },
+    {
+      "start": 1243.74,
+      "end": 1247.24,
+      "timestamp": "20:43",
+      "text": "Não, Tales já me afirmou que eu estou escalado."
+    },
+    {
+      "start": 1247.24,
+      "end": 1247.53,
+      "timestamp": "20:47",
+      "text": "Boa."
+    },
+    {
+      "start": 1247.53,
+      "end": 1269.6,
+      "timestamp": "20:47",
+      "text": "Então, cara, o que a gente vai fazer com o time, vai dar as ferramentas para o time, vai puxar isso, porque uma vez que todo mundo percebe que é tão simples e tão fácil, até o meu SDR que está lá na ponta, cara, fazendo call o dia inteiro, ele vai falar, cara, isso que eu faço é muito repetitivo."
+    },
+    {
+      "start": 1269.6,
+      "end": 1272.43,
+      "timestamp": "21:09",
+      "text": "Deve ter um jeito mais fácil de fazer."
+    },
+    {
+      "start": 1272.43,
+      "end": 1281.19,
+      "timestamp": "21:12",
+      "text": "Daí ele vai falar, putz, mas se eu fizer isso e perder esse tempo, talvez eu não vou conseguir fazer o que eu preciso."
+    },
+    {
+      "start": 1281.19,
+      "end": 1298.21,
+      "timestamp": "21:21",
+      "text": "Mas eu posso levantar a mão aqui para o meu coordenador, o meu coordenador vai chegar lá para o time do João ou para o time de alguém e falar, galera, eu faço isso todo dia, a mesma coisa, eu sei que dá, porque eu aprendi que dá."
+    },
+    {
+      "start": 1298.21,
+      "end": 1302.37,
+      "timestamp": "21:38",
+      "text": "Eu posso eu fazer aqui, mas vai funcionar mais ou menos?"
+    },
+    {
+      "start": 1302.37,
+      "end": 1309.36,
+      "timestamp": "21:42",
+      "text": "Ou vocês podem, cara, colocar alguém aqui, porque isso daqui é um negócio que não faz sentido."
+    },
+    {
+      "start": 1309.36,
+      "end": 1309.88,
+      "timestamp": "21:49",
+      "text": "Acabou."
+    },
+    {
+      "start": 1309.88,
+      "end": 1324.59,
+      "timestamp": "21:49",
+      "text": "Então, a partir do momento que as pessoas começam a saber aquilo que elas não sabem, elas começam a ver o mundo dela em vez de estar aqui, igual aquele cavalo do interior com tapa-olho, o cara abre."
+    },
+    {
+      "start": 1324.59,
+      "end": 1328.68,
+      "timestamp": "22:04",
+      "text": "Não é abre de 180, é abre 360, cara, tua mente explode."
+    },
+    {
+      "start": 1328.68,
+      "end": 1337.82,
+      "timestamp": "22:08",
+      "text": "Aí você fala, olha o tanto de coisa que dá para fazer, meu Deus do céu, como eu perdi tanto tempo pedindo para a Dev, cara."
+    },
+    {
+      "start": 1337.82,
+      "end": 1350.15,
+      "timestamp": "22:17",
+      "text": "E, cara, hoje é quatro horas que a gente colocou aqui, que a gente integrou todas as bases de dados nossa lá, colocou alguns layers, facilitam muito o time trabalhar."
+    },
+    {
+      "start": 1350.15,
+      "end": 1357.66,
+      "timestamp": "22:30",
+      "text": "Cara, era relatório que era seis meses a gente pedindo para o time que eles não davam conta de fazer."
+    },
+    {
+      "start": 1357.66,
+      "end": 1360.18,
+      "timestamp": "22:37",
+      "text": "Cara, em 15 minutos deu uma query."
+    },
+    {
+      "start": 1360.18,
+      "end": 1362.19,
+      "timestamp": "22:40",
+      "text": "A gente colocou no Discord."
+    },
+    {
+      "start": 1362.19,
+      "end": 1362.41,
+      "timestamp": "22:42",
+      "text": "Oi?"
+    },
+    {
+      "start": 1362.41,
+      "end": 1364.42,
+      "timestamp": "22:42",
+      "text": "A gente colocou no Discord."
+    },
+    {
+      "start": 1364.42,
+      "end": 1376.75,
+      "timestamp": "22:44",
+      "text": "Então, aqui é o meu bot de dados, qualquer coisa que eu pergunto aqui para ele de dados, quanto eu estou vendendo, quanto eu estou não sei o quê, tudo o que eu tenho."
+    },
+    {
+      "start": 1376.75,
+      "end": 1379.72,
+      "timestamp": "22:56",
+      "text": "Então, para a gente que é mais de dados."
+    },
+    {
+      "start": 1379.72,
+      "end": 1386.56,
+      "timestamp": "22:59",
+      "text": "Mas só para fechar essa linha de raciocínio, é uma coisa que eu acho que é super importante."
+    },
+    {
+      "start": 1386.56,
+      "end": 1391.84,
+      "timestamp": "23:06",
+      "text": "Eu gosto dessa linha de pegar e ir fechando essas linhas de raciocínio."
+    },
+    {
+      "start": 1391.84,
+      "end": 1394.51,
+      "timestamp": "23:11",
+      "text": "Não é só para ver se eu entendi bem."
+    },
+    {
+      "start": 1394.51,
+      "end": 1411.53,
+      "timestamp": "23:14",
+      "text": "Então, assim, a data lógica da gente pensar, ela é assim, olha, o primeiro passo para implementar e para jogar esse jogo é o dono ou os sócios, o dono, as lideranças principais, elas precisam meter a mão na massa e entrar no mar."
+    },
+    {
+      "start": 1411.53,
+      "end": 1416.8,
+      "timestamp": "23:31",
+      "text": "Ou seja, não adianta ela falar para o time, eu quero que vocês usem AI."
+    },
+    {
+      "start": 1416.8,
+      "end": 1423.12,
+      "timestamp": "23:36",
+      "text": "Não adianta ela pegar desse podcast e mandar para o time, façam isso, se ela não faz."
+    },
+    {
+      "start": 1423.12,
+      "end": 1425.79,
+      "timestamp": "23:43",
+      "text": "Óbvio que a tropa é espelho do guia."
+    },
+    {
+      "start": 1425.79,
+      "end": 1431.89,
+      "timestamp": "23:45",
+      "text": "Você falou muito isso, a empresa faz no exército, então assim, eu sigo isso muito."
+    },
+    {
+      "start": 1431.89,
+      "end": 1458.71,
+      "timestamp": "23:51",
+      "text": "Então, a tua linha de raciocínio é, primeiro o dono coloca a mão, ele entendeu o que dá para fazer na prática, ele viu, ele fez e como a gente está falando aqui, ninguém aqui é programador, ninguém aqui é desenvolvedor, o nosso produto Viverdear foi só o Rafa que fez, sozinho e ele não é programador, ele fez todo um produto de tecnologia e continua ele mesmo."
+    },
+    {
+      "start": 1458.71,
+      "end": 1463.32,
+      "timestamp": "24:18",
+      "text": "Cara, precisa entender muito mais de produto do que de código."
+    },
+    {
+      "start": 1463.32,
+      "end": 1466.14,
+      "timestamp": "24:23",
+      "text": "Muito mais, produto é mais importante."
+    },
+    {
+      "start": 1466.14,
+      "end": 1470.01,
+      "timestamp": "24:26",
+      "text": "E AI depois disso, ele começa a escalar para o time."
+    },
+    {
+      "start": 1470.01,
+      "end": 1473.57,
+      "timestamp": "24:30",
+      "text": "E aí eu quero colocar uma pergunta aqui para ti."
+    },
+    {
+      "start": 1473.57,
+      "end": 1481.45,
+      "timestamp": "24:33",
+      "text": "Na tua visão, isso é, vai ter ali um time de duas, três, quatro, cinco, anyway, X pessoas para tocar isso?"
+    },
+    {
+      "start": 1481.45,
+      "end": 1489.62,
+      "timestamp": "24:41",
+      "text": "Vai ser uma área de tecnologia ou vai ser todas as empresas precisam ter o nível e não depender de uma pessoa?"
+    },
+    {
+      "start": 1489.62,
+      "end": 1494.01,
+      "timestamp": "24:49",
+      "text": "Como que tu vê no dia a dia uma empresa colocando IA mesmo?"
+    },
+    {
+      "start": 1494.01,
+      "end": 1500.4,
+      "timestamp": "24:54",
+      "text": "Depois que o dono já pegou, vou trazer para baixo, é top down, é todo mundo, uma área?"
+    },
+    {
+      "start": 1500.4,
+      "end": 1503.07,
+      "timestamp": "25:00",
+      "text": "Como que tu pensa isso no dia a dia?"
+    },
+    {
+      "start": 1503.07,
+      "end": 1539.19,
+      "timestamp": "25:03",
+      "text": "Cara, ótima pergunta e eu acho que tem diferentes approaches que podem ser feitos e tem um approach que a gente começou a fazer quando as ferramentas não tinham a tecnologia e tudo tão avançado como tem hoje, que foi, deixa eu pegar um time separado, que era o time do João, que já era um time de produto, tech, operações, e vamos colocar para eles aprenderem e eles serem um time ali de um squad de cinco, dez pessoas, eles vão ser os agentes transformadores disso dentro da companhia."
+    },
+    {
+      "start": 1539.19,
+      "end": 1540.9,
+      "timestamp": "25:39",
+      "text": "Qual que é o pró disso?"
+    },
+    {
+      "start": 1540.9,
+      "end": 1546.99,
+      "timestamp": "25:40",
+      "text": "É um time que vai passando área a área, entendendo os problemas e resolvendo eles."
+    },
+    {
+      "start": 1546.99,
+      "end": 1548.47,
+      "timestamp": "25:46",
+      "text": "Qual o contra disso?"
+    },
+    {
+      "start": 1548.47,
+      "end": 1556.95,
+      "timestamp": "25:48",
+      "text": "É um time com cinco, dez pessoas que não consegue fazer tudo e não consegue saber na ponta o que está acontecendo."
+    },
+    {
+      "start": 1556.95,
+      "end": 1570.77,
+      "timestamp": "25:56",
+      "text": "Eles vão avaliar tudo, falar qual que é o ROI de cada um, então o que é o que eu vou fazer com menos esforço que vai me dar mais resultado e vai priorizar na fila para fazer isso, certo?"
+    },
+    {
+      "start": 1570.77,
+      "end": 1573.07,
+      "timestamp": "26:10",
+      "text": "Que é o que foi feito lá atrás."
+    },
+    {
+      "start": 1573.07,
+      "end": 1604.65,
+      "timestamp": "26:13",
+      "text": "Porém, seis meses para cá, as ferramentas mudaram tanto de patamar, entraram tanto no nível de você consegue fazer coisas absurdas com uma assertividade tão grande de uma maneira tão fácil que o meu ponto de vista é joga para todo mundo, empurra para todo mundo, tenha um dono, um capitão, a pessoa que vai garantir que tudo que está sendo feito e as coisas que estão virando live ainda mais dependendo do tamanho da empresa."
+    },
+    {
+      "start": 1604.65,
+      "end": 1607.85,
+      "timestamp": "26:44",
+      "text": "Cara, você vai me pedir cinco, dez pessoas?"
+    },
+    {
+      "start": 1607.85,
+      "end": 1613.27,
+      "timestamp": "26:47",
+      "text": "Foda-se, faz o que for, manda a bala, faz acontecer que é a melhor coisa."
+    },
+    {
+      "start": 1613.27,
+      "end": 1619.59,
+      "timestamp": "26:53",
+      "text": "Até 40, 50, isso é mais para uso interno, só garante que tenha um layer de segurança."
+    },
+    {
+      "start": 1619.59,
+      "end": 1635.64,
+      "timestamp": "26:59",
+      "text": "Mas cara, a maioria das ferramentas tem para não vazar teu banco de dados, para não vazar, cara, coisas, mas assim, e mesmo se vazar, se não tiver dado de cliente, o que teu concorrente vai fazer com teu faturamento?"
+    },
+    {
+      "start": 1635.64,
+      "end": 1639.2,
+      "timestamp": "27:15",
+      "text": "Mas mais o time interno ou prestação de serviço?"
+    },
+    {
+      "start": 1639.2,
+      "end": 1643.14,
+      "timestamp": "27:19",
+      "text": "Contrato uma empresa para fazer para mim ou meu time?"
+    },
+    {
+      "start": 1643.14,
+      "end": 1663.35,
+      "timestamp": "27:23",
+      "text": "Cara, eu acho que o seu time tem que ter a skill de fazer, você precisa ter algum capitão dentro do time que vai ser a pessoa dona daquilo para garantir que aquilo ande e que os grandes projetos que são pedra fundamental para o teu negócio sejam feitos da maneira correta."
+    },
+    {
+      "start": 1663.35,
+      "end": 1669.67,
+      "timestamp": "27:43",
+      "text": "Então, vou fazer um CRM novo na minha empresa para de usar o HubSpot ou o Salesforce."
+    },
+    {
+      "start": 1669.67,
+      "end": 1681.48,
+      "timestamp": "27:49",
+      "text": "Meu amigo, desculpa, você acorda a tua empresa, você tem que fazer isso bem feito, se você é uma empresa do tamanho do G4 que vai faturar 750 milhões esse ano."
+    },
+    {
+      "start": 1681.48,
+      "end": 1690.55,
+      "timestamp": "28:01",
+      "text": "Não dá para eu pegar isso que é o core da minha empresa e mudar do dia para a noite se não for um negócio muito bem feito."
+    },
+    {
+      "start": 1690.55,
+      "end": 1699.39,
+      "timestamp": "28:10",
+      "text": "Agora, se é uma ferramenta interna para o time financeiro, subir nota, olhar não sei o que de uma maneira mais simples."
+    },
+    {
+      "start": 1699.39,
+      "end": 1701.17,
+      "timestamp": "28:19",
+      "text": "Começa pelos quick wins."
+    },
+    {
+      "start": 1701.17,
+      "end": 1703.63,
+      "timestamp": "28:21",
+      "text": "Começa pelo simples e pelo fácil."
+    },
+    {
+      "start": 1703.63,
+      "end": 1720.42,
+      "timestamp": "28:23",
+      "text": "Agora, na minha cabeça, todo mundo da empresa deveria entender sobre o tema mesmo que no dia a dia não use muito porque às vezes a pessoa tem um trabalho ali que já automatizou ao máximo, mas ela precisa estar ali trabalhando."
+    },
+    {
+      "start": 1720.42,
+      "end": 1732.76,
+      "timestamp": "28:40",
+      "text": "Quanto mais time, mais pessoas saberem do time, mais na ponta você tem, mais na ponta a pessoa sabe o problema que ela tem na ponta, que é o que ela faz no dia a dia."
+    },
+    {
+      "start": 1732.76,
+      "end": 1743.6,
+      "timestamp": "28:52",
+      "text": "E se ela sabe que aquilo é automatizável ou ela pode fazer e ela automatizava, ela pode pedir para alguém fazer porque ela sabe que dá para fazer."
+    },
+    {
+      "start": 1743.6,
+      "end": 1744.05,
+      "timestamp": "29:03",
+      "text": "Legal."
+    },
+    {
+      "start": 1744.05,
+      "end": 1750.81,
+      "timestamp": "29:04",
+      "text": "Aí a gente, só para, eu quero ver nessa pergunta porque eu acho que tem mais uma fase dela."
+    },
+    {
+      "start": 1750.81,
+      "end": 1752.6,
+      "timestamp": "29:10",
+      "text": "Então a gente fez o quê?"
+    },
+    {
+      "start": 1752.6,
+      "end": 1754.53,
+      "timestamp": "29:12",
+      "text": "O dono foi lá da aprender."
+    },
+    {
+      "start": 1754.53,
+      "end": 1755.05,
+      "timestamp": "29:14",
+      "text": "Beleza."
+    },
+    {
+      "start": 1755.05,
+      "end": 1756.9,
+      "timestamp": "29:15",
+      "text": "Ele meteu a mão na massa."
+    },
+    {
+      "start": 1756.9,
+      "end": 1757.95,
+      "timestamp": "29:16",
+      "text": "Segundo nível."
+    },
+    {
+      "start": 1757.95,
+      "end": 1767.23,
+      "timestamp": "29:17",
+      "text": "Todo time fez um hackathon, treinou o time, contratou uma pessoa que sabe, colocou o time no verdear para todo mundo estudar."
+    },
+    {
+      "start": 1767.23,
+      "end": 1768.42,
+      "timestamp": "29:27",
+      "text": "Enfim, N formas."
+    },
+    {
+      "start": 1768.42,
+      "end": 1772.14,
+      "timestamp": "29:28",
+      "text": "Comprou aqui, a academia de AI para o time, enfim."
+    },
+    {
+      "start": 1772.14,
+      "end": 1777.49,
+      "timestamp": "29:32",
+      "text": "Depois ele vai em um outro ponto que é, tá legal, agora eu sei meu time."
+    },
+    {
+      "start": 1777.49,
+      "end": 1778.68,
+      "timestamp": "29:37",
+      "text": "Começo por onde?"
+    },
+    {
+      "start": 1778.68,
+      "end": 1787.0,
+      "timestamp": "29:38",
+      "text": "Ou seja, começo a atacar por que PIs que eu estou vendo que eu não estou atingindo e como resolvo eles com o IA?"
+    },
+    {
+      "start": 1787.0,
+      "end": 1794.8,
+      "timestamp": "29:46",
+      "text": "Não, começo a Automatizar a vida dele, trazer contexto para ele fazer aquela venda acontecer mais rápido."
+    },
+    {
+      "start": 1794.8,
+      "end": 1798.52,
+      "timestamp": "29:54",
+      "text": "Foi a primeira coisa que a gente olhou aqui no G4."
+    },
+    {
+      "start": 1798.52,
+      "end": 1800.6,
+      "timestamp": "29:58",
+      "text": "Foi vendedor e pré-vendedor."
+    },
+    {
+      "start": 1800.6,
+      "end": 1807.06,
+      "timestamp": "30:00",
+      "text": "Então a gente olhou lá, cara, como que esse vendedor se relaciona melhor com o cliente?"
+    },
+    {
+      "start": 1807.06,
+      "end": 1814.27,
+      "timestamp": "30:07",
+      "text": "Então a gente já puxava de qual indústria que aquele oportunidade ia e eu trazia, cara, 10 cases."
+    },
+    {
+      "start": 1814.27,
+      "end": 1817.02,
+      "timestamp": "30:14",
+      "text": "Esse foi o comecinho, lá atrás, 2020."
+    },
+    {
+      "start": 1817.02,
+      "end": 1818.36,
+      "timestamp": "30:17",
+      "text": "Fim de 2022, 2023."
+    },
+    {
+      "start": 1818.36,
+      "end": 1825.49,
+      "timestamp": "30:18",
+      "text": "Trazer 10 cases de cara do mesmo setor que passaram no G4, porque eu estou criando prova social."
+    },
+    {
+      "start": 1825.49,
+      "end": 1828.02,
+      "timestamp": "30:25",
+      "text": "Ah, você é do setor de construção?"
+    },
+    {
+      "start": 1828.02,
+      "end": 1834.56,
+      "timestamp": "30:28",
+      "text": "Já veio a turma da Cirela, já veio a turma de não sei o quê, já veio a turma da Vitacom."
+    },
+    {
+      "start": 1834.56,
+      "end": 1839.91,
+      "timestamp": "30:34",
+      "text": "Cara, e você, pelo telefone do cara, você sabe mais ou menos o CEP dele."
+    },
+    {
+      "start": 1839.91,
+      "end": 1845.33,
+      "timestamp": "30:39",
+      "text": "E você que é aí do Sul, tem essa e essa e essa empresa que são aí do Sul."
+    },
+    {
+      "start": 1845.33,
+      "end": 1846.89,
+      "timestamp": "30:45",
+      "text": "De que cidade você é?"
+    },
+    {
+      "start": 1846.89,
+      "end": 1848.15,
+      "timestamp": "30:46",
+      "text": "Ah, de Balneário?"
+    },
+    {
+      "start": 1848.15,
+      "end": 1851.72,
+      "timestamp": "30:48",
+      "text": "Pô, tem esse cara dessa empresa aí de Balneário."
+    },
+    {
+      "start": 1851.72,
+      "end": 1852.98,
+      "timestamp": "30:51",
+      "text": "Você conhece ele?"
+    },
+    {
+      "start": 1852.98,
+      "end": 1853.58,
+      "timestamp": "30:52",
+      "text": "Conheço."
+    },
+    {
+      "start": 1853.58,
+      "end": 1858.56,
+      "timestamp": "30:53",
+      "text": "Pois é, liga para ele e pergunta como foi a experiência dele no G4."
+    },
+    {
+      "start": 1858.56,
+      "end": 1865.91,
+      "timestamp": "30:58",
+      "text": "Só que é um contexto que o vendedor, para ele achar isso num banco de dados, ele não vai conseguir."
+    },
+    {
+      "start": 1865.91,
+      "end": 1871.34,
+      "timestamp": "31:05",
+      "text": "Cara, a gente plugou, trouxe um monte de coisa ali fácil para o cara ver."
+    },
+    {
+      "start": 1871.34,
+      "end": 1871.63,
+      "timestamp": "31:11",
+      "text": "Uau!"
+    },
+    {
+      "start": 1871.63,
+      "end": 1875.94,
+      "timestamp": "31:11",
+      "text": "Então, começa o mais perto da venda e vai subindo o funil."
+    },
+    {
+      "start": 1875.94,
+      "end": 1878.54,
+      "timestamp": "31:15",
+      "text": "Ou seja, de uma engenharia reversa."
+    },
+    {
+      "start": 1878.54,
+      "end": 1879.06,
+      "timestamp": "31:18",
+      "text": "É isso."
+    },
+    {
+      "start": 1879.06,
+      "end": 1881.67,
+      "timestamp": "31:19",
+      "text": "Porque, cara, é o meu jeito de ver."
+    },
+    {
+      "start": 1881.67,
+      "end": 1885.46,
+      "timestamp": "31:21",
+      "text": "Tipicamente, ali você já vai destravar muito valor."
+    },
+    {
+      "start": 1885.46,
+      "end": 1896.82,
+      "timestamp": "31:25",
+      "text": "E na hora que você destrava valor, que você coloca uma tecnologia que, cara, com pouco esforço, traz muito resultado, o time inteiro compra aquela ideia."
+    },
+    {
+      "start": 1896.82,
+      "end": 1902.4,
+      "timestamp": "31:36",
+      "text": "O time fala, caramba, a gente melhorou em tanto as vendas, fazendo só isso?"
+    },
+    {
+      "start": 1902.4,
+      "end": 1906.34,
+      "timestamp": "31:42",
+      "text": "Imagina se a gente começar a colocar em outras áreas."
+    },
+    {
+      "start": 1906.34,
+      "end": 1912.35,
+      "timestamp": "31:46",
+      "text": "E daí você vai entendendo o que é gargalo, o que não é gargalo, na tua companhia."
+    },
+    {
+      "start": 1912.35,
+      "end": 1915.85,
+      "timestamp": "31:52",
+      "text": "Então, pode ser que não seja ali o teu gargalo."
+    },
+    {
+      "start": 1915.85,
+      "end": 1918.08,
+      "timestamp": "31:55",
+      "text": "Pode ser que seja na produção."
+    },
+    {
+      "start": 1918.08,
+      "end": 1927.36,
+      "timestamp": "31:58",
+      "text": "Então, eu estava com o Vitor Meirelles aqui, que foi o meu, não é, mas ele foi, entrou como analista lá na Canoe, lá em 2012."
+    },
+    {
+      "start": 1927.36,
+      "end": 1930.48,
+      "timestamp": "32:07",
+      "text": "Ele que entrou para estruturar o nosso BI."
+    },
+    {
+      "start": 1930.48,
+      "end": 1933.83,
+      "timestamp": "32:10",
+      "text": "Então, ele que fez as primeiras coisas de BI."
+    },
+    {
+      "start": 1933.83,
+      "end": 1939.92,
+      "timestamp": "32:13",
+      "text": "E ele era um cara, que ele é engenheiro de computação, e ele era muito preguiçoso."
+    },
+    {
+      "start": 1939.92,
+      "end": 1941.33,
+      "timestamp": "32:19",
+      "text": "É muito preguiçoso."
+    },
+    {
+      "start": 1941.33,
+      "end": 1949.58,
+      "timestamp": "32:21",
+      "text": "Só que ele era um preguiçoso produtivo, que é o jeito que a gente está, né, apelidando esse negócio aqui no G4."
+    },
+    {
+      "start": 1949.58,
+      "end": 1951.14,
+      "timestamp": "32:29",
+      "text": "Preguiçoso produtivo."
+    },
+    {
+      "start": 1951.14,
+      "end": 1953.45,
+      "timestamp": "32:31",
+      "text": "O que é o preguiçoso produtivo?"
+    },
+    {
+      "start": 1953.45,
+      "end": 1959.09,
+      "timestamp": "32:33",
+      "text": "É o cara que não quer repetir duas, três, quatro, cinco vezes a mesma coisa."
+    },
+    {
+      "start": 1959.09,
+      "end": 1961.32,
+      "timestamp": "32:39",
+      "text": "Eu chamava ele de braço curto."
+    },
+    {
+      "start": 1961.32,
+      "end": 1963.55,
+      "timestamp": "32:41",
+      "text": "Cara, para de ser braço curto."
+    },
+    {
+      "start": 1963.55,
+      "end": 1966.23,
+      "timestamp": "32:43",
+      "text": "Porra, cara, para de ser preguiçoso."
+    },
+    {
+      "start": 1966.23,
+      "end": 1969.79,
+      "timestamp": "32:46",
+      "text": "Pega o problema até aí, vai lá e automatiza ele."
+    },
+    {
+      "start": 1969.79,
+      "end": 1975.81,
+      "timestamp": "32:49",
+      "text": "Porque uma vez que você automatizou, cara, começa a puxar com o time, não fica..."
+    },
+    {
+      "start": 1975.81,
+      "end": 1979.75,
+      "timestamp": "32:55",
+      "text": "E, porra, ele foi aprendendo, aprendendo, aprendendo."
+    },
+    {
+      "start": 1979.75,
+      "end": 1986.96,
+      "timestamp": "32:59",
+      "text": "E, cara, ele é um dos caras que, assim, um dos caras mais fodas quando você pensa em BI, negócio."
+    },
+    {
+      "start": 1986.96,
+      "end": 1993.05,
+      "timestamp": "33:06",
+      "text": "E hoje, ele saiu lá da empresa dele e foi tocar a empresa de pães da família dele."
+    },
+    {
+      "start": 1993.05,
+      "end": 1999.37,
+      "timestamp": "33:13",
+      "text": "Meu amigo, o tanto de AI que ele colocou para fazer pão, não está escrito no negócio."
+    },
+    {
+      "start": 1999.37,
+      "end": 2005.01,
+      "timestamp": "33:19",
+      "text": "Se um cara conseguiu colocar AI numa fábrica de pão, como você não consegue?"
+    },
+    {
+      "start": 2005.01,
+      "end": 2008.36,
+      "timestamp": "33:25",
+      "text": "Daí o cara fala, mas o que ele colocou de AI?"
+    },
+    {
+      "start": 2008.36,
+      "end": 2009.92,
+      "timestamp": "33:28",
+      "text": "Gente, não precisa..."
+    },
+    {
+      "start": 2009.92,
+      "end": 2011.63,
+      "timestamp": "33:29",
+      "text": "Não é para fazer o pão."
+    },
+    {
+      "start": 2011.63,
+      "end": 2015.86,
+      "timestamp": "33:31",
+      "text": "É, mas não precisa achar que é coisa de outro mundo, não."
+    },
+    {
+      "start": 2015.86,
+      "end": 2016.9,
+      "timestamp": "33:35",
+      "text": "O que ele fez?"
+    },
+    {
+      "start": 2016.9,
+      "end": 2019.43,
+      "timestamp": "33:36",
+      "text": "Ele mapeou cada etapa do processo."
+    },
+    {
+      "start": 2019.43,
+      "end": 2027.6,
+      "timestamp": "33:39",
+      "text": "Falou, pô, hoje o meu cara lá que faz pão, ele vai fazer a massa e vai passar essa massa para o próximo etapa."
+    },
+    {
+      "start": 2027.6,
+      "end": 2032.95,
+      "timestamp": "33:47",
+      "text": "Só que o cara da próxima etapa vai falar, pô, mas essa massa é para quê?"
+    },
+    {
+      "start": 2032.95,
+      "end": 2034.59,
+      "timestamp": "33:52",
+      "text": "Para fazer hambúrguer?"
+    },
+    {
+      "start": 2034.59,
+      "end": 2036.15,
+      "timestamp": "33:54",
+      "text": "Precisa pôr gergelim?"
+    },
+    {
+      "start": 2036.15,
+      "end": 2042.84,
+      "timestamp": "33:56",
+      "text": "Cara, tinha um monte de erro, porque são pessoas conduzindo as coisas com zero tecnologia."
+    },
+    {
+      "start": 2042.84,
+      "end": 2044.4,
+      "timestamp": "34:02",
+      "text": "Ele usou AI para quê?"
+    },
+    {
+      "start": 2044.4,
+      "end": 2048.48,
+      "timestamp": "34:04",
+      "text": "Para vibe, codar os sistemas de cada uma dessas etapas."
+    },
+    {
+      "start": 2048.48,
+      "end": 2053.69,
+      "timestamp": "34:08",
+      "text": "Então, ele pegava lá e falou, eu preciso de um sistema aqui de pedido."
+    },
+    {
+      "start": 2053.69,
+      "end": 2057.1,
+      "timestamp": "34:13",
+      "text": "Então, todos os pedidos entram para o sistema."
+    },
+    {
+      "start": 2057.1,
+      "end": 2066.84,
+      "timestamp": "34:17",
+      "text": "Na hora que o pedido entra para o sistema, eu já sei quantas unidades eu vou precisar fazer de cada tipo de pão, para qual momento?"
+    },
+    {
+      "start": 2066.84,
+      "end": 2072.78,
+      "timestamp": "34:26",
+      "text": "Eu sei, para fazer tantos desses pães, o quanto que eu preciso de matéria-prima."
+    },
+    {
+      "start": 2072.78,
+      "end": 2075.98,
+      "timestamp": "34:32",
+      "text": "Eu tenho essa matéria-prima no meu estoque?"
+    },
+    {
+      "start": 2075.98,
+      "end": 2076.42,
+      "timestamp": "34:35",
+      "text": "Tenho?"
+    },
+    {
+      "start": 2076.42,
+      "end": 2077.17,
+      "timestamp": "34:36",
+      "text": "Não tenho?"
+    },
+    {
+      "start": 2077.17,
+      "end": 2079.4,
+      "timestamp": "34:37",
+      "text": "Quanto que eu preciso comprar?"
+    },
+    {
+      "start": 2079.4,
+      "end": 2082.22,
+      "timestamp": "34:39",
+      "text": "Em que momento que eu preciso comprar?"
+    },
+    {
+      "start": 2082.22,
+      "end": 2084.67,
+      "timestamp": "34:42",
+      "text": "Porque os pedidos estão entrando."
+    },
+    {
+      "start": 2084.67,
+      "end": 2093.22,
+      "timestamp": "34:44",
+      "text": "Uma vez que eu lanço, eu consigo ter uma visibilidade melhor da minha semana, o que eu vou colocar em cada momento."
+    },
+    {
+      "start": 2093.22,
+      "end": 2101.54,
+      "timestamp": "34:53",
+      "text": "Então, eu preciso fazer o pão de hambúrguer tal, que é o que mais tem pedido e preciso entregar até sexta-feira?"
+    },
+    {
+      "start": 2101.54,
+      "end": 2114.02,
+      "timestamp": "35:01",
+      "text": "Cara, vou colocar lá no meu almoxerifado, para ele separar lá os pedidos e vou colocar a parte da manhã e a parte da tarde e a parte da manhã, segunda e terça de manhã."
+    },
+    {
+      "start": 2114.02,
+      "end": 2121.01,
+      "timestamp": "35:14",
+      "text": "Cara, isso daqui já está tudo no sistema enquadrado, quando vão ser as fornadas de cada coisa."
+    },
+    {
+      "start": 2121.01,
+      "end": 2124.35,
+      "timestamp": "35:21",
+      "text": "O time lá pega, pega os produtos, pesa, bipa."
+    },
+    {
+      "start": 2124.35,
+      "end": 2129.4,
+      "timestamp": "35:24",
+      "text": "Cara, bipa, como que eu faço o aperto de mão entre uma área e outra?"
+    },
+    {
+      "start": 2129.4,
+      "end": 2133.71,
+      "timestamp": "35:29",
+      "text": "Saiu do almoxerifado, agora vai para o cara fazer a massa."
+    },
+    {
+      "start": 2133.71,
+      "end": 2137.5,
+      "timestamp": "35:33",
+      "text": "O cara vai fazer a massa, o que eu tenho que fazer?"
+    },
+    {
+      "start": 2137.5,
+      "end": 2142.48,
+      "timestamp": "35:37",
+      "text": "Ele bipa as coisas de novo, vê isso daqui o que você precisa fazer."
+    },
+    {
+      "start": 2142.48,
+      "end": 2146.57,
+      "timestamp": "35:42",
+      "text": "Então mistura isso, faz, vai sair tanto em tanto tempo."
+    },
+    {
+      "start": 2146.57,
+      "end": 2150.95,
+      "timestamp": "35:46",
+      "text": "Então ele começou a cada área conseguir colocar tecnologia."
+    },
+    {
+      "start": 2150.95,
+      "end": 2160.61,
+      "timestamp": "35:50",
+      "text": "Tecnologia é só uma plataforma, colocou as TVs lá para a galera ver o que estava acontecendo, o sistema que tudo ele criou com IA."
+    },
+    {
+      "start": 2160.61,
+      "end": 2177.93,
+      "timestamp": "36:00",
+      "text": "O criar com IA no fim do dia é fazer os prompts, que antes ele precisaria de 10 devs para fazer tudo o que ele fez, ele fez em uma semana o sistema inteiro da fábrica dele e começou a testar, testar, testar, arrumou bug, arrumou bug."
+    },
+    {
+      "start": 2177.93,
+      "end": 2183.94,
+      "timestamp": "36:17",
+      "text": "Cara, em coisa de duas semanas, uma semana e meia, ele sozinho mudou tudo aquilo."
+    },
+    {
+      "start": 2183.94,
+      "end": 2188.63,
+      "timestamp": "36:23",
+      "text": "Só que ele, de novo, vem do histórico de saber muito bem disso."
+    },
+    {
+      "start": 2188.63,
+      "end": 2192.04,
+      "timestamp": "36:28",
+      "text": "E tem muita gente que nem sabe o que não sabe."
+    },
+    {
+      "start": 2192.04,
+      "end": 2204.6,
+      "timestamp": "36:32",
+      "text": "Daí, né, graças a Deus, além de perguntar para o João para a IA, eu peguei lá o Viver de A que vocês já liberaram para a gente faz muito tempo e, cara, eu comecei a ver."
+    },
+    {
+      "start": 2204.6,
+      "end": 2209.58,
+      "timestamp": "36:44",
+      "text": "Agora, meu fim de semana agora, é ver as aulinhas todas do Lovable."
+    },
+    {
+      "start": 2209.58,
+      "end": 2211.44,
+      "timestamp": "36:49",
+      "text": "Embora, formação Lovable."
+    },
+    {
+      "start": 2211.44,
+      "end": 2213.3,
+      "timestamp": "36:51",
+      "text": "Aprender tudo do Lovable."
+    },
+    {
+      "start": 2213.3,
+      "end": 2215.15,
+      "timestamp": "36:53",
+      "text": "Colocou a família também."
+    },
+    {
+      "start": 2215.15,
+      "end": 2223.03,
+      "timestamp": "36:55",
+      "text": "Pô, coloquei minha família inteira também, cara, porque eu falei para a galera, cara, eu estou tão pirado."
+    },
+    {
+      "start": 2223.03,
+      "end": 2225.41,
+      "timestamp": "37:03",
+      "text": "Você está igual eu, você está..."
+    },
+    {
+      "start": 2225.41,
+      "end": 2227.64,
+      "timestamp": "37:05",
+      "text": "Sabe o que aconteceu com você?"
+    },
+    {
+      "start": 2227.64,
+      "end": 2236.55,
+      "timestamp": "37:07",
+      "text": "Eu sou cristão, e eu acho que o cristão, quando ele se revela cristão, ele é tão bom que ele quer contar para os outros."
+    },
+    {
+      "start": 2236.55,
+      "end": 2238.86,
+      "timestamp": "37:16",
+      "text": "E eu estou evangelizador da IA."
+    },
+    {
+      "start": 2238.86,
+      "end": 2241.09,
+      "timestamp": "37:18",
+      "text": "Eu sou um evangelizador da IA."
+    },
+    {
+      "start": 2241.09,
+      "end": 2243.84,
+      "timestamp": "37:21",
+      "text": "Você acabou de entrar para a minha..."
+    },
+    {
+      "start": 2243.84,
+      "end": 2247.03,
+      "timestamp": "37:23",
+      "text": "E você está evangelizando os outros também."
+    },
+    {
+      "start": 2247.03,
+      "end": 2248.89,
+      "timestamp": "37:27",
+      "text": "Para a seita da IA, cara."
+    },
+    {
+      "start": 2248.89,
+      "end": 2252.01,
+      "timestamp": "37:28",
+      "text": "Você falou assim, cara, isso é bom demais."
+    },
+    {
+      "start": 2252.01,
+      "end": 2252.83,
+      "timestamp": "37:32",
+      "text": "Gente, vem."
+    },
+    {
+      "start": 2252.83,
+      "end": 2253.72,
+      "timestamp": "37:32",
+      "text": "Isso aqui..."
+    },
+    {
+      "start": 2253.72,
+      "end": 2255.13,
+      "timestamp": "37:33",
+      "text": "Então, é real isso."
+    },
+    {
+      "start": 2255.13,
+      "end": 2256.77,
+      "timestamp": "37:35",
+      "text": "E não é só isso, cara."
+    },
+    {
+      "start": 2256.77,
+      "end": 2260.41,
+      "timestamp": "37:36",
+      "text": "É um negócio que as pessoas ainda não entenderam."
+    },
+    {
+      "start": 2260.41,
+      "end": 2266.35,
+      "timestamp": "37:40",
+      "text": "Ou elas aprendem, ou elas usam isso ao favor delas, ou elas vão ficar para trás."
+    },
+    {
+      "start": 2266.35,
+      "end": 2285.82,
+      "timestamp": "37:46",
+      "text": "E eu vejo que são poucos meses que isso vai acontecer e a distância entre o profissional que sabe e o profissional que não sabe vai abrir uma boca de jacaré gigantesca que as pessoas que não têm a curiosidade, não querem aprender, cara, elas vão ficar para trás."
+    },
+    {
+      "start": 2285.82,
+      "end": 2293.25,
+      "timestamp": "38:05",
+      "text": "Então, eu já mandei lá, eu mandei essa semana agora, falei, brother, libera para essas pessoas aqui."
+    },
+    {
+      "start": 2293.25,
+      "end": 2297.78,
+      "timestamp": "38:13",
+      "text": "Tipo, a minha irmã, o meu cunhado, o meu pai, a minha esposa."
+    },
+    {
+      "start": 2297.78,
+      "end": 2299.05,
+      "timestamp": "38:17",
+      "text": "Teve mais alguém?"
+    },
+    {
+      "start": 2299.05,
+      "end": 2299.42,
+      "timestamp": "38:19",
+      "text": "Teve."
+    },
+    {
+      "start": 2299.42,
+      "end": 2302.09,
+      "timestamp": "38:19",
+      "text": "Eu mando acho que umas 5, 6 pessoas."
+    },
+    {
+      "start": 2302.09,
+      "end": 2304.62,
+      "timestamp": "38:22",
+      "text": "Eu mandei umas 5 pessoas para ele."
+    },
+    {
+      "start": 2304.62,
+      "end": 2305.44,
+      "timestamp": "38:24",
+      "text": "O cachorro."
+    },
+    {
+      "start": 2305.44,
+      "end": 2306.55,
+      "timestamp": "38:25",
+      "text": "Não, meu irmão."
+    },
+    {
+      "start": 2306.55,
+      "end": 2307.29,
+      "timestamp": "38:26",
+      "text": "Meu irmão."
+    },
+    {
+      "start": 2307.29,
+      "end": 2311.83,
+      "timestamp": "38:27",
+      "text": "Eu falei, galera, entra nesse negócio, pega um tema, aprende."
+    },
+    {
+      "start": 2311.83,
+      "end": 2318.22,
+      "timestamp": "38:31",
+      "text": "Eu vou dar duas semanas pra vocês verem o básico e eu vou começar a cobrar projetinho."
+    },
+    {
+      "start": 2318.22,
+      "end": 2323.64,
+      "timestamp": "38:38",
+      "text": "E eu falei, se vocês não quiserem pagar a API de qualquer coisa, me fala."
+    },
+    {
+      "start": 2323.64,
+      "end": 2325.35,
+      "timestamp": "38:43",
+      "text": "Eu já falei, ó, estuda."
+    },
+    {
+      "start": 2325.35,
+      "end": 2331.67,
+      "timestamp": "38:45",
+      "text": "Nem falei, eu vou pagar para vocês as licenças dos softwares para vocês fazerem isso."
+    },
+    {
+      "start": 2331.67,
+      "end": 2336.79,
+      "timestamp": "38:51",
+      "text": "Porque assim, ou vocês fazem, ou vocês vão perder o emprego de vocês."
+    },
+    {
+      "start": 2336.79,
+      "end": 2341.92,
+      "timestamp": "38:56",
+      "text": "E se vocês fizerem antes do resto, vocês vão se destacar pra caramba."
+    },
+    {
+      "start": 2341.92,
+      "end": 2346.6,
+      "timestamp": "39:01",
+      "text": "E a partir do momento que você se destaca, o que vai acontecer?"
+    },
+    {
+      "start": 2346.6,
+      "end": 2350.24,
+      "timestamp": "39:06",
+      "text": "Você vai subir na porra da tua carreira, caramba."
+    },
+    {
+      "start": 2350.24,
+      "end": 2352.25,
+      "timestamp": "39:10",
+      "text": "Ninguém é empreendedor ali."
+    },
+    {
+      "start": 2352.25,
+      "end": 2352.99,
+      "timestamp": "39:12",
+      "text": "Meu pai é."
+    },
+    {
+      "start": 2352.99,
+      "end": 2357.15,
+      "timestamp": "39:12",
+      "text": "A minha irmã foi lá ajudar a tocar o negócio da família."
+    },
+    {
+      "start": 2357.15,
+      "end": 2363.25,
+      "timestamp": "39:17",
+      "text": "Cara, mas o meu pai, com quase 70 anos, falou, filho, eu não posso ficar pra trás."
+    },
+    {
+      "start": 2363.25,
+      "end": 2364.66,
+      "timestamp": "39:23",
+      "text": "Isso é muito legal."
+    },
+    {
+      "start": 2364.66,
+      "end": 2366.29,
+      "timestamp": "39:24",
+      "text": "Eu tenho que aprender."
+    },
+    {
+      "start": 2366.29,
+      "end": 2374.1,
+      "timestamp": "39:26",
+      "text": "Daí eu vi ele no carnaval Pá caramba, mas gente, tem momentos na vida que dividem as crianças dos homens."
+    },
+    {
+      "start": 2374.1,
+      "end": 2379.45,
+      "timestamp": "39:34",
+      "text": "E homem tem que fazer o que tem que ser feito, não aquilo que ele gosta."
+    },
+    {
+      "start": 2379.45,
+      "end": 2383.61,
+      "timestamp": "39:39",
+      "text": "Porque senão eu ficaria tomando sorvete meu dia inteiro."
+    },
+    {
+      "start": 2383.61,
+      "end": 2386.5,
+      "timestamp": "39:43",
+      "text": "Dia inteiro eu ficaria tomando sorvete."
+    },
+    {
+      "start": 2386.5,
+      "end": 2387.77,
+      "timestamp": "39:46",
+      "text": "Meu filho também."
+    },
+    {
+      "start": 2387.77,
+      "end": 2392.0,
+      "timestamp": "39:47",
+      "text": "Ficaria o dia inteiro na TV assistindo TV e comendo doce."
+    },
+    {
+      "start": 2392.0,
+      "end": 2395.12,
+      "timestamp": "39:52",
+      "text": "Só que não é assim que o negócio funciona."
+    },
+    {
+      "start": 2395.12,
+      "end": 2401.07,
+      "timestamp": "39:55",
+      "text": "E eu falo para os meus filhos isso, eu falo para todo mundo que eu já trabalhei."
+    },
+    {
+      "start": 2401.07,
+      "end": 2407.83,
+      "timestamp": "40:01",
+      "text": "Você pode fazer o que você quiser, só aguente as consequências das decisões que você tomou."
+    },
+    {
+      "start": 2407.83,
+      "end": 2416.23,
+      "timestamp": "40:07",
+      "text": "Porque essa decisão que você tomou hoje vai te impactar no curto prazo, no médio prazo, mas muito no longo prazo."
+    },
+    {
+      "start": 2416.23,
+      "end": 2420.46,
+      "timestamp": "40:16",
+      "text": "Porque o composto disso que você faz hoje é muito grande."
+    },
+    {
+      "start": 2420.46,
+      "end": 2426.33,
+      "timestamp": "40:20",
+      "text": "Então o que eu falaria para ele é isso, entenda, tem gente que fez e deu certo."
+    },
+    {
+      "start": 2426.33,
+      "end": 2428.86,
+      "timestamp": "40:26",
+      "text": "Tem gente que fez e não deu certo."
+    },
+    {
+      "start": 2428.86,
+      "end": 2437.03,
+      "timestamp": "40:28",
+      "text": "Quem está falando que é muleta, você tem que realmente repensar se você quer essas pessoas no seu time ou não."
+    },
+    {
+      "start": 2437.03,
+      "end": 2445.65,
+      "timestamp": "40:37",
+      "text": "E quem está fazendo e está funcionando e está entregando a meta e está aprendendo isso, sabe o que ele está fazendo?"
+    },
+    {
+      "start": 2445.65,
+      "end": 2450.71,
+      "timestamp": "40:45",
+      "text": "Ele está fazendo fora do escritório, ele está fazendo fim de semana."
+    },
+    {
+      "start": 2450.71,
+      "end": 2453.01,
+      "timestamp": "40:50",
+      "text": "Ah, mas as pessoas têm família."
+    },
+    {
+      "start": 2453.01,
+      "end": 2457.24,
+      "timestamp": "40:53",
+      "text": "Ah, mas isso não está no combinado das horas de trabalho."
+    },
+    {
+      "start": 2457.24,
+      "end": 2457.91,
+      "timestamp": "40:57",
+      "text": "Está bom?"
+    },
+    {
+      "start": 2457.91,
+      "end": 2459.18,
+      "timestamp": "40:57",
+      "text": "Não tem problema."
+    },
+    {
+      "start": 2459.18,
+      "end": 2462.74,
+      "timestamp": "40:59",
+      "text": "Mas eu não quero essas pessoas na minha empresa."
+    },
+    {
+      "start": 2462.74,
+      "end": 2463.34,
+      "timestamp": "41:02",
+      "text": "Por quê?"
+    },
+    {
+      "start": 2463.34,
+      "end": 2465.2,
+      "timestamp": "41:03",
+      "text": "Porque quem quer resolve."
+    },
+    {
+      "start": 2465.2,
+      "end": 2468.32,
+      "timestamp": "41:05",
+      "text": "Quem quer resolve, quem quer dar um jeito."
+    },
+    {
+      "start": 2468.32,
+      "end": 2471.88,
+      "timestamp": "41:08",
+      "text": "Se você como gestor deu as ferramentas, liberou."
+    },
+    {
+      "start": 2471.88,
+      "end": 2477.01,
+      "timestamp": "41:11",
+      "text": "E daí eu convido talvez ele a liberar uma hora, duas horas na semana."
+    },
+    {
+      "start": 2477.01,
+      "end": 2481.84,
+      "timestamp": "41:17",
+      "text": "Galera, essa agenda aqui na tua semana é para você aprender isso."
+    },
+    {
+      "start": 2481.84,
+      "end": 2489.05,
+      "timestamp": "41:21",
+      "text": "Mas na hora que você for aprender isso, você tem que me mostrar o resultado daquilo que você fez."
+    },
+    {
+      "start": 2489.05,
+      "end": 2492.24,
+      "timestamp": "41:29",
+      "text": "Então pega um projeto, qualquer coisa, faz."
+    },
+    {
+      "start": 2492.24,
+      "end": 2495.07,
+      "timestamp": "41:32",
+      "text": "Dedica duas horas e me apresenta algo."
+    },
+    {
+      "start": 2495.07,
+      "end": 2498.34,
+      "timestamp": "41:35",
+      "text": "Porque a melhor maneira de aprender é o quê?"
+    },
+    {
+      "start": 2498.34,
+      "end": 2499.08,
+      "timestamp": "41:38",
+      "text": "É fazendo."
+    },
+    {
+      "start": 2499.08,
+      "end": 2503.46,
+      "timestamp": "41:39",
+      "text": "Então, se você só consome e não faz e não age, não adianta."
+    },
+    {
+      "start": 2503.46,
+      "end": 2508.07,
+      "timestamp": "41:43",
+      "text": "Você tem que passar uma hora consumindo, dez horas executando."
+    },
+    {
+      "start": 2508.07,
+      "end": 2510.52,
+      "timestamp": "41:48",
+      "text": "Cara, surgiu um monte de dúvidas."
+    },
+    {
+      "start": 2510.52,
+      "end": 2514.31,
+      "timestamp": "41:50",
+      "text": "E a maioria das dúvidas, sabe o que você vai fazer?"
+    },
+    {
+      "start": 2514.31,
+      "end": 2516.76,
+      "timestamp": "41:54",
+      "text": "Vai perguntar para a própria OPA."
+    },
+    {
+      "start": 2516.76,
+      "end": 2518.32,
+      "timestamp": "41:56",
+      "text": "Como eu resolvo isso?"
+    },
+    {
+      "start": 2518.32,
+      "end": 2534.23,
+      "timestamp": "41:58",
+      "text": "Logicamente que o jeito que eu fiz lá o meu bot, o jeito que eu estou fazendo os negócios no banco de dados, o jeito que eu vou fazendo o Lovable, o jeito que depois eu vou testar tudo, porque a minha ideia é isso."
+    },
+    {
+      "start": 2534.23,
+      "end": 2541.51,
+      "timestamp": "42:14",
+      "text": "Como que eu tenho uma cabeça mais generalista de entender tudo para saber o que é melhor para quê."
+    },
+    {
+      "start": 2541.51,
+      "end": 2545.22,
+      "timestamp": "42:21",
+      "text": "E daí, por exemplo, para esse caso, vou usar isso."
+    },
+    {
+      "start": 2545.22,
+      "end": 2547.6,
+      "timestamp": "42:25",
+      "text": "Para aquele caso, vou usar isso."
+    },
+    {
+      "start": 2547.6,
+      "end": 2551.17,
+      "timestamp": "42:27",
+      "text": "Logicamente, pô, no Vivertiá, avança muita vida."
+    },
+    {
+      "start": 2551.17,
+      "end": 2557.63,
+      "timestamp": "42:31",
+      "text": "A metodologia lá, a gente já passou alguns caminhos que a gente acaba sendo atalho, né?"
+    },
+    {
+      "start": 2557.63,
+      "end": 2560.98,
+      "timestamp": "42:37",
+      "text": "Então, o ponto principal para mim é, executa."
+    },
+    {
+      "start": 2560.98,
+      "end": 2563.28,
+      "timestamp": "42:40",
+      "text": "Executou, você vai ter dúvidas."
+    },
+    {
+      "start": 2563.28,
+      "end": 2566.85,
+      "timestamp": "42:43",
+      "text": "Na hora que você tiver dúvida, vai tirar dúvida."
+    },
+    {
+      "start": 2566.85,
+      "end": 2570.12,
+      "timestamp": "42:46",
+      "text": "Ah, mas eu não tenho quem tirar dúvida dele."
+    },
+    {
+      "start": 2570.12,
+      "end": 2572.79,
+      "timestamp": "42:50",
+      "text": "E de novo, estou fazendo propaganda."
+    },
+    {
+      "start": 2572.79,
+      "end": 2578.51,
+      "timestamp": "42:52",
+      "text": "Cara, vocês têm um esquema que é genial, que é aquela porra daquela mentoria."
+    },
+    {
+      "start": 2578.51,
+      "end": 2580.15,
+      "timestamp": "42:58",
+      "text": "Eu fico chocado, cara."
+    },
+    {
+      "start": 2580.15,
+      "end": 2582.67,
+      "timestamp": "43:00",
+      "text": "Porque, cara, é só você entrar lá."
+    },
+    {
+      "start": 2582.67,
+      "end": 2585.35,
+      "timestamp": "43:02",
+      "text": "Você nem sabe o que fazer, entra lá."
+    },
+    {
+      "start": 2585.35,
+      "end": 2588.32,
+      "timestamp": "43:05",
+      "text": "Fica uma hora assistindo aquele negócio."
+    },
+    {
+      "start": 2588.32,
+      "end": 2592.93,
+      "timestamp": "43:08",
+      "text": "Daqui a pouco vocês vão soltar seis horas por dia de mentoria."
+    },
+    {
+      "start": 2592.93,
+      "end": 2596.49,
+      "timestamp": "43:12",
+      "text": "Cara, só entra e vê o que a galera está fazendo."
+    },
+    {
+      "start": 2596.49,
+      "end": 2598.8,
+      "timestamp": "43:16",
+      "text": "Cara, o cara está fazendo isso."
+    },
+    {
+      "start": 2598.8,
+      "end": 2601.03,
+      "timestamp": "43:18",
+      "text": "Dá para eu aplicar isso nisso."
+    },
+    {
+      "start": 2601.03,
+      "end": 2603.63,
+      "timestamp": "43:21",
+      "text": "Ah, ele está usando o N8N com isso."
+    },
+    {
+      "start": 2603.63,
+      "end": 2604.74,
+      "timestamp": "43:23",
+      "text": "Cara, calma aí."
+    },
+    {
+      "start": 2604.74,
+      "end": 2605.71,
+      "timestamp": "43:24",
+      "text": "Como é que é?"
+    },
+    {
+      "start": 2605.71,
+      "end": 2608.46,
+      "timestamp": "43:25",
+      "text": "Deixa eu pegar aqui o negócio de N8N."
+    },
+    {
+      "start": 2608.46,
+      "end": 2609.72,
+      "timestamp": "43:28",
+      "text": "Pô, tal, aprendi."
+    },
+    {
+      "start": 2609.72,
+      "end": 2611.58,
+      "timestamp": "43:29",
+      "text": "Deixa eu começar a fazer."
+    },
+    {
+      "start": 2611.58,
+      "end": 2615.15,
+      "timestamp": "43:31",
+      "text": "Fiquei com dúvida, vai no outro dia na mentoria."
+    },
+    {
+      "start": 2615.15,
+      "end": 2615.96,
+      "timestamp": "43:35",
+      "text": "E pergunta."
+    },
+    {
+      "start": 2615.96,
+      "end": 2618.56,
+      "timestamp": "43:35",
+      "text": "Cara, só não aprende quem não quer."
+    },
+    {
+      "start": 2618.56,
+      "end": 2620.72,
+      "timestamp": "43:38",
+      "text": "Só não aprende quem não quer."
+    },
+    {
+      "start": 2620.72,
+      "end": 2624.66,
+      "timestamp": "43:40",
+      "text": "Eu tenho uma coisa que eu aprendi no Exército também."
+    },
+    {
+      "start": 2624.66,
+      "end": 2629.71,
+      "timestamp": "43:44",
+      "text": "Uma vez eu falei, ah, muita gente bateu em mim quando foi uma linha."
+    },
+    {
+      "start": 2629.71,
+      "end": 2631.79,
+      "timestamp": "43:49",
+      "text": "Mas eu gosto disso, que é..."
+    },
+    {
+      "start": 2631.79,
+      "end": 2635.28,
+      "timestamp": "43:51",
+      "text": "Eu acho que a gente tem alguns traumas na vida."
+    },
+    {
+      "start": 2635.28,
+      "end": 2640.26,
+      "timestamp": "43:55",
+      "text": "E quando a gente cria alguns traumas, tem trauma bom e trauma ruim."
+    },
+    {
+      "start": 2640.26,
+      "end": 2641.75,
+      "timestamp": "44:00",
+      "text": "Até que eu acredito."
+    },
+    {
+      "start": 2641.75,
+      "end": 2645.98,
+      "timestamp": "44:01",
+      "text": "Eu tenho uma frase que somente o trauma gera compreensão."
+    },
+    {
+      "start": 2645.98,
+      "end": 2646.65,
+      "timestamp": "44:05",
+      "text": "Perfeito."
+    },
+    {
+      "start": 2646.65,
+      "end": 2649.77,
+      "timestamp": "44:06",
+      "text": "Então, no início vai dar uma traumatizada."
+    },
+    {
+      "start": 2649.77,
+      "end": 2652.37,
+      "timestamp": "44:09",
+      "text": "Só que essa é uma traumatizada boa."
+    },
+    {
+      "start": 2652.37,
+      "end": 2652.82,
+      "timestamp": "44:12",
+      "text": "É boa."
+    },
+    {
+      "start": 2652.82,
+      "end": 2657.43,
+      "timestamp": "44:12",
+      "text": "Essa é aquela hora que quando tu mexer, tu vai dizer assim, ó."
+    },
+    {
+      "start": 2657.43,
+      "end": 2658.62,
+      "timestamp": "44:17",
+      "text": "É o cyber truck."
+    },
+    {
+      "start": 2658.62,
+      "end": 2660.03,
+      "timestamp": "44:18",
+      "text": "Ele no cyber truck."
+    },
+    {
+      "start": 2660.03,
+      "end": 2661.14,
+      "timestamp": "44:20",
+      "text": "E aí vai dar..."
+    },
+    {
+      "start": 2661.14,
+      "end": 2662.26,
+      "timestamp": "44:21",
+      "text": "É o aha moment."
+    },
+    {
+      "start": 2662.26,
+      "end": 2664.41,
+      "timestamp": "44:22",
+      "text": "É a maçã na cabeça de Newton."
+    },
+    {
+      "start": 2664.41,
+      "end": 2670.13,
+      "timestamp": "44:24",
+      "text": "É aquele negócio assim que, cara, a tua vida, a partir daquele momento, muda."
+    },
+    {
+      "start": 2670.13,
+      "end": 2673.25,
+      "timestamp": "44:30",
+      "text": "E galera, desculpa te atrapalhar aqui, né?"
+    },
+    {
+      "start": 2673.25,
+      "end": 2674.29,
+      "timestamp": "44:33",
+      "text": "Galera, mudou."
+    },
+    {
+      "start": 2674.29,
+      "end": 2676.08,
+      "timestamp": "44:34",
+      "text": "E não mudou só para mim."
+    },
+    {
+      "start": 2676.08,
+      "end": 2677.71,
+      "timestamp": "44:36",
+      "text": "Mudou para todo mundo."
+    },
+    {
+      "start": 2677.71,
+      "end": 2680.76,
+      "timestamp": "44:37",
+      "text": "E eu não estou falando aqui de sacanagem."
+    },
+    {
+      "start": 2680.76,
+      "end": 2681.72,
+      "timestamp": "44:40",
+      "text": "Cara, é real."
+    },
+    {
+      "start": 2681.72,
+      "end": 2682.17,
+      "timestamp": "44:41",
+      "text": "Mudou."
+    },
+    {
+      "start": 2682.17,
+      "end": 2682.69,
+      "timestamp": "44:42",
+      "text": "É real."
+    },
+    {
+      "start": 2682.69,
+      "end": 2687.3,
+      "timestamp": "44:42",
+      "text": "Se você não estiver aprendendo isso, não é por causa de viver."
+    },
+    {
+      "start": 2687.3,
+      "end": 2691.16,
+      "timestamp": "44:47",
+      "text": "Cara, tem um monte de plataforma para você aprender."
+    },
+    {
+      "start": 2691.16,
+      "end": 2692.72,
+      "timestamp": "44:51",
+      "text": "Tem coisa no YouTube."
+    },
+    {
+      "start": 2692.72,
+      "end": 2696.51,
+      "timestamp": "44:52",
+      "text": "Você vai perder muito tempo vendo coisa no YouTube."
+    },
+    {
+      "start": 2696.51,
+      "end": 2699.34,
+      "timestamp": "44:56",
+      "text": "Cara, que você poderia resolver ali..."
+    },
+    {
+      "start": 2699.34,
+      "end": 2703.35,
+      "timestamp": "44:59",
+      "text": "Que está organizado do jeito certo para você aprender."
+    },
+    {
+      "start": 2703.35,
+      "end": 2705.06,
+      "timestamp": "45:03",
+      "text": "Cara, mas aprenda isso."
+    },
+    {
+      "start": 2705.06,
+      "end": 2708.92,
+      "timestamp": "45:05",
+      "text": "Aprenda isso, que isso vai mudar a sua fucking vida."
+    },
+    {
+      "start": 2708.92,
+      "end": 2709.52,
+      "timestamp": "45:08",
+      "text": "Aprenda."
+    },
+    {
+      "start": 2709.52,
+      "end": 2711.15,
+      "timestamp": "45:09",
+      "text": "Não perde tempo, cara."
+    },
+    {
+      "start": 2711.15,
+      "end": 2714.64,
+      "timestamp": "45:11",
+      "text": "Não perde tempo, porque você já está para trás."
+    },
+    {
+      "start": 2714.64,
+      "end": 2715.39,
+      "timestamp": "45:14",
+      "text": "E assim..."
+    },
+    {
+      "start": 2715.39,
+      "end": 2717.09,
+      "timestamp": "45:15",
+      "text": "Ah, mas eu não quero..."
+    },
+    {
+      "start": 2717.09,
+      "end": 2718.06,
+      "timestamp": "45:17",
+      "text": "Ah, mas eu..."
+    },
+    {
+      "start": 2718.06,
+      "end": 2719.1,
+      "timestamp": "45:18",
+      "text": "Aprende, cara."
+    },
+    {
+      "start": 2719.1,
+      "end": 2720.88,
+      "timestamp": "45:19",
+      "text": "Ah, mas eu sou pedreiro."
+    },
+    {
+      "start": 2720.88,
+      "end": 2724.38,
+      "timestamp": "45:20",
+      "text": "Aprende, porque daí você deixa de ser pedreiro."
+    },
+    {
+      "start": 2724.38,
+      "end": 2724.75,
+      "timestamp": "45:24",
+      "text": "Fato."
+    },
+    {
+      "start": 2724.75,
+      "end": 2725.49,
+      "timestamp": "45:24",
+      "text": "Quer mais?"
+    },
+    {
+      "start": 2725.49,
+      "end": 2726.16,
+      "timestamp": "45:25",
+      "text": "Manda aí."
+    },
+    {
+      "start": 2726.16,
+      "end": 2728.61,
+      "timestamp": "45:26",
+      "text": "Não, eu não quero finalizar aqui."
+    },
+    {
+      "start": 2728.61,
+      "end": 2732.62,
+      "timestamp": "45:28",
+      "text": "E aí eu quero finalizar de uma maneira diferente hoje."
+    },
+    {
+      "start": 2732.62,
+      "end": 2737.08,
+      "timestamp": "45:32",
+      "text": "A gente falou muito aqui do empresário meter a mão na massa."
+    },
+    {
+      "start": 2737.08,
+      "end": 2738.49,
+      "timestamp": "45:37",
+      "text": "Então, eu queria..."
+    },
+    {
+      "start": 2738.49,
+      "end": 2739.61,
+      "timestamp": "45:38",
+      "text": "Eu vou começar."
+    },
+    {
+      "start": 2739.61,
+      "end": 2750.68,
+      "timestamp": "45:39",
+      "text": "Eu quero deixar uma provocação dizendo de algum projeto, alguma coisa que eu quero provocar o empresário a sair daqui e meter a mão na massa e fazer."
+    },
+    {
+      "start": 2750.68,
+      "end": 2756.7,
+      "timestamp": "45:50",
+      "text": "E quem conseguir fazer, manda uma mensagem depois no Instagram dizendo o que fez."
+    },
+    {
+      "start": 2756.7,
+      "end": 2759.08,
+      "timestamp": "45:56",
+      "text": "A minha provocação é o seguinte."
+    },
+    {
+      "start": 2759.08,
+      "end": 2762.72,
+      "timestamp": "45:59",
+      "text": "Eu provoco o empresário que está ouvindo a gente."
+    },
+    {
+      "start": 2762.72,
+      "end": 2763.61,
+      "timestamp": "46:02",
+      "text": "Simples, tá?"
+    },
+    {
+      "start": 2763.61,
+      "end": 2765.99,
+      "timestamp": "46:03",
+      "text": "A sair daqui, entrar no Lovable."
+    },
+    {
+      "start": 2765.99,
+      "end": 2766.88,
+      "timestamp": "46:05",
+      "text": "Lovable, tá?"
+    },
+    {
+      "start": 2766.88,
+      "end": 2770.52,
+      "timestamp": "46:06",
+      "text": "Depois deixa na descrição aqui os nomes certinho."
+    },
+    {
+      "start": 2770.52,
+      "end": 2773.49,
+      "timestamp": "46:10",
+      "text": "E fazer um site novo para a sua empresa."
+    },
+    {
+      "start": 2773.49,
+      "end": 2775.43,
+      "timestamp": "46:13",
+      "text": "Essa é a minha provocação."
+    },
+    {
+      "start": 2775.43,
+      "end": 2777.95,
+      "timestamp": "46:15",
+      "text": "Então, estou te provocando a você."
+    },
+    {
+      "start": 2777.95,
+      "end": 2781.15,
+      "timestamp": "46:17",
+      "text": "Não é de marketing, não precisa fazer nada."
+    },
+    {
+      "start": 2781.15,
+      "end": 2785.53,
+      "timestamp": "46:21",
+      "text": "Entrar no Lovable, uma ferramenta só, e fazer um site novo."
+    },
+    {
+      "start": 2785.53,
+      "end": 2787.09,
+      "timestamp": "46:25",
+      "text": "É a minha provocação."
+    },
+    {
+      "start": 2787.09,
+      "end": 2788.5,
+      "timestamp": "46:27",
+      "text": "Por onde eu começo?"
+    },
+    {
+      "start": 2788.5,
+      "end": 2789.17,
+      "timestamp": "46:28",
+      "text": "Pergunta."
+    },
+    {
+      "start": 2789.17,
+      "end": 2789.77,
+      "timestamp": "46:29",
+      "text": "Pra ele."
+    },
+    {
+      "start": 2789.77,
+      "end": 2793.7,
+      "timestamp": "46:29",
+      "text": "Eu quero fazer um site novo, porque eu fui provocado."
+    },
+    {
+      "start": 2793.7,
+      "end": 2796.01,
+      "timestamp": "46:33",
+      "text": "Como você gostaria do seu site?"
+    },
+    {
+      "start": 2796.01,
+      "end": 2796.97,
+      "timestamp": "46:36",
+      "text": "Pede pra ele."
+    },
+    {
+      "start": 2796.97,
+      "end": 2801.43,
+      "timestamp": "46:36",
+      "text": "Então, essa é a minha provocação que eu tenho aqui pra você."
+    },
+    {
+      "start": 2801.43,
+      "end": 2802.77,
+      "timestamp": "46:41",
+      "text": "Eu vou dar, então."
+    },
+    {
+      "start": 2802.77,
+      "end": 2803.74,
+      "timestamp": "46:42",
+      "text": "Vou na linha."
+    },
+    {
+      "start": 2803.74,
+      "end": 2804.92,
+      "timestamp": "46:43",
+      "text": "Gostei da ideia."
+    },
+    {
+      "start": 2804.92,
+      "end": 2805.89,
+      "timestamp": "46:44",
+      "text": "Vou mais uma."
+    },
+    {
+      "start": 2805.89,
+      "end": 2808.79,
+      "timestamp": "46:45",
+      "text": "Minha provocação pra você é a seguinte."
+    },
+    {
+      "start": 2808.79,
+      "end": 2816.89,
+      "timestamp": "46:48",
+      "text": "Você vai pegar aquela planilha que você adora, que você usa todo dia, e você vai jogar a planilha no Lovable."
+    },
+    {
+      "start": 2816.89,
+      "end": 2819.71,
+      "timestamp": "46:56",
+      "text": "Você vai abrir o modo plan do Lovable."
+    },
+    {
+      "start": 2819.71,
+      "end": 2820.98,
+      "timestamp": "46:59",
+      "text": "Ativa lá, clicou."
+    },
+    {
+      "start": 2820.98,
+      "end": 2821.72,
+      "timestamp": "47:00",
+      "text": "Modo plan."
+    },
+    {
+      "start": 2821.72,
+      "end": 2824.62,
+      "timestamp": "47:01",
+      "text": "E aí você vai fazer o seguinte comando."
+    },
+    {
+      "start": 2824.62,
+      "end": 2826.99,
+      "timestamp": "47:04",
+      "text": "Faça uma análise dessa planilha."
+    },
+    {
+      "start": 2826.99,
+      "end": 2830.49,
+      "timestamp": "47:06",
+      "text": "Entenda o contexto e o objetivo dessa planilha."
+    },
+    {
+      "start": 2830.49,
+      "end": 2835.98,
+      "timestamp": "47:10",
+      "text": "E faça o planejamento de um sistema inteiro para substituir essa planilha."
+    },
+    {
+      "start": 2835.98,
+      "end": 2840.74,
+      "timestamp": "47:15",
+      "text": "Depois você vem aqui e me conta nos comentários o que aconteceu."
+    },
+    {
+      "start": 2840.74,
+      "end": 2847.5,
+      "timestamp": "47:20",
+      "text": "Se isso não mudar, se você não se evangelizar pela IA depois disso, aí, meu amigo, esquece."
+    },
+    {
+      "start": 2847.5,
+      "end": 2850.62,
+      "timestamp": "47:27",
+      "text": "Eu não tenho mais nada pra fazer com você."
+    },
+    {
+      "start": 2850.62,
+      "end": 2853.74,
+      "timestamp": "47:30",
+      "text": "Inclusive, eu nem quero você como cliente."
+    },
+    {
+      "start": 2853.74,
+      "end": 2854.49,
+      "timestamp": "47:33",
+      "text": "Por favor."
+    },
+    {
+      "start": 2854.49,
+      "end": 2863.48,
+      "timestamp": "47:34",
+      "text": "Eu ia falar pra se inscrever no canal, mas tira a inscrição do canal, porque eu não quero você consumindo conteúdos aqui."
+    },
+    {
+      "start": 2863.48,
+      "end": 2880.79,
+      "timestamp": "47:43",
+      "text": "Agora, se você gostou, não se esquece também de dar o like, se inscrever no Jogo da IA, porque não é todo dia que a gente tem empresários como o Bruno Nardom todo dia aqui, jogando IA na prática e falando de um conteúdo tão profundo."
+    },
+    {
+      "start": 2880.79,
+      "end": 2882.06,
+      "timestamp": "48:00",
+      "text": "E Nardom, e você?"
+    },
+    {
+      "start": 2882.06,
+      "end": 2882.58,
+      "timestamp": "48:02",
+      "text": "E você?"
+    },
+    {
+      "start": 2882.58,
+      "end": 2883.24,
+      "timestamp": "48:02",
+      "text": "Eu o quê?"
+    },
+    {
+      "start": 2883.24,
+      "end": 2886.74,
+      "timestamp": "48:03",
+      "text": "Neto, provoca o empresário a fazer o que, cara?"
+    },
+    {
+      "start": 2886.74,
+      "end": 2892.01,
+      "timestamp": "48:06",
+      "text": "Eu já provoquei esse podcast inteiro e só pra vocês entenderem, galera."
+    },
+    {
+      "start": 2892.01,
+      "end": 2901.3,
+      "timestamp": "48:12",
+      "text": "A gente montou esse podcast aqui pros meninos que vai entrar pelo menos uma vez por semana no canal principal do G4 Podcasts."
+    },
+    {
+      "start": 2901.3,
+      "end": 2903.08,
+      "timestamp": "48:21",
+      "text": "Só pra vocês entenderem."
+    },
+    {
+      "start": 2903.08,
+      "end": 2909.62,
+      "timestamp": "48:23",
+      "text": "Por que a gente entendeu que isso não dá pra ficar mais fora de qualquer formação nossa?"
+    },
+    {
+      "start": 2909.62,
+      "end": 2913.26,
+      "timestamp": "48:29",
+      "text": "Porque isso não é mais futuro, isso já é passado."
+    },
+    {
+      "start": 2913.26,
+      "end": 2920.77,
+      "timestamp": "48:33",
+      "text": "E se você não mudar agora na sua empresa, meu amigo, vai ter quem vai mudar e vai comer o seu queijo."
+    },
+    {
+      "start": 2920.77,
+      "end": 2921.66,
+      "timestamp": "48:40",
+      "text": "Então, muda."
+    },
+    {
+      "start": 2921.66,
+      "end": 2924.19,
+      "timestamp": "48:41",
+      "text": "Se não, vão te mudar no seu lugar."
+    },
+    {
+      "start": 2924.19,
+      "end": 2926.34,
+      "timestamp": "48:44",
+      "text": "Então, cara, não perde tempo."
+    },
+    {
+      "start": 2926.34,
+      "end": 2929.91,
+      "timestamp": "48:46",
+      "text": "E pode usar a Viverde A, pode vir no G4, pode..."
+    },
+    {
+      "start": 2929.91,
+      "end": 2933.4,
+      "timestamp": "48:49",
+      "text": "E, cara, em qualquer lugar, pra mim, tanto faz."
+    },
+    {
+      "start": 2933.4,
+      "end": 2941.65,
+      "timestamp": "48:53",
+      "text": "O nosso papel aqui é ajudar o empreendedor, o empresário a entender o que é importante, como pode mudar a vida."
+    },
+    {
+      "start": 2941.65,
+      "end": 2956.58,
+      "timestamp": "49:01",
+      "text": "E, cara, espero que você tenha ouvido esse podcast aqui e falado, caramba, o Nardom tava tão sério, tão diferente do que ele tá nos outros podcasts, tipo, meio arisco, meio irritado, meio transtornado."
+    },
+    {
+      "start": 2956.58,
+      "end": 2961.56,
+      "timestamp": "49:16",
+      "text": "Não é porque eu tô dormindo pouco, porque eu tô, cara, nessa febre."
+    },
+    {
+      "start": 2961.56,
+      "end": 2966.32,
+      "timestamp": "49:21",
+      "text": "Não, é porque, de fato, a gente no G4 vem colhendo frutos disso."
+    },
+    {
+      "start": 2966.32,
+      "end": 2971.0,
+      "timestamp": "49:26",
+      "text": "Há mais de três anos, triplicou o faturamento com basicamente o"
+    }
+  ],
+  "turns": [],
+  "word_count": 7720,
+  "segment_count": 649,
+  "turn_count": 0,
+  "chunks_used": 5,
+  "timestamps_estimated": true,
+  "diarized": false
+}

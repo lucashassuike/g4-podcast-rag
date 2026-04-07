@@ -1,0 +1,284 @@
+{
+  "episode_id": "42444039834",
+  "title": "OS SEGREDOS DAS GRANDES NEGOCIAÇÕES: M&A, GOVERNANÇA E CAP TABLE COM CAROL AUDI | PAPO DE GESTÃO",
+  "date_published": 1757343600,
+  "duration": 3609,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Carol Audi",
+      "role": "guest",
+      "company": "SESCOM Barriot",
+      "title": "Sócia"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Vini",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Sescom Barriot",
+      "industry": "Serviços Jurídicos",
+      "context": "Um dos maiores escritórios full services do Brasil"
+    },
+    {
+      "name": "Softbank",
+      "industry": "Investimentos e Venture Capital",
+      "context": "Cliente em operações lideradas por Carol Audi"
+    },
+    {
+      "name": "Brookfield",
+      "industry": "Investimentos e Gestão de Ativos",
+      "context": "Cliente em operações lideradas por Carol Audi"
+    },
+    {
+      "name": "Laureate",
+      "industry": "Educação",
+      "context": "Cliente em operações lideradas por Carol Audi"
+    },
+    {
+      "name": "Dasa",
+      "industry": "Saúde e Diagnósticos",
+      "context": "Cliente em operações lideradas por Carol Audi"
+    },
+    {
+      "name": "Digital Health",
+      "industry": "Saúde Digital",
+      "context": "Cliente em operações lideradas por Carol Audi"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Plataforma onde Carol Audi atua como mentora"
+    },
+    {
+      "name": "Petrobras",
+      "industry": "Oil and Gas",
+      "context": "Discussed in the context of fund management and asset liquidation"
+    },
+    {
+      "name": "Avisma",
+      "industry": "Finance",
+      "context": "Comprou a Conta Azul por 300 milhões de dólares."
+    },
+    {
+      "name": "Conta Azul",
+      "industry": "Technology",
+      "context": "Foi adquirida pela Avisma por 300 milhões de dólares."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Governança",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Cap Table",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Acordo de Acionistas",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Contencioso",
+      "category": "Serviços Jurídicos"
+    },
+    {
+      "name": "Cláusula de Drag Along",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Drag Along Clause",
+      "category": "Legal Framework"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Business Management"
+    },
+    {
+      "name": "Non-compete Agreement",
+      "category": "Legal Framework"
+    },
+    {
+      "name": "planejamento",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "perenidade",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "family office",
+      "category": "Finance"
+    },
+    {
+      "name": "cultura de dono",
+      "category": "Organizational Culture"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10B",
+      "context": "Capital under management by a fund manager discussed in the negotiation case"
+    },
+    {
+      "value": "300 milhões de dólares",
+      "context": "Valor da aquisição da Conta Azul pela Avisma."
+    },
+    {
+      "value": "1.6 a 1.7 bilhões de reais",
+      "context": "Conversão aproximada do valor da aquisição da Conta Azul pela Avisma."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Carol Audi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Drag Along Clause",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carol Audi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cap Table",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Carol Audi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Petrobras",
+      "target_type": "company"
+    },
+    {
+      "source": "Sescom Barriot",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dasa",
+      "target_type": "company"
+    },
+    {
+      "source": "Sescom Barriot",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Softbank",
+      "target_type": "company"
+    },
+    {
+      "source": "Avisma",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Conta Azul",
+      "target_type": "company"
+    },
+    {
+      "source": "Carol Audi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Non-Compete Agreement",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carol Audi",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Sescom Barriot",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Laureate",
+      "target_type": "company"
+    },
+    {
+      "source": "Carol Audi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "M&A (Mergers And Acquisitions)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sescom Barriot",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Digital Health",
+      "target_type": "company"
+    },
+    {
+      "source": "Carol Audi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sescom Barriot",
+      "target_type": "company"
+    },
+    {
+      "source": "Sescom Barriot",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Brookfield",
+      "target_type": "company"
+    },
+    {
+      "source": "Carol Audi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governança Corporativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carol Audi",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

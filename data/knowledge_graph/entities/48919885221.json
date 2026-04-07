@@ -1,0 +1,220 @@
+{
+  "episode_id": "48919885221",
+  "title": "EFICIÊNCIA NÃO É CUSTO, É SOBREVIVÊNCIA | G4 TOOLS LIVE – COM ALESSANDRO CUNHA",
+  "date_published": 1769187688,
+  "duration": 1990,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Igor Tork",
+      "role": "host",
+      "company": "G4 Tools",
+      "title": "C-Level responsável"
+    },
+    {
+      "name": "Alessandro Cunha",
+      "role": "guest",
+      "company": "BC Energia",
+      "title": "Fundador e CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Bc Energia",
+      "industry": "Energia",
+      "context": "Empresa fundada por Alessandro Cunha, opera no setor de energia elétrica com foco em economia e mercado livre de energia."
+    },
+    {
+      "name": "G4 Tools",
+      "industry": "Marketplace",
+      "context": "Plataforma do G4 mencionada por Igor Tork."
+    },
+    {
+      "name": "Eletrobras",
+      "industry": "Energia",
+      "context": "Empresa mencionada como parte da experiência de Alessandro Cunha."
+    },
+    {
+      "name": "Abc Energia",
+      "industry": "Energia",
+      "context": "Empresa mencionada como fornecedora de soluções de energia renovável."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Mercado Livre de Energia Elétrica",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Regulamentação no Setor Elétrico",
+      "category": "Aspecto Legal"
+    },
+    {
+      "name": "Job Rotation",
+      "category": "Estratégia de Desenvolvimento Profissional"
+    },
+    {
+      "name": "matriz energética",
+      "category": "Energia"
+    },
+    {
+      "name": "usina solar",
+      "category": "Energia"
+    },
+    {
+      "name": "hidrelétrica",
+      "category": "Energia"
+    },
+    {
+      "name": "biogás",
+      "category": "Energia"
+    },
+    {
+      "name": "biomassa",
+      "category": "Energia"
+    },
+    {
+      "name": "baterias de armazenamento",
+      "category": "Energia"
+    },
+    {
+      "name": "CAPEX",
+      "category": "Finanças"
+    },
+    {
+      "name": "ROI",
+      "category": "Finanças"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "38%",
+      "context": "Economia média proporcionada aos clientes da BC Energia."
+    },
+    {
+      "value": "40%",
+      "context": "Economia máxima possível no mercado livre de energia elétrica."
+    },
+    {
+      "value": "40%",
+      "context": "Economia possível ao utilizar energia mais eficiente."
+    },
+    {
+      "value": "100 megas",
+      "context": "Capacidade de produção de energia solar mencionada."
+    },
+    {
+      "value": "200 clientes",
+      "context": "Número de clientes atendidos por 1 mega de energia solar."
+    },
+    {
+      "value": "106 megas",
+      "context": "Capacidade total de produção de energia solar da empresa."
+    },
+    {
+      "value": "30 mil clientes",
+      "context": "Meta de clientes da empresa."
+    },
+    {
+      "value": "26%",
+      "context": "Economia garantida pelo produto da empresa."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Abc Energia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Usina Solar",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alessandro Cunha",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Abc Energia",
+      "target_type": "company"
+    },
+    {
+      "source": "Abc Energia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Hidrelétrica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alessandro Cunha",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Eletrobras",
+      "target_type": "company"
+    },
+    {
+      "source": "Abc Energia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Baterias De Armazenamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Abc Energia",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Energia Renovável",
+      "target_type": "company"
+    },
+    {
+      "source": "Igor Tork",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Tools",
+      "target_type": "company"
+    },
+    {
+      "source": "Alessandro Cunha",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bc Energia",
+      "target_type": "company"
+    },
+    {
+      "source": "Abc Energia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Biogás",
+      "target_type": "concept"
+    },
+    {
+      "source": "Abc Energia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Biomassa",
+      "target_type": "concept"
+    }
+  ]
+}

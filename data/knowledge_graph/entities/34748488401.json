@@ -1,0 +1,175 @@
+{
+  "episode_id": "34748488401",
+  "title": "3 PASSOS PARA DESENVOLVER SUA LIDERANÇA HOJE | G4 PODCASTS",
+  "date_published": 1725004800,
+  "duration": 1651,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Roberto Salucci",
+      "role": "guest",
+      "company": "BTG Pactual",
+      "title": "CEO"
+    },
+    {
+      "name": "Luiz Labo Jr.",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bernardinho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Carol Dweck",
+      "role": "mentioned",
+      "company": "Stanford University",
+      "title": "Professora"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Btg Pactual",
+      "industry": "Finance",
+      "context": "Discussed as a company with a strong internal leadership and training culture."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Oferece programas de formação em gestão e liderança"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "liderança",
+      "category": "Management"
+    },
+    {
+      "name": "autoconhecimento",
+      "category": "Personal Development"
+    },
+    {
+      "name": "gestão de pessoas",
+      "category": "Human Resources"
+    },
+    {
+      "name": "cultura organizacional",
+      "category": "Management"
+    },
+    {
+      "name": "resiliência",
+      "category": "Personal Development"
+    },
+    {
+      "name": "dedicação e intensidade",
+      "category": "Work Ethic"
+    },
+    {
+      "name": "empatia",
+      "category": "Soft Skills"
+    },
+    {
+      "name": "trabalho em equipe",
+      "category": "Collaboration"
+    },
+    {
+      "name": "BTG Campus",
+      "category": "Corporate Training"
+    },
+    {
+      "name": "BTG Academy",
+      "category": "Corporate Training"
+    },
+    {
+      "name": "framework de tomada de decisão",
+      "category": "Decision Making"
+    },
+    {
+      "name": "People Skills",
+      "category": "Habilidades comportamentais"
+    },
+    {
+      "name": "SWOT pessoal",
+      "category": "Ferramenta de análise pessoal"
+    },
+    {
+      "name": "Mindset fixo",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Mindset de crescimento",
+      "category": "Psicologia"
+    }
+  ],
+  "books": [
+    {
+      "title": "Mindset: A Nova Psicologia do Sucesso",
+      "author": "Carol Dweck"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "4 a 12 vezes o salário do profissional",
+      "context": "Custo de uma contratação errada."
+    },
+    {
+      "value": "18 meses",
+      "context": "Período para avaliar retenção de funcionários contratados."
+    },
+    {
+      "value": "18 meses",
+      "context": "Período para avaliar retenção de funcionários"
+    },
+    {
+      "value": "90%",
+      "context": "Porcentagem do inconsciente na mente humana"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Luiz Labo Jr.",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Btg Campus",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Carol Dweck",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Mindset Fixo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Roberto Salucci",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Carol Dweck",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Mindset De Crescimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Btg Academy",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "episode_id": "34748488567",
+  "title": "Marco França - Você está preparado para vender a sua empresa? | Extremos",
+  "date_published": 1690965000,
+  "duration": 5216,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Marco França",
+      "role": "guest",
+      "company": "Aldas",
+      "title": "Sócio"
+    },
+    {
+      "name": "Juliano Tagnoli",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Carlos Piani",
+      "role": "mentioned",
+      "company": "Semaf",
+      "title": "Ex-diretor"
+    },
+    {
+      "name": "Julian",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Julián",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Heitor",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Julián Antonioli",
+      "role": "mentioned",
+      "company": "Aldas",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Produtora do podcast e iniciativa de educação corporativa"
+    },
+    {
+      "name": "Aldas",
+      "industry": "Consultoria Financeira",
+      "context": "Empresa onde Marco França é sócio"
+    },
+    {
+      "name": "Btg",
+      "industry": "Serviços Financeiros",
+      "context": "Empresa mencionada como parte da experiência de Marco França"
+    },
+    {
+      "name": "África",
+      "industry": "Publicidade e Marketing",
+      "context": "Agência envolvida no projeto First Step"
+    },
+    {
+      "name": "Exército Da Salvação",
+      "industry": "Organização Sem Fins Lucrativos",
+      "context": "Beneficiária do projeto First Step"
+    },
+    {
+      "name": "Semaf",
+      "industry": "Financeiro",
+      "context": "Mencionada como empresa onde Carlos Piani trabalhou"
+    },
+    {
+      "name": "Estetec",
+      "industry": "Healthcare",
+      "context": "Discussed in relation to a sale and M&A process."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Ferramenta de Treinamento Corporativo"
+    },
+    {
+      "name": "IPO (Initial Public Offering)",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Governança corporativa",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Vantagem competitiva",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Planning Estratégico",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finance"
+    },
+    {
+      "name": "Earn-out",
+      "category": "Finance"
+    },
+    {
+      "name": "Holding Patrimonial",
+      "category": "Finance"
+    },
+    {
+      "name": "Inteligência Financeira",
+      "category": "Finance"
+    },
+    {
+      "name": "evento de liquidez",
+      "category": "Finanças"
+    },
+    {
+      "name": "assunção de risco",
+      "category": "Finanças"
+    },
+    {
+      "name": "saúde mental, espiritual e financeira",
+      "category": "Bem-estar e Finanças"
+    },
+    {
+      "name": "regras de sócio",
+      "category": "Governança Empresarial"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "25 mil colaboradores",
+      "context": "Número de pessoas treinadas diariamente pelo G4 Skills"
+    },
+    {
+      "value": "50% de conversão",
+      "context": "Taxa de retorno das caixas no projeto First Step"
+    },
+    {
+      "value": "6-8%",
+      "context": "Taxa de inflação mencionada para os Estados Unidos e outros países"
+    },
+    {
+      "value": "1.300.000",
+      "context": "Preço de um apartamento em São Paulo mencionado na conversa"
+    },
+    {
+      "value": "7 vezes múltiplo",
+      "context": "Valuation discussed in the context of selling a company."
+    },
+    {
+      "value": "8 vezes múltiplo",
+      "context": "Valuation discussed in the context of selling a company."
+    },
+    {
+      "value": "10 milhões",
+      "context": "Valor mencionado como objetivo financeiro comum para empresários brasileiros."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "M&A (Mergers And Acquisitions)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "M&A (Mergers And Acquisitions)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estetec",
+      "target_type": "company"
+    },
+    {
+      "source": "África",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "First Step",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Aldas",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlos Piani",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Semaf",
+      "target_type": "company"
+    },
+    {
+      "source": "Exército Da Salvação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "First Step",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Julián Antonioli",
+      "target_type": "person"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Planning Estratégico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marco França",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aldas",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "episode_id": "34748488411",
+  "title": "DISCIPLINA E FOCO PARA ALCANÇAR (E SE MANTER) NO TOPO - COM GIBA | EXTREMOS",
+  "date_published": 1722414600,
+  "duration": 5091,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Giba Neri",
+      "role": "guest",
+      "company": "N/A",
+      "title": "Ex-atleta e empresário"
+    },
+    {
+      "name": "Bernardinho",
+      "role": "mentioned",
+      "company": "Seleção Brasileira de Vôlei",
+      "title": "Ex-técnico"
+    },
+    {
+      "name": "Giovanni",
+      "role": "mentioned",
+      "company": "Seleção Brasileira de Vôlei",
+      "title": "Ex-jogador"
+    },
+    {
+      "name": "Serjinho",
+      "role": "mentioned",
+      "company": "Seleção Brasileira de Vôlei",
+      "title": "Ex-jogador"
+    },
+    {
+      "name": "Walter Lanuti",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Empresário"
+    },
+    {
+      "name": "Giba",
+      "role": "guest",
+      "company": "",
+      "title": "Ex-jogador de vôlei"
+    },
+    {
+      "name": "Galvão Bueno",
+      "role": "mentioned",
+      "company": "",
+      "title": "Narrador esportivo"
+    },
+    {
+      "name": "Rodrigo Ferro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em relações públicas e organização de eventos esportivos"
+    },
+    {
+      "name": "Rodrigão",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Dante",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Maurício",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Gustavo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Serginho",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Hélio",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Albert",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Marcelinho",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Ricardinho",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Henrique Fogaça",
+      "role": "mentioned",
+      "company": "",
+      "title": "Chef e Empresário"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcast",
+      "industry": "Media",
+      "context": "Podcast focado em negócios e empreendedorismo"
+    },
+    {
+      "name": "Sky",
+      "industry": "Sports",
+      "context": "Patrocinador do time de vôlei Pinheiros"
+    },
+    {
+      "name": "Pinheiros",
+      "industry": "Sports",
+      "context": "Clube de vôlei brasileiro"
+    },
+    {
+      "name": "Nasser",
+      "industry": "Sports",
+      "context": "Clube local de Dubai onde Giba jogou"
+    },
+    {
+      "name": "Globo",
+      "industry": "Media",
+      "context": "Facilitou transmissão ao vivo do nascimento da filha de Giba"
+    },
+    {
+      "name": "Facebook",
+      "industry": "Technology",
+      "context": "Empregador anterior do primo de Giba"
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Empregador anterior do primo de Giba"
+    },
+    {
+      "name": "Morro Dos Anjos Resort",
+      "industry": "Hospitality",
+      "context": "Projeto de Giba em Bandeirantes"
+    },
+    {
+      "name": "Tayayá Resort",
+      "industry": "Hospitality",
+      "context": "Projeto de Giba em Ribeirão Claro"
+    },
+    {
+      "name": "Olímpicos",
+      "industry": "Esportes",
+      "context": "Patrocinadora de Giba por 17 anos"
+    },
+    {
+      "name": "Nike",
+      "industry": "Esportes",
+      "context": "Empresa que contratou Giba após sua saída da seleção"
+    },
+    {
+      "name": "Instituto Serginho 10",
+      "industry": "Social",
+      "context": "Instituto fundado por Serginho"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Athletes Career Program (ACP)",
+      "category": "Education"
+    },
+    {
+      "name": "Educação financeira",
+      "category": "Finance"
+    },
+    {
+      "name": "Gestão de imagem",
+      "category": "Marketing"
+    },
+    {
+      "name": "Síndrome do campeão",
+      "category": "Psychology"
+    },
+    {
+      "name": "disciplina",
+      "category": "personal development"
+    },
+    {
+      "name": "concentração",
+      "category": "personal development"
+    },
+    {
+      "name": "sacrifício",
+      "category": "personal development"
+    },
+    {
+      "name": "dedicação",
+      "category": "personal development"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Business"
+    },
+    {
+      "name": "Transição de carreira",
+      "category": "Career Development"
+    },
+    {
+      "name": "Engajamento em redes sociais",
+      "category": "Marketing"
+    },
+    {
+      "name": "Organização de eventos esportivos",
+      "category": "Event Management"
+    },
+    {
+      "name": "Disciplina financeira",
+      "category": "Estratégia pessoal"
+    },
+    {
+      "name": "Gestão de patrimônio",
+      "category": "Finanças pessoais"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "3 campeonatos mundiais",
+      "context": "Conquistas de Giba Neri"
+    },
+    {
+      "value": "8 ligas mundiais",
+      "context": "Conquistas de Giba Neri"
+    },
+    {
+      "value": "Medalha de ouro nos Jogos Olímpicos de Atenas, 2004",
+      "context": "Conquistas de Giba Neri"
+    },
+    {
+      "value": "1.200 pessoas",
+      "context": "Número de participantes na palestra de Giba em São Paulo"
+    },
+    {
+      "value": "2-3 milhões por ano",
+      "context": "Renda de atletas olímpicos de alto nível"
+    },
+    {
+      "value": "1 milhão de dólares por temporada",
+      "context": "Salário anual de Giba como melhor jogador pago do mundo"
+    },
+    {
+      "value": "100 mil euros por mês",
+      "context": "Salário mensal de Giba"
+    },
+    {
+      "value": "17 anos",
+      "context": "Tempo de parceria entre Giba e Olímpicos"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Giba Neri",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Educação Financeira",
+      "target_type": "concept"
+    },
+    {
+      "source": "Giba",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nike",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Giba",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Morro Dos Anjos Resort",
+      "target_type": "company"
+    },
+    {
+      "source": "Serginho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Instituto Serginho 10",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Ferro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tayayá Resort",
+      "target_type": "company"
+    },
+    {
+      "source": "Giba Neri",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sky",
+      "target_type": "company"
+    },
+    {
+      "source": "Giba Neri",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Síndrome Do Campeão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Giba Neri",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Pinheiros",
+      "target_type": "company"
+    },
+    {
+      "source": "Giba",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sky",
+      "target_type": "company"
+    },
+    {
+      "source": "Giba Neri",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Athletes Career Program (Acp)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Giba",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nasser",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Giba",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tayayá Resort",
+      "target_type": "company"
+    },
+    {
+      "source": "Giba",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Olímpicos",
+      "target_type": "company"
+    },
+    {
+      "source": "Giba",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Rodrigo Ferro",
+      "target_type": "person"
+    },
+    {
+      "source": "Rodrigo Ferro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Morro Dos Anjos Resort",
+      "target_type": "company"
+    },
+    {
+      "source": "Galvão Bueno",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Giba",
+      "target_type": "person"
+    },
+    {
+      "source": "Giba Neri",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Imagem",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "episode_id": "34748488460",
+  "title": "POR TRÁS DA GESTÃO DA MAIOR PLATAFORMA DE MÚSICA BRASILEIRA - COM RONI MALTZ | PAPO DE GESTÃO",
+  "date_published": 1709539200,
+  "duration": 3890,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host of G4 Podcast"
+    },
+    {
+      "name": "Roni Maltz",
+      "role": "guest",
+      "company": "Sua Música",
+      "title": "CEO"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Sua Música",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Éder",
+      "role": "mentioned",
+      "company": "Sua Música",
+      "title": "Founder"
+    },
+    {
+      "name": "Amélia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Spouse of Roni Maltz"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bad Bunny",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artista"
+    },
+    {
+      "name": "Latino",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artista"
+    },
+    {
+      "name": "Evonei Fernandes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante e Artista"
+    },
+    {
+      "name": "Evonei",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "João Gomes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artista"
+    },
+    {
+      "name": "Tarcísio Do Acordeon",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artista"
+    },
+    {
+      "name": "Ramon No Beat",
+      "role": "mentioned",
+      "company": "No Beat Studios",
+      "title": "Produtor"
+    },
+    {
+      "name": "Luan Pereira",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artista"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Sua Música",
+      "industry": "Music Distribution",
+      "context": "Largest free music distribution platform in Brazil, focused on Northeastern music."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Provides training and development platforms for teams."
+    },
+    {
+      "name": "Similarweb",
+      "industry": "Technology",
+      "context": "Analytics platform used to identify web traffic."
+    },
+    {
+      "name": "Spotify",
+      "industry": "Music Streaming",
+      "context": "Global music streaming platform."
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Worked with Roni Maltz's marketing company."
+    },
+    {
+      "name": "Lafitte",
+      "industry": "E-commerce",
+      "context": "Worked with Roni Maltz's marketing company."
+    },
+    {
+      "name": "Domadi",
+      "industry": "E-commerce",
+      "context": "Worked with Roni Maltz's marketing company."
+    },
+    {
+      "name": "Buscapé",
+      "industry": "E-commerce",
+      "context": "Worked with Roni Maltz's marketing company."
+    },
+    {
+      "name": "Apple Music",
+      "industry": "Música e Entretenimento",
+      "context": "Plataforma de streaming mencionada como destino de distribuição de músicas."
+    },
+    {
+      "name": "Deezer",
+      "industry": "Música e Entretenimento",
+      "context": "Plataforma de streaming mencionada como destino de distribuição de músicas."
+    },
+    {
+      "name": "Youtube",
+      "industry": "Mídia e Entretenimento",
+      "context": "Plataforma mencionada como destino de distribuição de músicas."
+    },
+    {
+      "name": "Sua Música Digital",
+      "industry": "Distribuição Digital",
+      "context": "Empresa de distribuição digital de música"
+    },
+    {
+      "name": "No Beat Studios",
+      "industry": "Produção Musical",
+      "context": "Estúdio de áudio em parceria com Ramon No Beat"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Mobile-first strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "AdSense",
+      "category": "Monetization"
+    },
+    {
+      "name": "Digital music distribution",
+      "category": "Business Model"
+    },
+    {
+      "name": "Monetização",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Distribuição Digital",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Gestão de Carreira Artística",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Fragmentação de Mercado",
+      "category": "Tendência de Mercado"
+    },
+    {
+      "name": "Marketing Digital",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "DSPs (Digital Service Providers)",
+      "category": "Tecnologia e Música"
+    },
+    {
+      "name": "Holding",
+      "category": "Estrutura Empresarial"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "30-35% annual growth",
+      "context": "Growth rate of the music industry in Brazil."
+    },
+    {
+      "value": "1 million unique users per month",
+      "context": "Traffic of Sua Música in 2013."
+    },
+    {
+      "value": "2013 a 2017",
+      "context": "Período de implementação de monetização na plataforma Sua Música."
+    },
+    {
+      "value": "2018",
+      "context": "Ano de início de novas unidades de negócio na Sua Música."
+    },
+    {
+      "value": "10 milhões de views",
+      "context": "Métrica de visualizações em vídeos de artistas mencionados."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Roni Maltz",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sua Música",
+      "target_type": "company"
+    },
+    {
+      "source": "Ramon No Beat",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "No Beat Studios",
+      "target_type": "company"
+    },
+    {
+      "source": "Sua Música",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Deezer",
+      "target_type": "company"
+    },
+    {
+      "source": "Sua Música",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "No Beat Studios",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Sua Música",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Spotify",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sua Música",
+      "target_type": "company"
+    },
+    {
+      "source": "Sua Música",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Spotify",
+      "target_type": "company"
+    },
+    {
+      "source": "Roni Maltz",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sua Música",
+      "target_type": "company"
+    },
+    {
+      "source": "Sua Música",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Youtube",
+      "target_type": "company"
+    },
+    {
+      "source": "Roni Maltz",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sua Música Digital",
+      "target_type": "company"
+    },
+    {
+      "source": "Sua Música",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Apple Music",
+      "target_type": "company"
+    },
+    {
+      "source": "Roni Maltz",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "No Beat Studios",
+      "target_type": "company"
+    },
+    {
+      "source": "Éder",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sua Música",
+      "target_type": "company"
+    },
+    {
+      "source": "Sua Música",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sua Música Digital",
+      "target_type": "company"
+    }
+  ]
+}

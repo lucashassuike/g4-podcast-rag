@@ -1,0 +1,230 @@
+{
+  "episode_id": "34748488403",
+  "title": "ESTRATÉGIAS PARA CRESCER E NÃO DEIXAR DINHEIRO NA MESA - COM JULIANO CUSTÓDIO (EQI INVESTIMENTOS) | PAPO DE GESTÃO",
+  "date_published": 1724659200,
+  "duration": 4081,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Juliano Custódio",
+      "role": "guest",
+      "company": "EQI Investimentos",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Delfim Netto",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Eqi Investimentos",
+      "industry": "Financeiro",
+      "context": "Empresa de assessoria e corretora de valores mencionada por Juliano Custódio."
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Financeiro",
+      "context": "Empresa mencionada como referência no setor de investimentos."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Financeiro",
+      "context": "Empresa mencionada como referência no setor de investimentos."
+    },
+    {
+      "name": "Petrobras",
+      "industry": "Energy",
+      "context": "Mentioned as an example of a static investment in the discussion about fee structures."
+    },
+    {
+      "name": "Vale Do Rio Doce",
+      "industry": "Mining",
+      "context": "Mentioned as an example of a static investment in the discussion about fee structures."
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Finance",
+      "context": "Mentioned as an example of a static investment in the discussion about fee structures."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "CDI",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Hot Money",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Spread",
+      "category": "Financeiro"
+    },
+    {
+      "name": "CRI",
+      "category": "Financeiro"
+    },
+    {
+      "name": "CRA",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Debênture incentivada",
+      "category": "Financeiro"
+    },
+    {
+      "name": "FDIC",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Factory",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Verticalização",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Fee fixo",
+      "category": "Finance"
+    },
+    {
+      "name": "Receita recorrente",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Ninebox",
+      "category": "Performance Management"
+    },
+    {
+      "name": "Adesão cultural",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Performance",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Partnership",
+      "category": "Business Structure"
+    },
+    {
+      "name": "SLA (Service Level Agreement)",
+      "category": "Gestão"
+    },
+    {
+      "name": "Expansão internacional",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Mercado financeiro brasileiro",
+      "category": "Setor econômico"
+    },
+    {
+      "name": "Inovação",
+      "category": "Estratégia de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "33 bilhões",
+      "context": "Custódia na assessoria da EQI Investimentos."
+    },
+    {
+      "value": "6 bilhões",
+      "context": "Custódia na asset da EQI Investimentos."
+    },
+    {
+      "value": "1.400 pessoas",
+      "context": "Número de funcionários na EQI Investimentos."
+    },
+    {
+      "value": "850 pessoas",
+      "context": "Número de funcionários no time de vendas e assessoria da EQI Investimentos."
+    },
+    {
+      "value": "150 sócios",
+      "context": "Number of partners in EQI Investimentos."
+    },
+    {
+      "value": "30 principais sócios",
+      "context": "Key partners in EQI Investimentos."
+    },
+    {
+      "value": "Três anos",
+      "context": "Tempo de aprendizado sobre o mercado financeiro dos Estados Unidos"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Juliano Custódio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Eqi Investimentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Eqi Investimentos",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Eqi Investimentos",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Mercado Financeiro Brasileiro",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eqi Investimentos",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Expansão Internacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eqi Investimentos",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    }
+  ]
+}

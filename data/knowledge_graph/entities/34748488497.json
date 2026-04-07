@@ -1,0 +1,336 @@
+{
+  "episode_id": "34748488497",
+  "title": "Transforme o Seu Negócio Através das Vendas - Com Caio Carneiro | Extremos",
+  "date_published": 1701334800,
+  "duration": 4790,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Caio Carneiro",
+      "role": "guest",
+      "company": "Bora Vender",
+      "title": "Founder"
+    },
+    {
+      "name": "Flávio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rony",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thiago Conce",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Flávio Augusto Da Silva",
+      "role": "mentioned",
+      "company": "Wiser Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Ricardo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Paulo Vieira",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Bora Vender",
+      "industry": "Sales Education",
+      "context": "Founded by Caio Carneiro to train and certify sales professionals."
+    },
+    {
+      "name": "Cirela",
+      "industry": "Real Estate",
+      "context": "Mentioned as an example of a company with a strong sales culture."
+    },
+    {
+      "name": "Vertex",
+      "industry": "Unknown",
+      "context": "Mentioned in relation to Caio Carneiro's interaction with Alfredo Soares."
+    },
+    {
+      "name": "Buzz Editora",
+      "industry": "Publishing",
+      "context": "Published Caio Carneiro's book 'Seja Foda'."
+    },
+    {
+      "name": "Wiser Educação",
+      "industry": "Education",
+      "context": "Owned Buzz Editora and acquired Vents."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts the G4 Podcast and engages in client success stories."
+    },
+    {
+      "name": "Vente",
+      "industry": "Educação",
+      "context": "Empresa mencionada como exemplo de negócio fundado e influenciado por Caio Carneiro."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Sales",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Commission-based Income",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Sales Training",
+      "category": "Education"
+    },
+    {
+      "name": "Sales Certification",
+      "category": "Education"
+    },
+    {
+      "name": "Venda Direta",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Liderança Comercial",
+      "category": "Leadership"
+    },
+    {
+      "name": "Renovação de Esperança",
+      "category": "Motivational Strategy"
+    },
+    {
+      "name": "Binômio da Felicidade",
+      "category": "Personal Development"
+    },
+    {
+      "name": "rotina de demonstração de afeto",
+      "category": "estratégia pessoal"
+    },
+    {
+      "name": "ansiedade",
+      "category": "desafios do empreendedorismo"
+    },
+    {
+      "name": "burnout",
+      "category": "desafios do empreendedorismo"
+    },
+    {
+      "name": "Humanização dos negócios",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Personificação de marcas",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Despersonificação de marcas",
+      "category": "Estratégia de marketing"
+    }
+  ],
+  "books": [
+    {
+      "title": "Seja Foda",
+      "author": "Caio Carneiro"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "15,000",
+      "context": "Number of students certified in sales by Bora Vender in the previous year."
+    },
+    {
+      "value": "25 clientes",
+      "context": "Caio Carneiro's initial client base during Vertex Day."
+    },
+    {
+      "value": "Dezenas de milhares de distribuidores",
+      "context": "Size of Caio Carneiro's sales team."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Personificação De Marcas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Flávio",
+      "target_type": "person"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Humanização Dos Negócios",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rony",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bora Vender",
+      "target_type": "company"
+    },
+    {
+      "source": "Wiser Educação",
+      "source_type": "company",
+      "relation": "owned",
+      "target": "Buzz Editora",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vente",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Thiago Conce",
+      "target_type": "person"
+    },
+    {
+      "source": "Wiser Educação",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Vents",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vents",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Buzz Editora",
+      "source_type": "company",
+      "relation": "published",
+      "target": "Seja Foda",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "published",
+      "target": "Seja Foda",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Despersonificação De Marcas",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Education",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávio Augusto Da Silva",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Wiser Educação",
+      "target_type": "company"
+    }
+  ]
+}

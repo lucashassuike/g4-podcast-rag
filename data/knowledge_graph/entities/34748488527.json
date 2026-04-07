@@ -1,0 +1,190 @@
+{
+  "episode_id": "34748488527",
+  "title": "Como Viver Mais e Envelhecer com Qualidade? - Com. Dr. Renato Tomioka | Sem Atalhos",
+  "date_published": 1697531400,
+  "duration": 2660,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Renato Tomioka",
+      "role": "guest",
+      "company": "Clínica Vida Bem-Vinda",
+      "title": "Médico especialista em longevidade, terapia hormonal e cirurgia robótica"
+    },
+    {
+      "name": "Caíto Maia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de treinamentos e desenvolvimento de times"
+    },
+    {
+      "name": "Clínica Vida Bem-Vinda",
+      "industry": "Saúde e Medicina",
+      "context": "Clínica especializada em reprodução humana"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "longevidade",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "healthspan",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "lifespan",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "SEO",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "gerontologia",
+      "category": "Ciência e Medicina"
+    },
+    {
+      "name": "Intervention Testing Program (ITP)",
+      "category": "Pesquisa Científica"
+    },
+    {
+      "name": "metformina",
+      "category": "Medicina"
+    },
+    {
+      "name": "rapamicina",
+      "category": "Medicina"
+    },
+    {
+      "name": "Estatinas",
+      "category": "Medicina e longevidade"
+    },
+    {
+      "name": "Resveratrol",
+      "category": "Medicina e longevidade"
+    },
+    {
+      "name": "Medicina baseada em evidências",
+      "category": "Metodologia científica"
+    },
+    {
+      "name": "Doença cardiovascular",
+      "category": "Saúde e medicina"
+    },
+    {
+      "name": "Mitocôndria",
+      "category": "Biologia e saúde"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "7 dias gratuitos",
+      "context": "Demonstração do G4 Skills"
+    },
+    {
+      "value": "84-85 anos",
+      "context": "Expectativa média de vida para homens e mulheres"
+    },
+    {
+      "value": "54%",
+      "context": "Redução da mortalidade por doença cardiovascular com uso prolongado de estatinas"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Tomioka",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Clínica Vida Bem-Vinda",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Tomioka",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    }
+  ]
+}

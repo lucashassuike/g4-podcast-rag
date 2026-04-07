@@ -1,0 +1,405 @@
+{
+  "episode_id": "46193046402",
+  "title": "OS BASTIDORES DO G4 VALLEY 2025 | EXTREMOS",
+  "date_published": 1764776978,
+  "duration": 4580,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Verônica",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Event Coordinator"
+    },
+    {
+      "name": "Cunha",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Operations Specialist"
+    },
+    {
+      "name": "Collares",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tarcísio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nicolas",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Daniel Zuckerman",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Palhares",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Caio Da Oakley",
+      "role": "mentioned",
+      "company": "Oakley",
+      "title": ""
+    },
+    {
+      "name": "Benchmark",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dib",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "João Vitor",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Organizadora do evento G4 Valley 2025"
+    },
+    {
+      "name": "G4 Store",
+      "industry": "Retail",
+      "context": "Merchandise sales during the event"
+    },
+    {
+      "name": "Oakley",
+      "industry": "Retail",
+      "context": "Mentioned in relation to Caio's participation in the event."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Valley 2025",
+      "category": "Evento"
+    },
+    {
+      "name": "Gestão de eventos",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Setlist",
+      "category": "Termo técnico"
+    },
+    {
+      "name": "No-break",
+      "category": "Equipamento técnico"
+    },
+    {
+      "name": "CPA (Custo por Aquisição)",
+      "category": "Métrica de Marketing"
+    },
+    {
+      "name": "Show Rate",
+      "category": "Métrica de Eventos"
+    },
+    {
+      "name": "Receita por Bunda na Cadeira",
+      "category": "Métrica de Eventos"
+    },
+    {
+      "name": "Club Scale",
+      "category": "Programa de Membros"
+    },
+    {
+      "name": "Club Experience",
+      "category": "Programa de Membros"
+    },
+    {
+      "name": "Black Friday",
+      "category": "Evento de Vendas"
+    },
+    {
+      "name": "Atlas",
+      "category": "Área de Evento"
+    },
+    {
+      "name": "Área Comum",
+      "category": "Área de Evento"
+    },
+    {
+      "name": "CPA (Cost Per Acquisition)",
+      "category": "Marketing Metrics"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Customer Satisfaction Metrics"
+    },
+    {
+      "name": "Event Logistics",
+      "category": "Operations"
+    },
+    {
+      "name": "Overbooking",
+      "category": "Event Management"
+    },
+    {
+      "name": "Bilheteria",
+      "category": "Revenue Streams"
+    },
+    {
+      "name": "Planejamento de eventos",
+      "category": "Estratégia"
+    },
+    {
+      "name": "P&L (Profit and Loss)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Narrativa de eventos",
+      "category": "Marketing"
+    },
+    {
+      "name": "Gestão paralela",
+      "category": "Gestão"
+    },
+    {
+      "name": "Senso de comunidade",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "FOMO (Fear of Missing Out)",
+      "category": "Psychological Strategy"
+    },
+    {
+      "name": "Networking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Pitch",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Event Cenography",
+      "category": "Event Planning"
+    },
+    {
+      "name": "Instagrammable Experiences",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "G4 Valley",
+      "category": "Evento"
+    },
+    {
+      "name": "Patrocínio",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Aquisição de clientes",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Ativação de marca",
+      "category": "Estratégia de Marketing"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "12 mil pessoas",
+      "context": "Meta de público para o evento"
+    },
+    {
+      "value": "65 milhões de reais",
+      "context": "Faturamento do G4 Valley 2025"
+    },
+    {
+      "value": "360 seguranças",
+      "context": "Número de seguranças no evento"
+    },
+    {
+      "value": "1.600 pessoas",
+      "context": "Equipe total envolvida na produção do evento"
+    },
+    {
+      "value": "1.600 pessoas",
+      "context": "Número total de pessoas envolvidas na produção do evento, incluindo fornecedores."
+    },
+    {
+      "value": "360 seguranças",
+      "context": "Número de seguranças contratados para o evento."
+    },
+    {
+      "value": "400 seguranças",
+      "context": "Número total de seguranças incluindo os pessoais e do governador."
+    },
+    {
+      "value": "12 milhões de reais",
+      "context": "Total cost of organizing the event"
+    },
+    {
+      "value": "4,5 milhões de reais",
+      "context": "Marketing expenses for the event"
+    },
+    {
+      "value": "9,7 milhões de reais",
+      "context": "Revenue from ticket sales"
+    },
+    {
+      "value": "17 milhões de reais",
+      "context": "Total expenses including marketing"
+    },
+    {
+      "value": "12 mil pessoas",
+      "context": "Attendance at the event"
+    },
+    {
+      "value": "22 eventos por mês",
+      "context": "Número médio de eventos organizados pela empresa"
+    },
+    {
+      "value": "7 dias",
+      "context": "Duração do evento Vale, incluindo montagem e desmontagem"
+    },
+    {
+      "value": "5 lotes",
+      "context": "Número de lotes de ingressos vendidos para o evento"
+    },
+    {
+      "value": "12,000",
+      "context": "Number of attendees at the G4 Valley event."
+    },
+    {
+      "value": "25,000",
+      "context": "Ticket price for a product sold during the event."
+    },
+    {
+      "value": "5 to 10 million",
+      "context": "Business deals made during the event."
+    },
+    {
+      "value": "5 to 100 million",
+      "context": "Annual revenue of the target audience for the event."
+    },
+    {
+      "value": "16",
+      "context": "Number of exhibitors at the event."
+    },
+    {
+      "value": "20",
+      "context": "Projected number of sponsors for the next event."
+    },
+    {
+      "value": "5 a 100 milhões por ano",
+      "context": "Faturamento médio dos participantes do evento G4 Valley"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Cunha",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Store",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Planejamento De Eventos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Collares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Verônica",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Da Oakley",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Oakley",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,1317 @@
+{
+  "id": 34748488469,
+  "title": "COMO O IFOOD UTILIZOU AI PARA REVOLUCIONAR O NEGÓCIO - COM SANDOR CAETANO | PAPO DE GESTÃO",
+  "guest": "",
+  "date_published": 1707227947,
+  "duration": 4080,
+  "text": "Fala galera, bem-vindos a mais um Papo de Gestão.Para você que acompanha a gente aqui, você deve se perguntar,por que eu vou dedicar tempo para treinar as pessoas do meu time,se elas podem ir embora?Porque se você não treiná-las e elas ficarem na sua empresa,aí sim você vai ter um problemão.Afinal, uma empresa é formada pelas pessoas que a compõem.E o resultado do negócio depende diretamente da performance desses colaboradores.Sabendo do desafio que é treinar e capacitar gente,nós desenvolvemos o G4 Skills,que é a plataforma de treinamento de times aqui do G4 Educação,que avalia as lacunas de habilidades e a maturidade do seu colaboradore cria uma trilha personalizada de desenvolvimento para cada membro do seu time,com as nossas formações aqui do G4.Para você conhecer o G4 Skills, eu liberei 7 dias de acesso gratuito à nossa plataforma.Basta você escanear o QR Code que está aqui nessa telaou clicar no link do descritivo desse episódio.Então aproveita, vai lá com o teu time, você vai aprender muito.E agora, esse episódio aqui do Papo de Gestão está sensacional.Espero que você goste.E hoje eu converso com ele aqui, um grande cientista de dados,que se formou em economia, economista de formação,mas também se tornou especialista em inteligência artificial e analytics.Ele que tem mais de 16 anos com experiência nesse mercado,passou por consultoria, pelo Nubank, pelo iFood e agora está lá liderando como CDO a PicPay.Então Sandor Caetano, seja muito bem-vindo aqui.Prazer falar com você, meu querido.Obrigado, obrigado pelo convite também.Feliz de estar aqui com vocês.Valeu mesmo.Boa.E hoje, galera, para esse episódio que a gente vai falar bastante de inteligência artificial,não estou sozinho, trouxe ele aqui, o João Vitor, nosso COO, CPTO, CIO.Coloca todos os Cs aí que você quiser na frente.Ele que aqui, meu sócio de longa data, de outros carnavais antes do G4,e felizmente ele veio junto acompanhar a gente aqui também no G4.Bem-vindo aí, João.Prazer, prazer estar aqui.Prazer conversar com você também, Sandor.Falar de um tema que eu tenho estudado um pouquinho nos últimos dias, últimas semanas.Há muito tempo, ele é o cara que está liderando toda a parte de AI aqui no G4,feito coisas bem legais, né?\nBoa.\nCara, vamos lá, começar aqui falando um pouquinho do case da iFood, né?\nQue veio toda essa sua construção, você passou lá pelo Nubank também como cientista de dados,\nmas vindo aqui no case da iFood, que originou esse livro aqui, o cientista e o executivo,como o iFood alavancou seus dados e usou a inteligência artificial para revolucionar os seus processos.Criar vantagem competitiva e se tornar um case mundial de sucesso.Quais eram as dores que você tinha lá no iFood que de fato foram solucionadas com inteligência artificial?\nBom, eu me juntei ao iFood em 2019, no comecinho de 2019, e o iFood era uma empresa, como toda empresa brasileira,\nela veio crescendo ao longo dos anos através de M&As, através de campanhas, criação de marca,\nmas era aquela empresa brasileira que ela tem o caixa bonitinho lá e tudo aquilo que é gerado de receita é reinvestido na empresa e é puramente comercial e marketing.\nEntão, times muito fortes de comercial, times muito fortes de marketing que vão fazer a empresa crescer, mas ela não era uma empresa de tecnologia como a gente está hoje, está mais acostumado.\nQuando eu cheguei lá, a ideia era vamos implementar IA em todos os componentes da empresa. Então, o Fabrício, que é o CEO, ele tinha essa visão de que a empresa vai ser transformada pelo uso de inteligência artificial.\nTodos os componentes lá, todas as frentes vão ser transformadas. Só que, obviamente, era tudo mato.\nEntão, o que era mais importante para a gente? Então, a visão era, bom, a gente está aqui para substituir o fogão.\nQual que é a história de substituir o fogão? Eu, por exemplo, gosto de fazer risoto. Vamos fazer risoto? Você compra o arroz, joga vinho, mexe por meia hora lá, joga vinho, meia hora mexendo arroz e não fica bom.\nQual que era a hipótese? Por que você não entrega para o teu cliente os melhores risotos da cidade e deixa ele beber o vinho, daí ele não precisa se preocupar?\nEntão, como é que você precisa, para poder fazer isso, ele precisa ser extremamente eficiente. Eu preciso entregar rápido, eu preciso entregar na hora, precisa ser barato e eu preciso dar para o restaurante a possibilidade de crescer, de prosperar.\nPerfeito. Tá bom, então, agora a gente vai investir em logística, que é extremamente importante para nós, a gente vai investir em marketing.\nQuem nunca comprou uma comida com cupom? Como é que a gente faz para criar uma estratégia de cupons que faça sentido para o cliente?\nAntifraude, parte operacional, atendimento e por aí vai. Então, o sonho era muito grande, a gente começou pelas áreas que estavam mais claras para a gente, mas hoje, avançando quatro anos, todas as áreas do iFood praticamente são afetadas por algum modelo ou giram em torno de modelos de ar.\nUma dúvida aqui, ele estava falando de começar a gravar, até da pesquisa lá que você viu, acho que depois a gente pode trazer esse resultado, mas aqui no G4 mesmo, a gente divide muito coisas de AI, a gente fala porta para fora e coisas porta para dentro.\nTem coisas que impactam os nossos clientes de maneira mais direta e tem coisas que impactam o nosso time que está aqui, mas o cliente nem sabe que existe AI ali. Como que vocês viam isso? Dividiam isso? Se tinha mais foco em coisas direto para o cliente, coisas mais para dentro? O esforço de modo geral estava alocado de uma maneira proporção? E como que você enxerga isso para a maioria das empresas hoje?\nO iFood, eu falo que a gente passou por quatro fases nesses quatro anos que eu passei lá. A primeira fase foi uma fase de lua de mel, vamos usar AI para resolver todos os problemas. Então, não era incomum você ter uma apresentação de um gestor com o plano dele para a área dele e o último slide ter um desenho de um robô e o AI vai resolver tudo. Era até surreal, a gente até narra essas coisas no livro, porque do meu ponto de vista chega a ser engraçado.\nÉ igual a época do blockchain.\nExato, agora é um problema meu isso, tudo o que nós vamos fazer e agora esse resto aqui o Sandro resolve o que faltou. E essa fase foi muito legal porque tinha muita abertura, vamos lá, vamos colocar as coisas para rodar e vai dar tudo certo. Só que como eu falei, era tudo mato, então você não tinha infraestrutura necessária. Rapidamente esses modelos que a gente colocou no ar começaram a falhar, começaram a dar problema e começaram a frustrar a expectativa.\nEntão você esperava ganhar milhões e estava dando resultado pequenininho. Então a gente entra na era da escuridão lá dentro do iFood que foi muito ruim. Foi tão ruim, mas tão ruim que o meu chefe virou para mim e ele me deu um coach. Ah, vou te dar um coach executivo aqui para você aprender. Mas o coach sabe programar? Porque eu preciso de alguém que saiba programar. É verdade. E eu falei, mas ele sabe programar porque eu tenho um problema sério de infraestrutura aqui. E é o que aconteceu, a gente tinha duas listas de projetos para fazer.\nMetade do meu time ficava fazendo coisas para dentro, para responder sua pergunta. Por quê? Porque eu precisava de plataformas de dados, eu precisava de plataformas para poder colocar um modelo no ar que responde que aguente milhões e milhões e milhões de pedidos e eu também precisava entregar valor na ponta. Então é como se eu estivesse trabalhando com metade do time coisas que são observáveis. Então a pressão ficou muito grande nessa época. Isso levou um ano, quase um ano e meio nessa fase. Só que aí depois de um tempo essa parte mais de encanamento, essa parte mais estrutural começou a dar certo e você começou a empilhar valor. Então se você pensar na estrutura, no resultado de ano no iFood é como se fosse uma curva S. Você tem um começo que ele é demorado para gerar resultado e ele sobe muito rapidamente por conta dessas plataformas. Aí eu falo, beleza, agora estamos no iluminismo. O pessoal entendeu como é que funciona isso aqui, a terceira fase. O pessoal entendeu como é que funciona, estamos iluminados, agora as áreas começaram a demandar. Então antes a gente empurrava projetos, você vai fazer esse projeto, você vai fazer esse projeto, agora não. O pessoal, eu quero isso, eu quero isso, eu quero aquilo. Beleza, a gente continuou investindo em infraestrutura ao ponto de automatizar tanta coisa lá dentro que a gente está na era industrial, onde você tem uma fabriquinha de modelos e modelos são colocados no ar o tempo todo para melhorar diversos aspectos da sua experiência. Então hoje é tanta coisa que vai para o ar ao mesmo tempo que a gente já nem sabe mais o que está acontecendo em cada canto da empresa. Me dá um exemplo aí de uma funcionalidade que você achou sensacional, que vocês fizeram usando AI, que mudou muito o patamar de personalização ou o que seja de resultado final para\n\naraí, vai, do último ano, um ano e meio mais ou menos ali. O primeiro foi o GPT-3, quando lançou, acho que foi março do ano passado, ano retrasado, e novembro do ano passado, o chat GPT, que foi, ao invés de ser um algoritmo que é máquina falando com máquina, passou a ser humano interagindo com máquina, ou máquina interagindo com humano. Você pode abrir e falar o que vocês fizeram para essas pessoas que estão ali, quando elas vão entrar, elas serem mais produtivas, elas fazerem uma atuação melhor, tipo a combinação. Tem um professor que eu gosto muito de Wharton, que é o Itano Mollick, que ele divide as operações de AI, ele fala, tem algumas que AI não entra, e aí as que entram ele divide entre centauro e ciborgue. O centauro é que, ó, esse pedaço é AI, esse pedaço é pessoa, que nem o centauro, metade é cavalo, metade é humano. E ciborgue, cara, é tudo misturado, você não sabe onde é humano, onde não é, você vai ali tomando decisão de usar. O que vocês fizeram nesse sentido para as pessoas, quando elas entrarem, elas terem um suporte ali? O Itano Mollick é fantástico, eu adoro a abordagem dele com relação à educação, acho que ele está certíssimo, e acho que educação é um negócio que vai mudar completamente nos próximos anos. A gente teve uma experiência legal, a gente acabou... O que acontece? O iFood tem um fundo de investimentos, que a gente acabou dando a maior sorte, que eles investem em empresas de IA, e eles acompanham esse mercado. Então eles tinham com a OpenAI um... tem ainda, né, um acordo com a OpenAI, e eles tinham acesso aos GPTs. Em setembro do ano passado, a gente fez um evento, e eles foram mostrar para a gente uma ferramenta que eles tinham criado internamente para ajudar a escrever código. E o que eles mostraram pra gente foi o chatGPT, antes de ter o chatGPT, que era basicamente uma web page que ele colava código lá, o negócio respondia. Ou ele colava código, respondia o que o código fazia, ou ele pedia, ah, eu quero um código pra isso, isso, isso. A gente ficou louco! Loucura! Do dentro do fundo, tinha mais ou menos uns 30 líderes das empresas de IA do mundo inteiro, então tinha gente do iFood, do OLX, de outras empresas do grupo da... da Prosos, a gente precisa de acesso a isso, deixou brincar, deixou pôr a mão nesse negócio. E aí, o que eles fizeram? Eles criaram uma interface dentro do Slack, interface não, criaram um bot de Slack, literalmente, onde você dá um arroba, plus one, que é o nome da ferramenta, que é basicamente um colega extra no seu time, e você pode usar dentro do Slack essa ferramenta pra usar o GPT. E aí, tinha uns acordos de privacidade lá entre nós e a OpenAI, o que é ótimo, porque você podia usar tranquilamente dentro do ambiente de trabalho, e a gente monitorava tudo agressivamente pra não ter gracinha. Ao fazer esse monitoramento, a gente começou a pegar o uso das pessoas e melhorar os pré-prompts, né, então antes do prompt vai alguma informação sobre você pra te ajudar a fazer uma pergunta. Então hoje, 45% do uso dessa ferramenta no grupo, tem 10 mil pessoas usando essa ferramenta dentro da Prosos, numa apresentação que fizeram agora, 45% eles usam pra código. Então a pessoa entra lá no Slack e fala, como é que eu faço isso, como é que eu faço aquilo? Se eu sei que você é um programador muito bom e você não é, às vezes eu vou dar respostas diferentes, ó, tá aqui o código, resolve lá, tá aqui o código e um link pra você entender. Exato. E aí vai melhorando. Só que foi a primeira vez na minha carreira que eu vi o jogo virar. O que é o jogo virar? Antigamente, as pessoas vinham pra mim e falavam, Sander, eu tive uma ideia. Cria um modelo pra fazer isso, isso, isso e aquilo. Putz. Ferrado, aqui cheio de coisa pra fazer. Vamos fazer o seguinte, deixa aí, a gente vai começar no próximo planejamento daqui a X meses. Quando a gente colocou essa ferramenta no Slack, as pessoas começaram a prototipar elas mesmas. Ó, testei isso aqui. Funcionou, gostei. E aí a gente implementa. Então a gente empoderou os civis pra que eles possam prototipar seus produtos. Então, por exemplo, o pessoal, o iFood tem uma empresa chamada iFood Benefícios. Eles vendem vale-refeição para as empresas. A venda do Benefícios é feita com o profissional de RH. Então eu ligo lá no RH e falo, ô RH, quer comprar aqui o benefício e tudo mais? Eles pegaram os áudios dessas gravações, passaram por dentro desse Plus One, que tem reconhecimento de fala. Hoje é multimodal, ele tem tudo isso, mas antigamente não tinha. E ele reconhecia a fala, ele dizia pra gente o que aconteceu naquela conversa, resumia o que aconteceu, se o cliente estava interessado ou não, e quais eram os próximos passos. Isso foi prototipado pelo time de negócios lá na pronta. Tem uma outra empresa do iFood chamada iFood Benefícios, iFood Shop, desculpa. O iFood Shop vende insumos para o restaurante. Farinha, queijo, mortadela e por aí vai. Eles pegaram a lista de ingredientes, a lista de pratos dos restaurantes e pediram para o GPT gerar ingredientes para gerar lead qualificado. Então agora o iFood consegue saber quanta mussarela é consumida na moca, num sábado, por exemplo, para poder fazer vendas. Isso tudo na mão das pessoas. Então essa virada foi muito interessante. Você acha que... Aí, entrando aqui nessa parte de AI generativa ainda de foco, eu tenho a impressão de que, pelo menos hoje, as pessoas de negócio, menos de tech pura, estão conseguindo ser mais criativas nos usos. Porque a impressão que eu tenho quando eu sento, por exemplo, com o time de tech do próprio G4, para eles tirarem do chão alguma coisa, eles ficam muito presos à tech e menos aos problemas de negócio que ela resolve. E tem muita coisa que, literalmente, é só pensar no promptzinho, que ele vai funcionar melhor do que se eu plugar num zilhão de bancos de dados ou outras coisas. E eu tenho essa impressão, tipo, hoje tem muita solução de tecnologia que está sendo melhor... Vou usar o AI. Que gente de negócio está sabendo usar melhor, ou pelo menos rampar melhor o nó. O sentido é esse que a gente deveria ir, do que o pessoal de tecnologia. Qual é a sua visão nisso? Sempre teve um rachão entre esses dois grupos, quase antagônicos. Por isso que a gente fala muito do cientista executivo. Acho que foi um pouco dessa pegada do livro, que é... Você tem o executivo que ele quer receita, retorno, diminuir custos, e tem a galera da tecnologia que está preocupada com a implementação. Está preocupada com a tecnologia em si. Exato. O que eu estou usando? É legal? Como é que isso aqui vai soar no meu currículo? Que tecnologias que eu sei? É sopa de letrinha, né? Engenheiro, pessoal de dados adora isso. Quando caiu o GPT na mão das pessoas, elas começaram a interagir com a tecnologia e começaram a entender. É como se os mundos se aproximassem mais um pouco. Além disso, o GPT permite você fazer algumas coisas de forma muito fácil. Por exemplo, imagina que eu quero entrar nas avaliações dos restaurantes para poder recomendar para os clientes dos restaurantes, baseado nos comentários. Eu posso ir lá e usar o GPT para criar um modelo que vai me dizer se o comentário é bom ou ruim. Então, a pessoa está feliz ou está triste com esse restaurante? Foi bom ou não foi? Você consegue usar o GPT muito rapidamente a partir de um prompt para resolver isso, que é o exemplo que o pessoal estava usando no Slack. Antigamente, eu ia precisar coletar todos esses dados, pegar no banco, dar uma limpada, pegar o algoritmo, ter um cientista para fazer isso, para gerar o resultado se as pessoas estão falando bem ou mal de um determinado restaurante. Então, para alguns casos, principalmente nesses contextos, o GPT aproximou demais. Então, ele facilita a prototipar coisas, criar POCs. Muito bom. Galera, olha só, vocês estão curtindo aí o nosso papo aqui, o Papo de Estão. Convido vocês a avaliarem a gente aí no Spotify. A gente tem essa meta de continuar aí nos top 5 podcasts de negócios aqui do Brasil no Spotify. Então, você está ouvindo no YouTube, vai lá no Spotify, dá 5 estrelinhas para a gente. Você está aí no YouTube também, dá um likezinho, comenta aqui, manda para a gente aqui nos comentários quem você gostaria também de ver, que a gente trouxesse aqui para o Papo de Estão. É rapidinho e ajuda bastante a gente nessa missão aí de democratizar esse conteúdo de tanta importância para você, gestor. E, cara, fechando aqui essa história aí do iFood, que foi tua história recente, é uma dúvida que todo mundo tem. Na época eu estava na rápida, a minha galera me perguntava toda hora, né? Você está lá no meio da tarde, aquele calor danado, daí veio uma notificação lá do iFood, né? Vai um\n\num teste tão rápido como acontece nas empresas que a gente toca ou participa, nem sempre as pessoas conseguem amadurecer as qualidades que elas precisam ao longo do tempo. Eu sempre digo que tem três tipos de profissionais, que eles conseguem muito bem tirar o negócio do 0 para o 1, que eles conseguem levar do 1 para o 10 e que eles conseguem levar do 10 para o 100. E tipicamente essas três pessoas são pessoas que são completamente diferentes. Pelo que eu vejo você, você é uma pessoa que consegue tirar ele do 1 para o 10 e do 10 para o 100. Talvez do 0 para o 1, quando eu falo assim, do negócio, talvez seja um pouco diferente, mais pelas histórias aqui que você contou. Mas daí você entra lá no time, você chega na PicPay, talvez tinha alguém ali que queria assumir aquela posição, que não assumiu e tem esse burburinho interno. Em todo lugar tem, né? Você falou que essa vai ser a terceira coisa talvez que você vai conversar sobre o time, mas como você lidar com isso, como você vivenciou isso nos outros lugares que você passou, conforme você foi subindo também em cada um dos lugares, como você lidou com esse barulho interno? Super complicado esse assunto e ele depende de uma coisa, ele depende de crescimento. Enquanto a empresa está crescendo, o crescimento é oxigênio. Então enquanto a empresa está crescendo, do 0 a 10, geralmente aquele momento fantástico, do 10 ao 100, você falou. Do 0 ao 1, do 1 ao 10 e do 10 ao 100. Você tem um negócio que ele cresce, você gera muita oportunidade. Então o que acontece é que você tem bastante espaço para fazer movimentações e por aí vai. As pessoas crescem, às vezes até mais do que elas conseguem porque a empresa demanda isso. Então meu primeiro objetivo é, nós precisamos trazer receita, nós precisamos trazer fontes de crescimento, o objetivo do time é fazer a empresa crescer e crescimento é oxigênio. Obviamente quando você está em uma situação mais steady state, onde o negócio está mais parado, você não tem tanto crescimento, ou o que aconteceu no último ano e meio aí vai com as empresas fazendo layoffs, diminuindo de tamanho, diminuindo investimento, capital caro e por aí vai. As estruturas, elas se movimentam menos. Qual que tem sido a minha filosofia com o time? Eu quero criar a máfia do PicPay agora. O que é a máfia do PicPay? Esse time aqui, ou a gente cresce, ou você cresce aqui dentro da empresa, porque tem espaço, porque tem crescimento e oportunidade, ou você vai sair para fora daqui, mas você vai fundar a sua empresa, você vai ser o chefe de não sei o que lá de outra empresa. Então enquanto estivermos aqui, eu vou fazer de tudo para que vocês cresçam como profissionais. Que se dêem muito bem. Exato. Então se não couber aqui dentro, você vai caber muito bem lá fora. Porque a gente teve um momento especial aqui entre nós, nesse período. Legal. Isso é legal, tem um livro, cara, esqueci o nome do livro agora, foi a Taika que indicou que falava que o papel do líder, ele era definir a visão ali do que o time tinha que fazer. Tinha a segunda coisa que eu lembro que era, mas a terceira coisa era cuidar da carreira das pessoas do time. Às vezes o cuidar da carreira não é fazer a pessoa crescer na empresa, mas ele se desenvolver na carreira que ele vai ter, às vezes em outro lugar. Beleza, e que é uma coisa que eu gosto muito de filosofia de consultorias, nas grandes consultorias. Cara, tipo a McKinsey que eu estudei mais a fundo como funciona para pegar algumas coisas para o meu time no G4. Eles fazem isso, eles trazem muita gente, eles sabem que uma galera não vai ficar, mas tudo bem, eles trazem, ensinam e depois eles falam, somos alumne aqui da McKinsey que vão para outros lugares, vão se dar bem nesses lugares e depois quando a gente precisar, a gente vai ter o acesso e quando eles precisarem, eles vão lembrar da gente, a gente vai ajudar e vai criando isso que você falou da máfia. Acho que é o primeiro, acho que é, cara, acho que é o primeiro gestor que eu converso que falou explicitamente, não, cara, essa é a minha cabeça aqui, se não der para crescer aqui dentro, o cara vai crescer em outro lugar, mas o foco é, vai todo mundo crescer. A gente, na Canui, a gente fazia muito isso, né, o Bruno Henriques, que trabalhou contigo lá no iFood por muito tempo, a gente tinha isso, porque de um certo momento lá da fundação, lá no fim de 2011 até a venda em 2015, a gente teve algum período que a gente cresceu muito rápido, né, nesse período que a gente cresceu muito rápido, muita gente teve oportunidade e depois a gente entrou num período de rentabilização extrema, então, cada centavo conta, ainda mais num negócio multimarca de varejo, né, que o volume, de certa forma, né, o tamanho do mercado é um pouco menor. E muita gente, a gente fez isso, né, como os investidores lá, a Rocket International, várias outras empresas que ficavam no mesmo espaço que a gente, inclusive o iFood uma época, ficou lá com a gente também no mesmo espaço, acho que foi em 2013, 14, que era um condomínio lá na Vila Leopoldina, ali na frente do parque Vila Lobos, né, o Vila Lobos Office, acho que chama lá, que eram cinco torres e tal, Vila Lobos Office, e daí o iFood foi lá, pegou umas casinhas lá que tinham no meio do negócio, e a gente, muita gente boa do nosso time, que, cara, a nossa régua era muito alta de gente, assim, muito alta, as pessoas mandavam bem, mas não mandavam bem tão suficiente para continuar crescendo lá dentro, a gente falou, olha, você não vai subir, mas você está, cara, assim, no top 1 ou no top 2, se a gente te mandar para aquela empresa, quer ir para aquela empresa? E daí a gente conversava com o fundador, que estava precisando daquela vaga, que já tinha a nossa cultura, que já tinha sido bem treinado, e realocava a pessoa lá, é bom para todo mundo, boa para a pessoa que ela se desenvolveu, bom que resolve o problema nosso de custo, né, que a gente precisava resolver, e, cara, está todo mundo bem, e a pessoa também vai ser eternamente grata para você, para você ter cuidado da carreira dela, de alguma maneira, para as pessoas se darem bem. Cara, nessa altura do campeonato, é isso que você faz, você cuida da carreira das pessoas, você quer ter o melhor time, é o upper out, né, você cuida bem, porque é eles que vão efetuar o trabalho, no final das contas, tem que ser muito bem azeitada essa relação, sabe? Exato. Cara, e o que que, né, você falou um pouquinho, não sei o que você pode abrir ou não, mas o que os clientes do PicPay podem esperar aí, nos meses e nesse próximo ano aí, de novas funcionalidades, personalização, não pode abrir muita coisa desse comecinho aí que você falou, se não puder abrir também está tudo bem. Estou na lua de mel ainda, mas eu acho que uma coisa interessante do PicPay é que ele é um produto heterogêneo, ele tem muita coisa, tem muita funcionalidade, então, obviamente, o negócio que a gente espera mais é um produto que funciona melhor na mão do cliente, um produto que funciona do jeito que o cliente precisa mais personalização, mais facilidade de encontrar aquilo que ele quer, de resolver os problemas do dia a dia dele, então, é um produto cada vez mais gostoso de ser usado pelas pessoas. Boa, boa. Cara, ainda aqui, já quase para a reta final, antes de eu entrar aqui no bate-bola com o gestor, quais que são as tendências de AI que você vê aí nas empresas nesses próximos anos? Tendências? Eu tenho visto o que tem acontecido, os CEOs das empresas, os boards, os investidores estão cobrando uma estratégia de IA mais agressiva ou parte deles, então, acho que as empresas, como um todo, vão investir muito mais nessas tecnologias para poder trazer algum diferencial. Olhando para a tecnologia como um todo, principalmente para o uso de IA generativo, vou separar em dois, tem outros tipos, mas vou separar em dois. Tem o IA aprendizado supervisionado, que é você dar um exemplo para ele, ele vai aprender, você vai ensinar ele a partir desses exemplos, e tem o generativo, que é o que está na mão das pessoas, hoje o pessoal está usando o chat GPT, a geração de imagens por Stable Diffusion, Mid Journey e por aí vai. Essa parte generativa vai crescer bastante, mas eu ainda me preocupo se vamos ter casos de uso na mão do cliente em escala, principalmente porque é uma tecnologia difícil de ser controlada, ela precisa ser pilotada. Se você entregar lá uma interface, conversar aqui com esse negócio aqui que ele vai resolver sua vida, a gente já passou um ano praticamente, a gente não tem nada ainda que está funcionando, ainda falta um caso de uso grande na mão do cliente. E outra coisa, é caro, se você pegar uma empresa que nem o iFood, agora vou trocar o aplicativo, todo mundo vai pedir via chat, vai inviabilizar o negócio porque é muito caro ter essas conversas. Eu tenho visto",
+  "text_timestamped": "[00:00] Fala galera, bem-vindos a mais um Papo de Gestão.Para você que acompanha a gente aqui, você deve se perguntar,por que eu vou dedicar tempo para treinar as pessoas do meu time,se elas podem ir embora?Porque se você não treiná-las e elas ficarem na sua empresa,aí sim você vai ter um problemão.Afinal, uma empresa é formada pelas pessoas que a compõem.E o resultado do negócio depende diretamente da performance desses colaboradores.Sabendo do desafio que é treinar e capacitar gente,nós desenvolvemos o G4 Skills,que é a plataforma de treinamento de times aqui do G4 Educação,que avalia as lacunas de habilidades e a maturidade do seu colaboradore cria uma trilha personalizada de desenvolvimento para cada membro do seu time,com as nossas formações aqui do G4.Para você conhecer o G4 Skills, eu liberei 7 dias de acesso gratuito à nossa plataforma.Basta você escanear o QR Code que está aqui nessa telaou clicar no link do descritivo desse episódio.Então aproveita, vai lá com o teu time, você vai aprender muito.E agora, esse episódio aqui do Papo de Gestão está sensacional.Espero que você goste.E hoje eu converso com ele aqui, um grande cientista de dados,que se formou em economia, economista de formação,mas também se tornou especialista em inteligência artificial e analytics.Ele que tem mais de 16 anos com experiência nesse mercado,passou por consultoria, pelo Nubank, pelo iFood e agora está lá liderando como CDO a PicPay.Então Sandor Caetano, seja muito bem-vindo aqui.Prazer falar com você, meu querido.Obrigado, obrigado pelo convite também.Feliz de estar aqui com vocês.Valeu mesmo.Boa.E hoje, galera, para esse episódio que a gente vai falar bastante de inteligência artificial,não estou sozinho, trouxe ele aqui, o João Vitor, nosso COO, CPTO, CIO.Coloca todos os Cs aí que você quiser na frente.Ele que aqui, meu sócio de longa data, de outros carnavais antes do G4,e felizmente ele veio junto acompanhar a gente aqui também no G4.Bem-vindo aí, João.Prazer, prazer estar aqui.Prazer conversar com você também, Sandor.Falar de um tema que eu tenho estudado um pouquinho nos últimos dias, últimas semanas.Há muito tempo, ele é o cara que está liderando toda a parte de AI aqui no G4,feito coisas bem legais, né?\n[05:47] Boa.\n[05:48] Cara, vamos lá, começar aqui falando um pouquinho do case da iFood, né?\n[05:59] Que veio toda essa sua construção, você passou lá pelo Nubank também como cientista de dados,\nmas vindo aqui no case da iFood, que originou esse livro aqui, o cientista e o executivo,como o iFood alavancou seus dados e usou a inteligência artificial para revolucionar os seus processos.Criar vantagem competitiva e se tornar um case mundial de sucesso.Quais eram as dores que você tinha lá no iFood que de fato foram solucionadas com inteligência artificial?\n[07:10] Bom, eu me juntei ao iFood em 2019, no comecinho de 2019, e o iFood era uma empresa, como toda empresa brasileira,\nela veio crescendo ao longo dos anos através de M&As, através de campanhas, criação de marca,\nmas era aquela empresa brasileira que ela tem o caixa bonitinho lá e tudo aquilo que é gerado de receita é reinvestido na empresa e é puramente comercial e marketing.\n[08:09] Então, times muito fortes de comercial, times muito fortes de marketing que vão fazer a empresa crescer, mas ela não era uma empresa de tecnologia como a gente está hoje, está mais acostumado.\n[08:39] Quando eu cheguei lá, a ideia era vamos implementar IA em todos os componentes da empresa.\n[08:53] Então, o Fabrício, que é o CEO, ele tinha essa visão de que a empresa vai ser transformada pelo uso de inteligência artificial.\n[09:13] Todos os componentes lá, todas as frentes vão ser transformadas.\n[09:23] Só que, obviamente, era tudo mato.\n[09:28] Então, o que era mais importante para a gente?\n[09:35] Então, a visão era, bom, a gente está aqui para substituir o fogão.\n[09:45] Qual que é a história de substituir o fogão?\n[09:52] Eu, por exemplo, gosto de fazer risoto.\n[09:58] Vamos fazer risoto?\n[10:01] Você compra o arroz, joga vinho, mexe por meia hora lá, joga vinho, meia hora mexendo arroz e não fica bom.\n[10:18] Qual que era a hipótese?\n[10:22] Por que você não entrega para o teu cliente os melhores risotos da cidade e deixa ele beber o vinho, daí ele não precisa se preocupar?\n[10:43] Então, como é que você precisa, para poder fazer isso, ele precisa ser extremamente eficiente.\n[10:57] Eu preciso entregar rápido, eu preciso entregar na hora, precisa ser barato e eu preciso dar para o restaurante a possibilidade de crescer, de prosperar.\n[11:21] Perfeito.\n[11:23] Tá bom, então, agora a gente vai investir em logística, que é extremamente importante para nós, a gente vai investir em marketing.\n[11:43] Quem nunca comprou uma comida com cupom?\n[11:49] Como é que a gente faz para criar uma estratégia de cupons que faça sentido para o cliente?\n[12:03] Antifraude, parte operacional, atendimento e por aí vai.\n[12:12] Então, o sonho era muito grande, a gente começou pelas áreas que estavam mais claras para a gente, mas hoje, avançando quatro anos, todas as áreas do iFood praticamente são afetadas por algum modelo ou giram em torno de modelos de ar.\n[12:49] Uma dúvida aqui, ele estava falando de começar a gravar, até da pesquisa lá que você viu, acho que depois a gente pode trazer esse resultado, mas aqui no G4 mesmo, a gente divide muito coisas de AI, a gente fala porta para fora e coisas porta para dentro.\n[13:28] Tem coisas que impactam os nossos clientes de maneira mais direta e tem coisas que impactam o nosso time que está aqui, mas o cliente nem sabe que existe AI ali.\n[13:54] Como que vocês viam isso?\n[13:57] Dividiam isso?\n[14:00] Se tinha mais foco em coisas direto para o cliente, coisas mais para dentro?\n[14:12] O esforço de modo geral estava alocado de uma maneira proporção?\n[14:22] E como que você enxerga isso para a maioria das empresas hoje?\n[14:31] O iFood, eu falo que a gente passou por quatro fases nesses quatro anos que eu passei lá.\n[14:45] A primeira fase foi uma fase de lua de mel, vamos usar AI para resolver todos os problemas.\n[14:59] Então, não era incomum você ter uma apresentação de um gestor com o plano dele para a área dele e o último slide ter um desenho de um robô e o AI vai resolver tudo.\n[15:25] Era até surreal, a gente até narra essas coisas no livro, porque do meu ponto de vista chega a ser engraçado.\n[15:42] É igual a época do blockchain.\n[15:47] Exato, agora é um problema meu isso, tudo o que nós vamos fazer e agora esse resto aqui o Sandro resolve o que faltou.\n[16:05] E essa fase foi muito legal porque tinha muita abertura, vamos lá, vamos colocar as coisas para rodar e vai dar tudo certo.\n[16:24] Só que como eu falei, era tudo mato, então você não tinha infraestrutura necessária.\n[16:37] Rapidamente esses modelos que a gente colocou no ar começaram a falhar, começaram a dar problema e começaram a frustrar a expectativa.\n[16:58] Então você esperava ganhar milhões e estava dando resultado pequenininho.\n[17:10] Então a gente entra na era da escuridão lá dentro do iFood que foi muito ruim.\n[17:22] Foi tão ruim, mas tão ruim que o meu chefe virou para mim e ele me deu um coach.\n[17:34] Ah, vou te dar um coach executivo aqui para você aprender.\n[17:43] Mas o coach sabe programar?\n[17:47] Porque eu preciso de alguém que saiba programar.\n[17:55] É verdade.\n[17:57] E eu falei, mas ele sabe programar porque eu tenho um problema sério de infraestrutura aqui.\n[18:11] E é o que aconteceu, a gente tinha duas listas de projetos para fazer.\n[18:22] Metade do meu time ficava fazendo coisas para dentro, para responder sua pergunta.\n[18:35] Por quê?\n[18:36] Porque eu precisava de plataformas de dados, eu precisava de plataformas para poder colocar um modelo no ar que responde que aguente milhões e milhões e milhões de pedidos e eu também precisava entregar valor na ponta.\n[19:10] Então é como se eu estivesse trabalhando com metade do time coisas que são observáveis.\n[19:23] Então a pressão ficou muito grande nessa época.\n[19:31] Isso levou um ano, quase um ano e meio nessa fase.\n[19:39] Só que aí depois de um tempo essa parte mais de encanamento, essa parte mais estrutural começou a dar certo e você começou a empilhar valor.\n[20:00] Então se você pensar na estrutura, no resultado de ano no iFood é como se fosse uma curva S.\n[20:15] Você tem um começo que ele é demorado para gerar resultado e ele sobe muito rapidamente por conta dessas plataformas.\n[20:33] Aí eu falo, beleza, agora estamos no iluminismo.\n[20:41] O pessoal entendeu como é que funciona isso aqui, a terceira fase.\n[20:51] O pessoal entendeu como é que funciona, estamos iluminados, agora as áreas começaram a demandar.\n[21:06] Então antes a gente empurrava projetos, você vai fazer esse projeto, você vai fazer esse projeto, agora não.\n[21:23] O pessoal, eu quero isso, eu quero isso, eu quero aquilo.\n[21:32] Beleza, a gente continuou investindo em infraestrutura ao ponto de automatizar tanta coisa lá dentro que a gente está na era industrial, onde você tem uma fabriquinha de modelos e modelos são colocados no ar o tempo todo para melhorar diversos aspectos da sua experiência.\n[22:14] Então hoje é tanta coisa que vai para o ar ao mesmo tempo que a gente já nem sabe mais o que está acontecendo em cada canto da empresa.\n[22:35] Me dá um exemplo aí de uma funcionalidade que você achou sensacional, que vocês fizeram usando AI, que mudou muito o patamar de personalização ou o que seja de resultado final para\n\naraí, vai, do último ano, um ano e meio mais ou menos ali.\n[23:13] O primeiro foi o GPT-3, quando lançou, acho que foi março do ano passado, ano retrasado, e novembro do ano passado, o chat GPT, que foi, ao invés de ser um algoritmo que é máquina falando com máquina, passou a ser humano interagindo com máquina, ou máquina interagindo com humano.\n[23:56] Você pode abrir e falar o que vocês fizeram para essas pessoas que estão ali, quando elas vão entrar, elas serem mais produtivas, elas fazerem uma atuação melhor, tipo a combinação.\n[24:24] Tem um professor que eu gosto muito de Wharton, que é o Itano Mollick, que ele divide as operações de AI, ele fala, tem algumas que AI não entra, e aí as que entram ele divide entre centauro e ciborgue.\n[24:56] O centauro é que, ó, esse pedaço é AI, esse pedaço é pessoa, que nem o centauro, metade é cavalo, metade é humano.\n[25:14] E ciborgue, cara, é tudo misturado, você não sabe onde é humano, onde não é, você vai ali tomando decisão de usar.\n[25:32] O que vocês fizeram nesse sentido para as pessoas, quando elas entrarem, elas terem um suporte ali?\n[25:47] O Itano Mollick é fantástico, eu adoro a abordagem dele com relação à educação, acho que ele está certíssimo, e acho que educação é um negócio que vai mudar completamente nos próximos anos.\n[26:17] A gente teve uma experiência legal, a gente acabou...\n[26:25] O que acontece?\n[26:27] O iFood tem um fundo de investimentos, que a gente acabou dando a maior sorte, que eles investem em empresas de IA, e eles acompanham esse mercado.\n[26:50] Então eles tinham com a OpenAI um...\n[26:56] tem ainda, né, um acordo com a OpenAI, e eles tinham acesso aos GPTs.\n[27:06] Em setembro do ano passado, a gente fez um evento, e eles foram mostrar para a gente uma ferramenta que eles tinham criado internamente para ajudar a escrever código.\n[27:32] E o que eles mostraram pra gente foi o chatGPT, antes de ter o chatGPT, que era basicamente uma web page que ele colava código lá, o negócio respondia.\n[27:56] Ou ele colava código, respondia o que o código fazia, ou ele pedia, ah, eu quero um código pra isso, isso, isso.\n[28:13] A gente ficou louco!\n[28:17] Loucura!\n[28:18] Do dentro do fundo, tinha mais ou menos uns 30 líderes das empresas de IA do mundo inteiro, então tinha gente do iFood, do OLX, de outras empresas do grupo da...\n[28:43] da Prosos, a gente precisa de acesso a isso, deixou brincar, deixou pôr a mão nesse negócio.\n[28:57] E aí, o que eles fizeram?\n[29:01] Eles criaram uma interface dentro do Slack, interface não, criaram um bot de Slack, literalmente, onde você dá um arroba, plus one, que é o nome da ferramenta, que é basicamente um colega extra no seu time, e você pode usar dentro do Slack essa ferramenta pra usar o GPT.\n[29:43] E aí, tinha uns acordos de privacidade lá entre nós e a OpenAI, o que é ótimo, porque você podia usar tranquilamente dentro do ambiente de trabalho, e a gente monitorava tudo agressivamente pra não ter gracinha.\n[30:16] Ao fazer esse monitoramento, a gente começou a pegar o uso das pessoas e melhorar os pré-prompts, né, então antes do prompt vai alguma informação sobre você pra te ajudar a fazer uma pergunta.\n[30:46] Então hoje, 45% do uso dessa ferramenta no grupo, tem 10 mil pessoas usando essa ferramenta dentro da Prosos, numa apresentação que fizeram agora, 45% eles usam pra código.\n[31:13] Então a pessoa entra lá no Slack e fala, como é que eu faço isso, como é que eu faço aquilo?\n[31:28] Se eu sei que você é um programador muito bom e você não é, às vezes eu vou dar respostas diferentes, ó, tá aqui o código, resolve lá, tá aqui o código e um link pra você entender.\n[31:56] Exato.\n[31:57] E aí vai melhorando.\n[32:00] Só que foi a primeira vez na minha carreira que eu vi o jogo virar.\n[32:10] O que é o jogo virar?\n[32:13] Antigamente, as pessoas vinham pra mim e falavam, Sander, eu tive uma ideia.\n[32:25] Cria um modelo pra fazer isso, isso, isso e aquilo.\n[32:33] Putz.\n[32:34] Ferrado, aqui cheio de coisa pra fazer.\n[32:40] Vamos fazer o seguinte, deixa aí, a gente vai começar no próximo planejamento daqui a X meses.\n[32:55] Quando a gente colocou essa ferramenta no Slack, as pessoas começaram a prototipar elas mesmas.\n[33:10] Ó, testei isso aqui.\n[33:13] Funcionou, gostei.\n[33:15] E aí a gente implementa.\n[33:19] Então a gente empoderou os civis pra que eles possam prototipar seus produtos.\n[33:31] Então, por exemplo, o pessoal, o iFood tem uma empresa chamada iFood Benefícios.\n[33:44] Eles vendem vale-refeição para as empresas.\n[33:51] A venda do Benefícios é feita com o profissional de RH.\n[33:59] Então eu ligo lá no RH e falo, ô RH, quer comprar aqui o benefício e tudo mais?\n[34:12] Eles pegaram os áudios dessas gravações, passaram por dentro desse Plus One, que tem reconhecimento de fala.\n[34:28] Hoje é multimodal, ele tem tudo isso, mas antigamente não tinha.\n[34:38] E ele reconhecia a fala, ele dizia pra gente o que aconteceu naquela conversa, resumia o que aconteceu, se o cliente estava interessado ou não, e quais eram os próximos passos.\n[35:06] Isso foi prototipado pelo time de negócios lá na pronta.\n[35:15] Tem uma outra empresa do iFood chamada iFood Benefícios, iFood Shop, desculpa.\n[35:27] O iFood Shop vende insumos para o restaurante.\n[35:34] Farinha, queijo, mortadela e por aí vai.\n[35:40] Eles pegaram a lista de ingredientes, a lista de pratos dos restaurantes e pediram para o GPT gerar ingredientes para gerar lead qualificado.\n[36:02] Então agora o iFood consegue saber quanta mussarela é consumida na moca, num sábado, por exemplo, para poder fazer vendas.\n[36:21] Isso tudo na mão das pessoas.\n[36:26] Então essa virada foi muito interessante.\n[36:32] Você acha que...\n[36:35] Aí, entrando aqui nessa parte de AI generativa ainda de foco, eu tenho a impressão de que, pelo menos hoje, as pessoas de negócio, menos de tech pura, estão conseguindo ser mais criativas nos usos.\n[37:05] Porque a impressão que eu tenho quando eu sento, por exemplo, com o time de tech do próprio G4, para eles tirarem do chão alguma coisa, eles ficam muito presos à tech e menos aos problemas de negócio que ela resolve.\n[37:39] E tem muita coisa que, literalmente, é só pensar no promptzinho, que ele vai funcionar melhor do que se eu plugar num zilhão de bancos de dados ou outras coisas.\n[38:04] E eu tenho essa impressão, tipo, hoje tem muita solução de tecnologia que está sendo melhor...\n[38:19] Vou usar o AI.\n[38:21] Que gente de negócio está sabendo usar melhor, ou pelo menos rampar melhor o nó.\n[38:34] O sentido é esse que a gente deveria ir, do que o pessoal de tecnologia.\n[38:45] Qual é a sua visão nisso?\n[38:49] Sempre teve um rachão entre esses dois grupos, quase antagônicos.\n[38:59] Por isso que a gente fala muito do cientista executivo.\n[39:07] Acho que foi um pouco dessa pegada do livro, que é...\n[39:16] Você tem o executivo que ele quer receita, retorno, diminuir custos, e tem a galera da tecnologia que está preocupada com a implementação.\n[39:37] Está preocupada com a tecnologia em si.\n[39:43] Exato.\n[39:44] O que eu estou usando?\n[39:48] É legal?\n[39:49] Como é que isso aqui vai soar no meu currículo?\n[39:56] Que tecnologias que eu sei?\n[40:00] É sopa de letrinha, né?\n[40:04] Engenheiro, pessoal de dados adora isso.\n[40:10] Quando caiu o GPT na mão das pessoas, elas começaram a interagir com a tecnologia e começaram a entender.\n[40:27] É como se os mundos se aproximassem mais um pouco.\n[40:34] Além disso, o GPT permite você fazer algumas coisas de forma muito fácil.\n[40:46] Por exemplo, imagina que eu quero entrar nas avaliações dos restaurantes para poder recomendar para os clientes dos restaurantes, baseado nos comentários.\n[41:10] Eu posso ir lá e usar o GPT para criar um modelo que vai me dizer se o comentário é bom ou ruim.\n[41:25] Então, a pessoa está feliz ou está triste com esse restaurante?\n[41:35] Foi bom ou não foi?\n[41:38] Você consegue usar o GPT muito rapidamente a partir de um prompt para resolver isso, que é o exemplo que o pessoal estava usando no Slack.\n[41:59] Antigamente, eu ia precisar coletar todos esses dados, pegar no banco, dar uma limpada, pegar o algoritmo, ter um cientista para fazer isso, para gerar o resultado se as pessoas estão falando bem ou mal de um determinado restaurante.\n[42:36] Então, para alguns casos, principalmente nesses contextos, o GPT aproximou demais.\n[42:48] Então, ele facilita a prototipar coisas, criar POCs.\n[42:56] Muito bom.\n[42:58] Galera, olha só, vocês estão curtindo aí o nosso papo aqui, o Papo de Estão.\n[43:10] Convido vocês a avaliarem a gente aí no Spotify.\n[43:17] A gente tem essa meta de continuar aí nos top 5 podcasts de negócios aqui do Brasil no Spotify.\n[43:32] Então, você está ouvindo no YouTube, vai lá no Spotify, dá 5 estrelinhas para a gente.\n[43:46] Você está aí no YouTube também, dá um likezinho, comenta aqui, manda para a gente aqui nos comentários quem você gostaria também de ver, que a gente trouxesse aqui para o Papo de Estão.\n[44:14] É rapidinho e ajuda bastante a gente nessa missão aí de democratizar esse conteúdo de tanta importância para você, gestor.\n[44:34] E, cara, fechando aqui essa história aí do iFood, que foi tua história recente, é uma dúvida que todo mundo tem.\n[44:51] Na época eu estava na rápida, a minha galera me perguntava toda hora, né?\n[45:02] Você está lá no meio da tarde, aquele calor danado, daí veio uma notificação lá do iFood, né?\n[45:17] Vai um\n\num teste tão rápido como acontece nas empresas que a gente toca ou participa, nem sempre as pessoas conseguem amadurecer as qualidades que elas precisam ao longo do tempo.\n[45:45] Eu sempre digo que tem três tipos de profissionais, que eles conseguem muito bem tirar o negócio do 0 para o 1, que eles conseguem levar do 1 para o 10 e que eles conseguem levar do 10 para o 100.\n[46:15] E tipicamente essas três pessoas são pessoas que são completamente diferentes.\n[46:28] Pelo que eu vejo você, você é uma pessoa que consegue tirar ele do 1 para o 10 e do 10 para o 100.\n[46:43] Talvez do 0 para o 1, quando eu falo assim, do negócio, talvez seja um pouco diferente, mais pelas histórias aqui que você contou.\n[47:03] Mas daí você entra lá no time, você chega na PicPay, talvez tinha alguém ali que queria assumir aquela posição, que não assumiu e tem esse burburinho interno.\n[47:28] Em todo lugar tem, né?\n[47:31] Você falou que essa vai ser a terceira coisa talvez que você vai conversar sobre o time, mas como você lidar com isso, como você vivenciou isso nos outros lugares que você passou, conforme você foi subindo também em cada um dos lugares, como você lidou com esse barulho interno?\n[48:15] Super complicado esse assunto e ele depende de uma coisa, ele depende de crescimento.\n[48:28] Enquanto a empresa está crescendo, o crescimento é oxigênio.\n[48:37] Então enquanto a empresa está crescendo, do 0 a 10, geralmente aquele momento fantástico, do 10 ao 100, você falou.\n[48:55] Do 0 ao 1, do 1 ao 10 e do 10 ao 100.\n[49:01] Você tem um negócio que ele cresce, você gera muita oportunidade.\n[49:11] Então o que acontece é que você tem bastante espaço para fazer movimentações e por aí vai.\n[49:25] As pessoas crescem, às vezes até mais do que elas conseguem porque a empresa demanda isso.\n[49:39] Então meu primeiro objetivo é, nós precisamos trazer receita, nós precisamos trazer fontes de crescimento, o objetivo do time é fazer a empresa crescer e crescimento é oxigênio.\n[50:07] Obviamente quando você está em uma situação mais steady state, onde o negócio está mais parado, você não tem tanto crescimento, ou o que aconteceu no último ano e meio aí vai com as empresas fazendo layoffs, diminuindo de tamanho, diminuindo investimento, capital caro e por aí vai.\n[50:51] As estruturas, elas se movimentam menos.\n[50:57] Qual que tem sido a minha filosofia com o time?\n[51:04] Eu quero criar a máfia do PicPay agora.\n[51:11] O que é a máfia do PicPay?\n[51:15] Esse time aqui, ou a gente cresce, ou você cresce aqui dentro da empresa, porque tem espaço, porque tem crescimento e oportunidade, ou você vai sair para fora daqui, mas você vai fundar a sua empresa, você vai ser o chefe de não sei o que lá de outra empresa.\n[51:55] Então enquanto estivermos aqui, eu vou fazer de tudo para que vocês cresçam como profissionais.\n[52:10] Que se dêem muito bem.\n[52:13] Exato.\n[52:14] Então se não couber aqui dentro, você vai caber muito bem lá fora.\n[52:24] Porque a gente teve um momento especial aqui entre nós, nesse período.\n[52:35] Legal.\n[52:36] Isso é legal, tem um livro, cara, esqueci o nome do livro agora, foi a Taika que indicou que falava que o papel do líder, ele era definir a visão ali do que o time tinha que fazer.\n[53:04] Tinha a segunda coisa que eu lembro que era, mas a terceira coisa era cuidar da carreira das pessoas do time.\n[53:21] Às vezes o cuidar da carreira não é fazer a pessoa crescer na empresa, mas ele se desenvolver na carreira que ele vai ter, às vezes em outro lugar.\n[53:44] Beleza, e que é uma coisa que eu gosto muito de filosofia de consultorias, nas grandes consultorias.\n[54:00] Cara, tipo a McKinsey que eu estudei mais a fundo como funciona para pegar algumas coisas para o meu time no G4.\n[54:17] Eles fazem isso, eles trazem muita gente, eles sabem que uma galera não vai ficar, mas tudo bem, eles trazem, ensinam e depois eles falam, somos alumne aqui da McKinsey que vão para outros lugares, vão se dar bem nesses lugares e depois quando a gente precisar, a gente vai ter o acesso e quando eles precisarem, eles vão lembrar da gente, a gente vai ajudar e vai criando isso que você falou da máfia.\n[55:20] Acho que é o primeiro, acho que é, cara, acho que é o primeiro gestor que eu converso que falou explicitamente, não, cara, essa é a minha cabeça aqui, se não der para crescer aqui dentro, o cara vai crescer em outro lugar, mas o foco é, vai todo mundo crescer.\n[56:01] A gente, na Canui, a gente fazia muito isso, né, o Bruno Henriques, que trabalhou contigo lá no iFood por muito tempo, a gente tinha isso, porque de um certo momento lá da fundação, lá no fim de 2011 até a venda em 2015, a gente teve algum período que a gente cresceu muito rápido, né, nesse período que a gente cresceu muito rápido, muita gente teve oportunidade e depois a gente entrou num período de rentabilização extrema, então, cada centavo conta, ainda mais num negócio multimarca de varejo, né, que o volume, de certa forma, né, o tamanho do mercado é um pouco menor.\n[57:30] E muita gente, a gente fez isso, né, como os investidores lá, a Rocket International, várias outras empresas que ficavam no mesmo espaço que a gente, inclusive o iFood uma época, ficou lá com a gente também no mesmo espaço, acho que foi em 2013, 14, que era um condomínio lá na Vila Leopoldina, ali na frente do parque Vila Lobos, né, o Vila Lobos Office, acho que chama lá, que eram cinco torres e tal, Vila Lobos Office, e daí o iFood foi lá, pegou umas casinhas lá que tinham no meio do negócio, e a gente, muita gente boa do nosso time, que, cara, a nossa régua era muito alta de gente, assim, muito alta, as pessoas mandavam bem, mas não mandavam bem tão suficiente para continuar crescendo lá dentro, a gente falou, olha, você não vai subir, mas você está, cara, assim, no top 1 ou no top 2, se a gente te mandar para aquela empresa, quer ir para aquela empresa?\n[59:46] E daí a gente conversava com o fundador, que estava precisando daquela vaga, que já tinha a nossa cultura, que já tinha sido bem treinado, e realocava a pessoa lá, é bom para todo mundo, boa para a pessoa que ela se desenvolveu, bom que resolve o problema nosso de custo, né, que a gente precisava resolver, e, cara, está todo mundo bem, e a pessoa também vai ser eternamente grata para você, para você ter cuidado da carreira dela, de alguma maneira, para as pessoas se darem bem.\n[01:01:01] Cara, nessa altura do campeonato, é isso que você faz, você cuida da carreira das pessoas, você quer ter o melhor time, é o upper out, né, você cuida bem, porque é eles que vão efetuar o trabalho, no final das contas, tem que ser muito bem azeitada essa relação, sabe?\n[01:01:43] Exato.\n[01:01:44] Cara, e o que que, né, você falou um pouquinho, não sei o que você pode abrir ou não, mas o que os clientes do PicPay podem esperar aí, nos meses e nesse próximo ano aí, de novas funcionalidades, personalização, não pode abrir muita coisa desse comecinho aí que você falou, se não puder abrir também está tudo bem.\n[01:02:33] Estou na lua de mel ainda, mas eu acho que uma coisa interessante do PicPay é que ele é um produto heterogêneo, ele tem muita coisa, tem muita funcionalidade, então, obviamente, o negócio que a gente espera mais é um produto que funciona melhor na mão do cliente, um produto que funciona do jeito que o cliente precisa mais personalização, mais facilidade de encontrar aquilo que ele quer, de resolver os problemas do dia a dia dele, então, é um produto cada vez mais gostoso de ser usado pelas pessoas.\n[01:03:51] Boa, boa.\n[01:03:53] Cara, ainda aqui, já quase para a reta final, antes de eu entrar aqui no bate-bola com o gestor, quais que são as tendências de AI que você vê aí nas empresas nesses próximos anos?\n[01:04:21] Tendências?\n[01:04:22] Eu tenho visto o que tem acontecido, os CEOs das empresas, os boards, os investidores estão cobrando uma estratégia de IA mais agressiva ou parte deles, então, acho que as empresas, como um todo, vão investir muito mais nessas tecnologias para poder trazer algum diferencial.\n[01:05:05] Olhando para a tecnologia como um todo, principalmente para o uso de IA generativo, vou separar em dois, tem outros tipos, mas vou separar em dois.\n[01:05:28] Tem o IA aprendizado supervisionado, que é você dar um exemplo para ele, ele vai aprender, você vai ensinar ele a partir desses exemplos, e tem o generativo, que é o que está na mão das pessoas, hoje o pessoal está usando o chat GPT, a geração de imagens por Stable Diffusion, Mid Journey e por aí vai.\n[01:06:15] Essa parte generativa vai crescer bastante, mas eu ainda me preocupo se vamos ter casos de uso na mão do cliente em escala, principalmente porque é uma tecnologia difícil de ser controlada, ela precisa ser pilotada.\n[01:06:49] Se você entregar lá uma interface, conversar aqui com esse negócio aqui que ele vai resolver sua vida, a gente já passou um ano praticamente, a gente não tem nada ainda que está funcionando, ainda falta um caso de uso grande na mão do cliente.\n[01:07:27] E outra coisa, é caro, se você pegar uma empresa que nem o iFood, agora vou trocar o aplicativo, todo mundo vai pedir via chat, vai inviabilizar o negócio porque é muito caro ter essas conversas.\n[01:07:57] Eu tenho visto",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 347.52,
+      "timestamp": "00:00",
+      "text": "Fala galera, bem-vindos a mais um Papo de Gestão.Para você que acompanha a gente aqui, você deve se perguntar,por que eu vou dedicar tempo para treinar as pessoas do meu time,se elas podem ir embora?Porque se você não treiná-las e elas ficarem na sua empresa,aí sim você vai ter um problemão.Afinal, uma empresa é formada pelas pessoas que a compõem.E o resultado do negócio depende diretamente da performance desses colaboradores.Sabendo do desafio que é treinar e capacitar gente,nós desenvolvemos o G4 Skills,que é a plataforma de treinamento de times aqui do G4 Educação,que avalia as lacunas de habilidades e a maturidade do seu colaboradore cria uma trilha personalizada de desenvolvimento para cada membro do seu time,com as nossas formações aqui do G4.Para você conhecer o G4 Skills, eu liberei 7 dias de acesso gratuito à nossa plataforma.Basta você escanear o QR Code que está aqui nessa telaou clicar no link do descritivo desse episódio.Então aproveita, vai lá com o teu time, você vai aprender muito.E agora, esse episódio aqui do Papo de Gestão está sensacional.Espero que você goste.E hoje eu converso com ele aqui, um grande cientista de dados,que se formou em economia, economista de formação,mas também se tornou especialista em inteligência artificial e analytics.Ele que tem mais de 16 anos com experiência nesse mercado,passou por consultoria, pelo Nubank, pelo iFood e agora está lá liderando como CDO a PicPay.Então Sandor Caetano, seja muito bem-vindo aqui.Prazer falar com você, meu querido.Obrigado, obrigado pelo convite também.Feliz de estar aqui com vocês.Valeu mesmo.Boa.E hoje, galera, para esse episódio que a gente vai falar bastante de inteligência artificial,não estou sozinho, trouxe ele aqui, o João Vitor, nosso COO, CPTO, CIO.Coloca todos os Cs aí que você quiser na frente.Ele que aqui, meu sócio de longa data, de outros carnavais antes do G4,e felizmente ele veio junto acompanhar a gente aqui também no G4.Bem-vindo aí, João.Prazer, prazer estar aqui.Prazer conversar com você também, Sandor.Falar de um tema que eu tenho estudado um pouquinho nos últimos dias, últimas semanas.Há muito tempo, ele é o cara que está liderando toda a parte de AI aqui no G4,feito coisas bem legais, né?"
+    },
+    {
+      "start": 347.52,
+      "end": 348.14,
+      "timestamp": "05:47",
+      "text": "Boa."
+    },
+    {
+      "start": 348.14,
+      "end": 359.22,
+      "timestamp": "05:48",
+      "text": "Cara, vamos lá, começar aqui falando um pouquinho do case da iFood, né?"
+    },
+    {
+      "start": 359.22,
+      "end": 430.69,
+      "timestamp": "05:59",
+      "text": "Que veio toda essa sua construção, você passou lá pelo Nubank também como cientista de dados,\nmas vindo aqui no case da iFood, que originou esse livro aqui, o cientista e o executivo,como o iFood alavancou seus dados e usou a inteligência artificial para revolucionar os seus processos.Criar vantagem competitiva e se tornar um case mundial de sucesso.Quais eram as dores que você tinha lá no iFood que de fato foram solucionadas com inteligência artificial?"
+    },
+    {
+      "start": 430.69,
+      "end": 489.21,
+      "timestamp": "07:10",
+      "text": "Bom, eu me juntei ao iFood em 2019, no comecinho de 2019, e o iFood era uma empresa, como toda empresa brasileira,\nela veio crescendo ao longo dos anos através de M&As, através de campanhas, criação de marca,\nmas era aquela empresa brasileira que ela tem o caixa bonitinho lá e tudo aquilo que é gerado de receita é reinvestido na empresa e é puramente comercial e marketing."
+    },
+    {
+      "start": 489.21,
+      "end": 519.17,
+      "timestamp": "08:09",
+      "text": "Então, times muito fortes de comercial, times muito fortes de marketing que vão fazer a empresa crescer, mas ela não era uma empresa de tecnologia como a gente está hoje, está mais acostumado."
+    },
+    {
+      "start": 519.17,
+      "end": 533.21,
+      "timestamp": "08:39",
+      "text": "Quando eu cheguei lá, a ideia era vamos implementar IA em todos os componentes da empresa."
+    },
+    {
+      "start": 533.21,
+      "end": 553.03,
+      "timestamp": "08:53",
+      "text": "Então, o Fabrício, que é o CEO, ele tinha essa visão de que a empresa vai ser transformada pelo uso de inteligência artificial."
+    },
+    {
+      "start": 553.03,
+      "end": 563.02,
+      "timestamp": "09:13",
+      "text": "Todos os componentes lá, todas as frentes vão ser transformadas."
+    },
+    {
+      "start": 563.02,
+      "end": 568.32,
+      "timestamp": "09:23",
+      "text": "Só que, obviamente, era tudo mato."
+    },
+    {
+      "start": 568.32,
+      "end": 575.5,
+      "timestamp": "09:28",
+      "text": "Então, o que era mais importante para a gente?"
+    },
+    {
+      "start": 575.5,
+      "end": 585.96,
+      "timestamp": "09:35",
+      "text": "Então, a visão era, bom, a gente está aqui para substituir o fogão."
+    },
+    {
+      "start": 585.96,
+      "end": 592.82,
+      "timestamp": "09:45",
+      "text": "Qual que é a história de substituir o fogão?"
+    },
+    {
+      "start": 592.82,
+      "end": 598.91,
+      "timestamp": "09:52",
+      "text": "Eu, por exemplo, gosto de fazer risoto."
+    },
+    {
+      "start": 598.91,
+      "end": 601.87,
+      "timestamp": "09:58",
+      "text": "Vamos fazer risoto?"
+    },
+    {
+      "start": 601.87,
+      "end": 618.57,
+      "timestamp": "10:01",
+      "text": "Você compra o arroz, joga vinho, mexe por meia hora lá, joga vinho, meia hora mexendo arroz e não fica bom."
+    },
+    {
+      "start": 618.57,
+      "end": 622.31,
+      "timestamp": "10:18",
+      "text": "Qual que era a hipótese?"
+    },
+    {
+      "start": 622.31,
+      "end": 643.22,
+      "timestamp": "10:22",
+      "text": "Por que você não entrega para o teu cliente os melhores risotos da cidade e deixa ele beber o vinho, daí ele não precisa se preocupar?"
+    },
+    {
+      "start": 643.22,
+      "end": 657.89,
+      "timestamp": "10:43",
+      "text": "Então, como é que você precisa, para poder fazer isso, ele precisa ser extremamente eficiente."
+    },
+    {
+      "start": 657.89,
+      "end": 681.77,
+      "timestamp": "10:57",
+      "text": "Eu preciso entregar rápido, eu preciso entregar na hora, precisa ser barato e eu preciso dar para o restaurante a possibilidade de crescer, de prosperar."
+    },
+    {
+      "start": 681.77,
+      "end": 683.17,
+      "timestamp": "11:21",
+      "text": "Perfeito."
+    },
+    {
+      "start": 683.17,
+      "end": 703.46,
+      "timestamp": "11:23",
+      "text": "Tá bom, então, agora a gente vai investir em logística, que é extremamente importante para nós, a gente vai investir em marketing."
+    },
+    {
+      "start": 703.46,
+      "end": 709.7,
+      "timestamp": "11:43",
+      "text": "Quem nunca comprou uma comida com cupom?"
+    },
+    {
+      "start": 709.7,
+      "end": 723.9,
+      "timestamp": "11:49",
+      "text": "Como é que a gente faz para criar uma estratégia de cupons que faça sentido para o cliente?"
+    },
+    {
+      "start": 723.9,
+      "end": 732.64,
+      "timestamp": "12:03",
+      "text": "Antifraude, parte operacional, atendimento e por aí vai."
+    },
+    {
+      "start": 732.64,
+      "end": 769.15,
+      "timestamp": "12:12",
+      "text": "Então, o sonho era muito grande, a gente começou pelas áreas que estavam mais claras para a gente, mas hoje, avançando quatro anos, todas as áreas do iFood praticamente são afetadas por algum modelo ou giram em torno de modelos de ar."
+    },
+    {
+      "start": 769.15,
+      "end": 808.95,
+      "timestamp": "12:49",
+      "text": "Uma dúvida aqui, ele estava falando de começar a gravar, até da pesquisa lá que você viu, acho que depois a gente pode trazer esse resultado, mas aqui no G4 mesmo, a gente divide muito coisas de AI, a gente fala porta para fora e coisas porta para dentro."
+    },
+    {
+      "start": 808.95,
+      "end": 834.07,
+      "timestamp": "13:28",
+      "text": "Tem coisas que impactam os nossos clientes de maneira mais direta e tem coisas que impactam o nosso time que está aqui, mas o cliente nem sabe que existe AI ali."
+    },
+    {
+      "start": 834.07,
+      "end": 837.97,
+      "timestamp": "13:54",
+      "text": "Como que vocês viam isso?"
+    },
+    {
+      "start": 837.97,
+      "end": 840.16,
+      "timestamp": "13:57",
+      "text": "Dividiam isso?"
+    },
+    {
+      "start": 840.16,
+      "end": 852.02,
+      "timestamp": "14:00",
+      "text": "Se tinha mais foco em coisas direto para o cliente, coisas mais para dentro?"
+    },
+    {
+      "start": 852.02,
+      "end": 862.0,
+      "timestamp": "14:12",
+      "text": "O esforço de modo geral estava alocado de uma maneira proporção?"
+    },
+    {
+      "start": 862.0,
+      "end": 871.68,
+      "timestamp": "14:22",
+      "text": "E como que você enxerga isso para a maioria das empresas hoje?"
+    },
+    {
+      "start": 871.68,
+      "end": 885.57,
+      "timestamp": "14:31",
+      "text": "O iFood, eu falo que a gente passou por quatro fases nesses quatro anos que eu passei lá."
+    },
+    {
+      "start": 885.57,
+      "end": 899.77,
+      "timestamp": "14:45",
+      "text": "A primeira fase foi uma fase de lua de mel, vamos usar AI para resolver todos os problemas."
+    },
+    {
+      "start": 899.77,
+      "end": 925.36,
+      "timestamp": "14:59",
+      "text": "Então, não era incomum você ter uma apresentação de um gestor com o plano dele para a área dele e o último slide ter um desenho de um robô e o AI vai resolver tudo."
+    },
+    {
+      "start": 925.36,
+      "end": 942.37,
+      "timestamp": "15:25",
+      "text": "Era até surreal, a gente até narra essas coisas no livro, porque do meu ponto de vista chega a ser engraçado."
+    },
+    {
+      "start": 942.37,
+      "end": 947.05,
+      "timestamp": "15:42",
+      "text": "É igual a época do blockchain."
+    },
+    {
+      "start": 947.05,
+      "end": 965.46,
+      "timestamp": "15:47",
+      "text": "Exato, agora é um problema meu isso, tudo o que nós vamos fazer e agora esse resto aqui o Sandro resolve o que faltou."
+    },
+    {
+      "start": 965.46,
+      "end": 984.66,
+      "timestamp": "16:05",
+      "text": "E essa fase foi muito legal porque tinha muita abertura, vamos lá, vamos colocar as coisas para rodar e vai dar tudo certo."
+    },
+    {
+      "start": 984.66,
+      "end": 997.76,
+      "timestamp": "16:24",
+      "text": "Só que como eu falei, era tudo mato, então você não tinha infraestrutura necessária."
+    },
+    {
+      "start": 997.76,
+      "end": 1018.67,
+      "timestamp": "16:37",
+      "text": "Rapidamente esses modelos que a gente colocou no ar começaram a falhar, começaram a dar problema e começaram a frustrar a expectativa."
+    },
+    {
+      "start": 1018.67,
+      "end": 1030.07,
+      "timestamp": "16:58",
+      "text": "Então você esperava ganhar milhões e estava dando resultado pequenininho."
+    },
+    {
+      "start": 1030.07,
+      "end": 1042.24,
+      "timestamp": "17:10",
+      "text": "Então a gente entra na era da escuridão lá dentro do iFood que foi muito ruim."
+    },
+    {
+      "start": 1042.24,
+      "end": 1054.72,
+      "timestamp": "17:22",
+      "text": "Foi tão ruim, mas tão ruim que o meu chefe virou para mim e ele me deu um coach."
+    },
+    {
+      "start": 1054.72,
+      "end": 1063.77,
+      "timestamp": "17:34",
+      "text": "Ah, vou te dar um coach executivo aqui para você aprender."
+    },
+    {
+      "start": 1063.77,
+      "end": 1067.98,
+      "timestamp": "17:43",
+      "text": "Mas o coach sabe programar?"
+    },
+    {
+      "start": 1067.98,
+      "end": 1075.47,
+      "timestamp": "17:47",
+      "text": "Porque eu preciso de alguém que saiba programar."
+    },
+    {
+      "start": 1075.47,
+      "end": 1077.04,
+      "timestamp": "17:55",
+      "text": "É verdade."
+    },
+    {
+      "start": 1077.04,
+      "end": 1091.39,
+      "timestamp": "17:57",
+      "text": "E eu falei, mas ele sabe programar porque eu tenho um problema sério de infraestrutura aqui."
+    },
+    {
+      "start": 1091.39,
+      "end": 1102.31,
+      "timestamp": "18:11",
+      "text": "E é o que aconteceu, a gente tinha duas listas de projetos para fazer."
+    },
+    {
+      "start": 1102.31,
+      "end": 1115.11,
+      "timestamp": "18:22",
+      "text": "Metade do meu time ficava fazendo coisas para dentro, para responder sua pergunta."
+    },
+    {
+      "start": 1115.11,
+      "end": 1116.36,
+      "timestamp": "18:35",
+      "text": "Por quê?"
+    },
+    {
+      "start": 1116.36,
+      "end": 1150.38,
+      "timestamp": "18:36",
+      "text": "Porque eu precisava de plataformas de dados, eu precisava de plataformas para poder colocar um modelo no ar que responde que aguente milhões e milhões e milhões de pedidos e eu também precisava entregar valor na ponta."
+    },
+    {
+      "start": 1150.38,
+      "end": 1163.95,
+      "timestamp": "19:10",
+      "text": "Então é como se eu estivesse trabalhando com metade do time coisas que são observáveis."
+    },
+    {
+      "start": 1163.95,
+      "end": 1171.29,
+      "timestamp": "19:23",
+      "text": "Então a pressão ficou muito grande nessa época."
+    },
+    {
+      "start": 1171.29,
+      "end": 1179.09,
+      "timestamp": "19:31",
+      "text": "Isso levou um ano, quase um ano e meio nessa fase."
+    },
+    {
+      "start": 1179.09,
+      "end": 1200.94,
+      "timestamp": "19:39",
+      "text": "Só que aí depois de um tempo essa parte mais de encanamento, essa parte mais estrutural começou a dar certo e você começou a empilhar valor."
+    },
+    {
+      "start": 1200.94,
+      "end": 1215.29,
+      "timestamp": "20:00",
+      "text": "Então se você pensar na estrutura, no resultado de ano no iFood é como se fosse uma curva S."
+    },
+    {
+      "start": 1215.29,
+      "end": 1233.55,
+      "timestamp": "20:15",
+      "text": "Você tem um começo que ele é demorado para gerar resultado e ele sobe muito rapidamente por conta dessas plataformas."
+    },
+    {
+      "start": 1233.55,
+      "end": 1241.04,
+      "timestamp": "20:33",
+      "text": "Aí eu falo, beleza, agora estamos no iluminismo."
+    },
+    {
+      "start": 1241.04,
+      "end": 1251.34,
+      "timestamp": "20:41",
+      "text": "O pessoal entendeu como é que funciona isso aqui, a terceira fase."
+    },
+    {
+      "start": 1251.34,
+      "end": 1266.32,
+      "timestamp": "20:51",
+      "text": "O pessoal entendeu como é que funciona, estamos iluminados, agora as áreas começaram a demandar."
+    },
+    {
+      "start": 1266.32,
+      "end": 1283.17,
+      "timestamp": "21:06",
+      "text": "Então antes a gente empurrava projetos, você vai fazer esse projeto, você vai fazer esse projeto, agora não."
+    },
+    {
+      "start": 1283.17,
+      "end": 1292.07,
+      "timestamp": "21:23",
+      "text": "O pessoal, eu quero isso, eu quero isso, eu quero aquilo."
+    },
+    {
+      "start": 1292.07,
+      "end": 1334.51,
+      "timestamp": "21:32",
+      "text": "Beleza, a gente continuou investindo em infraestrutura ao ponto de automatizar tanta coisa lá dentro que a gente está na era industrial, onde você tem uma fabriquinha de modelos e modelos são colocados no ar o tempo todo para melhorar diversos aspectos da sua experiência."
+    },
+    {
+      "start": 1334.51,
+      "end": 1355.58,
+      "timestamp": "22:14",
+      "text": "Então hoje é tanta coisa que vai para o ar ao mesmo tempo que a gente já nem sabe mais o que está acontecendo em cada canto da empresa."
+    },
+    {
+      "start": 1355.58,
+      "end": 1393.03,
+      "timestamp": "22:35",
+      "text": "Me dá um exemplo aí de uma funcionalidade que você achou sensacional, que vocês fizeram usando AI, que mudou muito o patamar de personalização ou o que seja de resultado final para\n\naraí, vai, do último ano, um ano e meio mais ou menos ali."
+    },
+    {
+      "start": 1393.03,
+      "end": 1436.72,
+      "timestamp": "23:13",
+      "text": "O primeiro foi o GPT-3, quando lançou, acho que foi março do ano passado, ano retrasado, e novembro do ano passado, o chat GPT, que foi, ao invés de ser um algoritmo que é máquina falando com máquina, passou a ser humano interagindo com máquina, ou máquina interagindo com humano."
+    },
+    {
+      "start": 1436.72,
+      "end": 1464.97,
+      "timestamp": "23:56",
+      "text": "Você pode abrir e falar o que vocês fizeram para essas pessoas que estão ali, quando elas vão entrar, elas serem mais produtivas, elas fazerem uma atuação melhor, tipo a combinação."
+    },
+    {
+      "start": 1464.97,
+      "end": 1496.49,
+      "timestamp": "24:24",
+      "text": "Tem um professor que eu gosto muito de Wharton, que é o Itano Mollick, que ele divide as operações de AI, ele fala, tem algumas que AI não entra, e aí as que entram ele divide entre centauro e ciborgue."
+    },
+    {
+      "start": 1496.49,
+      "end": 1514.28,
+      "timestamp": "24:56",
+      "text": "O centauro é que, ó, esse pedaço é AI, esse pedaço é pessoa, que nem o centauro, metade é cavalo, metade é humano."
+    },
+    {
+      "start": 1514.28,
+      "end": 1532.07,
+      "timestamp": "25:14",
+      "text": "E ciborgue, cara, é tudo misturado, você não sabe onde é humano, onde não é, você vai ali tomando decisão de usar."
+    },
+    {
+      "start": 1532.07,
+      "end": 1547.52,
+      "timestamp": "25:32",
+      "text": "O que vocês fizeram nesse sentido para as pessoas, quando elas entrarem, elas terem um suporte ali?"
+    },
+    {
+      "start": 1547.52,
+      "end": 1577.01,
+      "timestamp": "25:47",
+      "text": "O Itano Mollick é fantástico, eu adoro a abordagem dele com relação à educação, acho que ele está certíssimo, e acho que educação é um negócio que vai mudar completamente nos próximos anos."
+    },
+    {
+      "start": 1577.01,
+      "end": 1585.28,
+      "timestamp": "26:17",
+      "text": "A gente teve uma experiência legal, a gente acabou..."
+    },
+    {
+      "start": 1585.28,
+      "end": 1587.62,
+      "timestamp": "26:25",
+      "text": "O que acontece?"
+    },
+    {
+      "start": 1587.62,
+      "end": 1610.56,
+      "timestamp": "26:27",
+      "text": "O iFood tem um fundo de investimentos, que a gente acabou dando a maior sorte, que eles investem em empresas de IA, e eles acompanham esse mercado."
+    },
+    {
+      "start": 1610.56,
+      "end": 1616.18,
+      "timestamp": "26:50",
+      "text": "Então eles tinham com a OpenAI um..."
+    },
+    {
+      "start": 1616.18,
+      "end": 1626.94,
+      "timestamp": "26:56",
+      "text": "tem ainda, né, um acordo com a OpenAI, e eles tinham acesso aos GPTs."
+    },
+    {
+      "start": 1626.94,
+      "end": 1652.85,
+      "timestamp": "27:06",
+      "text": "Em setembro do ano passado, a gente fez um evento, e eles foram mostrar para a gente uma ferramenta que eles tinham criado internamente para ajudar a escrever código."
+    },
+    {
+      "start": 1652.85,
+      "end": 1676.41,
+      "timestamp": "27:32",
+      "text": "E o que eles mostraram pra gente foi o chatGPT, antes de ter o chatGPT, que era basicamente uma web page que ele colava código lá, o negócio respondia."
+    },
+    {
+      "start": 1676.41,
+      "end": 1693.89,
+      "timestamp": "27:56",
+      "text": "Ou ele colava código, respondia o que o código fazia, ou ele pedia, ah, eu quero um código pra isso, isso, isso."
+    },
+    {
+      "start": 1693.89,
+      "end": 1697.01,
+      "timestamp": "28:13",
+      "text": "A gente ficou louco!"
+    },
+    {
+      "start": 1697.01,
+      "end": 1698.26,
+      "timestamp": "28:17",
+      "text": "Loucura!"
+    },
+    {
+      "start": 1698.26,
+      "end": 1723.38,
+      "timestamp": "28:18",
+      "text": "Do dentro do fundo, tinha mais ou menos uns 30 líderes das empresas de IA do mundo inteiro, então tinha gente do iFood, do OLX, de outras empresas do grupo da..."
+    },
+    {
+      "start": 1723.38,
+      "end": 1737.74,
+      "timestamp": "28:43",
+      "text": "da Prosos, a gente precisa de acesso a isso, deixou brincar, deixou pôr a mão nesse negócio."
+    },
+    {
+      "start": 1737.74,
+      "end": 1741.64,
+      "timestamp": "28:57",
+      "text": "E aí, o que eles fizeram?"
+    },
+    {
+      "start": 1741.64,
+      "end": 1783.93,
+      "timestamp": "29:01",
+      "text": "Eles criaram uma interface dentro do Slack, interface não, criaram um bot de Slack, literalmente, onde você dá um arroba, plus one, que é o nome da ferramenta, que é basicamente um colega extra no seu time, e você pode usar dentro do Slack essa ferramenta pra usar o GPT."
+    },
+    {
+      "start": 1783.93,
+      "end": 1816.85,
+      "timestamp": "29:43",
+      "text": "E aí, tinha uns acordos de privacidade lá entre nós e a OpenAI, o que é ótimo, porque você podia usar tranquilamente dentro do ambiente de trabalho, e a gente monitorava tudo agressivamente pra não ter gracinha."
+    },
+    {
+      "start": 1816.85,
+      "end": 1846.81,
+      "timestamp": "30:16",
+      "text": "Ao fazer esse monitoramento, a gente começou a pegar o uso das pessoas e melhorar os pré-prompts, né, então antes do prompt vai alguma informação sobre você pra te ajudar a fazer uma pergunta."
+    },
+    {
+      "start": 1846.81,
+      "end": 1873.65,
+      "timestamp": "30:46",
+      "text": "Então hoje, 45% do uso dessa ferramenta no grupo, tem 10 mil pessoas usando essa ferramenta dentro da Prosos, numa apresentação que fizeram agora, 45% eles usam pra código."
+    },
+    {
+      "start": 1873.65,
+      "end": 1888.01,
+      "timestamp": "31:13",
+      "text": "Então a pessoa entra lá no Slack e fala, como é que eu faço isso, como é que eu faço aquilo?"
+    },
+    {
+      "start": 1888.01,
+      "end": 1916.1,
+      "timestamp": "31:28",
+      "text": "Se eu sei que você é um programador muito bom e você não é, às vezes eu vou dar respostas diferentes, ó, tá aqui o código, resolve lá, tá aqui o código e um link pra você entender."
+    },
+    {
+      "start": 1916.1,
+      "end": 1917.04,
+      "timestamp": "31:56",
+      "text": "Exato."
+    },
+    {
+      "start": 1917.04,
+      "end": 1920.16,
+      "timestamp": "31:57",
+      "text": "E aí vai melhorando."
+    },
+    {
+      "start": 1920.16,
+      "end": 1930.61,
+      "timestamp": "32:00",
+      "text": "Só que foi a primeira vez na minha carreira que eu vi o jogo virar."
+    },
+    {
+      "start": 1930.61,
+      "end": 1933.89,
+      "timestamp": "32:10",
+      "text": "O que é o jogo virar?"
+    },
+    {
+      "start": 1933.89,
+      "end": 1945.75,
+      "timestamp": "32:13",
+      "text": "Antigamente, as pessoas vinham pra mim e falavam, Sander, eu tive uma ideia."
+    },
+    {
+      "start": 1945.75,
+      "end": 1953.71,
+      "timestamp": "32:25",
+      "text": "Cria um modelo pra fazer isso, isso, isso e aquilo."
+    },
+    {
+      "start": 1953.71,
+      "end": 1954.49,
+      "timestamp": "32:33",
+      "text": "Putz."
+    },
+    {
+      "start": 1954.49,
+      "end": 1960.57,
+      "timestamp": "32:34",
+      "text": "Ferrado, aqui cheio de coisa pra fazer."
+    },
+    {
+      "start": 1960.57,
+      "end": 1975.24,
+      "timestamp": "32:40",
+      "text": "Vamos fazer o seguinte, deixa aí, a gente vai começar no próximo planejamento daqui a X meses."
+    },
+    {
+      "start": 1975.24,
+      "end": 1990.07,
+      "timestamp": "32:55",
+      "text": "Quando a gente colocou essa ferramenta no Slack, as pessoas começaram a prototipar elas mesmas."
+    },
+    {
+      "start": 1990.07,
+      "end": 1993.19,
+      "timestamp": "33:10",
+      "text": "Ó, testei isso aqui."
+    },
+    {
+      "start": 1993.19,
+      "end": 1995.99,
+      "timestamp": "33:13",
+      "text": "Funcionou, gostei."
+    },
+    {
+      "start": 1995.99,
+      "end": 1999.74,
+      "timestamp": "33:15",
+      "text": "E aí a gente implementa."
+    },
+    {
+      "start": 1999.74,
+      "end": 2011.91,
+      "timestamp": "33:19",
+      "text": "Então a gente empoderou os civis pra que eles possam prototipar seus produtos."
+    },
+    {
+      "start": 2011.91,
+      "end": 2024.4,
+      "timestamp": "33:31",
+      "text": "Então, por exemplo, o pessoal, o iFood tem uma empresa chamada iFood Benefícios."
+    },
+    {
+      "start": 2024.4,
+      "end": 2031.11,
+      "timestamp": "33:44",
+      "text": "Eles vendem vale-refeição para as empresas."
+    },
+    {
+      "start": 2031.11,
+      "end": 2039.69,
+      "timestamp": "33:51",
+      "text": "A venda do Benefícios é feita com o profissional de RH."
+    },
+    {
+      "start": 2039.69,
+      "end": 2052.02,
+      "timestamp": "33:59",
+      "text": "Então eu ligo lá no RH e falo, ô RH, quer comprar aqui o benefício e tudo mais?"
+    },
+    {
+      "start": 2052.02,
+      "end": 2068.87,
+      "timestamp": "34:12",
+      "text": "Eles pegaram os áudios dessas gravações, passaram por dentro desse Plus One, que tem reconhecimento de fala."
+    },
+    {
+      "start": 2068.87,
+      "end": 2078.86,
+      "timestamp": "34:28",
+      "text": "Hoje é multimodal, ele tem tudo isso, mas antigamente não tinha."
+    },
+    {
+      "start": 2078.86,
+      "end": 2106.32,
+      "timestamp": "34:38",
+      "text": "E ele reconhecia a fala, ele dizia pra gente o que aconteceu naquela conversa, resumia o que aconteceu, se o cliente estava interessado ou não, e quais eram os próximos passos."
+    },
+    {
+      "start": 2106.32,
+      "end": 2115.06,
+      "timestamp": "35:06",
+      "text": "Isso foi prototipado pelo time de negócios lá na pronta."
+    },
+    {
+      "start": 2115.06,
+      "end": 2127.23,
+      "timestamp": "35:15",
+      "text": "Tem uma outra empresa do iFood chamada iFood Benefícios, iFood Shop, desculpa."
+    },
+    {
+      "start": 2127.23,
+      "end": 2134.41,
+      "timestamp": "35:27",
+      "text": "O iFood Shop vende insumos para o restaurante."
+    },
+    {
+      "start": 2134.41,
+      "end": 2140.65,
+      "timestamp": "35:34",
+      "text": "Farinha, queijo, mortadela e por aí vai."
+    },
+    {
+      "start": 2140.65,
+      "end": 2162.65,
+      "timestamp": "35:40",
+      "text": "Eles pegaram a lista de ingredientes, a lista de pratos dos restaurantes e pediram para o GPT gerar ingredientes para gerar lead qualificado."
+    },
+    {
+      "start": 2162.65,
+      "end": 2181.69,
+      "timestamp": "36:02",
+      "text": "Então agora o iFood consegue saber quanta mussarela é consumida na moca, num sábado, por exemplo, para poder fazer vendas."
+    },
+    {
+      "start": 2181.69,
+      "end": 2186.22,
+      "timestamp": "36:21",
+      "text": "Isso tudo na mão das pessoas."
+    },
+    {
+      "start": 2186.22,
+      "end": 2192.61,
+      "timestamp": "36:26",
+      "text": "Então essa virada foi muito interessante."
+    },
+    {
+      "start": 2192.61,
+      "end": 2195.11,
+      "timestamp": "36:32",
+      "text": "Você acha que..."
+    },
+    {
+      "start": 2195.11,
+      "end": 2225.85,
+      "timestamp": "36:35",
+      "text": "Aí, entrando aqui nessa parte de AI generativa ainda de foco, eu tenho a impressão de que, pelo menos hoje, as pessoas de negócio, menos de tech pura, estão conseguindo ser mais criativas nos usos."
+    },
+    {
+      "start": 2225.85,
+      "end": 2259.56,
+      "timestamp": "37:05",
+      "text": "Porque a impressão que eu tenho quando eu sento, por exemplo, com o time de tech do próprio G4, para eles tirarem do chão alguma coisa, eles ficam muito presos à tech e menos aos problemas de negócio que ela resolve."
+    },
+    {
+      "start": 2259.56,
+      "end": 2284.68,
+      "timestamp": "37:39",
+      "text": "E tem muita coisa que, literalmente, é só pensar no promptzinho, que ele vai funcionar melhor do que se eu plugar num zilhão de bancos de dados ou outras coisas."
+    },
+    {
+      "start": 2284.68,
+      "end": 2299.35,
+      "timestamp": "38:04",
+      "text": "E eu tenho essa impressão, tipo, hoje tem muita solução de tecnologia que está sendo melhor..."
+    },
+    {
+      "start": 2299.35,
+      "end": 2301.53,
+      "timestamp": "38:19",
+      "text": "Vou usar o AI."
+    },
+    {
+      "start": 2301.53,
+      "end": 2314.02,
+      "timestamp": "38:21",
+      "text": "Que gente de negócio está sabendo usar melhor, ou pelo menos rampar melhor o nó."
+    },
+    {
+      "start": 2314.02,
+      "end": 2325.25,
+      "timestamp": "38:34",
+      "text": "O sentido é esse que a gente deveria ir, do que o pessoal de tecnologia."
+    },
+    {
+      "start": 2325.25,
+      "end": 2329.15,
+      "timestamp": "38:45",
+      "text": "Qual é a sua visão nisso?"
+    },
+    {
+      "start": 2329.15,
+      "end": 2339.3,
+      "timestamp": "38:49",
+      "text": "Sempre teve um rachão entre esses dois grupos, quase antagônicos."
+    },
+    {
+      "start": 2339.3,
+      "end": 2347.88,
+      "timestamp": "38:59",
+      "text": "Por isso que a gente fala muito do cientista executivo."
+    },
+    {
+      "start": 2347.88,
+      "end": 2356.15,
+      "timestamp": "39:07",
+      "text": "Acho que foi um pouco dessa pegada do livro, que é..."
+    },
+    {
+      "start": 2356.15,
+      "end": 2377.69,
+      "timestamp": "39:16",
+      "text": "Você tem o executivo que ele quer receita, retorno, diminuir custos, e tem a galera da tecnologia que está preocupada com a implementação."
+    },
+    {
+      "start": 2377.69,
+      "end": 2383.77,
+      "timestamp": "39:37",
+      "text": "Está preocupada com a tecnologia em si."
+    },
+    {
+      "start": 2383.77,
+      "end": 2384.71,
+      "timestamp": "39:43",
+      "text": "Exato."
+    },
+    {
+      "start": 2384.71,
+      "end": 2388.14,
+      "timestamp": "39:44",
+      "text": "O que eu estou usando?"
+    },
+    {
+      "start": 2388.14,
+      "end": 2389.39,
+      "timestamp": "39:48",
+      "text": "É legal?"
+    },
+    {
+      "start": 2389.39,
+      "end": 2396.72,
+      "timestamp": "39:49",
+      "text": "Como é que isso aqui vai soar no meu currículo?"
+    },
+    {
+      "start": 2396.72,
+      "end": 2400.94,
+      "timestamp": "39:56",
+      "text": "Que tecnologias que eu sei?"
+    },
+    {
+      "start": 2400.94,
+      "end": 2404.53,
+      "timestamp": "40:00",
+      "text": "É sopa de letrinha, né?"
+    },
+    {
+      "start": 2404.53,
+      "end": 2410.77,
+      "timestamp": "40:04",
+      "text": "Engenheiro, pessoal de dados adora isso."
+    },
+    {
+      "start": 2410.77,
+      "end": 2427.15,
+      "timestamp": "40:10",
+      "text": "Quando caiu o GPT na mão das pessoas, elas começaram a interagir com a tecnologia e começaram a entender."
+    },
+    {
+      "start": 2427.15,
+      "end": 2434.95,
+      "timestamp": "40:27",
+      "text": "É como se os mundos se aproximassem mais um pouco."
+    },
+    {
+      "start": 2434.95,
+      "end": 2446.35,
+      "timestamp": "40:34",
+      "text": "Além disso, o GPT permite você fazer algumas coisas de forma muito fácil."
+    },
+    {
+      "start": 2446.35,
+      "end": 2470.38,
+      "timestamp": "40:46",
+      "text": "Por exemplo, imagina que eu quero entrar nas avaliações dos restaurantes para poder recomendar para os clientes dos restaurantes, baseado nos comentários."
+    },
+    {
+      "start": 2470.38,
+      "end": 2485.36,
+      "timestamp": "41:10",
+      "text": "Eu posso ir lá e usar o GPT para criar um modelo que vai me dizer se o comentário é bom ou ruim."
+    },
+    {
+      "start": 2485.36,
+      "end": 2495.19,
+      "timestamp": "41:25",
+      "text": "Então, a pessoa está feliz ou está triste com esse restaurante?"
+    },
+    {
+      "start": 2495.19,
+      "end": 2498.15,
+      "timestamp": "41:35",
+      "text": "Foi bom ou não foi?"
+    },
+    {
+      "start": 2498.15,
+      "end": 2519.69,
+      "timestamp": "41:38",
+      "text": "Você consegue usar o GPT muito rapidamente a partir de um prompt para resolver isso, que é o exemplo que o pessoal estava usando no Slack."
+    },
+    {
+      "start": 2519.69,
+      "end": 2556.05,
+      "timestamp": "41:59",
+      "text": "Antigamente, eu ia precisar coletar todos esses dados, pegar no banco, dar uma limpada, pegar o algoritmo, ter um cientista para fazer isso, para gerar o resultado se as pessoas estão falando bem ou mal de um determinado restaurante."
+    },
+    {
+      "start": 2556.05,
+      "end": 2568.84,
+      "timestamp": "42:36",
+      "text": "Então, para alguns casos, principalmente nesses contextos, o GPT aproximou demais."
+    },
+    {
+      "start": 2568.84,
+      "end": 2576.96,
+      "timestamp": "42:48",
+      "text": "Então, ele facilita a prototipar coisas, criar POCs."
+    },
+    {
+      "start": 2576.96,
+      "end": 2578.52,
+      "timestamp": "42:56",
+      "text": "Muito bom."
+    },
+    {
+      "start": 2578.52,
+      "end": 2590.38,
+      "timestamp": "42:58",
+      "text": "Galera, olha só, vocês estão curtindo aí o nosso papo aqui, o Papo de Estão."
+    },
+    {
+      "start": 2590.38,
+      "end": 2597.87,
+      "timestamp": "43:10",
+      "text": "Convido vocês a avaliarem a gente aí no Spotify."
+    },
+    {
+      "start": 2597.87,
+      "end": 2612.69,
+      "timestamp": "43:17",
+      "text": "A gente tem essa meta de continuar aí nos top 5 podcasts de negócios aqui do Brasil no Spotify."
+    },
+    {
+      "start": 2612.69,
+      "end": 2626.11,
+      "timestamp": "43:32",
+      "text": "Então, você está ouvindo no YouTube, vai lá no Spotify, dá 5 estrelinhas para a gente."
+    },
+    {
+      "start": 2626.11,
+      "end": 2654.98,
+      "timestamp": "43:46",
+      "text": "Você está aí no YouTube também, dá um likezinho, comenta aqui, manda para a gente aqui nos comentários quem você gostaria também de ver, que a gente trouxesse aqui para o Papo de Estão."
+    },
+    {
+      "start": 2654.98,
+      "end": 2674.02,
+      "timestamp": "44:14",
+      "text": "É rapidinho e ajuda bastante a gente nessa missão aí de democratizar esse conteúdo de tanta importância para você, gestor."
+    },
+    {
+      "start": 2674.02,
+      "end": 2691.5,
+      "timestamp": "44:34",
+      "text": "E, cara, fechando aqui essa história aí do iFood, que foi tua história recente, é uma dúvida que todo mundo tem."
+    },
+    {
+      "start": 2691.5,
+      "end": 2702.89,
+      "timestamp": "44:51",
+      "text": "Na época eu estava na rápida, a minha galera me perguntava toda hora, né?"
+    },
+    {
+      "start": 2702.89,
+      "end": 2717.4,
+      "timestamp": "45:02",
+      "text": "Você está lá no meio da tarde, aquele calor danado, daí veio uma notificação lá do iFood, né?"
+    },
+    {
+      "start": 2717.4,
+      "end": 2745.33,
+      "timestamp": "45:17",
+      "text": "Vai um\n\num teste tão rápido como acontece nas empresas que a gente toca ou participa, nem sempre as pessoas conseguem amadurecer as qualidades que elas precisam ao longo do tempo."
+    },
+    {
+      "start": 2745.33,
+      "end": 2775.92,
+      "timestamp": "45:45",
+      "text": "Eu sempre digo que tem três tipos de profissionais, que eles conseguem muito bem tirar o negócio do 0 para o 1, que eles conseguem levar do 1 para o 10 e que eles conseguem levar do 10 para o 100."
+    },
+    {
+      "start": 2775.92,
+      "end": 2788.09,
+      "timestamp": "46:15",
+      "text": "E tipicamente essas três pessoas são pessoas que são completamente diferentes."
+    },
+    {
+      "start": 2788.09,
+      "end": 2803.38,
+      "timestamp": "46:28",
+      "text": "Pelo que eu vejo você, você é uma pessoa que consegue tirar ele do 1 para o 10 e do 10 para o 100."
+    },
+    {
+      "start": 2803.38,
+      "end": 2823.67,
+      "timestamp": "46:43",
+      "text": "Talvez do 0 para o 1, quando eu falo assim, do negócio, talvez seja um pouco diferente, mais pelas histórias aqui que você contou."
+    },
+    {
+      "start": 2823.67,
+      "end": 2848.32,
+      "timestamp": "47:03",
+      "text": "Mas daí você entra lá no time, você chega na PicPay, talvez tinha alguém ali que queria assumir aquela posição, que não assumiu e tem esse burburinho interno."
+    },
+    {
+      "start": 2848.32,
+      "end": 2851.76,
+      "timestamp": "47:28",
+      "text": "Em todo lugar tem, né?"
+    },
+    {
+      "start": 2851.76,
+      "end": 2895.14,
+      "timestamp": "47:31",
+      "text": "Você falou que essa vai ser a terceira coisa talvez que você vai conversar sobre o time, mas como você lidar com isso, como você vivenciou isso nos outros lugares que você passou, conforme você foi subindo também em cada um dos lugares, como você lidou com esse barulho interno?"
+    },
+    {
+      "start": 2895.14,
+      "end": 2908.4,
+      "timestamp": "48:15",
+      "text": "Super complicado esse assunto e ele depende de uma coisa, ele depende de crescimento."
+    },
+    {
+      "start": 2908.4,
+      "end": 2917.76,
+      "timestamp": "48:28",
+      "text": "Enquanto a empresa está crescendo, o crescimento é oxigênio."
+    },
+    {
+      "start": 2917.76,
+      "end": 2935.71,
+      "timestamp": "48:37",
+      "text": "Então enquanto a empresa está crescendo, do 0 a 10, geralmente aquele momento fantástico, do 10 ao 100, você falou."
+    },
+    {
+      "start": 2935.71,
+      "end": 2941.48,
+      "timestamp": "48:55",
+      "text": "Do 0 ao 1, do 1 ao 10 e do 10 ao 100."
+    },
+    {
+      "start": 2941.48,
+      "end": 2951.63,
+      "timestamp": "49:01",
+      "text": "Você tem um negócio que ele cresce, você gera muita oportunidade."
+    },
+    {
+      "start": 2951.63,
+      "end": 2965.67,
+      "timestamp": "49:11",
+      "text": "Então o que acontece é que você tem bastante espaço para fazer movimentações e por aí vai."
+    },
+    {
+      "start": 2965.67,
+      "end": 2979.71,
+      "timestamp": "49:25",
+      "text": "As pessoas crescem, às vezes até mais do que elas conseguem porque a empresa demanda isso."
+    },
+    {
+      "start": 2979.71,
+      "end": 3007.33,
+      "timestamp": "49:39",
+      "text": "Então meu primeiro objetivo é, nós precisamos trazer receita, nós precisamos trazer fontes de crescimento, o objetivo do time é fazer a empresa crescer e crescimento é oxigênio."
+    },
+    {
+      "start": 3007.33,
+      "end": 3051.34,
+      "timestamp": "50:07",
+      "text": "Obviamente quando você está em uma situação mais steady state, onde o negócio está mais parado, você não tem tanto crescimento, ou o que aconteceu no último ano e meio aí vai com as empresas fazendo layoffs, diminuindo de tamanho, diminuindo investimento, capital caro e por aí vai."
+    },
+    {
+      "start": 3051.34,
+      "end": 3057.58,
+      "timestamp": "50:51",
+      "text": "As estruturas, elas se movimentam menos."
+    },
+    {
+      "start": 3057.58,
+      "end": 3064.92,
+      "timestamp": "50:57",
+      "text": "Qual que tem sido a minha filosofia com o time?"
+    },
+    {
+      "start": 3064.92,
+      "end": 3071.0,
+      "timestamp": "51:04",
+      "text": "Eu quero criar a máfia do PicPay agora."
+    },
+    {
+      "start": 3071.0,
+      "end": 3075.06,
+      "timestamp": "51:11",
+      "text": "O que é a máfia do PicPay?"
+    },
+    {
+      "start": 3075.06,
+      "end": 3115.47,
+      "timestamp": "51:15",
+      "text": "Esse time aqui, ou a gente cresce, ou você cresce aqui dentro da empresa, porque tem espaço, porque tem crescimento e oportunidade, ou você vai sair para fora daqui, mas você vai fundar a sua empresa, você vai ser o chefe de não sei o que lá de outra empresa."
+    },
+    {
+      "start": 3115.47,
+      "end": 3130.3,
+      "timestamp": "51:55",
+      "text": "Então enquanto estivermos aqui, eu vou fazer de tudo para que vocês cresçam como profissionais."
+    },
+    {
+      "start": 3130.3,
+      "end": 3133.73,
+      "timestamp": "52:10",
+      "text": "Que se dêem muito bem."
+    },
+    {
+      "start": 3133.73,
+      "end": 3134.67,
+      "timestamp": "52:13",
+      "text": "Exato."
+    },
+    {
+      "start": 3134.67,
+      "end": 3144.97,
+      "timestamp": "52:14",
+      "text": "Então se não couber aqui dentro, você vai caber muito bem lá fora."
+    },
+    {
+      "start": 3144.97,
+      "end": 3155.89,
+      "timestamp": "52:24",
+      "text": "Porque a gente teve um momento especial aqui entre nós, nesse período."
+    },
+    {
+      "start": 3155.89,
+      "end": 3156.83,
+      "timestamp": "52:35",
+      "text": "Legal."
+    },
+    {
+      "start": 3156.83,
+      "end": 3184.92,
+      "timestamp": "52:36",
+      "text": "Isso é legal, tem um livro, cara, esqueci o nome do livro agora, foi a Taika que indicou que falava que o papel do líder, ele era definir a visão ali do que o time tinha que fazer."
+    },
+    {
+      "start": 3184.92,
+      "end": 3201.92,
+      "timestamp": "53:04",
+      "text": "Tinha a segunda coisa que eu lembro que era, mas a terceira coisa era cuidar da carreira das pessoas do time."
+    },
+    {
+      "start": 3201.92,
+      "end": 3224.86,
+      "timestamp": "53:21",
+      "text": "Às vezes o cuidar da carreira não é fazer a pessoa crescer na empresa, mas ele se desenvolver na carreira que ele vai ter, às vezes em outro lugar."
+    },
+    {
+      "start": 3224.86,
+      "end": 3240.47,
+      "timestamp": "53:44",
+      "text": "Beleza, e que é uma coisa que eu gosto muito de filosofia de consultorias, nas grandes consultorias."
+    },
+    {
+      "start": 3240.47,
+      "end": 3257.95,
+      "timestamp": "54:00",
+      "text": "Cara, tipo a McKinsey que eu estudei mais a fundo como funciona para pegar algumas coisas para o meu time no G4."
+    },
+    {
+      "start": 3257.95,
+      "end": 3320.68,
+      "timestamp": "54:17",
+      "text": "Eles fazem isso, eles trazem muita gente, eles sabem que uma galera não vai ficar, mas tudo bem, eles trazem, ensinam e depois eles falam, somos alumne aqui da McKinsey que vão para outros lugares, vão se dar bem nesses lugares e depois quando a gente precisar, a gente vai ter o acesso e quando eles precisarem, eles vão lembrar da gente, a gente vai ajudar e vai criando isso que você falou da máfia."
+    },
+    {
+      "start": 3320.68,
+      "end": 3361.25,
+      "timestamp": "55:20",
+      "text": "Acho que é o primeiro, acho que é, cara, acho que é o primeiro gestor que eu converso que falou explicitamente, não, cara, essa é a minha cabeça aqui, se não der para crescer aqui dentro, o cara vai crescer em outro lugar, mas o foco é, vai todo mundo crescer."
+    },
+    {
+      "start": 3361.25,
+      "end": 3450.98,
+      "timestamp": "56:01",
+      "text": "A gente, na Canui, a gente fazia muito isso, né, o Bruno Henriques, que trabalhou contigo lá no iFood por muito tempo, a gente tinha isso, porque de um certo momento lá da fundação, lá no fim de 2011 até a venda em 2015, a gente teve algum período que a gente cresceu muito rápido, né, nesse período que a gente cresceu muito rápido, muita gente teve oportunidade e depois a gente entrou num período de rentabilização extrema, então, cada centavo conta, ainda mais num negócio multimarca de varejo, né, que o volume, de certa forma, né, o tamanho do mercado é um pouco menor."
+    },
+    {
+      "start": 3450.98,
+      "end": 3586.42,
+      "timestamp": "57:30",
+      "text": "E muita gente, a gente fez isso, né, como os investidores lá, a Rocket International, várias outras empresas que ficavam no mesmo espaço que a gente, inclusive o iFood uma época, ficou lá com a gente também no mesmo espaço, acho que foi em 2013, 14, que era um condomínio lá na Vila Leopoldina, ali na frente do parque Vila Lobos, né, o Vila Lobos Office, acho que chama lá, que eram cinco torres e tal, Vila Lobos Office, e daí o iFood foi lá, pegou umas casinhas lá que tinham no meio do negócio, e a gente, muita gente boa do nosso time, que, cara, a nossa régua era muito alta de gente, assim, muito alta, as pessoas mandavam bem, mas não mandavam bem tão suficiente para continuar crescendo lá dentro, a gente falou, olha, você não vai subir, mas você está, cara, assim, no top 1 ou no top 2, se a gente te mandar para aquela empresa, quer ir para aquela empresa?"
+    },
+    {
+      "start": 3586.42,
+      "end": 3661.48,
+      "timestamp": "59:46",
+      "text": "E daí a gente conversava com o fundador, que estava precisando daquela vaga, que já tinha a nossa cultura, que já tinha sido bem treinado, e realocava a pessoa lá, é bom para todo mundo, boa para a pessoa que ela se desenvolveu, bom que resolve o problema nosso de custo, né, que a gente precisava resolver, e, cara, está todo mundo bem, e a pessoa também vai ser eternamente grata para você, para você ter cuidado da carreira dela, de alguma maneira, para as pessoas se darem bem."
+    },
+    {
+      "start": 3661.48,
+      "end": 3703.3,
+      "timestamp": "01:01:01",
+      "text": "Cara, nessa altura do campeonato, é isso que você faz, você cuida da carreira das pessoas, você quer ter o melhor time, é o upper out, né, você cuida bem, porque é eles que vão efetuar o trabalho, no final das contas, tem que ser muito bem azeitada essa relação, sabe?"
+    },
+    {
+      "start": 3703.3,
+      "end": 3704.24,
+      "timestamp": "01:01:43",
+      "text": "Exato."
+    },
+    {
+      "start": 3704.24,
+      "end": 3753.24,
+      "timestamp": "01:01:44",
+      "text": "Cara, e o que que, né, você falou um pouquinho, não sei o que você pode abrir ou não, mas o que os clientes do PicPay podem esperar aí, nos meses e nesse próximo ano aí, de novas funcionalidades, personalização, não pode abrir muita coisa desse comecinho aí que você falou, se não puder abrir também está tudo bem."
+    },
+    {
+      "start": 3753.24,
+      "end": 3831.73,
+      "timestamp": "01:02:33",
+      "text": "Estou na lua de mel ainda, mas eu acho que uma coisa interessante do PicPay é que ele é um produto heterogêneo, ele tem muita coisa, tem muita funcionalidade, então, obviamente, o negócio que a gente espera mais é um produto que funciona melhor na mão do cliente, um produto que funciona do jeito que o cliente precisa mais personalização, mais facilidade de encontrar aquilo que ele quer, de resolver os problemas do dia a dia dele, então, é um produto cada vez mais gostoso de ser usado pelas pessoas."
+    },
+    {
+      "start": 3831.73,
+      "end": 3833.13,
+      "timestamp": "01:03:51",
+      "text": "Boa, boa."
+    },
+    {
+      "start": 3833.13,
+      "end": 3861.22,
+      "timestamp": "01:03:53",
+      "text": "Cara, ainda aqui, já quase para a reta final, antes de eu entrar aqui no bate-bola com o gestor, quais que são as tendências de AI que você vê aí nas empresas nesses próximos anos?"
+    },
+    {
+      "start": 3861.22,
+      "end": 3862.94,
+      "timestamp": "01:04:21",
+      "text": "Tendências?"
+    },
+    {
+      "start": 3862.94,
+      "end": 3905.85,
+      "timestamp": "01:04:22",
+      "text": "Eu tenho visto o que tem acontecido, os CEOs das empresas, os boards, os investidores estão cobrando uma estratégia de IA mais agressiva ou parte deles, então, acho que as empresas, como um todo, vão investir muito mais nessas tecnologias para poder trazer algum diferencial."
+    },
+    {
+      "start": 3905.85,
+      "end": 3928.79,
+      "timestamp": "01:05:05",
+      "text": "Olhando para a tecnologia como um todo, principalmente para o uso de IA generativo, vou separar em dois, tem outros tipos, mas vou separar em dois."
+    },
+    {
+      "start": 3928.79,
+      "end": 3975.92,
+      "timestamp": "01:05:28",
+      "text": "Tem o IA aprendizado supervisionado, que é você dar um exemplo para ele, ele vai aprender, você vai ensinar ele a partir desses exemplos, e tem o generativo, que é o que está na mão das pessoas, hoje o pessoal está usando o chat GPT, a geração de imagens por Stable Diffusion, Mid Journey e por aí vai."
+    },
+    {
+      "start": 3975.92,
+      "end": 4009.47,
+      "timestamp": "01:06:15",
+      "text": "Essa parte generativa vai crescer bastante, mas eu ainda me preocupo se vamos ter casos de uso na mão do cliente em escala, principalmente porque é uma tecnologia difícil de ser controlada, ela precisa ser pilotada."
+    },
+    {
+      "start": 4009.47,
+      "end": 4047.39,
+      "timestamp": "01:06:49",
+      "text": "Se você entregar lá uma interface, conversar aqui com esse negócio aqui que ele vai resolver sua vida, a gente já passou um ano praticamente, a gente não tem nada ainda que está funcionando, ainda falta um caso de uso grande na mão do cliente."
+    },
+    {
+      "start": 4047.39,
+      "end": 4077.82,
+      "timestamp": "01:07:27",
+      "text": "E outra coisa, é caro, se você pegar uma empresa que nem o iFood, agora vou trocar o aplicativo, todo mundo vai pedir via chat, vai inviabilizar o negócio porque é muito caro ter essas conversas."
+    },
+    {
+      "start": 4077.82,
+      "end": 4080.0,
+      "timestamp": "01:07:57",
+      "text": "Eu tenho visto"
+    }
+  ],
+  "word_count": 4740,
+  "segment_count": 217,
+  "chunks_used": 3,
+  "timestamps_estimated": true
+}

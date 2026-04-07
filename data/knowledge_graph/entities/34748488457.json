@@ -1,0 +1,255 @@
+{
+  "episode_id": "34748488457",
+  "title": "COMO ALCANÇAR O SEU 101 %? - COM CÉSAR CIELO | EXTREMOS",
+  "date_published": 1710318600,
+  "duration": 4952,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "César Cielo",
+      "role": "guest",
+      "company": "",
+      "title": "Campeão Olímpico"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Novak Djokovic",
+      "role": "mentioned",
+      "company": "",
+      "title": "Tenista"
+    },
+    {
+      "name": "Tom Brady",
+      "role": "mentioned",
+      "company": "",
+      "title": "Jogador de Futebol Americano"
+    },
+    {
+      "name": "Lebron James",
+      "role": "mentioned",
+      "company": "NBA",
+      "title": "Jogador de Basquete"
+    },
+    {
+      "name": "Jorge Vercilo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cantor e Compositor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Mencionada como empresa cofundada por Tallis Gomes e relacionada ao desenvolvimento de habilidades e resultados."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "101%",
+      "category": "Estratégia de Alta Performance"
+    },
+    {
+      "name": "Track Record",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Planejamento com Objetivos e Metas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Obsessão",
+      "category": "Psicologia de Alta Performance"
+    },
+    {
+      "name": "Meta vezes dez",
+      "category": "Estratégia de Objetivos"
+    },
+    {
+      "name": "Psicologia esportiva",
+      "category": "Desempenho e Saúde Mental"
+    },
+    {
+      "name": "Autocrítica",
+      "category": "Psicologia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Alta Performance",
+      "category": "Conceito"
+    },
+    {
+      "name": "Transição de Carreira",
+      "category": "Conceito"
+    },
+    {
+      "name": "Treinamento de Alto Rendimento",
+      "category": "Conceito"
+    },
+    {
+      "name": "Vezes 10",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Treino de Velocidade",
+      "category": "Esporte"
+    },
+    {
+      "name": "Concentração Mental",
+      "category": "Psicologia Esportiva"
+    },
+    {
+      "name": "Simulação de Competição",
+      "category": "Esporte"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "21.30",
+      "context": "Tempo recorde olímpico de César Cielo nos Jogos Olímpicos de Pequim 2008."
+    },
+    {
+      "value": "20 segundos e 91 centésimos",
+      "context": "Recorde mundial de César Cielo no 50 metros livre em 2009"
+    },
+    {
+      "value": "300 metros",
+      "context": "Distância máxima de treino de velocidade de César Cielo"
+    },
+    {
+      "value": "1.700 a 1.800 metros",
+      "context": "Distância típica de treino de César Cielo em Auburn"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tom Brady",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vezes 10",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jorge Vercilo",
+      "target_type": "person"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Novak Djokovic",
+      "target_type": "person"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Obsessão",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Concentração Mental",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Simulação De Competição",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Treino De Velocidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Treinamento De Alto Rendimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Lebron James",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nba",
+      "target_type": "company"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "101%",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alta Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Psicologia Esportiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Transição De Carreira",
+      "target_type": "concept"
+    }
+  ]
+}

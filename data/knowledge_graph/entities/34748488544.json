@@ -1,0 +1,292 @@
+{
+  "episode_id": "34748488544",
+  "title": "Saúde da Mulher: Desvende Mitos e Aprenda a Prevenir Doenças - Com Dr. Maurício Abrão | Sem Atalhos",
+  "date_published": 1695200400,
+  "duration": 3472,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Maurício Abrão",
+      "role": "guest",
+      "company": "USP",
+      "title": "Médico e Professor"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "role": "mentioned",
+      "company": "",
+      "title": "Actress"
+    },
+    {
+      "name": "Dr. Maurício Abrão",
+      "role": "guest",
+      "company": "",
+      "title": "Especialista em Endometriose"
+    },
+    {
+      "name": "Professor Pinotti",
+      "role": "mentioned",
+      "company": "Faculdade de Medicina da USP",
+      "title": "Professor"
+    },
+    {
+      "name": "Thay",
+      "role": "host",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Discussed as a provider of business education and training solutions"
+    },
+    {
+      "name": "Food And Drug Administration (Fda)",
+      "industry": "Regulação Farmacêutica",
+      "context": "Mencionado como referência para testes de segurança de medicamentos."
+    },
+    {
+      "name": "Beneficência Portuguesa",
+      "industry": "Saúde",
+      "context": "Parceria público-privada para treinamento de profissionais do SUS."
+    },
+    {
+      "name": "Hospital Do Câncer",
+      "industry": "Saúde",
+      "context": "Local onde o pai de Dr. Maurício Abrão trabalhou como diretor"
+    },
+    {
+      "name": "Faculdade De Medicina Da Usp",
+      "industry": "Educação",
+      "context": "Instituição onde foi criado um setor de endometriose"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Endometriose",
+      "category": "Medical Condition"
+    },
+    {
+      "name": "Alta Performance",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Training Platform"
+    },
+    {
+      "name": "Reserva Ovariana",
+      "category": "Medical Concept"
+    },
+    {
+      "name": "Hormônio Antimileriano",
+      "category": "Medical Concept"
+    },
+    {
+      "name": "Testosterona",
+      "category": "Medical Concept"
+    },
+    {
+      "name": "Gestrinona",
+      "category": "Medicamento"
+    },
+    {
+      "name": "Reposição Hormonal",
+      "category": "Tratamento Médico"
+    },
+    {
+      "name": "WHI (Women's Health Initiative)",
+      "category": "Estudo Científico"
+    },
+    {
+      "name": "PROAD (Programa de Apoio ao Desenvolvimento Institucional do SUS)",
+      "category": "Programa de Saúde Pública"
+    },
+    {
+      "name": "Tratamento clínico",
+      "category": "Tratamento médico"
+    },
+    {
+      "name": "Tratamento cirúrgico",
+      "category": "Tratamento médico"
+    },
+    {
+      "name": "Excisão do foco de doença",
+      "category": "Procedimento médico"
+    },
+    {
+      "name": "Laparoscopia",
+      "category": "Procedimento médico"
+    },
+    {
+      "name": "Análogos do GNRH",
+      "category": "Medicamento"
+    },
+    {
+      "name": "Fibrose",
+      "category": "Condição médica"
+    },
+    {
+      "name": "Imunidade",
+      "category": "Conceito médico"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10 a 15%",
+      "context": "Percentage of women in reproductive age affected by endometriosis"
+    },
+    {
+      "value": "8 milhões",
+      "context": "Number of women affected by endometriosis in Brazil"
+    },
+    {
+      "value": "1 a 2 milhões",
+      "context": "Number of primordial follicles at birth in women"
+    },
+    {
+      "value": "400 a 500 mil",
+      "context": "Number of primordial follicles at first menstruation"
+    },
+    {
+      "value": "10 mil",
+      "context": "Number of primordial follicles at menopause"
+    },
+    {
+      "value": "10 a 15%",
+      "context": "Prevalência de endometriose em mulheres em idade reprodutiva."
+    },
+    {
+      "value": "Mais de 8 milhões",
+      "context": "Número estimado de mulheres com endometriose no Brasil."
+    },
+    {
+      "value": "40%",
+      "context": "Porcentagem de pacientes com endometriose profunda tratadas na experiência do Dr. Maurício Abrão"
+    },
+    {
+      "value": "20%",
+      "context": "Porcentagem de casos de endometriose profunda que afetam o intestino"
+    },
+    {
+      "value": "menos de 10%",
+      "context": "Chance de reoperação após cirurgia especializada para endometriose"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Dr. Maurício Abrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestrinona",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Maurício Abrão",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Setor De Endometriose",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurício Abrão",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Usp",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Maurício Abrão",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Faculdade De Medicina Da Usp",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Maurício Abrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Testosterona",
+      "target_type": "concept"
+    },
+    {
+      "source": "Professor Pinotti",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Faculdade De Medicina Da Usp",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurício Abrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Testosterona",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maurício Abrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hormônio Antimileriano",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Maurício Abrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Endometriose",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maurício Abrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Endometriose",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Maurício Abrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Reposição Hormonal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Beneficência Portuguesa",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Proad (Programa De Apoio Ao Desenvolvimento Institucional Do Sus)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maurício Abrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Reserva Ovariana",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "episode_id": "34748488385",
+  "title": "COMO PROTEGER O QUE REALMENTE IMPORTA NO BRASIL E NO MUNDO - COM JULIA QUEIROZ PRIMO (VITAE GROUP) | EXTREMOS",
+  "date_published": 1729065600,
+  "duration": 4025,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Júlia Queiroz Primo",
+      "role": "guest",
+      "company": "Vitae Group Insurance",
+      "title": "Managing Partner"
+    },
+    {
+      "name": "Julia Queiroz Primo",
+      "role": "guest",
+      "company": "Vitae Group",
+      "title": "Executive"
+    },
+    {
+      "name": "Caio",
+      "role": "mentioned",
+      "company": "Care Plus",
+      "title": "Director"
+    },
+    {
+      "name": "Júnior Ciripieri",
+      "role": "mentioned",
+      "company": "Amil",
+      "title": ""
+    },
+    {
+      "name": "Família Bueno",
+      "role": "mentioned",
+      "company": "DASA",
+      "title": ""
+    },
+    {
+      "name": "Família Moll",
+      "role": "mentioned",
+      "company": "Rede D'Or",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts of the podcast and provider of entrepreneurial education programs."
+    },
+    {
+      "name": "Vitae Group Insurance",
+      "industry": "Insurance",
+      "context": "Company specializing in global health insurance and expatriate services."
+    },
+    {
+      "name": "Vitae Group",
+      "industry": "Insurance",
+      "context": "Company associated with Julia Queiroz Primo."
+    },
+    {
+      "name": "Prudential",
+      "industry": "Insurance",
+      "context": "Discussed for its role in life insurance and market education."
+    },
+    {
+      "name": "Care Plus",
+      "industry": "Health Insurance",
+      "context": "Mentioned in the context of fraud prevention."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Banking",
+      "context": "Mentioned in the context of traditional life insurance."
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Banking",
+      "context": "Mentioned in the context of traditional life insurance."
+    },
+    {
+      "name": "United Healthcare",
+      "industry": "Saúde",
+      "context": "Operadora global de saúde mencionada"
+    },
+    {
+      "name": "Amil",
+      "industry": "Saúde",
+      "context": "Empresa mencionada no contexto de recompra por Júnior Ciripieri"
+    },
+    {
+      "name": "Dasa",
+      "industry": "Saúde",
+      "context": "Empresa mencionada no contexto de fusão com Amil"
+    },
+    {
+      "name": "Rede D'Or",
+      "industry": "Saúde",
+      "context": "Empresa mencionada no contexto de aquisição da Sul América"
+    },
+    {
+      "name": "Sul América",
+      "industry": "Saúde",
+      "context": "Empresa adquirida pela Rede D'Or"
+    },
+    {
+      "name": "Apivida",
+      "industry": "Saúde",
+      "context": "Empresa mencionada no contexto de verticalização"
+    },
+    {
+      "name": "Prevent Senior",
+      "industry": "Saúde",
+      "context": "Empresa mencionada no contexto de verticalização"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Seguro de saúde global",
+      "category": "Insurance"
+    },
+    {
+      "name": "Plano de saúde",
+      "category": "Healthcare"
+    },
+    {
+      "name": "Copagamento",
+      "category": "Insurance"
+    },
+    {
+      "name": "Franquia de seguro",
+      "category": "Insurance"
+    },
+    {
+      "name": "Ciências atuariais",
+      "category": "Education"
+    },
+    {
+      "name": "Buy-Sell Agreement",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Life Insurance",
+      "category": "Insurance"
+    },
+    {
+      "name": "Diversification",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Trusts",
+      "category": "Wealth Management"
+    },
+    {
+      "name": "Fraud Prevention",
+      "category": "Risk Management"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "Verticalização",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Sinistralidade",
+      "category": "Termo de Negócios"
+    },
+    {
+      "name": "Distribuição",
+      "category": "Cadeia de Suprimentos"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "350",
+      "context": "Number of employees at G4 Educação."
+    },
+    {
+      "value": "350",
+      "context": "Número de funcionários do G4 Educação"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Julia Queiroz Primo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vitae Group",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlia Queiroz Primo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vitae Group Insurance",
+      "target_type": "company"
+    },
+    {
+      "source": "Família Bueno",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Dasa",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Care Plus",
+      "target_type": "company"
+    },
+    {
+      "source": "Júnior Ciripieri",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Amil",
+      "target_type": "company"
+    },
+    {
+      "source": "Família Moll",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Rede D'Or",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

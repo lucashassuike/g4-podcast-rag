@@ -1,0 +1,541 @@
+{
+  "episode_id": "34748488636",
+  "title": "Paulo Muzy (Parte 1) - Alta Performance, Nootrópicos, Uso de Hormônios, Alimentação e Hábitos | Papo de Gestão",
+  "date_published": 1663749647,
+  "duration": 5901,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Paulo Muzy",
+      "role": "guest",
+      "company": "",
+      "title": "Orthopedist, Physiologist, Athlete"
+    },
+    {
+      "name": "Jair Bolsonaro",
+      "role": "mentioned",
+      "company": "Government of Brazil",
+      "title": "President"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "CEO"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla, SpaceX",
+      "title": "CEO"
+    },
+    {
+      "name": "Fabio Ventura",
+      "role": "mentioned",
+      "company": "",
+      "title": "Paciente de Paulo Muzy"
+    },
+    {
+      "name": "Rafinha Bastos",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Roberta",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Borelli",
+      "role": "mentioned",
+      "company": "",
+      "title": "Paciente e amigo de Paulo Muzy"
+    },
+    {
+      "name": "Linda Morgan",
+      "role": "mentioned",
+      "company": "",
+      "title": "Pesquisadora"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Podcast host and business education"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Founded by Tallis Gomes"
+    },
+    {
+      "name": "Wall Street Journal",
+      "industry": "Mídia",
+      "context": "Publicou matéria sobre CEOs e saúde física"
+    },
+    {
+      "name": "Forbes",
+      "industry": "Mídia",
+      "context": "Publicou capa com Fabio Ventura"
+    },
+    {
+      "name": "Escola Paulista De Medicina",
+      "industry": "Educação",
+      "context": "Instituição onde Paulo Muzy realizou estudos relacionados à obesidade infantil"
+    },
+    {
+      "name": "Probiótica",
+      "industry": "Suplementos nutricionais",
+      "context": "Paulo Muzy trabalhou como consultor técnico"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta Performance",
+      "category": "Business and Personal Development"
+    },
+    {
+      "name": "Percentual de Gordura (BF)",
+      "category": "Health and Fitness"
+    },
+    {
+      "name": "Lifestyle",
+      "category": "Health and Personal Development"
+    },
+    {
+      "name": "Cutting",
+      "category": "Fitness and Bodybuilding"
+    },
+    {
+      "name": "Nootrópicos",
+      "category": "Saúde e bem-estar"
+    },
+    {
+      "name": "Uso de hormônios",
+      "category": "Saúde e bem-estar"
+    },
+    {
+      "name": "Alimentação saudável",
+      "category": "Saúde e bem-estar"
+    },
+    {
+      "name": "Hábitos sustentáveis",
+      "category": "Saúde e bem-estar"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Testosterona",
+      "category": "Medicação"
+    },
+    {
+      "name": "Hipogonadismo hipergonadotrófico",
+      "category": "Condição médica"
+    },
+    {
+      "name": "Betaendorfina",
+      "category": "Neurotransmissor"
+    },
+    {
+      "name": "Sibutramina",
+      "category": "Medicação"
+    },
+    {
+      "name": "Modafinil",
+      "category": "Nootrópico"
+    },
+    {
+      "name": "N-acetilcisteína",
+      "category": "Suplemento"
+    },
+    {
+      "name": "Vitamina B12 metilada",
+      "category": "Suplemento"
+    },
+    {
+      "name": "Fosfato de ocerina",
+      "category": "Suplemento"
+    },
+    {
+      "name": "Alimentação e Hábitos",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Dieta Cetogênica",
+      "category": "Nutrição e Saúde"
+    },
+    {
+      "name": "macronutrientes",
+      "category": "nutrição"
+    },
+    {
+      "name": "cortisol",
+      "category": "hormônios"
+    },
+    {
+      "name": "FGF21",
+      "category": "biologia molecular"
+    },
+    {
+      "name": "microbiota",
+      "category": "biologia"
+    },
+    {
+      "name": "stock options",
+      "category": "investimentos"
+    },
+    {
+      "name": "alimentação fracionada",
+      "category": "nutrição"
+    },
+    {
+      "name": "hormônios de estresse",
+      "category": "biologia"
+    },
+    {
+      "name": "síndrome de Addison",
+      "category": "medicina"
+    },
+    {
+      "name": "GH (hormônio do crescimento)",
+      "category": "hormônios"
+    },
+    {
+      "name": "Autofagia",
+      "category": "Saúde e Nutrição"
+    },
+    {
+      "name": "Jejum Intermitente",
+      "category": "Saúde e Nutrição"
+    },
+    {
+      "name": "Resistência à Insulina",
+      "category": "Saúde e Nutrição"
+    },
+    {
+      "name": "Leptina",
+      "category": "Saúde e Nutrição"
+    },
+    {
+      "name": "Grelina",
+      "category": "Saúde e Nutrição"
+    },
+    {
+      "name": "Noradrenalina",
+      "category": "Fisiologia e bioquímica"
+    },
+    {
+      "name": "Catecolaminérgica",
+      "category": "Fisiologia e bioquímica"
+    },
+    {
+      "name": "Suplementos alimentares",
+      "category": "Nutrição e esportes"
+    },
+    {
+      "name": "Estágios da agonia",
+      "category": "Psicologia e comportamento"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "6 milhões",
+      "context": "Followers of Paulo Muzy on Instagram"
+    },
+    {
+      "value": "115 kg",
+      "context": "Weight of Paulo Muzy"
+    },
+    {
+      "value": "9-10%",
+      "context": "Body fat percentage of Paulo Muzy"
+    },
+    {
+      "value": "30+ países",
+      "context": "Countries visited by Tallis Gomes during Easy Taxi expansion"
+    },
+    {
+      "value": "70-80 horas por semana",
+      "context": "Work hours of Tallis Gomes during Easy Taxi expansion"
+    },
+    {
+      "value": "7% de gordura corporal",
+      "context": "Fabio Ventura, paciente de Paulo Muzy"
+    },
+    {
+      "value": "86%",
+      "context": "Porcentagem de pessoas que tiveram alterações psíquicas após a Covid-19"
+    },
+    {
+      "value": "20,000",
+      "context": "Número de pacientes atendidos por Paulo Muzy"
+    },
+    {
+      "value": "400 mil reais",
+      "context": "Exemplo de pagamento mensal discutido para ilustrar o funcionamento do corpo humano em relação à energia"
+    },
+    {
+      "value": "50,000 pessoas",
+      "context": "Número de participantes no estudo sobre jejum na comunidade Amish"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Probiótica",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estágios Da Agonia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Forbes",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Fabio Ventura",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Resistência À Insulina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Catecolaminérgica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fgf21",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Fabio Ventura",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jejum Intermitente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Stock Options",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cortisol",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bruno Borelli",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jair Bolsonaro",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Suplementos Alimentares",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Leptina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Grelina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dieta Cetogênica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alta Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Roberta",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alimentação Fracionada",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lifestyle",
+      "target_type": "concept"
+    },
+    {
+      "source": "Wall Street Journal",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Elon Musk",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gh (Hormônio Do Crescimento)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Macronutrientes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autofagia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "studied_at",
+      "target": "Escola Paulista De Medicina",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Microbiota",
+      "target_type": "concept"
+    },
+    {
+      "source": "Probiótica",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Suplementos Alimentares",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Noradrenalina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hormônios De Estresse",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Síndrome De Addison",
+      "target_type": "concept"
+    },
+    {
+      "source": "Wall Street Journal",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Jeff Bezos",
+      "target_type": "person"
+    }
+  ]
+}

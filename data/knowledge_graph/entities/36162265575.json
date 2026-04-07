@@ -1,0 +1,356 @@
+{
+  "episode_id": "36162265575",
+  "title": "A MENTE POR TRÁS DA DATASUL: INSIGHTS DE MIGUEL ABUHAB | EXTREMOS",
+  "date_published": 1744804800,
+  "duration": 5251,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Miguel Abuhab",
+      "role": "guest",
+      "company": "DataSul, Nelgrid",
+      "title": "Founder"
+    },
+    {
+      "name": "Egon",
+      "role": "mentioned",
+      "company": "WEG",
+      "title": ""
+    },
+    {
+      "name": "Eliarro Goldratt",
+      "role": "mentioned",
+      "company": "Goldratt Consulting",
+      "title": "Founder"
+    },
+    {
+      "name": "Bernard Api",
+      "role": "mentioned",
+      "company": "Cecife",
+      "title": "Member"
+    },
+    {
+      "name": "Nelson Isaías Coelho",
+      "role": "mentioned",
+      "company": "Cecife",
+      "title": "Member"
+    },
+    {
+      "name": "Levi",
+      "role": "mentioned",
+      "company": "Ministério da Fazenda",
+      "title": "Minister"
+    },
+    {
+      "name": "Raul",
+      "role": "mentioned",
+      "company": "Deputado",
+      "title": "Legislator"
+    },
+    {
+      "name": "Harari",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Yuval Noah Harari",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Datasul",
+      "industry": "Software",
+      "context": "Fundada por Miguel Abuhab, especializada em sistemas de produção e gestão empresarial."
+    },
+    {
+      "name": "Nelgrid",
+      "industry": "Software",
+      "context": "Fundada por Miguel Abuhab, atua no setor de tecnologia e desenvolvimento de software."
+    },
+    {
+      "name": "Consul",
+      "industry": "Eletrodomésticos",
+      "context": "Empresa onde Miguel Abuhab trabalhou e implementou sistemas de produção."
+    },
+    {
+      "name": "Weg",
+      "industry": "Indústria",
+      "context": "Cliente inicial da DataSul, onde Miguel Abuhab implementou sistemas de gestão."
+    },
+    {
+      "name": "Whirlpool",
+      "industry": "Eletrodomésticos",
+      "context": "Adquiriu a Consul, onde Miguel Abuhab trabalhou anteriormente."
+    },
+    {
+      "name": "Totos",
+      "industry": "Technology",
+      "context": "Acquired DataSul in 2008"
+    },
+    {
+      "name": "Goldratt Consulting",
+      "industry": "Consulting",
+      "context": "Founded by Eliarro Goldratt to promote TOC principles"
+    },
+    {
+      "name": "Cecife",
+      "industry": "Economic Policy",
+      "context": "Involved in analyzing and supporting the Split payment system"
+    },
+    {
+      "name": "Neogrid",
+      "industry": "Technology",
+      "context": "Discussed as a company founded by Miguel Abuhab focusing on integrating ERP systems and providing market insights through Big Data."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "IPO",
+      "category": "Financeiro"
+    },
+    {
+      "name": "MRP (Material Requirements Planning)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Franquias de desenvolvimento",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Transformação de despesa fixa em variável",
+      "category": "Estratégia de Gestão"
+    },
+    {
+      "name": "Theory of Constraints (TOC)",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Split Payment System",
+      "category": "Taxation Innovation"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "Transformação Digital",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "ERP (Enterprise Resource Planning)",
+      "category": "Business Technology"
+    },
+    {
+      "name": "Big Data",
+      "category": "Technology"
+    },
+    {
+      "name": "Split Tributário",
+      "category": "Government Policy"
+    },
+    {
+      "name": "Reforma Tributária",
+      "category": "Government Policy"
+    },
+    {
+      "name": "If, Then, Because, Unless",
+      "category": "Problem Solving Framework"
+    },
+    {
+      "name": "Imposto sobre Valor Agregado (IVA)",
+      "category": "Tributação"
+    },
+    {
+      "name": "Ótimo Local e Ótimo Global",
+      "category": "Teoria Econômica"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Meta",
+      "author": "Eliarro Goldratt"
+    },
+    {
+      "title": "Necessário, Mas Não Suficiente",
+      "author": "Eliarro Goldratt"
+    },
+    {
+      "title": "Sapiens: Uma Breve História da Humanidade",
+      "author": "Yuval Noah Harari"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1 bilhão",
+      "context": "Notas fiscais processadas por sistemas desenvolvidos por Miguel Abuhab."
+    },
+    {
+      "value": "400 pessoas",
+      "context": "Funcionários transformados em empreendedores no modelo de franquias da DataSul."
+    },
+    {
+      "value": "400",
+      "context": "Number of employees transformed into entrepreneurs at DataSul"
+    },
+    {
+      "value": "2006",
+      "context": "Year of DataSul's IPO"
+    },
+    {
+      "value": "2008",
+      "context": "Year DataSul was acquired by Totos"
+    },
+    {
+      "value": "2006",
+      "context": "Year when DataSul's IPO provided capital for NeoGrid's development."
+    },
+    {
+      "value": "1999",
+      "context": "Year when the idea for NeoGrid was conceived."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nelgrid",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Split Tributário",
+      "target_type": "concept"
+    },
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Artificial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Neogrid",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Theory Of Constraints (Toc)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Consul",
+      "target_type": "company"
+    },
+    {
+      "source": "Eliarro Goldratt",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "A Meta",
+      "target_type": "company"
+    },
+    {
+      "source": "Eliarro Goldratt",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Goldratt Consulting",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "implemented_systems_for",
+      "target": "Weg",
+      "target_type": "company"
+    },
+    {
+      "source": "Eliarro Goldratt",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Necessário, Mas Não Suficiente",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Transformação Digital",
+      "target_type": "concept"
+    },
+    {
+      "source": "Consul",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Whirlpool",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Datasul",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Split Payment System",
+      "target_type": "concept"
+    },
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Neogrid",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel Abuhab",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Reforma Tributária",
+      "target_type": "concept"
+    },
+    {
+      "source": "Yuval Noah Harari",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Sapiens: Uma Breve História Da Humanidade",
+      "target_type": "company"
+    },
+    {
+      "source": "Datasul",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Totos",
+      "target_type": "company"
+    }
+  ]
+}

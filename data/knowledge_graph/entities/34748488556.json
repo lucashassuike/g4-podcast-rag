@@ -1,0 +1,468 @@
+{
+  "episode_id": "34748488556",
+  "title": "Como Ser uma Autoridade nas Redes Sociais? - Com Rafael Kiso, CMO da MLabs | Extremos",
+  "date_published": 1693299600,
+  "duration": 5180,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio, mentor e cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Rafael Kiso",
+      "role": "guest",
+      "company": "M-Labs",
+      "title": "CMO"
+    },
+    {
+      "name": "Joe",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Thay Dantas",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Virginia Fonseca",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influencer"
+    },
+    {
+      "name": "Paulo Leandro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "role": "mentioned",
+      "company": "Meta Platforms, Inc.",
+      "title": "CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e treinamento",
+      "context": "Plataforma de desenvolvimento profissional e empresarial"
+    },
+    {
+      "name": "M-Labs",
+      "industry": "Tecnologia e marketing digital",
+      "context": "Plataforma de gestão de redes sociais"
+    },
+    {
+      "name": "Mlabs",
+      "industry": "Social Media Management",
+      "context": "Discussed as a company focused on data-driven insights and AI for social media management."
+    },
+    {
+      "name": "Openai",
+      "industry": "Artificial Intelligence",
+      "context": "Mentioned as a provider of AI APIs utilized by MLabs."
+    },
+    {
+      "name": "Magalu",
+      "industry": "Retail",
+      "context": "Mentioned in the context of live shopping events."
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Mentioned in the context of live one-on-one shopping experiences."
+    },
+    {
+      "name": "Alibaba",
+      "industry": "E-commerce",
+      "context": "Operates Taobao Live for live shopping"
+    },
+    {
+      "name": "Tiktok",
+      "industry": "Social Media",
+      "context": "Testing live shopping in Brazil"
+    },
+    {
+      "name": "Kuai",
+      "industry": "Social Media",
+      "context": "Testing live shopping in Brazil"
+    },
+    {
+      "name": "Instagram",
+      "industry": "Social Media",
+      "context": "Platform for live shopping and Reels"
+    },
+    {
+      "name": "Meta Platforms, Inc.",
+      "industry": "Technology",
+      "context": "Parent company of Instagram and Threads"
+    },
+    {
+      "name": "Meta",
+      "industry": "Technology",
+      "context": "Empresa responsável pelo lançamento do Threads e do Instagram."
+    },
+    {
+      "name": "Twitter",
+      "industry": "Social Media",
+      "context": "Comparado ao Threads em termos de uso e público."
+    },
+    {
+      "name": "Threads",
+      "industry": "Social Media",
+      "context": "Produto da Meta discutido em relação ao seu lançamento e declínio."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Social Selling",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Big Data",
+      "category": "Tecnologia e análise de dados"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Gestão de redes sociais",
+      "category": "Marketing digital"
+    },
+    {
+      "name": "Engajamento",
+      "category": "Marketing"
+    },
+    {
+      "name": "Criação de Conteúdo",
+      "category": "Marketing"
+    },
+    {
+      "name": "Marketing de Influência",
+      "category": "Marketing"
+    },
+    {
+      "name": "Live Shopping",
+      "category": "E-commerce"
+    },
+    {
+      "name": "Experiência do Cliente",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Reels",
+      "category": "Social Media Content Format"
+    },
+    {
+      "name": "Threads",
+      "category": "Social Media Platform"
+    },
+    {
+      "name": "MVP (Minimum Viable Product)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Teoria dos Grafos",
+      "category": "Mathematics/Technology"
+    },
+    {
+      "name": "Engajamento em Redes Sociais",
+      "category": "Social Media Strategy"
+    },
+    {
+      "name": "Recomendação de Conteúdo",
+      "category": "Social Media Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Unbound Marketing, Como Construir uma Estratégia Exponencial Usando Marketing Ambiente Digital",
+      "author": "Rafael Kiso"
+    },
+    {
+      "title": "Marketing na Era Digital",
+      "author": "Rafael Kiso"
+    },
+    {
+      "title": "Trends, Marketing na Era Digital, o Futuro do Marketing",
+      "author": "Rafael Kiso"
+    },
+    {
+      "title": "Livro novo",
+      "author": "Tallis Gomes"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "230,000",
+      "context": "Marcas pagantes usando M-Labs em 2021"
+    },
+    {
+      "value": "2,000",
+      "context": "Empresas utilizando G4 Skills"
+    },
+    {
+      "value": "15,000",
+      "context": "Colaboradores acessando G4 Skills"
+    },
+    {
+      "value": "80%",
+      "context": "Percentage of people rejecting stock images in social media posts."
+    },
+    {
+      "value": "45%",
+      "context": "Percentage of people who would unfollow a company due to excessive self-promotion."
+    },
+    {
+      "value": "350 lives",
+      "context": "Number of live events conducted by Alfredo Soares during the pandemic."
+    },
+    {
+      "value": "60 milhões",
+      "context": "Revenue generated by Virginia Fonseca through live shopping in a year"
+    },
+    {
+      "value": "400 mil transmissões ao vivo",
+      "context": "Live broadcasts by farmers and fishermen in China during the pandemic"
+    },
+    {
+      "value": "30 milhões",
+      "context": "Kuai users in Brazil"
+    },
+    {
+      "value": "90 milhões",
+      "context": "TikTok users in Brazil"
+    },
+    {
+      "value": "130 milhões",
+      "context": "Instagram users in Brazil"
+    },
+    {
+      "value": "100 milhões",
+      "context": "Initial users of Threads"
+    },
+    {
+      "value": "14 milhões",
+      "context": "Current active users of Threads"
+    },
+    {
+      "value": "100 milhões",
+      "context": "Número inicial de usuários do Threads."
+    },
+    {
+      "value": "14 milhões",
+      "context": "Número atual de usuários do Threads."
+    },
+    {
+      "value": "40%",
+      "context": "Porcentagem de posts recomendados no feed do Instagram atualmente."
+    },
+    {
+      "value": "20%",
+      "context": "Porcentagem de posts recomendados no feed do Instagram no ano passado."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Meta Platforms, Inc.",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Threads",
+      "target_type": "company"
+    },
+    {
+      "source": "Instagram",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Live Shopping",
+      "target_type": "concept"
+    },
+    {
+      "source": "M-Labs",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão De Redes Sociais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mlabs",
+      "source_type": "company",
+      "relation": "utilizes",
+      "target": "Openai",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Thay Dantas",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Threads",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Instagram",
+      "target_type": "company"
+    },
+    {
+      "source": "Kuai",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Live Shopping",
+      "target_type": "concept"
+    },
+    {
+      "source": "Apple",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Live Shopping",
+      "target_type": "concept"
+    },
+    {
+      "source": "Threads",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Twitter",
+      "target_type": "company"
+    },
+    {
+      "source": "Virginia Fonseca",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Live Shopping",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alibaba",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Live Shopping",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Kiso",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Trends, Marketing Na Era Digital, O Futuro Do Marketing",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Kiso",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "M-Labs",
+      "target_type": "company"
+    },
+    {
+      "source": "Instagram",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Tiktok",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiktok",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Live Shopping",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Educação E Treinamento",
+      "target_type": "company"
+    },
+    {
+      "source": "Magalu",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Live Shopping",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Kiso",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Marketing Na Era Digital",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Kiso",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mlabs",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Kiso",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Unbound Marketing, Como Construir Uma Estratégia Exponencial Usando Marketing Ambiente Digital",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Meta",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "episode_id": "49922003757",
+  "title": "INACIO E HENRIQUE: CONSTRUIR NEGÓCIOS GIGANTES",
+  "date_published": 1770728400,
+  "duration": 3616,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Inácio Dapper",
+      "role": "guest",
+      "company": "Move On",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Henrique Gartner",
+      "role": "guest",
+      "company": "Move On",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Inácio",
+      "role": "guest",
+      "company": "Movon",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Henrique",
+      "role": "guest",
+      "company": "Movon",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Amoripinho",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influenciador"
+    },
+    {
+      "name": "Gabriel Mineiro",
+      "role": "mentioned",
+      "company": "Movon",
+      "title": "Advisor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Plataforma de educação e consultoria para negócios"
+    },
+    {
+      "name": "Move On",
+      "industry": "Serviços de Registro de Marca",
+      "context": "Empresa especializada em registro de marcas e consultoria para empresários"
+    },
+    {
+      "name": "Meta",
+      "industry": "Tecnologia e Redes Sociais",
+      "context": "Mencionada em contexto de processo judicial"
+    },
+    {
+      "name": "Movon",
+      "industry": "Marketing de Influência",
+      "context": "Empresa fundada por Inácio e Henrique, destacada como case de sucesso em marketing de influência B2B."
+    },
+    {
+      "name": "Mimo",
+      "industry": "Moda",
+      "context": "Marca de camisetas conhecida por influenciadores."
+    },
+    {
+      "name": "Nomad",
+      "industry": "Finanças",
+      "context": "Conta digital amarela mencionada como exemplo de sucesso com influenciadores."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Registro de Marca",
+      "category": "Serviços Jurídicos e Empresariais"
+    },
+    {
+      "name": "Rede de Influência",
+      "category": "Estratégias de Marketing"
+    },
+    {
+      "name": "Gestão Estratégica",
+      "category": "Estratégias de Negócios"
+    },
+    {
+      "name": "Rebranding",
+      "category": "Estratégias de Marca"
+    },
+    {
+      "name": "Marketing de Influência",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "B2B",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Networking",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Geopolítica",
+      "category": "Conteúdo"
+    },
+    {
+      "name": "Lockdown",
+      "category": "Evento Global"
+    },
+    {
+      "name": "CTA (Call to Action)",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Storytelling",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Posicionamento de Marca",
+      "category": "Estratégia de Negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10,000 marcas registradas",
+      "context": "Número de marcas registradas pela Move On desde sua fundação em 2019"
+    },
+    {
+      "value": "1 milhão de CNPJs por ano",
+      "context": "Número de empresas abertas no Brasil anualmente"
+    },
+    {
+      "value": "6 anos",
+      "context": "Tempo de parceria mencionado no início do episódio."
+    },
+    {
+      "value": "Março de 2020",
+      "context": "Data do início do lockdown e impacto nos negócios."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gabriel Mineiro",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Movon",
+      "target_type": "company"
+    },
+    {
+      "source": "Move On",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Registro De Marca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Inácio Dapper",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Move On",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rebranding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Movon",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Marketing De Influência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Henrique Gartner",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Move On",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Mineiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Movon",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gestão Estratégica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Movon",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "B2B",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Move On",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rede De Influência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Henrique",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Movon",
+      "target_type": "company"
+    },
+    {
+      "source": "Inácio",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Movon",
+      "target_type": "company"
+    }
+  ]
+}

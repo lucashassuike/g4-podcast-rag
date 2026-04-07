@@ -1,0 +1,733 @@
+{
+  "episode_id": "34748488351",
+  "title": "COMO A SMART FIT CONSEGUIU DOMINAR O MERCADO FITNESS NO BRASIL | COM EDGARD CORONA | VOX LUMINIS",
+  "date_published": 1736150400,
+  "duration": 6012,
+  "chunks_processed": 9,
+  "people": [
+    {
+      "name": "Edgard Corona",
+      "role": "guest",
+      "company": "Smart Fit",
+      "title": "Founder"
+    },
+    {
+      "name": "Mate Montenegro",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gustavo Franco",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Armentano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Horácio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "Founder"
+    },
+    {
+      "name": "Matheus",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rasmus",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Diogo",
+      "role": "mentioned",
+      "company": "Smart Fit",
+      "title": "Committee President"
+    },
+    {
+      "name": "Peter Singer",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Carnevale",
+      "role": "mentioned",
+      "company": "",
+      "title": "Director Pedagogical of Faculty"
+    },
+    {
+      "name": "Leandro",
+      "role": "mentioned",
+      "company": "Smart Fit",
+      "title": "Diretor de Operações"
+    },
+    {
+      "name": "Carvalho",
+      "role": "mentioned",
+      "company": "Smart Fit",
+      "title": "Diretor Técnico"
+    },
+    {
+      "name": "Gabi",
+      "role": "mentioned",
+      "company": "Sport World",
+      "title": "CEO"
+    },
+    {
+      "name": "Jorge",
+      "role": "mentioned",
+      "company": "Smart Fit",
+      "title": "Diretor de Operações"
+    },
+    {
+      "name": "Jorge Paulo Lemann",
+      "role": "mentioned",
+      "company": "3G Capital",
+      "title": "Fundador"
+    },
+    {
+      "name": "Carolina",
+      "role": "mentioned",
+      "company": "Smart Fit",
+      "title": "Operação no México"
+    },
+    {
+      "name": "Joe Rogan",
+      "role": "mentioned",
+      "company": "Joe Rogan Experience",
+      "title": "Host"
+    },
+    {
+      "name": "Marc Andreessen",
+      "role": "mentioned",
+      "company": "Andreessen Horowitz (A16Z)",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bob Kennedy",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Flávio Rocha",
+      "role": "mentioned",
+      "company": "Riachuelo",
+      "title": "Executivo"
+    },
+    {
+      "name": "Leo",
+      "role": "mentioned",
+      "company": "Smart Fit",
+      "title": "Diretor de Marketing"
+    },
+    {
+      "name": "Camila",
+      "role": "mentioned",
+      "company": "",
+      "title": "Radiologista Intervencionista"
+    },
+    {
+      "name": "Maria Clara",
+      "role": "mentioned",
+      "company": "",
+      "title": "Estudante"
+    },
+    {
+      "name": "Maria Paula",
+      "role": "mentioned",
+      "company": "",
+      "title": "Estudante"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Smart Fit",
+      "industry": "Fitness",
+      "context": "Largest gym chain in Latin America"
+    },
+    {
+      "name": "Biorritmo",
+      "industry": "Fitness",
+      "context": "Initial gym venture by Edgard Corona"
+    },
+    {
+      "name": "Planet Fitness",
+      "industry": "Fitness",
+      "context": "American gym chain with 2,600 locations"
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Referenced for its operational efficiency and low-margin business model"
+    },
+    {
+      "name": "Zona Sul",
+      "industry": "Retail",
+      "context": "Mentioned as a premium supermarket chain in Rio de Janeiro"
+    },
+    {
+      "name": "Sendas",
+      "industry": "Retail",
+      "context": "Mentioned as a competitor to Zona Sul"
+    },
+    {
+      "name": "Sport World",
+      "industry": "Fitness",
+      "context": "Empresa de academias no México com participação da Smart Fit"
+    },
+    {
+      "name": "3G Capital",
+      "industry": "Investimentos",
+      "context": "Empresa de investimentos mencionada como exemplo de formação de gestores"
+    },
+    {
+      "name": "Total Pass",
+      "industry": "Fitness",
+      "context": "Mentioned as a service aggregating gym memberships for companies."
+    },
+    {
+      "name": "Bodytech",
+      "industry": "Fitness",
+      "context": "Mentioned as a competitor in the fitness industry."
+    },
+    {
+      "name": "Velocity",
+      "industry": "Fitness",
+      "context": "Discussed as a fitness experience offering cycling classes."
+    },
+    {
+      "name": "Race Bootcamp",
+      "industry": "Fitness",
+      "context": "Mentioned as a fitness experience offering interval training classes."
+    },
+    {
+      "name": "Pátria Investimentos",
+      "industry": "Investimentos",
+      "context": "Investidor na Smart Fit"
+    },
+    {
+      "name": "Cpp Investments",
+      "industry": "Investimentos",
+      "context": "Investidor na Smart Fit"
+    },
+    {
+      "name": "Gic Private Limited",
+      "industry": "Investimentos",
+      "context": "Investidor na Smart Fit"
+    },
+    {
+      "name": "Dynamo",
+      "industry": "Investimentos",
+      "context": "Investidor na Smart Fit"
+    },
+    {
+      "name": "Patreon",
+      "industry": "Investimentos",
+      "context": "Investidor mencionado na Smart Fit."
+    },
+    {
+      "name": "Cpp",
+      "industry": "Investimentos",
+      "context": "Investidor mencionado na Smart Fit."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Empresa associada ao host Tallis Gomes."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "face to face",
+      "category": "Sales strategy"
+    },
+    {
+      "name": "market segmentation",
+      "category": "Business strategy"
+    },
+    {
+      "name": "customer objection handling",
+      "category": "Sales technique"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Metric"
+    },
+    {
+      "name": "Low-cost business model",
+      "category": "Strategy"
+    },
+    {
+      "name": "Operational efficiency",
+      "category": "Strategy"
+    },
+    {
+      "name": "low cost",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "defensibilidade estratégica",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "IGP-M",
+      "category": "Economic Indicator"
+    },
+    {
+      "name": "Roda do Aprendizado",
+      "category": "Learning Framework"
+    },
+    {
+      "name": "cultura organizacional",
+      "category": "Organizational Development"
+    },
+    {
+      "name": "Formação de líderes",
+      "category": "Gestão"
+    },
+    {
+      "name": "Expansão internacional",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Modelo de recorrência",
+      "category": "Finanças"
+    },
+    {
+      "name": "Treinamento corporativo",
+      "category": "Gestão"
+    },
+    {
+      "name": "Differential Competitive Advantage",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Market Aggregation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "GLP-1 (Ozempic)",
+      "category": "Pharmaceutical"
+    },
+    {
+      "name": "Obesity Reduction",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Fitness Industry Growth",
+      "category": "Market Trends"
+    },
+    {
+      "name": "MVP (Minimum Viable Product)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Community Building",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Infrastructure Efficiency",
+      "category": "Operational Strategy"
+    },
+    {
+      "name": "Revenue per Square Meter",
+      "category": "Business Metric"
+    },
+    {
+      "name": "IPO",
+      "category": "Finanças"
+    },
+    {
+      "name": "Pilot Fishing",
+      "category": "Finanças"
+    },
+    {
+      "name": "Endividamento",
+      "category": "Finanças"
+    },
+    {
+      "name": "Adaptação de mercado",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Gestão"
+    },
+    {
+      "name": "Sucessão Empresarial",
+      "category": "Gestão"
+    },
+    {
+      "name": "Investimento Primário",
+      "category": "Finanças"
+    },
+    {
+      "name": "Investimento Secundário",
+      "category": "Finanças"
+    },
+    {
+      "name": "Dividend Distribution",
+      "category": "Finance"
+    },
+    {
+      "name": "Entrepreneurial Mentorship",
+      "category": "Business Practice"
+    },
+    {
+      "name": "Capital Social",
+      "category": "Economic Concept"
+    },
+    {
+      "name": "Investment Funds",
+      "category": "Finance"
+    }
+  ],
+  "books": [
+    {
+      "title": "Metanoia",
+      "author": "Peter Singer"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "2,600 locations",
+      "context": "Planet Fitness in the United States"
+    },
+    {
+      "value": "21 million customers",
+      "context": "Planet Fitness customer base"
+    },
+    {
+      "value": "7% of the American population",
+      "context": "Market penetration of Planet Fitness"
+    },
+    {
+      "value": "2,600",
+      "context": "Number of Planet Fitness locations in the United States"
+    },
+    {
+      "value": "21 million",
+      "context": "Number of Planet Fitness customers"
+    },
+    {
+      "value": "1,600",
+      "context": "Number of Smart Fit locations"
+    },
+    {
+      "value": "5 million",
+      "context": "Number of Smart Fit customers in Latin America"
+    },
+    {
+      "value": "1.1 million",
+      "context": "Number of Smart Fit customers in Mexico"
+    },
+    {
+      "value": "2.2 million",
+      "context": "Number of Smart Fit customers in Brazil"
+    },
+    {
+      "value": "620,000",
+      "context": "Number of Smart Fit customers in Colombia"
+    },
+    {
+      "value": "16,000",
+      "context": "Number of employees at Smart Fit"
+    },
+    {
+      "value": "16 países",
+      "context": "Presença internacional da Smart Fit"
+    },
+    {
+      "value": "80% da população adulta com nível superior",
+      "context": "Dados sobre a Coreia do Sul em 2013"
+    },
+    {
+      "value": "21,000",
+      "context": "Number of gyms in the Total Pass network."
+    },
+    {
+      "value": "12%",
+      "context": "Percentage of the American population using GLP-1 medications like Ozempic."
+    },
+    {
+      "value": "3.4 users per square meter",
+      "context": "Efficiency metric for Smart Fit compared to competitors."
+    },
+    {
+      "value": "10-15 USD ticket price",
+      "context": "Affordable pricing model for Smart Fit in Latin America."
+    },
+    {
+      "value": "1.700 academias",
+      "context": "Número total de academias da Smart Fit até dezembro"
+    },
+    {
+      "value": "90 academias",
+      "context": "Número de academias abertas em dezembro"
+    },
+    {
+      "value": "220 reuniões",
+      "context": "Número de reuniões realizadas para o IPO"
+    },
+    {
+      "value": "26 bilhões de ordens",
+      "context": "Demanda gerada durante o IPO"
+    },
+    {
+      "value": "2,3 bilhões de reais",
+      "context": "Valor arrecadado no IPO"
+    },
+    {
+      "value": "15%",
+      "context": "Participação da família de Edgard Corona na Smart Fit."
+    },
+    {
+      "value": "2 bilhões de reais",
+      "context": "Investimento anual da Smart Fit."
+    },
+    {
+      "value": "300 lojas",
+      "context": "Número de lojas da Smart Fit mencionadas."
+    },
+    {
+      "value": "5 milhões de reais",
+      "context": "Custo médio por loja da Smart Fit."
+    },
+    {
+      "value": "5 mil empreendedores",
+      "context": "Number of entrepreneurs mentored by Edgard Corona in 5 years."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Edgard Corona",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Smart Fit",
+      "target_type": "company"
+    },
+    {
+      "source": "Cpp Investments",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Smart Fit",
+      "target_type": "company"
+    },
+    {
+      "source": "Camila",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Edgard Corona",
+      "target_type": "person"
+    },
+    {
+      "source": "Zona Sul",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Sendas",
+      "target_type": "company"
+    },
+    {
+      "source": "Smart Fit",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Total Pass",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marc Andreessen",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Andreessen Horowitz (A16Z)",
+      "target_type": "company"
+    },
+    {
+      "source": "Carolina",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Edgard Corona",
+      "target_type": "person"
+    },
+    {
+      "source": "Smart Fit",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Bodytech",
+      "target_type": "company"
+    },
+    {
+      "source": "Maria Clara",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Edgard Corona",
+      "target_type": "person"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Low-Cost Business Model",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gic Private Limited",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Smart Fit",
+      "target_type": "company"
+    },
+    {
+      "source": "Peter Singer",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Metanoia",
+      "target_type": "company"
+    },
+    {
+      "source": "Pátria Investimentos",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Smart Fit",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Paulo Lemann",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "3G Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Smart Fit",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Race Bootcamp",
+      "target_type": "company"
+    },
+    {
+      "source": "Diogo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Edgard Corona",
+      "target_type": "person"
+    },
+    {
+      "source": "Edgard Corona",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Smart Fit",
+      "target_type": "company"
+    },
+    {
+      "source": "Smart Fit",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Planet Fitness",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sport World",
+      "target_type": "company"
+    },
+    {
+      "source": "Smart Fit",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Operational Efficiency",
+      "target_type": "concept"
+    },
+    {
+      "source": "Smart Fit",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Biorritmo",
+      "target_type": "company"
+    },
+    {
+      "source": "Patreon",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Smart Fit",
+      "target_type": "company"
+    },
+    {
+      "source": "Dynamo",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Smart Fit",
+      "target_type": "company"
+    },
+    {
+      "source": "Edgard Corona",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Biorritmo",
+      "target_type": "company"
+    },
+    {
+      "source": "Joe Rogan",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Marc Andreessen",
+      "target_type": "person"
+    },
+    {
+      "source": "Cpp",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Smart Fit",
+      "target_type": "company"
+    },
+    {
+      "source": "Maria Paula",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Edgard Corona",
+      "target_type": "person"
+    },
+    {
+      "source": "Smart Fit",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Velocity",
+      "target_type": "company"
+    }
+  ]
+}

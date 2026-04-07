@@ -1,0 +1,491 @@
+{
+  "episode_id": "34748488561",
+  "title": "Como Eles Criaram um Mercado e Revolucionaram um Hábito - Fundadores da Easy Taxi | G4 Podcasts",
+  "date_published": 1692262800,
+  "duration": 5338,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Bernardo Bicalho",
+      "role": "guest",
+      "company": "Easy Taxi",
+      "title": "Former CTO"
+    },
+    {
+      "name": "Vinícius Grácia",
+      "role": "guest",
+      "company": "Easy Taxi",
+      "title": "Co-founder and CTO"
+    },
+    {
+      "name": "Guilherme Benchmol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Founder"
+    },
+    {
+      "name": "Rafael Guarilha",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Engineer"
+    },
+    {
+      "name": "Liuda",
+      "role": "mentioned",
+      "company": "Tec Samurai",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Vini",
+      "role": "mentioned",
+      "company": "Easy Taxi",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Corrêa",
+      "role": "mentioned",
+      "company": "Easy Taxi",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Oliver",
+      "role": "mentioned",
+      "company": "Rocket Internet",
+      "title": "Executive"
+    },
+    {
+      "name": "Simon",
+      "role": "mentioned",
+      "company": "Rocket Internet",
+      "title": "Executive"
+    },
+    {
+      "name": "Sampaio",
+      "role": "mentioned",
+      "company": "Rocket Internet",
+      "title": "Executive"
+    },
+    {
+      "name": "Tam",
+      "role": "mentioned",
+      "company": "AWS",
+      "title": "Representative"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Daniel Coen",
+      "role": "mentioned",
+      "company": "Easy Taxi",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Márcio",
+      "role": "mentioned",
+      "company": "Easy Taxi",
+      "title": "Desenvolvedor"
+    },
+    {
+      "name": "Duder Nani",
+      "role": "mentioned",
+      "company": "Xerife",
+      "title": "Visionário"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Developed G4 Skills platform for team training"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Founded by Tallis Gomes and Vinícius Grácia, revolutionized taxi booking"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Financial Services",
+      "context": "Guilherme Benchmol's company, grew significantly during the subprime crisis"
+    },
+    {
+      "name": "Ágora",
+      "industry": "Financial Services",
+      "context": "Former employer of Bernardo Bicalho, acquired by Bradesco"
+    },
+    {
+      "name": "Bozano",
+      "industry": "Financial Services",
+      "context": "Former employer of Bernardo Bicalho, acquired by Santander"
+    },
+    {
+      "name": "Santander",
+      "industry": "Financial Services",
+      "context": "Acquired Bozano"
+    },
+    {
+      "name": "Patagon",
+      "industry": "Financial Services",
+      "context": "Spin-off from Santander, became Lemon Bank"
+    },
+    {
+      "name": "Lemon Bank",
+      "industry": "Financial Services",
+      "context": "Microcredit bank where Bernardo Bicalho worked"
+    },
+    {
+      "name": "Tec Samurai",
+      "industry": "Technology",
+      "context": "Company co-founded by Tallis Gomes before Easy Taxi."
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Venture Capital",
+      "context": "Investor interested in Easy Taxi."
+    },
+    {
+      "name": "Aws",
+      "industry": "Cloud Computing",
+      "context": "Hosted a conference where Tallis Gomes was a speaker."
+    },
+    {
+      "name": "Waze",
+      "industry": "Technology",
+      "context": "Navigation app mentioned in relation to Easy Taxi."
+    },
+    {
+      "name": "Mckinsey & Company",
+      "industry": "Consultoria",
+      "context": "Consultoria mencionada em relação ao Sampaio."
+    },
+    {
+      "name": "Singoo",
+      "industry": "Beleza e Tecnologia",
+      "context": "Fundada por Tallis Gomes e vendida para Natura."
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosméticos",
+      "context": "Compradora da Singoo."
+    },
+    {
+      "name": "Ramesa",
+      "industry": "Tecnologia e Logística",
+      "context": "Fundada por Tallis Gomes e vendida."
+    },
+    {
+      "name": "Fox Beat",
+      "industry": "Tecnologia e Criptomoedas",
+      "context": "Compradora de uma exchange de criptomoedas fundada por Tallis Gomes."
+    },
+    {
+      "name": "Xerife",
+      "industry": "Distribuição de Livros Digitais",
+      "context": "Primeira distribuidora de livros digitais mencionada no contexto de concorrência com a Universidade Estácio"
+    },
+    {
+      "name": "Universidade Estácio",
+      "industry": "Educação",
+      "context": "Instituição mencionada no contexto de expansão e uso de conteúdo digital"
+    },
+    {
+      "name": "Toda",
+      "industry": "Marketplace",
+      "context": "Aplicativo desenvolvido por Duder Nani"
+    },
+    {
+      "name": "Bray Banks",
+      "industry": "Serviços Financeiros",
+      "context": "Empresa que adquiriu a Remessa"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Platform"
+    },
+    {
+      "name": "Subprime Crisis",
+      "category": "Economic Event"
+    },
+    {
+      "name": "Home Broker",
+      "category": "Financial Technology"
+    },
+    {
+      "name": "Microcredit",
+      "category": "Financial Services"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Finance"
+    },
+    {
+      "name": "Startup Ecosystem",
+      "category": "Business"
+    },
+    {
+      "name": "Mobile App Development",
+      "category": "Technology"
+    },
+    {
+      "name": "Negotiation Skills",
+      "category": "Business"
+    },
+    {
+      "name": "System Thinking",
+      "category": "Business"
+    },
+    {
+      "name": "AWS TAN",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Earn-out",
+      "category": "Finanças e Negócios"
+    },
+    {
+      "name": "Trigonometria aplicada",
+      "category": "Tecnologia e Desenvolvimento"
+    },
+    {
+      "name": "Decisões de curto e longo prazo",
+      "category": "Estratégia e Filosofia"
+    },
+    {
+      "name": "Pivot",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Exchange de Criptomoedas",
+      "category": "Tecnologia e Finanças"
+    }
+  ],
+  "books": [
+    {
+      "title": "Nada Easy",
+      "author": "Tallis Gomes"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "40,000 BRL",
+      "context": "Bonus received by Bernardo Bicalho at Ágora in 2006"
+    },
+    {
+      "value": "7.5%",
+      "context": "Ownership stake in Easy Taxi held by Tallis Gomes and Vini."
+    },
+    {
+      "value": "1.3 bilhões de reais",
+      "context": "Valor de venda de uma empresa mencionada."
+    },
+    {
+      "value": "1.3 bilhões de reais",
+      "context": "Valor da venda da Easy Taxi"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ramesa",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Duder Nani",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Toda",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Bicalho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Patagon",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tec Samurai",
+      "target_type": "company"
+    },
+    {
+      "source": "Waze",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Natura",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Singoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Bicalho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Fox Beat",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Exchange De Criptomoedas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aws",
+      "source_type": "company",
+      "relation": "hosted",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Singoo",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Remessa",
+      "source_type": "person",
+      "relation": "acquired_by",
+      "target": "Bray Banks",
+      "target_type": "company"
+    },
+    {
+      "source": "Vinícius Grácia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchmol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Bicalho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bozano",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Bicalho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Santander",
+      "target_type": "company"
+    },
+    {
+      "source": "Duder Nani",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xerife",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Exchange De Criptomoedas",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Fox Beat",
+      "target_type": "company"
+    },
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Rocket Internet",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Bicalho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ágora",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Bicalho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Lemon Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Bernardo Bicalho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

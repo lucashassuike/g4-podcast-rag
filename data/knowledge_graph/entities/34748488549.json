@@ -1,0 +1,358 @@
+{
+  "episode_id": "34748488549",
+  "title": "Seja um Bom Gestor em Todo Negócio - Com Marcelo Toledo | Papo de Gestão",
+  "date_published": 1694421000,
+  "duration": 5459,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Marcelo Toledo",
+      "role": "guest",
+      "company": "Clivo",
+      "title": "Fundador e co-CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Adriana",
+      "role": "mentioned",
+      "company": "Payleven",
+      "title": ""
+    },
+    {
+      "name": "Renan Fortes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Eric Santos",
+      "role": "mentioned",
+      "company": "RD Station",
+      "title": "CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Nubank",
+      "industry": "Financeiro",
+      "context": "Mencionado como exemplo de empresa bem estruturada"
+    },
+    {
+      "name": "Clivo",
+      "industry": "Saúde",
+      "context": "Fundada por Marcelo Toledo"
+    },
+    {
+      "name": "Payleven",
+      "industry": "Pagamentos",
+      "context": "Fundada por Marcelo Toledo"
+    },
+    {
+      "name": "Oi",
+      "industry": "Telecomunicações",
+      "context": "Marcelo Toledo trabalhou em um projeto de inovação"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de treinamento mencionada no episódio"
+    },
+    {
+      "name": "Vex",
+      "industry": "Tecnologia",
+      "context": "Empresa onde Marcelo Toledo trabalhou anteriormente."
+    },
+    {
+      "name": "Rd Station",
+      "industry": "Tecnologia de marketing",
+      "context": "Organizadora do RD Summit, onde Marcelo Toledo palestrou."
+    },
+    {
+      "name": "Alice",
+      "industry": "Health Technology",
+      "context": "Mentioned as part of new generation health companies."
+    },
+    {
+      "name": "Sammy",
+      "industry": "Health Technology",
+      "context": "Mentioned as part of new generation health companies."
+    },
+    {
+      "name": "Leb Saúde",
+      "industry": "Health Technology",
+      "context": "Mentioned as part of new generation health companies."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão de pessoas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Treinamento de equipes",
+      "category": "Desenvolvimento organizacional"
+    },
+    {
+      "name": "Subadquirente",
+      "category": "Termo de pagamentos"
+    },
+    {
+      "name": "Market fit",
+      "category": "Estratégia de produto"
+    },
+    {
+      "name": "SVA (Serviços de Valor Agregado)",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Organização funcional",
+      "category": "Estrutura organizacional"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Métrica financeira"
+    },
+    {
+      "name": "Judicialization in Health",
+      "category": "Legal/Health"
+    },
+    {
+      "name": "Health Inflation",
+      "category": "Economic/Health"
+    },
+    {
+      "name": "Chronic Patient Care",
+      "category": "Health Management"
+    },
+    {
+      "name": "Influence Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Content Creation",
+      "category": "Marketing"
+    },
+    {
+      "name": "branding",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "marketing",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "posicionamento",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "arquétipo",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "infoprodutores",
+      "category": "Indústria de educação digital"
+    },
+    {
+      "name": "internet",
+      "category": "Tecnologia e negócios"
+    },
+    {
+      "name": "day trade",
+      "category": "Investimentos"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dono",
+      "author": "Não mencionado"
+    },
+    {
+      "title": "O Dono",
+      "author": "Marcelo Toledo"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "Duas semanas",
+      "context": "Tempo para desenvolver um sistema de pagamento na Payleven"
+    },
+    {
+      "value": "1 bilhão de reais",
+      "context": "Faturamento anual da unidade de SVA na Oi."
+    },
+    {
+      "value": "50%",
+      "context": "Margem EBITDA da unidade de SVA na Oi."
+    },
+    {
+      "value": "500 milhões de reais",
+      "context": "Redução anualizada de custos tributários na Oi."
+    },
+    {
+      "value": "46%",
+      "context": "Taxa de impostos no setor de telecomunicações no Brasil."
+    },
+    {
+      "value": "450%",
+      "context": "Increase in health plan costs since the pandemic."
+    },
+    {
+      "value": "10,000",
+      "context": "Audience size at RD Summit where Marcelo Toledo gave a talk."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Eric Santos",
+      "target_type": "person"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Chronic Patient Care",
+      "target_type": "concept"
+    },
+    {
+      "source": "Adriana",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Payleven",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Renan Fortes",
+      "target_type": "person"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Judicialization In Health",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Santos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Health Inflation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Oi",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Payleven",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Content Creation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Rd Station",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rd Summit",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Influence Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vex",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Infoprodutores",
+      "target_type": "concept"
+    }
+  ]
+}

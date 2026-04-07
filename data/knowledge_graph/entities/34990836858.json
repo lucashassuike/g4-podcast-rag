@@ -1,0 +1,784 @@
+{
+  "episode_id": "34990836858",
+  "title": "FORMANDO A NOVA GERAÇÃO DE EMPREENDEDORES COM ALVARO SCHOCAIR | PAPO DE GESTÃO",
+  "date_published": 1742234400,
+  "duration": 4515,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Álvaro Schocair",
+      "role": "guest",
+      "company": "Link School of Business",
+      "title": "Chairman"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "role": "mentioned",
+      "company": "Meta Platforms",
+      "title": "CEO"
+    },
+    {
+      "name": "Fabrício Bloise",
+      "role": "mentioned",
+      "company": "Prosus",
+      "title": "Executive"
+    },
+    {
+      "name": "Ayrton Senna",
+      "role": "mentioned",
+      "company": "",
+      "title": "Formula 1 Driver"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alvaro Schocair",
+      "role": "guest",
+      "company": "Link School of Business",
+      "title": "Investidor e Educador"
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Luiz Alves Paz De Barros",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alexandre Biermann",
+      "role": "mentioned",
+      "company": "Arezzo",
+      "title": "Presidente"
+    },
+    {
+      "name": "Anderson Biermann",
+      "role": "mentioned",
+      "company": "Arezzo",
+      "title": "Presidente do Conselho"
+    },
+    {
+      "name": "Vitor Castelo Branco",
+      "role": "mentioned",
+      "company": "Z2",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Hilgo",
+      "role": "mentioned",
+      "company": "Z2",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Lourenço",
+      "role": "mentioned",
+      "company": "Z2",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Gabriel",
+      "role": "mentioned",
+      "company": "Manu City",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Enzo",
+      "role": "mentioned",
+      "company": "Norte",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "João Vitor",
+      "role": "mentioned",
+      "company": "Norte",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Karen Geppert",
+      "role": "mentioned",
+      "company": "EpiPi",
+      "title": "Fundadora"
+    },
+    {
+      "name": "Luísa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Educadora"
+    },
+    {
+      "name": "João Fonseca",
+      "role": "mentioned",
+      "company": "",
+      "title": "Tenista"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "Apple Inc.",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Vitor",
+      "role": "mentioned",
+      "company": "Link School of Business",
+      "title": "Student"
+    },
+    {
+      "name": "Nardão",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts the G4 Podcast and provides entrepreneurial education"
+    },
+    {
+      "name": "Tarpon",
+      "industry": "Investment",
+      "context": "Founded by Álvaro Schocair"
+    },
+    {
+      "name": "Quebec Impact Assets",
+      "industry": "Investment",
+      "context": "Led by Álvaro Schocair"
+    },
+    {
+      "name": "Link School Of Business",
+      "industry": "Education",
+      "context": "Founded by Álvaro Schocair, recognized as a leading business school in Brazil"
+    },
+    {
+      "name": "Prosus",
+      "industry": "Investment",
+      "context": "Led by Fabrício Bloise"
+    },
+    {
+      "name": "Ambev",
+      "industry": "Beverage",
+      "context": "Discussed in relation to global expansion strategies"
+    },
+    {
+      "name": "Sadia",
+      "industry": "Alimentos",
+      "context": "Empresa de alimentos mencionada como case de investimento"
+    },
+    {
+      "name": "Congas",
+      "industry": "Energia",
+      "context": "Distribuidora de gás mencionada como case de investimento"
+    },
+    {
+      "name": "Arezzo",
+      "industry": "Moda",
+      "context": "Empresa de calçados mencionada como case de investimento"
+    },
+    {
+      "name": "Z2",
+      "industry": "Nutrição esportiva",
+      "context": "Empresa de produtos para triatlon fundada por alunos da Link"
+    },
+    {
+      "name": "Manu City",
+      "industry": "Saúde e Bem-estar",
+      "context": "Empresa mencionada como case de sucesso da Link"
+    },
+    {
+      "name": "Norte",
+      "industry": "Educação",
+      "context": "Empresa mencionada como case de sucesso da Link"
+    },
+    {
+      "name": "Epipi",
+      "industry": "Consumer Goods",
+      "context": "Empresa fundada por Karen Geppert, especializada em produtos inovadores para higiene feminina"
+    },
+    {
+      "name": "Freeco",
+      "industry": "Consumer Goods",
+      "context": "Empresa que adquiriu participação na EpiPi"
+    },
+    {
+      "name": "Dafiti",
+      "industry": "E-commerce",
+      "context": "Empresa que adquiriu a Canoa"
+    },
+    {
+      "name": "Suno",
+      "industry": "Finance",
+      "context": "Empresa mencionada como investimento de Bruno Nardon"
+    },
+    {
+      "name": "Liber Capital",
+      "industry": "Finance",
+      "context": "Empresa mencionada como investimento de Bruno Nardon"
+    },
+    {
+      "name": "Apple Inc.",
+      "industry": "Technology",
+      "context": "Mentioned in relation to Steve Jobs and his business philosophy."
+    },
+    {
+      "name": "Mit",
+      "industry": "Education",
+      "context": "Mentioned as a location for Link's global expansion."
+    },
+    {
+      "name": "Unilever",
+      "industry": "Consumer Goods",
+      "context": "Mentioned as a target company for graduates of traditional business schools."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Finance",
+      "context": "Mentioned as a target company for graduates of traditional business schools."
+    },
+    {
+      "name": "Insper",
+      "industry": "Education",
+      "context": "Mentioned as a business school preparing students for corporate careers."
+    },
+    {
+      "name": "Gv",
+      "industry": "Education",
+      "context": "Mentioned as a business school preparing students for corporate careers."
+    },
+    {
+      "name": "Poli",
+      "industry": "Education",
+      "context": "Mentioned as an engineering school preparing students for corporate careers."
+    },
+    {
+      "name": "Ita",
+      "industry": "Education",
+      "context": "Mentioned as an engineering school preparing students for corporate careers."
+    },
+    {
+      "name": "Inteli",
+      "industry": "Education",
+      "context": "Mentioned as a school focused on programming and technology."
+    },
+    {
+      "name": "Nike",
+      "industry": "Sportswear",
+      "context": "Mentioned in relation to a running plan used by Alvaro Schocair."
+    },
+    {
+      "name": "Agv",
+      "industry": "Education",
+      "context": "Mentioned as a prestigious educational institution in Brazil."
+    },
+    {
+      "name": "Stanford University",
+      "industry": "Education",
+      "context": "Mentioned as a prestigious educational institution in the United States."
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Finance",
+      "context": "Mentioned as a major bank in Brazil."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Finance",
+      "context": "Mentioned as a notable financial institution."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "entrepreneurship",
+      "category": "Business"
+    },
+    {
+      "name": "education",
+      "category": "Business"
+    },
+    {
+      "name": "global expansion",
+      "category": "Business"
+    },
+    {
+      "name": "technology adoption",
+      "category": "Business"
+    },
+    {
+      "name": "social media engagement",
+      "category": "Marketing"
+    },
+    {
+      "name": "MVP (Minimum Viable Product)",
+      "category": "Estratégia de Produto"
+    },
+    {
+      "name": "Capex",
+      "category": "Finanças"
+    },
+    {
+      "name": "Middle Market",
+      "category": "Segmento de Mercado"
+    },
+    {
+      "name": "Institutionalização de Negócios",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Dividend Yield",
+      "category": "Finanças"
+    },
+    {
+      "name": "DRE (Demonstrativo de Resultados do Exercício)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Grit",
+      "category": "Características Pessoais"
+    },
+    {
+      "name": "Hardworking",
+      "category": "Características Pessoais"
+    },
+    {
+      "name": "Equity Value",
+      "category": "Finance"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Business"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "crowdfunding",
+      "category": "business"
+    },
+    {
+      "name": "B2B (Business-to-Business)",
+      "category": "business"
+    },
+    {
+      "name": "B2C (Business-to-Consumer)",
+      "category": "business"
+    },
+    {
+      "name": "perfil de cliente ideal",
+      "category": "business"
+    },
+    {
+      "name": "pesquisa de mercado",
+      "category": "business"
+    },
+    {
+      "name": "plano de negócios",
+      "category": "business"
+    },
+    {
+      "name": "Intrapreneurship",
+      "category": "Business"
+    },
+    {
+      "name": "Resilience",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Pandemic Impact",
+      "category": "Societal Trends"
+    },
+    {
+      "name": "Cash Management",
+      "category": "Finance"
+    },
+    {
+      "name": "Communication Skills",
+      "category": "Soft Skills"
+    },
+    {
+      "name": "Capital of Giro",
+      "category": "Finance"
+    },
+    {
+      "name": "Fluxo de Caixa",
+      "category": "Finance"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "2019",
+      "context": "Year Link School of Business was founded"
+    },
+    {
+      "value": "2024",
+      "context": "Year Álvaro Schocair transitioned from CEO to Chairman of Link School of Business"
+    },
+    {
+      "value": "683 milhões de reais",
+      "context": "Valor de compra da Sadia pela Tarpon em 2002"
+    },
+    {
+      "value": "45% de queda",
+      "context": "Desvalorização da Congas após o ataque ao World Trade Center"
+    },
+    {
+      "value": "10% a 18-19%",
+      "context": "Aumento do dividend yield da Congas após a desvalorização"
+    },
+    {
+      "value": "1 real por ação",
+      "context": "Valor da ação da Sadia na bolsa em 2002"
+    },
+    {
+      "value": "4 milhões de reais",
+      "context": "Equity Value criado por Karen Geppert através da EpiPi"
+    },
+    {
+      "value": "1,5 milhões de reais",
+      "context": "Valor da transação de venda de 35% da EpiPi para Freeco"
+    },
+    {
+      "value": "26-27 alunos",
+      "context": "Número de alunos da Link School of Business com empresas avaliadas acima de um milhão de reais"
+    },
+    {
+      "value": "45% empreendem, 55% trabalham",
+      "context": "Distribuição de carreiras dos alunos formados na Link School of Business"
+    },
+    {
+      "value": "437 reais",
+      "context": "Preço do jogo Just Dance mencionado na história."
+    },
+    {
+      "value": "35 a 50 reais",
+      "context": "Custo estimado para produzir um bolo."
+    },
+    {
+      "value": "100 reais",
+      "context": "Preço de venda sugerido para cada bolo."
+    },
+    {
+      "value": "40% a 45%",
+      "context": "Porcentagem estimada de jovens que irão empreender, segundo a discussão."
+    },
+    {
+      "value": "40%-45%",
+      "context": "Percentage of students expected to become entrepreneurs according to Link School of Business."
+    },
+    {
+      "value": "10-12 students",
+      "context": "Group size for Link's international programs."
+    },
+    {
+      "value": "18 weeks",
+      "context": "Duration of a marathon training plan used by Alvaro Schocair."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cash Management",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hardworking",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pandemic Impact",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Institutionalização De Negócios",
+      "target_type": "concept"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "led",
+      "target": "Quebec Impact Assets",
+      "target_type": "company"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Link School Of Business",
+      "target_type": "company"
+    },
+    {
+      "source": "João Vitor",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Norte",
+      "target_type": "company"
+    },
+    {
+      "source": "Link School Of Business",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Global Expansion",
+      "target_type": "concept"
+    },
+    {
+      "source": "Link School Of Business",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Entrepreneurship",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabrício Bloise",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Prosus",
+      "target_type": "company"
+    },
+    {
+      "source": "Alvaro Schocair",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Link School Of Business",
+      "target_type": "company"
+    },
+    {
+      "source": "Alvaro Schocair",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Link School Of Business",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Liber Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Link School Of Business",
+      "target_type": "company"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fluxo De Caixa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gabriel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Manu City",
+      "target_type": "company"
+    },
+    {
+      "source": "Alvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Middle Market",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Grit",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vitor Castelo Branco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Z2",
+      "target_type": "company"
+    },
+    {
+      "source": "Link School Of Business",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mit",
+      "target_type": "company"
+    },
+    {
+      "source": "Lourenço",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Z2",
+      "target_type": "company"
+    },
+    {
+      "source": "Tarpon",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Arezzo",
+      "target_type": "company"
+    },
+    {
+      "source": "Tarpon",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Sadia",
+      "target_type": "company"
+    },
+    {
+      "source": "Alvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mvp (Minimum Viable Product)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tarpon",
+      "target_type": "company"
+    },
+    {
+      "source": "Tarpon",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Congas",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Suno",
+      "target_type": "company"
+    },
+    {
+      "source": "Freeco",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Epipi",
+      "target_type": "company"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Communication Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Resilience",
+      "target_type": "concept"
+    },
+    {
+      "source": "Álvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Capital Of Giro",
+      "target_type": "concept"
+    },
+    {
+      "source": "Karen Geppert",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Epipi",
+      "target_type": "company"
+    },
+    {
+      "source": "Enzo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Norte",
+      "target_type": "company"
+    },
+    {
+      "source": "Hilgo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Z2",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "hosts",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Alvaro Schocair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tarpon",
+      "target_type": "company"
+    },
+    {
+      "source": "Steve Jobs",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Apple Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

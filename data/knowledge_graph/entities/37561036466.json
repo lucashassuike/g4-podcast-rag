@@ -1,0 +1,272 @@
+{
+  "episode_id": "37561036466",
+  "title": "O QUE VOCÊ PRECISA MUDAR NA LIDERANÇA DA SUA EMPRESA COM CADU ALTONA | PAPO DE GESTÃO",
+  "date_published": 1747645200,
+  "duration": 3940,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Cadu Altona",
+      "role": "guest",
+      "company": "Panorama Leadership",
+      "title": "Presidente Global"
+    },
+    {
+      "name": "Henrique Silberstein",
+      "role": "mentioned",
+      "company": "Michael Page",
+      "title": "Ex-Chefe de Cadu Altona"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-Fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-Fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Organizadora do podcast e programa de mentoria mencionado"
+    },
+    {
+      "name": "Panorama Leadership",
+      "industry": "Consultoria",
+      "context": "Empresa onde Cadu Altona é presidente global"
+    },
+    {
+      "name": "Esec",
+      "industry": "Consultoria",
+      "context": "Consultoria brasileira cofundada por Cadu Altona, especializada em recrutamento e desenvolvimento de lideranças"
+    },
+    {
+      "name": "Michael Page",
+      "industry": "Recrutamento e Seleção",
+      "context": "Empresa onde Cadu Altona e Henrique Silberstein trabalharam juntos"
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Empresas que estão ajustando políticas de home office"
+    },
+    {
+      "name": "Meta",
+      "industry": "Tecnologia",
+      "context": "Empresas que estão ajustando políticas de home office"
+    },
+    {
+      "name": "Amazon",
+      "industry": "Tecnologia",
+      "context": "Empresas que estão ajustando políticas de home office"
+    },
+    {
+      "name": "Canui",
+      "industry": "E-commerce",
+      "context": "Mencionada como uma das empresas onde o host trabalhou com desenvolvimento de tecnologia."
+    },
+    {
+      "name": "Lafite",
+      "industry": "Indústria não especificada",
+      "context": "Mencionada como uma das empresas onde o host trabalhou com desenvolvimento de tecnologia."
+    },
+    {
+      "name": "Rappi",
+      "industry": "Tecnologia/Delivery",
+      "context": "Mencionada como uma das empresas onde o host trabalhou com desenvolvimento de tecnologia."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Capital Humano",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Conselho Consultivo",
+      "category": "Governança"
+    },
+    {
+      "name": "Sucessão Empresarial",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Fit cultural",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Remuneração variável",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Inovação",
+      "category": "Estratégia"
+    },
+    {
+      "name": "One-on-one",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Home office",
+      "category": "Gestão de Trabalho"
+    },
+    {
+      "name": "Gestão customizada",
+      "category": "Estratégia de gestão"
+    },
+    {
+      "name": "Tripé de qualidade, custo e tempo",
+      "category": "Framework de decisão"
+    },
+    {
+      "name": "Ética no trabalho",
+      "category": "Princípios organizacionais"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "350",
+      "context": "Número de contratações realizadas pela ESEC em funções de C-level no ano anterior"
+    },
+    {
+      "value": "2,000",
+      "context": "Número de empresas atendidas pela ESEC em 15 anos"
+    },
+    {
+      "value": "70",
+      "context": "Número de conselhos consultivos montados pela ESEC nos últimos anos"
+    },
+    {
+      "value": "20%",
+      "context": "Percentual sugerido para vincular remuneração variável a competências-chave"
+    },
+    {
+      "value": "30%",
+      "context": "Percentual sugerido para vincular remuneração variável a competências-chave"
+    },
+    {
+      "value": "100%",
+      "context": "Percentual sugerido para vincular remuneração variável a competências-chave"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Esec",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Recrutamento E Desenvolvimento De Lideranças",
+      "target_type": "company"
+    },
+    {
+      "source": "Cultura Organizacional",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Inovação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Henrique Silberstein",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Michael Page",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Lafite",
+      "target_type": "company"
+    },
+    {
+      "source": "Cadu Altona",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Esec",
+      "target_type": "company"
+    },
+    {
+      "source": "Cadu Altona",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Henrique Silberstein",
+      "target_type": "person"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Cadu Altona",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Panorama Leadership",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Canui",
+      "target_type": "company"
+    },
+    {
+      "source": "Cultura Organizacional",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Remuneração Variável",
+      "target_type": "concept"
+    },
+    {
+      "source": "Cultura Organizacional",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Fit Cultural",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Capital Humano",
+      "target_type": "concept"
+    }
+  ]
+}

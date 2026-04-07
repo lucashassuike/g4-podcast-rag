@@ -1,0 +1,262 @@
+{
+  "episode_id": "34748488557",
+  "title": "Comprar uma franquia, ou criar um novo negócio? Com Paulo Morais, cofundador da Espaço Laser | Papo de Gestão",
+  "date_published": 1693211400,
+  "duration": 3592,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Paulo Morais",
+      "role": "guest",
+      "company": "Espaço Laser",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Caíto Maia",
+      "role": "mentioned",
+      "company": "Chili Beans",
+      "title": "Fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de treinamento e desenvolvimento de habilidades para equipes."
+    },
+    {
+      "name": "Espaço Laser",
+      "industry": "Beleza e Estética",
+      "context": "Rede de depilação a laser, maior do Brasil e do mundo."
+    },
+    {
+      "name": "Pgmp",
+      "industry": "Negócios e Franquias",
+      "context": "Empresa mencionada como novo empreendimento de Paulo Morais."
+    },
+    {
+      "name": "Chili Beans",
+      "industry": "Óculos e Acessórios",
+      "context": "Franquias de moda e acessórios"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Treinamento"
+    },
+    {
+      "name": "Modelo de Franquia",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Licenciamento",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "CAPEX",
+      "category": "Finanças"
+    },
+    {
+      "name": "Capital de Giro",
+      "category": "Finanças"
+    },
+    {
+      "name": "Governança",
+      "category": "Gestão"
+    },
+    {
+      "name": "Taxa de Franquia",
+      "category": "Finanças"
+    },
+    {
+      "name": "Royalties",
+      "category": "Finanças"
+    },
+    {
+      "name": "Franquia",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Break-even",
+      "category": "Finanças Empresariais"
+    },
+    {
+      "name": "DRE (Demonstrativo de Resultados do Exercício)",
+      "category": "Finanças Empresariais"
+    },
+    {
+      "name": "Master Franqueado",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "IPO (Oferta Pública Inicial)",
+      "category": "Mercado Financeiro"
+    },
+    {
+      "name": "Loja própria",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Taxa de propaganda",
+      "category": "Financeiro"
+    },
+    {
+      "name": "ROI",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Fundo de propaganda",
+      "category": "Financeiro"
+    },
+    {
+      "name": "P&L (Profit and Loss)",
+      "category": "Financeiro"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Fundador: A História do McDonald's",
+      "author": "Ray Kroc"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7 dias",
+      "context": "Período de acesso gratuito ao G4 Skills."
+    },
+    {
+      "value": "10 anos",
+      "context": "Tempo para a Espaço Laser adotar o modelo de franquias."
+    },
+    {
+      "value": "1 milhão de reais",
+      "context": "CAPEX médio para abrir uma loja da Espaço Laser."
+    },
+    {
+      "value": "40 lojas",
+      "context": "Número de lojas da Espaço Laser antes de adotar franquias."
+    },
+    {
+      "value": "800 lojas",
+      "context": "Número total de lojas da Espaço Laser no Brasil e internacionalmente"
+    },
+    {
+      "value": "70% franquias e 30% lojas próprias",
+      "context": "Distribuição de lojas da Espaço Laser antes do IPO"
+    },
+    {
+      "value": "80% lojas próprias e 20% franquias",
+      "context": "Distribuição atual de lojas da Espaço Laser"
+    },
+    {
+      "value": "100 lojas",
+      "context": "Número considerado ideal para uma franqueadora ter estrutura sólida."
+    },
+    {
+      "value": "100 a 150 mil reais",
+      "context": "Faturamento médio por loja em um modelo de franquia saudável."
+    },
+    {
+      "value": "8% a 10%",
+      "context": "Taxa de franquia para serviços."
+    },
+    {
+      "value": "4% a 5%",
+      "context": "Taxa de franquia para comércio de produtos."
+    },
+    {
+      "value": "18% a 25%",
+      "context": "Margem líquida ideal para franqueados."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Espaço Laser",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Licenciamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Espaço Laser",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Modelo De Franquia",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Educação Empresarial",
+      "target_type": "company"
+    },
+    {
+      "source": "Chili Beans",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Franquia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Espaço Laser",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Franquia",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Morais",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Espaço Laser",
+      "target_type": "company"
+    },
+    {
+      "source": "Caíto Maia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Chili Beans",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Morais",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Pgmp",
+      "target_type": "company"
+    }
+  ]
+}

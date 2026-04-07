@@ -1,0 +1,274 @@
+{
+  "episode_id": "34748488534",
+  "title": "A Cultura e o Seu Time Levam a Empresa Para o Próximo Nível? | G4 Podcasts",
+  "date_published": 1696496400,
+  "duration": 1495,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Presidente"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Davi Vélez",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Fundador"
+    },
+    {
+      "name": "Cristina Junqueira",
+      "role": "guest",
+      "company": "Nubank",
+      "title": "Co-fundadora"
+    },
+    {
+      "name": "Edward Wible",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Fundador"
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de treinamentos e trilhas de liderança mencionada no podcast."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Serviços Financeiros",
+      "context": "Discussão sobre a criação de cultura e valores na empresa."
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Serviços Financeiros",
+      "context": "Mencionada em relação a comentários de Benchimol."
+    },
+    {
+      "name": "Petrobras",
+      "industry": "Energia",
+      "context": "Mencionada como exemplo de separação entre acionista e executivo"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Valores Corporativos",
+      "category": "Gestão"
+    },
+    {
+      "name": "Processo Seletivo",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Soft Skills",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Assessment",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Meritocracia",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Estrutura Organizacional",
+      "category": "Gestão de Empresas"
+    },
+    {
+      "name": "Sonho Grande",
+      "category": "Motivação e Liderança"
+    },
+    {
+      "name": "Mente Aberta",
+      "category": "Motivação e Liderança"
+    },
+    {
+      "name": "Espírito Empreendedor",
+      "category": "Motivação e Liderança"
+    },
+    {
+      "name": "Series A",
+      "category": "Finanças"
+    },
+    {
+      "name": "Series B",
+      "category": "Finanças"
+    },
+    {
+      "name": "Series C",
+      "category": "Finanças"
+    },
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Captação de recursos",
+      "category": "Finanças"
+    },
+    {
+      "name": "Ego e vaidade no ambiente corporativo",
+      "category": "Psicologia Organizacional"
+    },
+    {
+      "name": "Desenvolvimento profissional",
+      "category": "Carreira"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10 anos",
+      "context": "Tempo de existência do Nubank mencionado."
+    },
+    {
+      "value": "8 mil funcionários",
+      "context": "Tamanho da equipe do Nubank."
+    },
+    {
+      "value": "1,5 milhão",
+      "context": "Número de pessoas em processos seletivos mencionados."
+    },
+    {
+      "value": "100 para 700 colaboradores",
+      "context": "Crescimento da equipe em um ano."
+    },
+    {
+      "value": "50% ao mês",
+      "context": "Taxa de crescimento mencionada como exemplo."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Cristina Junqueira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Processo Seletivo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Series A",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Series B",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Estrutura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Series B",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Series C",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Meritocracia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Davi Vélez",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Edward Wible",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    }
+  ]
+}

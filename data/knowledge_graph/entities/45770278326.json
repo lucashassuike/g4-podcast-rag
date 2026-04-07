@@ -1,0 +1,307 @@
+{
+  "episode_id": "45770278326",
+  "title": "O STARK BANK É A APPLE DOS BANCOS COM MARCELA REZENDE | PAPO DE GESTÃO",
+  "date_published": 1764078613,
+  "duration": 3796,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Marcela Rezende",
+      "role": "guest",
+      "company": "Stark Bank",
+      "title": "CMO"
+    },
+    {
+      "name": "Rafael Stark",
+      "role": "mentioned",
+      "company": "Stark Bank",
+      "title": "Founder and CEO"
+    },
+    {
+      "name": "Luciano Huck",
+      "role": "mentioned",
+      "company": "Familião",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Rubens Barrichello",
+      "role": "mentioned",
+      "company": "",
+      "title": "Piloto de Fórmula 1"
+    },
+    {
+      "name": "Marina Ruy Barbosa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atriz"
+    },
+    {
+      "name": "Galvão Bueno",
+      "role": "mentioned",
+      "company": "",
+      "title": "Narrador esportivo"
+    },
+    {
+      "name": "João Fonseca",
+      "role": "mentioned",
+      "company": "",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Arthur",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Rafael",
+      "role": "mentioned",
+      "company": "Stark Bank",
+      "title": "Founder"
+    },
+    {
+      "name": "Simon Sinek",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Stark Bank",
+      "industry": "Financial Technology",
+      "context": "Fintech focused on B2B financial solutions"
+    },
+    {
+      "name": "L'Oreal",
+      "industry": "Cosmetics",
+      "context": "Marcela Rezende's previous experience"
+    },
+    {
+      "name": "Bacardi",
+      "industry": "Alcoholic Beverages",
+      "context": "Marcela Rezende's previous experience"
+    },
+    {
+      "name": "Alpargatas",
+      "industry": "Footwear",
+      "context": "Marcela Rezende's previous experience"
+    },
+    {
+      "name": "Madeira Madeira",
+      "industry": "E-commerce",
+      "context": "Marcela Rezende's previous experience"
+    },
+    {
+      "name": "Familião",
+      "industry": "Charity",
+      "context": "Uses Stark Bank's PIX system for donations"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Tecnologia e delivery",
+      "context": "Empresa mencionada em relação a Arthur"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Discussed as an example of brand building and marketing strategies."
+    },
+    {
+      "name": "Nike",
+      "industry": "Apparel and Footwear",
+      "context": "Used as an example of strong brand identity and customer perception."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Corporate Card",
+      "category": "Financial Product"
+    },
+    {
+      "name": "PIX Automatic",
+      "category": "Financial Technology"
+    },
+    {
+      "name": "Vendor-specific Cards",
+      "category": "Financial Technology"
+    },
+    {
+      "name": "Stark Bank Experience",
+      "category": "Customer Engagement"
+    },
+    {
+      "name": "Branding e Performance",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Aquisição de clientes",
+      "category": "Marketing e vendas"
+    },
+    {
+      "name": "Brand Building",
+      "category": "Marketing"
+    },
+    {
+      "name": "Outbound Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Inbound Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Account-Based Marketing (ABM)",
+      "category": "Marketing"
+    },
+    {
+      "name": "Go-to-Market Strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Corporate Culture",
+      "category": "Organizational Development"
+    },
+    {
+      "name": "Mission, Vision, and Values",
+      "category": "Organizational Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "Start With Why",
+      "author": "Simon Sinek"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7 years",
+      "context": "Age of Stark Bank"
+    },
+    {
+      "value": "64%",
+      "context": "Market share in B2B PIX operations"
+    },
+    {
+      "value": "70 lugares",
+      "context": "Capacidade do camarote do Stark Bank no Allianz"
+    },
+    {
+      "value": "60 lugares",
+      "context": "Capacidade dos camarotes no Morumbi para shows"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcela Rezende",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stark Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Stark",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Stark Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Stark Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Stark Bank",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Stark Bank Experience",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano Huck",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Familião",
+      "target_type": "company"
+    },
+    {
+      "source": "Simon Sinek",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Start With Why",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcela Rezende",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Branding E Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Brand Building",
+      "target_type": "concept"
+    },
+    {
+      "source": "Stark Bank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Corporate Culture",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcela Rezende",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Aquisição De Clientes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Familião",
+      "source_type": "company",
+      "relation": "uses",
+      "target": "Stark Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcela Rezende",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Arthur",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    }
+  ]
+}

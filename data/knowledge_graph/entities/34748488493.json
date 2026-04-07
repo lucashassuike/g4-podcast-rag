@@ -1,0 +1,197 @@
+{
+  "episode_id": "34748488493",
+  "title": "COMO SAIR DO OPERACIONAL E LEVAR O NEGÓCIO PARA O PRÓXIMO NÍVEL | G4 PODCASTS",
+  "date_published": 1701937800,
+  "duration": 2371,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Thales Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Vitor Peçanha",
+      "role": "guest",
+      "company": "Rock Content",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Ricardo Bazaglia",
+      "role": "guest",
+      "company": "Michael Page",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "CEO"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Plataforma de educação e mentoria para negócios"
+    },
+    {
+      "name": "Rock Content",
+      "industry": "Marketing de Conteúdo",
+      "context": "Empresa de marketing de conteúdo"
+    },
+    {
+      "name": "Michael Page",
+      "industry": "Recursos Humanos",
+      "context": "Consultoria em recrutamento e seleção"
+    },
+    {
+      "name": "Petrobras",
+      "industry": "Energia",
+      "context": "Exemplo de separação entre acionista e executivo"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Capacitação de Liderança",
+      "category": "Desenvolvimento Organizacional"
+    },
+    {
+      "name": "High Output Management",
+      "category": "Livro de Gestão"
+    },
+    {
+      "name": "Estrutura Organizacional",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Promoção de Colaboradores",
+      "category": "Gestão de Talentos"
+    },
+    {
+      "name": "Vaidade corporativa",
+      "category": "Comportamento organizacional"
+    },
+    {
+      "name": "Captação de recursos",
+      "category": "Finanças empresariais"
+    },
+    {
+      "name": "Series A",
+      "category": "Finanças empresariais"
+    },
+    {
+      "name": "Series B",
+      "category": "Finanças empresariais"
+    },
+    {
+      "name": "Series C",
+      "category": "Finanças empresariais"
+    },
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Finanças empresariais"
+    }
+  ],
+  "books": [
+    {
+      "title": "High Output Management",
+      "author": "Andrew S. Grove"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "200 pessoas",
+      "context": "Número de funcionários conhecidos pessoalmente por Vitor Peçanha"
+    },
+    {
+      "value": "350 pessoas",
+      "context": "Tamanho da equipe do G4 Educação"
+    },
+    {
+      "value": "Centenas de milhões de reais",
+      "context": "Faturamento do G4 Educação"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitor Peçanha",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rock Content",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Bazaglia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Michael Page",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "High Output Management",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Gestão De Pessoas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

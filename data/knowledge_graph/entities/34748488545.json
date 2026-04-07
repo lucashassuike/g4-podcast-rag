@@ -1,0 +1,628 @@
+{
+  "episode_id": "34748488545",
+  "title": "Como Ele Transformou Sua Paixão em Um Negócio Lucrativo? - Com Netão da Bom Beef | Extremos",
+  "date_published": 1695112200,
+  "duration": 5958,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Netão",
+      "role": "guest",
+      "company": "Bom Beef",
+      "title": "Fundador"
+    },
+    {
+      "name": "Kátia Fonseca",
+      "role": "mentioned",
+      "company": "Melhor da Tarde",
+      "title": "TV Host"
+    },
+    {
+      "name": "Danilo Gentili",
+      "role": "mentioned",
+      "company": "The Noite",
+      "title": "TV Host"
+    },
+    {
+      "name": "Rodrigo Faro",
+      "role": "mentioned",
+      "company": "Hora do Faro",
+      "title": "TV Host"
+    },
+    {
+      "name": "Nurset",
+      "role": "mentioned",
+      "company": "Nusr-Et Steakhouse",
+      "title": "Founder"
+    },
+    {
+      "name": "Netão Bom Beef",
+      "role": "guest",
+      "company": "Bom Beef",
+      "title": "Empreendedor e churrasqueiro"
+    },
+    {
+      "name": "Felipe",
+      "role": "mentioned",
+      "company": "Porta dos Fundos",
+      "title": "Comediante"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Neymar",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pelé",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Charlie Brown Jr.",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rogério",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Abner",
+      "role": "mentioned",
+      "company": "Invista",
+      "title": "Founder"
+    },
+    {
+      "name": "Juli Antônio Oli",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dr. Sérgio Panfler",
+      "role": "mentioned",
+      "company": "Ital",
+      "title": "Scientist"
+    },
+    {
+      "name": "Rony",
+      "role": "mentioned",
+      "company": "Reserva",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Bom Beef",
+      "industry": "Alimentação",
+      "context": "Empresa fundada por Netão, especializada em carnes e franquias de açougues."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa dos hosts Alfredo Soares e Bruno Nardon, oferece programas como o G4 Skills."
+    },
+    {
+      "name": "Costa Rica",
+      "industry": "Food and Beverage",
+      "context": "Original name of Netão's butcher shop before rebranding to Bom Beef"
+    },
+    {
+      "name": "Vios",
+      "industry": "Food and Beverage",
+      "context": "Company where Netão worked before starting his own business"
+    },
+    {
+      "name": "Nusr-Et Steakhouse",
+      "industry": "Food and Beverage",
+      "context": "Global steakhouse chain founded by Nurset"
+    },
+    {
+      "name": "Redetv",
+      "industry": "Mídia",
+      "context": "Canal de televisão mencionado como local de gravação de programas e entrevistas."
+    },
+    {
+      "name": "Hotmart",
+      "industry": "Technology",
+      "context": "Platform used for launching online courses."
+    },
+    {
+      "name": "Red Bull",
+      "industry": "Food and Beverage",
+      "context": "Referenced as an inspiration for content segmentation."
+    },
+    {
+      "name": "Invista",
+      "industry": "Finance",
+      "context": "Mentioned in relation to Abner."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Mentioned in relation to events"
+    },
+    {
+      "name": "Ital",
+      "industry": "Research and Development",
+      "context": "Mentioned as a research institute"
+    },
+    {
+      "name": "Reserva",
+      "industry": "Fashion and Social Impact",
+      "context": "Mentioned in relation to its NGO initiative."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Omnichannel",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Flywheel",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Franquias",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "KDS (Kitchen Display System)",
+      "category": "Tecnologia de Operações"
+    },
+    {
+      "name": "Franchise Model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Social Media Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Prime Rib",
+      "category": "Food"
+    },
+    {
+      "name": "Denver Cut",
+      "category": "Food"
+    },
+    {
+      "name": "Wagyu Beef",
+      "category": "Food"
+    },
+    {
+      "name": "Vertical and Anatomical Cuts",
+      "category": "Food Processing"
+    },
+    {
+      "name": "Lançamento de lojas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Marketing de eventos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Viralização de conteúdo",
+      "category": "Marketing digital"
+    },
+    {
+      "name": "CRM",
+      "category": "Tecnologia de Negócios"
+    },
+    {
+      "name": "Clube de Vantagens",
+      "category": "Estratégia de Fidelização"
+    },
+    {
+      "name": "Marketing de Influência",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Soft Launch",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Infoproduto",
+      "category": "Business Model"
+    },
+    {
+      "name": "Content Segmentation",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Bem-estar animal",
+      "category": "Sustainability"
+    },
+    {
+      "name": "Protocolo de carnes",
+      "category": "Quality Control"
+    },
+    {
+      "name": "Seleção de carnes",
+      "category": "Quality Control"
+    },
+    {
+      "name": "Reação de Maillard",
+      "category": "Food Science"
+    },
+    {
+      "name": "Franchising",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Market Share",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Distribution Network",
+      "category": "Logistics"
+    },
+    {
+      "name": "Projetos sociais",
+      "category": "Iniciativas"
+    },
+    {
+      "name": "Primeiro emprego",
+      "category": "Iniciativas"
+    },
+    {
+      "name": "Produção de conteúdo",
+      "category": "Estratégias de marketing"
+    },
+    {
+      "name": "Faturamento",
+      "category": "Métricas de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "300 milhões de reais",
+      "context": "Faturamento estimado da Bom Beef em 2023."
+    },
+    {
+      "value": "500 dollars per person",
+      "context": "Average consumption target at Nusr-Et Steakhouse"
+    },
+    {
+      "value": "1,200 people per day",
+      "context": "Customer volume at Nusr-Et Steakhouse"
+    },
+    {
+      "value": "18 restaurants",
+      "context": "Number of Nusr-Et Steakhouse locations"
+    },
+    {
+      "value": "2014",
+      "context": "Year Netão purchased his butcher shop and rebranded to Bom Beef"
+    },
+    {
+      "value": "140 quilos",
+      "context": "Peso de Netão antes da cirurgia bariátrica."
+    },
+    {
+      "value": "70 quilos",
+      "context": "Peso de Netão após a cirurgia bariátrica."
+    },
+    {
+      "value": "174 mil compartilhamentos",
+      "context": "Número de compartilhamentos de um vídeo viral de Netão."
+    },
+    {
+      "value": "Mais de um milhão de churrascos por ano",
+      "context": "Volume de vendas da Bom Beef"
+    },
+    {
+      "value": "240,000",
+      "context": "Amount bid for Netão's churrasco at Neymar's auction."
+    },
+    {
+      "value": "22,000",
+      "context": "Metric mentioned in relation to Netão's business or content."
+    },
+    {
+      "value": "6 gols",
+      "context": "Performance in a sports final"
+    },
+    {
+      "value": "Maior volume de vendas: fraldinha red",
+      "context": "Sales data for cuts of meat"
+    },
+    {
+      "value": "135 units commercialized, 70 operational",
+      "context": "Franchises of Açougue Bom Beef."
+    },
+    {
+      "value": "22 mil refeições por ano",
+      "context": "Quantidade de refeições fornecidas por instituições de caridade apoiadas por Netão em Santos."
+    },
+    {
+      "value": "5 mil influencers de churrasco",
+      "context": "Número de influenciadores de churrasco mencionados por Netão."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Social Media Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bom Beef",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Bem-Estar Animal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Franchise Model",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Vios",
+      "target_type": "company"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bom Beef",
+      "target_type": "company"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Juli Antônio Oli",
+      "target_type": "person"
+    },
+    {
+      "source": "Rony",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Reserva",
+      "target_type": "company"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Protocolo De Carnes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bom Beef",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Franchising",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netão Bom Beef",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Viralização De Conteúdo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Prime Rib",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Neymar",
+      "target_type": "person"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Seleção De Carnes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Wagyu Beef",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Dr. Sérgio Panfler",
+      "target_type": "person"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nurset",
+      "target_type": "person"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Hotmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Porta Dos Fundos",
+      "target_type": "company"
+    },
+    {
+      "source": "Netão Bom Beef",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marketing De Eventos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Soft Launch",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Red Bull",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Sérgio Panfler",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ital",
+      "target_type": "company"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Denver Cut",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Infoproduto",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Content Segmentation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netão Bom Beef",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lançamento De Lojas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Charlie Brown Jr.",
+      "target_type": "person"
+    },
+    {
+      "source": "Netão Bom Beef",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Redetv",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Abner",
+      "target_type": "person"
+    },
+    {
+      "source": "Netão Bom Beef",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bom Beef",
+      "target_type": "company"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vertical And Anatomical Cuts",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rony",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Reserva",
+      "target_type": "company"
+    },
+    {
+      "source": "Netão",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Pelé",
+      "target_type": "person"
+    }
+  ]
+}

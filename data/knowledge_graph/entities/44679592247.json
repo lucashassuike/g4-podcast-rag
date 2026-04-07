@@ -1,0 +1,747 @@
+{
+  "episode_id": "44679592247",
+  "title": "LUIZ CEZAR FERNANDES - SÓCIO FUNDADOR BANCO GARANTIA E BANCO PACTUAL",
+  "date_published": 1762188381,
+  "duration": 6093,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Luiz César Fernandes",
+      "role": "guest",
+      "company": "Banco Garantia",
+      "title": "Sócio Fundador"
+    },
+    {
+      "name": "Jorge Paulo Lemann",
+      "role": "mentioned",
+      "company": "Banco Garantia",
+      "title": "Sócio"
+    },
+    {
+      "name": "Marcel Telles",
+      "role": "mentioned",
+      "company": "Banco Garantia",
+      "title": "Sócio"
+    },
+    {
+      "name": "Carlos Alberto Sicupira",
+      "role": "mentioned",
+      "company": "Banco Garantia",
+      "title": "Sócio"
+    },
+    {
+      "name": "Paulo Guedes",
+      "role": "mentioned",
+      "company": "Banco Pactual",
+      "title": "Sócio"
+    },
+    {
+      "name": "André Jakursky",
+      "role": "mentioned",
+      "company": "Banco Pactual",
+      "title": "Sócio"
+    },
+    {
+      "name": "Esteves",
+      "role": "mentioned",
+      "company": "Banco Pactual",
+      "title": "Presidente"
+    },
+    {
+      "name": "Luiz Cezar Fernandes",
+      "role": "guest",
+      "company": "Banco Garantia",
+      "title": "Sócio Fundador"
+    },
+    {
+      "name": "Marcel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Tradutor Simultâneo"
+    },
+    {
+      "name": "Marcelo Davi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "André Esteves",
+      "role": "mentioned",
+      "company": "Banco Pactual",
+      "title": "Sócio"
+    },
+    {
+      "name": "Carlos Alberto Cicopero",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Paulo",
+      "role": "mentioned",
+      "company": "Banco Pactual",
+      "title": "Sócio"
+    },
+    {
+      "name": "André",
+      "role": "mentioned",
+      "company": "Banco Pactual",
+      "title": "Sócio"
+    },
+    {
+      "name": "Beto Sicupira",
+      "role": "mentioned",
+      "company": "Banco Garantia",
+      "title": "Sócio"
+    },
+    {
+      "name": "Adolfo Gentil",
+      "role": "mentioned",
+      "company": "Banco Garantia",
+      "title": "Sócio"
+    },
+    {
+      "name": "Guilherme Arino",
+      "role": "mentioned",
+      "company": "Banco Garantia",
+      "title": "Sócio"
+    },
+    {
+      "name": "Sebastião Camargo",
+      "role": "mentioned",
+      "company": "Camargo Corrêa",
+      "title": "Fundador"
+    },
+    {
+      "name": "Amador Aguiar",
+      "role": "mentioned",
+      "company": "Bradesco",
+      "title": "Fundador"
+    },
+    {
+      "name": "Mário Schleck",
+      "role": "mentioned",
+      "company": "",
+      "title": "Investidor Ativista"
+    },
+    {
+      "name": "Lázaro De Mello Brandão",
+      "role": "mentioned",
+      "company": "Bradesco",
+      "title": "Executivo"
+    },
+    {
+      "name": "Lázaro De Belo Brandão",
+      "role": "mentioned",
+      "company": "Banco do Brasil",
+      "title": "Executivo"
+    },
+    {
+      "name": "Roberto Catiola",
+      "role": "mentioned",
+      "company": "",
+      "title": "Executivo"
+    },
+    {
+      "name": "Delfim Netto",
+      "role": "mentioned",
+      "company": "",
+      "title": "Economista"
+    },
+    {
+      "name": "Luiz Cesar Fernandes",
+      "role": "guest",
+      "company": "Banco Garantia",
+      "title": "Sócio Fundador"
+    },
+    {
+      "name": "Mendonça De Barros",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Zélia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Aze",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Banco Garantia",
+      "industry": "Financeiro",
+      "context": "Fundado por Luiz César Fernandes e outros sócios, incluindo Jorge Paulo Lemann, Marcel Telles e Carlos Alberto Sicupira."
+    },
+    {
+      "name": "Banco Pactual",
+      "industry": "Financeiro",
+      "context": "Fundado por Luiz César Fernandes, Paulo Guedes e André Jakursky."
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Financeiro",
+      "context": "Primeiro emprego de Luiz César Fernandes, onde começou como entregador de cartas."
+    },
+    {
+      "name": "Goldman Sachs",
+      "industry": "Finance",
+      "context": "Mencionado como inspiração para o conceito de partnership."
+    },
+    {
+      "name": "Jp Morgan",
+      "industry": "Finance",
+      "context": "Mencionado como local de estágio e inspiração para práticas de mercado."
+    },
+    {
+      "name": "Banco Central Do Brasil",
+      "industry": "Finance",
+      "context": "Colaborou no desenvolvimento do sistema Selic."
+    },
+    {
+      "name": "Ibm",
+      "industry": "Technology",
+      "context": "Forneceu computadores para o desenvolvimento do sistema Selic."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Relacionada a Carlos Alberto Sicupira"
+    },
+    {
+      "name": "Lojas Americanas",
+      "industry": "Varejo",
+      "context": "Adquirida pelo Banco Garantia como estratégia contra inflação."
+    },
+    {
+      "name": "Brahma",
+      "industry": "Bebidas",
+      "context": "Adquirida pelo Banco Garantia e posteriormente vendida."
+    },
+    {
+      "name": "Alpargatas",
+      "industry": "Calçados",
+      "context": "Adquirida pelo Banco Garantia e vendida para Camargo Corrêa."
+    },
+    {
+      "name": "Camargo Corrêa",
+      "industry": "Construção",
+      "context": "Comprou Alpargatas do Banco Garantia."
+    },
+    {
+      "name": "Sulamérica",
+      "industry": "Seguros",
+      "context": "Envolvida na compra e venda de ações da Brahma."
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Financeiro",
+      "context": "Mencionada como exemplo de empresa que capturou assimetrias de mercado"
+    },
+    {
+      "name": "Banco Industrial De Campina Grande",
+      "industry": "Financeiro",
+      "context": "Local onde Luiz Cezar Fernandes trabalhou como diretor financeiro"
+    },
+    {
+      "name": "Corretora Libra",
+      "industry": "Financeiro",
+      "context": "Corretora onde Luiz Cezar Fernandes trabalhou antes de fundar o Banco Garantia"
+    },
+    {
+      "name": "Fundição Tupi",
+      "industry": "Manufatura",
+      "context": "Reestruturada por Luiz Cesar Fernandes"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Organizador do evento G4 Valley"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Partnership",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Seleção de talentos",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Habilidades pessoais"
+    },
+    {
+      "name": "Performance",
+      "category": "Gestão"
+    },
+    {
+      "name": "Integridade",
+      "category": "Valores empresariais"
+    },
+    {
+      "name": "Selic",
+      "category": "Financial System"
+    },
+    {
+      "name": "CETIP",
+      "category": "Financial System"
+    },
+    {
+      "name": "Performance Evaluation",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Metodologia de Partnership",
+      "category": "Estratégia de Governança"
+    },
+    {
+      "name": "Avaliação de Desempenho",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Rotação de Talentos",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Avaliação Patrimonial",
+      "category": "Finanças"
+    },
+    {
+      "name": "Investidor Ativista",
+      "category": "Mercado Financeiro"
+    },
+    {
+      "name": "Assimetria de mercado",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Spread financeiro",
+      "category": "Finanças"
+    },
+    {
+      "name": "Arbitragem",
+      "category": "Finanças"
+    },
+    {
+      "name": "RTN (Recibo de Tesouro Nacional)",
+      "category": "Instrumento financeiro"
+    },
+    {
+      "name": "Plano Real",
+      "category": "Política econômica"
+    },
+    {
+      "name": "Plano Collor",
+      "category": "Política econômica"
+    },
+    {
+      "name": "Estratégia de Internacionalização",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Cartel",
+      "category": "Economia"
+    },
+    {
+      "name": "Overnight",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Humildade no Mercado Financeiro",
+      "category": "Liderança"
+    },
+    {
+      "name": "Dividir para somar",
+      "category": "Filosofia de Negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "Cesar",
+      "author": "Luiz Cesar Fernandes"
+    },
+    {
+      "title": "Biografia de Aze",
+      "author": "Aze"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "70% do mercado financeiro brasileiro é influenciado pela escola Pactual",
+      "context": "Impacto do Banco Pactual no mercado financeiro brasileiro."
+    },
+    {
+      "value": "30% do mercado financeiro brasileiro é influenciado pela escola Garantia",
+      "context": "Impacto do Banco Garantia no mercado financeiro brasileiro."
+    },
+    {
+      "value": "Mais de 10 mil empreendedores",
+      "context": "Participação esperada no evento G4 Valley."
+    },
+    {
+      "value": "3 meses",
+      "context": "Duração do estágio de Luiz Cezar Fernandes no JP Morgan e Goldman Sachs."
+    },
+    {
+      "value": "5-6 anos",
+      "context": "Tempo para desenvolver o sistema Selic."
+    },
+    {
+      "value": "1973-1983",
+      "context": "Período de desenvolvimento do sistema Selic."
+    },
+    {
+      "value": "10%",
+      "context": "Rotação semestral de funcionários no Banco Garantia e Banco Pactual"
+    },
+    {
+      "value": "27 milhões de dólares",
+      "context": "Valor pago pelo Banco Garantia na compra de Lojas Americanas."
+    },
+    {
+      "value": "180 milhões de dólares",
+      "context": "Oferta do Walmart para comprar Lojas Americanas."
+    },
+    {
+      "value": "200%",
+      "context": "Crescimento do patrimônio mencionado por Luiz Cezar Fernandes"
+    },
+    {
+      "value": "100 milhões de dólares",
+      "context": "Valor de uma transação mencionada por Luiz Cezar Fernandes"
+    },
+    {
+      "value": "30 milhões de dólares",
+      "context": "Lucro obtido em uma semana em uma transação mencionada"
+    },
+    {
+      "value": "700 milhões de dólares",
+      "context": "Volume de operações financeiras realizadas em um ano por Luiz Cezar Fernandes e Jorge Paulo Lemann"
+    },
+    {
+      "value": "17 bilhões de dólares",
+      "context": "Montante gerido pelo Banco Pactual durante o Plano Collor"
+    },
+    {
+      "value": "17 bilhões de dólares",
+      "context": "Recebíveis de exportador brasileiro"
+    },
+    {
+      "value": "200 milhões de dólares",
+      "context": "Perda em investimento na indústria de suco de laranja"
+    },
+    {
+      "value": "68 anos",
+      "context": "Experiência de Luiz Cesar Fernandes no setor bancário"
+    },
+    {
+      "value": "400 páginas",
+      "context": "Tamanho do livro mencionado"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Jorge Paulo Lemann",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Banco Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Garantia",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Sulamérica",
+      "target_type": "company"
+    },
+    {
+      "source": "André Jakursky",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Banco Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Garantia",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Brahma",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Garantia",
+      "source_type": "company",
+      "relation": "sold",
+      "target": "Alpargatas",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Paulo Lemann",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Banco Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Bradesco",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Partnership",
+      "target_type": "concept"
+    },
+    {
+      "source": "Brahma",
+      "source_type": "company",
+      "relation": "merged_with",
+      "target": "Antarctica",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Garantia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Corretora Libra",
+      "target_type": "company"
+    },
+    {
+      "source": "André Esteves",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Banco Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlos Alberto Sicupira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Banco Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz César Fernandes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Banco Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Cezar Fernandes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bradesco",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Banco Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Garantia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Banco Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Cesar Fernandes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Banco Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz César Fernandes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Banco Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Garantia",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Alpargatas",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Pactual",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Plano Collor",
+      "target_type": "concept"
+    },
+    {
+      "source": "Banco Garantia",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Lojas Americanas",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Cezar Fernandes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Banco Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Central Do Brasil",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Cetip",
+      "target_type": "concept"
+    },
+    {
+      "source": "Banco Central Do Brasil",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Selic",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luiz César Fernandes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Banco Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcel Telles",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Banco Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Brahma",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlos Alberto Sicupira",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Paulo Lemann",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Banco Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Cesar Fernandes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Banco Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Garantia",
+      "source_type": "company",
+      "relation": "sold",
+      "target": "Brahma",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Cesar Fernandes",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Fundição Tupi",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Pactual",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Plano Real",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luiz César Fernandes",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Bradesco",
+      "target_type": "company"
+    },
+    {
+      "source": "Sebastião Camargo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Camargo Corrêa",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz César Fernandes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Banco Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Assimetria De Mercado",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luiz Cezar Fernandes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Banco Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Ibm",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Selic",
+      "target_type": "concept"
+    },
+    {
+      "source": "Goldman Sachs",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Partnership",
+      "target_type": "concept"
+    }
+  ]
+}

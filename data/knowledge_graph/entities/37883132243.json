@@ -1,0 +1,635 @@
+{
+  "episode_id": "37883132243",
+  "title": "ALTA PERFORMANCE COMEÇA NO CORPO - DR. PAULO PUCCINELLI | A JORNADA",
+  "date_published": 1748444400,
+  "duration": 5888,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Paulo Puccinelli",
+      "role": "guest",
+      "company": "Meu DOC",
+      "title": "Médico e triatleta amador"
+    },
+    {
+      "name": "Nicolas",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta e autor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor e apresentador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor e apresentador"
+    },
+    {
+      "name": "Rose",
+      "role": "mentioned",
+      "company": "",
+      "title": "Triatleta"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Vitor",
+      "role": "mentioned",
+      "company": "AZ2",
+      "title": "Sócio"
+    },
+    {
+      "name": "Cissa",
+      "role": "mentioned",
+      "company": "AZ2",
+      "title": "Sócia"
+    },
+    {
+      "name": "Gustavo Maglioca",
+      "role": "mentioned",
+      "company": "Care",
+      "title": "Médico esportivo"
+    },
+    {
+      "name": "César Cielo",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Professor"
+    },
+    {
+      "name": "Gustavo Borges",
+      "role": "mentioned",
+      "company": "Gustavo Borges Academia",
+      "title": "Ex-nadador olímpico"
+    },
+    {
+      "name": "Hugo Calderano",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Atleta de tênis de mesa"
+    },
+    {
+      "name": "Dr. Paulo Puccinelli",
+      "role": "guest",
+      "company": "N/A",
+      "title": "N/A"
+    },
+    {
+      "name": "Reinaldo Colucci",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Triatleta"
+    },
+    {
+      "name": "Diego Ribas",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "N/A"
+    },
+    {
+      "name": "Moia",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "N/A"
+    },
+    {
+      "name": "Galvão",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Unaep",
+      "industry": "Educação",
+      "context": "Faculdade mencionada como local de treinamento de natação e estudos de medicina"
+    },
+    {
+      "name": "Usp",
+      "industry": "Education",
+      "context": "Universidade onde Paulo Puccinelli estudou medicina"
+    },
+    {
+      "name": "Meu Doc",
+      "industry": "Saúde",
+      "context": "Clínica fundada por Paulo Puccinelli focada em medicina esportiva e cuidados integrados."
+    },
+    {
+      "name": "Az2",
+      "industry": "Suplementos",
+      "context": "Empresa de suplementos onde Paulo Puccinelli é sócio."
+    },
+    {
+      "name": "Care Club",
+      "industry": "Saúde",
+      "context": "Clínica onde Paulo Puccinelli trabalhou antes de fundar Meu DOC."
+    },
+    {
+      "name": "Atlético Paranaense",
+      "industry": "Esportes",
+      "context": "Clube de futebol onde Paulo Puccinelli trabalhou como médico."
+    },
+    {
+      "name": "Care",
+      "industry": "Saúde",
+      "context": "Clínica de medicina esportiva"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação para empreendedores"
+    },
+    {
+      "name": "Palmeiras",
+      "industry": "Esportes",
+      "context": "Clube esportivo mencionado em relação à Care"
+    },
+    {
+      "name": "Gustavo Borges Academia",
+      "industry": "Esportes",
+      "context": "Academia fundada por Gustavo Borges"
+    },
+    {
+      "name": "Outlive",
+      "industry": "Nutrition",
+      "context": "Mentioned as a producer of micronutrient supplements."
+    },
+    {
+      "name": "E2",
+      "industry": "Sports Nutrition",
+      "context": "Develops carbohydrate gels and other supplements for endurance athletes."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta performance",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Equilíbrio entre vida pessoal e profissional",
+      "category": "Conceito de gestão"
+    },
+    {
+      "name": "Treinamento de alta intensidade",
+      "category": "Esporte e saúde"
+    },
+    {
+      "name": "Medicina esportiva",
+      "category": "Medical field"
+    },
+    {
+      "name": "Triatlon",
+      "category": "Sport"
+    },
+    {
+      "name": "Residência médica",
+      "category": "Medical education"
+    },
+    {
+      "name": "Oftalmologia",
+      "category": "Medical field"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Negócios"
+    },
+    {
+      "name": "Interdisciplinaridade",
+      "category": "Saúde"
+    },
+    {
+      "name": "Ebitda",
+      "category": "Finanças"
+    },
+    {
+      "name": "Triatlo",
+      "category": "Esportes"
+    },
+    {
+      "name": "Ironman",
+      "category": "Esportes"
+    },
+    {
+      "name": "Olimpíadas",
+      "category": "Eventos esportivos"
+    },
+    {
+      "name": "Alto rendimento",
+      "category": "Esportes"
+    },
+    {
+      "name": "Aclimatação",
+      "category": "Saúde"
+    },
+    {
+      "name": "Staff esportivo",
+      "category": "Gestão esportiva"
+    },
+    {
+      "name": "70.3 São Paulo",
+      "category": "Sports"
+    },
+    {
+      "name": "Endurance Training",
+      "category": "Fitness"
+    },
+    {
+      "name": "Sports Nutrition",
+      "category": "Health"
+    },
+    {
+      "name": "Macronutrients",
+      "category": "Nutrition"
+    },
+    {
+      "name": "Electrolytes",
+      "category": "Nutrition"
+    },
+    {
+      "name": "Workaholism in Athletes",
+      "category": "Lifestyle"
+    },
+    {
+      "name": "Tripod of Health",
+      "category": "Health"
+    },
+    {
+      "name": "Carboidrato",
+      "category": "Nutrição esportiva"
+    },
+    {
+      "name": "Proteína",
+      "category": "Nutrição esportiva"
+    },
+    {
+      "name": "Eletrólitos",
+      "category": "Nutrição esportiva"
+    },
+    {
+      "name": "Sódio",
+      "category": "Nutrição esportiva"
+    },
+    {
+      "name": "Potássio",
+      "category": "Nutrição esportiva"
+    },
+    {
+      "name": "Magnésio",
+      "category": "Nutrição esportiva"
+    },
+    {
+      "name": "Cálcio",
+      "category": "Nutrição esportiva"
+    },
+    {
+      "name": "Bomba de sódio e potássio",
+      "category": "Fisiologia"
+    },
+    {
+      "name": "Filtração renal",
+      "category": "Fisiologia"
+    },
+    {
+      "name": "Arritmia",
+      "category": "Saúde"
+    },
+    {
+      "name": "Maratona",
+      "category": "Esporte"
+    },
+    {
+      "name": "Doping",
+      "category": "Esporte"
+    },
+    {
+      "name": "Associação Brasileira de Natação",
+      "category": "Organização esportiva"
+    },
+    {
+      "name": "ABCD (Agência Brasileira de Controle de Dopagem)",
+      "category": "Organização esportiva"
+    },
+    {
+      "name": "WADA (World Anti-Doping Agency)",
+      "category": "Organização esportiva"
+    },
+    {
+      "name": "Testosterona",
+      "category": "Saúde e performance"
+    },
+    {
+      "name": "Chip da Beleza",
+      "category": "Saúde e estética"
+    },
+    {
+      "name": "Iron Man",
+      "category": "Esporte de resistência"
+    },
+    {
+      "name": "Saúde e bem-estar",
+      "category": "Conceito geral"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Negócios e gestão"
+    }
+  ],
+  "books": [
+    {
+      "title": "Outlive",
+      "author": "Nicolas"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "13 anos",
+      "context": "Idade em que Paulo Puccinelli decidiu seguir carreira como atleta profissional"
+    },
+    {
+      "value": "80 quilômetros",
+      "context": "Distância entre Bebedouro e Ribeirão Preto"
+    },
+    {
+      "value": "2011",
+      "context": "Ano de formação em medicina de Paulo Puccinelli"
+    },
+    {
+      "value": "2012",
+      "context": "Ano de início no triatlon por Paulo Puccinelli"
+    },
+    {
+      "value": "12 profissionais da saúde e 6 da operação",
+      "context": "Equipe atual da clínica Meu DOC."
+    },
+    {
+      "value": "3 anos",
+      "context": "Tempo de operação da clínica Meu DOC."
+    },
+    {
+      "value": "Três Olimpíadas consecutivas",
+      "context": "Participação de Paulo Puccinelli como médico da seleção brasileira de natação"
+    },
+    {
+      "value": "70.3 São Paulo",
+      "context": "Evento de triatlo mencionado"
+    },
+    {
+      "value": "500 a 1 litro de líquido no suor",
+      "context": "Perda média de líquido durante atividades físicas"
+    },
+    {
+      "value": "250 a 500 miligramas de sódio por hora",
+      "context": "Quantidade ideal de reposição de sódio durante atividades físicas"
+    },
+    {
+      "value": "8:58",
+      "context": "Tempo registrado por Paulo Puccinelli em uma competição de Iron Man"
+    },
+    {
+      "value": "11 a 13 horas",
+      "context": "Meta de tempo para completar o Iron Man"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gustavo Borges Academia",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Usp",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Care Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Iron Man",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "70.3 São Paulo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Unaep",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Alto Rendimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Az2",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Atlético Paranaense",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Meu Doc",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Care",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Saúde E Bem-Estar",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Meu Doc",
+      "target_type": "company"
+    },
+    {
+      "source": "Outlive",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Micronutrients",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Triatlon",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nicolas",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Outlive",
+      "target_type": "company"
+    },
+    {
+      "source": "Cissa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Az2",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ironman",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Reinaldo Colucci",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo Maglioca",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Care",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Medicina Esportiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "César Cielo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Gustavo Maglioca",
+      "target_type": "person"
+    },
+    {
+      "source": "Dr. Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Associação Brasileira De Natação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vitor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Az2",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Olimpíadas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Puccinelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Medicina Esportiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "E2",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sports Nutrition",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nicolas",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Outlive",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    }
+  ]
+}

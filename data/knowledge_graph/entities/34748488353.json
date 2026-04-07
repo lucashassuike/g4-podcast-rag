@@ -1,0 +1,186 @@
+{
+  "episode_id": "34748488353",
+  "title": "EXTREMOS: Especial de Ano Novo",
+  "date_published": 1735722000,
+  "duration": 3227,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Guto Galamba",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Guilherme Bechimol",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Anitta",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Maurício",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Giba Neles",
+      "role": "guest",
+      "company": "",
+      "title": "Campeão Olímpico"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Minimal Club",
+      "industry": "Vestuário",
+      "context": "Patrocinadora do podcast Extremos"
+    },
+    {
+      "name": "G4 Podcast",
+      "industry": "Mídia",
+      "context": "Plataforma do podcast Extremos"
+    },
+    {
+      "name": "Onlyfans",
+      "industry": "Plataforma de conteúdo",
+      "context": "Discussão sobre uso da plataforma para conteúdos além de pornografia, como comédia e podcasts."
+    },
+    {
+      "name": "Parimatch",
+      "industry": "Apostas esportivas",
+      "context": "Mencionada em relação a parcerias e apostas esportivas."
+    },
+    {
+      "name": "Dromedari",
+      "industry": "Marketing e comunicação",
+      "context": "Empresa envolvida em campanhas para o OnlyFans."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Parceria mencionada por Bruno Nardon"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "ROI",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "CTA",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Lives Reprisadas",
+      "category": "Estratégia de Conteúdo"
+    },
+    {
+      "name": "Engajamento em Redes Sociais",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Regulamentação de apostas",
+      "category": "Política e legislação"
+    },
+    {
+      "name": "Economia da atenção",
+      "category": "Marketing e mídia digital"
+    },
+    {
+      "name": "Conteúdo gerado por fãs",
+      "category": "Engajamento de comunidade"
+    },
+    {
+      "name": "Indústria de álcool no Brasil",
+      "category": "Mercado e Indústria"
+    },
+    {
+      "name": "Indústria de açúcar no Brasil",
+      "category": "Mercado e Indústria"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "279 lives",
+      "context": "Número de lives realizadas por Guto Galamba em um ano"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Guilherme Bechimol",
+      "target_type": "person"
+    },
+    {
+      "source": "Giba Neles",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Onlyfans",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Youtube",
+      "target_type": "company"
+    },
+    {
+      "source": "Onlyfans",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dromedari",
+      "target_type": "company"
+    },
+    {
+      "source": "Minimal Club",
+      "source_type": "company",
+      "relation": "sponsors",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    }
+  ]
+}

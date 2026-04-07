@@ -1,0 +1,126 @@
+{
+  "episode_id": "37817232654",
+  "title": "LIDERAR É MUITO MAIS DO QUE GERIR COM CLEONILDO SCARABELLO | PAPO DE GESTÃO",
+  "date_published": 1748250000,
+  "duration": 3610,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Cleonildo Scarabello",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Mentor de negócios e carreiras"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Mentoria",
+      "context": "Local de atuação de Cleonildo Scarabello como mentor."
+    },
+    {
+      "name": "Unilever",
+      "industry": "Bens de Consumo",
+      "context": "Empresa onde Cleonildo Scarabello atuou como diretor global de tecnologias digitais para vendas."
+    },
+    {
+      "name": "Procter & Gamble",
+      "industry": "Bens de Consumo",
+      "context": "Mencionada como exemplo de empresa bem-sucedida devido à competência de seus colaboradores."
+    },
+    {
+      "name": "Nestlé",
+      "industry": "Alimentos e Bebidas",
+      "context": "Mencionada como exemplo de empresa bem-sucedida devido à competência de seus colaboradores."
+    },
+    {
+      "name": "Coca-Cola",
+      "industry": "Bebidas",
+      "context": "Mencionada como exemplo de empresa bem-sucedida devido à competência de seus colaboradores."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Liderança",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Gestão"
+    },
+    {
+      "name": "Estratégia de Crescimento",
+      "category": "Gestão"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "RH Estratégico",
+      "category": "Gestão"
+    },
+    {
+      "name": "RH (Recursos Humanos)",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "OKR (Objectives and Key Results)",
+      "category": "Gestão de Metas"
+    },
+    {
+      "name": "Carreira em Y",
+      "category": "Gestão de Carreiras"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Gestão de Talentos",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "reflexão estratégica",
+      "category": "Estratégia"
+    }
+  ],
+  "books": [],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Cleonildo Scarabello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Cleonildo Scarabello",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Unilever",
+      "target_type": "company"
+    },
+    {
+      "source": "Cleonildo Scarabello",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

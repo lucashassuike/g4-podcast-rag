@@ -1,0 +1,216 @@
+{
+  "episode_id": "34748488466",
+  "title": "COMO SE DIFERENCIAR DA MÉDIA E ENCONTRAR O SEU LUGAR DE POTÊNCIA - Com Ricardo Basaglia | Papo de Gestão",
+  "date_published": 1708329600,
+  "duration": 3919,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Ricardo Basaglia",
+      "role": "guest",
+      "company": "Michael Page",
+      "title": "Executive"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Michael Page",
+      "industry": "Recruitment and Staffing",
+      "context": "Discussed as a leading recruitment firm in Latin America"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Plataforma de educação empresarial e anfitriã do podcast."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Processo Seletivo",
+      "category": "Recruitment"
+    },
+    {
+      "name": "Diagnóstico de Necessidades",
+      "category": "Recruitment"
+    },
+    {
+      "name": "Mitigação de Riscos",
+      "category": "Recruitment"
+    },
+    {
+      "name": "Networking",
+      "category": "Professional Development"
+    },
+    {
+      "name": "Match Cultural",
+      "category": "Recruitment"
+    },
+    {
+      "name": "Entrevista por Competências",
+      "category": "Recruitment"
+    },
+    {
+      "name": "Entrevista por Propósito e Valores",
+      "category": "Recruitment"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Lugar de Potência",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Feedback",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "People Skills",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Confiança no Relacionamento",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "autonomia",
+      "category": "conceito de liderança"
+    },
+    {
+      "name": "microgerenciamento",
+      "category": "conceito de gestão"
+    },
+    {
+      "name": "ciclos da história",
+      "category": "conceito de estudo"
+    },
+    {
+      "name": "relações humanas",
+      "category": "conceito de estudo"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "17 anos",
+      "context": "Tempo de Ricardo Basaglia na Michael Page"
+    },
+    {
+      "value": "4 a 12 vezes o salário do profissional",
+      "context": "Custo de uma contratação errada"
+    },
+    {
+      "value": "18 meses",
+      "context": "Período para avaliar retenção de contratados"
+    },
+    {
+      "value": "18 meses",
+      "context": "Período usado para avaliar a retenção de funcionários após contratação."
+    },
+    {
+      "value": "10 mil pessoas",
+      "context": "Número de pessoas com quem Ricardo Basaglia já conversou em sua carreira."
+    },
+    {
+      "value": "80%",
+      "context": "Percentual de pessoas que pedem demissão devido à liderança, segundo levantamento mencionado."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Michael Page",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Recruitment And Staffing",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Michael Page",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Feedback",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Michael Page",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Basaglia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autonomia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autonomia",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Confiança No Relacionamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "episode_id": "34748488447",
+  "title": "O PODER DA AÇÃO: O QUE ALCIONE ALBANESI E O AMIGOS DO BEM VÃO TE ENSINAR SOBRE NEGÓCIOS?",
+  "date_published": 1713774600,
+  "duration": 4155,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alcione Albanesi",
+      "role": "guest",
+      "company": "Amigos do Bem",
+      "title": "Idealizadora e Presidente"
+    },
+    {
+      "name": "João Paulo Diniz",
+      "role": "mentioned",
+      "company": "Grupo Pão de Açúcar",
+      "title": "Empresário"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de treinamento de times e desenvolvimento de habilidades."
+    },
+    {
+      "name": "Amigos Do Bem",
+      "industry": "Projeto Social",
+      "context": "Organização dedicada à erradicação da fome e geração de riqueza no sertão nordestino."
+    },
+    {
+      "name": "Flc Lâmpadas",
+      "industry": "Materiais Elétricos",
+      "context": "Empresa líder no mercado de lâmpadas fluorescentes no Brasil."
+    },
+    {
+      "name": "Carrefour",
+      "industry": "Retail",
+      "context": "Partner in food donation campaigns for Amigos do Bem."
+    },
+    {
+      "name": "Extra",
+      "industry": "Retail",
+      "context": "Partner in food donation campaigns for Amigos do Bem."
+    },
+    {
+      "name": "Pão De Açúcar",
+      "industry": "Retail",
+      "context": "Partner in food donation campaigns for Amigos do Bem."
+    },
+    {
+      "name": "Flc",
+      "industry": "Manufacturing",
+      "context": "Company previously associated with Alcione Albanesi, focused on lighting products."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Propósito",
+      "category": "Valores e Motivação"
+    },
+    {
+      "name": "Gestão de equipes",
+      "category": "Administração e Liderança"
+    },
+    {
+      "name": "Erradicação da pobreza",
+      "category": "Objetivos de Desenvolvimento Sustentável (ODS)"
+    },
+    {
+      "name": "Social Development Model",
+      "category": "Framework"
+    },
+    {
+      "name": "IDEB",
+      "category": "Metric"
+    },
+    {
+      "name": "Sustainable Social Development",
+      "category": "Strategy"
+    },
+    {
+      "name": "ESG",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "40% de market share",
+      "context": "Participação de mercado da FLC Lâmpadas no setor de lâmpadas fluorescentes."
+    },
+    {
+      "value": "100 milhões de lâmpadas por ano",
+      "context": "Volume de vendas da FLC Lâmpadas."
+    },
+    {
+      "value": "150 mil pessoas impactadas mensalmente",
+      "context": "Impacto social do projeto Amigos do Bem."
+    },
+    {
+      "value": "250 toneladas de alimentos por mês",
+      "context": "Distribuição de alimentos pelo Amigos do Bem."
+    },
+    {
+      "value": "134 veículos",
+      "context": "Frota de transporte do Amigos do Bem."
+    },
+    {
+      "value": "134 vehicles",
+      "context": "Fleet size of Amigos do Bem."
+    },
+    {
+      "value": "130 drivers",
+      "context": "Daily logistics for transporting children."
+    },
+    {
+      "value": "250 tons of food per month",
+      "context": "Food distribution by Amigos do Bem."
+    },
+    {
+      "value": "13,400 families",
+      "context": "Number of families supported by Amigos do Bem."
+    },
+    {
+      "value": "10,000 children",
+      "context": "Children receiving education through Amigos do Bem."
+    },
+    {
+      "value": "IDEB 8",
+      "context": "Education quality metric achieved by Amigos do Bem."
+    },
+    {
+      "value": "1,500 collaborators",
+      "context": "Workforce in productive units of Amigos do Bem."
+    },
+    {
+      "value": "100 million BRL",
+      "context": "Annual budget including productive areas of Amigos do Bem."
+    },
+    {
+      "value": "Dois anos e meio a três anos",
+      "context": "Tempo desde a doação de um ônibus para o projeto Amigos do Bem."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Amigos Do Bem",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Extra",
+      "target_type": "company"
+    },
+    {
+      "source": "Alcione Albanesi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Amigos Do Bem",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Amigos Do Bem",
+      "target_type": "company"
+    },
+    {
+      "source": "Alcione Albanesi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Flc",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Amigos Do Bem",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Pão De Açúcar",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Treinamento De Equipes",
+      "target_type": "company"
+    },
+    {
+      "source": "Amigos Do Bem",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Erradicação Da Pobreza",
+      "target_type": "concept"
+    },
+    {
+      "source": "Amigos Do Bem",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Carrefour",
+      "target_type": "company"
+    },
+    {
+      "source": "Alcione Albanesi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Flc Lâmpadas",
+      "target_type": "company"
+    }
+  ]
+}

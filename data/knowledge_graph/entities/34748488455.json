@@ -1,0 +1,340 @@
+{
+  "episode_id": "34748488455",
+  "title": "POR TRÁS DO SUCESSO DA RESERVA - COM RONY MEISLER | PAPO DE GESTÃO",
+  "date_published": 1710923400,
+  "duration": 4443,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Rony Meisler",
+      "role": "guest",
+      "company": "Reserva",
+      "title": "Founder"
+    },
+    {
+      "name": "Jack Welch",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Davi",
+      "role": "mentioned",
+      "company": "Reserva",
+      "title": "Designer"
+    },
+    {
+      "name": "Luiz",
+      "role": "mentioned",
+      "company": "Reserva",
+      "title": "Designer"
+    },
+    {
+      "name": "Nandão",
+      "role": "mentioned",
+      "company": "Reserva",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Jaime",
+      "role": "mentioned",
+      "company": "Reserva",
+      "title": "CFO"
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "BAW",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Carvalho",
+      "role": "mentioned",
+      "company": "BAW",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Rigel",
+      "role": "mentioned",
+      "company": "BAW",
+      "title": "Team Member"
+    },
+    {
+      "name": "Fernando",
+      "role": "mentioned",
+      "company": "Reserva",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Reserva",
+      "industry": "Fashion",
+      "context": "Founded by Rony Meisler, discussed as a successful brand in Brazil."
+    },
+    {
+      "name": "Arnco",
+      "industry": "Corporate Services",
+      "context": "Rony Meisler is the CEO."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts the podcast and provides business education services."
+    },
+    {
+      "name": "Arezzo",
+      "industry": "Fashion",
+      "context": "Mentioned in the context of business and leadership discussion."
+    },
+    {
+      "name": "Baw",
+      "industry": "Fashion",
+      "context": "Acquired by Reserva to target the 18-24 demographic."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Leadership",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Cultural Fit",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Training and Development",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Recruitment",
+      "category": "Human Resources"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Business Tools"
+    },
+    {
+      "name": "Chief Vassoura Officer",
+      "category": "Leadership Philosophy"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Fit cultural",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Recrutamento criterioso",
+      "category": "Human Resources"
+    },
+    {
+      "name": "DNVB (Digitally Native Vertical Brand)",
+      "category": "Business Model"
+    },
+    {
+      "name": "Break even",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Experiência do cliente",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Benchmarking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "POS (Point of Sale) Systems",
+      "category": "Technology"
+    },
+    {
+      "name": "WMS (Warehouse Management System)",
+      "category": "Technology"
+    },
+    {
+      "name": "Push and Pull Logistics",
+      "category": "Supply Chain Management"
+    },
+    {
+      "name": "Omnichannel Retail",
+      "category": "Retail Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "7 days",
+      "context": "Free access to G4 Skills platform."
+    },
+    {
+      "value": "26 de março",
+      "context": "Date of G4 Day event."
+    },
+    {
+      "value": "12 anos",
+      "context": "Tempo desde o evento do vídeo viral da Reserva."
+    },
+    {
+      "value": "66 mil lojistas",
+      "context": "Número de lojistas na plataforma mencionada."
+    },
+    {
+      "value": "70-80 milhões por ano",
+      "context": "Faturamento da BAW antes da aquisição."
+    },
+    {
+      "value": "7 lojas físicas",
+      "context": "Número atual de lojas físicas da BAW."
+    },
+    {
+      "value": "33 metros quadrados",
+      "context": "Size of the first Reserva store in Ipanema."
+    },
+    {
+      "value": "90% probability",
+      "context": "Customer return rate within 30 days after a follow-up call."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Lucas",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Baw",
+      "target_type": "company"
+    },
+    {
+      "source": "Rony Meisler",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Arnco",
+      "target_type": "company"
+    },
+    {
+      "source": "Jaime",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Reserva",
+      "target_type": "company"
+    },
+    {
+      "source": "Reserva",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Push And Pull Logistics",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Carvalho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Baw",
+      "target_type": "company"
+    },
+    {
+      "source": "Reserva",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Customer Experience",
+      "target_type": "concept"
+    },
+    {
+      "source": "Reserva",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Baw",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nandão",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Reserva",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Reserva",
+      "target_type": "company"
+    },
+    {
+      "source": "Rony Meisler",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Reserva",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "episode_id": "52591418553",
+  "title": "COMO PROTEGER SUA EMPRESA DA FALÊNCIA COM BRUNO CERVI | TOOLS LIVE",
+  "date_published": 1774453219,
+  "duration": 4300,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Bruno Cervi",
+      "role": "guest",
+      "company": "Rap Seguros",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Cunha",
+      "role": "host",
+      "company": "G4 Tools",
+      "title": "Host"
+    },
+    {
+      "name": "Rogério N.",
+      "role": "mentioned",
+      "company": "Rap Seguros",
+      "title": "Founder"
+    },
+    {
+      "name": "Felipe Cervi",
+      "role": "mentioned",
+      "company": "Rap Seguros",
+      "title": "Co-owner"
+    },
+    {
+      "name": "Rogério",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Felipe",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Rap Seguros",
+      "industry": "Insurance",
+      "context": "Provides corporate insurance, health plans, life insurance, and risk consulting services."
+    },
+    {
+      "name": "G4 Tools",
+      "industry": "Business Consulting",
+      "context": "Hosts the Tools Live podcast focusing on entrepreneurial journeys and solutions."
+    },
+    {
+      "name": "Happy Benefícios",
+      "industry": "Seguros e Benefícios",
+      "context": "Gestão de sinistralidade de planos de saúde e seguros empresariais."
+    },
+    {
+      "name": "Happy Risk Consulting",
+      "industry": "Consultoria de Riscos",
+      "context": "Mitigação de riscos empresariais e prevenção de sinistros."
+    },
+    {
+      "name": "Americanas",
+      "industry": "Varejo",
+      "context": "Mencionada como exemplo de um grande sinistro no mercado brasileiro."
+    },
+    {
+      "name": "Malaysia Airlines",
+      "industry": "Aviação",
+      "context": "Mencionada em relação a eventos de acidentes aéreos que impactaram o mercado de seguros."
+    },
+    {
+      "name": "Boeing",
+      "industry": "Aeroespacial",
+      "context": "Mencionada devido a problemas que impactaram o mercado de aviação e seguros."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Plataforma de educação e consultoria mencionada no contexto do podcast."
+    },
+    {
+      "name": "Rep Seguros",
+      "industry": "Insurance",
+      "context": "Provides corporate and personal insurance solutions."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Business Succession",
+      "category": "Strategy"
+    },
+    {
+      "name": "Risk Management",
+      "category": "Strategy"
+    },
+    {
+      "name": "Insurance Market Growth",
+      "category": "Industry Trend"
+    },
+    {
+      "name": "Family Business Dynamics",
+      "category": "Organizational Behavior"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Corporate Strategy"
+    },
+    {
+      "name": "gerenciamento de risco",
+      "category": "business strategy"
+    },
+    {
+      "name": "seguro garantia",
+      "category": "insurance"
+    },
+    {
+      "name": "seguro de crédito",
+      "category": "insurance"
+    },
+    {
+      "name": "mutualismo",
+      "category": "insurance concept"
+    },
+    {
+      "name": "risco cibernético",
+      "category": "insurance"
+    },
+    {
+      "name": "Gestão de sinistralidade",
+      "category": "Gestão de custos em saúde"
+    },
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia de crescimento empresarial"
+    },
+    {
+      "name": "Governança corporativa",
+      "category": "Práticas empresariais"
+    },
+    {
+      "name": "Mitigação de riscos",
+      "category": "Estratégia de prevenção empresarial"
+    },
+    {
+      "name": "Gerenciamento de Riscos",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Seguro",
+      "category": "Serviços Financeiros"
+    },
+    {
+      "name": "Mudança Climática",
+      "category": "Fatores Externos"
+    },
+    {
+      "name": "Matriz de Risco",
+      "category": "Ferramenta de Gestão"
+    },
+    {
+      "name": "Core Business",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Diagnóstico Empresarial",
+      "category": "Consultoria"
+    },
+    {
+      "name": "Gestão de Riscos",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Franquias de Seguro",
+      "category": "Gestão de Riscos"
+    },
+    {
+      "name": "Cálculos Atuariais",
+      "category": "Finanças e Seguros"
+    },
+    {
+      "name": "Insurance Portfolio",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Cultural Evolution in Risk Awareness",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "gestão de processos",
+      "category": "gestão de negócios"
+    },
+    {
+      "name": "cultura organizacional",
+      "category": "gestão de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "40 years",
+      "context": "Age of Rap Seguros as a company."
+    },
+    {
+      "value": "12 years",
+      "context": "Bruno Cervi's tenure at Rap Seguros."
+    },
+    {
+      "value": "16 times growth",
+      "context": "Growth of Rap Seguros since 2017."
+    },
+    {
+      "value": "mais de 100 modalidades de seguro",
+      "context": "quantidade de opções de seguro disponíveis atualmente"
+    },
+    {
+      "value": "80%",
+      "context": "empresas que acham que têm seguro, mas não têm devido a contratos inadequados"
+    },
+    {
+      "value": "60-70%",
+      "context": "Proporção de negócios no Brasil representados por empresas de serviços profissionais."
+    },
+    {
+      "value": "Mais de 160 países",
+      "context": "Presença da rede mundial de corretores da qual a Happy Benefícios faz parte."
+    },
+    {
+      "value": "Quatro operações",
+      "context": "Número de operações de M&A realizadas pela Happy Benefícios desde 2019."
+    },
+    {
+      "value": "1 bilhão de reais",
+      "context": "Estimativa de perdas em um incêndio no Espírito Santo."
+    },
+    {
+      "value": "16 modelos de veículos",
+      "context": "Número de modelos de carros zero quilômetro abaixo de 100 mil reais no Brasil."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rep Seguros",
+      "target_type": "company"
+    },
+    {
+      "source": "Americanas",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Seguro",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Insurance Portfolio",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "M&A (Fusões E Aquisições)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Happy Benefícios",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão De Sinistralidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Malaysia Airlines",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Seguro",
+      "target_type": "concept"
+    },
+    {
+      "source": "Happy Risk Consulting",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Mitigação De Riscos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Risco Cibernético",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Matriz De Risco",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Happy Risk Consulting",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Cunha",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Tools",
+      "target_type": "company"
+    },
+    {
+      "source": "Happy Risk Consulting",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gerenciamento De Riscos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mutualismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gerenciamento De Risco",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Seguro Garantia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Seguro De Crédito",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultural Evolution In Risk Awareness",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rap Seguros",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Risk Management",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rogério N.",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rap Seguros",
+      "target_type": "company"
+    },
+    {
+      "source": "Happy Benefícios",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Happy Risk Consulting",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Happy Benefícios",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Cervi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governança Corporativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Boeing",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Seguro",
+      "target_type": "concept"
+    },
+    {
+      "source": "Felipe Cervi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rap Seguros",
+      "target_type": "company"
+    }
+  ]
+}

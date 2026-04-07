@@ -1,0 +1,637 @@
+{
+  "episode_id": "34748488404",
+  "title": "OS DESAFIOS ATÉ REVOLUCIONAR UM SETOR COM THIAGO CORDEIRO (GOODSTORAGE) | PAPO DE GESTÃO",
+  "date_published": 1724054400,
+  "duration": 4565,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Thiago Cordeiro",
+      "role": "guest",
+      "company": "GoodStorage",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Ale",
+      "role": "mentioned",
+      "company": "Vitacom",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Sam Zell",
+      "role": "mentioned",
+      "company": "Equity International",
+      "title": "Founder"
+    },
+    {
+      "name": "Luiz Stuhlberger",
+      "role": "mentioned",
+      "company": "Verde Asset Management",
+      "title": "Gestor"
+    },
+    {
+      "name": "Carlos Betancourt",
+      "role": "mentioned",
+      "company": "Bracor",
+      "title": "Designer"
+    },
+    {
+      "name": "Simon Sinek",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Dom Miguel Ruiz",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Ryan Holiday",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Goodstorage",
+      "industry": "Self-storage",
+      "context": "Discussed as a pioneering company in the self-storage industry in Brazil."
+    },
+    {
+      "name": "Vitacom",
+      "industry": "Real estate",
+      "context": "Mentioned as an example of growth in urban housing solutions."
+    },
+    {
+      "name": "Uber",
+      "industry": "Transportation and logistics",
+      "context": "Mentioned as an example of demand-based pricing."
+    },
+    {
+      "name": "Good Storage",
+      "industry": "Self-storage",
+      "context": "Discussed as a growing company in the self-storage sector."
+    },
+    {
+      "name": "Guardaqui",
+      "industry": "Self-storage",
+      "context": "Acquired by Good Storage as part of its expansion strategy."
+    },
+    {
+      "name": "Equity International",
+      "industry": "Private Equity",
+      "context": "Mentioned as a fund investing in real estate."
+    },
+    {
+      "name": "Evergreen",
+      "industry": "Investment Fund",
+      "context": "Mentioned as the principal investor in Good Storage."
+    },
+    {
+      "name": "Credit Suisse",
+      "industry": "Financeiro",
+      "context": "Instituição financeira mencionada como parte da carreira de Thiago Cordeiro."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Financeiro",
+      "context": "Instituição financeira mencionada como parte da carreira de Thiago Cordeiro."
+    },
+    {
+      "name": "Morgan Stanley",
+      "industry": "Financeiro",
+      "context": "Instituição financeira mencionada como parte da carreira de Thiago Cordeiro."
+    },
+    {
+      "name": "Redingrifo",
+      "industry": "Financeiro",
+      "context": "Empresa onde Thiago Cordeiro trabalhou na diversificação de receitas."
+    },
+    {
+      "name": "Verde Asset Management",
+      "industry": "Financeiro",
+      "context": "Gestora de fundos mencionada no contexto da Redingrifo."
+    },
+    {
+      "name": "Bracor",
+      "industry": "Imobiliário",
+      "context": "Startup apoiada por Itaú BBA e Equity International, onde Thiago Cordeiro trabalhou."
+    },
+    {
+      "name": "Itaú Bba",
+      "industry": "Financeiro",
+      "context": "Investidor institucional na Bracor."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Organiza o programa Gestão Estratégica mencionado no podcast."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Self-storage",
+      "category": "Business model"
+    },
+    {
+      "name": "Urbanization",
+      "category": "Market trend"
+    },
+    {
+      "name": "Real estate",
+      "category": "Industry"
+    },
+    {
+      "name": "Growth",
+      "category": "Business strategy"
+    },
+    {
+      "name": "M&A",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Data-driven decision making",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Revenue management",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Average length of stay",
+      "category": "Business metric"
+    },
+    {
+      "name": "Area Bruta Locável (ABL)",
+      "category": "Real estate metric"
+    },
+    {
+      "name": "Yield",
+      "category": "Financial metric"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Industry"
+    },
+    {
+      "name": "Pharma logistics",
+      "category": "Industry"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Real Estate Investment",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Digital Transformation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Data Science",
+      "category": "Technology"
+    },
+    {
+      "name": "Yield Generation",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Total Cost of Ownership",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Automatização de Processos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Gestão Estratégica",
+      "category": "Programas educacionais"
+    },
+    {
+      "name": "Business Plan",
+      "category": "Planejamento estratégico"
+    },
+    {
+      "name": "Life Plan",
+      "category": "Planejamento pessoal"
+    },
+    {
+      "name": "Cinco Porquês",
+      "category": "Frameworks de análise"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Conceitos de negócios"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Liderança",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Crescimento com Eficiência",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Networking",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Jogos Infinitos",
+      "category": "Filosofia de Negócios"
+    },
+    {
+      "name": "Estoicismo",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Stoicism",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Leadership",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Time Management",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "Jogos Infinitos",
+      "author": "Simon Sinek"
+    },
+    {
+      "title": "Os Quatro Acordos",
+      "author": "Dom Miguel Ruiz"
+    },
+    {
+      "title": "Stillness is the Key",
+      "author": "Ryan Holiday"
+    },
+    {
+      "title": "365 Dias de Estoicismo",
+      "author": "Ryan Holiday"
+    },
+    {
+      "title": "365 Days of Stoicism",
+      "author": "Ryan Holiday"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "50%",
+      "context": "Percentage of housing units in São Paulo under 40 square meters launched in recent years."
+    },
+    {
+      "value": "85%",
+      "context": "Percentage of commercial flow conducted online for GoodStorage."
+    },
+    {
+      "value": "27%",
+      "context": "Percentage of GoodStorage's customer base staying for more than two years."
+    },
+    {
+      "value": "17 months",
+      "context": "Average length of stay for GoodStorage customers."
+    },
+    {
+      "value": "45 reais per square meter",
+      "context": "Projected value for galpão rental prices."
+    },
+    {
+      "value": "20 reais per square meter",
+      "context": "Current galpão rental prices."
+    },
+    {
+      "value": "285,000 square meters",
+      "context": "Good Storage's operational space in 2024."
+    },
+    {
+      "value": "37 units",
+      "context": "Good Storage's operational units in 2024."
+    },
+    {
+      "value": "50% growth",
+      "context": "Growth in self-storage space after acquiring GuardAqui."
+    },
+    {
+      "value": "400,000 square meters",
+      "context": "Combined operational space of Good Storage and GuardAqui."
+    },
+    {
+      "value": "500,000 square meters",
+      "context": "Projected operational space by the end of 2025."
+    },
+    {
+      "value": "15-16%",
+      "context": "Taxa de juros mencionada durante a transformação do mercado imobiliário em 2006."
+    },
+    {
+      "value": "5 anos",
+      "context": "Tempo investido por Thiago Cordeiro em seu negócio antes de decidir continuar por mais 10 anos."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Evergreen",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Good Storage",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Vitacom",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Guardaqui",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Good Storage",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Guardaqui",
+      "target_type": "company"
+    },
+    {
+      "source": "Stoicism",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Leadership",
+      "target_type": "concept"
+    },
+    {
+      "source": "Stoicism",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Time Management",
+      "target_type": "concept"
+    },
+    {
+      "source": "365 Dias De Estoicismo",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Ryan Holiday",
+      "target_type": "person"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bracor",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Redingrifo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Verde Asset Management",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão Estratégica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sam Zell",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Equity International",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Redingrifo",
+      "target_type": "company"
+    },
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "mentioned",
+      "target": "Demand-Based Pricing",
+      "target_type": "company"
+    },
+    {
+      "source": "Bracor",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Itaú Bba",
+      "target_type": "company"
+    },
+    {
+      "source": "Gestão Estratégica",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Business Plan",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ryan Holiday",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Stillness Is The Key",
+      "target_type": "company"
+    },
+    {
+      "source": "Jogos Infinitos",
+      "source_type": "concept",
+      "relation": "recommends",
+      "target": "Simon Sinek",
+      "target_type": "person"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Goodstorage",
+      "target_type": "company"
+    },
+    {
+      "source": "Equity International",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Abracor",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Credit Suisse",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Redingrifo",
+      "target_type": "company"
+    },
+    {
+      "source": "Ryan Holiday",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "365 Days Of Stoicism",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Goodstorage",
+      "target_type": "company"
+    },
+    {
+      "source": "Bracor",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Equity International",
+      "target_type": "company"
+    },
+    {
+      "source": "Gestão Estratégica",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Life Plan",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Morgan Stanley",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitacom",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Urbanization",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Good Storage",
+      "target_type": "company"
+    },
+    {
+      "source": "Stillness Is The Key",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Ryan Holiday",
+      "target_type": "person"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Goodstorage",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Self-Storage",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Cordeiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Self-Storage",
+      "target_type": "concept"
+    },
+    {
+      "source": "Os Quatro Acordos",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Dom Miguel Ruiz",
+      "target_type": "person"
+    }
+  ]
+}

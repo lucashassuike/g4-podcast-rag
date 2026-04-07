@@ -1,0 +1,213 @@
+{
+  "episode_id": "47962291153",
+  "title": "JULIANA LOCH: COMO ELA APRENDEU NA AMAZON E WELLHUB A CRIAR CULTURAS OBCECADAS NO CLIENTE",
+  "date_published": 1767625200,
+  "duration": 3521,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Juliana Loch",
+      "role": "guest",
+      "company": "Wellhub",
+      "title": "VP de Clientes"
+    },
+    {
+      "name": "Cezinha",
+      "role": "mentioned",
+      "company": "Jean Pess",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Amazon Brasil",
+      "industry": "E-commerce",
+      "context": "Juliana Loch liderou a área de experiência do cliente na Amazon Brasil."
+    },
+    {
+      "name": "Wellhub",
+      "industry": "Corporate Wellness",
+      "context": "Juliana Loch atua como VP de Clientes na Wellhub."
+    },
+    {
+      "name": "Jean Pess",
+      "industry": "Corporate Wellness",
+      "context": "Nome anterior da empresa Wellhub."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Referência em cultura centrada no cliente"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Empresa dos hosts do podcast"
+    },
+    {
+      "name": "Volvo",
+      "industry": "Automotivo",
+      "context": "Juliana Loch trabalhou na Volvo atendendo a América Latina."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Customer Experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Backwards Approach",
+      "category": "Business Framework"
+    },
+    {
+      "name": "Heartbeat System",
+      "category": "Customer Feedback System"
+    },
+    {
+      "name": "Cultura centrada no cliente",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Inteligência artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Gestão de pessoas",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Xadrez de gente",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Visão de longo prazo",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Matriz de Ansoff",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Experiência do cliente",
+      "category": "Gestão de clientes"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "100+",
+      "context": "Número de pessoas na equipe liderada por Juliana Loch na Wellhub."
+    },
+    {
+      "value": "100 pessoas",
+      "context": "Tamanho do time gerido por Juliana Loch"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliana Loch",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Wellhub",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Jean Pess",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliana Loch",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Matriz De Ansoff",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliana Loch",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Wellhub",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliana Loch",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Amazon Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliana Loch",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Volvo",
+      "target_type": "company"
+    }
+  ]
+}

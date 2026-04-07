@@ -1,0 +1,269 @@
+{
+  "episode_id": "49559415085",
+  "title": "MARCOS PAULO: O ESTRATEGISTA POR TRÁS DOS LANÇAMENTOS DO PABLO MARÇAL | EXTREMOS",
+  "date_published": 1770217200,
+  "duration": 4738,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Marcos Paulo",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pablo Marçal",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Joe Rogan",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Matthew Mcconaughey",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gilberto",
+      "role": "mentioned",
+      "company": "",
+      "title": "Professor"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "Vatex",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Betinha",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Daniel Goleman",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Vatex",
+      "industry": "Unknown",
+      "context": "Mentioned in relation to decision-making and rationality"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "preferência temporal",
+      "category": "estratégia de decisão"
+    },
+    {
+      "name": "impacto social neutro ou positivo",
+      "category": "princípios de negócios"
+    },
+    {
+      "name": "CAPEX",
+      "category": "finanças empresariais"
+    },
+    {
+      "name": "LTV",
+      "category": "métricas de negócios"
+    },
+    {
+      "name": "EBITDA",
+      "category": "métricas financeiras"
+    },
+    {
+      "name": "ROI",
+      "category": "finance"
+    },
+    {
+      "name": "dividendo emocional",
+      "category": "finance"
+    },
+    {
+      "name": "estratégia de lançamento",
+      "category": "marketing"
+    },
+    {
+      "name": "didática",
+      "category": "education"
+    },
+    {
+      "name": "Homeostase",
+      "category": "Scientific Concept"
+    },
+    {
+      "name": "Delegação de decisões",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Autonomia",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Prova real",
+      "category": "Mathematical Concept"
+    },
+    {
+      "name": "Idolatria",
+      "category": "Social Concept"
+    },
+    {
+      "name": "Criação de dinheiro",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Método IP",
+      "category": "Personal Development"
+    },
+    {
+      "name": "estoicismo",
+      "category": "philosophy"
+    },
+    {
+      "name": "desenvolvimento pessoal",
+      "category": "self-improvement"
+    },
+    {
+      "name": "investimento em startups",
+      "category": "business strategy"
+    },
+    {
+      "name": "ações de dividendos",
+      "category": "investment"
+    }
+  ],
+  "books": [
+    {
+      "title": "Ego é o Seu Inimigo",
+      "author": "Ryan Holiday"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "100 mil por mês",
+      "context": "rendimento do barbeiro mencionado"
+    },
+    {
+      "value": "10 milhões",
+      "context": "patrimônio acumulado em um ano pelo narrador"
+    },
+    {
+      "value": "10 milhões",
+      "context": "dinheiro acumulado"
+    },
+    {
+      "value": "115 milhões",
+      "context": "maior lançamento de infoproduto"
+    },
+    {
+      "value": "5 ou 6 milhões",
+      "context": "investimento em tráfego para lançamento"
+    },
+    {
+      "value": "800 mil",
+      "context": "valor gerado em um lançamento através de stories em 24 horas"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcos Paulo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estratégia De Lançamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcos Paulo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Roi",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gilberto",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Marcos Paulo",
+      "target_type": "person"
+    },
+    {
+      "source": "Matthew Mcconaughey",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Joe Rogan",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Betinha",
+      "target_type": "person"
+    },
+    {
+      "source": "Marcos Paulo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Daniel Goleman",
+      "target_type": "person"
+    },
+    {
+      "source": "Marcos Paulo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Didática",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcos Paulo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Pablo Marçal",
+      "target_type": "person"
+    },
+    {
+      "source": "Marcos Paulo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dividendo Emocional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcos Paulo",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Ego É O Seu Inimigo",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vatex",
+      "target_type": "company"
+    }
+  ]
+}

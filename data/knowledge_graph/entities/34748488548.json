@@ -1,0 +1,102 @@
+{
+  "episode_id": "34748488548",
+  "title": "Melhore O Que Você Faz Aprendendo Sobre O Que Você Não Faz | Sem Atalhos",
+  "date_published": 1694507400,
+  "duration": 802,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Leonardo Da Vinci",
+      "role": "mentioned",
+      "company": "",
+      "title": "Polimata"
+    },
+    {
+      "name": "David Deutsch",
+      "role": "mentioned",
+      "company": "",
+      "title": "Físico"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Escola de negócios mencionada como local de trabalho de Thay Dantas."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Polimatismo",
+      "category": "Conceito de aprendizado"
+    },
+    {
+      "name": "Profissional T-shaped",
+      "category": "Estratégia de desenvolvimento profissional"
+    },
+    {
+      "name": "Flexibilidade intelectual",
+      "category": "Habilidade de aprendizado"
+    },
+    {
+      "name": "Educação tradicional",
+      "category": "Sistema educacional"
+    },
+    {
+      "name": "Teoria quântica",
+      "category": "Campo de estudo"
+    },
+    {
+      "name": "Teoria computacional",
+      "category": "Campo de estudo"
+    },
+    {
+      "name": "Teoria da evolução",
+      "category": "Campo de estudo"
+    },
+    {
+      "name": "Teoria do conhecimento",
+      "category": "Campo de estudo"
+    },
+    {
+      "name": "Filosofia clássica",
+      "category": "Campo de estudo"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Fábrica da Realidade",
+      "author": "David Deutsch"
+    }
+  ],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Leonardo Da Vinci",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Polimatismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "David Deutsch",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Fábrica Da Realidade",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "episode_id": "42095979032",
+  "title": "QUANTO GANHA UM DJ DE VERDADE? COM DJ NINJA | EXTREMOS",
+  "date_published": 1756911600,
+  "duration": 2841,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-host"
+    },
+    {
+      "name": "Rodrigo Cherekawa",
+      "role": "guest",
+      "company": "N/A",
+      "title": "DJ and Entrepreneur"
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "DJ"
+    },
+    {
+      "name": "Alok",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "DJ"
+    },
+    {
+      "name": "Vintage Culture",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "DJ"
+    },
+    {
+      "name": "Cat Dealers",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "DJ Duo"
+    },
+    {
+      "name": "Doobie Dogs",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "DJ Duo"
+    },
+    {
+      "name": "Dj Ninja",
+      "role": "guest",
+      "company": "",
+      "title": "DJ"
+    },
+    {
+      "name": "Black Coffee",
+      "role": "mentioned",
+      "company": "",
+      "title": "DJ"
+    },
+    {
+      "name": "Blondish",
+      "role": "mentioned",
+      "company": "",
+      "title": "DJ"
+    },
+    {
+      "name": "Alan",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artista"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education and Business Consulting",
+      "context": "Hosts of the podcast"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Entrepreneurship",
+      "category": "Business"
+    },
+    {
+      "name": "Music Production",
+      "category": "Creative Arts"
+    },
+    {
+      "name": "Event Management",
+      "category": "Business"
+    },
+    {
+      "name": "Networking",
+      "category": "Business"
+    },
+    {
+      "name": "line-up",
+      "category": "event planning"
+    },
+    {
+      "name": "set list",
+      "category": "music"
+    },
+    {
+      "name": "repertório",
+      "category": "music"
+    },
+    {
+      "name": "leitura de pessoas",
+      "category": "strategy"
+    },
+    {
+      "name": "pesquisa musical",
+      "category": "strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "150 shows",
+      "context": "Rodrigo Cherekawa's planned performances for the year"
+    },
+    {
+      "value": "50,000 BRL",
+      "context": "Peak monthly earnings of Rodrigo Cherekawa as a DJ"
+    },
+    {
+      "value": "200,000 BRL per show",
+      "context": "Top-tier DJ earnings in Brazil"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Cherekawa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Music Production",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Cherekawa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Event Management",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dj Ninja",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alan",
+      "target_type": "person"
+    },
+    {
+      "source": "Rodrigo Cherekawa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Networking",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dj Ninja",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Blondish",
+      "target_type": "person"
+    },
+    {
+      "source": "Rodrigo Cherekawa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Entrepreneurship",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dj Ninja",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Black Coffee",
+      "target_type": "person"
+    },
+    {
+      "source": "Dj Ninja",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Vintage Culture",
+      "target_type": "person"
+    }
+  ]
+}

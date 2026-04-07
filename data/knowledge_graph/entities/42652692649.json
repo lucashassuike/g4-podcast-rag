@@ -1,0 +1,296 @@
+{
+  "episode_id": "42652692649",
+  "title": "PERDI TUDO AOS 30 E RECOMECEI DO ZERO! A ASCENSÃO E AS POLÊMICAS DE PAULO VIEIRA | EXTREMOS",
+  "date_published": 1758121200,
+  "duration": 5144,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Paulo Vieira",
+      "role": "guest",
+      "company": "Febra CIS",
+      "title": "Presidente e Fundador"
+    },
+    {
+      "name": "Roberto Inachique",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Nicolas",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Febra Cis",
+      "industry": "Coaching e Desenvolvimento Pessoal",
+      "context": "Fundada por Paulo Vieira, especializada em inteligência emocional e alta performance."
+    },
+    {
+      "name": "Febrasys",
+      "industry": "Educação e Treinamento",
+      "context": "Empresa fundada por Paulo Vieira, mencionada no contexto de crescimento e desafios de gestão."
+    },
+    {
+      "name": "Espaço Laser",
+      "industry": "Estética e Beleza",
+      "context": "Mencionada como exemplo de estratégia de consolidação de franquias."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Serviços Financeiros",
+      "context": "Mencionado como exemplo de modelo de partnership."
+    },
+    {
+      "name": "Mls",
+      "industry": "Imobiliário",
+      "context": "Mencionado como exemplo de modelo de partnership."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Método CIS",
+      "category": "Framework de Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Autoresponsabilidade",
+      "category": "Conceito de Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Teoria Geral das Memórias",
+      "category": "Psychological Theory"
+    },
+    {
+      "name": "Sete Experiências Fundamentais",
+      "category": "Psychological Framework"
+    },
+    {
+      "name": "Franquias",
+      "category": "Business Model"
+    },
+    {
+      "name": "Modelo de Partnership",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Consolidação de Franquias",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Gestão Estratégica",
+      "category": "Gestão"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Gestão"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "planejamento empresarial",
+      "category": "estratégia"
+    },
+    {
+      "name": "liderança e gestão",
+      "category": "conceito"
+    },
+    {
+      "name": "filosofia empresarial",
+      "category": "conceito"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Poder da Autoresponsabilidade",
+      "author": "Paulo Vieira"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "20 milhões",
+      "context": "Número de livros vendidos por Paulo Vieira."
+    },
+    {
+      "value": "15 livros",
+      "context": "Número de livros publicados por Paulo Vieira até o momento."
+    },
+    {
+      "value": "10 anos",
+      "context": "Tempo desde que Paulo Vieira começou a publicar livros."
+    },
+    {
+      "value": "400",
+      "context": "Number of direct employees at Febra CIS headquarters."
+    },
+    {
+      "value": "900",
+      "context": "Number of employees in Febra CIS franchises."
+    },
+    {
+      "value": "35",
+      "context": "Number of Febra CIS franchises in Brazil."
+    },
+    {
+      "value": "1.9 million",
+      "context": "Total number of students trained through Método CIS."
+    },
+    {
+      "value": "12,000",
+      "context": "Number of paying students in the current Método CIS program."
+    },
+    {
+      "value": "64,000",
+      "context": "Number of incarcerated individuals trained for free by Febra CIS."
+    },
+    {
+      "value": "30,000",
+      "context": "Number of police officers trained for free by Febra CIS."
+    },
+    {
+      "value": "300 milhões",
+      "context": "Faturamento alcançado pela FebraSys em 10 anos."
+    },
+    {
+      "value": "3 milhões por mês",
+      "context": "Faturamento de uma unidade de franquia da FebraSys."
+    },
+    {
+      "value": "900 mil por mês",
+      "context": "Faturamento de uma unidade menor de franquia da FebraSys."
+    },
+    {
+      "value": "96",
+      "context": "Nota mínima exigida para treinadores do Método CIS continuarem treinando."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Sete Experiências Fundamentais",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Paulo Vieira",
+      "target_type": "person"
+    },
+    {
+      "source": "Roberto Inachique",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Paulo Vieira",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Vieira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Febrasys",
+      "target_type": "company"
+    },
+    {
+      "source": "Btg Pactual",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Modelo De Partnership",
+      "target_type": "concept"
+    },
+    {
+      "source": "Espaço Laser",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Consolidação De Franquias",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Vieira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Filosofia Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Vieira",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "O Poder Da Autoresponsabilidade",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Vieira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Planejamento Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mls",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Modelo De Partnership",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Vieira",
+      "source_type": "person",
+      "relation": "created",
+      "target": "Método Cis",
+      "target_type": "concept"
+    },
+    {
+      "source": "Teoria Geral Das Memórias",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Paulo Vieira",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Vieira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Febra Cis",
+      "target_type": "company"
+    },
+    {
+      "source": "Método Cis",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Febra Cis",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Vieira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Liderança E Gestão",
+      "target_type": "concept"
+    }
+  ]
+}

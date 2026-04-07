@@ -1,0 +1,304 @@
+{
+  "episode_id": "34748488468",
+  "title": "DESCUBRA AS ESTRATÉGIAS DE MARKETING DA XP - Com Lisandro Lopes (CMO XP Inc.) | Papo de Gestão",
+  "date_published": 1707728400,
+  "duration": 3768,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Lisandro Lopes",
+      "role": "guest",
+      "company": "XP Inc.",
+      "title": "CMO"
+    },
+    {
+      "name": "César Carvalho",
+      "role": "mentioned",
+      "company": "GymPass",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Constantino",
+      "role": "mentioned",
+      "company": "XP Inc.",
+      "title": "CFO"
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc.",
+      "title": "Founder"
+    },
+    {
+      "name": "Mafra",
+      "role": "mentioned",
+      "company": "XP Inc.",
+      "title": "CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Xp Inc.",
+      "industry": "Finance",
+      "context": "Discussed as one of the largest financial companies in Brazil."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Provides training platforms like G4 Skills."
+    },
+    {
+      "name": "Gympass",
+      "industry": "Fitness and Wellness",
+      "context": "Founded by César Carvalho."
+    },
+    {
+      "name": "Nielsen",
+      "industry": "Market Research",
+      "context": "Lisandro Lopes worked here in market research."
+    },
+    {
+      "name": "Mckinsey & Company",
+      "industry": "Consulting",
+      "context": "Lisandro Lopes worked here as a consultant."
+    },
+    {
+      "name": "Red Ventures",
+      "industry": "Media and Marketing",
+      "context": "Lisandro Lopes worked here before joining XP Inc."
+    },
+    {
+      "name": "Infomoney",
+      "industry": "Media",
+      "context": "Mentioned as a platform where advertisements were displayed."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Funil de vendas",
+      "category": "Marketing"
+    },
+    {
+      "name": "Pesquisa de mercado",
+      "category": "Marketing"
+    },
+    {
+      "name": "Case interviews",
+      "category": "Recruitment"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Training Platform"
+    },
+    {
+      "name": "Growth Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Customer Acquisition",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Branding vs Performance",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Conversion Rate Optimization",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "One Click Buy",
+      "category": "E-commerce Strategy"
+    },
+    {
+      "name": "Funil de aquisição",
+      "category": "Marketing"
+    },
+    {
+      "name": "Tráfego direto",
+      "category": "Marketing"
+    },
+    {
+      "name": "Paid media",
+      "category": "Marketing"
+    },
+    {
+      "name": "Paid social",
+      "category": "Marketing"
+    },
+    {
+      "name": "Growth",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Arbitragem em KQLTV",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Atribuição",
+      "category": "Marketing Analytics"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "5 vezes mais em aquisição",
+      "context": "Hypothetical scenario for doubling client acquisition without branding."
+    },
+    {
+      "value": "3 anos",
+      "context": "Lisandro Lopes' tenure at XP Inc. as of the episode date."
+    },
+    {
+      "value": "80%",
+      "context": "Percentage of team members changed during restructuring at XP Inc."
+    },
+    {
+      "value": "24 fields",
+      "context": "Current number of fields in XP Inc.'s customer registration form, reduced from 50."
+    },
+    {
+      "value": "16 fields",
+      "context": "Target number of fields for XP Inc.'s customer registration form."
+    },
+    {
+      "value": "70% de X",
+      "context": "Percentual do orçamento de aquisição de clientes utilizado."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Lisandro Lopes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "Lisandro Lopes",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Mckinsey & Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "Lisandro Lopes",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Red Ventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Lisandro Lopes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Customer Acquisition",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lisandro Lopes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Growth Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lisandro Lopes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Conversion Rate Optimization",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Constantino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "César Carvalho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gympass",
+      "target_type": "company"
+    },
+    {
+      "source": "Lisandro Lopes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "One Click Buy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lisandro Lopes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Branding Vs Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mafra",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "Lisandro Lopes",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Nielsen",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "episode_id": "50629627148",
+  "title": "COMO CRESCER SEM VIRAR REFÉM DO PRÓPRIO NEGÓCIO COM RAFAEL CATOLÉ | PAPO DE GESTÃO",
+  "date_published": 1771858800,
+  "duration": 3136,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Rafael Catolé",
+      "role": "guest",
+      "company": "Natural One",
+      "title": "Global CEO, VP and International GM"
+    },
+    {
+      "name": "Jorge Paulo Lemann",
+      "role": "mentioned",
+      "company": "Ambev",
+      "title": "Founder"
+    },
+    {
+      "name": "Beto Sicupira",
+      "role": "mentioned",
+      "company": "Ambev",
+      "title": "Founder"
+    },
+    {
+      "name": "Marcel Telles",
+      "role": "mentioned",
+      "company": "Ambev",
+      "title": "Founder"
+    },
+    {
+      "name": "Alex Seróide",
+      "role": "mentioned",
+      "company": "Beleza da Web",
+      "title": "Founder"
+    },
+    {
+      "name": "Ricardo",
+      "role": "mentioned",
+      "company": "Natural One",
+      "title": "Founder"
+    },
+    {
+      "name": "Professor Falcioni",
+      "role": "mentioned",
+      "company": "Ambev",
+      "title": "Management Expert"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Marcel Regis",
+      "role": "mentioned",
+      "company": "Kraft Heinz",
+      "title": "Zompran"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcasts",
+      "industry": "Media",
+      "context": "Host of the podcast 'Papo de Gestão'."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Beverages",
+      "context": "Company where Rafael Catolé worked as a trainee and later as a national manager."
+    },
+    {
+      "name": "Beleza Na Web",
+      "industry": "E-commerce",
+      "context": "Company where Rafael Catolé served as CEO."
+    },
+    {
+      "name": "Natural One",
+      "industry": "Beverages",
+      "context": "Company where Rafael Catolé was Global CEO, VP, and International GM."
+    },
+    {
+      "name": "Gávea Investimentos",
+      "industry": "Finance",
+      "context": "Investment fund associated with Natural One."
+    },
+    {
+      "name": "Br Malls",
+      "industry": "Real Estate",
+      "context": "Company where Rafael Catolé interned before joining Ambev."
+    },
+    {
+      "name": "Gp Investimentos",
+      "industry": "Finance",
+      "context": "Investment firm associated with BR Malls."
+    },
+    {
+      "name": "Beleza Da Web",
+      "industry": "E-commerce",
+      "context": "Discussed as a successful company acquired by Boticário"
+    },
+    {
+      "name": "Casec",
+      "industry": "Investment",
+      "context": "Discussed in relation to portfolio strategy"
+    },
+    {
+      "name": "Pet Love",
+      "industry": "E-commerce",
+      "context": "Part of CASEC's portfolio"
+    },
+    {
+      "name": "Net Shoes",
+      "industry": "E-commerce",
+      "context": "Part of CASEC's portfolio"
+    },
+    {
+      "name": "Evino",
+      "industry": "E-commerce",
+      "context": "Mentioned as a successful project"
+    },
+    {
+      "name": "Project A",
+      "industry": "Investment",
+      "context": "Discussed in relation to startup projects"
+    },
+    {
+      "name": "Gavia",
+      "industry": "Investment",
+      "context": "Investor in Natural One"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Discussed as an ecosystem for business growth"
+    },
+    {
+      "name": "Komo",
+      "industry": "Technology",
+      "context": "CRM for WhatsApp, mentioned as a partner in the podcast"
+    },
+    {
+      "name": "Kraft Heinz",
+      "industry": "Alimentos e Bebidas",
+      "context": "Empresa onde Marcel Regis trabalha"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "trainee programs",
+      "category": "career development"
+    },
+    {
+      "name": "sales management",
+      "category": "business operations"
+    },
+    {
+      "name": "market share",
+      "category": "business metrics"
+    },
+    {
+      "name": "entrepreneurship",
+      "category": "business strategy"
+    },
+    {
+      "name": "corporate culture",
+      "category": "organizational behavior"
+    },
+    {
+      "name": "Lead Generation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Break-even",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Stanford Ignite",
+      "category": "Education"
+    },
+    {
+      "name": "Category Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Procurement Process",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Management System",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Governance",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Gestão à Vista",
+      "category": "Management Practices"
+    },
+    {
+      "name": "Governança",
+      "category": "Management"
+    },
+    {
+      "name": "Processos de gestão",
+      "category": "Management"
+    },
+    {
+      "name": "CRM",
+      "category": "Technology"
+    },
+    {
+      "name": "Escalabilidade",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Gestão de pessoas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Gestão de custos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Nine Box",
+      "category": "Ferramenta de avaliação de desempenho"
+    },
+    {
+      "name": "Processos de feedback",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "early stage",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "crescer com dívida",
+      "category": "Estratégia Financeira"
+    },
+    {
+      "name": "preservar caixa",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "delegar com risco de erro",
+      "category": "Gestão de Equipe"
+    },
+    {
+      "name": "executar com certeza de gargalo",
+      "category": "Gestão de Operações"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Poder da Gestão",
+      "author": "Rafael Catolé"
+    },
+    {
+      "title": "Sistema Prático de Gestão",
+      "author": "Rafael Catolé"
+    },
+    {
+      "title": "Unknown (inspired by Professor Falcioni)",
+      "author": "Professor Falcioni"
+    },
+    {
+      "title": "Livro de Rafael Catolé",
+      "author": "Rafael Catolé"
+    },
+    {
+      "title": "Poder da Gestão",
+      "author": "Rafael Catolé"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "65,000",
+      "context": "Number of candidates for the Ambev trainee program."
+    },
+    {
+      "value": "20",
+      "context": "Number of countries where Natural One expanded under Rafael Catolé's leadership."
+    },
+    {
+      "value": "1 point",
+      "context": "Market share gained in soft drinks during Rafael Catolé's tenure at Ambev."
+    },
+    {
+      "value": "600 million euros",
+      "context": "Revenue of Kauf Reporto in Germany"
+    },
+    {
+      "value": "90 million",
+      "context": "Initial revenue of Beleza da Web"
+    },
+    {
+      "value": "198 million",
+      "context": "Revenue of Beleza da Web after growth"
+    },
+    {
+      "value": "17% improvement",
+      "context": "SG&A improvement at Beleza da Web"
+    },
+    {
+      "value": "2 billion",
+      "context": "Current revenue of Beleza da Web under Boticário"
+    },
+    {
+      "value": "4% market share",
+      "context": "Natural One's market share in Mexico"
+    },
+    {
+      "value": "15,000 points of sale",
+      "context": "Natural One's international presence"
+    },
+    {
+      "value": "50 million",
+      "context": "Revenue of a company under advisory"
+    },
+    {
+      "value": "100 milhões",
+      "context": "Meta de lucro líquido anual mencionada como exemplo"
+    },
+    {
+      "value": "5 milhões",
+      "context": "Faturamento de uma empresa média mencionada"
+    },
+    {
+      "value": "38 milhões",
+      "context": "Faturamento de uma empresa concorrente mencionada"
+    },
+    {
+      "value": "70%",
+      "context": "Porcentagem da receita da Natural One proveniente do Brasil"
+    },
+    {
+      "value": "Top 5 na Ásia",
+      "context": "Posição da Natural One no mercado asiático"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rafael Catolé",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Poder Da Gestão",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Gestão À Vista",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Early Stage",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Beto Sicupira",
+      "target_type": "person"
+    },
+    {
+      "source": "Komo",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Crm",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alex Seróide",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Beleza Da Web",
+      "target_type": "company"
+    },
+    {
+      "source": "Gavia",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Natural One",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Jorge Paulo Lemann",
+      "target_type": "person"
+    },
+    {
+      "source": "Rafael Catolé",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Marcel Regis",
+      "target_type": "person"
+    },
+    {
+      "source": "Rafael Catolé",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Casec",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Net Shoes",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Catolé",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Natural One",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Gávea Investimentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Catolé",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Natural One",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Catolé",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Beleza Na Web",
+      "target_type": "company"
+    },
+    {
+      "source": "Beleza Da Web",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Pet Love",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Catolé",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Processos De Feedback",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Escalabilidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Casec",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Beleza Da Web",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Natural One",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Catolé",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Custos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Catolé",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nine Box",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Marcel Telles",
+      "target_type": "person"
+    },
+    {
+      "source": "Marcel Regis",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Kraft Heinz",
+      "target_type": "company"
+    },
+    {
+      "source": "Professor Falcioni",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gestão À Vista",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Catolé",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Pessoas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rafael Catolé",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Beleza Da Web",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Net Shoes",
+      "target_type": "company"
+    },
+    {
+      "source": "Casec",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Pet Love",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Catolé",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Br Malls",
+      "target_type": "company"
+    },
+    {
+      "source": "Br Malls",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Gp Investimentos",
+      "target_type": "company"
+    }
+  ]
+}

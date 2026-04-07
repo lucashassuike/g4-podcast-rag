@@ -1,0 +1,406 @@
+{
+  "episode_id": "34748488606",
+  "title": "Rodolfo Medina - Bastidores do Rock In Rio, Desafios de gerenciar grandes eventos e Mercado de entretenimento | Podcast Extremos",
+  "date_published": 1681332135,
+  "duration": 5419,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Rodolfo Medina",
+      "role": "guest",
+      "company": "Grupo Dreamers",
+      "title": "Presidente"
+    },
+    {
+      "name": "Roberto Medina",
+      "role": "mentioned",
+      "company": "Artplan",
+      "title": "Fundador"
+    },
+    {
+      "name": "Luiz Justo",
+      "role": "mentioned",
+      "company": "Rock in Rio",
+      "title": "Líder de equipe"
+    },
+    {
+      "name": "Prince",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artista"
+    },
+    {
+      "name": "Justin Bieber",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artista"
+    },
+    {
+      "name": "Drake",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artista"
+    },
+    {
+      "name": "Eike Batista",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Geraldo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fábio Fernandes",
+      "role": "mentioned",
+      "company": "Artplan",
+      "title": ""
+    },
+    {
+      "name": "Nizam",
+      "role": "mentioned",
+      "company": "Artplan",
+      "title": ""
+    },
+    {
+      "name": "Neymato Grosso",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Grupo Dreamers",
+      "industry": "Comunicação e Entretenimento",
+      "context": "Grupo de comunicação com 17 empresas, incluindo Artplan e Rock in Rio."
+    },
+    {
+      "name": "Artplan",
+      "industry": "Publicidade",
+      "context": "Agência de publicidade fundada por Roberto Medina, parte do Grupo Dreamers."
+    },
+    {
+      "name": "Rock In Rio",
+      "industry": "Entretenimento",
+      "context": "Festival de música fundado como parte de uma campanha publicitária da Artplan."
+    },
+    {
+      "name": "The Town",
+      "industry": "Entretenimento",
+      "context": "Novo festival de música em São Paulo, organizado pelos mesmos criadores do Rock in Rio."
+    },
+    {
+      "name": "Salesforce",
+      "industry": "Tecnologia",
+      "context": "Software de gestão de relacionamento com clientes, patrocinador do podcast Extremos."
+    },
+    {
+      "name": "Black Dragons",
+      "industry": "Esportes Eletrônicos",
+      "context": "Time de eSports adquirido pelo Grupo Dreamers para explorar o mercado de games."
+    },
+    {
+      "name": "Game Coach",
+      "industry": "Publicidade e Games",
+      "context": "Agência criada pelo Grupo Dreamers e Black Dragons para narrativas de marca no universo de games."
+    },
+    {
+      "name": "Live Nation",
+      "industry": "Entretenimento",
+      "context": "Parceira do Rock in Rio"
+    },
+    {
+      "name": "Proseguro",
+      "industry": "Seguros",
+      "context": "Fornecedor ativando marca no Rock in Rio"
+    },
+    {
+      "name": "Protege",
+      "industry": "Segurança",
+      "context": "Recolhimento de dinheiro no Rock in Rio"
+    },
+    {
+      "name": "American Online",
+      "industry": "Tecnologia e Internet",
+      "context": "Patrocinador do Rock in Rio em 2001"
+    },
+    {
+      "name": "Extremos",
+      "industry": "Entretenimento",
+      "context": "Podcast mencionado no episódio"
+    },
+    {
+      "name": "Detal",
+      "industry": "Entretenimento",
+      "context": "Local ou evento mencionado no contexto de uma campanha"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão de crise",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Rebranding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Ecossistema empresarial",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Transformação digital",
+      "category": "Tecnologia e Negócios"
+    },
+    {
+      "name": "Patrocínio corporativo",
+      "category": "Marketing"
+    },
+    {
+      "name": "Gestão de grandes eventos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Ativação de marca",
+      "category": "Marketing"
+    },
+    {
+      "name": "Impacto econômico de eventos",
+      "category": "Economia"
+    },
+    {
+      "name": "Experiência do consumidor",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Ecossistema de negócios",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Diversificação de negócios",
+      "category": "Estratégia Empresarial"
+    }
+  ],
+  "books": [
+    {
+      "title": "Todos Somos Uma Marca",
+      "author": "Alfredo Soares"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1.500",
+      "context": "Número de funcionários do Grupo Dreamers."
+    },
+    {
+      "value": "17",
+      "context": "Número de empresas no Grupo Dreamers."
+    },
+    {
+      "value": "1.2 bilhões",
+      "context": "Impacto econômico do The Town em São Paulo"
+    },
+    {
+      "value": "20 mil empregos",
+      "context": "Gerados pelo The Town em São Paulo"
+    },
+    {
+      "value": "25 mil credenciados",
+      "context": "Trabalhando no Rock in Rio"
+    },
+    {
+      "value": "47 anos",
+      "context": "Idade de Rodolfo Medina"
+    },
+    {
+      "value": "1997",
+      "context": "Ano de operação do Rock in Rio Café"
+    },
+    {
+      "value": "36 anos",
+      "context": "História do Rock in Rio"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Roberto Medina",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Artplan",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodolfo Medina",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mariano",
+      "target_type": "person"
+    },
+    {
+      "source": "Rodolfo Medina",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Dreamers",
+      "target_type": "company"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Rock In Rio",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodolfo Medina",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Fábio Fernandes",
+      "target_type": "person"
+    },
+    {
+      "source": "Grupo Dreamers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Artplan",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodolfo Medina",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rock In Rio",
+      "target_type": "company"
+    },
+    {
+      "source": "Extremos",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Detal",
+      "target_type": "company"
+    },
+    {
+      "source": "Rock In Rio",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "American Online",
+      "target_type": "company"
+    },
+    {
+      "source": "Rock In Rio",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "The Town",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodolfo Medina",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Neymato Grosso",
+      "target_type": "person"
+    },
+    {
+      "source": "Grupo Dreamers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Game Coach",
+      "target_type": "company"
+    },
+    {
+      "source": "Artplan",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Grupo Dreamers",
+      "target_type": "company"
+    },
+    {
+      "source": "Artplan",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rock In Rio",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodolfo Medina",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Geraldo",
+      "target_type": "person"
+    },
+    {
+      "source": "Luiz Justo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rock In Rio",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodolfo Medina",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Roberto Medina",
+      "target_type": "person"
+    },
+    {
+      "source": "Roberto Medina",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Dreamers",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodolfo Medina",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nizam",
+      "target_type": "person"
+    },
+    {
+      "source": "Grupo Dreamers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Black Dragons",
+      "target_type": "company"
+    },
+    {
+      "source": "Roberto Medina",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rock In Rio",
+      "target_type": "company"
+    },
+    {
+      "source": "Live Nation",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rock In Rio",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "episode_id": "34748488547",
+  "title": "Como é o Planejamento dos Maiores Eventos do Brasil? - Com Joaquim Monteiro | Extremos",
+  "date_published": 1694593800,
+  "duration": 4576,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Joaquim Monteiro",
+      "role": "guest",
+      "company": "Rally dos Sertões",
+      "title": "Líder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Eduardo Paes",
+      "role": "mentioned",
+      "company": "Prefeitura do Rio de Janeiro",
+      "title": "Prefeito"
+    },
+    {
+      "name": "Maria Sílvia Marques",
+      "role": "mentioned",
+      "company": "BNDES",
+      "title": "Presidente"
+    },
+    {
+      "name": "Fred Gelli",
+      "role": "mentioned",
+      "company": "Tátil Design",
+      "title": "Fundador"
+    },
+    {
+      "name": "Júlio Capua",
+      "role": "mentioned",
+      "company": "",
+      "title": "Conselheiro"
+    },
+    {
+      "name": "Carlos Roberto Osório",
+      "role": "mentioned",
+      "company": "unknown",
+      "title": "unknown"
+    },
+    {
+      "name": "Nizam Guarnaz",
+      "role": "mentioned",
+      "company": "unknown",
+      "title": "unknown"
+    },
+    {
+      "name": "Jorge Paulo Lemann",
+      "role": "mentioned",
+      "company": "unknown",
+      "title": "unknown"
+    },
+    {
+      "name": "Eike Batista",
+      "role": "mentioned",
+      "company": "unknown",
+      "title": "unknown"
+    },
+    {
+      "name": "Barack Obama",
+      "role": "mentioned",
+      "company": "unknown",
+      "title": "President of the United States"
+    },
+    {
+      "name": "Marcos Moraes",
+      "role": "mentioned",
+      "company": "Rally dos Sertões",
+      "title": "Ex-organizador"
+    },
+    {
+      "name": "Mariana Becker",
+      "role": "mentioned",
+      "company": "Globo",
+      "title": "Jornalista"
+    },
+    {
+      "name": "Caio Castro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ator"
+    },
+    {
+      "name": "Leonora Guedes",
+      "role": "mentioned",
+      "company": "Sertões",
+      "title": "CEO"
+    },
+    {
+      "name": "Tunico Maciel",
+      "role": "mentioned",
+      "company": "Sertões",
+      "title": "Competidor"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Sertões",
+      "title": "Navegador"
+    },
+    {
+      "name": "Adriana Malé",
+      "role": "mentioned",
+      "company": "Unicamp",
+      "title": "Médica"
+    },
+    {
+      "name": "Sabine",
+      "role": "mentioned",
+      "company": "Unicamp",
+      "title": "Médica"
+    },
+    {
+      "name": "Fred",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa dos hosts do podcast e criadora do G4 Skills"
+    },
+    {
+      "name": "Rally Dos Sertões",
+      "industry": "Esportes e Eventos",
+      "context": "Evento liderado por Joaquim Monteiro"
+    },
+    {
+      "name": "Bndes",
+      "industry": "Financeiro",
+      "context": "Banco estatal brasileiro mencionado no contexto de liderança de Maria Sílvia Marques"
+    },
+    {
+      "name": "Prefeitura Do Rio De Janeiro",
+      "industry": "Administração Pública",
+      "context": "Entidade onde Joaquim Monteiro trabalhou como subsecretário"
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Platform used to purchase Brazilian flags"
+    },
+    {
+      "name": "Globo",
+      "industry": "Mídia e entretenimento",
+      "context": "Cobertura de eventos como o Rally dos Sertões"
+    },
+    {
+      "name": "Upl",
+      "industry": "Agronegócio",
+      "context": "Patrocinadora do Rally dos Sertões"
+    },
+    {
+      "name": "Aeris",
+      "industry": "Energia renovável",
+      "context": "Participação no rali de kite"
+    },
+    {
+      "name": "Weg",
+      "industry": "Energia e automação",
+      "context": "Potencial patrocinadora do Rally dos Sertões"
+    },
+    {
+      "name": "Sertões",
+      "industry": "Events and Sports",
+      "context": "Organizes rally and adventure sports events in Brazil"
+    },
+    {
+      "name": "Vivo",
+      "industry": "Telecommunications",
+      "context": "Sponsor of Sertões, providing connectivity during the event"
+    },
+    {
+      "name": "Brb (Banco De Brasília)",
+      "industry": "Banking",
+      "context": "Sponsor of Sertões, aiming to expand its brand beyond Brasília"
+    },
+    {
+      "name": "Mitsubishi",
+      "industry": "Automotive",
+      "context": "Long-term sponsor of Sertões"
+    },
+    {
+      "name": "Honda",
+      "industry": "Automotive",
+      "context": "Sponsor of Sertões"
+    },
+    {
+      "name": "H-Stern",
+      "industry": "Luxury Goods",
+      "context": "Sponsor of Sertões, transforming Brazilian natural treasures into jewelry"
+    },
+    {
+      "name": "Unicamp",
+      "industry": "Educação e Saúde",
+      "context": "Fornecimento de médicos voluntários para impacto social"
+    },
+    {
+      "name": "Einstein",
+      "industry": "Saúde",
+      "context": "Fornecimento de médicos voluntários para impacto social"
+    },
+    {
+      "name": "Sas",
+      "industry": "Saúde e assistência social",
+      "context": "Iniciativa social associada ao Sertões"
+    },
+    {
+      "name": "Philips Global",
+      "industry": "Tecnologia médica",
+      "context": "Apoia o SAS"
+    },
+    {
+      "name": "Mercedes",
+      "industry": "Automotivo",
+      "context": "Apoia o SAS"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Ferramenta de Educação"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Jogos Olímpicos",
+      "category": "Evento Internacional"
+    },
+    {
+      "name": "Rally de Kitesurf",
+      "category": "Esporte e Evento"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Business"
+    },
+    {
+      "name": "Eventos internacionais",
+      "category": "Business"
+    },
+    {
+      "name": "Segurança pública",
+      "category": "Public Administration"
+    },
+    {
+      "name": "Planejamento",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Logística militar",
+      "category": "Operações"
+    },
+    {
+      "name": "Promoção de destinos turísticos",
+      "category": "Marketing"
+    },
+    {
+      "name": "Síndrome de vira-lata",
+      "category": "Cultura e sociedade"
+    },
+    {
+      "name": "Tour de France",
+      "category": "Event"
+    },
+    {
+      "name": "COP",
+      "category": "Event"
+    },
+    {
+      "name": "Rio+",
+      "category": "Event"
+    },
+    {
+      "name": "Ironman",
+      "category": "Event"
+    },
+    {
+      "name": "Endurance Sports",
+      "category": "Sports"
+    },
+    {
+      "name": "E-bike",
+      "category": "Technology"
+    },
+    {
+      "name": "Waypoints",
+      "category": "Navigation"
+    },
+    {
+      "name": "Impacto Econômico",
+      "category": "Economia"
+    },
+    {
+      "name": "Impacto Social",
+      "category": "Responsabilidade Social"
+    },
+    {
+      "name": "Eventos Esportivos",
+      "category": "Entretenimento"
+    },
+    {
+      "name": "Telemedicina",
+      "category": "Saúde"
+    },
+    {
+      "name": "Planejamento de eventos",
+      "category": "Gestão"
+    },
+    {
+      "name": "ONG",
+      "category": "Organização"
+    },
+    {
+      "name": "Startup",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Gestão de processos",
+      "category": "Gestão"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "5 anos",
+      "context": "Tempo de liderança de Joaquim Monteiro no Rally dos Sertões"
+    },
+    {
+      "value": "2014",
+      "context": "Ano em que Joaquim Monteiro assumiu a Empresa Olímpica"
+    },
+    {
+      "value": "7 anos",
+      "context": "Duration of the Olympic planning process"
+    },
+    {
+      "value": "4 anos",
+      "context": "Execution phase of the Olympic planning process"
+    },
+    {
+      "value": "100",
+      "context": "Número de voluntários no Rally dos Sertões"
+    },
+    {
+      "value": "30 anos",
+      "context": "Tempo de existência do Rally dos Sertões"
+    },
+    {
+      "value": "27",
+      "context": "Número de participações de alguns voluntários no Rally dos Sertões"
+    },
+    {
+      "value": "2,500",
+      "context": "Number of participants in Sertões"
+    },
+    {
+      "value": "7,200 km",
+      "context": "Total distance covered in Sertões 2023"
+    },
+    {
+      "value": "15 billion dollars",
+      "context": "Amount spent by Brazilians abroad annually"
+    },
+    {
+      "value": "3.800 km",
+      "context": "Distância percorrida no rali Sertões deste ano"
+    },
+    {
+      "value": "1 milhão de reais por dia",
+      "context": "Impacto econômico gerado por cidade durante o evento Sertões"
+    },
+    {
+      "value": "3.000 pessoas",
+      "context": "Número de participantes e equipe envolvida no evento Sertões"
+    },
+    {
+      "value": "10 mil pessoas",
+      "context": "Beneficiadas pelos serviços médicos do SAS no ano passado"
+    },
+    {
+      "value": "80%",
+      "context": "Estradas de terra no Brasil"
+    },
+    {
+      "value": "20%",
+      "context": "Estradas asfaltadas no Brasil"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Carlos Roberto Osório",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jogos Olímpicos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vivo",
+      "source_type": "company",
+      "relation": "sponsors",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Joaquim Monteiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jogos Olímpicos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Brb (Banco De Brasília)",
+      "source_type": "company",
+      "relation": "sponsors",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Sas",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jogos Olímpicos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tunico Maciel",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Adriana Malé",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sas",
+      "target_type": "company"
+    },
+    {
+      "source": "H-Stern",
+      "source_type": "company",
+      "relation": "sponsors",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Sabine",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Unicamp",
+      "target_type": "company"
+    },
+    {
+      "source": "Nizam Guarnaz",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Joaquim Monteiro",
+      "target_type": "person"
+    },
+    {
+      "source": "Weg",
+      "source_type": "company",
+      "relation": "potential_sponsor",
+      "target": "Rally Dos Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Unicamp",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Einstein",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Joaquim Monteiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rally Dos Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Upl",
+      "source_type": "company",
+      "relation": "sponsors",
+      "target": "Rally Dos Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Philips Global",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sas",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercedes",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sas",
+      "target_type": "company"
+    },
+    {
+      "source": "Joaquim Monteiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Einstein",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sas",
+      "target_type": "company"
+    },
+    {
+      "source": "Sabine",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sas",
+      "target_type": "company"
+    },
+    {
+      "source": "Maria Sílvia Marques",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bndes",
+      "target_type": "company"
+    },
+    {
+      "source": "Mitsubishi",
+      "source_type": "company",
+      "relation": "sponsors",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Joaquim Monteiro",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Júlio Capua",
+      "target_type": "person"
+    },
+    {
+      "source": "Joaquim Monteiro",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Fred Gelli",
+      "target_type": "person"
+    },
+    {
+      "source": "Eduardo Paes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Prefeitura Do Rio De Janeiro",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcos Moraes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rally Dos Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Unicamp",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sas",
+      "target_type": "company"
+    },
+    {
+      "source": "Leonora Guedes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Aeris",
+      "source_type": "company",
+      "relation": "participates_in",
+      "target": "Rally Dos Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Adriana Malé",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Unicamp",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Joaquim Monteiro",
+      "target_type": "person"
+    },
+    {
+      "source": "Mariana Becker",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "Honda",
+      "source_type": "company",
+      "relation": "sponsors",
+      "target": "Sertões",
+      "target_type": "company"
+    }
+  ]
+}

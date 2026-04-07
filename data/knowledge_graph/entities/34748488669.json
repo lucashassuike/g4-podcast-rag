@@ -1,0 +1,297 @@
+{
+  "episode_id": "34748488669",
+  "title": "#008 - Escalando negócios com franquias com Paulo Morais e Ygor Moura, fundadores da Espaçolaser",
+  "date_published": 1603299507,
+  "duration": 2907,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Paulo Morais",
+      "role": "guest",
+      "company": "Espaçolaser",
+      "title": "Fundador"
+    },
+    {
+      "name": "Ygor Moura",
+      "role": "guest",
+      "company": "Espaçolaser",
+      "title": "Fundador"
+    },
+    {
+      "name": "Tito",
+      "role": "mentioned",
+      "company": "Espaçolaser",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Jorge Paulo Lemann",
+      "role": "mentioned",
+      "company": "Ambev",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Brito",
+      "role": "mentioned",
+      "company": "EBI",
+      "title": "Ex-CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Podcast e mentoria de negócios"
+    },
+    {
+      "name": "Espaçolaser",
+      "industry": "Estética e Beleza",
+      "context": "Rede de franquias de depilação a laser"
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Provedor de mapas e APIs"
+    },
+    {
+      "name": "Naver",
+      "industry": "Tecnologia",
+      "context": "Provedor de mapas na Coreia do Sul"
+    },
+    {
+      "name": "Cingu",
+      "industry": "Beleza e Estética",
+      "context": "Plataforma de serviços de beleza"
+    },
+    {
+      "name": "Bbank",
+      "industry": "Serviços Financeiros",
+      "context": "White label de banco utilizado pela CINGU"
+    },
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Mencionada em relação à gestão de relatórios por Jorge Paulo Lemann."
+    },
+    {
+      "name": "Ebi",
+      "industry": "Bebidas",
+      "context": "Empresa mencionada como exemplo de liderança"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Modelo de franquia",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Universidade do Laser",
+      "category": "Treinamento e desenvolvimento"
+    },
+    {
+      "name": "Crescimento acelerado",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Direito de preferência",
+      "category": "Regulação de franquias"
+    },
+    {
+      "name": "Modelo de Franquias",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Teoria do Batom",
+      "category": "Comportamento do Consumidor"
+    },
+    {
+      "name": "Indicadores de Desempenho",
+      "category": "Gestão de Negócios"
+    },
+    {
+      "name": "Indicadores de desempenho (KPIs)",
+      "category": "Gestão"
+    },
+    {
+      "name": "Franquias",
+      "category": "Modelos de Negócio"
+    },
+    {
+      "name": "Business Intelligence (BI)",
+      "category": "Tecnologia e Análise de Dados"
+    },
+    {
+      "name": "Playbook de Operações",
+      "category": "Gestão"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "KPIs",
+      "category": "Métricas de desempenho"
+    },
+    {
+      "name": "Transferência de know-how",
+      "category": "Estratégias de negócios"
+    },
+    {
+      "name": "Gestão regional",
+      "category": "Estratégias de negócios"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Conceitos gerais"
+    },
+    {
+      "name": "Decisões executivas",
+      "category": "Gestão empresarial"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "35 lojas",
+      "context": "Número de lojas da Espaçolaser em 2015"
+    },
+    {
+      "value": "558 lojas",
+      "context": "Número de lojas da Espaçolaser após 5 anos de crescimento"
+    },
+    {
+      "value": "100 horas",
+      "context": "Tempo mínimo de treinamento técnico na Universidade do Laser"
+    },
+    {
+      "value": "15% a 20%",
+      "context": "Rentabilidade esperada para franqueados após custos"
+    },
+    {
+      "value": "3 mil profissionais por ano",
+      "context": "Capacidade de formação da Universidade do Laser"
+    },
+    {
+      "value": "10% a 15%",
+      "context": "Margem líquida considerada boa para um negócio de franquia."
+    },
+    {
+      "value": "23 mil clientes",
+      "context": "Número de clientes mencionados em uma operação gerida por Ygor Moura."
+    },
+    {
+      "value": "23,000 clientes atendidos pessoalmente",
+      "context": "Experiência direta de Ygor Moura"
+    },
+    {
+      "value": "150 lojas vendidas no primeiro ano",
+      "context": "Expansão inicial da Espaçolaser"
+    },
+    {
+      "value": "500 lojas abertas em 5 anos",
+      "context": "Crescimento acelerado da Espaçolaser"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tito",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Espaçolaser",
+      "target_type": "company"
+    },
+    {
+      "source": "Ygor Moura",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Espaçolaser",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cingu",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Morais",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Espaçolaser",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Paulo Lemann",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Tito",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Espaçolaser",
+      "target_type": "company"
+    },
+    {
+      "source": "Espaçolaser",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Brito",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ebi",
+      "target_type": "company"
+    },
+    {
+      "source": "Espaçolaser",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Naver",
+      "target_type": "company"
+    },
+    {
+      "source": "Cingu",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Bbank",
+      "target_type": "company"
+    }
+  ]
+}

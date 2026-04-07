@@ -1,0 +1,269 @@
+{
+  "episode_id": "40897965185",
+  "title": "COMO A EDUCBANK ESTÁ REVOLUCIONANDO O CRÉDITO EDUCACIONAL NO BRASIL | PAPO DE GESTÃO",
+  "date_published": 1754319600,
+  "duration": 3669,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Fabiola Overhath",
+      "role": "guest",
+      "company": "EdukBank",
+      "title": "Fundadora"
+    },
+    {
+      "name": "Scott Pippen",
+      "role": "mentioned",
+      "company": "Chicago Bulls",
+      "title": "Basketball Player"
+    },
+    {
+      "name": "Michael Jordan",
+      "role": "mentioned",
+      "company": "Chicago Bulls",
+      "title": "Basketball Player"
+    },
+    {
+      "name": "Francisco",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Clarice",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Edukbank",
+      "industry": "Serviços financeiros",
+      "context": "Empresa focada em crédito educacional e gestão financeira para escolas."
+    },
+    {
+      "name": "G4 Podcast",
+      "industry": "Mídia e Educação",
+      "context": "Podcast que aborda temas de negócios e gestão."
+    },
+    {
+      "name": "Eduqbank",
+      "industry": "Financial Services",
+      "context": "Provides educational credit solutions for schools."
+    },
+    {
+      "name": "Chicago Bulls",
+      "industry": "Sports",
+      "context": "Professional basketball team."
+    },
+    {
+      "name": "Nike",
+      "industry": "Retail",
+      "context": "Sportswear and equipment company."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Beverages",
+      "context": "Previous employer of the guest"
+    },
+    {
+      "name": "Eduque Bank",
+      "industry": "Educational Finance",
+      "context": "Main topic of discussion"
+    },
+    {
+      "name": "Cogna",
+      "industry": "Education",
+      "context": "Investor in Eduque Bank"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Receita Garantida",
+      "category": "Produto financeiro"
+    },
+    {
+      "name": "Fluxo de caixa",
+      "category": "Gestão financeira"
+    },
+    {
+      "name": "Inadimplência",
+      "category": "Gestão financeira"
+    },
+    {
+      "name": "Rematrícula",
+      "category": "Educação"
+    },
+    {
+      "name": "Motor de crédito",
+      "category": "Tecnologia financeira"
+    },
+    {
+      "name": "Take rate",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Planejamento financeiro",
+      "category": "Gestão financeira"
+    },
+    {
+      "name": "Customer Success Management (CSM)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Equity Round",
+      "category": "Finance"
+    },
+    {
+      "name": "Debt Round",
+      "category": "Finance"
+    },
+    {
+      "name": "Default Rate",
+      "category": "Finance"
+    },
+    {
+      "name": "Productivity Optimization",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Debt Financing",
+      "category": "Financial Strategy"
+    },
+    {
+      "name": "Series B Funding",
+      "category": "Investment Stage"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Last Dance",
+      "author": "Michael Tollin"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "600",
+      "context": "Número de escolas atendidas pelo EdukBank no Brasil."
+    },
+    {
+      "value": "600 schools",
+      "context": "Number of schools served by EduqBank."
+    },
+    {
+      "value": "30 people",
+      "context": "Size of EduqBank's operations team."
+    },
+    {
+      "value": "90 people",
+      "context": "Total team size at EduqBank."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Edukbank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Motor De Crédito",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eduque Bank",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Cogna",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiola Overhath",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Edukbank",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Edukbank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Fluxo De Caixa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Edukbank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Take Rate",
+      "target_type": "concept"
+    },
+    {
+      "source": "Scott Pippen",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Michael Jordan",
+      "target_type": "person"
+    },
+    {
+      "source": "Edukbank",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Serviços Financeiros",
+      "target_type": "company"
+    },
+    {
+      "source": "Edukbank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Inadimplência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Michael Jordan",
+      "source_type": "person",
+      "relation": "endorsed_by",
+      "target": "Nike",
+      "target_type": "company"
+    },
+    {
+      "source": "Eduqbank",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Educational Credit",
+      "target_type": "company"
+    },
+    {
+      "source": "Edukbank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Planejamento Financeiro",
+      "target_type": "concept"
+    },
+    {
+      "source": "Edukbank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rematrícula",
+      "target_type": "concept"
+    },
+    {
+      "source": "Edukbank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Receita Garantida",
+      "target_type": "concept"
+    }
+  ]
+}

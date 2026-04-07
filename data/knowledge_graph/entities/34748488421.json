@@ -1,0 +1,417 @@
+{
+  "episode_id": "34748488421",
+  "title": "CRIATIVIDADE E INOVAÇÃO A SERVIÇO DOS NEGÓCIOS - COM HUGO RODRIGUES (MCCANN) | EXTREMOS",
+  "date_published": 1719390600,
+  "duration": 5531,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Hugo Rodrigues",
+      "role": "guest",
+      "company": "McCann Worldgroup",
+      "title": "Chairman"
+    },
+    {
+      "name": "Nizan Guanaes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Publicitário"
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "Apple",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Caíto Ortiz",
+      "role": "mentioned",
+      "company": "",
+      "title": "Director"
+    },
+    {
+      "name": "Pedro Beck",
+      "role": "mentioned",
+      "company": "",
+      "title": "Director"
+    },
+    {
+      "name": "Nizão",
+      "role": "mentioned",
+      "company": "",
+      "title": "Creative"
+    },
+    {
+      "name": "Humberto Saraiva",
+      "role": "mentioned",
+      "company": "Habib's",
+      "title": "Empresário"
+    },
+    {
+      "name": "Sebastião Bonfim",
+      "role": "mentioned",
+      "company": "Centauro",
+      "title": "Empresário"
+    },
+    {
+      "name": "Liliana Alfiero",
+      "role": "mentioned",
+      "company": "Lupo",
+      "title": "Empresária"
+    },
+    {
+      "name": "Rodrigo Faro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Apresentador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Empresa organizadora do podcast e programas de desenvolvimento empresarial mencionados."
+    },
+    {
+      "name": "Mccann Worldgroup",
+      "industry": "Publicidade e Comunicação",
+      "context": "Empresa onde Hugo Rodrigues atua como chairman."
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia e Eletrônicos",
+      "context": "Mencionada em contexto de campanhas publicitárias históricas."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia e Software",
+      "context": "Mencionada em contexto de campanhas publicitárias históricas."
+    },
+    {
+      "name": "Vitex",
+      "industry": "Tecnologia e Comércio Eletrônico",
+      "context": "Mencionada como exemplo de inspiração em campanhas publicitárias."
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Mentioned in relation to Tallis Gomes' entrepreneurial journey"
+    },
+    {
+      "name": "Yakult",
+      "industry": "Food and Beverage",
+      "context": "Discussed as an example of a company with a steady market presence"
+    },
+    {
+      "name": "Chevrolet",
+      "industry": "Automotive",
+      "context": "Mentioned in relation to marketing campaigns"
+    },
+    {
+      "name": "Coelho Da Fonseca",
+      "industry": "Real Estate",
+      "context": "Mentioned in relation to Hugo Rodrigues' early career"
+    },
+    {
+      "name": "Begônia Flores",
+      "industry": "Florista",
+      "context": "Empresa para a qual Hugo Rodrigues criou um anúncio"
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Mencionado em relação a anúncios e search"
+    },
+    {
+      "name": "Facebook",
+      "industry": "Tecnologia",
+      "context": "Mencionado em relação a mídias de performance"
+    },
+    {
+      "name": "Publicis",
+      "industry": "Publicidade",
+      "context": "Empresa onde Hugo Rodrigues trabalhou"
+    },
+    {
+      "name": "Mccann",
+      "industry": "Publicidade",
+      "context": "Empresa onde Hugo Rodrigues é presidente"
+    },
+    {
+      "name": "Ipg",
+      "industry": "Publicidade",
+      "context": "Grupo ao qual a McCann pertence"
+    },
+    {
+      "name": "Habib'S",
+      "industry": "Alimentação",
+      "context": "Empresa mencionada como exemplo de empreendedorismo brasileiro"
+    },
+    {
+      "name": "Centauro",
+      "industry": "Varejo esportivo",
+      "context": "Empresa mencionada como exemplo de empreendedorismo brasileiro"
+    },
+    {
+      "name": "Lupo",
+      "industry": "Confecção",
+      "context": "Empresa mencionada como exemplo de empreendedorismo brasileiro"
+    },
+    {
+      "name": "Betano",
+      "industry": "Betting",
+      "context": "Mentioned in the context of sponsorships and societal impact."
+    },
+    {
+      "name": "Real Madrid",
+      "industry": "Sports",
+      "context": "Mentioned in the context of sponsorships by betting companies."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "70-20-10",
+      "category": "Estratégia de Alocação de Recursos"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Gestão e Estratégia",
+      "category": "Educação Empresarial"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Challenger Brands",
+      "category": "Estratégia de Mercado"
+    },
+    {
+      "name": "Identity and Authenticity",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Market Share",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Advertising Campaigns",
+      "category": "Marketing"
+    },
+    {
+      "name": "Publicity",
+      "category": "Marketing"
+    },
+    {
+      "name": "Simplification in Communication",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Verba de marketing",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Mídias de performance",
+      "category": "Publicidade"
+    },
+    {
+      "name": "Economia digital",
+      "category": "Economia"
+    },
+    {
+      "name": "Regulamentação",
+      "category": "Política e economia"
+    },
+    {
+      "name": "Criatividade responsável",
+      "category": "Publicidade"
+    },
+    {
+      "name": "Mercado de apostas",
+      "category": "Indústria"
+    },
+    {
+      "name": "Digitalization",
+      "category": "Technology"
+    },
+    {
+      "name": "Betting Industry",
+      "category": "Business"
+    },
+    {
+      "name": "Advertising Market",
+      "category": "Business"
+    },
+    {
+      "name": "Capitalism",
+      "category": "Economics"
+    },
+    {
+      "name": "Wealth Inequality",
+      "category": "Economics"
+    }
+  ],
+  "books": [
+    {
+      "title": "Livro com participação de Nizan Guanaes",
+      "author": "Hugo Rodrigues"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "10 milhões de reais por ano",
+      "context": "Faturamento mínimo para participação no programa de gestão e estratégia do G4 Educação."
+    },
+    {
+      "value": "70%",
+      "context": "Percentage of functional illiteracy in Brazil"
+    },
+    {
+      "value": "3%",
+      "context": "Percentual máximo do faturamento que grandes empresas globais investem em marketing"
+    },
+    {
+      "value": "10 milhões",
+      "context": "Exemplo de faturamento anual usado para cálculo de verba de marketing"
+    },
+    {
+      "value": "300 mil reais",
+      "context": "Valor correspondente a 3% de 10 milhões de faturamento anual"
+    },
+    {
+      "value": "100 million reais",
+      "context": "Described as a significant advertising account value in Brazil."
+    },
+    {
+      "value": "500 million reais",
+      "context": "Annual investment by major betting companies."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Apple",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Humberto Saraiva",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Habib'S",
+      "target_type": "company"
+    },
+    {
+      "source": "Liliana Alfiero",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Lupo",
+      "target_type": "company"
+    },
+    {
+      "source": "Hugo Rodrigues",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Livro Com Participação De Nizan Guanaes",
+      "target_type": "company"
+    },
+    {
+      "source": "Hugo Rodrigues",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mccann Worldgroup",
+      "target_type": "company"
+    },
+    {
+      "source": "Sebastião Bonfim",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Centauro",
+      "target_type": "company"
+    },
+    {
+      "source": "Hugo Rodrigues",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mccann",
+      "target_type": "company"
+    },
+    {
+      "source": "Betano",
+      "source_type": "company",
+      "relation": "sponsors",
+      "target": "Real Madrid",
+      "target_type": "company"
+    },
+    {
+      "source": "Hugo Rodrigues",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Publicis",
+      "target_type": "company"
+    }
+  ]
+}

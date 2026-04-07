@@ -1,0 +1,272 @@
+{
+  "episode_id": "34748488621",
+  "title": "Caio Carneiro - Preconceito com Vendas, Saúde Mental e Ironman | Extremos Podcast",
+  "date_published": 1677088513,
+  "duration": 4934,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Caio Carneiro",
+      "role": "guest",
+      "company": "Bora Vender",
+      "title": "Capitão"
+    },
+    {
+      "name": "Flávio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Flávio Augusto Da Silva",
+      "role": "mentioned",
+      "company": "Wiser Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Paulo Vieira",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Mariana",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Otávio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Salesforce",
+      "industry": "Technology",
+      "context": "Parceria com o podcast Extremos"
+    },
+    {
+      "name": "Vents",
+      "industry": "Sales",
+      "context": "Founded by Caio Carneiro and later acquired by Wiser Educação"
+    },
+    {
+      "name": "Wiser Educação",
+      "industry": "Education",
+      "context": "Owned Buzz Editora and acquired Vents"
+    },
+    {
+      "name": "Buzz Editora",
+      "industry": "Publishing",
+      "context": "Published Caio Carneiro's book 'Seja Foda'"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts the G4 Podcast"
+    },
+    {
+      "name": "Vente",
+      "industry": "Education",
+      "context": "Discussed as a business founded by Caio Carneiro"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "ansiedade",
+      "category": "mental health"
+    },
+    {
+      "name": "burnout",
+      "category": "mental health"
+    },
+    {
+      "name": "vendas",
+      "category": "business"
+    },
+    {
+      "name": "empreendedorismo",
+      "category": "business"
+    },
+    {
+      "name": "gestão de clientes",
+      "category": "business"
+    },
+    {
+      "name": "Sales Motivation",
+      "category": "Strategy"
+    },
+    {
+      "name": "Leadership in Sales",
+      "category": "Strategy"
+    },
+    {
+      "name": "Social Media as a Tool",
+      "category": "Strategy"
+    },
+    {
+      "name": "Binômio da Felicidade",
+      "category": "Philosophy"
+    },
+    {
+      "name": "humanização dos negócios",
+      "category": "business strategy"
+    },
+    {
+      "name": "memórias afetivas",
+      "category": "personal development"
+    },
+    {
+      "name": "rotina de demonstração de afeto",
+      "category": "personal development"
+    },
+    {
+      "name": "personificação de marcas",
+      "category": "branding"
+    },
+    {
+      "name": "estratégia de longo prazo",
+      "category": "business strategy"
+    },
+    {
+      "name": "10, 10, 10 framework",
+      "category": "decision-making framework"
+    }
+  ],
+  "books": [
+    {
+      "title": "Seja Foda",
+      "author": "Caio Carneiro"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "Dezenas de milhares",
+      "context": "Number of distributors in Caio Carneiro's sales team"
+    },
+    {
+      "value": "7 anos",
+      "context": "Idade da filha de Caio Carneiro"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Buzz Editora",
+      "source_type": "company",
+      "relation": "published",
+      "target": "Seja Foda",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Otávio",
+      "target_type": "person"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estratégia De Longo Prazo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Personificação De Marcas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Wiser Educação",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Vents",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bora Vender",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vente",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mariana",
+      "target_type": "person"
+    },
+    {
+      "source": "Flávio Augusto Da Silva",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Wiser Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vents",
+      "target_type": "company"
+    },
+    {
+      "source": "Salesforce",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gestão De Clientes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "10, 10, 10 Framework",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caio Carneiro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Humanização Dos Negócios",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "episode_id": "41017441422",
+  "title": "[CORTE] “NÃO EXISTE FÓRMULA!” FELIPE PENONI SOBRE A CRIAÇÃO DE CONTEÚDO",
+  "date_published": 1754600400,
+  "duration": 897,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Felipe Penoni",
+      "role": "guest",
+      "company": "",
+      "title": "Especialista em criação de conteúdo"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor e host do G4 Podcast"
+    },
+    {
+      "name": "Fátima Bernardes",
+      "role": "mentioned",
+      "company": "Rede Globo",
+      "title": "Apresentadora"
+    },
+    {
+      "name": "Henrique Madereite",
+      "role": "mentioned",
+      "company": "",
+      "title": "Criador de conteúdo"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e negócios",
+      "context": "Plataforma de educação e negócios mencionada no podcast"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Criação de conteúdo",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Retenção de audiência",
+      "category": "Métrica de performance"
+    },
+    {
+      "name": "Autenticidade",
+      "category": "Qualidade de conteúdo"
+    },
+    {
+      "name": "Algoritmo de redes sociais",
+      "category": "Tecnologia e marketing"
+    },
+    {
+      "name": "Persistência",
+      "category": "Habilidade pessoal"
+    },
+    {
+      "name": "Mentalidade de criador",
+      "category": "Habilidade pessoal"
+    }
+  ],
+  "books": [],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Felipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Persistência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Algoritmo De Redes Sociais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Felipe Penoni",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Retenção De Audiência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Felipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mentalidade De Criador",
+      "target_type": "concept"
+    },
+    {
+      "source": "Felipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autenticidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Felipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Criação De Conteúdo",
+      "target_type": "concept"
+    }
+  ]
+}

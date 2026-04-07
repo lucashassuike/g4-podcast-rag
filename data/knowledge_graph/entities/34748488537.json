@@ -1,0 +1,672 @@
+{
+  "episode_id": "34748488537",
+  "title": "Por Trás do Maior Ecossistema de Entretenimento do País - Com Bruno Dias | Papo de Gestão",
+  "date_published": 1696235400,
+  "duration": 4437,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Dias",
+      "role": "guest",
+      "company": "Grupo Uma Uma",
+      "title": "Fundador"
+    },
+    {
+      "name": "Felipe",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Pierre",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Fabinho",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Guga",
+      "role": "mentioned",
+      "company": "Grupo Uma Uma",
+      "title": "Sócio e DJ"
+    },
+    {
+      "name": "Ludmilla",
+      "role": "mentioned",
+      "company": "Manaice",
+      "title": "Parceira em evento"
+    },
+    {
+      "name": "Amanda",
+      "role": "mentioned",
+      "company": "",
+      "title": "Esposa do host"
+    },
+    {
+      "name": "Jennifer",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Head de Eventos"
+    },
+    {
+      "name": "Arianna Huffington",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Matthew Walker",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de treinamentos e educação corporativa."
+    },
+    {
+      "name": "Grupo Uma Uma",
+      "industry": "Entretenimento e Eventos",
+      "context": "Empresa que reúne diversas marcas e realiza eventos corporativos e de entretenimento."
+    },
+    {
+      "name": "Burger King",
+      "industry": "Alimentação",
+      "context": "Participou de ações de divulgação do filme Barbie."
+    },
+    {
+      "name": "Budweiser",
+      "industry": "Bebidas",
+      "context": "Cliente do Grupo Uma Uma para eventos corporativos."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Cliente corporativo do Grupo Uma Uma."
+    },
+    {
+      "name": "Hyundai",
+      "industry": "Automotivo",
+      "context": "Patrocinador em eventos realizados pelo Grupo Uma Uma."
+    },
+    {
+      "name": "Sony",
+      "industry": "Eletrônicos",
+      "context": "Patrocinador em eventos realizados pelo Grupo Uma Uma."
+    },
+    {
+      "name": "Samsung",
+      "industry": "Eletrônicos",
+      "context": "Patrocinador em eventos realizados pelo Grupo Uma Uma."
+    },
+    {
+      "name": "Halt",
+      "industry": "Entretenimento",
+      "context": "Parte da fusão mencionada no grupo"
+    },
+    {
+      "name": "Fish",
+      "industry": "Entretenimento",
+      "context": "Parte da fusão mencionada no grupo"
+    },
+    {
+      "name": "Briefing",
+      "industry": "Agência de DJs",
+      "context": "Parte da fusão mencionada no grupo"
+    },
+    {
+      "name": "Cigarra",
+      "industry": "Comunicação",
+      "context": "Agência de comunicação criada durante a pandemia"
+    },
+    {
+      "name": "Ambev & Co",
+      "industry": "Bebidas",
+      "context": "Expansão de serviços para clientes relacionados à Ambev"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Delivery de alimentos",
+      "context": "Cliente mencionado em relação à unidade corporativa de marcas"
+    },
+    {
+      "name": "Diageo",
+      "industry": "Bebidas alcoólicas",
+      "context": "Cliente mencionado em relação à unidade corporativa de marcas"
+    },
+    {
+      "name": "Nuz",
+      "industry": "Conteúdo",
+      "context": "Nova plataforma de conteúdo do grupo"
+    },
+    {
+      "name": "Meta",
+      "industry": "Tecnologia",
+      "context": "Cliente mencionado em relação ao Lollapalooza"
+    },
+    {
+      "name": "Netflix",
+      "industry": "Streaming",
+      "context": "Cliente mencionado em relação ao evento Tudum"
+    },
+    {
+      "name": "Bud Zero",
+      "industry": "Bebidas",
+      "context": "Cliente mencionado em relação ao evento Tudum"
+    },
+    {
+      "name": "Fich",
+      "industry": "Entretenimento",
+      "context": "Empresa que participou da fusão para formar o Grupo Uma Uma"
+    },
+    {
+      "name": "Manaice",
+      "industry": "Entretenimento",
+      "context": "Evento em parceria com Ludmilla"
+    },
+    {
+      "name": "Ambev & Co.",
+      "industry": "Bebidas",
+      "context": "Núcleo de negócios dentro do Grupo Uma Uma"
+    },
+    {
+      "name": "Fishfire",
+      "industry": "Entretenimento",
+      "context": "Organização de eventos e restaurantes"
+    },
+    {
+      "name": "Maluma",
+      "industry": "Entretenimento",
+      "context": "Grupo empresarial focado em eventos e gastronomia"
+    },
+    {
+      "name": "Rancho Churrascada",
+      "industry": "Gastronomia e hospitalidade",
+      "context": "Projeto de hotel fazenda com restaurante e outras atividades"
+    },
+    {
+      "name": "Churrascada",
+      "industry": "Gastronomia",
+      "context": "Restaurante especializado em carnes e eventos relacionados"
+    },
+    {
+      "name": "Hout",
+      "industry": "Entertainment",
+      "context": "Organização de eventos e festivais"
+    },
+    {
+      "name": "Jhsf",
+      "industry": "Real Estate",
+      "context": "Parceira em eventos realizados no Fasano"
+    },
+    {
+      "name": "Corona",
+      "industry": "Beverages",
+      "context": "Organizadora do selo global de festas Corona Sunsets"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão Horizontal",
+      "category": "Estratégia de Gestão"
+    },
+    {
+      "name": "Eventos Corporativos",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Entretenimento",
+      "category": "Indústria"
+    },
+    {
+      "name": "Marketing de Influência",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Amplificação de marca",
+      "category": "Marketing"
+    },
+    {
+      "name": "Back office",
+      "category": "Operações empresariais"
+    },
+    {
+      "name": "Fusão de empresas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Contrato social",
+      "category": "Governança corporativa"
+    },
+    {
+      "name": "Acordo de acionistas",
+      "category": "Governança corporativa"
+    },
+    {
+      "name": "Joint venture",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Treinamento de sucessores",
+      "category": "Gestão"
+    },
+    {
+      "name": "Off-site com coach",
+      "category": "Desenvolvimento organizacional"
+    },
+    {
+      "name": "Soft Skills",
+      "category": "Habilidades"
+    },
+    {
+      "name": "Hard Skills",
+      "category": "Habilidades"
+    },
+    {
+      "name": "Gestão Estratégica",
+      "category": "Gestão"
+    },
+    {
+      "name": "Collabs entre Núcleos",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Máximo global",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Mini festivais",
+      "category": "Estratégia de eventos"
+    },
+    {
+      "name": "Expansão orgânica",
+      "category": "Estratégia de crescimento"
+    },
+    {
+      "name": "Ecossistema de entretenimento",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Logística de eventos",
+      "category": "Operations"
+    },
+    {
+      "name": "Metrificação de sucesso",
+      "category": "Performance Metrics"
+    },
+    {
+      "name": "Gestão de pessoas",
+      "category": "Leadership"
+    },
+    {
+      "name": "Qualidade de vida",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Terceira Medida do Sucesso",
+      "author": "Arianna Huffington"
+    },
+    {
+      "title": "Por Que Dormimos",
+      "author": "Matthew Walker"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "200 projetos por ano",
+      "context": "Número de eventos realizados pelo Grupo Uma Uma."
+    },
+    {
+      "value": "560 pessoas",
+      "context": "Capacidade de público na Bud Mansion."
+    },
+    {
+      "value": "12 unidades de negócio",
+      "context": "Número de núcleos/agências no grupo"
+    },
+    {
+      "value": "9 sócios",
+      "context": "Número de sócios fundadores após fusão"
+    },
+    {
+      "value": "170 colaboradores",
+      "context": "Tamanho atual da equipe do Grupo Uma Uma"
+    },
+    {
+      "value": "40 colaboradores",
+      "context": "Tamanho da equipe do Grupo Uma Uma antes da fusão"
+    },
+    {
+      "value": "2009",
+      "context": "Ano de fundação da Halt"
+    },
+    {
+      "value": "36",
+      "context": "Número de DJs contratados pela agência Briefing"
+    },
+    {
+      "value": "30%",
+      "context": "Meta de crescimento anual do grupo Maluma"
+    },
+    {
+      "value": "170",
+      "context": "Número de funcionários do grupo Maluma após 6 anos"
+    },
+    {
+      "value": "150,000",
+      "context": "Público do evento Arena Brasileira no Ibirapuera"
+    },
+    {
+      "value": "45,000",
+      "context": "Público do evento Numanás no Engenhão"
+    },
+    {
+      "value": "30,000",
+      "context": "Público mensal no restaurante Churrascada"
+    },
+    {
+      "value": "30 mil pessoas",
+      "context": "Participação em evento em São Paulo"
+    },
+    {
+      "value": "15 anos",
+      "context": "Tempo de realização do Réveillon de Trancoso"
+    },
+    {
+      "value": "30% de crescimento",
+      "context": "Meta de crescimento anual para a Fazenda Churrascada"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Grupo Uma Uma",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Halt",
+      "target_type": "company"
+    },
+    {
+      "source": "Jennifer",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Hout",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Jhsf",
+      "target_type": "company"
+    },
+    {
+      "source": "Pierre",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Fishfire",
+      "target_type": "company"
+    },
+    {
+      "source": "Nuz",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Netflix",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Uma Uma",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Fich",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rancho Churrascada",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev & Co",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Diageo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Dias",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ambev & Co",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Uma Uma",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Burger King",
+      "target_type": "company"
+    },
+    {
+      "source": "Rancho Churrascada",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Churrascada",
+      "target_type": "company"
+    },
+    {
+      "source": "Ludmilla",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Manaice",
+      "target_type": "company"
+    },
+    {
+      "source": "Nuz",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Meta",
+      "target_type": "company"
+    },
+    {
+      "source": "Halt",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Fish",
+      "target_type": "company"
+    },
+    {
+      "source": "Fishfire",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Maluma",
+      "target_type": "company"
+    },
+    {
+      "source": "Hout",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Corona",
+      "target_type": "company"
+    },
+    {
+      "source": "A Terceira Medida Do Sucesso",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Por Que Dormimos",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Uma Uma",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Entretenimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Halt",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Briefing",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev & Co",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Nuz",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Burger King",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Uma Uma",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Fish",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Briefing",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Dias",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Uma Uma",
+      "target_type": "company"
+    },
+    {
+      "source": "Nuz",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Bud Zero",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabinho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Uma Uma",
+      "target_type": "company"
+    },
+    {
+      "source": "Guga",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Uma Uma",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Uma Uma",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Eventos Corporativos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Grupo Uma Uma",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Budweiser",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Dias",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Uma Uma",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev & Co.",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Bebidas",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Dias",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Maluma",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Dias",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hout",
+      "target_type": "company"
+    }
+  ]
+}

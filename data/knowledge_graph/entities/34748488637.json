@@ -1,0 +1,409 @@
+{
+  "episode_id": "34748488637",
+  "title": "Como ser um líder de alta performance com Fabio Gurgel | Papo de Gestão com Tallis Gomes",
+  "date_published": 1661763636,
+  "duration": 4479,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Fábio Gurgel",
+      "role": "guest",
+      "company": "Alliance Association",
+      "title": "CEO"
+    },
+    {
+      "name": "Gigi",
+      "role": "mentioned",
+      "company": "Alliance Association",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Jacaré",
+      "role": "mentioned",
+      "company": "Alliance Association",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fabio Gurgel",
+      "role": "guest",
+      "company": "Aliança",
+      "title": "Professor de Jiu-Jitsu"
+    },
+    {
+      "name": "Michael Phelps",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta olímpico"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Podcast host and business education"
+    },
+    {
+      "name": "Alliance Association",
+      "industry": "Fitness and Martial Arts",
+      "context": "Global jiu-jitsu academy network"
+    },
+    {
+      "name": "Aliança",
+      "industry": "Esportes e Educação",
+      "context": "Organização de Jiu-Jitsu mencionada como exemplo de gestão e formação de professores."
+    },
+    {
+      "name": "Federação Internacional De Jiu-Jitsu",
+      "industry": "Esportes",
+      "context": "Organização que realiza eventos globais de Jiu-Jitsu."
+    },
+    {
+      "name": "Nike",
+      "industry": "Varejo e Moda",
+      "context": "Exemplo de marca com forte senso de pertencimento."
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Exemplo de marca com forte senso de pertencimento."
+    },
+    {
+      "name": "Alliance Jiu-Jitsu",
+      "industry": "Sports and Fitness",
+      "context": "Discussed in relation to organizational culture and leadership."
+    },
+    {
+      "name": "Mcdonald'S",
+      "industry": "Food and Beverage",
+      "context": "Mentioned as an example of standardized global branding."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Leadership",
+      "category": "Management"
+    },
+    {
+      "name": "High Performance",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Methodology",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Law Enforcement Training",
+      "category": "Specialized Training"
+    },
+    {
+      "name": "Flagship Model",
+      "category": "Business Expansion"
+    },
+    {
+      "name": "Directly Responsible Individual (DRI)",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Responsible Individual",
+      "category": "Gestão"
+    },
+    {
+      "name": "Margem de Contribuição",
+      "category": "Finanças"
+    },
+    {
+      "name": "Pertencimento",
+      "category": "Branding"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métricas de Negócio"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Métricas de Negócio"
+    },
+    {
+      "name": "Alinhamento de Valores",
+      "category": "Gestão"
+    },
+    {
+      "name": "Código de Cultura",
+      "category": "Gestão"
+    },
+    {
+      "name": "Organizational Culture",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Metrics"
+    },
+    {
+      "name": "CX (Customer Experience)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Alignment of Values",
+      "category": "Leadership Principles"
+    },
+    {
+      "name": "Decision Making",
+      "category": "Management"
+    },
+    {
+      "name": "Courage",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Coragem",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Gestão de Emoções",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Mentoria Empresarial",
+      "category": "Educação e Negócios"
+    },
+    {
+      "name": "Networking",
+      "category": "Negócios"
+    },
+    {
+      "name": "Erro Operacional",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Códigos de Honra",
+      "category": "Ética e Valores"
+    },
+    {
+      "name": "Legado pessoal",
+      "category": "Estratégia de vida"
+    },
+    {
+      "name": "Ego equilibrado",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Vaidade",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Resultados e metas",
+      "category": "Gestão de desempenho"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Virtude do Egoísmo",
+      "author": "Ayn Rand"
+    },
+    {
+      "title": "Crime e Castigo",
+      "author": "Fyodor Dostoiévski"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "300 academies in 29 countries",
+      "context": "Scale of Alliance Association's operations"
+    },
+    {
+      "value": "75% drop in fitness market during pandemic",
+      "context": "Impact on fitness industry"
+    },
+    {
+      "value": "30% drop in jiu-jitsu market during pandemic",
+      "context": "Impact on jiu-jitsu industry"
+    },
+    {
+      "value": "75%",
+      "context": "Queda do mercado fitness durante a pandemia."
+    },
+    {
+      "value": "30%",
+      "context": "Queda do mercado de Jiu-Jitsu durante a pandemia."
+    },
+    {
+      "value": "83 países",
+      "context": "Alcance dos eventos da Federação Internacional de Jiu-Jitsu."
+    },
+    {
+      "value": "200 eventos por ano",
+      "context": "Frequência de eventos realizados pela Federação Internacional de Jiu-Jitsu."
+    },
+    {
+      "value": "92",
+      "context": "Score achieved in a test mentioned by Fabio Gurgel."
+    },
+    {
+      "value": "92",
+      "context": "Score inicial em um treino para uma prova."
+    },
+    {
+      "value": "95",
+      "context": "Score final obtido na prova após treinamento."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gigi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alliance Association",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio Gurgel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Alliance Association",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "Fabio Gurgel",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Resultados E Metas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alliance Association",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Fitness And Martial Arts",
+      "target_type": "company"
+    },
+    {
+      "source": "Aliança",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Federação Internacional De Jiu-Jitsu",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Crime E Castigo",
+      "target_type": "company"
+    },
+    {
+      "source": "Jacaré",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alliance Association",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Códigos De Honra",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nike",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alliance Jiu-Jitsu",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Michael Phelps",
+      "target_type": "person"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vaidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Legado Pessoal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ego Equilibrado",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aliança",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Gurgel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Alliance Jiu-Jitsu",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio Gurgel",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Alliance Association",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Law Enforcement Training",
+      "target_type": "concept"
+    }
+  ]
+}

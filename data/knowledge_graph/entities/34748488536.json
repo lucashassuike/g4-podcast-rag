@@ -1,0 +1,375 @@
+{
+  "episode_id": "34748488536",
+  "title": "Como ser Disruptivo e Criar Tendências no Varejo? - Com Caito Maia | Extremos",
+  "date_published": 1696323600,
+  "duration": 4899,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Caíto Maia",
+      "role": "guest",
+      "company": "Chili Beans",
+      "title": "CEO"
+    },
+    {
+      "name": "Caito Maia",
+      "role": "guest",
+      "company": "Tilibins",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Michael Jordan",
+      "role": "mentioned",
+      "company": "Jordan",
+      "title": "Brand Icon"
+    },
+    {
+      "name": "Mark Leman",
+      "role": "mentioned",
+      "company": "Jordan",
+      "title": "Investor"
+    },
+    {
+      "name": "Xamã",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artist"
+    },
+    {
+      "name": "Pedro Sampaio",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artist"
+    },
+    {
+      "name": "Priscila Alcântara",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artist"
+    },
+    {
+      "name": "Fiuk",
+      "role": "mentioned",
+      "company": "",
+      "title": "Event Host"
+    },
+    {
+      "name": "Denise",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Host company of the G4 Podcast and provider of the G4 Skills tool."
+    },
+    {
+      "name": "Chili Beans",
+      "industry": "Retail",
+      "context": "Company founded and led by Caíto Maia, specializing in eyewear and accessories."
+    },
+    {
+      "name": "Exóticas Chili Beans",
+      "industry": "Retail",
+      "context": "A new project by Caíto Maia launched during the pandemic."
+    },
+    {
+      "name": "Tilibins",
+      "industry": "Retail",
+      "context": "Discussed as a successful retail brand in Brazil."
+    },
+    {
+      "name": "Jordan",
+      "industry": "Sportswear",
+      "context": "Highlighted as a successful brand surpassing Adidas in value."
+    },
+    {
+      "name": "Nike",
+      "industry": "Sportswear",
+      "context": "Parent company of Jordan brand."
+    },
+    {
+      "name": "Adidas",
+      "industry": "Sportswear",
+      "context": "Compared to Jordan in terms of brand value."
+    },
+    {
+      "name": "Lululemon",
+      "industry": "Retail",
+      "context": "Discussed as a case study for community and experience-driven retail."
+    },
+    {
+      "name": "Patagonia",
+      "industry": "Retail",
+      "context": "Mentioned as a brand excelling in storytelling and product differentiation."
+    },
+    {
+      "name": "Gap",
+      "industry": "Retail",
+      "context": "Criticized for lack of product knowledge among staff."
+    },
+    {
+      "name": "Boticário",
+      "industry": "Retail",
+      "context": "One of the few stores remaining in a shopping mall since its opening."
+    },
+    {
+      "name": "Mcdonald'S",
+      "industry": "Food Service",
+      "context": "One of the few stores remaining in a shopping mall since its opening."
+    },
+    {
+      "name": "Zara",
+      "industry": "Retail",
+      "context": "Discussed as a phenomenon in attracting customers to shopping malls."
+    },
+    {
+      "name": "Track & Field",
+      "industry": "Retail",
+      "context": "Mentioned as a case study in community building."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "brand building",
+      "category": "Marketing"
+    },
+    {
+      "name": "pandemic business strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "creative inspiration",
+      "category": "Innovation"
+    },
+    {
+      "name": "Intercâmbio Intelectual",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Experiência do Cliente",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Varejo Multimarca",
+      "category": "Retail"
+    },
+    {
+      "name": "Capacitação de Vendedores",
+      "category": "Training"
+    },
+    {
+      "name": "História da Marca",
+      "category": "Branding"
+    },
+    {
+      "name": "Desconto como Estratégia",
+      "category": "Pricing Strategy"
+    },
+    {
+      "name": "Community Building",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Visual Merchandising",
+      "category": "Retail Strategy"
+    },
+    {
+      "name": "Agenda Setting",
+      "category": "Community Engagement"
+    }
+  ],
+  "books": [
+    {
+      "title": "Todos Somos Uma Marca",
+      "author": "Alfredo Soares"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1 billion",
+      "context": "Annual revenue of Chili Beans."
+    },
+    {
+      "value": "1,200",
+      "context": "Number of Chili Beans stores."
+    },
+    {
+      "value": "7 bilhões de dólares",
+      "context": "Faturamento da Lululemon."
+    },
+    {
+      "value": "350 lojas",
+      "context": "Número de lojas em um shopping de Florianópolis."
+    },
+    {
+      "value": "3 lojas",
+      "context": "Número de lojas que permaneceram desde a inauguração do shopping."
+    },
+    {
+      "value": "400 milhões de dólares por ano",
+      "context": "Rendimento de Michael Jordan com a marca Jordan."
+    },
+    {
+      "value": "18 million BRL/month",
+      "context": "Monthly sales of Zara's store in Iguatemi shopping mall."
+    },
+    {
+      "value": "250 influencers",
+      "context": "Number of influencers involved in Chili Beans' community event."
+    },
+    {
+      "value": "16",
+      "context": "Idade da Sofia, filha do primeiro casamento da Denise"
+    },
+    {
+      "value": "13",
+      "context": "Idade do Luca, filho do primeiro casamento de Caito Maia"
+    },
+    {
+      "value": "10",
+      "context": "Idade do Benício, filho do primeiro casamento de Caito Maia"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Michael Jordan",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Jordan",
+      "target_type": "company"
+    },
+    {
+      "source": "Mark Leman",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Jordan",
+      "target_type": "company"
+    },
+    {
+      "source": "Track & Field",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Community Building",
+      "target_type": "concept"
+    },
+    {
+      "source": "Caito Maia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Chili Beans",
+      "target_type": "company"
+    },
+    {
+      "source": "Todos Somos Uma Marca",
+      "source_type": "person",
+      "relation": "authored_by",
+      "target": "Alfredo Soares",
+      "target_type": "person"
+    },
+    {
+      "source": "Chili Beans",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Community Building",
+      "target_type": "concept"
+    },
+    {
+      "source": "Zara",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Visual Merchandising",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sofia",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Denise",
+      "target_type": "person"
+    },
+    {
+      "source": "Luca",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Caito Maia",
+      "target_type": "person"
+    },
+    {
+      "source": "Benício",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Caito Maia",
+      "target_type": "person"
+    },
+    {
+      "source": "Nike",
+      "source_type": "company",
+      "relation": "owns",
+      "target": "Jordan",
+      "target_type": "company"
+    },
+    {
+      "source": "Caito Maia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tilibins",
+      "target_type": "company"
+    },
+    {
+      "source": "Caíto Maia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Exóticas Chili Beans",
+      "target_type": "company"
+    },
+    {
+      "source": "Caíto Maia",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "Chili Beans",
+      "target_type": "company"
+    }
+  ]
+}

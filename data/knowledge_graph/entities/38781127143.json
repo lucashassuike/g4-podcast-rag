@@ -1,0 +1,699 @@
+{
+  "episode_id": "38781127143",
+  "title": "JON VLOGS REVELA OS SEGREDOS DO MUNDO DIGITAL | EXTREMOS",
+  "date_published": 1750248000,
+  "duration": 4541,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do G4 Podcast"
+    },
+    {
+      "name": "John Vlogs",
+      "role": "guest",
+      "company": "N/A",
+      "title": "Streamer e criador de conteúdo"
+    },
+    {
+      "name": "Luan Covarik",
+      "role": "guest",
+      "company": "N/A",
+      "title": "Identidade real de John Vlogs"
+    },
+    {
+      "name": "Thales",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do G4 Podcast"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do G4 Podcast"
+    },
+    {
+      "name": "Neymar",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Atleta profissional"
+    },
+    {
+      "name": "Jon Vlogs",
+      "role": "guest",
+      "company": "HypeBud",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Mrbeast",
+      "role": "mentioned",
+      "company": "YouTube",
+      "title": "Content Creator"
+    },
+    {
+      "name": "Beto Cantor",
+      "role": "mentioned",
+      "company": "Pinel Story",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Getúlio",
+      "role": "mentioned",
+      "company": "Pinel Story",
+      "title": "Amigo e Conector"
+    },
+    {
+      "name": "Adib",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Virginia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Boca Rosa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mika",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Felipe",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Samara",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Virginia Fonseca",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruninho",
+      "role": "mentioned",
+      "company": "Super Coffee",
+      "title": ""
+    },
+    {
+      "name": "Gabrielzinho",
+      "role": "mentioned",
+      "company": "Bold",
+      "title": ""
+    },
+    {
+      "name": "Jake Paul",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Justin Bieber",
+      "role": "mentioned",
+      "company": "",
+      "title": "Musician"
+    },
+    {
+      "name": "Balbi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Image Consultant"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Boale",
+      "title": "Entrepreneur"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e empreendedorismo",
+      "context": "Plataforma de empreendedorismo e negócios"
+    },
+    {
+      "name": "Nestlé",
+      "industry": "Alimentos e bebidas",
+      "context": "Exemplo de estratégia de marketing para novas gerações"
+    },
+    {
+      "name": "Blaze Brasil",
+      "industry": "iGaming",
+      "context": "Marketing and influencer campaigns"
+    },
+    {
+      "name": "Hypebud",
+      "industry": "Marketing and Influencer Management",
+      "context": "Founded by Jon Vlogs"
+    },
+    {
+      "name": "Pg Soft",
+      "industry": "iGaming",
+      "context": "Provides gaming services"
+    },
+    {
+      "name": "Pinel Story",
+      "industry": "Automotivo",
+      "context": "Maior empresa de pneus do Brasil, com faturamento acima de 3 bilhões de reais"
+    },
+    {
+      "name": "Widmut",
+      "industry": "Marketing e Influência",
+      "context": "Agência de marketing focada em influenciadores e comunicação"
+    },
+    {
+      "name": "John Bet",
+      "industry": "Marketing e Influência",
+      "context": "Projeto de marketing gerido por John Vlogs"
+    },
+    {
+      "name": "Blaze",
+      "industry": "iGaming",
+      "context": "Plataforma de apostas mencionada no contexto de marketing de influenciadores"
+    },
+    {
+      "name": "Rino",
+      "industry": "Transporte",
+      "context": "Serviço de transporte com carros blindados"
+    },
+    {
+      "name": "Gymshark",
+      "industry": "Fitness e Moda",
+      "context": "Empresa de roupas esportivas fundada por um jovem empreendedor"
+    },
+    {
+      "name": "Bang",
+      "industry": "Bebidas Energéticas",
+      "context": "Marca de bebidas energéticas mencionada por John Vlogs"
+    },
+    {
+      "name": "Ciena",
+      "industry": "Moda",
+      "context": "Marca de roupas mencionada por John Vlogs"
+    },
+    {
+      "name": "John Betts",
+      "industry": "Apostas",
+      "context": "Empresa de apostas promovida por John Vlogs"
+    },
+    {
+      "name": "Super Coffee",
+      "industry": "Bebidas funcionais",
+      "context": "Mencionada como exemplo de empresa que utiliza influenciadores para humanizar a marca."
+    },
+    {
+      "name": "Bold",
+      "industry": "Bebidas funcionais",
+      "context": "Mencionada como exemplo de empresa que utiliza influenciadores para humanizar a marca."
+    },
+    {
+      "name": "Desinchar",
+      "industry": "Bebidas funcionais",
+      "context": "Mencionada como exemplo de empresa que utiliza influenciadores para humanizar a marca."
+    },
+    {
+      "name": "Jaguar",
+      "industry": "Automotivo",
+      "context": "Discussão sobre reposicionamento de marca e campanha de rebranding."
+    },
+    {
+      "name": "Land Rover",
+      "industry": "Automotivo",
+      "context": "Relacionada à Jaguar e mencionada como exemplo de sucesso em reposicionamento."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotivo",
+      "context": "Mencionada em comparação ao reposicionamento da Jaguar."
+    },
+    {
+      "name": "Mclaren",
+      "industry": "Automotivo",
+      "context": "Mencionada como parceira de John Vlogs."
+    },
+    {
+      "name": "Youtube",
+      "industry": "Digital Media",
+      "context": "Platform where John Vlogs started his career"
+    },
+    {
+      "name": "Boale",
+      "industry": "Foodtech",
+      "context": "Healthy food franchise expanding in Brazil"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Growth Marketing",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Gestão Estratégia",
+      "category": "Programa educacional"
+    },
+    {
+      "name": "Multistratégico",
+      "category": "Estratégia de comunicação"
+    },
+    {
+      "name": "Clipador",
+      "category": "Função de criação de conteúdo"
+    },
+    {
+      "name": "Comunicação para geração Z e Y",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Marketing de conteúdo",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Regra dos 5 segundos",
+      "category": "Content Creation"
+    },
+    {
+      "name": "Marketing de Influência",
+      "category": "Marketing"
+    },
+    {
+      "name": "Regulamentação de iGaming",
+      "category": "Legal and Compliance"
+    },
+    {
+      "name": "iGaming",
+      "category": "Indústria"
+    },
+    {
+      "name": "Black Friday",
+      "category": "Evento Comercial"
+    },
+    {
+      "name": "CTA (Call to Action)",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Geração Z",
+      "category": "Demografia"
+    },
+    {
+      "name": "Live Shop",
+      "category": "E-commerce"
+    },
+    {
+      "name": "Conselheiro",
+      "category": "Governança Corporativa"
+    },
+    {
+      "name": "Pitch",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Shark Tank",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "G4 Capital",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Playbook",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Rebranding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Fanjoy",
+      "category": "E-commerce"
+    },
+    {
+      "name": "Identidade de marca",
+      "category": "Marketing"
+    },
+    {
+      "name": "Creative Economy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Equity",
+      "category": "Finance"
+    },
+    {
+      "name": "Education Financial",
+      "category": "Social Concept"
+    }
+  ],
+  "books": [
+    {
+      "title": "Todos Somos Uma Marca",
+      "author": "John Vlogs"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "157 milhões",
+      "context": "Faturamento anual da agência de John Vlogs"
+    },
+    {
+      "value": "100 mil por mês",
+      "context": "Rendimento de um colaborador de John Vlogs"
+    },
+    {
+      "value": "10 milhões",
+      "context": "Seguidores de John Vlogs no Instagram"
+    },
+    {
+      "value": "100,000 BRL/month",
+      "context": "Income of an employee working for Jon Vlogs"
+    },
+    {
+      "value": "157 million BRL",
+      "context": "Annual revenue of Jon Vlogs' agency"
+    },
+    {
+      "value": "270 influencers",
+      "context": "Number of influencers managed by HypeBud at its peak"
+    },
+    {
+      "value": "70,000 viewers",
+      "context": "Live stream audience size"
+    },
+    {
+      "value": "600,000 viewers",
+      "context": "Total audience during a live stream"
+    },
+    {
+      "value": "3 bilhões de reais",
+      "context": "Faturamento anual da Pinel Story"
+    },
+    {
+      "value": "10 a 15 pessoas",
+      "context": "Tamanho da equipe fixa da agência Widmut"
+    },
+    {
+      "value": "100 a 150 mil reais",
+      "context": "Custo mensal estimado para contratar um influenciador grande"
+    },
+    {
+      "value": "30 mil",
+      "context": "Faturamento inicial da marca Ciena mencionado por John Vlogs"
+    },
+    {
+      "value": "3-4 milhões",
+      "context": "Visualizações nos stories de John Vlogs durante campanha para Bang"
+    },
+    {
+      "value": "100 mil likes",
+      "context": "Engajamento em post no Twitter mencionado por John Vlogs"
+    },
+    {
+      "value": "10 milhões de visualizações",
+      "context": "Alcance de post no Twitter mencionado por John Vlogs"
+    },
+    {
+      "value": "4-6 milhões de dólares por mês",
+      "context": "Receita gerada por Jake Paul através de Fanjoy."
+    },
+    {
+      "value": "100,000",
+      "context": "Subscribers on YouTube when John Vlogs realized his potential"
+    },
+    {
+      "value": "40-50 million",
+      "context": "Investment in a Master deal mentioned by John Vlogs"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Todos Somos Uma Marca",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Boale",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Blaze",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Boca Rosa",
+      "target_type": "person"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Widmut",
+      "target_type": "company"
+    },
+    {
+      "source": "Virginia Fonseca",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Live Shop",
+      "target_type": "concept"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "John Betts",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Clipador",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Virginia",
+      "target_type": "person"
+    },
+    {
+      "source": "Beto Cantor",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Pinel Story",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Felipe",
+      "target_type": "person"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Comunicação Para Geração Z E Y",
+      "target_type": "concept"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Youtube",
+      "target_type": "company"
+    },
+    {
+      "source": "Jake Paul",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Fanjoy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jon Vlogs",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Blaze Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Blaze Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Pg Soft",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ciena",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Agência De Marketing",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Adib",
+      "target_type": "person"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Growth Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Widmut",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Samara",
+      "target_type": "person"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mclaren",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "John Bet",
+      "target_type": "company"
+    },
+    {
+      "source": "Jon Vlogs",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Hypebud",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mika",
+      "target_type": "person"
+    },
+    {
+      "source": "Jaguar",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Land Rover",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Pinel Story",
+      "target_type": "company"
+    },
+    {
+      "source": "John Vlogs",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marketing De Conteúdo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nestlé",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Marketing De Conteúdo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thales",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

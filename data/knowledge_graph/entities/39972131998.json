@@ -1,0 +1,438 @@
+{
+  "episode_id": "39972131998",
+  "title": "O JOGO INVISÍVEL POR TRÁS DE UM CHEQUE DE VENTURE CAPITAL COM GUSTAVO AHRENDS | PAPO DE GESTÃO",
+  "date_published": 1752483600,
+  "duration": 4084,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Gustavo Ahrends",
+      "role": "guest",
+      "company": "Norte Ventures",
+      "title": "Founder"
+    },
+    {
+      "name": "Rafael",
+      "role": "mentioned",
+      "company": "Concept",
+      "title": ""
+    },
+    {
+      "name": "Richard Darames",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Vivi",
+      "role": "mentioned",
+      "company": "Avra",
+      "title": "Founder"
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "Lemon",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno",
+      "role": "mentioned",
+      "company": "OpenAI",
+      "title": "Researcher"
+    },
+    {
+      "name": "David Valles",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sérgio Furio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Patrick Sigrist",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Concept",
+      "industry": "Private Equity",
+      "context": "Investiu na Laguapa"
+    },
+    {
+      "name": "Laguapa",
+      "industry": "Food and Beverage",
+      "context": "Recebeu investimento de private equity"
+    },
+    {
+      "name": "Banco Inter",
+      "industry": "Banking",
+      "context": "Originado da MRV"
+    },
+    {
+      "name": "Mrv",
+      "industry": "Construction",
+      "context": "Empresa de construção civil que originou o Banco Inter"
+    },
+    {
+      "name": "Softbank",
+      "industry": "Venture Capital",
+      "context": "Invested in Brazilian startups"
+    },
+    {
+      "name": "99",
+      "industry": "Transportation",
+      "context": "Acquired by Didi Chuxing"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Financial Technology",
+      "context": "Prominent Brazilian fintech"
+    },
+    {
+      "name": "Loft",
+      "industry": "Real Estate Technology",
+      "context": "Part of the Brazilian startup ecosystem"
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Startup Incubator",
+      "context": "Early ecosystem for startups in Brazil"
+    },
+    {
+      "name": "Kazek",
+      "industry": "Venture Capital",
+      "context": "Established VC fund in Brazil"
+    },
+    {
+      "name": "Monaxis",
+      "industry": "Venture Capital",
+      "context": "Established VC fund in Brazil"
+    },
+    {
+      "name": "Velour",
+      "industry": "Venture Capital",
+      "context": "Established VC fund in Brazil"
+    },
+    {
+      "name": "Onevc",
+      "industry": "Venture Capital",
+      "context": "Emerging VC fund in Brazil"
+    },
+    {
+      "name": "Canary",
+      "industry": "Venture Capital",
+      "context": "Emerging VC fund in Brazil"
+    },
+    {
+      "name": "Maya",
+      "industry": "Venture Capital",
+      "context": "Emerging VC fund in Brazil"
+    },
+    {
+      "name": "Big Bets",
+      "industry": "Venture Capital",
+      "context": "Emerging VC fund in Brazil"
+    },
+    {
+      "name": "Avra",
+      "industry": "Artificial Intelligence",
+      "context": "Portfolio company of Norte Ventures"
+    },
+    {
+      "name": "Lemon",
+      "industry": "Financial Technology",
+      "context": "Portfolio company of Norte Ventures"
+    },
+    {
+      "name": "Openai",
+      "industry": "Artificial Intelligence",
+      "context": "Research and development in AI"
+    },
+    {
+      "name": "Acreditas",
+      "industry": "Fintech",
+      "context": "Mencionada como exemplo de empresa fundada por investidores anjos mencionados."
+    },
+    {
+      "name": "Nomad",
+      "industry": "Fintech",
+      "context": "Mencionada como exemplo de empresa fundada por investidores anjos mencionados."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Delivery",
+      "context": "Mencionada como exemplo de empresa fundada por investidores anjos mencionados."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Venture Capital",
+      "category": "Investment"
+    },
+    {
+      "name": "Private Equity",
+      "category": "Investment"
+    },
+    {
+      "name": "FinTech",
+      "category": "Industry"
+    },
+    {
+      "name": "AI (Artificial Intelligence)",
+      "category": "Technology"
+    },
+    {
+      "name": "SDR (Sales Development Representative)",
+      "category": "Sales"
+    },
+    {
+      "name": "CRM (Customer Relationship Management)",
+      "category": "Technology"
+    },
+    {
+      "name": "IoT (Internet of Things)",
+      "category": "Technology"
+    },
+    {
+      "name": "Compound Return",
+      "category": "Finance"
+    },
+    {
+      "name": "Unicórnio",
+      "category": "Startup Valuation"
+    },
+    {
+      "name": "Silicon Valley",
+      "category": "Geographical Hub for Innovation"
+    },
+    {
+      "name": "Family, Friends, and Fools (FFF)",
+      "category": "Startup Funding"
+    },
+    {
+      "name": "2 and 20 Model",
+      "category": "VC Fund Economics"
+    },
+    {
+      "name": "Network Effect",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Goodwill Effect",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Unicorns",
+      "category": "Startup Valuation"
+    },
+    {
+      "name": "Perfect Storm",
+      "category": "Market Dynamics"
+    },
+    {
+      "name": "Suíça do VC",
+      "category": "Market Positioning"
+    },
+    {
+      "name": "PayPal Mafia",
+      "category": "Business Phenomenon"
+    },
+    {
+      "name": "Norte Mafia",
+      "category": "Business Phenomenon"
+    },
+    {
+      "name": "Deal Flow",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Unicórnios",
+      "category": "Startup Valuation"
+    },
+    {
+      "name": "Investimento em PowerPoint",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Cap Table",
+      "category": "Startup Financing"
+    },
+    {
+      "name": "Investidores Anjos",
+      "category": "Investment Role"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "5x",
+      "context": "Retorno esperado de um Venture Capital de primeira linha em 10 anos"
+    },
+    {
+      "value": "30%-40% ao ano",
+      "context": "Retorno esperado de Venture Capital"
+    },
+    {
+      "value": "25%-30% ao ano",
+      "context": "Retorno esperado de Private Equity"
+    },
+    {
+      "value": "15%-20% ao ano",
+      "context": "Retorno esperado de crédito"
+    },
+    {
+      "value": "17, 18, 19",
+      "context": "Years marking significant changes in Brazilian VC market"
+    },
+    {
+      "value": "2% management fee and 20% performance fee",
+      "context": "Standard VC fund economics"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gustavo Ahrends",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Norte Ventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Vivi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Avra",
+      "target_type": "company"
+    },
+    {
+      "source": "Paypal Mafia",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Norte Mafia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Softbank",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Norte Ventures",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Lemon",
+      "target_type": "company"
+    },
+    {
+      "source": "David Valles",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Acreditas",
+      "target_type": "company"
+    },
+    {
+      "source": "Sérgio Furio",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Nomad",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Openai",
+      "target_type": "company"
+    },
+    {
+      "source": "99",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Patrick Sigrist",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Inter",
+      "source_type": "company",
+      "relation": "originated_from",
+      "target": "Mrv",
+      "target_type": "company"
+    },
+    {
+      "source": "Concept",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Laguapa",
+      "target_type": "company"
+    },
+    {
+      "source": "Norte Ventures",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Avra",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Groupon",
+      "target_type": "company"
+    },
+    {
+      "source": "Softbank",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "99",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafa",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Lemon",
+      "target_type": "company"
+    }
+  ]
+}

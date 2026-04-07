@@ -1,0 +1,190 @@
+{
+  "episode_id": "34748488338",
+  "title": "O PODER DAS CONEXÕES CERTAS COM MARTHA LEONARDIS | EXTREMOS",
+  "date_published": 1740574800,
+  "duration": 3899,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Martha Leonardis",
+      "role": "guest",
+      "company": "BTG",
+      "title": "Advisor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gerdau",
+      "role": "mentioned",
+      "company": "Gerdau",
+      "title": ""
+    },
+    {
+      "name": "Mansueto Almeida",
+      "role": "mentioned",
+      "company": "",
+      "title": "Economista"
+    },
+    {
+      "name": "Pércio Arida",
+      "role": "mentioned",
+      "company": "",
+      "title": "Economista"
+    },
+    {
+      "name": "Nelson Jobim",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ministro"
+    },
+    {
+      "name": "Ike",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Perso Farida",
+      "role": "mentioned",
+      "company": "BTG",
+      "title": "Economista"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Gerdau",
+      "industry": "Siderurgia",
+      "context": "Mencionada em contexto de networking e eventos"
+    },
+    {
+      "name": "Btg",
+      "industry": "Financeiro",
+      "context": "Banco mencionado em relação à carreira de Martha Leonardis"
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Finance",
+      "context": "Mentioned in relation to Perso Farida"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Crise de reputação",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Networking",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Manutenção de relacionamentos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Pirâmide de conexão",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Engenharia Social",
+      "category": "Estratégia de Relacionamento"
+    },
+    {
+      "name": "Arquitetura de Relacionamento",
+      "category": "Estratégia de Relacionamento"
+    },
+    {
+      "name": "Advisor",
+      "category": "Função Profissional"
+    },
+    {
+      "name": "Cold Call",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "Venda institucional",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "100",
+      "context": "Valor ofertado em leilão para surfar com Gerdau"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Martha Leonardis",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Manutenção De Relacionamentos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Perso Farida",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Martha Leonardis",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Networking",
+      "target_type": "concept"
+    },
+    {
+      "source": "Martha Leonardis",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pirâmide De Conexão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Perso Farida",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Martha Leonardis",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gerdau",
+      "target_type": "person"
+    },
+    {
+      "source": "Martha Leonardis",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Crise De Reputação",
+      "target_type": "concept"
+    }
+  ]
+}

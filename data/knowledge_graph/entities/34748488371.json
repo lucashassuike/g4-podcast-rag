@@ -1,0 +1,308 @@
+{
+  "episode_id": "34748488371",
+  "title": "COMO DESBLOQUEAR O CRESCIMENTO DA EMPRESA COM FLAVIA MOLINA | PAPO DE GESTÃO",
+  "date_published": 1731913200,
+  "duration": 3812,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Flávia Molina",
+      "role": "guest",
+      "company": "G4 Marketing Growth",
+      "title": "Mentora"
+    },
+    {
+      "name": "Denner",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "João Vitor",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Felipe Atabi",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcast",
+      "industry": "Media",
+      "context": "Podcast focusing on business and entrepreneurship."
+    },
+    {
+      "name": "Nestlé",
+      "industry": "Food and Beverage",
+      "context": "Flávia Molina's previous experience."
+    },
+    {
+      "name": "Globo",
+      "industry": "Media",
+      "context": "Flávia Molina's previous experience."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Flávia Molina's previous experience."
+    },
+    {
+      "name": "Sony",
+      "industry": "Technology and Entertainment",
+      "context": "Flávia Molina's previous experience."
+    },
+    {
+      "name": "Domino'S",
+      "industry": "Food and Beverage",
+      "context": "Flávia Molina's previous experience."
+    },
+    {
+      "name": "Pernambucanas",
+      "industry": "Retail",
+      "context": "Flávia Molina's previous experience."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Discussão sobre mentorias e programas de formação em Marketing e Growth"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Growth Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "High-Performance Teams",
+      "category": "Organizational Development"
+    },
+    {
+      "name": "Data-Driven Decision Making",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Customer Lifetime Value (LTV)",
+      "category": "Metrics"
+    },
+    {
+      "name": "Marketing Funnel",
+      "category": "Marketing Framework"
+    },
+    {
+      "name": "Account-Based Marketing (ABM)",
+      "category": "Marketing"
+    },
+    {
+      "name": "Account-Based Sales (ABS)",
+      "category": "Vendas"
+    },
+    {
+      "name": "T-shape Professional",
+      "category": "Gestão de Talentos"
+    },
+    {
+      "name": "Squads",
+      "category": "Estrutura Organizacional"
+    },
+    {
+      "name": "Organização Funcional",
+      "category": "Estrutura Organizacional"
+    },
+    {
+      "name": "Growth",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Funil de Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Fidelização",
+      "category": "Marketing"
+    },
+    {
+      "name": "Rentabilização",
+      "category": "Marketing"
+    },
+    {
+      "name": "Monetização",
+      "category": "Marketing"
+    },
+    {
+      "name": "G4 Marketing e Growth",
+      "category": "Program"
+    },
+    {
+      "name": "funil de vendas",
+      "category": "Framework"
+    },
+    {
+      "name": "B2B",
+      "category": "Business Model"
+    },
+    {
+      "name": "B2C",
+      "category": "Business Model"
+    },
+    {
+      "name": "testes A/B",
+      "category": "Methodology"
+    },
+    {
+      "name": "grupo controle",
+      "category": "Methodology"
+    },
+    {
+      "name": "grupo de ação",
+      "category": "Methodology"
+    },
+    {
+      "name": "ferramenta de automação",
+      "category": "Technology"
+    },
+    {
+      "name": "análise contínua de resultados",
+      "category": "Process"
+    },
+    {
+      "name": "frequência 7+",
+      "category": "Concept"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "20 years",
+      "context": "Flávia Molina's experience in the industry."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Flávia Molina",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Denner",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávia Molina",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Marketing Growth",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávia Molina",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Pernambucanas",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávia Molina",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Nestlé",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávia Molina",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Sony",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Marketing E Growth",
+      "target_type": "concept"
+    },
+    {
+      "source": "Flávia Molina",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávia Molina",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Domino'S",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávia Molina",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Atabi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João Vitor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Flávia Molina",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Marketing E Growth",
+      "target_type": "concept"
+    }
+  ]
+}

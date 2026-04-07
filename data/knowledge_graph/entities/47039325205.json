@@ -1,0 +1,270 @@
+{
+  "episode_id": "47039325205",
+  "title": "REFORMA TRIBUTÁRIA: O QUE MUDA PARA SUA EMPRESA EM 2026 COM ADRIANO SUBIRÁ | TOOLS LIVE",
+  "date_published": 1766156400,
+  "duration": 3244,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Igor Tórquia",
+      "role": "host",
+      "company": "G4 Tools",
+      "title": "C-Level responsável pelo Marketplace"
+    },
+    {
+      "name": "Adriano Subirá",
+      "role": "guest",
+      "company": "Vocaritex",
+      "title": "Chief Risk Officer"
+    },
+    {
+      "name": "Nelson Machado",
+      "role": "mentioned",
+      "company": "",
+      "title": "Tributarista e acadêmico"
+    },
+    {
+      "name": "Elick Dessange",
+      "role": "mentioned",
+      "company": "",
+      "title": "Tributarista e acadêmico"
+    },
+    {
+      "name": "Zé Ias Coelho",
+      "role": "mentioned",
+      "company": "",
+      "title": "Professor"
+    },
+    {
+      "name": "Bernardo Api",
+      "role": "mentioned",
+      "company": "",
+      "title": "Tributarista e acadêmico"
+    },
+    {
+      "name": "Ângelo De Ângelos",
+      "role": "mentioned",
+      "company": "",
+      "title": "Auditor fiscal"
+    },
+    {
+      "name": "Rodrigo Frota",
+      "role": "mentioned",
+      "company": "",
+      "title": "Auditor fiscal"
+    },
+    {
+      "name": "Miguel Aburrabi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empresário"
+    },
+    {
+      "name": "Balear Rossi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Deputado"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Tools",
+      "industry": "Business Solutions",
+      "context": "Marketplace and tools for businesses"
+    },
+    {
+      "name": "Vocaritex",
+      "industry": "Risk Management",
+      "context": "Partner of G4 Tools"
+    },
+    {
+      "name": "Vokari",
+      "industry": "Consultoria Tributária",
+      "context": "Empresa mencionada como atuante em recuperação tributária."
+    },
+    {
+      "name": "Unilever",
+      "industry": "Bens de Consumo",
+      "context": "Mencionada como exemplo de empresa com engenharia tributária."
+    },
+    {
+      "name": "Vocaletex",
+      "industry": "Consultoria Tributária",
+      "context": "Empresa especializada em recuperação tributária e gestão de ativos tributários."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Reforma Tributária",
+      "category": "Legislation"
+    },
+    {
+      "name": "Split Payment",
+      "category": "Taxation Mechanism"
+    },
+    {
+      "name": "Imposto Sobre o Valor Agregado (IVA)",
+      "category": "Taxation System"
+    },
+    {
+      "name": "PEC 45",
+      "category": "Legislation"
+    },
+    {
+      "name": "PEC 110",
+      "category": "Legislation"
+    },
+    {
+      "name": "IVA (Imposto sobre Valor Agregado)",
+      "category": "Sistema Tributário"
+    },
+    {
+      "name": "Curva de Laffer",
+      "category": "Economia"
+    },
+    {
+      "name": "Recuperação Tributária",
+      "category": "Consultoria Tributária"
+    },
+    {
+      "name": "Gestão de Ativos Tributários",
+      "category": "Estratégia Financeira"
+    },
+    {
+      "name": "Subvenção para Investimento",
+      "category": "Termo Fiscal"
+    },
+    {
+      "name": "Compensação Tributária",
+      "category": "Estratégia Financeira"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "100 milhões de reais por ano",
+      "context": "Faixa de faturamento de uma empresa mencionada"
+    },
+    {
+      "value": "10 milhões de reais",
+      "context": "Valor recuperável identificado para uma empresa"
+    },
+    {
+      "value": "33 anos",
+      "context": "Experiência de Adriano Subirá na Receita Federal"
+    },
+    {
+      "value": "80% do PIB",
+      "context": "Dívida pública brasileira mencionada como proporção do PIB."
+    },
+    {
+      "value": "100 milhões de reais",
+      "context": "Faturamento anual de uma cerealista mencionada como caso de sucesso da Vocaletex."
+    },
+    {
+      "value": "10 milhões de reais",
+      "context": "Valor recuperado pela Vocaletex para uma cerealista, representando 10% do faturamento anual."
+    },
+    {
+      "value": "50 milhões de reais",
+      "context": "Faturamento anual de uma empresa média hipotética mencionada no exemplo."
+    },
+    {
+      "value": "5 milhões de reais",
+      "context": "Valor hipotético a ser recuperado por uma empresa média."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Vokari",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Recuperação Tributária",
+      "target_type": "concept"
+    },
+    {
+      "source": "Adriano Subirá",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vocaritex",
+      "target_type": "company"
+    },
+    {
+      "source": "Adriano Subirá",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vocaletex",
+      "target_type": "company"
+    },
+    {
+      "source": "Vocaletex",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Recuperação Tributária",
+      "target_type": "concept"
+    },
+    {
+      "source": "Reforma Tributária",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Iva (Imposto Sobre Valor Agregado)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Balear Rossi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Pec 45",
+      "target_type": "concept"
+    },
+    {
+      "source": "Adriano Subirá",
+      "source_type": "person",
+      "relation": "presides",
+      "target": "Comitê Tributário Brasileiro",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel Aburrabi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Split Payment",
+      "target_type": "concept"
+    },
+    {
+      "source": "Igor Tórquia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Tools",
+      "target_type": "company"
+    },
+    {
+      "source": "Balear Rossi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Pec 110",
+      "target_type": "concept"
+    },
+    {
+      "source": "Adriano Subirá",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Reforma Tributária",
+      "target_type": "concept"
+    },
+    {
+      "source": "Adriano Subirá",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vokari",
+      "target_type": "company"
+    },
+    {
+      "source": "Vocaletex",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão De Ativos Tributários",
+      "target_type": "concept"
+    }
+  ]
+}

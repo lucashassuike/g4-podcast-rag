@@ -1,0 +1,244 @@
+{
+  "episode_id": "34748488382",
+  "title": "O ÚNICO BANCO BRASILEIRO QUE RECEBEU INVESTIMENTO DO JEFF BEZOS - COM RAFAEL STARK (STARK BANK) | EXTREMOS",
+  "date_published": 1729666800,
+  "duration": 3778,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Rafael Stark",
+      "role": "guest",
+      "company": "Stark Bank",
+      "title": "CEO"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "Founder"
+    },
+    {
+      "name": "Richard Branson",
+      "role": "mentioned",
+      "company": "Virgin Group",
+      "title": "Founder"
+    },
+    {
+      "name": "Diego Alvarez",
+      "role": "mentioned",
+      "company": "Nextel",
+      "title": "Director"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Fábio Eagle",
+      "role": "mentioned",
+      "company": "",
+      "title": "Investor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Stark Bank",
+      "industry": "Financial Technology",
+      "context": "Digital bank focused on B2B financial solutions"
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce and Technology",
+      "context": "Founded by Jeff Bezos"
+    },
+    {
+      "name": "Virgin Group",
+      "industry": "Conglomerate",
+      "context": "Founded by Richard Branson"
+    },
+    {
+      "name": "Nextel",
+      "industry": "Telecommunications",
+      "context": "Rafael Stark worked on digital projects for Nextel."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education platform co-founded by the hosts."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Digital Banking",
+      "category": "Financial Services"
+    },
+    {
+      "name": "B2B Financial Solutions",
+      "category": "Business Model"
+    },
+    {
+      "name": "Scalability",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Investment Rounds",
+      "category": "Finance"
+    },
+    {
+      "name": "Profitability",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Capital Efficiency",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Startup Funding",
+      "category": "Finance"
+    },
+    {
+      "name": "Product Scaling",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Software Development",
+      "category": "Technology"
+    },
+    {
+      "name": "Marketing Strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Client Experience",
+      "category": "Customer Relations"
+    },
+    {
+      "name": "Technological Innovation",
+      "category": "Business Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "iOS for Dummies",
+      "author": "Not specified"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "155 billion BRL",
+      "context": "Transaction volume processed by Stark Bank in the previous year"
+    },
+    {
+      "value": "71.5 million BRL",
+      "context": "Net profit of Stark Bank in the previous year"
+    },
+    {
+      "value": "61 million USD",
+      "context": "Total investment raised by Stark Bank"
+    },
+    {
+      "value": "80%",
+      "context": "Percentage of initial funding used by Stark Bank to obtain banking license."
+    },
+    {
+      "value": "20",
+      "context": "Number of employees at Stark Bank during its early stages."
+    },
+    {
+      "value": "2-3 million BRL",
+      "context": "Investment in a marketing event involving a yacht in Monaco."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rafael Stark",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Stark Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Alvarez",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nextel",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "co-founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "co-founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Richard Branson",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Virgin Group",
+      "target_type": "company"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Stark Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio Eagle",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Stark Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "co-founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "co-founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Stark",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stark Bank",
+      "target_type": "company"
+    }
+  ]
+}

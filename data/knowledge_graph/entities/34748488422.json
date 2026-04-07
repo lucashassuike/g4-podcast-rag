@@ -1,0 +1,385 @@
+{
+  "episode_id": "34748488422",
+  "title": "AS LIÇÕES QUE LEVAM OS NEGÓCIOS À EXCELÊNCIA - COM RENATA VICHI, CEO DA KOPENHAGEN (GRUPO CRM) | PAPO DE GESTÃO",
+  "date_published": 1719217800,
+  "duration": 3584,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Renata Vichi",
+      "role": "guest",
+      "company": "Grupo CRM",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Dieter",
+      "role": "mentioned",
+      "company": "Lindt",
+      "title": "CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Kopenhagen",
+      "industry": "Food and Beverage",
+      "context": "Discussed as a 96-year-old startup with innovative practices."
+    },
+    {
+      "name": "Grupo Crm",
+      "industry": "Food and Beverage",
+      "context": "Parent company of Kopenhagen, Brasil Cacau, and Copcó."
+    },
+    {
+      "name": "Brasil Cacau",
+      "industry": "Food and Beverage",
+      "context": "Part of Grupo CRM, mentioned in the context of CRM program and innovation."
+    },
+    {
+      "name": "Copcó",
+      "industry": "Food and Beverage",
+      "context": "Part of Grupo CRM, mentioned in the context of innovation and expansion."
+    },
+    {
+      "name": "Advent International",
+      "industry": "Private Equity",
+      "context": "Investor in Grupo CRM."
+    },
+    {
+      "name": "Nestlé",
+      "industry": "Alimentos e Bebidas",
+      "context": "Parceira estratégica do Grupo CRM em um acordo fechado em março de 2024."
+    },
+    {
+      "name": "Lindt",
+      "industry": "Alimentos e Bebidas",
+      "context": "Anterior parceira do Grupo CRM em alianças estratégicas."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "C-Level",
+      "category": "Corporate Roles"
+    },
+    {
+      "name": "Innovation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Culture",
+      "category": "Organizational Development"
+    },
+    {
+      "name": "CRM",
+      "category": "Customer Relationship Management"
+    },
+    {
+      "name": "Digital Transformation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Franchise Management",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Love Brand",
+      "category": "Branding"
+    },
+    {
+      "name": "Clean Label",
+      "category": "Product Development"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Metrics"
+    },
+    {
+      "name": "Franchise Model",
+      "category": "Business Model"
+    },
+    {
+      "name": "Ship from Store",
+      "category": "Logistics"
+    },
+    {
+      "name": "Same-store Sales",
+      "category": "Metrics"
+    },
+    {
+      "name": "PLR (Profit Sharing Program)",
+      "category": "Employee Incentives"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Customer Metrics"
+    },
+    {
+      "name": "R&D (Research and Development)",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Growth Phases Matrix",
+      "category": "Business Framework"
+    },
+    {
+      "name": "Aliança Estratégica",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Gestão"
+    },
+    {
+      "name": "Transformação de Portfólio",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "B2C",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Evento de Liquidez",
+      "category": "Finanças"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Finanças"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "400",
+      "context": "Number of product creations per year by Kopenhagen."
+    },
+    {
+      "value": "15%",
+      "context": "Percentage of annual revenue from innovation at Kopenhagen."
+    },
+    {
+      "value": "223",
+      "context": "Number of store visits by Renata Vichi in one year."
+    },
+    {
+      "value": "5 million",
+      "context": "Number of customers in the CRM program of Grupo CRM."
+    },
+    {
+      "value": "1,200 stores",
+      "context": "Total stores operated by Grupo CRM."
+    },
+    {
+      "value": "75 stores",
+      "context": "Company-owned stores operated by Grupo CRM."
+    },
+    {
+      "value": "1,125 franchises",
+      "context": "Franchise stores operated by Grupo CRM."
+    },
+    {
+      "value": "20%",
+      "context": "Percentage of revenue from digital sales for Grupo CRM."
+    },
+    {
+      "value": "95%",
+      "context": "Percentage of digital sales fulfilled via Ship from Store."
+    },
+    {
+      "value": "700 stores",
+      "context": "Total stores operated by Kopenhagen."
+    },
+    {
+      "value": "500 stores",
+      "context": "Expansion plan for Kopenhagen."
+    },
+    {
+      "value": "500 stores",
+      "context": "Total stores operated by Brasil Cacau."
+    },
+    {
+      "value": "1,200 stores",
+      "context": "Expansion plan for Brasil Cacau."
+    },
+    {
+      "value": "14 days",
+      "context": "Time required to produce a Kopenhagen Sherry Bombom."
+    },
+    {
+      "value": "2020",
+      "context": "Ano do investimento inicial da Advent no Grupo CRM."
+    },
+    {
+      "value": "5 anos em 3",
+      "context": "Tempo em que o plano de crescimento do Grupo CRM foi executado."
+    },
+    {
+      "value": "Março de 2024",
+      "context": "Data do fechamento do acordo entre Grupo CRM e Nestlé."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Renata Vichi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Kopenhagen",
+      "target_type": "company"
+    },
+    {
+      "source": "Renata Vichi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Plr (Profit Sharing Program)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Grupo Crm",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Retail",
+      "target_type": "company"
+    },
+    {
+      "source": "Lindt",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Grupo Crm",
+      "target_type": "company"
+    },
+    {
+      "source": "Copcó",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Grupo Crm",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Crm",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Kopenhagen",
+      "target_type": "company"
+    },
+    {
+      "source": "Kopenhagen",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Grupo Crm",
+      "target_type": "company"
+    },
+    {
+      "source": "Brasil Cacau",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Grupo Crm",
+      "target_type": "company"
+    },
+    {
+      "source": "Nestlé",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Grupo Crm",
+      "target_type": "company"
+    },
+    {
+      "source": "Renata Vichi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nps (Net Promoter Score)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renata Vichi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Crm",
+      "target_type": "company"
+    },
+    {
+      "source": "Advent International",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Grupo Crm",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Growth Phases Matrix",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renata Vichi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Same-Store Sales",
+      "target_type": "concept"
+    },
+    {
+      "source": "Grupo Crm",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Lindt",
+      "target_type": "company"
+    },
+    {
+      "source": "Renata Vichi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ship From Store",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renata Vichi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Digital Transformation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Grupo Crm",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Nestlé",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Crm",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Advent International",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Crm",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Brasil Cacau",
+      "target_type": "company"
+    },
+    {
+      "source": "Renata Vichi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Franchise Model",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renata Vichi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "R&D (Research And Development)",
+      "target_type": "concept"
+    }
+  ]
+}

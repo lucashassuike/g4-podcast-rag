@@ -1,0 +1,414 @@
+{
+  "episode_id": "34748488676",
+  "title": "#001 - Case Harvard: lições sobre liderança na corrida ao Polo Sul",
+  "date_published": 1599067209,
+  "duration": 2897,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Boris",
+      "role": "mentioned",
+      "company": "",
+      "title": "Professor"
+    },
+    {
+      "name": "Roald Amundsen",
+      "role": "mentioned",
+      "company": "",
+      "title": "Explorador"
+    },
+    {
+      "name": "Robert Falcon Scott",
+      "role": "mentioned",
+      "company": "",
+      "title": "Capitão"
+    },
+    {
+      "name": "Ernest Shackleton",
+      "role": "mentioned",
+      "company": "",
+      "title": "Explorador"
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Empresário"
+    },
+    {
+      "name": "Scott",
+      "role": "mentioned",
+      "company": "",
+      "title": "Capitão"
+    },
+    {
+      "name": "Amundsen",
+      "role": "mentioned",
+      "company": "",
+      "title": "Explorador"
+    },
+    {
+      "name": "Capitão Scott",
+      "role": "mentioned",
+      "company": "",
+      "title": "Explorador"
+    },
+    {
+      "name": "Johanssen",
+      "role": "mentioned",
+      "company": "",
+      "title": "Dog Trainer"
+    },
+    {
+      "name": "Reed Hastings",
+      "role": "mentioned",
+      "company": "Netflix",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação para negócios"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Serviços financeiros",
+      "context": "Empresa mencionada em relação a Guilherme Benchimol"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Founded by the speaker in 2011, a ride-hailing service."
+    },
+    {
+      "name": "Singular",
+      "industry": "Unknown",
+      "context": "Mentioned in the context of the speaker's experience."
+    },
+    {
+      "name": "Singguo",
+      "industry": "Tecnologia",
+      "context": "Empresa mencionada como um desafio enfrentado pelo host"
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entertainment",
+      "context": "Referenced in leadership and team management context"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Liderança 4.0",
+      "category": "Gestão"
+    },
+    {
+      "name": "Networking",
+      "category": "Gestão"
+    },
+    {
+      "name": "Fundraising",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Gestão"
+    },
+    {
+      "name": "Objetivo, estratégia, time e execução",
+      "category": "Gestão"
+    },
+    {
+      "name": "flexibilidade tática",
+      "category": "estratégia"
+    },
+    {
+      "name": "gestão de portfólio",
+      "category": "estratégia"
+    },
+    {
+      "name": "recrutamento baseado em execução",
+      "category": "gestão de pessoas"
+    },
+    {
+      "name": "balance leadership",
+      "category": "liderança"
+    },
+    {
+      "name": "venture capital",
+      "category": "finance"
+    },
+    {
+      "name": "startup",
+      "category": "business"
+    },
+    {
+      "name": "leadership",
+      "category": "management"
+    },
+    {
+      "name": "recruitment",
+      "category": "human resources"
+    },
+    {
+      "name": "strategy",
+      "category": "business"
+    },
+    {
+      "name": "execution",
+      "category": "business"
+    },
+    {
+      "name": "equity",
+      "category": "finance"
+    },
+    {
+      "name": "Gestão libertária",
+      "category": "Estratégia de gestão"
+    },
+    {
+      "name": "Disagree and commit",
+      "category": "Estratégia de tomada de decisão"
+    },
+    {
+      "name": "Condicionamento de massas",
+      "category": "Estratégia de liderança"
+    },
+    {
+      "name": "Condicionamento de massa",
+      "category": "Psychology"
+    },
+    {
+      "name": "Gestão de time",
+      "category": "Management"
+    },
+    {
+      "name": "Playbook",
+      "category": "Management"
+    },
+    {
+      "name": "Extreme Leadership",
+      "category": "Leadership"
+    },
+    {
+      "name": "Disciplina fanática",
+      "category": "Leadership"
+    },
+    {
+      "name": "liderança libertária",
+      "category": "framework"
+    },
+    {
+      "name": "gestão de projetos",
+      "category": "estratégia"
+    },
+    {
+      "name": "peacetime CEO",
+      "category": "liderança"
+    },
+    {
+      "name": "wartime CEO",
+      "category": "liderança"
+    }
+  ],
+  "books": [
+    {
+      "title": "Endurance",
+      "author": "Alfred Lansing"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "65",
+      "context": "tamanho da equipe de Scott"
+    },
+    {
+      "value": "8000",
+      "context": "número de candidatos para a expedição de Scott"
+    },
+    {
+      "value": "2011",
+      "context": "Year when Easy Taxi was founded."
+    },
+    {
+      "value": "4%",
+      "context": "Percentage of Brazilian population with smartphones with internet in 2011."
+    },
+    {
+      "value": "19 pessoas",
+      "context": "Tamanho do time de Amundsen"
+    },
+    {
+      "value": "65 pessoas",
+      "context": "Tamanho do time de Capitão Scott"
+    },
+    {
+      "value": "65",
+      "context": "Number of people in Scott's team"
+    },
+    {
+      "value": "19",
+      "context": "Number of people in Amundsen's team"
+    },
+    {
+      "value": "8 km per day",
+      "context": "Minimum daily travel distance in Amundsen's strategy"
+    },
+    {
+      "value": "60 km per day",
+      "context": "Maximum daily travel distance in Amundsen's strategy"
+    },
+    {
+      "value": "52 dias",
+      "context": "duração da expedição mencionada"
+    },
+    {
+      "value": "18 meses",
+      "context": "tempo recomendado de caixa para startups"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singguo",
+      "target_type": "company"
+    },
+    {
+      "source": "Peacetime Ceo",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Wartime Ceo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Extreme Leadership",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Amundsen",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Scott",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Amundsen",
+      "target_type": "person"
+    },
+    {
+      "source": "Reed Hastings",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Netflix",
+      "target_type": "company"
+    },
+    {
+      "source": "Amundsen",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Capitão Scott",
+      "target_type": "person"
+    },
+    {
+      "source": "Ernest Shackleton",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Robert Falcon Scott",
+      "target_type": "person"
+    },
+    {
+      "source": "Amundsen",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Scott",
+      "target_type": "person"
+    },
+    {
+      "source": "Ernest Shackleton",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Endurance",
+      "target_type": "company"
+    },
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Amundsen",
+      "target_type": "person"
+    },
+    {
+      "source": "Liderança Libertária",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Amundsen",
+      "target_type": "person"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    }
+  ]
+}

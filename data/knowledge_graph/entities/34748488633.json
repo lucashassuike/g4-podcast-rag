@@ -1,0 +1,328 @@
+{
+  "episode_id": "34748488633",
+  "title": "Daniel Borghi - Futuro da Educação no Brasil, Captação de Investimentos e IPOs | Papo de Gestão",
+  "date_published": 1665996013,
+  "duration": 5345,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Daniel Borg",
+      "role": "guest",
+      "company": "Crescera",
+      "title": "Co-CEO"
+    },
+    {
+      "name": "Daniel Borghi",
+      "role": "guest",
+      "company": "Crescera Capital",
+      "title": "Gestor"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "SpaceX",
+      "title": "CEO"
+    },
+    {
+      "name": "Winston Churchill",
+      "role": "mentioned",
+      "company": "",
+      "title": "Prime Minister of the United Kingdom"
+    },
+    {
+      "name": "Xi Jinping",
+      "role": "mentioned",
+      "company": "",
+      "title": "President of China"
+    },
+    {
+      "name": "Vladimir Putin",
+      "role": "mentioned",
+      "company": "",
+      "title": "President of Russia"
+    },
+    {
+      "name": "Ike Batista",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Podcast host and business education"
+    },
+    {
+      "name": "Crescera",
+      "industry": "Private Equity",
+      "context": "Investment fund with over 6 billion BRL under management"
+    },
+    {
+      "name": "Crescera Capital",
+      "industry": "Private Equity e Venture Capital",
+      "context": "Gestora de investimentos mencionada por Daniel Borghi"
+    },
+    {
+      "name": "Afa",
+      "industry": "Educação médica",
+      "context": "Plataforma de educação médica mencionada como um dos investimentos da Crescera Capital"
+    },
+    {
+      "name": "Brio Educação",
+      "industry": "Educação básica",
+      "context": "Investimento inicial da Crescera Capital no setor de educação"
+    },
+    {
+      "name": "Ânima Educação",
+      "industry": "Educação superior",
+      "context": "Empresa apoiada pela Crescera Capital para realizar IPO"
+    },
+    {
+      "name": "Hsm",
+      "industry": "Educação corporativa",
+      "context": "Investimento da Crescera Capital, posteriormente adquirida pela Ânima Educação"
+    },
+    {
+      "name": "Passeio Direto",
+      "industry": "Educação online",
+      "context": "Plataforma adquirida pela UAU EdTech"
+    },
+    {
+      "name": "Alura",
+      "industry": "Educação em tecnologia",
+      "context": "Investimento recente da Crescera Capital em educação para programadores"
+    },
+    {
+      "name": "Fia",
+      "industry": "Educação superior",
+      "context": "Outro investimento recente da Crescera Capital"
+    },
+    {
+      "name": "Spacex",
+      "industry": "Aerospace",
+      "context": "Mentioned in relation to Elon Musk's leadership and innovation."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Private Equity",
+      "category": "Investment"
+    },
+    {
+      "name": "Resilience",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Soft Skills",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Leadership 4.0",
+      "category": "Leadership"
+    },
+    {
+      "name": "Low Hanging Fruits",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Investimento"
+    },
+    {
+      "name": "IPO",
+      "category": "Mercado financeiro"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Networking",
+      "category": "Desenvolvimento profissional"
+    },
+    {
+      "name": "Educação à distância",
+      "category": "Educação"
+    },
+    {
+      "name": "Imersão do G4",
+      "category": "Educação"
+    },
+    {
+      "name": "Investimento em setores estratégicos",
+      "category": "Finanças"
+    },
+    {
+      "name": "Investimento em educação, saúde e tecnologia",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Crescimento robusto",
+      "category": "Business Growth"
+    },
+    {
+      "name": "Inflação",
+      "category": "Economic Concept"
+    },
+    {
+      "name": "Criação de valor",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Liderança",
+      "category": "Leadership"
+    },
+    {
+      "name": "Colonização interplanetária",
+      "category": "Innovation"
+    },
+    {
+      "name": "Fascismo",
+      "category": "Historical Context"
+    }
+  ],
+  "books": [
+    {
+      "title": "Peter Pan",
+      "author": "J.M. Barrie"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "6 billion BRL",
+      "context": "Assets under management by Crescera"
+    },
+    {
+      "value": "70 companies",
+      "context": "Number of companies invested by Crescera"
+    },
+    {
+      "value": "75%",
+      "context": "Preferência dos alunos de curso superior por cursos online"
+    },
+    {
+      "value": "20-25% ao ano",
+      "context": "Taxa de crescimento esperada para investimentos em empresas"
+    },
+    {
+      "value": "20-25% ao ano",
+      "context": "Expected annual growth rate for robust business investments."
+    },
+    {
+      "value": "3x",
+      "context": "Minimum expected return on investment."
+    },
+    {
+      "value": "5-7x",
+      "context": "Higher expected return on investment."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Daniel Borghi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Investimento Em Educação, Saúde E Tecnologia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Daniel Borg",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Crescera",
+      "target_type": "company"
+    },
+    {
+      "source": "Crescera Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Passeio Direto",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Daniel Borghi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Crescera Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Crescera Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Fia",
+      "target_type": "company"
+    },
+    {
+      "source": "Crescera Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Ânima Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Crescera Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Brio Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Crescera Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Alura",
+      "target_type": "company"
+    },
+    {
+      "source": "Crescera Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Afa",
+      "target_type": "company"
+    },
+    {
+      "source": "Crescera Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Hsm",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Spacex",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Colonização Interplanetária",
+      "target_type": "concept"
+    },
+    {
+      "source": "Winston Churchill",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Liderança",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "episode_id": "39048040682",
+  "title": "A VERDADE NUA E CRUA POR TRÁS DA GOVERNANÇA CORPORATIVA COM ROGÉRIO MELZI | PAPO DE GESTÃO",
+  "date_published": 1750669200,
+  "duration": 3526,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Rogério Melzi",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Estácio",
+      "industry": "Education",
+      "context": "Rogério Melzi atuou como CEO e liderou o IPO da empresa."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Beverages",
+      "context": "Rogério Melzi trabalhou na empresa antes de sua atuação na Estácio."
+    },
+    {
+      "name": "Cirela",
+      "industry": "Real Estate",
+      "context": "Rogério Melzi integra o conselho da empresa."
+    },
+    {
+      "name": "Hospital Care",
+      "industry": "Healthcare",
+      "context": "Rogério Melzi integra o conselho da empresa."
+    },
+    {
+      "name": "Mais A Educação",
+      "industry": "Education",
+      "context": "Rogério Melzi integra o conselho da empresa."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Rogério Melzi é mentor e considera o G4 Educação um case a ser estudado."
+    },
+    {
+      "name": "Arco",
+      "industry": "Educação",
+      "context": "Mencionada como exemplo de empresa que fechou capital para implementar visão de longo prazo"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Governança Corporativa",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Conselho de Administração",
+      "category": "Corporate Governance"
+    },
+    {
+      "name": "Guidance",
+      "category": "Finance"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Corporation",
+      "category": "Estrutura Organizacional"
+    },
+    {
+      "name": "Comitê de pessoas",
+      "category": "Estrutura organizacional"
+    },
+    {
+      "name": "Conselheiro hands-on",
+      "category": "Estilo de liderança"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "30 anos",
+      "context": "Experiência de Rogério Melzi em governança corporativa e liderança executiva."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Corporation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Conselho De Administração",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mais A Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Estácio",
+      "target_type": "company"
+    },
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Comitê De Pessoas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Planejamento Estratégico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governança Corporativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hospital Care",
+      "target_type": "company"
+    },
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Conselheiro Hands-On",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cirela",
+      "target_type": "company"
+    },
+    {
+      "source": "Rogério Melzi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

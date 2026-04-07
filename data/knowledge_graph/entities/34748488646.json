@@ -1,0 +1,494 @@
+{
+  "episode_id": "34748488646",
+  "title": "#032 - Como liderar em ambientes de extrema pressão com Comandante Nunes",
+  "date_published": 1634718614,
+  "duration": 3196,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Maurílio Nunes",
+      "role": "guest",
+      "company": "Polícia Militar do Rio de Janeiro",
+      "title": "Tenente-Coronel"
+    },
+    {
+      "name": "Fábio Gurgel",
+      "role": "mentioned",
+      "company": "Aliança",
+      "title": "Líder"
+    },
+    {
+      "name": "Carlos Brito",
+      "role": "mentioned",
+      "company": "Anheuser-Busch InBev",
+      "title": "Ex-CEO Global"
+    },
+    {
+      "name": "Ayrton Senna",
+      "role": "mentioned",
+      "company": "",
+      "title": "Piloto de Fórmula 1"
+    },
+    {
+      "name": "Comandante Nunes",
+      "role": "guest",
+      "company": "BOPE",
+      "title": "Comandante"
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "Grupo G4",
+      "title": "CEO"
+    },
+    {
+      "name": "Salim Ismail",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Wendy Rhodes",
+      "role": "mentioned",
+      "company": "Billions (série de TV)",
+      "title": "Psicóloga fictícia"
+    },
+    {
+      "name": "Chris Kyle",
+      "role": "mentioned",
+      "company": "Exército Americano",
+      "title": "Sniper"
+    },
+    {
+      "name": "Maurílio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Podcast host and business education"
+    },
+    {
+      "name": "Polícia Militar Do Rio De Janeiro",
+      "industry": "Public Security",
+      "context": "Maurílio Nunes serves as Tenente-Coronel"
+    },
+    {
+      "name": "Aliança",
+      "industry": "Martial Arts",
+      "context": "Fábio Gurgel is a leader"
+    },
+    {
+      "name": "Anheuser-Busch Inbev",
+      "industry": "Beverage",
+      "context": "Carlos Brito served as Ex-CEO Global"
+    },
+    {
+      "name": "Bope",
+      "industry": "Segurança Pública",
+      "context": "Unidade de operações especiais mencionada como exemplo de liderança em situações de pressão."
+    },
+    {
+      "name": "Grupo G4",
+      "industry": "Education and Business Consulting",
+      "context": "Discussed as a company led by Tallis Gomes and Lucas."
+    },
+    {
+      "name": "Singoo",
+      "industry": "Beauty and Wellness",
+      "context": "Mentioned as a company associated with Tallis Gomes."
+    },
+    {
+      "name": "Polícia Militar Do Estado Do Rio De Janeiro",
+      "industry": "Law Enforcement",
+      "context": "Discussed in relation to Comandante Nunes' role."
+    },
+    {
+      "name": "Bope (Batalhão De Operações Policiais Especiais)",
+      "industry": "Law Enforcement",
+      "context": "Discussed extensively in relation to leadership and training."
+    },
+    {
+      "name": "Fgv (Fundação Getulio Vargas)",
+      "industry": "Education",
+      "context": "Mentioned as the institution where Comandante Nunes completed his master's degree."
+    },
+    {
+      "name": "Singul",
+      "industry": "Serviços de Beleza e Bem-Estar",
+      "context": "Implementação de acompanhamento psicológico para profissionais"
+    },
+    {
+      "name": "Batalhão De Operações Especiais (Bope)",
+      "industry": "Segurança Pública",
+      "context": "Discussão sobre liderança em ambientes de alta pressão"
+    },
+    {
+      "name": "Batalhão De Operações Especiais (Bop)",
+      "industry": "Segurança Pública",
+      "context": "Organização militar liderada pelo Comandante Nunes"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Liderança",
+      "category": "Management"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Management"
+    },
+    {
+      "name": "Gestão",
+      "category": "Management"
+    },
+    {
+      "name": "Networking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Tomada de decisão em momentos críticos",
+      "category": "Management"
+    },
+    {
+      "name": "Distância do poder",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Tecnologia de gestão",
+      "category": "Gestão"
+    },
+    {
+      "name": "Legitimidade",
+      "category": "Liderança"
+    },
+    {
+      "name": "Crise",
+      "category": "Gestão de crises"
+    },
+    {
+      "name": "Adaptabilidade",
+      "category": "Gestão"
+    },
+    {
+      "name": "Massive Transformative Purpose (MTP)",
+      "category": "Leadership and Organizational Strategy"
+    },
+    {
+      "name": "Excellence in Training",
+      "category": "Operational Strategy"
+    },
+    {
+      "name": "Leadership in Crisis",
+      "category": "Leadership"
+    },
+    {
+      "name": "Trust Building",
+      "category": "Leadership"
+    },
+    {
+      "name": "High-Performance Teams",
+      "category": "Team Management"
+    },
+    {
+      "name": "liderança situacional",
+      "category": "Estratégia de Liderança"
+    },
+    {
+      "name": "acompanhamento psicológico",
+      "category": "Gestão de Recursos Humanos"
+    },
+    {
+      "name": "pipeline de contratação",
+      "category": "Gestão de Talentos"
+    },
+    {
+      "name": "transtorno pós-traumático",
+      "category": "Saúde Mental"
+    },
+    {
+      "name": "Treinamento de liderança",
+      "category": "Educação"
+    },
+    {
+      "name": "Ética",
+      "category": "Valores organizacionais"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Elite da Gestão: Todo Executivo Lidera Operações Especiais",
+      "author": "Maurílio Nunes"
+    },
+    {
+      "title": "Culture's Consequences",
+      "author": "Geert Hofstede"
+    },
+    {
+      "title": "Exponential Organizations",
+      "author": "Salim Ismail"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "25 anos",
+      "context": "Tempo de serviço de Maurílio Nunes na Polícia Militar"
+    },
+    {
+      "value": "19 anos",
+      "context": "Tempo de Maurílio Nunes até se tornar comandante do BOP"
+    },
+    {
+      "value": "3 dias",
+      "context": "Duração do programa G4 Imersão em Mentoria"
+    },
+    {
+      "value": "40 pessoas",
+      "context": "Número de reféns na operação na Ponte Rio-Niterói."
+    },
+    {
+      "value": "2019",
+      "context": "Ano da operação na Ponte Rio-Niterói."
+    },
+    {
+      "value": "5%",
+      "context": "Percentage of annual net revenue allocated to social causes as an example of integrating purpose into business."
+    },
+    {
+      "value": "47 posições abertas",
+      "context": "Vagas disponíveis no Grupo G4"
+    },
+    {
+      "value": "700+ posições abertas",
+      "context": "Vagas disponíveis em empresas mencionadas"
+    },
+    {
+      "value": "25 anos",
+      "context": "Tempo de serviço do Comandante Nunes na polícia"
+    },
+    {
+      "value": "20 anos",
+      "context": "Tempo de experiência de Tallis Gomes liderando pessoas"
+    },
+    {
+      "value": "300 academias",
+      "context": "Número de academias da Aliança lideradas por Fábio Gurgel"
+    },
+    {
+      "value": "20 países",
+      "context": "Presença internacional da Aliança"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Wendy Rhodes",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Acompanhamento Psicológico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maurílio Nunes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tomada De Decisão Em Momentos Críticos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maurílio Nunes",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Elite Da Gestão: Todo Executivo Lidera Operações Especiais",
+      "target_type": "company"
+    },
+    {
+      "source": "Comandante Nunes",
+      "source_type": "person",
+      "relation": "studied_at",
+      "target": "Fgv (Fundação Getulio Vargas)",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurílio Nunes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Polícia Militar Do Rio De Janeiro",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Aliança",
+      "target_type": "company"
+    },
+    {
+      "source": "Comandante Nunes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Polícia Militar Do Estado Do Rio De Janeiro",
+      "target_type": "company"
+    },
+    {
+      "source": "Chris Kyle",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Transtorno Pós-Traumático",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Comandante Nunes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Batalhão De Operações Especiais (Bope)",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Batalhão De Operações Especiais (Bop)",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurílio Nunes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Distância Do Poder",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Brito",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ayrton Senna",
+      "target_type": "person"
+    },
+    {
+      "source": "Salim Ismail",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Exponential Organizations",
+      "target_type": "company"
+    },
+    {
+      "source": "Geert Hofstede",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Distância Do Poder",
+      "target_type": "concept"
+    },
+    {
+      "source": "Singul",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Acompanhamento Psicológico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Brito",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Anheuser-Busch Inbev",
+      "target_type": "company"
+    },
+    {
+      "source": "Comandante Nunes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bope",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio Gurgel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aliança",
+      "target_type": "company"
+    },
+    {
+      "source": "Comandante Nunes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Batalhão De Operações Especiais (Bop)",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo G4",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo G4",
+      "target_type": "company"
+    },
+    {
+      "source": "Comandante Nunes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bope (Batalhão De Operações Policiais Especiais)",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

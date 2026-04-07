@@ -1,0 +1,550 @@
+{
+  "episode_id": "34748488655",
+  "title": "#023 - Criatividade como ferramenta empreendedora",
+  "date_published": 1629275406,
+  "duration": 3266,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Nizan Guanaes",
+      "role": "guest",
+      "company": "N Ideias",
+      "title": "Empresário"
+    },
+    {
+      "name": "Nizam",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Joe Biden",
+      "role": "mentioned",
+      "company": "Governo dos Estados Unidos",
+      "title": "Presidente"
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "role": "mentioned",
+      "company": "Governo dos Estados Unidos",
+      "title": "Ex-Presidente"
+    },
+    {
+      "name": "Ayn Rand",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofa"
+    },
+    {
+      "name": "Fabrício Blois",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": "Fundador"
+    },
+    {
+      "name": "Yuval Noah Harari",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor"
+    },
+    {
+      "name": "Lisandro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nizã",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Barão De Mauá",
+      "role": "mentioned",
+      "company": "Banco do Brasil",
+      "title": "Founder"
+    },
+    {
+      "name": "Dom Pedro Ii",
+      "role": "mentioned",
+      "company": "",
+      "title": "Emperor of Brazil"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla, SpaceX",
+      "title": "CEO"
+    },
+    {
+      "name": "Gabriel Jesus",
+      "role": "mentioned",
+      "company": "",
+      "title": "Football player"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Podcast e escola de negócios"
+    },
+    {
+      "name": "N Ideias",
+      "industry": "Consultoria",
+      "context": "Consultoria e estratégia"
+    },
+    {
+      "name": "Vitex",
+      "industry": "Tecnologia",
+      "context": "Evento com Barack Obama"
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Exemplo de empresa inovadora"
+    },
+    {
+      "name": "Facebook",
+      "industry": "Tecnologia",
+      "context": "Exemplo de empresa inovadora"
+    },
+    {
+      "name": "Moderna",
+      "industry": "Biotecnologia",
+      "context": "Desenvolvimento de vacinas"
+    },
+    {
+      "name": "Vetex",
+      "industry": "Tecnologia",
+      "context": "Discussão sobre impacto social e geração de riqueza"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Tecnologia",
+      "context": "Exemplo de empresa transformadora"
+    },
+    {
+      "name": "Spotify",
+      "industry": "Tecnologia",
+      "context": "Exemplo de impacto global"
+    },
+    {
+      "name": "Uber",
+      "industry": "Tecnologia",
+      "context": "Discussão sobre IPO e geração de riqueza"
+    },
+    {
+      "name": "Amil",
+      "industry": "Saúde",
+      "context": "Discussão sobre famílias bilionárias"
+    },
+    {
+      "name": "Safra",
+      "industry": "Financeiro",
+      "context": "Discussão sobre famílias bilionárias"
+    },
+    {
+      "name": "Móveli",
+      "industry": "Tecnologia",
+      "context": "Discussão sobre impacto social e geração de riqueza"
+    },
+    {
+      "name": "Magalu",
+      "industry": "Varejo e Mídia",
+      "context": "Mencionada em relação à aquisição do Jovem Nerd"
+    },
+    {
+      "name": "Jovem Nerd",
+      "industry": "Mídia e Entretenimento",
+      "context": "Adquirida pela Magalu"
+    },
+    {
+      "name": "Patagônia",
+      "industry": "Retail",
+      "context": "Mentioned as an example of responsible business"
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Discussed as a transformative company"
+    },
+    {
+      "name": "Alibaba",
+      "industry": "E-commerce",
+      "context": "Discussed in the context of state intervention"
+    },
+    {
+      "name": "Mimo",
+      "industry": "Various",
+      "context": "Invested by Nizã"
+    },
+    {
+      "name": "Moça",
+      "industry": "Various",
+      "context": "Invested by Nizã"
+    },
+    {
+      "name": "Motu",
+      "industry": "Various",
+      "context": "Invested by Nizã"
+    },
+    {
+      "name": "Egro",
+      "industry": "Various",
+      "context": "Invested by Nizã"
+    },
+    {
+      "name": "Enturra",
+      "industry": "Various",
+      "context": "Invested by Nizã"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inbound Marketing",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Outbound Marketing",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Lead Generation",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Capitalismo Meritocrático",
+      "category": "Sistema Econômico"
+    },
+    {
+      "name": "Revolução Industrial",
+      "category": "História Econômica"
+    },
+    {
+      "name": "Pobreza Extrema",
+      "category": "Problema Social"
+    },
+    {
+      "name": "livre-troca",
+      "category": "Economia"
+    },
+    {
+      "name": "globalização",
+      "category": "Economia"
+    },
+    {
+      "name": "welfare",
+      "category": "Política Social"
+    },
+    {
+      "name": "venture capital",
+      "category": "Investimento"
+    },
+    {
+      "name": "venture debt",
+      "category": "Investimento"
+    },
+    {
+      "name": "IPO",
+      "category": "Mercado Financeiro"
+    },
+    {
+      "name": "Humildade Intelectual",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "Investimento Anjo",
+      "category": "Investimento"
+    },
+    {
+      "name": "Gestão 4.0",
+      "category": "Gestão"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métrica de Satisfação"
+    },
+    {
+      "name": "Descentralização da Mídia",
+      "category": "Tendência de Comunicação"
+    },
+    {
+      "name": "Ikigai",
+      "category": "Filosofia Japonesa"
+    },
+    {
+      "name": "Vendas",
+      "category": "Business"
+    },
+    {
+      "name": "Marketing",
+      "category": "Business"
+    },
+    {
+      "name": "Comunicação",
+      "category": "Business"
+    },
+    {
+      "name": "Startups ambidestras",
+      "category": "Business"
+    },
+    {
+      "name": "Mídia programática",
+      "category": "Marketing"
+    },
+    {
+      "name": "Advisor",
+      "category": "Business"
+    },
+    {
+      "name": "Desigualdade",
+      "category": "Social"
+    },
+    {
+      "name": "Fim da pobreza",
+      "category": "Social"
+    },
+    {
+      "name": "Investidor Anjo",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "Board Member",
+      "category": "Governança Corporativa"
+    },
+    {
+      "name": "Palestras",
+      "category": "Educação e Treinamento"
+    },
+    {
+      "name": "Podcast",
+      "category": "Mídia e Comunicação"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Virtude do Egoísmo",
+      "author": "Ayn Rand"
+    },
+    {
+      "title": "Bora Vender",
+      "author": "Alfredo Soares"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "90%",
+      "context": "População mundial em pobreza extrema há 200 anos"
+    },
+    {
+      "value": "10%",
+      "context": "População mundial em pobreza extrema atualmente"
+    },
+    {
+      "value": "200 anos",
+      "context": "Período de evolução econômica e social"
+    },
+    {
+      "value": "10%",
+      "context": "População mundial vivendo em pobreza extrema atualmente"
+    },
+    {
+      "value": "300 bilhões de dólares",
+      "context": "Valoração da Uber durante IPO"
+    },
+    {
+      "value": "20-30 sócios",
+      "context": "Número de sócios na Vetex que alcançaram outro nível social"
+    },
+    {
+      "value": "70% do PIB brasileiro",
+      "context": "Represented by Barão de Mauá's companies"
+    },
+    {
+      "value": "30-40 anos",
+      "context": "Experiência acumulada mencionada pelo convidado"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Nizã",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Motu",
+      "target_type": "company"
+    },
+    {
+      "source": "Nizan Guanaes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "N Ideias",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Bora Vender",
+      "target_type": "company"
+    },
+    {
+      "source": "Ayn Rand",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Virtude Do Egoísmo",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Yuval Noah Harari",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Welfare",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nizan Guanaes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "N Ideias",
+      "target_type": "company"
+    },
+    {
+      "source": "Nizã",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Mimo",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Bora Vender",
+      "target_type": "company"
+    },
+    {
+      "source": "Inbound Marketing",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Lead Generation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabrício Blois",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Nizã",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Egro",
+      "target_type": "company"
+    },
+    {
+      "source": "Outbound Marketing",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Lead Generation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nizã",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Moça",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Magalu",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Jovem Nerd",
+      "target_type": "company"
+    },
+    {
+      "source": "Barão De Mauá",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Banco Do Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Nizã",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Enturra",
+      "target_type": "company"
+    },
+    {
+      "source": "Nizan Guanaes",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Vitex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Barack Obama",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

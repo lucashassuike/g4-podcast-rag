@@ -1,0 +1,452 @@
+{
+  "episode_id": "34748488562",
+  "title": "Empreendendo com Saúde: O Caminho para um Negócio Lucrativo - Com Romeu Domingues, Radiologista e Co-chairman da Dasa | Extremos",
+  "date_published": 1692176400,
+  "duration": 5206,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Romeu Domingues",
+      "role": "guest",
+      "company": "DASA",
+      "title": "Co-chairman"
+    },
+    {
+      "name": "Fernandinho Domingues",
+      "role": "mentioned",
+      "company": "Conexa Saúde",
+      "title": "Co-founder"
+    },
+    {
+      "name": "José Isaac Pérez",
+      "role": "mentioned",
+      "company": "Multiplan",
+      "title": "Founder"
+    },
+    {
+      "name": "Pedro Bueno",
+      "role": "mentioned",
+      "company": "DASA",
+      "title": "CEO"
+    },
+    {
+      "name": "Dulce Bueno",
+      "role": "mentioned",
+      "company": "DASA",
+      "title": "Acionista majoritária"
+    },
+    {
+      "name": "Oscar Bernardes",
+      "role": "mentioned",
+      "company": "DASA",
+      "title": "Conselheiro"
+    },
+    {
+      "name": "Estélio Tolda",
+      "role": "mentioned",
+      "company": "Mercado Livre",
+      "title": "Executivo"
+    },
+    {
+      "name": "Edson Bueno",
+      "role": "mentioned",
+      "company": "DASA",
+      "title": "Fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Dasa",
+      "industry": "Healthcare",
+      "context": "Romeu Domingues é co-chairman da empresa."
+    },
+    {
+      "name": "Cdpi",
+      "industry": "Healthcare",
+      "context": "Fundada por Romeu Domingues."
+    },
+    {
+      "name": "Multi Imagem",
+      "industry": "Healthcare",
+      "context": "Fundada por Romeu Domingues."
+    },
+    {
+      "name": "Irm",
+      "industry": "Healthcare",
+      "context": "Fundada por Romeu Domingues."
+    },
+    {
+      "name": "Conexa Saúde",
+      "industry": "Digital Health",
+      "context": "Co-fundada por Fernandinho Domingues e Romeu Domingues."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Promove o G4 Podcasts."
+    },
+    {
+      "name": "G4 Skills",
+      "industry": "Education Technology",
+      "context": "Ferramenta de desenvolvimento customizado para equipes."
+    },
+    {
+      "name": "Multiplan",
+      "industry": "Real Estate",
+      "context": "José Isaac Pérez foi investidor inicial das clínicas fundadas por Romeu Domingues."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Mentioned in relation to Estélio Tolda joining DASA's board."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inteligência Artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "Diagnóstico Médico",
+      "category": "Healthcare"
+    },
+    {
+      "name": "Ressonância Magnética",
+      "category": "Healthcare"
+    },
+    {
+      "name": "Tomografia Computadorizada",
+      "category": "Healthcare"
+    },
+    {
+      "name": "PET-CT",
+      "category": "Healthcare"
+    },
+    {
+      "name": "PACS",
+      "category": "Healthcare"
+    },
+    {
+      "name": "Network",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Business"
+    },
+    {
+      "name": "mentorship",
+      "category": "business strategy"
+    },
+    {
+      "name": "corporate governance",
+      "category": "business strategy"
+    },
+    {
+      "name": "innovation",
+      "category": "business strategy"
+    },
+    {
+      "name": "genomics",
+      "category": "healthcare technology"
+    },
+    {
+      "name": "artificial intelligence",
+      "category": "technology"
+    },
+    {
+      "name": "CRM",
+      "category": "business technology"
+    },
+    {
+      "name": "medicine personalization",
+      "category": "healthcare strategy"
+    },
+    {
+      "name": "ChatGPT",
+      "category": "Technology"
+    },
+    {
+      "name": "Epigenética",
+      "category": "Science"
+    },
+    {
+      "name": "Genoma",
+      "category": "Science"
+    },
+    {
+      "name": "Proteômica",
+      "category": "Science"
+    },
+    {
+      "name": "Microbioma",
+      "category": "Science"
+    },
+    {
+      "name": "Editing genético",
+      "category": "Science"
+    },
+    {
+      "name": "Finanças",
+      "category": "Business"
+    },
+    {
+      "name": "Inovação",
+      "category": "Business"
+    },
+    {
+      "name": "Equilíbrio entre vida pessoal e profissional",
+      "category": "Lifestyle"
+    },
+    {
+      "name": "Humildade",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "25 mil empresas",
+      "context": "Número de empresas treinadas pelo G4 Skills."
+    },
+    {
+      "value": "20 milhões de usuários",
+      "context": "Número de usuários atendidos pela Conexa Saúde em 4 anos."
+    },
+    {
+      "value": "1.500 pessoas por dia",
+      "context": "Atendimentos diários na clínica CDPI no Barra Shopping."
+    },
+    {
+      "value": "$2 million",
+      "context": "Cost of medical equipment purchased by Romeu Domingues."
+    },
+    {
+      "value": "$3 million",
+      "context": "Package cost for medical equipment."
+    },
+    {
+      "value": "3.75%",
+      "context": "Interest rate mentioned in relation to healthcare investments."
+    },
+    {
+      "value": "25%",
+      "context": "Tempo gasto por médicos em tarefas administrativas."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Pedro Bueno",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dasa",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "G4 Skills",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Epigenética",
+      "target_type": "concept"
+    },
+    {
+      "source": "Edson Bueno",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Dasa",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Multi Imagem",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernandinho Domingues",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Conexa Saúde",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Artificial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Genoma",
+      "target_type": "concept"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Conexa Saúde",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Microbioma",
+      "target_type": "concept"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dasa",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Chatgpt",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "José Isaac Pérez",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Cdpi",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Proteômica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Estélio Tolda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dasa",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cdpi",
+      "target_type": "company"
+    },
+    {
+      "source": "Estélio Tolda",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Dulce Bueno",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dasa",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Empreendedorismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Irm",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Oscar Bernardes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Dasa",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Finanças",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu Domingues",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Editing Genético",
+      "target_type": "concept"
+    }
+  ]
+}

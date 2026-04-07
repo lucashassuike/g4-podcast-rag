@@ -1,0 +1,613 @@
+{
+  "episode_id": "34748488508",
+  "title": "Como Terminar 2023 Sendo Mais Saudável? - Com Dr. Guilherme Takassi | Sem Atalhos",
+  "date_published": 1699952400,
+  "duration": 6015,
+  "chunks_processed": 9,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia e Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Dr. Guilherme Takassi",
+      "role": "guest",
+      "company": "Unifesp",
+      "title": "Médico Integrativo"
+    },
+    {
+      "name": "David Sinclair",
+      "role": "mentioned",
+      "company": "Harvard University",
+      "title": "Professor"
+    },
+    {
+      "name": "Mel Newport",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Stephen Sinatra",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cardiologist"
+    },
+    {
+      "name": "Dr. Michael Holley",
+      "role": "mentioned",
+      "company": "",
+      "title": "Pesquisador"
+    },
+    {
+      "name": "Dr. Coimbra",
+      "role": "mentioned",
+      "company": "",
+      "title": "Pesquisador"
+    },
+    {
+      "name": "Dr. Otto Verber",
+      "role": "mentioned",
+      "company": "",
+      "title": "Prêmio Nobel de Medicina"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Tayana",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de treinamentos e desenvolvimento de times"
+    },
+    {
+      "name": "Unifesp",
+      "industry": "Educação e Saúde",
+      "context": "Instituição de ensino onde Dr. Guilherme Takassi se formou"
+    },
+    {
+      "name": "Harvard University",
+      "industry": "Education",
+      "context": "David Sinclair's research on time-restricted eating"
+    },
+    {
+      "name": "8Sleep",
+      "industry": "Consumer Goods",
+      "context": "Mentioned as a company producing temperature-regulating blankets."
+    },
+    {
+      "name": "Maison U",
+      "industry": "Food and Beverage",
+      "context": "Fornecedor de chás mencionados como presente e prática de relaxamento."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Medicina Integrativa",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Educação e Treinamento"
+    },
+    {
+      "name": "Kaizen",
+      "category": "Melhoria Contínua"
+    },
+    {
+      "name": "Metabolismo da glicose",
+      "category": "conceito de saúde"
+    },
+    {
+      "name": "Massa magra",
+      "category": "conceito de saúde"
+    },
+    {
+      "name": "Sono de qualidade",
+      "category": "conceito de saúde"
+    },
+    {
+      "name": "Musculação",
+      "category": "atividade física"
+    },
+    {
+      "name": "Alimentação natural",
+      "category": "conceito de saúde"
+    },
+    {
+      "name": "Alimentos industrializados",
+      "category": "conceito de saúde"
+    },
+    {
+      "name": "Memória RAM e HD",
+      "category": "Neurociência"
+    },
+    {
+      "name": "Ciclo circadiano",
+      "category": "Saúde"
+    },
+    {
+      "name": "Luz azul e sono",
+      "category": "Saúde"
+    },
+    {
+      "name": "Time-restricted eating",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Adenosina e ATP",
+      "category": "Bioquímica"
+    },
+    {
+      "name": "Temperatura corporal e sono",
+      "category": "Saúde"
+    },
+    {
+      "name": "ATP (adenosina trifosfato)",
+      "category": "Biochemistry"
+    },
+    {
+      "name": "Mitocôndria",
+      "category": "Biology"
+    },
+    {
+      "name": "Cafeína",
+      "category": "Substance"
+    },
+    {
+      "name": "Sono",
+      "category": "Health"
+    },
+    {
+      "name": "Suplementação",
+      "category": "Health"
+    },
+    {
+      "name": "Magnésio",
+      "category": "Nutrient"
+    },
+    {
+      "name": "Vitamina D",
+      "category": "Nutrient"
+    },
+    {
+      "name": "Ômega 3",
+      "category": "Nutrient"
+    },
+    {
+      "name": "Saúde cardiovascular",
+      "category": "Health"
+    },
+    {
+      "name": "Pico de glicose",
+      "category": "Health"
+    },
+    {
+      "name": "Exames clínicos",
+      "category": "Medical Practice"
+    },
+    {
+      "name": "Vitamina K2",
+      "category": "Suplementação"
+    },
+    {
+      "name": "Creatina",
+      "category": "Suplementação"
+    },
+    {
+      "name": "Adenosina trifosfato (ATP)",
+      "category": "Bioquímica"
+    },
+    {
+      "name": "Diferença de potencial de membrana",
+      "category": "Bioquímica"
+    },
+    {
+      "name": "Produção de energia celular",
+      "category": "Bioquímica"
+    },
+    {
+      "name": "Sistema Nervoso Central",
+      "category": "Biologia e Saúde"
+    },
+    {
+      "name": "Cognição",
+      "category": "Psicologia e Saúde"
+    },
+    {
+      "name": "Demência",
+      "category": "Saúde"
+    },
+    {
+      "name": "Saúde da Mente",
+      "category": "Psicologia e Saúde"
+    },
+    {
+      "name": "TOC (Transtorno Obsessivo-Compulsivo)",
+      "category": "Psicologia e Saúde"
+    },
+    {
+      "name": "downregulation",
+      "category": "neuroscience"
+    },
+    {
+      "name": "serotonina",
+      "category": "neuroscience"
+    },
+    {
+      "name": "dopamina",
+      "category": "neuroscience"
+    },
+    {
+      "name": "via mesolímpica",
+      "category": "neuroscience"
+    },
+    {
+      "name": "autoconfiança",
+      "category": "psychology"
+    },
+    {
+      "name": "Daruma",
+      "category": "cultural concept"
+    },
+    {
+      "name": "time management",
+      "category": "strategy"
+    },
+    {
+      "name": "gestão de tempo",
+      "category": "framework"
+    },
+    {
+      "name": "consistência",
+      "category": "estratégia"
+    },
+    {
+      "name": "estratégia",
+      "category": "conceito"
+    },
+    {
+      "name": "execução",
+      "category": "conceito"
+    },
+    {
+      "name": "down regulation",
+      "category": "conceito"
+    },
+    {
+      "name": "desafio e solução",
+      "category": "framework"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Solução de Sinatra",
+      "author": "Stephen Sinatra"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7 dias gratuitos",
+      "context": "Demonstração do G4 Skills"
+    },
+    {
+      "value": "Expectativa de vida de 80 anos",
+      "context": "Média no Brasil"
+    },
+    {
+      "value": "30%",
+      "context": "Porcentagem de mortes globais atribuídas a doenças cardiovasculares"
+    },
+    {
+      "value": "1% por ano",
+      "context": "Taxa de perda de massa magra a partir dos 30 anos sem intervenção"
+    },
+    {
+      "value": "22 graus Celsius",
+      "context": "Temperatura ideal para dormir"
+    },
+    {
+      "value": "50%",
+      "context": "Percentage of the American population with magnesium deficiency."
+    },
+    {
+      "value": "82% menor incidência",
+      "context": "Grupo com vitamina D acima de 60 comparado ao grupo abaixo de 20 em relação ao câncer de mama"
+    },
+    {
+      "value": "3 a 5 gramas",
+      "context": "Dose média recomendada de creatina em estudos de longo prazo"
+    },
+    {
+      "value": "10 gramas",
+      "context": "Dose inicial de creatina em estratégia de loading"
+    },
+    {
+      "value": "5 horas",
+      "context": "Tempo médio diário que brasileiros passam no celular."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sistema Nervoso Central",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Time Management",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Tempo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Musculação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alimentação Natural",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Massa Magra",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sono",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Kaizen",
+      "target_type": "concept"
+    },
+    {
+      "source": "8Sleep",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sono",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Michael Holley",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vitamina D",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maison U",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Chá",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Coimbra",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vitamina D",
+      "target_type": "concept"
+    },
+    {
+      "source": "David Sinclair",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Harvard University",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sono De Qualidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Kaizen",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Melhoria Contínua",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Creatina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cognição",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Daruma",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alimentos Industrializados",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Stephen Sinatra",
+      "target_type": "person"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Demência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Unifesp",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Medicina Integrativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Metabolismo Da Glicose",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Otto Verber",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Produção De Energia Celular",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Suplementação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Guilherme Takassi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Saúde Da Mente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Otto Verber",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Câncer",
+      "target_type": "company"
+    },
+    {
+      "source": "Stephen Sinatra",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "A Solução De Sinatra",
+      "target_type": "company"
+    }
+  ]
+}

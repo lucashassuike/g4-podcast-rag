@@ -1,0 +1,79 @@
+{
+  "episode_id": "41116203329",
+  "title": "[CORTE] EMPRESAS QUE IGNORAM A INTELIGÊNCIA ARTIFICIAL VÃO FICAR PRA TRÁS",
+  "date_published": 1754946000,
+  "duration": 596,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Leonardo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Iago",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Mencionado como parte do ecossistema de educação empresarial"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inteligência Artificial (IA)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Automação de Processos",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Regulamentação da IA",
+      "category": "Política e Tecnologia"
+    },
+    {
+      "name": "Educação Básica",
+      "category": "Educação"
+    },
+    {
+      "name": "Trabalho Braçal",
+      "category": "Economia e Trabalho"
+    }
+  ],
+  "books": [],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Automação De Processos",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Inteligência Artificial (Ia)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Inteligência Artificial (Ia)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Eficiência Operacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Inteligência Artificial (Ia)",
+      "target_type": "concept"
+    }
+  ]
+}

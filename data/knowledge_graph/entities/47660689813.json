@@ -1,0 +1,240 @@
+{
+  "episode_id": "47660689813",
+  "title": "RETROSPECTIVA 2025 | EXTREMOS",
+  "date_published": 1767193200,
+  "duration": 2586,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Co-host"
+    },
+    {
+      "name": "Fred Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Co-host"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "Cimede",
+      "title": "Representative"
+    },
+    {
+      "name": "Maurício",
+      "role": "mentioned",
+      "company": "Cimede",
+      "title": "Director"
+    },
+    {
+      "name": "Júlio Balestrin",
+      "role": "mentioned",
+      "company": "Ecossistema de geração de conteúdo",
+      "title": "Sócio"
+    },
+    {
+      "name": "Fábio",
+      "role": "mentioned",
+      "company": "Ecossistema de academias",
+      "title": "Sócio"
+    },
+    {
+      "name": "Neto",
+      "role": "mentioned",
+      "company": "Ecossistema de infoprodutos",
+      "title": "Sócio"
+    },
+    {
+      "name": "Renato Cariane",
+      "role": "guest",
+      "company": "Ecossistema do Cariane",
+      "title": "Empreendedor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Fluency Pass",
+      "industry": "Education",
+      "context": "Sponsor of the podcast"
+    },
+    {
+      "name": "Fox Beach",
+      "industry": "Retail",
+      "context": "Sponsor of the podcast"
+    },
+    {
+      "name": "Ifood Benefício",
+      "industry": "Food Delivery",
+      "context": "Sponsor of the podcast"
+    },
+    {
+      "name": "Cimede",
+      "industry": "Pharmaceutical",
+      "context": "Company discussed in relation to investment and family involvement"
+    },
+    {
+      "name": "Jic",
+      "industry": "Investment Fund",
+      "context": "Discussed as a major sovereign wealth fund investing in Brazil"
+    },
+    {
+      "name": "Ecossistema De Geração De Conteúdo",
+      "industry": "Mídia e Entretenimento",
+      "context": "Produção de conteúdo digital"
+    },
+    {
+      "name": "Ecossistema De Infoprodutos",
+      "industry": "Educação e Treinamento",
+      "context": "Venda de produtos digitais"
+    },
+    {
+      "name": "Ecossistema De Academias",
+      "industry": "Fitness e Bem-estar",
+      "context": "Gestão de academias"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Investment Strategy",
+      "category": "Business"
+    },
+    {
+      "name": "Governance",
+      "category": "Business"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finance"
+    },
+    {
+      "name": "Social Media Utilization",
+      "category": "Marketing"
+    },
+    {
+      "name": "Reputation Management",
+      "category": "Business"
+    },
+    {
+      "name": "Infoproduto",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Ecossistema de negócios",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "ROI (Retorno sobre Investimento)",
+      "category": "Métrica Financeira"
+    },
+    {
+      "name": "Conteúdo de vídeo curto",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Engajamento em redes sociais",
+      "category": "Métrica de Marketing"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "700-800 billion USD",
+      "context": "Estimated portfolio size of JIC"
+    },
+    {
+      "value": "90,000",
+      "context": "Points of sale mentioned in the discussion"
+    },
+    {
+      "value": "70 milhões de reais",
+      "context": "Faturamento anual do ecossistema de infoprodutos"
+    },
+    {
+      "value": "400 milhões de reais",
+      "context": "Faturamento anual do ecossistema do Cariane"
+    },
+    {
+      "value": "27 pessoas",
+      "context": "Tamanho da equipe de geração de conteúdo"
+    },
+    {
+      "value": "8 milhões a 10 milhões de visualizações",
+      "context": "Visualizações dos primeiros vídeos produzidos"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Jic",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Cimede",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio Balestrin",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ecossistema De Geração De Conteúdo",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Neto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ecossistema De Infoprodutos",
+      "target_type": "company"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimede",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariane",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ecossistema Do Cariane",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurício",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimede",
+      "target_type": "company"
+    },
+    {
+      "source": "Maurício",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ecossistema De Geração De Conteúdo",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ecossistema De Academias",
+      "target_type": "company"
+    }
+  ]
+}

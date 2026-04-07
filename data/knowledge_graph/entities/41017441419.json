@@ -1,0 +1,71 @@
+{
+  "episode_id": "41017441419",
+  "title": "[CORTE] QUEM PAGA A CONTA DO JUROS ALTO É O POBRE COM ROMEU ZEMA",
+  "date_published": 1754686800,
+  "duration": 898,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Romeu Zema",
+      "role": "guest",
+      "company": "Governo de Minas Gerais",
+      "title": "Governador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Maria Antonieta",
+      "role": "mentioned",
+      "company": "",
+      "title": "Rainha da França"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Governo De Minas Gerais",
+      "industry": "Governamental",
+      "context": "Gestão pública e administração estadual"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Liderança",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Gestão financeira",
+      "category": "Administração pública"
+    },
+    {
+      "name": "Contato com a realidade",
+      "category": "Estratégia de liderança"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "240 mil funcionários com nome no SPC Serasa",
+      "context": "Situação financeira do estado de Minas Gerais antes da gestão de Romeu Zema"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu Zema",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Governo De Minas Gerais",
+      "target_type": "company"
+    }
+  ]
+}

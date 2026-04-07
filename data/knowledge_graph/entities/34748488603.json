@@ -1,0 +1,183 @@
+{
+  "episode_id": "34748488603",
+  "title": "Guilherme Benchimol - Como ser um Líder de Excelência, Cultura da XP e Pilares do Sucesso de um Empresário | Conectando os Pontos",
+  "date_published": 1682323225,
+  "duration": 3248,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Guilherme Benchimol",
+      "role": "guest",
+      "company": "XP Inc",
+      "title": "Fundador e Presidente Executivo do Conselho"
+    },
+    {
+      "name": "João Vítor",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio e CEO"
+    },
+    {
+      "name": "Maradon",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Xp Inc",
+      "industry": "Financeiro",
+      "context": "Fundada por Guilherme Benchimol, atua na área de investimentos e desbancarização."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa focada em mentoria e educação empresarial."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Financeiro",
+      "context": "Sócio investidor da XP Inc em determinado momento."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Desbancarização",
+      "category": "Mercado financeiro"
+    },
+    {
+      "name": "Meritocracia",
+      "category": "Gestão"
+    },
+    {
+      "name": "Coeficiente emocional",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Processo seletivo",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Liderança",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Crescimento empresarial",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Esporte competitivo",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Disciplina pessoal",
+      "category": "Desenvolvimento pessoal"
+    }
+  ],
+  "books": [
+    {
+      "title": "Na Raça",
+      "author": "Guilherme Benchimol"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "99%",
+      "context": "Concentração bancária no Brasil na época do início da XP Inc."
+    },
+    {
+      "value": "10-20%",
+      "context": "Concentração bancária nos Estados Unidos na mesma época."
+    },
+    {
+      "value": "22 anos",
+      "context": "Tempo desde a fundação da XP Inc até o momento da entrevista."
+    },
+    {
+      "value": "6 mil funcionários",
+      "context": "Tamanho atual da equipe da XP Inc"
+    },
+    {
+      "value": "15 mil assessores",
+      "context": "Número de assessores associados à XP Inc"
+    },
+    {
+      "value": "13 anos",
+      "context": "Idade da filha mais velha de Guilherme Benchimol"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "João Vítor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Disciplina",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Esporte Competitivo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maradon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Na Raça",
+      "target_type": "company"
+    },
+    {
+      "source": "Meritocracia",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Cultura Organizacional",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Itaú",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "episode_id": "34748488611",
+  "title": "Marcelo Toledo - Alta Performance na Prática, Benefícios da Meditação e Atividade Física | Sem Atalhos",
+  "date_published": 1679994018,
+  "duration": 2985,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Marcelo Toledo",
+      "role": "guest",
+      "company": "Clif",
+      "title": "Empresário"
+    },
+    {
+      "name": "Paramahansa Yogananda",
+      "role": "mentioned",
+      "company": "",
+      "title": "Mestre de Yoga"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "Apple Inc.",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "David Sinclair",
+      "role": "mentioned",
+      "company": "Universidade Harvard",
+      "title": "Professor"
+    },
+    {
+      "name": "Rita Castro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Nutricionista"
+    },
+    {
+      "name": "Ed",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Garmin",
+      "industry": "Tecnologia",
+      "context": "Fabricante do relógio utilizado para exercícios respiratórios"
+    },
+    {
+      "name": "Clif",
+      "industry": "Saúde e Bem-Estar",
+      "context": "Local de trabalho de Marcelo Toledo"
+    },
+    {
+      "name": "Life Extension",
+      "industry": "Health and Wellness",
+      "context": "Supplier of supplements used by Marcelo Toledo"
+    },
+    {
+      "name": "Onit",
+      "industry": "Health and Wellness",
+      "context": "Producer of Alphabrain supplement"
+    },
+    {
+      "name": "Iherb",
+      "industry": "E-commerce",
+      "context": "Platform where Marcelo Toledo purchases supplements"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Meditação",
+      "category": "Prática de bem-estar"
+    },
+    {
+      "name": "Kriya Yoga",
+      "category": "Prática de yoga"
+    },
+    {
+      "name": "Respiração guiada",
+      "category": "Técnica de bem-estar"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Ansiedade",
+      "category": "Saúde mental"
+    },
+    {
+      "name": "Depressão",
+      "category": "Saúde mental"
+    },
+    {
+      "name": "Psicodélicos",
+      "category": "Substâncias"
+    },
+    {
+      "name": "Ayahuasca",
+      "category": "Substância psicodélica"
+    },
+    {
+      "name": "Kundalini Yoga",
+      "category": "Prática de yoga"
+    },
+    {
+      "name": "Hatha Yoga",
+      "category": "Prática de yoga"
+    },
+    {
+      "name": "Musculação",
+      "category": "Atividade física"
+    },
+    {
+      "name": "Biohacking",
+      "category": "Saúde e longevidade"
+    },
+    {
+      "name": "Animal Based Diet",
+      "category": "Nutrição"
+    },
+    {
+      "name": "NAD",
+      "category": "Suplementação"
+    },
+    {
+      "name": "NMD",
+      "category": "Suplementação"
+    },
+    {
+      "name": "Resveratrol",
+      "category": "Biochemistry"
+    },
+    {
+      "name": "Quercetina",
+      "category": "Biochemistry"
+    },
+    {
+      "name": "Vitamina D",
+      "category": "Health"
+    },
+    {
+      "name": "DHA",
+      "category": "Health"
+    },
+    {
+      "name": "Alphabrain",
+      "category": "Smart Drug"
+    },
+    {
+      "name": "Ômega 3 e Ômega 6",
+      "category": "Nutrition"
+    },
+    {
+      "name": "Seed Hemp",
+      "category": "Nutrition"
+    },
+    {
+      "name": "Coenzima Q10",
+      "category": "Biochemistry"
+    },
+    {
+      "name": "Ozempic",
+      "category": "Pharmaceutical"
+    }
+  ],
+  "books": [
+    {
+      "title": "Autobiografia de um Iogue",
+      "author": "Paramahansa Yogananda"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "12 horas",
+      "context": "Duração média da jornada de trabalho de Marcelo Toledo"
+    },
+    {
+      "value": "4 litros",
+      "context": "Quantidade de água consumida diariamente por Marcelo Toledo"
+    },
+    {
+      "value": "10,000 UIS",
+      "context": "Daily intake of Vitamin D by Marcelo Toledo"
+    },
+    {
+      "value": "800 milligrams",
+      "context": "Daily intake of Resveratrol by Marcelo Toledo"
+    },
+    {
+      "value": "400 milligrams",
+      "context": "Daily intake of NMD by Marcelo Toledo"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alta Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Clif",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Paramahansa Yogananda",
+      "target_type": "person"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ayahuasca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Psicodélicos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dha",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "David Sinclair",
+      "target_type": "person"
+    },
+    {
+      "source": "David Sinclair",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Universidade Harvard",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nmd",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vitamina D",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paramahansa Yogananda",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Steve Jobs",
+      "target_type": "person"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ozempic",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Coenzima Q10",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Quercetina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alphabrain",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Life Extension",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Meditação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Onit",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Resveratrol",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Kundalini Yoga",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Seed Hemp",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nad",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Respiração Guiada",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Depressão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ed",
+      "target_type": "person"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Iherb",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ômega 3 E Ômega 6",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Kriya Yoga",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hatha Yoga",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ansiedade",
+      "target_type": "concept"
+    }
+  ]
+}

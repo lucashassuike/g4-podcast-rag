@@ -1,0 +1,525 @@
+{
+  "episode_id": "43157695749",
+  "title": "ELE BATEU RECORDE MUNDIAL AOS 42 E MUDOU DE VIDA | A JORNADA",
+  "date_published": 1759158000,
+  "duration": 5116,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Nicolas Santos",
+      "role": "guest",
+      "company": "",
+      "title": "Atleta profissional"
+    },
+    {
+      "name": "João Olivério",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Maressa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-nadadora"
+    },
+    {
+      "name": "Fernando Scherer",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-nadador"
+    },
+    {
+      "name": "Gustavo Borges",
+      "role": "guest",
+      "company": "",
+      "title": "Ex-nadador"
+    },
+    {
+      "name": "Cesar Cielo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Nadador"
+    },
+    {
+      "name": "Bruno Fratus",
+      "role": "mentioned",
+      "company": "",
+      "title": "Nadador"
+    },
+    {
+      "name": "Nicolas Oliveira",
+      "role": "mentioned",
+      "company": "",
+      "title": "Nadador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Nicholas Santos",
+      "role": "guest",
+      "company": "",
+      "title": "Atleta e empreendedor"
+    },
+    {
+      "name": "João Vitor",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "César Cielo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-nadador olímpico"
+    },
+    {
+      "name": "Vitor",
+      "role": "mentioned",
+      "company": "Z2",
+      "title": ""
+    },
+    {
+      "name": "Michael Phelps",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta de natação"
+    },
+    {
+      "name": "Bruno Fratos",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta de natação"
+    },
+    {
+      "name": "Paulão",
+      "role": "mentioned",
+      "company": "",
+      "title": "Técnico de natação"
+    },
+    {
+      "name": "Zinho",
+      "role": "mentioned",
+      "company": "",
+      "title": "Técnico de natação"
+    },
+    {
+      "name": "Nicolas",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filho de Gustavo Borges"
+    },
+    {
+      "name": "Xuxa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta"
+    },
+    {
+      "name": "Papa",
+      "role": "mentioned",
+      "company": "Vaticano",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Organização mencionada como parte do contexto do podcast e do mentor João Olivério."
+    },
+    {
+      "name": "Unisanta",
+      "industry": "Educação",
+      "context": "Instituição representada por Nicolas Santos durante sua carreira de natação."
+    },
+    {
+      "name": "Flamengo",
+      "industry": "Esportes",
+      "context": "Clube onde Nicolas Santos treinou ao se mudar para o Rio de Janeiro."
+    },
+    {
+      "name": "Elite Training",
+      "industry": "Capacitação e treinamento",
+      "context": "Empresa fundada por Nicholas Santos para capacitar treinadores e educadores físicos"
+    },
+    {
+      "name": "Athletic Lab",
+      "industry": "Treinamento esportivo",
+      "context": "Empresa americana representada por Nicholas Santos"
+    },
+    {
+      "name": "Outlive Nutrition",
+      "industry": "Suplementos nutricionais",
+      "context": "Empresa de suplementos fundada por Nicholas Santos"
+    },
+    {
+      "name": "Z2",
+      "industry": "Nutrição e suplementos",
+      "context": "Colaboração com Nicholas Santos para desenvolvimento de linha de suplementos"
+    },
+    {
+      "name": "Vaticano",
+      "industry": "Religião",
+      "context": "Convidou Gustavo Borges para representar o Brasil em uma competição na Itália."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta performance",
+      "category": "Estratégia de negócios e esportes"
+    },
+    {
+      "name": "Epigenética",
+      "category": "Ciência e saúde"
+    },
+    {
+      "name": "Jogos Olímpicos",
+      "category": "Evento esportivo"
+    },
+    {
+      "name": "Troféu Brasil",
+      "category": "Competição esportiva"
+    },
+    {
+      "name": "Genética e epigenética",
+      "category": "Ciência e saúde"
+    },
+    {
+      "name": "Alta performance sustentada",
+      "category": "Desempenho e longevidade"
+    },
+    {
+      "name": "Certificações internacionais",
+      "category": "Educação e capacitação"
+    },
+    {
+      "name": "Digitalização de negócios",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Habilidade pessoal"
+    },
+    {
+      "name": "Equilíbrio entre saúde, família e trabalho",
+      "category": "Conceito de vida"
+    },
+    {
+      "name": "Treinamento de alta intensidade",
+      "category": "Método de treinamento"
+    },
+    {
+      "name": "Jornada",
+      "category": "Conceito motivacional"
+    },
+    {
+      "name": "Família como base para o sucesso",
+      "category": "Valores pessoais"
+    },
+    {
+      "name": "Rotina de qualidade com filhos",
+      "category": "Gestão de tempo"
+    }
+  ],
+  "books": [
+    {
+      "title": "Guinness Book",
+      "author": "Guinness World Records"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "42 anos",
+      "context": "Idade de Nicolas Santos ao conquistar um título mundial."
+    },
+    {
+      "value": "6 títulos mundiais",
+      "context": "Número de campeonatos mundiais vencidos por Nicolas Santos."
+    },
+    {
+      "value": "2 Olimpíadas",
+      "context": "Participação de Nicolas Santos nos Jogos Olímpicos de Pequim 2008 e Londres 2012."
+    },
+    {
+      "value": "21,75 segundos",
+      "context": "Melhor tempo de Nicolas Santos nos 50 metros borboleta."
+    },
+    {
+      "value": "4 títulos mundiais",
+      "context": "Conquista de Nicholas Santos na natação entre 2012 e 2022"
+    },
+    {
+      "value": "Recorde mundial",
+      "context": "Conquista de Nicholas Santos na natação"
+    },
+    {
+      "value": "100 quilos",
+      "context": "Peso levantado por Nicholas Santos em treino de hand clean"
+    },
+    {
+      "value": "100 quilos",
+      "context": "Peso levantado por Nicholas Santos em treino"
+    },
+    {
+      "value": "16 semanas",
+      "context": "Duração típica de um programa de treino mencionado por Nicholas Santos"
+    },
+    {
+      "value": "40 países",
+      "context": "Número de países visitados por Nicholas Santos durante sua carreira"
+    },
+    {
+      "value": "40 países",
+      "context": "Número de países visitados por Gustavo Borges durante sua carreira."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Zinho",
+      "target_type": "person"
+    },
+    {
+      "source": "João Olivério",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Outlive Nutrition",
+      "target_type": "company"
+    },
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "João Vitor",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicolas Santos",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Unisanta",
+      "target_type": "company"
+    },
+    {
+      "source": "Nicolas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bruno Fratus",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Vitor",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bruno Fratos",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicolas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alfredo Soares",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "represented",
+      "target": "Athletic Lab",
+      "target_type": "company"
+    },
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Paulão",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicolas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nicolas Oliveira",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicolas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Cesar Cielo",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicolas Santos",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Flamengo",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Xuxa",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Papa",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicolas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rotina De Qualidade Com Filhos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nicolas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Fernando Scherer",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicolas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gustavo Borges",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gustavo Borges",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Elite Training",
+      "target_type": "company"
+    },
+    {
+      "source": "Nicolas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "João Olivério",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Michael Phelps",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicolas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Maressa",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Família Como Base Para O Sucesso",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Borges",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nicolas",
+      "target_type": "person"
+    },
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "collaborated_with",
+      "target": "Z2",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Nicholas Santos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "César Cielo",
+      "target_type": "person"
+    }
+  ]
+}

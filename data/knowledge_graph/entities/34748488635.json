@@ -1,0 +1,319 @@
+{
+  "episode_id": "34748488635",
+  "title": "Paulo Muzy (Parte 2) - Política, Valores Morais, Treino e Sono | Papo de Gestão com Tallis Gomes",
+  "date_published": 1664181622,
+  "duration": 4847,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host do G4 Podcast"
+    },
+    {
+      "name": "Paulo Muzy",
+      "role": "guest",
+      "company": "",
+      "title": "Convidado do episódio"
+    },
+    {
+      "name": "Tiago Ventura",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Roberta",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marina Da Silva",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Hayek",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cientista político e economista"
+    },
+    {
+      "name": "Tiririca",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Maria Clara",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Yoga Instructor"
+    },
+    {
+      "name": "Rubinho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Duzão",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Produtora do G4 Podcast"
+    },
+    {
+      "name": "Carrefour",
+      "industry": "Retail",
+      "context": "Mentioned in analogy about physical activities"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão",
+      "category": "Negócios"
+    },
+    {
+      "name": "Liderança",
+      "category": "Negócios"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Desempenho Pessoal"
+    },
+    {
+      "name": "Sono reparador",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Polissonografia",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Milagre da Manhã",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Restrição de sono",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Democracia",
+      "category": "Política"
+    },
+    {
+      "name": "Socialismo",
+      "category": "Política"
+    },
+    {
+      "name": "Política",
+      "category": "Conceito social"
+    },
+    {
+      "name": "Humanismo",
+      "category": "Conceito social"
+    },
+    {
+      "name": "Meritocracia",
+      "category": "Conceito social"
+    },
+    {
+      "name": "Regimes totalitários",
+      "category": "Conceito político"
+    },
+    {
+      "name": "Influência",
+      "category": "Conceito de marketing"
+    },
+    {
+      "name": "Marketing",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Maturidade muscular",
+      "category": "Health and Fitness"
+    },
+    {
+      "name": "Treino funcional",
+      "category": "Health and Fitness"
+    },
+    {
+      "name": "Resistência de força",
+      "category": "Health and Fitness"
+    },
+    {
+      "name": "Hipertrofia",
+      "category": "Health and Fitness"
+    },
+    {
+      "name": "Yoga",
+      "category": "Health and Fitness"
+    },
+    {
+      "name": "Jiu-Jitsu",
+      "category": "Martial Arts"
+    },
+    {
+      "name": "Flexibility",
+      "category": "Physical Fitness"
+    },
+    {
+      "name": "Hypertrophy",
+      "category": "Physical Fitness"
+    },
+    {
+      "name": "Resistance Training",
+      "category": "Physical Fitness"
+    },
+    {
+      "name": "Olympic Weightlifting",
+      "category": "Physical Fitness"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Milagre da Manhã",
+      "author": "Hal Elrod"
+    },
+    {
+      "title": "O Caminho da Servidão",
+      "author": "Hayek"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "3%",
+      "context": "População que se recupera plenamente com menos de 6 horas de sono"
+    },
+    {
+      "value": "7 horas",
+      "context": "Tempo recomendado de sono para desempenho físico e mental"
+    },
+    {
+      "value": "4 horas",
+      "context": "Mínimo de sono para evitar aumento de risco de morte e alterações metabólicas"
+    },
+    {
+      "value": "35 anos",
+      "context": "Idade de Tallis Gomes mencionada em relação à maturidade muscular"
+    },
+    {
+      "value": "43 anos",
+      "context": "Idade de Paulo Muzy mencionada em relação à maturidade muscular"
+    },
+    {
+      "value": "2 years",
+      "context": "Duration Paulo Muzy has been practicing yoga"
+    },
+    {
+      "value": "60 kilograms",
+      "context": "Rubinho's weight"
+    },
+    {
+      "value": "20 kilograms",
+      "context": "Weight used in Paulo Muzy's training program"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "Paulo Muzy",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Roberta",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Resistência De Força",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Maria Clara",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Maturidade Muscular",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Duzão",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Yoga",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rubinho",
+      "target_type": "person"
+    },
+    {
+      "source": "O Milagre Da Manhã",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Milagre Da Manhã",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hayek",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "O Caminho Da Servidão",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bel",
+      "target_type": "person"
+    }
+  ]
+}

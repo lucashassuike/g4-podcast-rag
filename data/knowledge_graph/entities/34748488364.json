@@ -1,0 +1,251 @@
+{
+  "episode_id": "34748488364",
+  "title": "ESTRATÉGIAS PARA VENDER MAIS E MELHOR EM 2025 COM YAGO MARTINS | PAPO DE GESTÃO",
+  "date_published": 1733727600,
+  "duration": 2597,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Iago Martins",
+      "role": "guest",
+      "company": "Nauki",
+      "title": "Fundador"
+    },
+    {
+      "name": "Yago Martins",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thiago",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Organizador do evento G4 Vale e anfitrião do podcast."
+    },
+    {
+      "name": "Nauki",
+      "industry": "Tecnologia e Consultoria",
+      "context": "Empresa fundada por Iago Martins."
+    },
+    {
+      "name": "Lopes",
+      "industry": "Mercado Imobiliário",
+      "context": "Empresa onde Iago Martins liderou equipes de vendas."
+    },
+    {
+      "name": "Inter",
+      "industry": "Financeiro",
+      "context": "Empresa onde Iago Martins foi diretor de transformação digital."
+    },
+    {
+      "name": "G4 Sales",
+      "industry": "Educação e Consultoria",
+      "context": "Mencionado como fonte de padrões para motivos de perdido."
+    },
+    {
+      "name": "G4 Traction",
+      "industry": "Educação e Consultoria",
+      "context": "Mencionado como fonte de padrões para motivos de perdido."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Disciplina",
+      "category": "Habilidades de Gestão"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Estratégias de Negócios"
+    },
+    {
+      "name": "Taxa de Conversão",
+      "category": "Métricas de Vendas"
+    },
+    {
+      "name": "Motivo de Perdido",
+      "category": "Métricas de Vendas"
+    },
+    {
+      "name": "Facebook Ads",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "CRM",
+      "category": "Ferramentas de Gestão"
+    },
+    {
+      "name": "Inteligência emocional",
+      "category": "Habilidade de gestão"
+    },
+    {
+      "name": "Distribuição inteligente de leads",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Métricas IPC",
+      "category": "Métrica de vendas"
+    },
+    {
+      "name": "Personalização de processos",
+      "category": "Estratégia de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "9 mil pessoas presencialmente",
+      "context": "Participação no evento G4 Vale."
+    },
+    {
+      "value": "10 mil pessoas online",
+      "context": "Participação no evento G4 Vale."
+    },
+    {
+      "value": "300 corretores",
+      "context": "Equipe liderada por Iago Martins na Lopes."
+    },
+    {
+      "value": "200 mil ligações por dia",
+      "context": "Volume de ligações realizadas no mercado imobiliário."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Iago Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Iago Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Inter",
+      "target_type": "company"
+    },
+    {
+      "source": "Yago Martins",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Crm",
+      "target_type": "concept"
+    },
+    {
+      "source": "Yago Martins",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Emocional",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Sales",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Motivo De Perdido",
+      "target_type": "concept"
+    },
+    {
+      "source": "Yago Martins",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Taxa De Conversão",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Educação E Consultoria",
+      "target_type": "company"
+    },
+    {
+      "source": "Yago Martins",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Distribuição Inteligente De Leads",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Traction",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Motivo De Perdido",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nauki",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Tecnologia E Consultoria",
+      "target_type": "company"
+    },
+    {
+      "source": "Yago Martins",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Métricas Ipc",
+      "target_type": "concept"
+    },
+    {
+      "source": "Yago Martins",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Personalização De Processos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Iago Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Lopes",
+      "target_type": "company"
+    },
+    {
+      "source": "Iago Martins",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nauki",
+      "target_type": "company"
+    },
+    {
+      "source": "Yago Martins",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Motivo De Perdido",
+      "target_type": "concept"
+    }
+  ]
+}

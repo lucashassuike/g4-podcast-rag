@@ -1,0 +1,234 @@
+{
+  "episode_id": "34748488613",
+  "title": "Izabella Camargo - Saúde Mental, Burnout e Produtividade Sustentável | Sem Atalhos",
+  "date_published": 1679475601,
+  "duration": 3957,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Izabella Camargo",
+      "role": "guest",
+      "company": "",
+      "title": "Jornalista e Escritora"
+    },
+    {
+      "name": "Monja Cohen",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gustavo Borges",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta Olímpico"
+    },
+    {
+      "name": "Fulvio Skors",
+      "role": "mentioned",
+      "company": "Unifesp",
+      "title": "Professor"
+    },
+    {
+      "name": "Will Smith",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bill George",
+      "role": "mentioned",
+      "company": "Harvard University",
+      "title": "Professor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Produtividade e desenvolvimento de habilidades"
+    },
+    {
+      "name": "Unifesp",
+      "industry": "Educação e Pesquisa",
+      "context": "Estudos sobre saúde mental e produtividade"
+    },
+    {
+      "name": "Harvard University",
+      "industry": "Education",
+      "context": "Mentioned in relation to Bill George's teachings"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Produtividade Sustentável",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Atualização de Identidade",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Saúde Mental",
+      "category": "Bem-estar"
+    },
+    {
+      "name": "Alta Performance",
+      "category": "Desempenho Profissional"
+    },
+    {
+      "name": "Burnout",
+      "category": "Conceito de Saúde"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Conceito de Gestão"
+    },
+    {
+      "name": "Trabalho Duro",
+      "category": "Conceito de Ética de Trabalho"
+    },
+    {
+      "name": "Exercícios Físicos",
+      "category": "Conceito de Bem-Estar"
+    },
+    {
+      "name": "Meditação",
+      "category": "Conceito de Bem-Estar"
+    },
+    {
+      "name": "Higiene Bucal",
+      "category": "Health"
+    },
+    {
+      "name": "Educação e Saúde",
+      "category": "Education"
+    },
+    {
+      "name": "Workaholic",
+      "category": "Work Culture"
+    },
+    {
+      "name": "Liderança",
+      "category": "Business"
+    },
+    {
+      "name": "Direitos e Deveres",
+      "category": "Social Concepts"
+    }
+  ],
+  "books": [
+    {
+      "title": "Livro de Izabella Camargo",
+      "author": "Izabella Camargo"
+    },
+    {
+      "title": "Em Busca da Felicidade",
+      "author": "Chris Gardner"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "4 vezes mais chances de morte",
+      "context": "Dormir menos de seis horas por noite"
+    },
+    {
+      "value": "20% mais neurônios",
+      "context": "Ratinhos que fazem atividade física"
+    },
+    {
+      "value": "40% mais neurônios",
+      "context": "Ratinhos em situações de lazer"
+    },
+    {
+      "value": "11 horas por dia",
+      "context": "Exemplo de carga horária de trabalho mencionada."
+    },
+    {
+      "value": "8 horas por dia",
+      "context": "Tempo recomendado para sono diário."
+    },
+    {
+      "value": "8 horas",
+      "context": "Recomendação média de sono diário"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Izabella Camargo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Burnout",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bill George",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Harvard University",
+      "target_type": "company"
+    },
+    {
+      "source": "Izabella Camargo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Saúde Mental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Izabella Camargo",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Atualização De Identidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Izabella Camargo",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Livro De Izabella Camargo",
+      "target_type": "company"
+    },
+    {
+      "source": "Izabella Camargo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Produtividade Sustentável",
+      "target_type": "concept"
+    },
+    {
+      "source": "Izabella Camargo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Em Busca Da Felicidade",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fulvio Skors",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Unifesp",
+      "target_type": "company"
+    }
+  ]
+}

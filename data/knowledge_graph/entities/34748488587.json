@@ -1,0 +1,567 @@
+{
+  "episode_id": "34748488587",
+  "title": "Theo Orosco - A venda da Exact Sales para a RD Station | Papo de Gestão",
+  "date_published": 1686322928,
+  "duration": 4658,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Theo Orozco",
+      "role": "guest",
+      "company": "Exact Sales",
+      "title": "CEO"
+    },
+    {
+      "name": "Eric Santos",
+      "role": "mentioned",
+      "company": "RD Station",
+      "title": "CEO"
+    },
+    {
+      "name": "Jaime",
+      "role": "mentioned",
+      "company": "Nelly",
+      "title": "CEO"
+    },
+    {
+      "name": "Theo Orosco",
+      "role": "guest",
+      "company": "Exact Sales",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Eric",
+      "role": "mentioned",
+      "company": "RD Station",
+      "title": ""
+    },
+    {
+      "name": "Bruno",
+      "role": "mentioned",
+      "company": "RD Station",
+      "title": "Product Manager"
+    },
+    {
+      "name": "Eduardo Martins",
+      "role": "mentioned",
+      "company": "Exact Sales",
+      "title": "CEO"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Oswaldo",
+      "role": "mentioned",
+      "company": "Exact Sales",
+      "title": "Responsável por eventos"
+    },
+    {
+      "name": "Baran",
+      "role": "mentioned",
+      "company": "NonStop",
+      "title": "CEO"
+    },
+    {
+      "name": "Whindersson Nunes",
+      "role": "mentioned",
+      "company": "GK",
+      "title": "Partner"
+    },
+    {
+      "name": "Ernesto",
+      "role": "mentioned",
+      "company": "TOTS",
+      "title": "Founder"
+    },
+    {
+      "name": "Miguel Aburrabo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Entrepreneur"
+    },
+    {
+      "name": "Rachel Maia",
+      "role": "mentioned",
+      "company": "Lacoste",
+      "title": "Former CEO"
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "RD Station",
+      "title": "CFO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Exact Sales",
+      "industry": "Sales Engagement Software",
+      "context": "Empresa fundada e liderada por Theo Orozco, recentemente adquirida pela RD Station."
+    },
+    {
+      "name": "Rd Station",
+      "industry": "Marketing Automation",
+      "context": "Adquiriu a Exact Sales como parte de sua estratégia de expansão."
+    },
+    {
+      "name": "Tots",
+      "industry": "Technology",
+      "context": "Empresa envolvida na aquisição da Exact Sales através da RD Station."
+    },
+    {
+      "name": "Nelly",
+      "industry": "Technology",
+      "context": "Empresa que negociou com a Exact Sales anteriormente."
+    },
+    {
+      "name": "Astela",
+      "industry": "Venture Capital",
+      "context": "Fundo de investimento que apoiou a Exact Sales."
+    },
+    {
+      "name": "Stella",
+      "industry": "Investment",
+      "context": "Mentioned as a professional investor with a good track record."
+    },
+    {
+      "name": "Veli Laser",
+      "industry": "Laser Equipment",
+      "context": "Theo Orosco's first company"
+    },
+    {
+      "name": "Celta Incubator",
+      "industry": "Startup Incubator",
+      "context": "Location of RD Station and Veli Laser"
+    },
+    {
+      "name": "Softplan",
+      "industry": "Tecnologia",
+      "context": "Mencionada como parte do ecossistema de Florianópolis"
+    },
+    {
+      "name": "Vetex",
+      "industry": "E-commerce",
+      "context": "Parte do grupo mencionado"
+    },
+    {
+      "name": "Universo Toto",
+      "industry": "Events",
+      "context": "Mentioned in relation to Oswaldo's work"
+    },
+    {
+      "name": "Nonstop",
+      "industry": "Entertainment",
+      "context": "Company led by Baran"
+    },
+    {
+      "name": "Gk",
+      "industry": "Entertainment",
+      "context": "Associated with Whindersson Nunes"
+    },
+    {
+      "name": "Lacoste",
+      "industry": "Fashion",
+      "context": "Rachel Maia was a former CEO"
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Sold to Dafit"
+    },
+    {
+      "name": "Dafit",
+      "industry": "E-commerce",
+      "context": "Acquired Canoe"
+    },
+    {
+      "name": "Rappi",
+      "industry": "Delivery Services",
+      "context": "Theo Orosco sold his participation"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Sales Engagement",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Earn-out",
+      "category": "Financial Terms"
+    },
+    {
+      "name": "Churn Negativo",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Liquidation Preference",
+      "category": "Investment Terms"
+    },
+    {
+      "name": "Valuation",
+      "category": "Investment Terms"
+    },
+    {
+      "name": "ARR (Annual Recurring Revenue)",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "due diligence",
+      "category": "Business Process"
+    },
+    {
+      "name": "drag along",
+      "category": "Legal Clause"
+    },
+    {
+      "name": "tag along",
+      "category": "Legal Clause"
+    },
+    {
+      "name": "MOU (Memorandum of Understanding)",
+      "category": "Business Documentation"
+    },
+    {
+      "name": "CRM (Customer Relationship Management)",
+      "category": "Business Software"
+    },
+    {
+      "name": "RD Summit",
+      "category": "Marketing Event"
+    },
+    {
+      "name": "Marketing Digital",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Sinergia",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Quick Win",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Higienização",
+      "category": "Business Process"
+    },
+    {
+      "name": "MVP Style",
+      "category": "Product Development"
+    },
+    {
+      "name": "M&A",
+      "category": "Corporate Finance"
+    },
+    {
+      "name": "Senioridade",
+      "category": "Leadership"
+    },
+    {
+      "name": "deal-making",
+      "category": "business strategy"
+    },
+    {
+      "name": "company culture",
+      "category": "organizational development"
+    },
+    {
+      "name": "mentorship",
+      "category": "professional development"
+    },
+    {
+      "name": "inteligência artificial",
+      "category": "technology"
+    }
+  ],
+  "books": [
+    {
+      "title": "Zero a 50 milhões: Aprendizados reais de uma trajetória empreendedora",
+      "author": "Theo Orozco"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "15,000",
+      "context": "Número de usuários do software da Exact Sales."
+    },
+    {
+      "value": "51 milhões de reais",
+      "context": "Valor inicial da aquisição da Exact Sales pela RD Station."
+    },
+    {
+      "value": "2,500",
+      "context": "Número de canais da RD Station que se tornaram acessíveis à Exact Sales."
+    },
+    {
+      "value": "8x ARR",
+      "context": "The lowest deal multiple achieved by Exact Sales in its transactions."
+    },
+    {
+      "value": "9 meses",
+      "context": "Duração do processo de negociação entre Exact Sales e RD Station"
+    },
+    {
+      "value": "40,000 users",
+      "context": "RD Station's user base relevant to Exact Sales"
+    },
+    {
+      "value": "Largest marketing event in Brazil",
+      "context": "RD Summit"
+    },
+    {
+      "value": "600 integrações",
+      "context": "Integrações entre RD Station e Exact Sales"
+    },
+    {
+      "value": "10 milhões",
+      "context": "Meta antes de expandir para um segundo canal"
+    },
+    {
+      "value": "Nine months",
+      "context": "Duration of the M&A process for Exact Sales"
+    },
+    {
+      "value": "Three companies",
+      "context": "Number of companies Theo Orosco sold his participation in"
+    },
+    {
+      "value": "Three days before closing",
+      "context": "Time when the last clause of the deal was resolved"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Exact Sales",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Tots",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Veli Laser",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "sold",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Exact Sales",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Vetex",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Stella",
+      "target_type": "company"
+    },
+    {
+      "source": "Whindersson Nunes",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Gk",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tots",
+      "target_type": "company"
+    },
+    {
+      "source": "Rd Station",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Exact Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Astela",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Exact Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dafit",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Exact Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Exact Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Exact Sales",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Softplan",
+      "target_type": "company"
+    },
+    {
+      "source": "Ernesto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tots",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Santos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Exact Sales",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Oswaldo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Universo Toto",
+      "target_type": "company"
+    },
+    {
+      "source": "Exact Sales",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Eduardo Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Exact Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Baran",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nonstop",
+      "target_type": "company"
+    },
+    {
+      "source": "Rd Station",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Celta Incubator",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Rachel Maia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Lacoste",
+      "target_type": "company"
+    },
+    {
+      "source": "Jaime",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nelly",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Eric",
+      "target_type": "person"
+    },
+    {
+      "source": "Theo Orozco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Exact Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Theo Orosco",
+      "source_type": "person",
+      "relation": "sold",
+      "target": "Canoe",
+      "target_type": "company"
+    }
+  ]
+}

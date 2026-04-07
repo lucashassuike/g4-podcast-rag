@@ -1,0 +1,84 @@
+{
+  "episode_id": "41815195203",
+  "title": "[CORTE] O JOGO VIROU DEPOIS DAS 500 FRANQUIAS",
+  "date_published": 1756328400,
+  "duration": 957,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Igor",
+      "role": "mentioned",
+      "company": "Espaço Laser",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Espaço Laser",
+      "industry": "Estética e Beleza",
+      "context": "Mencionada em relação ao crescimento e operação de franquias."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "franquias",
+      "category": "modelo de negócios"
+    },
+    {
+      "name": "sellout",
+      "category": "métrica de vendas"
+    },
+    {
+      "name": "taxa de franquia",
+      "category": "modelo de negócios"
+    },
+    {
+      "name": "royalties",
+      "category": "modelo de negócios"
+    },
+    {
+      "name": "cultura organizacional",
+      "category": "conceito de gestão"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "983",
+      "context": "Número de franquias vendidas."
+    },
+    {
+      "value": "723",
+      "context": "Número de franquias em operação."
+    },
+    {
+      "value": "520",
+      "context": "Número de funcionários na equipe."
+    },
+    {
+      "value": "300",
+      "context": "Número de funcionários na fábrica."
+    },
+    {
+      "value": "12.500 metros quadrados",
+      "context": "Tamanho atual da indústria."
+    },
+    {
+      "value": "1.2 bilhões",
+      "context": "Vendas totais (sellout)."
+    },
+    {
+      "value": "430 a 470 milhões",
+      "context": "Faturamento da franqueadora."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Igor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Espaço Laser",
+      "target_type": "company"
+    }
+  ]
+}

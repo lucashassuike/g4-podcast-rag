@@ -1,0 +1,276 @@
+{
+  "episode_id": "34748488504",
+  "title": "Liderança Consistente Em Momentos Incertos - Com Juliano Tubino (CEO RD Station) | Papo de Gestão",
+  "date_published": 1700469000,
+  "duration": 3480,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Juliano Tubino",
+      "role": "guest",
+      "company": "RD Station",
+      "title": "CEO"
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Founder"
+    },
+    {
+      "name": "Edmund Safra",
+      "role": "mentioned",
+      "company": "",
+      "title": "Banker"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Neuralink",
+      "title": ""
+    },
+    {
+      "name": "Laércio Cosentino",
+      "role": "mentioned",
+      "company": "Totus",
+      "title": "Former President"
+    },
+    {
+      "name": "Denis",
+      "role": "mentioned",
+      "company": "Totus",
+      "title": "President"
+    },
+    {
+      "name": "Eric Santos",
+      "role": "mentioned",
+      "company": "RD Station",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Rd Station",
+      "industry": "Technology",
+      "context": "Juliano Tubino is the CEO of RD Station and discussed the company's summit with over 18,000 attendees per day."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Juliano Tubino worked at Microsoft, including direct interactions with Bill Gates and developing global programs."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Juliano Tubino worked at Amazon after leaving Microsoft."
+    },
+    {
+      "name": "Netshoes",
+      "industry": "E-commerce",
+      "context": "Juliano Tubino managed operations at Netshoes during major events like the World Cup and Olympics."
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Mentioned as a competitor to Netshoes during Juliano Tubino's tenure."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts discussed G4 Skills, a training platform for teams developed by G4 Educação."
+    },
+    {
+      "name": "Totus",
+      "industry": "Enterprise Software",
+      "context": "Discussed in the context of acquisitions and M&A strategies."
+    },
+    {
+      "name": "Boston Scientific",
+      "industry": "Medical Devices",
+      "context": "Mentioned as a company with investments in biotechnological components."
+    },
+    {
+      "name": "Neuralink",
+      "industry": "Neurotechnology",
+      "context": "Mentioned in the context of advanced AI and human integration."
+    },
+    {
+      "name": "Totvs",
+      "industry": "Tecnologia",
+      "context": "Empresa onde Juliano Tubino é membro do conselho"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Training Platform"
+    },
+    {
+      "name": "Technology Development",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Startup Ecosystem",
+      "category": "Business Environment"
+    },
+    {
+      "name": "Global Career Development",
+      "category": "Professional Growth"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Burnout",
+      "category": "Workplace Challenges"
+    },
+    {
+      "name": "Business Performance",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Education as Value Creation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Technology Convergence",
+      "category": "Technological Evolution"
+    },
+    {
+      "name": "Liderança Consistente",
+      "category": "Gestão"
+    },
+    {
+      "name": "RD Summit",
+      "category": "Evento"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Jornada de um Banqueiro",
+      "author": "Edmund Safra"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "18,000 attendees per day",
+      "context": "RD Station summit discussed by Juliano Tubino."
+    },
+    {
+      "value": "Top 5",
+      "context": "G4 Podcast ranking among business podcasts."
+    },
+    {
+      "value": "Three consecutive quarters of growth",
+      "context": "RD Station's financial performance under Juliano Tubino's leadership."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Laércio Cosentino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Totus",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliano Tubino",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Totus",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "developed",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Juliano Tubino",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Edmund Safra",
+      "target_type": "person"
+    },
+    {
+      "source": "Eric Santos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliano Tubino",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliano Tubino",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bill Gates",
+      "target_type": "person"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Neuralink",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliano Tubino",
+      "source_type": "person",
+      "relation": "member_of",
+      "target": "Totus",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliano Tubino",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Netshoes",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliano Tubino",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Totus",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliano Tubino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Totvs",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliano Tubino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rd Station",
+      "target_type": "company"
+    }
+  ]
+}

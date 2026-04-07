@@ -1,0 +1,434 @@
+{
+  "episode_id": "39411090931",
+  "title": "MENTALIDADE BARSI: O INVESTIMENTO QUE CONSTRÓI LIBERDADE",
+  "date_published": 1751457600,
+  "duration": 4450,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Louise Barsi",
+      "role": "guest",
+      "company": "AGF (Ações Garantem o Futuro)",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Fábio",
+      "role": "mentioned",
+      "company": "AGF",
+      "title": ""
+    },
+    {
+      "name": "Felipe",
+      "role": "mentioned",
+      "company": "AGF",
+      "title": ""
+    },
+    {
+      "name": "Barça",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Flávio Augusto",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bill Perkins",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Barsi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts the podcast and provides entrepreneurial education."
+    },
+    {
+      "name": "Agf (Ações Garantem O Futuro)",
+      "industry": "Finance",
+      "context": "Founded by Louise Barsi, focuses on educating about dividend investing."
+    },
+    {
+      "name": "Banco Do Brasil",
+      "industry": "Financeiro",
+      "context": "Mencionado como exemplo de investimento com alto yield de dividendos."
+    },
+    {
+      "name": "Bb Seguridade",
+      "industry": "Seguros",
+      "context": "Mencionada em contexto de descasamento de passivos e ativos."
+    },
+    {
+      "name": "Elite",
+      "industry": "Finance",
+      "context": "Corretora onde a convidada iniciou sua carreira como analista de ações."
+    },
+    {
+      "name": "Agf",
+      "industry": "Finance",
+      "context": "Empresa fundada pela convidada e seus parceiros em 2019."
+    },
+    {
+      "name": "Levy",
+      "industry": "Fashion",
+      "context": "Marca mencionada em relação ao custo de produção de bolsas."
+    },
+    {
+      "name": "Mate",
+      "industry": "Fashion",
+      "context": "Marca mencionada em relação ao custo de produção de bolsas."
+    },
+    {
+      "name": "Latam",
+      "industry": "Aviação",
+      "context": "Mencionada em relação a viagens e embarque de malas."
+    },
+    {
+      "name": "Unipar",
+      "industry": "Químico",
+      "context": "Mencionado como exemplo de empresa de capital aberto com valorização significativa"
+    },
+    {
+      "name": "Brf",
+      "industry": "Alimentos",
+      "context": "Ação que gerou prejuízo"
+    },
+    {
+      "name": "Gf",
+      "industry": "Education",
+      "context": "Potential students for GF mentioned in the context of the event"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Dividend Investing",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Value Investing",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "BEST Framework",
+      "category": "Investment Analysis"
+    },
+    {
+      "name": "Stock Picking",
+      "category": "Estratégia de Investimento"
+    },
+    {
+      "name": "ETFs",
+      "category": "Instrumentos Financeiros"
+    },
+    {
+      "name": "Dividend Yield",
+      "category": "Métrica Financeira"
+    },
+    {
+      "name": "Selic",
+      "category": "Economia"
+    },
+    {
+      "name": "Renda Fixa",
+      "category": "Instrumentos Financeiros"
+    },
+    {
+      "name": "Circuit Breaker",
+      "category": "Mercado Financeiro"
+    },
+    {
+      "name": "Dividendos",
+      "category": "Finance"
+    },
+    {
+      "name": "Frugalidade",
+      "category": "Lifestyle"
+    },
+    {
+      "name": "Analista CNPI",
+      "category": "Finance"
+    },
+    {
+      "name": "Carteira de ações",
+      "category": "Finance"
+    },
+    {
+      "name": "Prolabore",
+      "category": "Finance"
+    },
+    {
+      "name": "Investimento em ações",
+      "category": "Finanças"
+    },
+    {
+      "name": "Reserva de emergência",
+      "category": "Finanças pessoais"
+    },
+    {
+      "name": "Diversificação de patrimônio",
+      "category": "Finanças"
+    },
+    {
+      "name": "zona de competência",
+      "category": "Investimento"
+    },
+    {
+      "name": "fluxo de caixa",
+      "category": "Finanças"
+    },
+    {
+      "name": "renda variável",
+      "category": "Investimento"
+    },
+    {
+      "name": "juros compostos",
+      "category": "Finanças"
+    },
+    {
+      "name": "zona de arrebentação",
+      "category": "Investimento"
+    },
+    {
+      "name": "research",
+      "category": "Análise de mercado"
+    },
+    {
+      "name": "Reforma administrativa e política",
+      "category": "Política e economia"
+    },
+    {
+      "name": "Investimento de longo prazo",
+      "category": "Finanças"
+    },
+    {
+      "name": "investment",
+      "category": "finance"
+    },
+    {
+      "name": "freedom",
+      "category": "personal development"
+    }
+  ],
+  "books": [
+    {
+      "title": "Morra Sem Nada",
+      "author": "Bill Perkins"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "30,000",
+      "context": "Number of students educated by AGF."
+    },
+    {
+      "value": "1,000,000 BRL/day",
+      "context": "Dividend income reportedly earned by Louise Barsi's father."
+    },
+    {
+      "value": "2%",
+      "context": "Porcentagem da população brasileira que investe."
+    },
+    {
+      "value": "12%",
+      "context": "Yield líquido de imposto do Banco do Brasil."
+    },
+    {
+      "value": "30",
+      "context": "Número de empresas que passam nos filtros de seleção mencionados."
+    },
+    {
+      "value": "30 quilos",
+      "context": "Peso perdido pela convidada após mudança de hábitos de saúde."
+    },
+    {
+      "value": "1.2 milhões por ano",
+      "context": "Rendimento anual em dividendos mencionado pela convidada."
+    },
+    {
+      "value": "500 mil pessoas",
+      "context": "Número de investidores em renda variável no Brasil até 2016."
+    },
+    {
+      "value": "20%",
+      "context": "Participação na empresa Unipar mencionada"
+    },
+    {
+      "value": "entre cinco e sete anos",
+      "context": "Período estimado para retorno significativo em investimentos de renda variável"
+    },
+    {
+      "value": "20 empresas mais investidas",
+      "context": "Critério de análise de investimentos"
+    },
+    {
+      "value": "12 mil pessoas",
+      "context": "Público esperado para evento no Vale"
+    },
+    {
+      "value": "12,000",
+      "context": "Number of people expected at the event in November"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Elite",
+      "source_type": "company",
+      "relation": "works_at",
+      "target": "Convidada",
+      "target_type": "company"
+    },
+    {
+      "source": "Agf",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Fábio",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Flávio Augusto",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gf",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Event In November",
+      "target_type": "company"
+    },
+    {
+      "source": "Agf",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Felipe",
+      "target_type": "person"
+    },
+    {
+      "source": "Bill Perkins",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Morra Sem Nada",
+      "target_type": "company"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Zona De Competência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bb Seguridade",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Descasamento De Passivos E Ativos",
+      "target_type": "company"
+    },
+    {
+      "source": "Unipar",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dividendos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Agf",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Convidada",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Do Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dividend Yield",
+      "target_type": "concept"
+    },
+    {
+      "source": "Louise Barsi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Agf (Ações Garantem O Futuro)",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bill Perkins",
+      "target_type": "person"
+    }
+  ]
+}

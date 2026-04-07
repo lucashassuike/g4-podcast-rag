@@ -1,0 +1,151 @@
+{
+  "episode_id": "40708111729",
+  "title": "[CORTE] FRANQUIA OU LOJA PRÓPRIA: QUAL DÁ MAIS LUCRO?",
+  "date_published": 1753822801,
+  "duration": 644,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Glauber Gentil",
+      "role": "mentioned",
+      "company": "O Boticário",
+      "title": "Maior franqueado do Brasil"
+    },
+    {
+      "name": "Sandra Schar",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Empreendedora"
+    },
+    {
+      "name": "Apolinário",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Chain",
+      "role": "mentioned",
+      "company": "Grupo SEB",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Tamila",
+      "role": "mentioned",
+      "company": "Grupo SEB",
+      "title": "Empreendedora"
+    }
+  ],
+  "companies": [
+    {
+      "name": "O Boticário",
+      "industry": "Cosméticos",
+      "context": "Franquias de cosméticos"
+    },
+    {
+      "name": "Quem Disse, Berenice",
+      "industry": "Cosméticos",
+      "context": "Franquias de cosméticos"
+    },
+    {
+      "name": "Gelato Borelli",
+      "industry": "Alimentação",
+      "context": "Sorvetes artesanais"
+    },
+    {
+      "name": "Grupo Seb",
+      "industry": "Educação",
+      "context": "Investimentos em franquias"
+    },
+    {
+      "name": "Maple Bear Brasil",
+      "industry": "Educação",
+      "context": "Franquias de escolas canadenses"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Franquia",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Loja própria",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Simples Nacional",
+      "category": "Tributação"
+    },
+    {
+      "name": "Substituição tributária",
+      "category": "Tributação"
+    },
+    {
+      "name": "Sócio-operador",
+      "category": "Modelo de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "180 lojas",
+      "context": "Número de lojas de Glauber Gentil"
+    },
+    {
+      "value": "500-600 milhões por ano",
+      "context": "Faturamento de Glauber Gentil"
+    },
+    {
+      "value": "700 Burger King",
+      "context": "Número de franquias nos EUA"
+    },
+    {
+      "value": "1,5 bilhão de dólares por ano",
+      "context": "Faturamento de franqueados nos EUA"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Chain",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Seb",
+      "target_type": "company"
+    },
+    {
+      "source": "Glauber Gentil",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Quem Disse, Berenice",
+      "target_type": "company"
+    },
+    {
+      "source": "Glauber Gentil",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "O Boticário",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Seb",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Gelato Borelli",
+      "target_type": "company"
+    },
+    {
+      "source": "Tamila",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Seb",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Seb",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Maple Bear Brasil",
+      "target_type": "company"
+    }
+  ]
+}

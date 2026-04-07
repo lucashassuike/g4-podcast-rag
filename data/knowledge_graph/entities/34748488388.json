@@ -1,0 +1,570 @@
+{
+  "episode_id": "34748488388",
+  "title": "COMO DESENVOLVER O FOCO DE UM SUPER ATLETA | EXTREMOS",
+  "date_published": 1728547200,
+  "duration": 4619,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Eduardo Correia",
+      "role": "guest",
+      "company": "Maxitânio",
+      "title": "Atleta"
+    },
+    {
+      "name": "Richard Stad",
+      "role": "mentioned",
+      "company": "Aramis",
+      "title": ""
+    },
+    {
+      "name": "Chris Aceto",
+      "role": "mentioned",
+      "company": "",
+      "title": "Coach de fisiculturismo"
+    },
+    {
+      "name": "Jay Cutler",
+      "role": "mentioned",
+      "company": "",
+      "title": "Fisiculturista"
+    },
+    {
+      "name": "José Carlos Garcia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Professor"
+    },
+    {
+      "name": "Paulo Muzi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Professor"
+    },
+    {
+      "name": "Carol",
+      "role": "mentioned",
+      "company": "",
+      "title": "Esposa"
+    },
+    {
+      "name": "Wesley",
+      "role": "mentioned",
+      "company": "",
+      "title": "Expert em higiene do sono"
+    },
+    {
+      "name": "Cris Aceto",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Coach de fisiculturismo"
+    },
+    {
+      "name": "Ramon",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Atleta de fisiculturismo"
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Atleta de fisiculturismo"
+    },
+    {
+      "name": "Sebum",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Atleta de fisiculturismo"
+    },
+    {
+      "name": "Luiz Otávio De Freitas",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Fisiculturista"
+    },
+    {
+      "name": "Chris Bumstead",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Fisiculturista"
+    },
+    {
+      "name": "Ramon Dino",
+      "role": "mentioned",
+      "company": "",
+      "title": "Bodybuilder"
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "role": "mentioned",
+      "company": "",
+      "title": "Bodybuilder"
+    },
+    {
+      "name": "Cibam",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pablo Marçal",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Eduardo Corrêa",
+      "role": "guest",
+      "company": "",
+      "title": "Fisiculturista"
+    },
+    {
+      "name": "Maria Gabriela",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcast",
+      "industry": "Media",
+      "context": "Podcast de negócios e empreendedorismo"
+    },
+    {
+      "name": "Maxitânio",
+      "industry": "Fitness",
+      "context": "Patrocinadora do atleta Eduardo Correia"
+    },
+    {
+      "name": "Aramis",
+      "industry": "Fashion",
+      "context": "Marca mencionada durante a conversa"
+    },
+    {
+      "name": "Mister Olympia",
+      "industry": "Esportes",
+      "context": "Competição de fisiculturismo"
+    },
+    {
+      "name": "Bob'S",
+      "industry": "Food and Beverage",
+      "context": "Referência ao formato de canudo usado como analogia"
+    },
+    {
+      "name": "Ironberg",
+      "industry": "Fitness",
+      "context": "Academia fundada pelo convidado em Florianópolis"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Disciplina",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Competitividade",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Bodybuilding",
+      "category": "Sports"
+    },
+    {
+      "name": "Mr. Olympia",
+      "category": "Sports"
+    },
+    {
+      "name": "Diuréticos",
+      "category": "Health"
+    },
+    {
+      "name": "Insulina",
+      "category": "Health"
+    },
+    {
+      "name": "Condicionamento físico",
+      "category": "Fitness"
+    },
+    {
+      "name": "Campeonato Catarinense 2001",
+      "category": "Evento esportivo"
+    },
+    {
+      "name": "Técnica de treinamento",
+      "category": "Fitness"
+    },
+    {
+      "name": "Pack deck",
+      "category": "Equipamento de academia"
+    },
+    {
+      "name": "higiene do sono",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "ciclo circadiano",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "nutrição esportiva",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "treino unilateral",
+      "category": "Fitness"
+    },
+    {
+      "name": "pré-contest",
+      "category": "Fitness"
+    },
+    {
+      "name": "restrição calórica",
+      "category": "Fitness"
+    },
+    {
+      "name": "Treinamento físico",
+      "category": "Fitness"
+    },
+    {
+      "name": "Sono e recuperação",
+      "category": "Fitness"
+    },
+    {
+      "name": "Classic Physique",
+      "category": "Fisiculturismo"
+    },
+    {
+      "name": "Open category",
+      "category": "Fisiculturismo"
+    },
+    {
+      "name": "Anabolizantes",
+      "category": "Substance"
+    },
+    {
+      "name": "Ginecomastia",
+      "category": "Medical Condition"
+    },
+    {
+      "name": "Estradiol",
+      "category": "Hormone"
+    },
+    {
+      "name": "Testosterona",
+      "category": "Hormone"
+    },
+    {
+      "name": "Diurético",
+      "category": "Substance"
+    },
+    {
+      "name": "IGF",
+      "category": "Substance"
+    },
+    {
+      "name": "GH",
+      "category": "Substance"
+    },
+    {
+      "name": "fisiculturismo",
+      "category": "esporte"
+    },
+    {
+      "name": "produção de conteúdo digital",
+      "category": "estratégia"
+    },
+    {
+      "name": "suplementação",
+      "category": "nutrição"
+    },
+    {
+      "name": "adesão ao plano alimentar",
+      "category": "nutrição"
+    },
+    {
+      "name": "dieta",
+      "category": "nutrição"
+    },
+    {
+      "name": "Suplementos alimentares",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Whey protein",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Creatina",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Campeonatos naturais",
+      "category": "Esporte"
+    },
+    {
+      "name": "Brazilian Chaos",
+      "category": "Esporte"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Preço do Amanhã",
+      "author": "Não mencionado"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "96.1 quilos",
+      "context": "Peso da categoria 212 no bodybuilding"
+    },
+    {
+      "value": "202.0 pounds",
+      "context": "Peso final de Eduardo Correia para a competição"
+    },
+    {
+      "value": "112",
+      "context": "Percentual de gordura no off-season"
+    },
+    {
+      "value": "53",
+      "context": "Circunferência do braço após treino"
+    },
+    {
+      "value": "Top 5",
+      "context": "Classificação no Mister Olympia"
+    },
+    {
+      "value": "100,000 seguidores",
+      "context": "Número de seguidores no Facebook em 2014"
+    },
+    {
+      "value": "5,000 USD",
+      "context": "Custo de preparação de 12-15 semanas com Cris Aceto"
+    },
+    {
+      "value": "43 anos",
+      "context": "Idade do convidado"
+    },
+    {
+      "value": "2009",
+      "context": "Ano da primeira participação no Mr. Olympia"
+    },
+    {
+      "value": "2022",
+      "context": "Ano da última participação no Mr. Olympia"
+    },
+    {
+      "value": "103kg",
+      "context": "Peso limite para a categoria Classic Physique"
+    },
+    {
+      "value": "300,000 to 500,000 BRL/year",
+      "context": "Custo anual para manter um corpo de nível Olympia"
+    },
+    {
+      "value": "10,000 to 500,000 BRL/month",
+      "context": "Renda mensal de atletas de bodybuilding no Brasil"
+    },
+    {
+      "value": "10 mil por mês",
+      "context": "rendimento de um atleta no Brasil"
+    },
+    {
+      "value": "meio milhão por mês",
+      "context": "rendimento de um bodybuilder no Brasil"
+    },
+    {
+      "value": "400mg por dia",
+      "context": "quantidade máxima recomendada de cafeína no Brasil"
+    },
+    {
+      "value": "800 atletas",
+      "context": "Número de participantes no Eduardo Corrêa Classic em 2023"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Classic Physique",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Ramon",
+      "target_type": "person"
+    },
+    {
+      "source": "Chris Bumstead",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Ramon Dino",
+      "target_type": "person"
+    },
+    {
+      "source": "Eduardo Corrêa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fisiculturismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eduardo Correia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Maxitânio",
+      "target_type": "company"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Aramis",
+      "target_type": "company"
+    },
+    {
+      "source": "Eduardo Correia",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Chris Aceto",
+      "target_type": "person"
+    },
+    {
+      "source": "Eduardo Corrêa",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Eduardo Corrêa Classic",
+      "target_type": "company"
+    },
+    {
+      "source": "Classic Physique",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Chris Bumstead",
+      "target_type": "person"
+    },
+    {
+      "source": "Classic Physique",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Sebum",
+      "target_type": "person"
+    },
+    {
+      "source": "Eduardo Corrêa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Whey Protein",
+      "target_type": "concept"
+    },
+    {
+      "source": "Open Category",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Arnold Schwarzenegger",
+      "target_type": "person"
+    },
+    {
+      "source": "Eduardo Corrêa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Suplementos Alimentares",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ironberg",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Alfredo Soares",
+      "target_type": "person"
+    },
+    {
+      "source": "Eduardo Correia",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Mister Olympia",
+      "target_type": "company"
+    },
+    {
+      "source": "Pablo Marçal",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Mensagem Sobre Disciplina E Corpo",
+      "target_type": "company"
+    },
+    {
+      "source": "Chris Aceto",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Jay Cutler",
+      "target_type": "person"
+    },
+    {
+      "source": "Ramon",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Humildade, Pureza, Autenticidade",
+      "target_type": "company"
+    },
+    {
+      "source": "Cris Aceto",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Alfredo Soares",
+      "target_type": "person"
+    },
+    {
+      "source": "Eduardo Corrêa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Creatina",
+      "target_type": "concept"
+    },
+    {
+      "source": "José Carlos Garcia",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Paulo Muzi",
+      "target_type": "person"
+    },
+    {
+      "source": "Eduardo Corrêa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Campeonatos Naturais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Cibam",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Seriedade, Consistência, Genética",
+      "target_type": "company"
+    },
+    {
+      "source": "Eduardo Corrêa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Brazilian Chaos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Classic Physique",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Ramon Dino",
+      "target_type": "person"
+    }
+  ]
+}

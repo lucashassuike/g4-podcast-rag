@@ -1,0 +1,361 @@
+{
+  "episode_id": "34748488572",
+  "title": "Beto Colombo - Como você enxerga a sua empresa? | Extremos",
+  "date_published": 1689670800,
+  "duration": 5027,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Beto Colombo",
+      "role": "guest",
+      "company": "Anjo Tintas",
+      "title": "Empresário, Filósofo Clínico, Escritor"
+    },
+    {
+      "name": "Felipe Colombo",
+      "role": "mentioned",
+      "company": "Anjo Tintas",
+      "title": "Empresário e membro do G4 Clube"
+    },
+    {
+      "name": "Rodrigo Colombo",
+      "role": "mentioned",
+      "company": "Anjo Tintas",
+      "title": "Empresário"
+    },
+    {
+      "name": "Jean",
+      "role": "mentioned",
+      "company": "Anjo Tintas",
+      "title": "Diretor"
+    },
+    {
+      "name": "Albanina Colombo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Esposa de Beto Colombo"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Loi Marinov",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Felipe",
+      "role": "mentioned",
+      "company": "Anjo Tintas",
+      "title": "Marketing Manager"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Anjo Tintas",
+      "title": "Employee"
+    },
+    {
+      "name": "Ellis Strasburger",
+      "role": "mentioned",
+      "company": "",
+      "title": "Therapist"
+    },
+    {
+      "name": "Aristóteles",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Platão",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thomas Hobbes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jean Jacques Rousseau",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Anjo Tintas",
+      "industry": "Tintas e revestimentos",
+      "context": "Empresa mencionada como uma das maiores fábricas de tintas do Brasil, liderada por Beto Colombo e posteriormente por seus filhos."
+    },
+    {
+      "name": "Anjo Química",
+      "industry": "Chemical Manufacturing",
+      "context": "Founded by Beto Colombo, specializing in chemical products like plastic mass and solvents."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura Empresarial",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Estrutura de Pensamento",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Ponto de Equilíbrio",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Alteridade",
+      "category": "Conceito de Filosofia"
+    },
+    {
+      "name": "Planning Estratégico",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Logística",
+      "category": "Operations"
+    },
+    {
+      "name": "Participação nos Resultados (PPR)",
+      "category": "Employee Incentives"
+    },
+    {
+      "name": "Filosofia de Aconselhamento",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Philosophy Clinical",
+      "category": "Organizational Psychology"
+    },
+    {
+      "name": "Epistemology",
+      "category": "Knowledge Theory"
+    },
+    {
+      "name": "Structure of Thought",
+      "category": "Philosophical Framework"
+    },
+    {
+      "name": "Semiose",
+      "category": "communication"
+    },
+    {
+      "name": "Causa e efeito",
+      "category": "philosophy"
+    },
+    {
+      "name": "Mundo das ideias",
+      "category": "philosophy"
+    },
+    {
+      "name": "Mundo físico",
+      "category": "philosophy"
+    },
+    {
+      "name": "Extremismo",
+      "category": "sociology"
+    },
+    {
+      "name": "Economia",
+      "category": "economics"
+    }
+  ],
+  "books": [
+    {
+      "title": "Muito Além do Lucro",
+      "author": "Beto Colombo"
+    },
+    {
+      "title": "A Alma da Empresa",
+      "author": "Beto Colombo"
+    },
+    {
+      "title": "Despertando a Excelência",
+      "author": "Beto Colombo"
+    },
+    {
+      "title": "Mais Platão, Menos Prozac",
+      "author": "Loi Marinov"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "50 milhões",
+      "context": "Meta mensal para atingir o ponto de equilíbrio da empresa"
+    },
+    {
+      "value": "27 mil",
+      "context": "Quantidade de peixes capturados em uma rede mencionada durante a conversa"
+    },
+    {
+      "value": "1 bilhão de reais",
+      "context": "Annual revenue of Anjo Química"
+    },
+    {
+      "value": "100 milhões de reais",
+      "context": "Annual revenue milestone for Anjo Química in 1997"
+    },
+    {
+      "value": "3,000,000 BRL",
+      "context": "Amount offered to Felipe and Rodrigo upon company sale"
+    },
+    {
+      "value": "50 years",
+      "context": "Age of Beto Colombo at retirement"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Aristóteles",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Causa E Efeito",
+      "target_type": "concept"
+    },
+    {
+      "source": "Platão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mundo Das Ideias",
+      "target_type": "concept"
+    },
+    {
+      "source": "Beto Colombo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Participação Nos Resultados (Ppr)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Beto Colombo",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Muito Além Do Lucro",
+      "target_type": "company"
+    },
+    {
+      "source": "Jean",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Anjo Tintas",
+      "target_type": "company"
+    },
+    {
+      "source": "Thomas Hobbes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Extremismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Beto Colombo",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "A Alma Da Empresa",
+      "target_type": "company"
+    },
+    {
+      "source": "Beto Colombo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Planning Estratégico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Anjo Tintas",
+      "target_type": "company"
+    },
+    {
+      "source": "Beto Colombo",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Despertando A Excelência",
+      "target_type": "company"
+    },
+    {
+      "source": "Platão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mundo Físico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Beto Colombo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Anjo Química",
+      "target_type": "company"
+    },
+    {
+      "source": "Beto Colombo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Anjo Tintas",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Colombo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Anjo Tintas",
+      "target_type": "company"
+    },
+    {
+      "source": "Beto Colombo",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Mais Platão, Menos Prozac",
+      "target_type": "company"
+    },
+    {
+      "source": "Beto Colombo",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Alma Da Empresa",
+      "target_type": "company"
+    },
+    {
+      "source": "Beto Colombo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Logística",
+      "target_type": "concept"
+    },
+    {
+      "source": "Felipe",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Anjo Tintas",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Colombo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Anjo Tintas",
+      "target_type": "company"
+    },
+    {
+      "source": "Jean Jacques Rousseau",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Extremismo",
+      "target_type": "concept"
+    }
+  ]
+}

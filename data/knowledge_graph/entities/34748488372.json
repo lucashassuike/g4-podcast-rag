@@ -1,0 +1,289 @@
+{
+  "episode_id": "34748488372",
+  "title": "THE NORTH FACE: COMO HAP KLOPP CONSTRUIU UMA POTÊNCIA GLOBAL | VOX LUMINIS",
+  "date_published": 1731567600,
+  "duration": 4737,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Thales Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Matt",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Hap Klopp",
+      "role": "guest",
+      "company": "The North Face",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "Founder"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "Apple",
+      "title": "Former CEO"
+    },
+    {
+      "name": "John Scully",
+      "role": "mentioned",
+      "company": "PepsiCo",
+      "title": "Former CEO"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "SpaceX",
+      "title": "Founder"
+    },
+    {
+      "name": "Rudyard Kipling",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "The North Face",
+      "industry": "Outdoor and Adventure Apparel",
+      "context": "Discussed as a leading brand in adventure gear and its founding story."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education and Business Consulting",
+      "context": "Host Thales Gomes is associated with this company."
+    },
+    {
+      "name": "Kodak",
+      "industry": "Photography and Imaging",
+      "context": "Used as an example of a company that failed to adapt to market changes."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce and Technology",
+      "context": "Referenced in relation to Jeff Bezos' two-pizza rule."
+    },
+    {
+      "name": "Meta",
+      "industry": "Technology and Social Media",
+      "context": "Critiqued for rebranding and losing brand equity."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology and Internet Services",
+      "context": "Critiqued for rebranding to Alphabet and losing brand equity."
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Discussed in relation to Steve Jobs' leadership and product innovation."
+    },
+    {
+      "name": "Pepsico",
+      "industry": "Food and Beverage",
+      "context": "Mentioned in relation to John Scully's tenure before joining Apple."
+    },
+    {
+      "name": "Spacex",
+      "industry": "Aerospace",
+      "context": "Mentioned in relation to Elon Musk's investment and vision."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gore-Tex",
+      "category": "Technology"
+    },
+    {
+      "name": "Extreme Gear",
+      "category": "Product Line"
+    },
+    {
+      "name": "Influencer Model",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Brand DNA",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Triple Bottom Line",
+      "category": "Sustainability"
+    },
+    {
+      "name": "Omni-channel Strategy",
+      "category": "Business Model"
+    },
+    {
+      "name": "Product Lifecycle",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Two-pizza Rule",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Product Innovation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "High Growth Challenges",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Sustainability",
+      "category": "Corporate Responsibility"
+    },
+    {
+      "name": "Metrics for Product Success",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Pie Enlarging vs. Pie Slicing",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "Knowledge Economy",
+      "category": "Economic Concept"
+    },
+    {
+      "name": "Entrepreneurial Education",
+      "category": "Education Strategy"
+    },
+    {
+      "name": "Mentorship",
+      "category": "Business Practice"
+    }
+  ],
+  "books": [
+    {
+      "title": "Conquering the North Face",
+      "author": "Hap Klopp"
+    },
+    {
+      "title": "Almost 12 Electric Months Chasing a Silicon Valley Dream",
+      "author": "Hap Klopp"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "14",
+      "context": "Initial number of employees at The North Face."
+    },
+    {
+      "value": "300-400",
+      "context": "Number of employees at The North Face during the mid-1970s."
+    },
+    {
+      "value": "1,000",
+      "context": "Number of employees at The North Face after further growth."
+    },
+    {
+      "value": "170,000",
+      "context": "Number of employees at Kodak in 1998."
+    },
+    {
+      "value": "2",
+      "context": "Number of employees at Kodak after its decline."
+    },
+    {
+      "value": "20% annual growth",
+      "context": "Maximum sustainable growth rate for sports and apparel businesses using internally generated funds."
+    },
+    {
+      "value": "$100 million",
+      "context": "Elon Musk's investment in SpaceX."
+    },
+    {
+      "value": "35 countries",
+      "context": "Business expansion by the speaker."
+    },
+    {
+      "value": "2019",
+      "context": "Year G4 Educação was founded."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Spacex",
+      "target_type": "company"
+    },
+    {
+      "source": "Steve Jobs",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "John Scully",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Pepsico",
+      "target_type": "company"
+    },
+    {
+      "source": "Hap Klopp",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "The North Face",
+      "target_type": "company"
+    },
+    {
+      "source": "Hap Klopp",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Almost 12 Electric Months Chasing A Silicon Valley Dream",
+      "target_type": "company"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Two-Pizza Rule",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Hap Klopp",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Conquering The North Face",
+      "target_type": "company"
+    }
+  ]
+}

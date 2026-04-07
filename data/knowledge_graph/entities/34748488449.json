@@ -1,0 +1,305 @@
+{
+  "episode_id": "34748488449",
+  "title": "POR TRÁS DA BUSER: O DESAFIO DE CRIAR E MANTER UMA EMPRESA DISRUPTIVA - COM MARCELO ABRITTA (FUNDADOR e CEO) | PAPO DE GESTÃO",
+  "date_published": 1713170700,
+  "duration": 3588,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Marcelo Abritta",
+      "role": "guest",
+      "company": "Buser",
+      "title": "Co-fundador e CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Coelho",
+      "role": "mentioned",
+      "company": "Buser",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Rodrigão",
+      "role": "mentioned",
+      "company": "Buser",
+      "title": "Gestor"
+    },
+    {
+      "name": "Júlia",
+      "role": "mentioned",
+      "company": "Buser",
+      "title": "CFO"
+    },
+    {
+      "name": "Tiago",
+      "role": "mentioned",
+      "company": "Buser",
+      "title": "Gestor"
+    },
+    {
+      "name": "Lídia",
+      "role": "mentioned",
+      "company": "99",
+      "title": "Gestora"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Buser",
+      "industry": "Transporte",
+      "context": "Empresa de transporte coletivo por ônibus com modelo disruptivo."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de treinamento e capacitação empresarial."
+    },
+    {
+      "name": "Flamengo",
+      "industry": "Esportes",
+      "context": "Clube de futebol patrocinado pela Buser em 2018-2019."
+    },
+    {
+      "name": "Valor Capital",
+      "industry": "Venture Capital",
+      "context": "Investidora na rodada Series A da Buser"
+    },
+    {
+      "name": "Monaxis",
+      "industry": "Venture Capital",
+      "context": "Investidora na rodada Series A da Buser"
+    },
+    {
+      "name": "Designa",
+      "industry": "Tecnologia",
+      "context": "Software house contratada pela Buser para desenvolvimento inicial"
+    },
+    {
+      "name": "99",
+      "industry": "Mobilidade",
+      "context": "Empresa de transporte por aplicativo"
+    },
+    {
+      "name": "Uber",
+      "industry": "Mobilidade",
+      "context": "Empresa de transporte por aplicativo"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Delivery",
+      "context": "Empresa de entrega de alimentos"
+    },
+    {
+      "name": "Rappi",
+      "industry": "Delivery",
+      "context": "Empresa de entrega de alimentos"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de treinamento"
+    },
+    {
+      "name": "disrupção",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "modelo de negócio",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "percepção de marca",
+      "category": "Marketing"
+    },
+    {
+      "name": "empreendedorismo",
+      "category": "Negócios"
+    },
+    {
+      "name": "Series A",
+      "category": "Financiamento"
+    },
+    {
+      "name": "Regulamentação de transporte",
+      "category": "Política e legislação"
+    },
+    {
+      "name": "Barreira de entrada",
+      "category": "Estratégia de mercado"
+    },
+    {
+      "name": "Custo de aquisição de cliente",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Expansão orgânica",
+      "category": "Estratégia de crescimento"
+    },
+    {
+      "name": "Regulamentação de motoristas de aplicativo",
+      "category": "Legislação"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Complementaridade de equipe",
+      "category": "Gestão"
+    },
+    {
+      "name": "Sustentabilidade empresarial",
+      "category": "Gestão"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "20 funcionários",
+      "context": "Tamanho da equipe da Buser em 2018-2019."
+    },
+    {
+      "value": "50 mil cadastrados",
+      "context": "Número de usuários cadastrados no site da Buser no primeiro mês."
+    },
+    {
+      "value": "20 dólares",
+      "context": "Custo inicial para operar o site da Buser."
+    },
+    {
+      "value": "240",
+      "context": "Número de colaboradores na Buser em 2023"
+    },
+    {
+      "value": "400-500",
+      "context": "Número de ônibus operados pela Buser"
+    },
+    {
+      "value": "5 milhões",
+      "context": "Número de passageiros transportados pela Buser por ano"
+    },
+    {
+      "value": "300 milhões",
+      "context": "Tamanho estimado do mercado de transporte de passageiros no Brasil"
+    },
+    {
+      "value": "400 mil reais",
+      "context": "Custo para levar cada rota à lucratividade inicial"
+    },
+    {
+      "value": "20 milhões",
+      "context": "Montante levantado na rodada Series A"
+    },
+    {
+      "value": "30%",
+      "context": "Taxa de crescimento esperada pela Buser em 2023"
+    },
+    {
+      "value": "250 para 500 e depois voltar para 250",
+      "context": "Ajuste no tamanho da equipe da Buser"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Buser",
+      "source_type": "company",
+      "relation": "sponsored",
+      "target": "Flamengo",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Lídia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "99",
+      "target_type": "company"
+    },
+    {
+      "source": "Monaxis",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Buser",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Abritta",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Buser",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Abritta",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Buser",
+      "target_type": "company"
+    },
+    {
+      "source": "Valor Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Buser",
+      "target_type": "company"
+    },
+    {
+      "source": "Designa",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Buser",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

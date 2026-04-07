@@ -1,0 +1,638 @@
+{
+  "episode_id": "44466618274",
+  "title": "RENATO ALBANI: COMO TRANSFORMAR PIADA EM NEGÓCIO | EXTREMOS",
+  "date_published": 1761750000,
+  "duration": 5846,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Renato Albani",
+      "role": "guest",
+      "company": "",
+      "title": "Comediante e empreendedor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Primo Rico",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em investimentos"
+    },
+    {
+      "name": "Léo Lins",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Flávio",
+      "role": "mentioned",
+      "company": "",
+      "title": "Professor de Biologia"
+    },
+    {
+      "name": "Aritoledo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Felipe Absalão",
+      "role": "mentioned",
+      "company": "Porta dos Fundos",
+      "title": "Comediante"
+    },
+    {
+      "name": "Rafinha Bastos",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Danilo Gentili",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Whindersson Nunes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Rick Gervais",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Afonso Padilha",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Thiago Ventura",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Cambota",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Rodrigo Marcos",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Rafael Gani",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Rabin",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comediante"
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Espectador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e negócios",
+      "context": "Plataforma de educação e negócios mencionada no podcast"
+    },
+    {
+      "name": "Porta Dos Fundos",
+      "industry": "Entertainment",
+      "context": "Comédia e produção de conteúdo"
+    },
+    {
+      "name": "Conde Gourmet",
+      "industry": "Restaurant",
+      "context": "Local de eventos de stand-up comedy"
+    },
+    {
+      "name": "Comedians",
+      "industry": "Entretenimento",
+      "context": "Clube de comédia mencionado como referência"
+    },
+    {
+      "name": "Espaço Unimed",
+      "industry": "Entretenimento",
+      "context": "Local onde Renato Albani realiza shows para até 4 mil pessoas."
+    },
+    {
+      "name": "Invista",
+      "industry": "Investimentos",
+      "context": "Mencionada como patrocinadora potencial para shows corporativos."
+    },
+    {
+      "name": "Barbixas Comedy Club",
+      "industry": "Entertainment",
+      "context": "Venue for comedy shows"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão financeira",
+      "category": "Finanças pessoais"
+    },
+    {
+      "name": "Empreendedorismo na comédia",
+      "category": "Negócios"
+    },
+    {
+      "name": "Marketing pessoal",
+      "category": "Estratégias de marketing"
+    },
+    {
+      "name": "Arquitetura Social",
+      "category": "Networking"
+    },
+    {
+      "name": "ChatGPT",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Ghostwriting",
+      "category": "Produção de Conteúdo"
+    },
+    {
+      "name": "Stand-up Comedy",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Turnê",
+      "category": "Event Management"
+    },
+    {
+      "name": "Produção Local",
+      "category": "Event Management"
+    },
+    {
+      "name": "Lançamento",
+      "category": "Marketing"
+    },
+    {
+      "name": "Investimento em Criptomoedas",
+      "category": "Finance"
+    },
+    {
+      "name": "Engenharia elétrica",
+      "category": "Educação"
+    },
+    {
+      "name": "Automação",
+      "category": "Educação"
+    },
+    {
+      "name": "Produção de comédia",
+      "category": "Entretenimento"
+    },
+    {
+      "name": "Open Mic",
+      "category": "Estratégia de Carreira"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Show Corporativo",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Engajamento",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Estratégia de monetização",
+      "category": "Negócios"
+    },
+    {
+      "name": "Shows corporativos",
+      "category": "Entretenimento"
+    },
+    {
+      "name": "Patrocínio",
+      "category": "Negócios"
+    },
+    {
+      "name": "Comédia como negócio",
+      "category": "Entretenimento"
+    },
+    {
+      "name": "Agenda de viagens",
+      "category": "Logística"
+    },
+    {
+      "name": "Precificação de serviços",
+      "category": "Negócios"
+    },
+    {
+      "name": "Comedy monetization",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Audience engagement",
+      "category": "Marketing"
+    },
+    {
+      "name": "Comédia Stand-Up",
+      "category": "Entertainment"
+    },
+    {
+      "name": "Empresariamento de Comediantes",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Livro sobre escrita de piadas",
+      "author": "Léo Lins"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "100 mil",
+      "context": "Preço de um show de Renato Albani para empresas"
+    },
+    {
+      "value": "50% de lucro",
+      "context": "Lucro obtido por Renato Albani em seus shows"
+    },
+    {
+      "value": "8 anos",
+      "context": "Tempo que Renato Albani posta vídeos semanais de stand-up"
+    },
+    {
+      "value": "100,000",
+      "context": "Preço de show corporativo"
+    },
+    {
+      "value": "10,000",
+      "context": "Público em show no Rio de Janeiro"
+    },
+    {
+      "value": "2 mil reais por mês",
+      "context": "Ticket médio de trabalho inicial"
+    },
+    {
+      "value": "15 mil reais",
+      "context": "Salário oferecido para trabalho embarcado"
+    },
+    {
+      "value": "16 reais por hora",
+      "context": "Salário como professor do Senai"
+    },
+    {
+      "value": "100 mil reais por hora",
+      "context": "Comparação de ganhos futuros na comédia"
+    },
+    {
+      "value": "4 mil pessoas",
+      "context": "Capacidade do Espaço Unimed para shows de Renato Albani."
+    },
+    {
+      "value": "7 anos",
+      "context": "Tempo que Renato Albani esteve em cartaz no Freicaneca."
+    },
+    {
+      "value": "30 por ano",
+      "context": "Meta financeira mencionada no contexto do podcast."
+    },
+    {
+      "value": "700 mil",
+      "context": "Valor arrecadado para um documentário."
+    },
+    {
+      "value": "360 mil",
+      "context": "Faturamento mencionado em relação a shows."
+    },
+    {
+      "value": "50 mil",
+      "context": "Preço de um show protótipo."
+    },
+    {
+      "value": "120 mil",
+      "context": "Preço sugerido para um show com post adicional."
+    },
+    {
+      "value": "700,000",
+      "context": "Loss from opening a restaurant in Vitória"
+    },
+    {
+      "value": "2010",
+      "context": "Ano em que Renato Albani começou na comédia"
+    },
+    {
+      "value": "2,000 pessoas",
+      "context": "Tamanho do público em shows mencionados"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Comédia Como Negócio",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Whindersson Nunes",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rick Gervais",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rabin",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rafinha Bastos",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Cambota",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Show Corporativo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Danilo Gentili",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Agenda De Viagens",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Thiago Ventura",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Stand-Up Comedy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Felipe Absalão",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Porta Dos Fundos",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "performed_at",
+      "target": "Espaço Unimed",
+      "target_type": "company"
+    },
+    {
+      "source": "Barbixas Comedy Club",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Stand-Up Comedy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Aritoledo",
+      "target_type": "person"
+    },
+    {
+      "source": "Léo Lins",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Livro Sobre Escrita De Piadas",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Empreendedorismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Flávio",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rodrigo Marcos",
+      "target_type": "person"
+    },
+    {
+      "source": "Invista",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Shows Corporativos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Primo Rico",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "Renato Albani",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Shows Corporativos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alfredo Soares",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Léo Lins",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Afonso Padilha",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Comedians",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Pedro",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "performed_at",
+      "target": "Comedians",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Engajamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Porta Dos Fundos",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Felipe Absalão",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rafael Gani",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Investimento Em Criptomoedas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Albani",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Precificação De Serviços",
+      "target_type": "concept"
+    }
+  ]
+}

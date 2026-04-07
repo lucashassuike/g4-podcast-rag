@@ -1,0 +1,614 @@
+{
+  "episode_id": "41494223596",
+  "title": "COMO GERENCIAR UM ECOSSISTEMA DE MARCAS DE BELEZA COM PEDRO CASTRO | PAPO DE GESTÃO",
+  "date_published": 1755529200,
+  "duration": 4625,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Pedro Castro",
+      "role": "guest",
+      "company": "Ei Beleza",
+      "title": "Fundador"
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "Ei Beleza",
+      "title": "Sócio"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Dudu",
+      "role": "mentioned",
+      "company": "Desenchar",
+      "title": "Sócio de Pedro Castro"
+    },
+    {
+      "name": "Denis",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ian",
+      "role": "mentioned",
+      "company": "Less",
+      "title": "Sócio"
+    },
+    {
+      "name": "Ludo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Dermatologista"
+    },
+    {
+      "name": "Lu",
+      "role": "mentioned",
+      "company": "",
+      "title": "Dermatologista"
+    },
+    {
+      "name": "Yasmin Brunet",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Luisa Mel",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Ei Beleza",
+      "industry": "Beleza e Cosméticos",
+      "context": "Grupo de marcas de beleza fundado por Pedro Castro"
+    },
+    {
+      "name": "Beauty Class",
+      "industry": "Educação e Beleza",
+      "context": "Plataforma de cursos online para profissionais de beleza"
+    },
+    {
+      "name": "Moroccan Oil",
+      "industry": "Beleza e Cosméticos",
+      "context": "Empresa israelense de produtos de beleza"
+    },
+    {
+      "name": "Schwarzkopf",
+      "industry": "Beleza e Cosméticos",
+      "context": "Marca alemã de produtos de beleza"
+    },
+    {
+      "name": "Beleza Brasileira",
+      "industry": "Beauty and Personal Care",
+      "context": "Umbrella brand for multiple beauty products"
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Retail",
+      "context": "Mentioned in the context of media buying during the pandemic"
+    },
+    {
+      "name": "Hidratei",
+      "industry": "Cosméticos",
+      "context": "Empresa co-fundada por Pedro Castro, focada em produtos de cuidados pessoais."
+    },
+    {
+      "name": "Desenchar",
+      "industry": "Bebidas funcionais",
+      "context": "Empresa mencionada como relacionada ao sócio Dudu."
+    },
+    {
+      "name": "Less",
+      "industry": "Cosméticos",
+      "context": "Empresa mencionada como sociedade de Pedro Castro e Ian."
+    },
+    {
+      "name": "Guide",
+      "industry": "Beauty and Personal Care",
+      "context": "Pedro Castro discusses branding and marketing strategies for Guide."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education and Business Consulting",
+      "context": "Hosts of the podcast episode."
+    },
+    {
+      "name": "Oakberry",
+      "industry": "Food & Beverage",
+      "context": "Mentioned in the context of collaborations."
+    },
+    {
+      "name": "Okberry",
+      "industry": "Alimentos e bebidas",
+      "context": "Marca brasileira globalizada mencionada em collab de marcas"
+    },
+    {
+      "name": "Sol De Janeiro",
+      "industry": "Beleza e cosméticos",
+      "context": "Marca de beleza respeitada e concorrente mencionada por Pedro Castro"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "MVP (Produto Mínimo Viável)",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Churn Involuntário",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Product-Market Fit",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Microniche strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Influencer marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Commodity market",
+      "category": "Economics"
+    },
+    {
+      "name": "Copywriting",
+      "category": "Marketing"
+    },
+    {
+      "name": "Distribution channels",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Fluxo de caixa",
+      "category": "Finanças"
+    },
+    {
+      "name": "Distribuição de produtos",
+      "category": "Logística"
+    },
+    {
+      "name": "Regulamentação de produtos",
+      "category": "Legislação"
+    },
+    {
+      "name": "Testes de estabilidade e eficácia",
+      "category": "Controle de qualidade"
+    },
+    {
+      "name": "SAC ativo",
+      "category": "Atendimento ao cliente"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Performance",
+      "category": "Marketing"
+    },
+    {
+      "name": "Custo de Aquisição de Cliente (CAC)",
+      "category": "Métricas de Negócios"
+    },
+    {
+      "name": "Upsell",
+      "category": "Estratégias de Negócios"
+    },
+    {
+      "name": "Cross-sell",
+      "category": "Estratégias de Negócios"
+    },
+    {
+      "name": "Performance Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Omni Channel",
+      "category": "Retail Strategy"
+    },
+    {
+      "name": "Customer Acquisition Cost (CAC)",
+      "category": "Metrics"
+    },
+    {
+      "name": "Trade Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Cultura de dono",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Collabs",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "ESG",
+      "category": "Sustainability"
+    },
+    {
+      "name": "Ironman",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Collab com influenciadores",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Collab de marcas",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "DNVB (Digitally Native Vertical Brand)",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Internacionalização",
+      "category": "Estratégia de expansão"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "30 mil assinantes",
+      "context": "Número de assinantes alcançado pela Beauty Class"
+    },
+    {
+      "value": "20 anos",
+      "context": "Tempo de experiência de Pedro Castro no setor de beleza"
+    },
+    {
+      "value": "75%",
+      "context": "Percentage of women affected by candidiasis"
+    },
+    {
+      "value": "75 million",
+      "context": "Estimated number of women in Brazil affected by candidiasis"
+    },
+    {
+      "value": "1 milhão de reais por mês",
+      "context": "Faturamento mensal da marca Arizo antes de ser descontinuada."
+    },
+    {
+      "value": "500 mil reais por mês",
+      "context": "Faturamento mensal da marca Farma Delas antes de ser descontinuada."
+    },
+    {
+      "value": "60 produtos",
+      "context": "Número aproximado de produtos na linha Hidratei."
+    },
+    {
+      "value": "1 milhão por mês",
+      "context": "Teto de faturamento online para produtos de micronicho."
+    },
+    {
+      "value": "12 a 20 milhões por ano",
+      "context": "Faturamento saudável para produtos online."
+    },
+    {
+      "value": "5%",
+      "context": "Percentage of marketing budget allocated to non-measurable branding efforts."
+    },
+    {
+      "value": "1000 cobertores",
+      "context": "Number of blankets donated during a Boom Boom Cream campaign."
+    },
+    {
+      "value": "3,700,000",
+      "context": "Number of shares in a campaign by Boom Boom Cream."
+    },
+    {
+      "value": "1 bilhão de euros",
+      "context": "Faturamento da Sol de Janeiro no ano anterior"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Performance Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rafa",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Okberry",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hidratei",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Beauty Class",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ei Beleza",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Beleza Brasileira",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ian",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Influencer Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ian",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Less",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Collabs",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Farma Delas",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Arizo",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Oakberry",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Yasmin Brunet",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sol De Janeiro",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Trade Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Microniche Strategy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Commodity Market",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Omni Channel",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Product-Market Fit",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Copywriting",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Esg",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Customer Acquisition Cost (Cac)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura De Dono",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Hidratei",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ei Beleza",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ei Beleza",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hidratei",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Luisa Mel",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Distribution Channels",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Guide",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "João",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ironman",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Less",
+      "target_type": "company"
+    },
+    {
+      "source": "Dudu",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Desenchar",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Branding",
+      "target_type": "concept"
+    }
+  ]
+}

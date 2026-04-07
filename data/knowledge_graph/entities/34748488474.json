@@ -1,0 +1,151 @@
+{
+  "episode_id": "34748488474",
+  "title": "ESLEN DELANOGARE - COMO CUMPRIR AS METAS E CRIAR BONS HÁBITOS EM 2024 | G4 PODCASTS",
+  "date_published": 1705931501,
+  "duration": 4614,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Eslon Delanogare",
+      "role": "guest",
+      "company": "",
+      "title": "Neurocientista e Psicólogo"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Discussão sobre cultura organizacional e modulação ambiental"
+    },
+    {
+      "name": "Singu",
+      "industry": "Serviços de Beleza e Bem-Estar",
+      "context": "Fundada por Tallis Gomes após um período sabático."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Hábitos",
+      "category": "Psicologia Comportamental"
+    },
+    {
+      "name": "Motivação",
+      "category": "Psicologia Comportamental"
+    },
+    {
+      "name": "Modulação Ambiental",
+      "category": "Psicologia Comportamental"
+    },
+    {
+      "name": "Neuroplasticidade",
+      "category": "Neurociência"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Soft Skills",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Home Office",
+      "category": "Trabalho Remoto"
+    },
+    {
+      "name": "Ciclo Circadiano",
+      "category": "Neurociência"
+    },
+    {
+      "name": "Higiene do Sono",
+      "category": "Saúde"
+    },
+    {
+      "name": "Comportamento Hedônico",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Comportamento Eudaimônico",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Eudaimonia",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Hedonismo",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Framework de construção de hábitos",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Estudo de 66 dias",
+      "category": "Pesquisa sobre hábitos"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "350 funcionários",
+      "context": "Tamanho da equipe do G4 Educação"
+    },
+    {
+      "value": "200 milhões de faturamento",
+      "context": "Faturamento anual do G4 Educação"
+    },
+    {
+      "value": "350",
+      "context": "Número de funcionários da G4 Educação."
+    },
+    {
+      "value": "200 milhões",
+      "context": "Faturamento da G4 Educação."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singu",
+      "target_type": "company"
+    },
+    {
+      "source": "Eslon Delanogare",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Eslon Delanogare",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

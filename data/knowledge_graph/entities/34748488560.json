@@ -1,0 +1,433 @@
+{
+  "episode_id": "34748488560",
+  "title": "Como ser o Líder que vai Alavancar o seu Negócio? | Com Vitor Peçanha, cofundador da Rock Content | Papo de Gestão",
+  "date_published": 1692608400,
+  "duration": 5451,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Vitor Peçanha",
+      "role": "guest",
+      "company": "Rock Content",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Israel",
+      "role": "mentioned",
+      "company": "Amélia",
+      "title": ""
+    },
+    {
+      "name": "Edmar Ferreira",
+      "role": "mentioned",
+      "company": "Rock Content",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Diego Gomes",
+      "role": "mentioned",
+      "company": "Rock Content",
+      "title": "CEO"
+    },
+    {
+      "name": "Marcelo",
+      "role": "mentioned",
+      "company": "IBM Brasil",
+      "title": "CMO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e treinamento",
+      "context": "Desenvolvimento de habilidades e gestão empresarial"
+    },
+    {
+      "name": "Rock Content",
+      "industry": "Marketing de conteúdo",
+      "context": "Fundada por Vitor Peçanha"
+    },
+    {
+      "name": "Demand Media",
+      "industry": "Content Farm",
+      "context": "Modelo de negócios baseado em produção de conteúdo para SEO"
+    },
+    {
+      "name": "Startup Chile",
+      "industry": "Apoio a startups",
+      "context": "Programa de aceleração de startups do governo chileno"
+    },
+    {
+      "name": "Assembleia Legislativa De Minas Gerais",
+      "industry": "Setor público",
+      "context": "Vitor Peçanha foi aprovado em concurso público para designer"
+    },
+    {
+      "name": "Amélia",
+      "industry": "Tecnologia",
+      "context": "Startup mencionada por Israel"
+    },
+    {
+      "name": "Canui",
+      "industry": "E-commerce",
+      "context": "Mencionada como uma empresa onde aprendizados sobre liderança e crescimento rápido foram obtidos."
+    },
+    {
+      "name": "Dafit",
+      "industry": "E-commerce",
+      "context": "Mencionada como uma empresa onde aprendizados sobre liderança e crescimento rápido foram obtidos."
+    },
+    {
+      "name": "Rappi",
+      "industry": "Delivery e Serviços",
+      "context": "Mencionada como uma empresa onde aprendizados sobre liderança e crescimento rápido foram obtidos."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Mencionada no contexto de estratégias de marketing e lançamento de produtos."
+    },
+    {
+      "name": "Ibm Brasil",
+      "industry": "Tecnologia",
+      "context": "Mencionada no contexto de estratégias de marketing e métricas."
+    },
+    {
+      "name": "Crm Bônus",
+      "industry": "Tecnologia e CRM",
+      "context": "Mencionada como exemplo de estratégia de marketing eficaz"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de treinamento"
+    },
+    {
+      "name": "Content Farm",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "SEO",
+      "category": "Marketing digital"
+    },
+    {
+      "name": "MVP",
+      "category": "Desenvolvimento de produtos"
+    },
+    {
+      "name": "Gestão",
+      "category": "Administração"
+    },
+    {
+      "name": "PDI",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Carreira Y",
+      "category": "Estratégia de Carreira"
+    },
+    {
+      "name": "Gestão Operacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão Estratégica",
+      "category": "Gestão"
+    },
+    {
+      "name": "KPIs (Key Performance Indicators)",
+      "category": "Métricas de Negócios"
+    },
+    {
+      "name": "Foco Empresarial",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Contribuidor Individual",
+      "category": "Estratégia de Carreira"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Gestão"
+    },
+    {
+      "name": "CRM (Customer Relationship Management)",
+      "category": "Ferramenta de Negócios"
+    },
+    {
+      "name": "Lead Generation",
+      "category": "Marketing"
+    },
+    {
+      "name": "Qualificação de Leads",
+      "category": "Marketing"
+    },
+    {
+      "name": "fundraising",
+      "category": "Finanças"
+    },
+    {
+      "name": "venture builder",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "spin-off",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "P&D (Pesquisa e Desenvolvimento)",
+      "category": "Inovação"
+    },
+    {
+      "name": "incrementalidade",
+      "category": "Métricas de Marketing"
+    },
+    {
+      "name": "SEO (Search Engine Optimization)",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "mídia paga",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "tráfego orgânico",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "EBITDA",
+      "category": "Finanças"
+    },
+    {
+      "name": "fluxo de caixa",
+      "category": "Finanças"
+    },
+    {
+      "name": "Atribuição de Marketing",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "CMO (Chief Marketing Officer)",
+      "category": "Função Executiva"
+    },
+    {
+      "name": "CEO (Chief Executive Officer)",
+      "category": "Função Executiva"
+    },
+    {
+      "name": "Brand Lift",
+      "category": "Métrica de Marketing"
+    },
+    {
+      "name": "Correlação em Marketing",
+      "category": "Estratégia de Negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear"
+    },
+    {
+      "title": "De Onde Vêm as Boas Ideias",
+      "author": "Steven Johnson"
+    },
+    {
+      "title": "Como Chegamos Até Aqui",
+      "author": "Steven Johnson"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7 dias de acesso gratuito",
+      "context": "Promoção do G4 Skills"
+    },
+    {
+      "value": "1 milhão de sessões por mês",
+      "context": "Tráfego do blog Comofas"
+    },
+    {
+      "value": "6 a 7 mil dólares por mês",
+      "context": "Receita do blog Comofas"
+    },
+    {
+      "value": "6 mil reais por mês",
+      "context": "Salário oferecido no concurso público"
+    },
+    {
+      "value": "1.200 reais por mês",
+      "context": "Rendimento inicial de Vitor Peçanha"
+    },
+    {
+      "value": "50 a 70 milhões",
+      "context": "Faturamento de empresas mencionadas como exemplo de foco empresarial."
+    },
+    {
+      "value": "200 a 300 milhões",
+      "context": "Meta de crescimento sugerida para empresas com faturamento de 50 a 70 milhões."
+    },
+    {
+      "value": "400 mil sessões por mês",
+      "context": "Tráfego do blog inicial da Rock Content antes de focar em vendas."
+    },
+    {
+      "value": "30 mil reais",
+      "context": "Valor de venda da frente de mídia da Rock Content para focar em vendas."
+    },
+    {
+      "value": "70-80 milhões",
+      "context": "Faturamento mencionado como exemplo de empresas que podem diversificar estratégias."
+    },
+    {
+      "value": "150 milhões de dólares",
+      "context": "Montante levantado por uma empresa em uma rodada de investimento."
+    },
+    {
+      "value": "100 livros por ano",
+      "context": "Quantidade de livros lidos por Edmar Ferreira em um ano."
+    },
+    {
+      "value": "5-6 anos atrás",
+      "context": "Referência temporal para mudança de percepção sobre estratégias de marketing"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Vitor Peçanha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Demand Media",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitor Peçanha",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rock Content",
+      "target_type": "company"
+    },
+    {
+      "source": "De Onde Vêm As Boas Ideias",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Como Chegamos Até Aqui",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rock Content",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitor Peçanha",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rock Content",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitor Peçanha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Seo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vitor Peçanha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Israel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Amélia",
+      "target_type": "company"
+    },
+    {
+      "source": "Edmar Ferreira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rock Content",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitor Peçanha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ibm Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitor Peçanha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Startup Chile",
+      "target_type": "company"
+    }
+  ]
+}

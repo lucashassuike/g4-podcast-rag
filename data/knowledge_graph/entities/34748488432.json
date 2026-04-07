@@ -1,0 +1,171 @@
+{
+  "episode_id": "34748488432",
+  "title": "COMO CONSEGUIR CAPITAL PARA O NEGÓCIO - COM GUSTAVO AHRENDS E JOAQUIM LIMA | G4 PODCASTS",
+  "date_published": 1717057800,
+  "duration": 1298,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Gustavo Arendt",
+      "role": "guest",
+      "company": "Norte Ventures",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Joaquim Lima",
+      "role": "guest",
+      "company": "Riverwood Capital",
+      "title": "Sócio"
+    },
+    {
+      "name": "Mônica",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Igor",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sérgio Furio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Patrick Sigrich",
+      "role": "mentioned",
+      "company": "Nomad",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa cofundada por Tallis Gomes e Bruno Nardon, mencionada no contexto de mentoria e educação empresarial."
+    },
+    {
+      "name": "Norte Ventures",
+      "industry": "Investimentos",
+      "context": "Fundada por Gustavo Arendt, mencionada como atuante em investimentos early stage."
+    },
+    {
+      "name": "Riverwood Capital",
+      "industry": "Investimentos",
+      "context": "Empresa onde Joaquim Lima é sócio, mencionada como atuante em investimentos late stage."
+    },
+    {
+      "name": "Nomad",
+      "industry": "Fintech",
+      "context": "Mencionada no contexto de exemplos de empresas inovadoras."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "VC track",
+      "category": "Investimentos"
+    },
+    {
+      "name": "early stage",
+      "category": "Investimentos"
+    },
+    {
+      "name": "late stage",
+      "category": "Investimentos"
+    },
+    {
+      "name": "valuation",
+      "category": "Finanças"
+    },
+    {
+      "name": "founder resilience",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "tech founders",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "disruptive theses",
+      "category": "Inovação"
+    },
+    {
+      "name": "vintage",
+      "category": "Investimentos"
+    },
+    {
+      "name": "cap table",
+      "category": "Investimentos"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "1.8 bilhões de dólares",
+      "context": "Fundo de investimento da Riverwood Capital mencionado como disponível para investimentos."
+    },
+    {
+      "value": "6-7 eventos por dia",
+      "context": "Número de eventos mencionados durante a semana em Nova York."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gustavo Arendt",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Norte Ventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Patrick Sigrich",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nomad",
+      "target_type": "company"
+    },
+    {
+      "source": "Joaquim Lima",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Riverwood Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

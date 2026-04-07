@@ -1,0 +1,806 @@
+{
+  "episode_id": "34748488541",
+  "title": "Como Investir na Bolsa e Bastidores do Mercado Financeiro - Com Renato Breia | Extremos",
+  "date_published": 1695717300,
+  "duration": 5940,
+  "chunks_processed": 9,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Renato Breia",
+      "role": "guest",
+      "company": "Nord Research",
+      "title": "Fundador"
+    },
+    {
+      "name": "Bruce",
+      "role": "mentioned",
+      "company": "Nord Research",
+      "title": "Sócio Fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla, SpaceX",
+      "title": ""
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "mentioned",
+      "company": "Berkshire Hathaway",
+      "title": ""
+    },
+    {
+      "name": "Alexandre",
+      "role": "mentioned",
+      "company": "",
+      "title": "Steve Jobs brasileiro"
+    },
+    {
+      "name": "Bruno Prada",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "João Adib",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Netão Do Bombife",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Richard Daramis",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Daniel Castanho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Joel Jota",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marília",
+      "role": "mentioned",
+      "company": "Norte Investimentos",
+      "title": "Sócia"
+    },
+    {
+      "name": "Adib",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nelson Williams",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pyong",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Vitor",
+      "role": "mentioned",
+      "company": "Nordic Wealth",
+      "title": "Sócio"
+    },
+    {
+      "name": "Charles",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Renata",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de educação e treinamento mencionada como patrocinadora do podcast."
+    },
+    {
+      "name": "Nord Research",
+      "industry": "Mercado Financeiro",
+      "context": "Empresa fundada por Renato Breia, mencionada no contexto de sua carreira."
+    },
+    {
+      "name": "Nord Wealth",
+      "industry": "Financeiro",
+      "context": "Gestão de patrimônio e investimentos"
+    },
+    {
+      "name": "Nord Asset",
+      "industry": "Financeiro",
+      "context": "Gestora de fundos de investimento"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Financeiro",
+      "context": "Parceira da Nord Wealth para operações financeiras"
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Financeiro",
+      "context": "Parceira da Nord Wealth para operações financeiras"
+    },
+    {
+      "name": "Banco Inter",
+      "industry": "Financeiro",
+      "context": "Banco digital mencionado como investimento recomendado"
+    },
+    {
+      "name": "Mrv Engenharia",
+      "industry": "Construção",
+      "context": "Empresa associada ao dono do Banco Inter"
+    },
+    {
+      "name": "Atlético Mineiro",
+      "industry": "Esportes",
+      "context": "Clube patrocinado pelo dono do Banco Inter"
+    },
+    {
+      "name": "Mrv",
+      "industry": "Construção",
+      "context": "Relacionada ao dono do Banco Inter e patrocinadora do Atlético Mineiro."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotivo e Energia",
+      "context": "Mencionada em relação a Elon Musk e investimentos."
+    },
+    {
+      "name": "Spacex",
+      "industry": "Aeroespacial",
+      "context": "Mencionada em relação a Elon Musk e sua missão de ir para Marte."
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "industry": "Investimentos",
+      "context": "Relacionada a Warren Buffett e sua conferência anual."
+    },
+    {
+      "name": "G4 Podcast",
+      "industry": "Media",
+      "context": "Podcast de negócios"
+    },
+    {
+      "name": "G4 Skills",
+      "industry": "Education Technology",
+      "context": "Plataforma de treinamento corporativo"
+    },
+    {
+      "name": "Nord Investimentos",
+      "industry": "Finance",
+      "context": "Empresa de investimentos e gestão de patrimônio"
+    },
+    {
+      "name": "Empiricus",
+      "industry": "Finance",
+      "context": "Empresa de conteúdo financeiro"
+    },
+    {
+      "name": "Norte Investimentos",
+      "industry": "Financeiro",
+      "context": "Empresa mencionada como local de trabalho de Renato Breia"
+    },
+    {
+      "name": "Via Varejo",
+      "industry": "Varejo",
+      "context": "Empresa mencionada em relação a investimentos e performance de ações"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Financeiro",
+      "context": "Mencionado em relação ao deslistamento de BDRs"
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Mentioned as a comparison to the Brazilian stock market."
+    },
+    {
+      "name": "Get Ninjas",
+      "industry": "Technology",
+      "context": "Discussed regarding its IPO and financial decisions."
+    },
+    {
+      "name": "Americanas",
+      "industry": "Retail",
+      "context": "Discussed in the context of market disruptions."
+    },
+    {
+      "name": "Light",
+      "industry": "Energy",
+      "context": "Mentioned in relation to market disruptions."
+    },
+    {
+      "name": "Norte",
+      "industry": "Financial Services",
+      "context": "Renato Breia's company, mentioned as benefiting from his personal branding efforts."
+    },
+    {
+      "name": "Norde",
+      "industry": "Financeiro",
+      "context": "Empresa de investimentos mencionada por Renato Breia"
+    },
+    {
+      "name": "Xp",
+      "industry": "Financeiro",
+      "context": "Plataforma de investimentos mencionada como concorrente"
+    },
+    {
+      "name": "Btg",
+      "industry": "Financeiro",
+      "context": "Plataforma de investimentos mencionada como concorrente"
+    },
+    {
+      "name": "Grupo Primo",
+      "industry": "Educação Financeira",
+      "context": "Empresa mencionada como competidora no setor de investimentos"
+    },
+    {
+      "name": "Nordic Wealth",
+      "industry": "Financeiro",
+      "context": "Empresa de gestão de patrimônio mencionada por Renato Breia"
+    },
+    {
+      "name": "Xtech",
+      "industry": "Tecnologia",
+      "context": "Empresa mencionada por Alfredo Soares em relação à sua venda"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Treinamento"
+    },
+    {
+      "name": "Mercado Financeiro",
+      "category": "Indústria"
+    },
+    {
+      "name": "Fee-based model",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Gestão discricionária",
+      "category": "Gestão de investimentos"
+    },
+    {
+      "name": "Taxa de administração",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Taxa de performance",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Educação financeira",
+      "category": "Financeiro"
+    },
+    {
+      "name": "Biografia",
+      "category": "Literatura"
+    },
+    {
+      "name": "Investimentos",
+      "category": "Financeiro"
+    },
+    {
+      "name": "investimento em ações",
+      "category": "Finance"
+    },
+    {
+      "name": "empreendedorismo",
+      "category": "Business"
+    },
+    {
+      "name": "gestão de patrimônio",
+      "category": "Finance"
+    },
+    {
+      "name": "vinicultura",
+      "category": "Agriculture"
+    },
+    {
+      "name": "Bolsa de Valores",
+      "category": "Mercado Financeiro"
+    },
+    {
+      "name": "Home Broker",
+      "category": "Ferramenta de Investimento"
+    },
+    {
+      "name": "Turnaround",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "BDR (Brazilian Depositary Receipt)",
+      "category": "Instrumento Financeiro"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Taxa de Juros",
+      "category": "Finance"
+    },
+    {
+      "name": "Mercado de Capitais",
+      "category": "Finance"
+    },
+    {
+      "name": "Renda Fixa",
+      "category": "Finance"
+    },
+    {
+      "name": "LCAs e LCIs",
+      "category": "Finance"
+    },
+    {
+      "name": "Debêntures de Infraestrutura",
+      "category": "Finance"
+    },
+    {
+      "name": "Spread de Crédito",
+      "category": "Finance"
+    },
+    {
+      "name": "AAA Rating",
+      "category": "Finance"
+    },
+    {
+      "name": "Soma Zero",
+      "category": "Finance"
+    },
+    {
+      "name": "Construção de Reputação",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Social investing",
+      "category": "Estratégia de investimento"
+    },
+    {
+      "name": "Reputação no mercado financeiro",
+      "category": "Conceito"
+    },
+    {
+      "name": "Crescimento empresarial",
+      "category": "Conceito"
+    },
+    {
+      "name": "Desafios entre sócios",
+      "category": "Conceito"
+    },
+    {
+      "name": "PM (Product Management)",
+      "category": "Framework"
+    },
+    {
+      "name": "Economia Real",
+      "category": "Conceito Econômico"
+    }
+  ],
+  "books": [
+    {
+      "title": "Elon Musk",
+      "author": "Walter Isaacson"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "25 mil",
+      "context": "Número de colaboradores que utilizam a plataforma G4 Skills."
+    },
+    {
+      "value": "55,000",
+      "context": "Clientes ativos da Nord Wealth"
+    },
+    {
+      "value": "500,000",
+      "context": "Seguidores nas redes sociais da Nord Wealth"
+    },
+    {
+      "value": "5,000,000",
+      "context": "Visualizações no YouTube da Nord Wealth"
+    },
+    {
+      "value": "3.5 bilhões",
+      "context": "Patrimônio sob gestão da Nord Wealth"
+    },
+    {
+      "value": "250 milhões",
+      "context": "Patrimônio sob gestão dos fundos da Nord Asset"
+    },
+    {
+      "value": "800 mil reais",
+      "context": "Meta de arrecadação inicial para lançar a Nord Investimentos"
+    },
+    {
+      "value": "200 assinaturas",
+      "context": "Número de assinaturas vendidas para fundar a Nord Investimentos"
+    },
+    {
+      "value": "50 mil reais",
+      "context": "Investimento inicial de cada sócio na Nord Investimentos"
+    },
+    {
+      "value": "200 horas",
+      "context": "Conteúdo disponível na plataforma G4 Skills"
+    },
+    {
+      "value": "90",
+      "context": "Número total de funcionários na Norte Investimentos"
+    },
+    {
+      "value": "30",
+      "context": "Número de pessoas na equipe de Renato Breia"
+    },
+    {
+      "value": "4 milhões e meio",
+      "context": "Número de CPFs na Bolsa de Valores brasileira após o deslistamento do Nubank"
+    },
+    {
+      "value": "4.75%",
+      "context": "Taxa de juros de 10 anos nos EUA, maior desde 2007."
+    },
+    {
+      "value": "1 trilhão de dólares",
+      "context": "Valor do mercado de capitais brasileiro."
+    },
+    {
+      "value": "3.5 trilhões de dólares",
+      "context": "Valor de mercado da Apple, comparado ao mercado brasileiro."
+    },
+    {
+      "value": "90%",
+      "context": "Porcentagem de clientes que nunca conheceram Renato Breia pessoalmente"
+    },
+    {
+      "value": "1 milhão a 50 milhões de reais",
+      "context": "Intervalo de valores investidos por clientes da Norde"
+    },
+    {
+      "value": "1.300 assinaturas",
+      "context": "Número de assinaturas mencionadas por Alfredo Soares no evento Bora Vender no Vertex Day"
+    },
+    {
+      "value": "19 anos",
+      "context": "Tempo de experiência de Renato Breia no mercado financeiro"
+    },
+    {
+      "value": "55 mil clientes",
+      "context": "Base de clientes mencionada para eventos conjuntos"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Construção De Reputação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Educação Financeira",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nord Asset",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nord Wealth",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nord Investimentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Norte Investimentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nord Research",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Inter",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mrv Engenharia",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nordic Wealth",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Xtech",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Empiricus",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Norde",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tesla",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Renata",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nord Investimentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Berkshire Hathaway",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Norte",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Primo",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Norde",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Inter",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mrv",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Bruno Nardon",
+      "target_type": "person"
+    },
+    {
+      "source": "Banco Inter",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Atlético Mineiro",
+      "target_type": "company"
+    },
+    {
+      "source": "Marília",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Norte Investimentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Nord Wealth",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Charles",
+      "target_type": "person"
+    },
+    {
+      "source": "Nordic Wealth",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Nord Wealth",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Nordic Wealth",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Get Ninjas",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ipo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Americanas",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mercado De Capitais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Vitor",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Breia",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Via Varejo",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nordic Wealth",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Spacex",
+      "target_type": "company"
+    },
+    {
+      "source": "Apple",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Mercado De Capitais Brasileiro",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

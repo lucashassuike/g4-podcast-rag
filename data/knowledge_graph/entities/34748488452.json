@@ -1,0 +1,177 @@
+{
+  "episode_id": "34748488452",
+  "title": "NÃO QUEBRE POR UMA MÁ GESTÃO DE PESSOAS - COM MÔNICA HAUCK (SÓLIDES) | PAPO DE GESTÃO",
+  "date_published": 1711960200,
+  "duration": 4014,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Mônica Hauck",
+      "role": "guest",
+      "company": "Sólides",
+      "title": "CEO e fundadora"
+    },
+    {
+      "name": "Ale",
+      "role": "mentioned",
+      "company": "Sólides",
+      "title": "Co-fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Desenvolvimento de habilidades e treinamento corporativo"
+    },
+    {
+      "name": "Sólides",
+      "industry": "HR Tech",
+      "context": "Tecnologia para gestão de pessoas em pequenas e médias empresas"
+    },
+    {
+      "name": "Orbo",
+      "industry": "Investimentos",
+      "context": "Fundo global que investiu na Sólides em 2022."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Diagnóstico Comportamental",
+      "category": "Tecnologia e RH"
+    },
+    {
+      "name": "Maturidade Empresarial",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Bootstrapping",
+      "category": "Estratégia de Financiamento"
+    },
+    {
+      "name": "Rotatividade de Funcionários",
+      "category": "Métrica de Recursos Humanos"
+    },
+    {
+      "name": "Mapeamento Comportamental",
+      "category": "Tecnologia de Recursos Humanos"
+    },
+    {
+      "name": "Gestão comportamental",
+      "category": "Estratégia de Recursos Humanos"
+    },
+    {
+      "name": "Ninebox",
+      "category": "Metodologia de Gestão de Desempenho"
+    },
+    {
+      "name": "Recrutamento e seleção",
+      "category": "Processo de Recursos Humanos"
+    },
+    {
+      "name": "Pesquisa de clima",
+      "category": "Ferramenta de Recursos Humanos"
+    },
+    {
+      "name": "Adequação ao perfil",
+      "category": "Critério de Recrutamento"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "30,000 clientes",
+      "context": "Número de clientes da Sólides"
+    },
+    {
+      "value": "1,300 novos clientes por mês",
+      "context": "Taxa de aquisição de clientes da Sólides"
+    },
+    {
+      "value": "800 colaboradores",
+      "context": "Tamanho da equipe da Sólides"
+    },
+    {
+      "value": "8 milhões de pessoas mapeadas",
+      "context": "Impacto da Sólides na população economicamente ativa do Brasil"
+    },
+    {
+      "value": "530 milhões de reais",
+      "context": "Investimento recebido pela Sólides em 2022."
+    },
+    {
+      "value": "40%",
+      "context": "Média de rotatividade inicial dos clientes da Sólides."
+    },
+    {
+      "value": "17%",
+      "context": "Média de rotatividade alcançada pelos clientes da Sólides após uso do software."
+    },
+    {
+      "value": "288,000 a 300,000 reais por ano",
+      "context": "Economia média para empresas de 30 a 40 funcionários usando a ferramenta da Sólides"
+    },
+    {
+      "value": "Mais de 100%",
+      "context": "Rotatividade inicial de um cliente da Sólides"
+    },
+    {
+      "value": "Abaixo da média nacional",
+      "context": "Nível de rotatividade alcançado após uso da ferramenta da Sólides"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Orbo",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Sólides",
+      "target_type": "company"
+    },
+    {
+      "source": "Mônica Hauck",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sólides",
+      "target_type": "company"
+    },
+    {
+      "source": "Ninebox",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Gestão Comportamental",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Educação E Treinamento",
+      "target_type": "company"
+    },
+    {
+      "source": "Sólides",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Hr Tech",
+      "target_type": "company"
+    },
+    {
+      "source": "Sólides",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão Comportamental",
+      "target_type": "concept"
+    }
+  ]
+}

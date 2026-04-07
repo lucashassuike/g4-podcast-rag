@@ -1,0 +1,277 @@
+{
+  "episode_id": "34748488458",
+  "title": "O ESTÁGIO QUE VOCÊ PRECISA CHEGAR COM COPYWRITING - COM BETO ALTENHOFEN (EMPIRICUS) - PAPO DE GESTÃO",
+  "date_published": 1710144000,
+  "duration": 4628,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Beto Altenhofen",
+      "role": "guest",
+      "company": "Grupo Empiricus",
+      "title": "CMO"
+    },
+    {
+      "name": "Betina",
+      "role": "mentioned",
+      "company": "Empiricus",
+      "title": "Copywriter"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Dilma Rousseff",
+      "role": "mentioned",
+      "company": "Governo do Brasil",
+      "title": "Presidente do Brasil (à época)"
+    },
+    {
+      "name": "Aécio Neves",
+      "role": "mentioned",
+      "company": "Governo do Brasil",
+      "title": "Político Brasileiro"
+    },
+    {
+      "name": "Lula",
+      "role": "mentioned",
+      "company": "Governo do Brasil",
+      "title": "Ex-Presidente do Brasil"
+    },
+    {
+      "name": "Andres",
+      "role": "mentioned",
+      "company": "BTG",
+      "title": "Dealmaker"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Empiricus",
+      "industry": "Financeiro e Educação",
+      "context": "Empresa pioneira em copywriting no Brasil, associada ao marketing digital e campanhas impactantes."
+    },
+    {
+      "name": "Btg",
+      "industry": "Financeiro",
+      "context": "Comprou a Empiricus."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Desenvolve plataformas de treinamento como o G4 Skills."
+    },
+    {
+      "name": "Agora Inc.",
+      "industry": "Financeiro e Educação",
+      "context": "Sócio americano da Empiricus, influenciou práticas de copywriting."
+    },
+    {
+      "name": "Santander",
+      "industry": "Bancário",
+      "context": "Citado em relação a uma analista demitida por previsões econômicas"
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Bancário",
+      "context": "Citado como exemplo de empresa com restrições em campanhas publicitárias"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Copywriting",
+      "category": "Marketing"
+    },
+    {
+      "name": "Marketing Digital",
+      "category": "Marketing"
+    },
+    {
+      "name": "Gestão de Tráfego",
+      "category": "Marketing"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Educação"
+    },
+    {
+      "name": "Níveis de Consciência do Público",
+      "category": "Marketing"
+    },
+    {
+      "name": "Escrita Persuasiva",
+      "category": "Marketing"
+    },
+    {
+      "name": "Nível de Consciência do Público",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Narrativa Provocativa",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Custo Marginal Zero",
+      "category": "Economia e Negócios"
+    },
+    {
+      "name": "Elasticidade de Preço",
+      "category": "Economia"
+    },
+    {
+      "name": "Churn",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Front-end Product",
+      "category": "Estratégia de Produto"
+    },
+    {
+      "name": "Earn-out",
+      "category": "Estratégia de M&A"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Estratégia de Negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Fim do Brasil",
+      "author": "Empiricus"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "3 mil para quase 30 mil assinantes",
+      "context": "Crescimento de assinantes da Empiricus após campanha 'O Fim do Brasil'."
+    },
+    {
+      "value": "275 mil reais",
+      "context": "Custo do primeiro Masthead contratado pela Empiricus no YouTube."
+    },
+    {
+      "value": "Mais de 1 milhão de reais",
+      "context": "Custo do Masthead no YouTube em 2019."
+    },
+    {
+      "value": "3 mil para 30 mil assinantes",
+      "context": "Crescimento de assinantes da Empiricus após campanha 'O Fim do Brasil'"
+    },
+    {
+      "value": "R$690 milhões",
+      "context": "Valor divulgado da aquisição da Empiricus pelo BTG"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "developed",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Beto Altenhofen",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Empiricus",
+      "target_type": "company"
+    },
+    {
+      "source": "Empiricus",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Santander",
+      "target_type": "company"
+    },
+    {
+      "source": "Beto Altenhofen",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Empiricus",
+      "target_type": "company"
+    },
+    {
+      "source": "Dilma Rousseff",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Empiricus",
+      "target_type": "company"
+    },
+    {
+      "source": "Andres",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg",
+      "target_type": "company"
+    },
+    {
+      "source": "Empiricus",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Empiricus",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Agora Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "Empiricus",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Btg",
+      "target_type": "company"
+    },
+    {
+      "source": "Empiricus",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Btg",
+      "target_type": "company"
+    },
+    {
+      "source": "Betina",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Empiricus",
+      "target_type": "company"
+    },
+    {
+      "source": "Empiricus",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "2009",
+      "target_type": "company"
+    }
+  ]
+}

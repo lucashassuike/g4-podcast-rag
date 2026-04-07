@@ -1,0 +1,862 @@
+{
+  "episode_id": "34748488410",
+  "title": "NIKOLAS FERREIRA - A LUTA CONTRA A EXTINÇÃO DOS VALORES | VOX LUMINIS",
+  "date_published": 1722502801,
+  "duration": 7344,
+  "chunks_processed": 10,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Nicolas Ferreira",
+      "role": "guest",
+      "company": "Câmara dos Deputados",
+      "title": "Deputado Federal"
+    },
+    {
+      "name": "Eduardo Bolsonaro",
+      "role": "mentioned",
+      "company": "Câmara dos Deputados",
+      "title": "Deputado Federal"
+    },
+    {
+      "name": "Enéas Carneiro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Político"
+    },
+    {
+      "name": "Leonardo Boff",
+      "role": "mentioned",
+      "company": "",
+      "title": "Teólogo"
+    },
+    {
+      "name": "João Pedro Stedile",
+      "role": "mentioned",
+      "company": "MST",
+      "title": "Líder"
+    },
+    {
+      "name": "São Josemaria Escrivá",
+      "role": "mentioned",
+      "company": "",
+      "title": "Padre"
+    },
+    {
+      "name": "Nikolas Ferreira",
+      "role": "guest",
+      "company": "",
+      "title": "Politician"
+    },
+    {
+      "name": "Jordan Peterson",
+      "role": "mentioned",
+      "company": "",
+      "title": "Psicólogo"
+    },
+    {
+      "name": "C.S. Lewis",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Giuseppe",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Júlia Zanatta",
+      "role": "mentioned",
+      "company": "",
+      "title": "Politician"
+    },
+    {
+      "name": "Erika Hilton",
+      "role": "mentioned",
+      "company": "",
+      "title": "Politician"
+    },
+    {
+      "name": "Lula",
+      "role": "mentioned",
+      "company": "Governo do Brasil",
+      "title": "Presidente"
+    },
+    {
+      "name": "William Lane Craig",
+      "role": "mentioned",
+      "company": "",
+      "title": "Apologeta"
+    },
+    {
+      "name": "Thales",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Guilherme Freire",
+      "role": "mentioned",
+      "company": "",
+      "title": "mentor"
+    },
+    {
+      "name": "William Wilberforce",
+      "role": "mentioned",
+      "company": "",
+      "title": "Parlamentar Britânico"
+    },
+    {
+      "name": "William Pitt",
+      "role": "mentioned",
+      "company": "",
+      "title": "Primeiro-Ministro Britânico"
+    },
+    {
+      "name": "São Tomás De Aquino",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo e Teólogo"
+    },
+    {
+      "name": "Neymar",
+      "role": "mentioned",
+      "company": "",
+      "title": "Jogador de Futebol"
+    },
+    {
+      "name": "Bruna Marquezine",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atriz"
+    },
+    {
+      "name": "Jair Bolsonaro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Político"
+    },
+    {
+      "name": "Martin Luther King",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ativista"
+    },
+    {
+      "name": "Davi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Figura Bíblica"
+    },
+    {
+      "name": "Daniel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Figura Bíblica"
+    },
+    {
+      "name": "Guilherme Boulos",
+      "role": "mentioned",
+      "company": "",
+      "title": "Político"
+    },
+    {
+      "name": "Flávio Dino",
+      "role": "mentioned",
+      "company": "Suprema Corte",
+      "title": "Ministro"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta"
+    },
+    {
+      "name": "Duda Mendonça",
+      "role": "mentioned",
+      "company": "",
+      "title": "Publicitário"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla, SpaceX",
+      "title": "CEO"
+    },
+    {
+      "name": "Aurora",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "John Money",
+      "role": "mentioned",
+      "company": "",
+      "title": "Sexólogo"
+    },
+    {
+      "name": "Alfred Kinsley",
+      "role": "mentioned",
+      "company": "Harvard University",
+      "title": "Pesquisador"
+    },
+    {
+      "name": "Alfred Kinsey",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Simone De Beauvoir",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jean-Paul Sartre",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Olavo De Carvalho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Margaret Thatcher",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Winston Churchill",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marielle Franco",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Malala Yousafzai",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Greta Thunberg",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Joaquim Nabuco",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Machado De Assis",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa de educação mencionada como organizadora do programa Gestão e Estratégia."
+    },
+    {
+      "name": "Câmara Dos Deputados",
+      "industry": "Governo",
+      "context": "Instituição onde Nicolas Ferreira e Eduardo Bolsonaro atuam como deputados."
+    },
+    {
+      "name": "Mst",
+      "industry": "Movimentos sociais",
+      "context": "Organização mencionada em contexto político."
+    },
+    {
+      "name": "Governo Do Brasil",
+      "industry": "Governo",
+      "context": "Anúncio de institutos federais"
+    },
+    {
+      "name": "Disney",
+      "industry": "Entertainment",
+      "context": "Mentioned in the context of subliminal messages in films"
+    },
+    {
+      "name": "Suprema Corte",
+      "industry": "Judiciário",
+      "context": "Discussão sobre nomeações e influência política"
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotivo e Energia",
+      "context": "Mencionada em relação ao impacto de Elon Musk"
+    },
+    {
+      "name": "Spacex",
+      "industry": "Aeroespacial",
+      "context": "Mencionada em relação ao impacto de Elon Musk"
+    },
+    {
+      "name": "Harvard University",
+      "industry": "Education",
+      "context": "Alfred Kinsley was a researcher affiliated with Harvard University."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Gestão e Estratégia",
+      "category": "Programas educacionais"
+    },
+    {
+      "name": "Marketing digital",
+      "category": "Estratégias de marketing"
+    },
+    {
+      "name": "Dopamina barata",
+      "category": "Psicologia e comportamento"
+    },
+    {
+      "name": "Santificação no ambiente de trabalho",
+      "category": "Espiritualidade e ética"
+    },
+    {
+      "name": "virtude da coragem",
+      "category": "ética e valores"
+    },
+    {
+      "name": "cultura woke",
+      "category": "cultura organizacional"
+    },
+    {
+      "name": "revolução cultural no Brasil",
+      "category": "movimentos sociais"
+    },
+    {
+      "name": "woke",
+      "category": "social movement"
+    },
+    {
+      "name": "Pride Month",
+      "category": "social movement"
+    },
+    {
+      "name": "Antônio Gramsci",
+      "category": "philosophy"
+    },
+    {
+      "name": "agressão molecular",
+      "category": "philosophy"
+    },
+    {
+      "name": "Institutos Federais",
+      "category": "Educação"
+    },
+    {
+      "name": "Educação Cristã",
+      "category": "Religião"
+    },
+    {
+      "name": "Apologética",
+      "category": "Religião"
+    },
+    {
+      "name": "Valores Conservadores",
+      "category": "Sociedade"
+    },
+    {
+      "name": "Pressão Acadêmica",
+      "category": "Educação"
+    },
+    {
+      "name": "niilismo",
+      "category": "philosophy"
+    },
+    {
+      "name": "teoria crítica",
+      "category": "philosophy"
+    },
+    {
+      "name": "design inteligente",
+      "category": "philosophy"
+    },
+    {
+      "name": "argumento cosmológico de Kalan",
+      "category": "philosophy"
+    },
+    {
+      "name": "Abolição da escravatura",
+      "category": "Histórico"
+    },
+    {
+      "name": "Revolução cultural",
+      "category": "Sociopolítico"
+    },
+    {
+      "name": "Decisões de longo prazo",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Distribuição de dividendos",
+      "category": "Finanças empresariais"
+    },
+    {
+      "name": "Analfabetismo funcional",
+      "category": "Educação"
+    },
+    {
+      "name": "Polarização política",
+      "category": "Política"
+    },
+    {
+      "name": "Lei Rouanet",
+      "category": "Política Cultural"
+    },
+    {
+      "name": "Reforma tributária",
+      "category": "Política Econômica"
+    },
+    {
+      "name": "Lobby",
+      "category": "Política e Negócios"
+    },
+    {
+      "name": "Estrutura de Poder",
+      "category": "Política"
+    },
+    {
+      "name": "Competência",
+      "category": "Habilidades e Qualidades"
+    },
+    {
+      "name": "Maternidade e Felicidade",
+      "category": "Sociologia e Psicologia"
+    },
+    {
+      "name": "Family values",
+      "category": "Social"
+    },
+    {
+      "name": "State dependency",
+      "category": "Political"
+    },
+    {
+      "name": "Sexual revolution",
+      "category": "Historical"
+    },
+    {
+      "name": "Pedophilia in scientific research",
+      "category": "Ethical"
+    },
+    {
+      "name": "Nova Era",
+      "category": "framework"
+    },
+    {
+      "name": "feminismo",
+      "category": "social movement"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Bíblia",
+      "author": "diversos autores"
+    },
+    {
+      "title": "Obras de C.S. Lewis",
+      "author": "C.S. Lewis"
+    },
+    {
+      "title": "Em Guarda",
+      "author": "William Lane Craig"
+    },
+    {
+      "title": "Brilho Eterno de Uma Mente Sem Lembranças",
+      "author": ""
+    },
+    {
+      "title": "O Pianista",
+      "author": ""
+    },
+    {
+      "title": "12 Rules for Life",
+      "author": "Jordan Peterson"
+    },
+    {
+      "title": "Nova Era Revolução Cultural",
+      "author": "Olavo de Carvalho"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1.8 milhões",
+      "context": "Número de votos recebidos por Eduardo Bolsonaro nas eleições."
+    },
+    {
+      "value": "52 milhões",
+      "context": "Visualizações de um vídeo de Nicolas Ferreira no Instagram."
+    },
+    {
+      "value": "5 milhões",
+      "context": "Processo judicial contra Nikolas Ferreira"
+    },
+    {
+      "value": "70%",
+      "context": "Jovens cristãos que deixam a fé na faculdade"
+    },
+    {
+      "value": "300 milhões por ano",
+      "context": "Faturamento anual do negócio mencionado por Tallis Gomes"
+    },
+    {
+      "value": "400 pessoas",
+      "context": "Tamanho da equipe do negócio mencionado por Tallis Gomes"
+    },
+    {
+      "value": "600 mil interações por publicação",
+      "context": "Influência nas redes sociais de Nikolas Ferreira"
+    },
+    {
+      "value": "11 bilhões ao ano",
+      "context": "Custo estimado para segurança armada nas escolas"
+    },
+    {
+      "value": "16 bilhões",
+      "context": "Destinação de recursos pela Lei Rouanet"
+    },
+    {
+      "value": "5.4 bilhões",
+      "context": "Emendas parlamentares liberadas na semana da reforma tributária"
+    },
+    {
+      "value": "5.4 bilhões",
+      "context": "Valor mencionado como liberado pelo governo para influenciar votação"
+    },
+    {
+      "value": "1.8 bilhões",
+      "context": "Valor mencionado como parte da reforma tributária"
+    },
+    {
+      "value": "40 milhões",
+      "context": "investimento no Museu do dia 8 de janeiro"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Virtude Da Coragem",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Woke",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Antônio Gramsci",
+      "target_type": "concept"
+    },
+    {
+      "source": "William Wilberforce",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "William Pitt",
+      "target_type": "person"
+    },
+    {
+      "source": "John Money",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Alfred Kinsey",
+      "target_type": "person"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pedophilia In Scientific Research",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "State Dependency",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eduardo Bolsonaro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Câmara Dos Deputados",
+      "target_type": "company"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Duda Mendonça",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfred Kinsley",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Harvard University",
+      "target_type": "company"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Nicolas Ferreira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Câmara Dos Deputados",
+      "target_type": "company"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Elon Musk",
+      "target_type": "person"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Woke",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Comissão De Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Olavo De Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nova Era Revolução Cultural",
+      "target_type": "company"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Family Values",
+      "target_type": "concept"
+    },
+    {
+      "source": "William Lane Craig",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Em Guarda",
+      "target_type": "company"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sexual Revolution",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "C.S. Lewis",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Revolução Cultural No Brasil",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dopamina Barata",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jordan Peterson",
+      "target_type": "person"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Guilherme Freire",
+      "target_type": "person"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Agressão Molecular",
+      "target_type": "concept"
+    },
+    {
+      "source": "Simone De Beauvoir",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Jean-Paul Sartre",
+      "target_type": "person"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Júlia Zanatta",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Bíblia",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Santificação No Ambiente De Trabalho",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Erika Hilton",
+      "target_type": "person"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João Pedro Stedile",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mst",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Flávio Dino",
+      "target_type": "person"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Cristiano Ronaldo",
+      "target_type": "person"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pride Month",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nikolas Ferreira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Lula",
+      "target_type": "person"
+    }
+  ]
+}

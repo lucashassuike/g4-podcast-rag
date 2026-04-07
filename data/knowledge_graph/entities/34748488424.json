@@ -1,0 +1,371 @@
+{
+  "episode_id": "34748488424",
+  "title": "PABLO MARÇAL: DEUS, PODER E POLÍTICA | VOX LUMINIS",
+  "date_published": 1718666400,
+  "duration": 6103,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Pablo Marçal",
+      "role": "guest",
+      "company": "Não especificado",
+      "title": "Empresário"
+    },
+    {
+      "name": "Ayrton Senna",
+      "role": "mentioned",
+      "company": "Não aplicável",
+      "title": "Piloto de Fórmula 1"
+    },
+    {
+      "name": "Thales",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Fundador"
+    },
+    {
+      "name": "Silvio Santos",
+      "role": "mentioned",
+      "company": "SBT",
+      "title": "Empresário e Apresentador"
+    },
+    {
+      "name": "Marcos Paulo",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Sócio de Pablo Marçal"
+    },
+    {
+      "name": "Tasso Renan",
+      "role": "mentioned",
+      "company": "PLX",
+      "title": "CEO"
+    },
+    {
+      "name": "Felipe Sabará",
+      "role": "mentioned",
+      "company": "Arca",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Charles Darwin",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sócrates",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Platão",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Aristóteles",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Mencionada como uma empresa de sucesso e inspiração"
+    },
+    {
+      "name": "Meta",
+      "industry": "Tecnologia e Redes Sociais",
+      "context": "Mencionada como uma plataforma de tráfego pago utilizada por Pablo Marçal"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Serviços Financeiros",
+      "context": "Fundada por Guilherme Benchimol"
+    },
+    {
+      "name": "Sbt",
+      "industry": "Mídia e Entretenimento",
+      "context": "Associada a Silvio Santos"
+    },
+    {
+      "name": "Plx",
+      "industry": "Digital Marketing",
+      "context": "Agency specializing in digital product launches"
+    },
+    {
+      "name": "Arca",
+      "industry": "Social Work",
+      "context": "Organization focused on social impact and rehabilitation"
+    },
+    {
+      "name": "Mcdonald'S",
+      "industry": "Food Service",
+      "context": "Mentioned as a place where former Cracolândia residents found employment."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Tráfego Pago",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Tráfego Viral",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Política",
+      "category": "Governança e Sociedade"
+    },
+    {
+      "name": "Cristianismo",
+      "category": "Religião e Filosofia"
+    },
+    {
+      "name": "Teologia",
+      "category": "Religião e Filosofia"
+    },
+    {
+      "name": "CVO (Chief Visionary Officer)",
+      "category": "Corporate Roles"
+    },
+    {
+      "name": "Mentalidade",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Consultoria",
+      "category": "Business Services"
+    },
+    {
+      "name": "Lançamento Digital",
+      "category": "Marketing Strategies"
+    },
+    {
+      "name": "Memento Mori",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Way Out",
+      "category": "Social Strategy"
+    },
+    {
+      "name": "Marxismo Cultural",
+      "category": "Political Theory"
+    },
+    {
+      "name": "Escola de Frankfurt",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Índice de Distância de Poder (IDP)",
+      "category": "Sociology"
+    },
+    {
+      "name": "Educação",
+      "category": "Social Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Destruição do Marxismo Cultural",
+      "author": "Pablo Marçal"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1.5 milhões",
+      "context": "Número de alunos mencionados por Pablo Marçal"
+    },
+    {
+      "value": "3.5 bilhões",
+      "context": "Marcações no TikTok mencionadas por Pablo Marçal"
+    },
+    {
+      "value": "Dezenas de milhões",
+      "context": "Gasto anual com tráfego pago mencionado por Pablo Marçal"
+    },
+    {
+      "value": "1.5 million",
+      "context": "Number of students in Pablo Marçal's educational programs"
+    },
+    {
+      "value": "112 million",
+      "context": "Revenue from Pablo Marçal's recent digital product launch"
+    },
+    {
+      "value": "53 thousand",
+      "context": "Number of homeless people in São Paulo"
+    },
+    {
+      "value": "3 thousand",
+      "context": "Number of people rehabilitated by Arca"
+    },
+    {
+      "value": "3,000",
+      "context": "Number of people Felipe Sabará helped out of homelessness."
+    },
+    {
+      "value": "700 billion",
+      "context": "Total savings in Brazilian banks."
+    },
+    {
+      "value": "1%",
+      "context": "Percentage of Brazilian families living with more than 20,000 reais per month."
+    },
+    {
+      "value": "61",
+      "context": "Number of books published by Pablo Marçal"
+    },
+    {
+      "value": "50,000",
+      "context": "Books written by Pablo Marçal's students"
+    },
+    {
+      "value": "1,500,000",
+      "context": "Number of students taught by Pablo Marçal"
+    },
+    {
+      "value": "95%",
+      "context": "Percentage of global niobium reserves in Brazil"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcos Paulo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Plx",
+      "target_type": "company"
+    },
+    {
+      "source": "Silvio Santos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sbt",
+      "target_type": "company"
+    },
+    {
+      "source": "Pablo Marçal",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Escola De Frankfurt",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pablo Marçal",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Destruição Do Marxismo Cultural",
+      "target_type": "company"
+    },
+    {
+      "source": "Pablo Marçal",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mentalidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tasso Renan",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Plx",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Pablo Marçal",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marxismo Cultural",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pablo Marçal",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Plx",
+      "target_type": "company"
+    },
+    {
+      "source": "Pablo Marçal",
+      "source_type": "person",
+      "relation": "uses",
+      "target": "Meta",
+      "target_type": "company"
+    },
+    {
+      "source": "Pablo Marçal",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "A Destruição Do Marxismo Cultural",
+      "target_type": "company"
+    },
+    {
+      "source": "Pablo Marçal",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Índice De Distância De Poder (Idp)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Felipe Sabará",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Arca",
+      "target_type": "company"
+    },
+    {
+      "source": "Pablo Marçal",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Plx",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Pablo Marçal",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Educação",
+      "target_type": "concept"
+    }
+  ]
+}

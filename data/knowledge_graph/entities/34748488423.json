@@ -1,0 +1,540 @@
+{
+  "episode_id": "34748488423",
+  "title": "O DESAFIO DE CONSTRUIR TIMES EM AMBIENTES DESAFIADORES - COM RODRIGO PIMENTEL (CAPITÃO NASCIMENTO) | EXTREMOS",
+  "date_published": 1718878173,
+  "duration": 4550,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Rodrigo Pimentel",
+      "role": "guest",
+      "company": "BOPE",
+      "title": "Ex-capitão do Batalhão de Operações Especiais (BOP)"
+    },
+    {
+      "name": "José Padilha",
+      "role": "mentioned",
+      "company": "",
+      "title": "Diretor de cinema"
+    },
+    {
+      "name": "Wagner Moura",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ator"
+    },
+    {
+      "name": "André Ramiro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ator"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Coronel Nunes",
+      "role": "mentioned",
+      "company": "BOPE",
+      "title": "Coronel"
+    },
+    {
+      "name": "Capitão Batista",
+      "role": "mentioned",
+      "company": "BOPE",
+      "title": "Capitão"
+    },
+    {
+      "name": "Coronel Batista",
+      "role": "mentioned",
+      "company": "BOPE",
+      "title": "Coronel"
+    },
+    {
+      "name": "João Salles",
+      "role": "mentioned",
+      "company": "",
+      "title": "Documentarista"
+    },
+    {
+      "name": "Kátia Lund",
+      "role": "mentioned",
+      "company": "",
+      "title": "Diretora"
+    },
+    {
+      "name": "Thales",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Paulo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mcraven",
+      "role": "mentioned",
+      "company": "United States Navy SEALs",
+      "title": "Almirante"
+    },
+    {
+      "name": "Amanda",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marcos Prado",
+      "role": "mentioned",
+      "company": "",
+      "title": "Produtor"
+    },
+    {
+      "name": "Gilberto Gil",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ministro da Cultura"
+    },
+    {
+      "name": "Marcinho Vp",
+      "role": "mentioned",
+      "company": "Comando Vermelho",
+      "title": "Líder do Comando Vermelho"
+    },
+    {
+      "name": "Jair Bolsonaro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-Presidente do Brasil"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação para empresários"
+    },
+    {
+      "name": "Bope",
+      "industry": "Segurança Pública",
+      "context": "Unidade de operações especiais mencionada em várias operações e contextos."
+    },
+    {
+      "name": "Polícia Rodoviária Federal",
+      "industry": "Segurança Pública",
+      "context": "Responsável pela segurança em rodovias federais, mencionada no contexto da Ponte Rio-Niterói."
+    },
+    {
+      "name": "Swat",
+      "industry": "Segurança Pública",
+      "context": "Unidade de elite mencionada como referência internacional."
+    },
+    {
+      "name": "Globo",
+      "industry": "Mídia",
+      "context": "Produção de vídeo com Rodrigo Pimentel"
+    },
+    {
+      "name": "Bop",
+      "industry": "Segurança Pública",
+      "context": "Organização militar mencionada por Rodrigo Pimentel"
+    },
+    {
+      "name": "Batalhão De Operações Policiais Especiais (Bop)",
+      "industry": "Segurança Pública",
+      "context": "Unidade de elite da Polícia Militar do Rio de Janeiro"
+    },
+    {
+      "name": "Spotify",
+      "industry": "Tecnologia",
+      "context": "Plataforma de streaming mencionada para interação com ouvintes"
+    },
+    {
+      "name": "Circo Voador",
+      "industry": "Entretenimento",
+      "context": "Local mencionado em relação ao personagem Batista"
+    },
+    {
+      "name": "Comando Vermelho",
+      "industry": "Crime Organizado",
+      "context": "Organização criminosa mencionada como uma ameaça à sociedade."
+    },
+    {
+      "name": "Primeiro Comando Da Capital (Pcc)",
+      "industry": "Crime Organizado",
+      "context": "Organização criminosa mencionada por suas atividades ilícitas e impacto no Brasil."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão estratégica",
+      "category": "Negócios"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Liderança em ambientes desafiadores",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão de equipes pequenas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Planejamento de operações",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Hierarquia e disciplina",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Segurança pública",
+      "category": "Política"
+    },
+    {
+      "name": "Liderança Situacional",
+      "category": "Estratégia de Liderança"
+    },
+    {
+      "name": "Surpresa/Inovação",
+      "category": "Princípios de Operações de Elite"
+    },
+    {
+      "name": "Treinamento Repetitivo",
+      "category": "Princípios de Operações de Elite"
+    },
+    {
+      "name": "Simplicidade no Planejamento",
+      "category": "Princípios de Operações de Elite"
+    },
+    {
+      "name": "Pertencimento",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Direitos humanos",
+      "category": "Sociedade"
+    },
+    {
+      "name": "Censura",
+      "category": "Sociedade"
+    },
+    {
+      "name": "Cinema brasileiro",
+      "category": "Indústria cinematográfica"
+    },
+    {
+      "name": "Pirataria",
+      "category": "Indústria cinematográfica"
+    },
+    {
+      "name": "Taxa de homicídios",
+      "category": "Métrica de segurança pública"
+    },
+    {
+      "name": "Extorsão",
+      "category": "Atividade criminosa"
+    },
+    {
+      "name": "Lavagem de dinheiro",
+      "category": "Atividade criminosa"
+    },
+    {
+      "name": "Percepção de segurança",
+      "category": "Conceito social"
+    },
+    {
+      "name": "Audiência de custódia",
+      "category": "Sistema judicial"
+    }
+  ],
+  "books": [
+    {
+      "title": "Tropa de Elite",
+      "author": "José Padilha"
+    },
+    {
+      "title": "Notícias de uma Guerra Particular",
+      "author": "João Salles e Kátia Lund"
+    },
+    {
+      "title": "Arrume Sua Cama",
+      "author": "William H. McRaven"
+    },
+    {
+      "title": "O Caveira e o Executivo",
+      "author": "Rodrigo Pimentel e Nunes"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "12 dias noturnos",
+      "context": "Tempo disponível para filmagem em favela"
+    },
+    {
+      "value": "50 empresários",
+      "context": "Participantes do programa presencial do G4 Educação"
+    },
+    {
+      "value": "23 anos",
+      "context": "Tempo desde o incidente na Ponte Rio-Niterói até o presente momento mencionado."
+    },
+    {
+      "value": "800 metros por segundo",
+      "context": "Velocidade do projétil mencionada por Rodrigo Pimentel"
+    },
+    {
+      "value": "30 dias",
+      "context": "Tempo de prisão de Rodrigo Pimentel após vídeo produzido com a Globo"
+    },
+    {
+      "value": "180 homens",
+      "context": "Número de policiais militares mortos no Rio de Janeiro em 2016"
+    },
+    {
+      "value": "5 mil reais",
+      "context": "Valor arrecadado pela esposa do bandido para resgate"
+    },
+    {
+      "value": "15 policiais do BOPE",
+      "context": "Número de policiais envolvidos no treinamento dos atores para o filme Tropa de Elite"
+    },
+    {
+      "value": "Menor taxa de homicídios dos últimos 38 anos",
+      "context": "Estado do Rio de Janeiro em outubro de 2022"
+    },
+    {
+      "value": "95% dos roubos de rua no Brasil",
+      "context": "Celulares como principal alvo"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "José Padilha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rodrigo Pimentel",
+      "target_type": "person"
+    },
+    {
+      "source": "Kátia Lund",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rodrigo Pimentel",
+      "target_type": "person"
+    },
+    {
+      "source": "Rodrigo Pimentel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bop",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcos Prado",
+      "source_type": "person",
+      "relation": "produced",
+      "target": "Tropa De Elite",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Pimentel",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Wagner Moura",
+      "target_type": "person"
+    },
+    {
+      "source": "Bope",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Swat",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Pimentel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tropa De Elite",
+      "target_type": "company"
+    },
+    {
+      "source": "José Padilha",
+      "source_type": "person",
+      "relation": "directed",
+      "target": "Tropa De Elite",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Pimentel",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "O Caveira E O Executivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Pimentel",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tropa De Elite",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcinho Vp",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Comando Vermelho",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Pimentel",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "André Ramiro",
+      "target_type": "person"
+    },
+    {
+      "source": "André Ramiro",
+      "source_type": "person",
+      "relation": "acted_in",
+      "target": "Tropa De Elite",
+      "target_type": "company"
+    },
+    {
+      "source": "Arrume Sua Cama",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mcraven",
+      "target_type": "person"
+    },
+    {
+      "source": "Rodrigo Pimentel",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Marcinho Vp",
+      "target_type": "person"
+    },
+    {
+      "source": "Rodrigo Pimentel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Batalhão De Operações Policiais Especiais (Bop)",
+      "target_type": "company"
+    },
+    {
+      "source": "Wagner Moura",
+      "source_type": "person",
+      "relation": "acted_in",
+      "target": "Tropa De Elite",
+      "target_type": "company"
+    },
+    {
+      "source": "Bope",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Polícia Rodoviária Federal",
+      "target_type": "company"
+    },
+    {
+      "source": "Mcraven",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "United States Navy Seals",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Pimentel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Notícias De Uma Guerra Particular",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Pimentel",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "José Padilha",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João Salles",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rodrigo Pimentel",
+      "target_type": "person"
+    },
+    {
+      "source": "Primeiro Comando Da Capital (Pcc)",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Comando Vermelho",
+      "target_type": "company"
+    },
+    {
+      "source": "Gilberto Gil",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Circo Voador",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Pimentel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bope",
+      "target_type": "company"
+    }
+  ]
+}

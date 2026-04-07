@@ -1,0 +1,140 @@
+{
+  "episode_id": "34748488525",
+  "title": "Seja o Líder Que o Seu Negócio Precisa para Crescer | G4 Podcasts",
+  "date_published": 1697704200,
+  "duration": 1403,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Twitter",
+      "title": "CEO"
+    },
+    {
+      "name": "Alexandre",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Carlos Magno",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Aristóteles",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alcuíno De York",
+      "role": "mentioned",
+      "company": "",
+      "title": "Educador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Desenvolvimento de Negócios",
+      "context": "Plataforma de desenvolvimento de times mencionada no episódio."
+    },
+    {
+      "name": "Twitter",
+      "industry": "Tecnologia e Redes Sociais",
+      "context": "Discussão sobre gestão e aquisição por Elon Musk."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Feedback",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Skin in the Game",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Squads",
+      "category": "Estratégia Organizacional"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métricas de Satisfação do Cliente"
+    },
+    {
+      "name": "Churn",
+      "category": "Métricas de Retenção de Clientes"
+    }
+  ],
+  "books": [],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Twitter",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

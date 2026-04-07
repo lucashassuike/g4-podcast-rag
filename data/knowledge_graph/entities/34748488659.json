@@ -1,0 +1,344 @@
+{
+  "episode_id": "34748488659",
+  "title": "#019 - Colocando a pele em risco: a história da retomada da Hurb",
+  "date_published": 1626863400,
+  "duration": 2163,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "João",
+      "role": "guest",
+      "company": "Hurb",
+      "title": "Founder"
+    },
+    {
+      "name": "Sundar Pichai",
+      "role": "mentioned",
+      "company": "Google",
+      "title": "CEO"
+    },
+    {
+      "name": "Satya Nadella",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "CEO"
+    },
+    {
+      "name": "Steve Ballmer",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Former CEO"
+    },
+    {
+      "name": "Estélio Tolda",
+      "role": "mentioned",
+      "company": "Mercado Livre",
+      "title": "Executive"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Duda",
+      "role": "mentioned",
+      "company": "Hurb",
+      "title": ""
+    },
+    {
+      "name": "Ayn Rand",
+      "role": "mentioned",
+      "company": "",
+      "title": "Philosopher"
+    },
+    {
+      "name": "David Goggins",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Vitor Lazarte",
+      "role": "mentioned",
+      "company": "TFG",
+      "title": ""
+    },
+    {
+      "name": "Renzo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "Hurb",
+      "industry": "Travel and Hospitality",
+      "context": "Company turnaround and internationalization"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Leadership comparison"
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Leadership comparison"
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Growth and success story"
+    },
+    {
+      "name": "Eazitaxi",
+      "industry": "Transportation",
+      "context": "Discussed in the context of gender disparity among drivers."
+    },
+    {
+      "name": "Gestão 4.0",
+      "industry": "Education",
+      "context": "Discussed as an initiative aiming to generate employment and provide scientific scholarships."
+    },
+    {
+      "name": "Tfg",
+      "industry": "Gaming",
+      "context": "Mentioned in relation to a motivational talk by Vitor Lazarte."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Turnaround",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Intuição",
+      "category": "Decision Making"
+    },
+    {
+      "name": "Mindset",
+      "category": "Leadership"
+    },
+    {
+      "name": "Iniciação Científica",
+      "category": "Education"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finance"
+    },
+    {
+      "name": "Growth",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Threshold of Pain",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Scientific Scholarships",
+      "category": "Education"
+    },
+    {
+      "name": "Philanthropy",
+      "category": "Social Responsibility"
+    },
+    {
+      "name": "Entrepreneurial Ecosystem",
+      "category": "Business Environment"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Virtude do Egoísmo",
+      "author": "Ayn Rand"
+    },
+    {
+      "title": "A Revolta de Atlas",
+      "author": "Ayn Rand"
+    },
+    {
+      "title": "Can't Hurt Me",
+      "author": "David Goggins"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "900 pessoas",
+      "context": "Team size at Hurb"
+    },
+    {
+      "value": "50-50 chances",
+      "context": "Risk assessment during Hurb's turnaround"
+    },
+    {
+      "value": "900",
+      "context": "Number of employees at Hurb."
+    },
+    {
+      "value": "18,000",
+      "context": "Number of students in Gestão 4.0."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Turnaround",
+      "target_type": "concept"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Iniciação Científica",
+      "target_type": "concept"
+    },
+    {
+      "source": "David Goggins",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Can'T Hurt Me",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ayn Rand",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "A Revolta De Atlas",
+      "target_type": "company"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Intuição",
+      "target_type": "concept"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Valuation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Steve Ballmer",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Satya Nadella",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Estélio Tolda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Growth",
+      "target_type": "concept"
+    },
+    {
+      "source": "Duda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hurb",
+      "target_type": "company"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hurb",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitor Lazarte",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tfg",
+      "target_type": "company"
+    },
+    {
+      "source": "Ayn Rand",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "A Virtude Do Egoísmo",
+      "target_type": "company"
+    },
+    {
+      "source": "Sundar Pichai",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Renzo",
+      "target_type": "person"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mindset",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gestão 4.0",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Scientific Scholarships",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "episode_id": "36162265577",
+  "title": "OS CINCO PRINCIPAIS INDICADORES DO E-COMERCE COM CLÓVIS SOUZA, CEO DA GIULIANA FLORES | EXTREMOS",
+  "date_published": 1744200000,
+  "duration": 3613,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Clóvis Souza",
+      "role": "guest",
+      "company": "Giuliana Flores",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Giuliana Flores",
+      "industry": "E-commerce",
+      "context": "Maior floricultura online da América Latina, fundada por Clóvis Souza."
+    },
+    {
+      "name": "Minimal Club",
+      "industry": "Vestuário",
+      "context": "Empresa mencionada como patrocinadora do episódio, oferecendo desconto para ouvintes."
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Financeiro",
+      "context": "Instituição financeira mencionada como cliente inicial de Clóvis Souza."
+    },
+    {
+      "name": "Rappi",
+      "industry": "Delivery",
+      "context": "Mencionada como referência em entregas rápidas."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Delivery",
+      "context": "Mencionada como referência em entregas rápidas."
+    },
+    {
+      "name": "Uber",
+      "industry": "Transporte e Delivery",
+      "context": "Mencionada como referência em entregas rápidas."
+    },
+    {
+      "name": "Porto Seguro",
+      "industry": "Seguros",
+      "context": "Associada à credibilidade da marca Giuliana Flores."
+    },
+    {
+      "name": "Meta",
+      "industry": "Tecnologia e Publicidade",
+      "context": "Plataforma utilizada para divulgação."
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia e Publicidade",
+      "context": "Plataforma utilizada para divulgação."
+    },
+    {
+      "name": "Reserva",
+      "industry": "Moda",
+      "context": "Mencionada como exemplo de colaborações de marca."
+    },
+    {
+      "name": "99",
+      "industry": "Transportation",
+      "context": "Utilizado para entregas rápidas."
+    },
+    {
+      "name": "Cooperflora",
+      "industry": "Agriculture",
+      "context": "Fornecedor de flores."
+    },
+    {
+      "name": "Lambra",
+      "industry": "Agriculture",
+      "context": "Fornecedor de flores."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marketplace",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Assinatura de produtos",
+      "category": "Estratégia de retenção de clientes"
+    },
+    {
+      "name": "SLA de entrega",
+      "category": "Logística"
+    },
+    {
+      "name": "Last mile",
+      "category": "Logística"
+    },
+    {
+      "name": "ROI",
+      "category": "Métricas de Marketing"
+    },
+    {
+      "name": "Experiência do cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Franquias",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Engenharia de marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Logística roteirizada",
+      "category": "Operations"
+    },
+    {
+      "name": "Imediatismo no consumo",
+      "category": "Consumer Behavior"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "34 anos",
+      "context": "Tempo de existência da Giuliana Flores."
+    },
+    {
+      "value": "24 anos",
+      "context": "Tempo de operação da Giuliana Flores no e-commerce."
+    },
+    {
+      "value": "6 mil metros quadrados",
+      "context": "Tamanho do prédio dedicado ao e-commerce da Giuliana Flores."
+    },
+    {
+      "value": "50%",
+      "context": "Proporção do faturamento da Giuliana Flores proveniente do modelo de marketplace."
+    },
+    {
+      "value": "1.100.000",
+      "context": "Número de clientes na base da Giuliana Flores."
+    },
+    {
+      "value": "730.000 a 740.000",
+      "context": "Clientes que aceitam receber comunicações da Giuliana Flores."
+    },
+    {
+      "value": "90 minutos",
+      "context": "Tempo de entrega na Grande São Paulo pela Giuliana Flores."
+    },
+    {
+      "value": "3 horas",
+      "context": "Tempo de entrega em outras cidades pela Giuliana Flores."
+    },
+    {
+      "value": "14",
+      "context": "Número atual de lojas físicas da Giuliana Flores."
+    },
+    {
+      "value": "32",
+      "context": "Número de lojas físicas antes da pandemia."
+    },
+    {
+      "value": "17%",
+      "context": "Faturamento proveniente das lojas físicas da Giuliana Flores."
+    },
+    {
+      "value": "6 câmeras frias",
+      "context": "Infraestrutura para armazenamento de flores."
+    },
+    {
+      "value": "Depósito de 6 mil metros quadrados",
+      "context": "Espaço para armazenamento e operação."
+    },
+    {
+      "value": "R$19,90",
+      "context": "Custo de entrega padrão."
+    },
+    {
+      "value": "R$37,00",
+      "context": "Custo de entrega rápida."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Marketplace",
+      "target_type": "concept"
+    },
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Minimal Club",
+      "source_type": "company",
+      "relation": "mentioned",
+      "target": "Alfredo Soares",
+      "target_type": "person"
+    },
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Uber",
+      "target_type": "company"
+    },
+    {
+      "source": "Minimal Club",
+      "source_type": "company",
+      "relation": "mentioned",
+      "target": "Bruno Nardon",
+      "target_type": "person"
+    },
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Meta",
+      "target_type": "company"
+    },
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cooperflora",
+      "target_type": "company"
+    },
+    {
+      "source": "Clóvis Souza",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Giuliana Flores",
+      "target_type": "company"
+    },
+    {
+      "source": "Reserva",
+      "source_type": "company",
+      "relation": "mentioned",
+      "target": "Giuliana Flores",
+      "target_type": "company"
+    },
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Uber",
+      "target_type": "company"
+    },
+    {
+      "source": "Bradesco",
+      "source_type": "company",
+      "relation": "mentioned",
+      "target": "Clóvis Souza",
+      "target_type": "person"
+    },
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Porto Seguro",
+      "target_type": "company"
+    },
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "99",
+      "target_type": "company"
+    },
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "E-Commerce",
+      "target_type": "concept"
+    },
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Lambra",
+      "target_type": "company"
+    },
+    {
+      "source": "Giuliana Flores",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Bradesco",
+      "target_type": "company"
+    },
+    {
+      "source": "Clóvis Souza",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Giuliana Flores",
+      "target_type": "company"
+    }
+  ]
+}

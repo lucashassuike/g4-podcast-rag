@@ -1,0 +1,546 @@
+{
+  "episode_id": "34748488625",
+  "title": "Rapha Avellar - Influência, Disciplina e Inovação | Extremos Podcast",
+  "date_published": 1674678391,
+  "duration": 5049,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Rapha Avellar",
+      "role": "guest",
+      "company": "Adventures",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Ricardinho",
+      "role": "mentioned",
+      "company": "Adventures",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Kim Kardashian",
+      "role": "mentioned",
+      "company": "Skims",
+      "title": "Founder"
+    },
+    {
+      "name": "The Rock",
+      "role": "mentioned",
+      "company": "Teremana Tequila",
+      "title": "Founder"
+    },
+    {
+      "name": "Gustavo Lima",
+      "role": "mentioned",
+      "company": "Unnamed Brand",
+      "title": "Collaborator"
+    },
+    {
+      "name": "Ludmilla",
+      "role": "mentioned",
+      "company": "Unnamed Brand",
+      "title": "Collaborator"
+    },
+    {
+      "name": "Rodrigo Nolfo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Kylie Jenner",
+      "role": "mentioned",
+      "company": "Kylie Cosmetics",
+      "title": "Founder"
+    },
+    {
+      "name": "Ryan Reynolds",
+      "role": "mentioned",
+      "company": "Aviation Gin",
+      "title": "Founder"
+    },
+    {
+      "name": "Jorge Funes",
+      "role": "mentioned",
+      "company": "Unknown",
+      "title": "Founder"
+    },
+    {
+      "name": "Dwayne Johnson",
+      "role": "mentioned",
+      "company": "Teramana",
+      "title": "Founder"
+    },
+    {
+      "name": "Kanye West",
+      "role": "mentioned",
+      "company": "Yeezy",
+      "title": "Founder"
+    },
+    {
+      "name": "Marina Rui Barbosa",
+      "role": "mentioned",
+      "company": "Arezzo",
+      "title": "Celebrity Partner"
+    },
+    {
+      "name": "Thales Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Edwin",
+      "role": "mentioned",
+      "company": "Adventures",
+      "title": "Podcast Host"
+    },
+    {
+      "name": "Muna Al-Rashid",
+      "role": "mentioned",
+      "company": "Saudi Aramco",
+      "title": "Spouse of Sheikh"
+    },
+    {
+      "name": "Will.I.Am",
+      "role": "mentioned",
+      "company": "Black Eyed Peas",
+      "title": "Member"
+    },
+    {
+      "name": "Ambani",
+      "role": "mentioned",
+      "company": "",
+      "title": "Son of Indian Billionaire"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Adventures",
+      "industry": "Marketing and Branding",
+      "context": "Founded by Rapha Avellar, focuses on celebrity brand launches."
+    },
+    {
+      "name": "Skims",
+      "industry": "Fashion",
+      "context": "Founded by Kim Kardashian, valued at $3 billion."
+    },
+    {
+      "name": "Teremana Tequila",
+      "industry": "Beverages",
+      "context": "Founded by The Rock, achieved significant sales volumes."
+    },
+    {
+      "name": "Diageo",
+      "industry": "Beverages",
+      "context": "Competes in the tequila market in the United States."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts of the podcast and business education company."
+    },
+    {
+      "name": "Kylie Cosmetics",
+      "industry": "Cosmetics",
+      "context": "Founded by Kylie Jenner, sold to Coty for $1.2 billion."
+    },
+    {
+      "name": "Aviation Gin",
+      "industry": "Alcohol",
+      "context": "Founded by Ryan Reynolds."
+    },
+    {
+      "name": "Teramana",
+      "industry": "Alcohol",
+      "context": "Founded by Dwayne Johnson, achieved significant sales volume."
+    },
+    {
+      "name": "Yeezy",
+      "industry": "Fashion",
+      "context": "Founded by Kanye West."
+    },
+    {
+      "name": "Arezzo",
+      "industry": "Fashion",
+      "context": "Collaborated with Marina Rui Barbosa for branding and marketplace launch."
+    },
+    {
+      "name": "Brand Lovers",
+      "industry": "Marketing",
+      "context": "Founded by Rapha Avellar"
+    },
+    {
+      "name": "Avelar Mídia",
+      "industry": "Marketing",
+      "context": "Previously operated by Rapha Avellar"
+    },
+    {
+      "name": "Adventurers Partners",
+      "industry": "Education",
+      "context": "Founded by Rapha Avellar"
+    },
+    {
+      "name": "Cria",
+      "industry": "Education",
+      "context": "Founded by Rapha Avellar"
+    },
+    {
+      "name": "Saudi Aramco",
+      "industry": "Oil and Gas",
+      "context": "Mentioned in context of Muna al-Rashid"
+    },
+    {
+      "name": "V4 Company",
+      "industry": "Marketing",
+      "context": "Mentioned as a franchise business"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Influência",
+      "category": "Marketing"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Inovação",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "NRF",
+      "category": "Retail"
+    },
+    {
+      "name": "SEO",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Brand Lovers",
+      "category": "Business Model"
+    },
+    {
+      "name": "Creator Economy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Media Strategy",
+      "category": "Marketing"
+    },
+    {
+      "name": "Brand Awareness",
+      "category": "Marketing"
+    },
+    {
+      "name": "Content Distribution",
+      "category": "Marketing"
+    },
+    {
+      "name": "Influencer Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Editor-in-Chief Role",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Investment Portfolio Concept",
+      "category": "Finance"
+    },
+    {
+      "name": "Performance Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Strategy of scarcity",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Growth strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Series A funding",
+      "category": "Finance"
+    },
+    {
+      "name": "OPM (Owner/President Management Program)",
+      "category": "Education"
+    },
+    {
+      "name": "Living group",
+      "category": "Networking"
+    },
+    {
+      "name": "Networking",
+      "category": "Business Practice"
+    },
+    {
+      "name": "Aclimatação",
+      "category": "montanhismo"
+    },
+    {
+      "name": "Ataque ao cume",
+      "category": "montanhismo"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "3 billion dollars",
+      "context": "Valuation of Skims, founded by Kim Kardashian."
+    },
+    {
+      "value": "450 million reais",
+      "context": "Valuation of Adventures, founded by Rapha Avellar."
+    },
+    {
+      "value": "10 million reais",
+      "context": "Initial funding raised by Rapha Avellar for Adventures in 2020."
+    },
+    {
+      "value": "50 million reais",
+      "context": "Funding raised by Rapha Avellar for Adventures in 2021."
+    },
+    {
+      "value": "3 billion dollars",
+      "context": "Valuation of Skims, founded by Kim Kardashian."
+    },
+    {
+      "value": "1.2 billion dollars",
+      "context": "Sale price of Kylie Cosmetics to Coty."
+    },
+    {
+      "value": "160 million reais",
+      "context": "Annual revenue of Virgininha in the previous year."
+    },
+    {
+      "value": "15 million reais",
+      "context": "Revenue of Virgininha in January of the current year."
+    },
+    {
+      "value": "2.2 billion",
+      "context": "Daily consumption of Coca-Cola cans globally."
+    },
+    {
+      "value": "12 million BRL",
+      "context": "Raised by Rapha Avellar for Brand Lovers"
+    },
+    {
+      "value": "100 leads per day",
+      "context": "Generated by Brand Lovers' growth team"
+    },
+    {
+      "value": "300 dinners",
+      "context": "Hosted by Rapha Avellar as acquisition strategy"
+    },
+    {
+      "value": "16 horas",
+      "context": "Tempo estimado para subir e descer o cume do Aconcagua"
+    },
+    {
+      "value": "20 a 26 horas",
+      "context": "Tempo real gasto na expedição ao cume do Aconcagua"
+    },
+    {
+      "value": "10 a 20 mil dólares",
+      "context": "Custo estimado da expedição ao Aconcagua"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Opm (Owner/President Management Program)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Networking",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ataque Ao Cume",
+      "target_type": "concept"
+    },
+    {
+      "source": "Muna Al-Rashid",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Saudi Aramco",
+      "target_type": "company"
+    },
+    {
+      "source": "The Rock",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Teremana Tequila",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Series A Funding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Living Group",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Adventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Dwayne Johnson",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Teramana",
+      "target_type": "company"
+    },
+    {
+      "source": "Adventures",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Marketing And Branding",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Strategy Of Scarcity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cria",
+      "target_type": "company"
+    },
+    {
+      "source": "Kylie Jenner",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Kylie Cosmetics",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Growth Strategy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Adventurers Partners",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Brand Lovers",
+      "target_type": "company"
+    },
+    {
+      "source": "Ryan Reynolds",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Aviation Gin",
+      "target_type": "company"
+    },
+    {
+      "source": "Kanye West",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Yeezy",
+      "target_type": "company"
+    },
+    {
+      "source": "Kim Kardashian",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Skims",
+      "target_type": "company"
+    },
+    {
+      "source": "Marina Rui Barbosa",
+      "source_type": "person",
+      "relation": "partnered_with",
+      "target": "Arezzo",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Education",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rapha Avellar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Aclimatação",
+      "target_type": "concept"
+    }
+  ]
+}

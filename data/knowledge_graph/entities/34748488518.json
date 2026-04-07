@@ -1,0 +1,220 @@
+{
+  "episode_id": "34748488518",
+  "title": "Proporcione Experiências, Crie Comunidades e Faça Negócios - Com Ricardo Natale | Papo de Gestão",
+  "date_published": 1698685178,
+  "duration": 3795,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Ricardo Natale",
+      "role": "guest",
+      "company": "Experience Club",
+      "title": "Founder"
+    },
+    {
+      "name": "Pierre",
+      "role": "mentioned",
+      "company": "Bossa Nova",
+      "title": "Founder"
+    },
+    {
+      "name": "João Dória",
+      "role": "mentioned",
+      "company": "Lead",
+      "title": "Founder"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Experience Club",
+      "title": "CFO"
+    },
+    {
+      "name": "Alexandre Fialho",
+      "role": "mentioned",
+      "company": "Sampo",
+      "title": "Course Leader"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Experience Club",
+      "industry": "Events and Networking",
+      "context": "Community and event creation for executives and business leaders"
+    },
+    {
+      "name": "Bossa Nova",
+      "industry": "Investment",
+      "context": "Founded by Pierre after leaving Experience Club"
+    },
+    {
+      "name": "Lead",
+      "industry": "Events and Networking",
+      "context": "Competitor in event organization"
+    },
+    {
+      "name": "Amil",
+      "industry": "Healthcare",
+      "context": "Sponsor for events organized by Ricardo Natale"
+    },
+    {
+      "name": "Telefônica",
+      "industry": "Telecommunications",
+      "context": "Sponsor for CIO events organized by Ricardo Natale"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education and Mentorship",
+      "context": "Mentioned as a collaborator and provider of mentorship programs."
+    },
+    {
+      "name": "Sampo",
+      "industry": "Education",
+      "context": "Provider of the SER course for CEOs."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Community Building",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Event Experience Design",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Networking Events",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Corporate Sponsorship",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Membership Model",
+      "category": "Business Model"
+    },
+    {
+      "name": "Event Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Mentorship",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Hard Skills",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Soft Skills",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "30,000",
+      "context": "Number of people impacted by the community built by Ricardo Natale"
+    },
+    {
+      "value": "240",
+      "context": "Number of people participating in the largest corporate balloon flight in Brazil"
+    },
+    {
+      "value": "30 years",
+      "context": "Ricardo Natale's experience in the event management industry."
+    },
+    {
+      "value": "2006",
+      "context": "Start of Ricardo Natale's journey in community building."
+    },
+    {
+      "value": "2023",
+      "context": "Expected to be a successful year for Experience Club."
+    },
+    {
+      "value": "2024",
+      "context": "Projected to triple results with new initiatives."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ricardo Natale",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Experience Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Natale",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alexandre Fialho",
+      "target_type": "person"
+    },
+    {
+      "source": "Telefônica",
+      "source_type": "company",
+      "relation": "sponsored",
+      "target": "Experience Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Amil",
+      "source_type": "company",
+      "relation": "sponsored",
+      "target": "Experience Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Natale",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Pierre",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bossa Nova",
+      "target_type": "company"
+    },
+    {
+      "source": "Experience Club",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Lead",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Natale",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Experience Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Experience Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Pierre",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Ricardo Natale",
+      "target_type": "person"
+    },
+    {
+      "source": "Ricardo Natale",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sampo",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "episode_id": "43835052681",
+  "title": "O “NÃO” QUE SALVOU UMA EMPRESA DE LUXO DE $2 MILHÕES | EXTREMOS",
+  "date_published": 1760540400,
+  "duration": 5342,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-host"
+    },
+    {
+      "name": "Luiz Henrique Bonatti",
+      "role": "guest",
+      "company": "Bilionários Miami",
+      "title": "Sócio"
+    },
+    {
+      "name": "Bruno Casagrande",
+      "role": "guest",
+      "company": "Bilionários Miami",
+      "title": "Sócio"
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "role": "mentioned",
+      "company": "",
+      "title": "Tenista"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Jorge",
+      "role": "mentioned",
+      "company": "Oakberry",
+      "title": ""
+    },
+    {
+      "name": "Tito",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fifo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Luiz",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Adip",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Abner Rico",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "David Nielman",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação e networking para empresários"
+    },
+    {
+      "name": "Bilionários Miami",
+      "industry": "Luxo e Lifestyle",
+      "context": "Empresa que oferece serviços de luxo e lifestyle em Miami"
+    },
+    {
+      "name": "Ferrari",
+      "industry": "Automotivo",
+      "context": "Fabricante de carros esportivos e de luxo"
+    },
+    {
+      "name": "Lamborghini",
+      "industry": "Automotive",
+      "context": "Mentioned in relation to financing and acquiring luxury cars."
+    },
+    {
+      "name": "Oakberry",
+      "industry": "Food & Beverage",
+      "context": "Referenced in the context of business discussions."
+    },
+    {
+      "name": "Gestão 4.0",
+      "industry": "Education",
+      "context": "Mentioned as a connection point for networking and business opportunities."
+    },
+    {
+      "name": "Porsche",
+      "industry": "Automotive",
+      "context": "Discussed as a versatile luxury car brand, likened to Rolex in appeal."
+    },
+    {
+      "name": "Rolex",
+      "industry": "Luxury Goods",
+      "context": "Compared to Porsche as a symbol of luxury and collectibility."
+    },
+    {
+      "name": "Aston Martin",
+      "industry": "Automotive",
+      "context": "Mentioned in the context of a luxury apartment building in Miami."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métrica de satisfação do cliente"
+    },
+    {
+      "name": "G4 Valley",
+      "category": "Evento de negócios"
+    },
+    {
+      "name": "Luxo e Lifestyle",
+      "category": "Segmento de mercado"
+    },
+    {
+      "name": "luxury car market",
+      "category": "Industry"
+    },
+    {
+      "name": "financing strategies",
+      "category": "Business"
+    },
+    {
+      "name": "customer experience",
+      "category": "Business"
+    },
+    {
+      "name": "investment in assets",
+      "category": "Finance"
+    },
+    {
+      "name": "Luxury Market",
+      "category": "Business"
+    },
+    {
+      "name": "Old Money vs. New Money",
+      "category": "Socioeconomic Concepts"
+    },
+    {
+      "name": "Cultural Differences in Wealth Display",
+      "category": "Cultural Studies"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Investimento em influenciadores",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Formação em negócios",
+      "category": "Educação"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "9% de rentabilidade líquida por ano",
+      "context": "Programa financeiro oferecido pela empresa mencionada"
+    },
+    {
+      "value": "10,000 empresários",
+      "context": "Número de participantes esperados no evento G4 Valley"
+    },
+    {
+      "value": "$2 million",
+      "context": "Referenced as the value of a luxury car business."
+    },
+    {
+      "value": "450-500 thousand dollars",
+      "context": "Price range for a Ferrari Puro Sangue in the United States."
+    },
+    {
+      "value": "750-800 thousand dollars",
+      "context": "Price for a slightly used Ferrari Puro Sangue."
+    },
+    {
+      "value": "70 cars",
+      "context": "Number of cars rented out at peak times."
+    },
+    {
+      "value": "31 cars",
+      "context": "Current fleet size owned by the company."
+    },
+    {
+      "value": "0.6% daily rate",
+      "context": "Optimal daily rental rate for luxury cars."
+    },
+    {
+      "value": "8 thousand dollars",
+      "context": "Daily rental rate for a Ferrari Puro Sangue."
+    },
+    {
+      "value": "$6.9 million",
+      "context": "Price of a Ferrari in the discussed context."
+    },
+    {
+      "value": "$16.9 million",
+      "context": "Price of a Ferrari with additional costs."
+    },
+    {
+      "value": "$6.5 million",
+      "context": "Price of an apartment in the Aston Martin building in Miami."
+    },
+    {
+      "value": "$65 million",
+      "context": "Price of a penthouse in the Aston Martin building in Miami."
+    },
+    {
+      "value": "$100 million to $180 million",
+      "context": "Prices of high-value properties in Miami."
+    },
+    {
+      "value": "15%",
+      "context": "Taxa de retorno mencionada em relação ao dólar."
+    },
+    {
+      "value": "18",
+      "context": "Valor anterior pago por cabeça, comparado a um valor reduzido."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Porsche",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rolex",
+      "target_type": "company"
+    },
+    {
+      "source": "Gestão 4.0",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Networking",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Bilionários Miami",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Henrique Bonatti",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bilionários Miami",
+      "target_type": "company"
+    },
+    {
+      "source": "David Nielman",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Cultural Differences In Wealth Display",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ferrari",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Lamborghini",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Casagrande",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bilionários Miami",
+      "target_type": "company"
+    },
+    {
+      "source": "Ferrari",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Luxury Car Market",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lamborghini",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Luxury Car Market",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Luxury Market",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luiz",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Luxury Car Market",
+      "target_type": "concept"
+    }
+  ]
+}

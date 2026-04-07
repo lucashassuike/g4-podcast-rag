@@ -1,0 +1,603 @@
+{
+  "episode_id": "34748488671",
+  "title": "#006 - A cabeça dos investidores do Vale do Silício, com Pedro Sorrentino",
+  "date_published": 1602090841,
+  "duration": 3174,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Pedro Sorrentino",
+      "role": "guest",
+      "company": "OneVC",
+      "title": "Fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Mike Volpe",
+      "role": "mentioned",
+      "company": "Index Ventures",
+      "title": "Branch Manager"
+    },
+    {
+      "name": "Allan Kardec",
+      "role": "mentioned",
+      "company": "",
+      "title": "Espírita"
+    },
+    {
+      "name": "Jordan Peterson",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo"
+    },
+    {
+      "name": "Murray Rothbard",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo"
+    },
+    {
+      "name": "Alessio",
+      "role": "mentioned",
+      "company": "",
+      "title": "Classmate do OPM"
+    },
+    {
+      "name": "Justine Horowitz",
+      "role": "mentioned",
+      "company": "Andreessen Horowitz",
+      "title": "Investor"
+    },
+    {
+      "name": "Paulo Guedes",
+      "role": "mentioned",
+      "company": "Brazilian Government",
+      "title": "Minister of Economy"
+    },
+    {
+      "name": "Ayrton Senna",
+      "role": "mentioned",
+      "company": "",
+      "title": "Formula 1 Driver"
+    },
+    {
+      "name": "Barbara Minto",
+      "role": "mentioned",
+      "company": "McKinsey & Company",
+      "title": "Author"
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "mentioned",
+      "company": "Berkshire Hathaway",
+      "title": "Investor"
+    },
+    {
+      "name": "Sahil Lavingia",
+      "role": "mentioned",
+      "company": "Gumroad",
+      "title": "Founder"
+    },
+    {
+      "name": "Rocket Internet",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Escola de negócios focada em práticas empresariais modernas"
+    },
+    {
+      "name": "Onevc",
+      "industry": "Venture Capital",
+      "context": "Fundo de investimento focado em seed stage investing nos EUA e América Latina"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Startup de transporte fundada por Tallis Gomes"
+    },
+    {
+      "name": "Rappi",
+      "industry": "Delivery Services",
+      "context": "Empresa investida pela OneVC"
+    },
+    {
+      "name": "Pipefied",
+      "industry": "Software",
+      "context": "Empresa investida pela OneVC"
+    },
+    {
+      "name": "Hey Doctor",
+      "industry": "Healthcare",
+      "context": "Empresa investida pela OneVC, adquirida pela GoodRx"
+    },
+    {
+      "name": "Goodrx",
+      "industry": "Healthcare",
+      "context": "Unicórnio de healthcare que adquiriu a Hey Doctor"
+    },
+    {
+      "name": "Index Ventures",
+      "industry": "Venture Capital",
+      "context": "Fundo de investimento mencionado como referência por Pedro Sorrentino"
+    },
+    {
+      "name": "Kleiner Perkins",
+      "industry": "Venture Capital",
+      "context": "Fundo de investimento mencionado como exemplo de prática de investimento virtual"
+    },
+    {
+      "name": "Softbank",
+      "industry": "Venture Capital",
+      "context": "Estruturação de fundo de investimento para América Latina"
+    },
+    {
+      "name": "Andreessen Horowitz",
+      "industry": "Venture Capital",
+      "context": "First investment in Latin America was Rappi"
+    },
+    {
+      "name": "Log",
+      "industry": "Logistics",
+      "context": "Portfolio company competing with Correios"
+    },
+    {
+      "name": "Correios",
+      "industry": "Logistics",
+      "context": "Competitor to Log"
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "industry": "Investment",
+      "context": "Referenced for slide design simplicity"
+    },
+    {
+      "name": "Uber",
+      "industry": "Transporte",
+      "context": "Mencionada como exemplo de empresa com LTV sobre CAC elevado."
+    },
+    {
+      "name": "Airbnb",
+      "industry": "Hospitalidade",
+      "context": "Mencionada como exemplo de empresa com LTV sobre CAC elevado."
+    },
+    {
+      "name": "Gumroad",
+      "industry": "Digital Products Marketplace",
+      "context": "Discussed as an example of a profitable business model."
+    },
+    {
+      "name": "Singul",
+      "industry": "Technology",
+      "context": "Founded by Tallis Gomes with a different funding approach."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Financial Technology",
+      "context": "Discussed in the context of liquidity events in Brazil."
+    },
+    {
+      "name": "Wildlife Studios",
+      "industry": "Gaming",
+      "context": "Mentioned as a top gaming company with significant user base."
+    },
+    {
+      "name": "Pagseguro",
+      "industry": "Financial Technology",
+      "context": "Mentioned as an example of successful liquidity events."
+    },
+    {
+      "name": "Stone",
+      "industry": "Financial Technology",
+      "context": "Mentioned as an example of successful liquidity events."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Mentioned as an example of successful liquidity events."
+    },
+    {
+      "name": "Doordash",
+      "industry": "Food Delivery",
+      "context": "Discussed in the context of IPOs."
+    },
+    {
+      "name": "Jim Pass",
+      "industry": "Fitness Technology",
+      "context": "Discussed in the context of potential IPOs."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Venture Capital",
+      "category": "Investment"
+    },
+    {
+      "name": "Seed Stage Investing",
+      "category": "Investment"
+    },
+    {
+      "name": "Series A",
+      "category": "Investment"
+    },
+    {
+      "name": "Early Stage",
+      "category": "Investment"
+    },
+    {
+      "name": "Asset Class",
+      "category": "Finance"
+    },
+    {
+      "name": "Volatilidade",
+      "category": "Finance"
+    },
+    {
+      "name": "Exit",
+      "category": "Investment"
+    },
+    {
+      "name": "Cash on Cash",
+      "category": "Finance"
+    },
+    {
+      "name": "Unicórnio",
+      "category": "Startup"
+    },
+    {
+      "name": "Term Sheets",
+      "category": "Investment"
+    },
+    {
+      "name": "Biotech",
+      "category": "Industry"
+    },
+    {
+      "name": "Healthtech",
+      "category": "Industry"
+    },
+    {
+      "name": "Growth Equity",
+      "category": "Investment"
+    },
+    {
+      "name": "Due Diligence",
+      "category": "Investment"
+    },
+    {
+      "name": "Cash is King",
+      "category": "Finance"
+    },
+    {
+      "name": "Runway",
+      "category": "Finanças"
+    },
+    {
+      "name": "Anarcocapitalismo",
+      "category": "Filosofia Política"
+    },
+    {
+      "name": "Equality of Opportunity",
+      "category": "Filosofia Política"
+    },
+    {
+      "name": "Low Interest Rates",
+      "category": "Economia"
+    },
+    {
+      "name": "Private Equity",
+      "category": "Investimento"
+    },
+    {
+      "name": "Unicorns",
+      "category": "Startup Valuation"
+    },
+    {
+      "name": "Emerging Markets",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Term Sheet",
+      "category": "Investment Documentation"
+    },
+    {
+      "name": "Deck",
+      "category": "Startup Pitch"
+    },
+    {
+      "name": "Pattern Recognition",
+      "category": "Cognitive Process"
+    },
+    {
+      "name": "LTV sobre CAC",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Smart Money",
+      "category": "Investimento"
+    },
+    {
+      "name": "LTV to CAC",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Exit Strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Dry Powder",
+      "category": "Investment"
+    },
+    {
+      "name": "Liquidity Events",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "IPO",
+      "category": "Investment"
+    }
+  ],
+  "books": [
+    {
+      "title": "Pyramid Principle",
+      "author": "Barbara Minto"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "60 vezes o retorno",
+      "context": "Retorno dos investidores na Easy Taxi"
+    },
+    {
+      "value": "71 investimentos com 27 saídas",
+      "context": "Track record dos sócios fundadores da OneVC antes de lançar o fundo"
+    },
+    {
+      "value": "40 milhões de dólares sob gestão",
+      "context": "Valor gerido pela OneVC"
+    },
+    {
+      "value": "30 milhões de dólares no fundo",
+      "context": "Valor específico do fundo da OneVC"
+    },
+    {
+      "value": "5B",
+      "context": "Tamanho do fundo do SoftBank para América Latina"
+    },
+    {
+      "value": "3.7B",
+      "context": "Tamanho da indústria de venture capital na América Latina antes do fundo do SoftBank"
+    },
+    {
+      "value": "500 million to 1 billion",
+      "context": "Fund sizes raised by GPs"
+    },
+    {
+      "value": "400 emails per day",
+      "context": "Volume of emails received by Pedro Sorrentino"
+    },
+    {
+      "value": "12 a 13 mil CEOs",
+      "context": "Número de CEOs com os quais Pedro Sorrentino interagiu em sua carreira."
+    },
+    {
+      "value": "20 vezes o capital inicial",
+      "context": "Relação de capital adicional atraído pelas empresas investidas pela OneVC."
+    },
+    {
+      "value": "35 countries in 18 months",
+      "context": "Expansion of Easy Taxi under Tallis Gomes."
+    },
+    {
+      "value": "1 billion reais",
+      "context": "Valuation of Easy Taxi."
+    },
+    {
+      "value": "25 billion dollars",
+      "context": "Dry powder available for investment."
+    },
+    {
+      "value": "1.5 billion users",
+      "context": "User base of Wildlife Studios."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ltv Sobre Cac",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Sorrentino",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Kleiner Perkins",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Sorrentino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Atman Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Sorrentino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Stoy Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Sorrentino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Onevc",
+      "target_type": "company"
+    },
+    {
+      "source": "Barbara Minto",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Pyramid Principle",
+      "target_type": "company"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Berkshire Hathaway",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Sorrentino",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Index Ventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Sorrentino",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mike Volpe",
+      "target_type": "person"
+    },
+    {
+      "source": "Log",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Correios",
+      "target_type": "company"
+    },
+    {
+      "source": "Onevc",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Hey Doctor",
+      "target_type": "company"
+    },
+    {
+      "source": "Airbnb",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ltv Sobre Cac",
+      "target_type": "concept"
+    },
+    {
+      "source": "Onevc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Smart Money",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Sorrentino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Onevc",
+      "target_type": "company"
+    },
+    {
+      "source": "Onevc",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Pipefied",
+      "target_type": "company"
+    },
+    {
+      "source": "Justine Horowitz",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Sorrentino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Hey Doctor",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Goodrx",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singul",
+      "target_type": "company"
+    },
+    {
+      "source": "Onevc",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Softbank",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Andreessen Horowitz",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Sahil Lavingia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gumroad",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "episode_id": "37984124504",
+  "title": "CORRIDA: CORPO FORTE, MENTE FOCADA COM RAQUEL CASTANHARO | A JORNADA",
+  "date_published": 1748595600,
+  "duration": 4250,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Raquel Castanharo",
+      "role": "guest",
+      "company": "Viva Corrida",
+      "title": "Fundadora"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Gustavo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filho de Tallis Gomes"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Cecília",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Viva Corrida",
+      "industry": "Saúde e Bem-Estar",
+      "context": "Clínica e plataforma online fundada por Raquel Castanharo"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Empresa associada ao podcast G4 Podcasts"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Ironman 140.6",
+      "category": "Esporte"
+    },
+    {
+      "name": "Biomecânica",
+      "category": "Ciência e Saúde"
+    },
+    {
+      "name": "Fisioterapia",
+      "category": "Saúde"
+    },
+    {
+      "name": "Trombofilia",
+      "category": "Saúde"
+    },
+    {
+      "name": "Manejo do Tempo",
+      "category": "Produtividade"
+    },
+    {
+      "name": "Manejo do Tempo para Mortais",
+      "category": "Livro"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Lesões na corrida",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Tendinopatia",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Faceite Plantar",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Canelite",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Síndrome da Banda Iliotibial",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Congelamento",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Hipervigilância",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Dor muscular de início tardia",
+      "category": "Fisiologia"
+    },
+    {
+      "name": "Faceite",
+      "category": "Lesão esportiva"
+    },
+    {
+      "name": "Banda de tibial",
+      "category": "Lesão esportiva"
+    }
+  ],
+  "books": [
+    {
+      "title": "4.000 Semanas: Manejo do Tempo para Mortais",
+      "author": "Oliver Burkeman"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "500 mil seguidores",
+      "context": "Número de seguidores no Instagram de Raquel Castanharo"
+    },
+    {
+      "value": "Dezenas de milhares de assinantes",
+      "context": "Número de assinantes da plataforma Viva Corrida"
+    },
+    {
+      "value": "400 famílias",
+      "context": "Número de famílias que dependem do G4 Educação."
+    },
+    {
+      "value": "500 mil seguidores",
+      "context": "Número atual de seguidores digitais de Raquel Castanharo."
+    },
+    {
+      "value": "20 mil a 30 mil seguidores",
+      "context": "Número de seguidores digitais de Raquel Castanharo no início da pandemia."
+    },
+    {
+      "value": "300 reais",
+      "context": "Custo de uma sessão de fisioterapia na Vila Nova"
+    },
+    {
+      "value": "3 meses",
+      "context": "Tempo médio de recuperação de uma faceite"
+    },
+    {
+      "value": "2 meses",
+      "context": "Tempo médio de recuperação de uma canelite"
+    },
+    {
+      "value": "60 dias",
+      "context": "Tempo médio de recuperação de uma lesão na banda de tibial"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fisioterapia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Canelite",
+      "target_type": "concept"
+    },
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Congelamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Viva Corrida",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hipervigilância",
+      "target_type": "concept"
+    },
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Faceite",
+      "target_type": "concept"
+    },
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dor Muscular De Início Tardia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Cecília",
+      "target_type": "person"
+    },
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ironman 140.6",
+      "target_type": "concept"
+    },
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Banda De Tibial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "4.000 Semanas: Manejo Do Tempo Para Mortais",
+      "target_type": "company"
+    },
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Trombofilia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Viva Corrida",
+      "target_type": "company"
+    },
+    {
+      "source": "Raquel Castanharo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Biomecânica",
+      "target_type": "concept"
+    }
+  ]
+}

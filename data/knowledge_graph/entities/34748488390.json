@@ -1,0 +1,324 @@
+{
+  "episode_id": "34748488390",
+  "title": "QUEM É A MULHER À FRENTE DO G4 EDUCAÇÃO? | PAPO DE GESTÃO",
+  "date_published": 1727880553,
+  "duration": 3884,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Maria Isabel Antonini",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "CEO"
+    },
+    {
+      "name": "Diego Barreto",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": "CFO"
+    },
+    {
+      "name": "Margaret Thatcher",
+      "role": "mentioned",
+      "company": "",
+      "title": "Former Prime Minister"
+    },
+    {
+      "name": "John F. Kennedy",
+      "role": "mentioned",
+      "company": "",
+      "title": "Former President"
+    },
+    {
+      "name": "João Dória",
+      "role": "mentioned",
+      "company": "",
+      "title": "Former Governor of São Paulo"
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Ex-CEO e CFO"
+    },
+    {
+      "name": "João Vitor",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Membro da equipe"
+    },
+    {
+      "name": "Misa",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "CEO"
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "mentioned",
+      "company": "Berkshire Hathaway",
+      "title": "Investidor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Discussed as the company led by Maria Isabel Antonini as CEO."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Food Delivery",
+      "context": "Mentioned as an example of a CFO transitioning to CEO."
+    },
+    {
+      "name": "Singoo",
+      "industry": "Beauty Services",
+      "context": "Discussed as a company previously led by Maria Isabel Antonini and sold to Natura."
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosmetics",
+      "context": "Discussed as the company that acquired Singoo."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Banking",
+      "context": "Mentioned as part of Maria Isabel Antonini's career history."
+    },
+    {
+      "name": "Gpa",
+      "industry": "Retail",
+      "context": "Mentioned as part of Maria Isabel Antonini's career history."
+    },
+    {
+      "name": "Casas Bahia",
+      "industry": "Retail",
+      "context": "Mentioned as part of Maria Isabel Antonini's career history."
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Exemplo de eficiência sem comprometer a entrega de valor."
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "industry": "Investimentos",
+      "context": "Empresa associada a Warren Buffett."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Leadership",
+      "category": "Management"
+    },
+    {
+      "name": "Strategic Planning",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "CFO to CEO Transition",
+      "category": "Career Development"
+    },
+    {
+      "name": "Empowerment",
+      "category": "Social Impact"
+    },
+    {
+      "name": "Crisis Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Product Market Fit",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Governança",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Budget Hub",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "Matriz de Importância",
+      "category": "Gestão de Prioridades"
+    },
+    {
+      "name": "planejamento estratégico",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "alinhamento organizacional",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "foco em execução",
+      "category": "Gestão de Projetos"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Two years",
+      "context": "Maria Isabel Antonini's tenure at G4 Educação before becoming CEO."
+    },
+    {
+      "value": "Eight months",
+      "context": "Duration of strategic planning process at G4 Educação."
+    },
+    {
+      "value": "360 pessoas",
+      "context": "Tamanho da equipe do G4 Educação."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Misa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Product Market Fit",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maria Isabel Antonini",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Misa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Budget Hub",
+      "target_type": "concept"
+    },
+    {
+      "source": "Misa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Misa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Matriz De Importância",
+      "target_type": "concept"
+    },
+    {
+      "source": "Maria Isabel Antonini",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Misa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Eficiência Operacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Misa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Singoo",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Barreto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Berkshire Hathaway",
+      "target_type": "company"
+    },
+    {
+      "source": "João Vitor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

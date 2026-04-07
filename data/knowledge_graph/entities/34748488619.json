@@ -1,0 +1,454 @@
+{
+  "episode_id": "34748488619",
+  "title": "Guilherme Freire (Parte 1) - Quais as características dos maiores líderes da história? | Papo de Gestão",
+  "date_published": 1678179627,
+  "duration": 5109,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host of Papo de Gestão"
+    },
+    {
+      "name": "Guilherme Freire",
+      "role": "guest",
+      "company": "Unnamed Philosophy Program",
+      "title": "Professor of Philosophy"
+    },
+    {
+      "name": "Gabriel Kanner",
+      "role": "mentioned",
+      "company": "Unnamed Philosophy Program",
+      "title": "Founder"
+    },
+    {
+      "name": "Aristóteles",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Philosopher"
+    },
+    {
+      "name": "Alexandre O Grande",
+      "role": "mentioned",
+      "company": "Macedonian Empire",
+      "title": "King of Macedon"
+    },
+    {
+      "name": "Plutarco",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Historian"
+    },
+    {
+      "name": "Carlos Magno",
+      "role": "mentioned",
+      "company": "Carolingian Empire",
+      "title": "Emperor"
+    },
+    {
+      "name": "João Quino De York",
+      "role": "mentioned",
+      "company": "Carolingian Empire",
+      "title": "Educator"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Twitter",
+      "title": "CEO"
+    },
+    {
+      "name": "Alexandre, O Grande",
+      "role": "mentioned",
+      "company": "",
+      "title": "Conquistador"
+    },
+    {
+      "name": "Thomas Sowell",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor"
+    },
+    {
+      "name": "Godofredo De Bulhões",
+      "role": "mentioned",
+      "company": "",
+      "title": "Cruzado"
+    },
+    {
+      "name": "Alexis De Tocqueville",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "John D. Rockefeller",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "J.P. Morgan",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Woodrow Wilson",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Musashi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sócrates",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dom João",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dom Manuel",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Host company of the podcast"
+    },
+    {
+      "name": "Unnamed Philosophy Program",
+      "industry": "Education",
+      "context": "Philosophy program founded by Gabriel Kanner and Guilherme Freire"
+    },
+    {
+      "name": "Twitter",
+      "industry": "Tecnologia",
+      "context": "Discussão sobre gestão e liderança"
+    },
+    {
+      "name": "Harvard University",
+      "industry": "Education",
+      "context": "Mentioned as an institution where the next generation of industrialists studied."
+    },
+    {
+      "name": "Yale University",
+      "industry": "Education",
+      "context": "Mentioned as an institution where the next generation of industrialists studied."
+    },
+    {
+      "name": "Convento De Cristo",
+      "industry": "Religious Institution",
+      "context": "Mentioned as a historical institution in Portugal related to the founding of Brazil."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Leadership",
+      "category": "Management"
+    },
+    {
+      "name": "Skin in the Game",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Aristocracy",
+      "category": "Political Philosophy"
+    },
+    {
+      "name": "Oligarchy",
+      "category": "Political Philosophy"
+    },
+    {
+      "name": "Metaphysics",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Ethics",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Political Philosophy",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Stoicism",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Aristocracia",
+      "category": "Governança"
+    },
+    {
+      "name": "Oligarquia",
+      "category": "Governança"
+    },
+    {
+      "name": "República",
+      "category": "Governança"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão libertária",
+      "category": "Gestão"
+    },
+    {
+      "name": "Cultura woke",
+      "category": "Cultura empresarial"
+    },
+    {
+      "name": "Massive layoffs",
+      "category": "Economic"
+    },
+    {
+      "name": "Democracia na América",
+      "category": "Political"
+    },
+    {
+      "name": "Eudaimonia",
+      "category": "Philosophical"
+    },
+    {
+      "name": "Web 2.0",
+      "category": "Technological"
+    },
+    {
+      "name": "Web 3.0",
+      "category": "Technological"
+    },
+    {
+      "name": "Virtude",
+      "category": "Philosophical"
+    },
+    {
+      "name": "Ética",
+      "category": "Philosophical"
+    },
+    {
+      "name": "Governança",
+      "category": "Political Science"
+    },
+    {
+      "name": "Filosofia prática",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Filosofia especulativa",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Entropia",
+      "category": "Physics"
+    },
+    {
+      "name": "Antifragilidade",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Physics",
+      "author": "Aristóteles"
+    },
+    {
+      "title": "Democracia na América",
+      "author": "Alexis de Tocqueville"
+    },
+    {
+      "title": "O Livro dos Cinco Anéis",
+      "author": "Musashi"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "21 years",
+      "context": "Age at which Alexandre o Grande completed his education and became king"
+    },
+    {
+      "value": "10 years",
+      "context": "Time Alexandre o Grande took to build his empire"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Massive Layoffs",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dom João",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Dom Manuel",
+      "target_type": "person"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Virtude",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Unnamed Philosophy Program",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Web 3.0",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexis De Tocqueville",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Democracia Na América",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ética",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gabriel Kanner",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Unnamed Philosophy Program",
+      "target_type": "company"
+    },
+    {
+      "source": "Aristóteles",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Virtude",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Woke",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Magno",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "João Quino De York",
+      "target_type": "person"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Antifragilidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Twitter",
+      "target_type": "company"
+    },
+    {
+      "source": "Aristóteles",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Alexandre O Grande",
+      "target_type": "person"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Eudaimonia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Freire",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Web 2.0",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carlos Magno",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Governança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Musashi",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "O Livro Dos Cinco Anéis",
+      "target_type": "company"
+    },
+    {
+      "source": "Convento De Cristo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dom Manuel",
+      "target_type": "person"
+    },
+    {
+      "source": "Convento De Cristo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dom João",
+      "target_type": "person"
+    }
+  ]
+}

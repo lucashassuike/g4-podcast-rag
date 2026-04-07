@@ -1,0 +1,248 @@
+{
+  "episode_id": "34748488342",
+  "title": "A ESTRATÉGIA PARA ALÉM DO BBB COM ARTUR AGUIAR | EXTREMOS",
+  "date_published": 1739365200,
+  "duration": 3521,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Artur Aguiar",
+      "role": "guest",
+      "company": "Saage",
+      "title": "Founder"
+    },
+    {
+      "name": "Mayra",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "André Fernandes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Pastor"
+    },
+    {
+      "name": "Camila Vieira",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tiago",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Jenny",
+      "role": "mentioned",
+      "company": "Saage",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Gui",
+      "role": "mentioned",
+      "company": "",
+      "title": "Videomaker"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Boale",
+      "title": ""
+    },
+    {
+      "name": "Kobe Bryant",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Discussed as a successful business model"
+    },
+    {
+      "name": "Saage",
+      "industry": "Personal Care",
+      "context": "Newly founded company focusing on capillary products"
+    },
+    {
+      "name": "Boale",
+      "industry": "Foodtech",
+      "context": "Expansão nacional e franquias"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Estratégia",
+      "category": "framework"
+    },
+    {
+      "name": "Confinamento psicológico",
+      "category": "concept"
+    },
+    {
+      "name": "Autenticidade",
+      "category": "concept"
+    },
+    {
+      "name": "Posicionamento genuíno",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Estratégia águia",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Marketing de influência",
+      "category": "Marketing"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Personal Development"
+    },
+    {
+      "name": "propósito",
+      "category": "conceito"
+    },
+    {
+      "name": "zona de talento",
+      "category": "conceito"
+    },
+    {
+      "name": "expansão nacional",
+      "category": "estratégia"
+    },
+    {
+      "name": "franquias",
+      "category": "modelo de negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "Viva a Sua Real Identidade",
+      "author": "Camila Vieira"
+    },
+    {
+      "title": "Bíblia",
+      "author": "Diversos autores"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "2025",
+      "context": "Planned launch year for Saage"
+    },
+    {
+      "value": "20 mil reais",
+      "context": "Curso de Aquattraction oferecido para compradores de franquias da Boale"
+    },
+    {
+      "value": "2:08",
+      "context": "Tempo no 200 metros borboleta, vice-campeão brasileiro em 2008"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Expansão Nacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jenny",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Saage",
+      "target_type": "company"
+    },
+    {
+      "source": "Artur Aguiar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Saage",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Artur Aguiar",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tiago",
+      "target_type": "person"
+    },
+    {
+      "source": "Camila Vieira",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Viva A Sua Real Identidade",
+      "target_type": "company"
+    },
+    {
+      "source": "Artur Aguiar",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mayra",
+      "target_type": "person"
+    },
+    {
+      "source": "Artur Aguiar",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "André Fernandes",
+      "target_type": "person"
+    },
+    {
+      "source": "Artur Aguiar",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Camila Vieira",
+      "target_type": "person"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Franquias",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Boale",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "episode_id": "34748488663",
+  "title": "#015 - A mentalidade disruptiva em empresas tradicionais com Thales Teixeira, ex-professor de Harvard",
+  "date_published": 1607532433,
+  "duration": 3005,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Thales Teixeira",
+      "role": "guest",
+      "company": "Harvard University",
+      "title": "Ex-Professor"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "role": "mentioned",
+      "company": "Facebook",
+      "title": "Fundador"
+    },
+    {
+      "name": "Marissa Mayer",
+      "role": "mentioned",
+      "company": "Yahoo",
+      "title": "Ex-CEO"
+    },
+    {
+      "name": "Fred Trajano",
+      "role": "mentioned",
+      "company": "Magazine Luiza",
+      "title": "CEO"
+    },
+    {
+      "name": "Luiza Helena Trajano",
+      "role": "mentioned",
+      "company": "Magazine Luiza",
+      "title": "Chairwoman"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Podcast e escola de negócios"
+    },
+    {
+      "name": "The Coupling",
+      "industry": "Consultoria",
+      "context": "Transformação digital"
+    },
+    {
+      "name": "Singoo",
+      "industry": "Tecnologia",
+      "context": "Empresa digital mencionada como exemplo"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Tecnologia",
+      "context": "Startup mencionada como exemplo de crescimento rápido"
+    },
+    {
+      "name": "Facebook",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de startup disruptiva"
+    },
+    {
+      "name": "Airbnb",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de startup disruptiva"
+    },
+    {
+      "name": "Uber",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de startup disruptiva"
+    },
+    {
+      "name": "Netflix",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de startup disruptiva"
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de aquihiring"
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de aquihiring"
+    },
+    {
+      "name": "Easytaxi",
+      "industry": "Mobilidade",
+      "context": "Expansão rápida e aquisição por seguradora brasileira"
+    },
+    {
+      "name": "Yahoo",
+      "industry": "Tecnologia",
+      "context": "Tentativa de recuperação por meio de aquisições"
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosméticos",
+      "context": "Gestão inovadora e suporte a startups"
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Varejo",
+      "context": "Transformação digital e inovação"
+    },
+    {
+      "name": "Samsung",
+      "industry": "Technology",
+      "context": "Mentioned in the context of creating startups."
+    },
+    {
+      "name": "Hyundai",
+      "industry": "Automotive",
+      "context": "Mentioned in the context of creating startups."
+    },
+    {
+      "name": "Axel Springer",
+      "industry": "Media",
+      "context": "Mentioned as an example of successful digital transformation."
+    },
+    {
+      "name": "Best Buy",
+      "industry": "Retail",
+      "context": "Mentioned as an example of successful digital transformation."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Mentioned as an example of successful digital transformation."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Transformação digital",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Disrupção digital",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Aquihiring",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Market share",
+      "category": "Métrica de negócios"
+    },
+    {
+      "name": "Inovação interna",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Processo de inovação",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Estrutura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Framework de gestão",
+      "category": "Gestão"
+    },
+    {
+      "name": "Build, Borrow, Buy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Digital Transformation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Disruption",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Squad",
+      "category": "Organizational Structure"
+    },
+    {
+      "name": "Compliance",
+      "category": "Corporate Governance"
+    }
+  ],
+  "books": [
+    {
+      "title": "Unlocking the Customer Value Chain",
+      "author": "Thales Teixeira"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "35 países em 18 meses",
+      "context": "Expansão internacional da Easy Taxi"
+    },
+    {
+      "value": "18 meses",
+      "context": "Tempo para expansão da EasyTaxi para 35 países"
+    },
+    {
+      "value": "67 empresas",
+      "context": "Número de aquisições pela Yahoo em 15 anos"
+    },
+    {
+      "value": "100 bilhões",
+      "context": "Valor de mercado máximo da Yahoo"
+    },
+    {
+      "value": "6.7 bilhões",
+      "context": "Valor de venda da Yahoo"
+    },
+    {
+      "value": "400-800 programmers",
+      "context": "Number of programmers hired by Magazine Luiza during its digital transformation."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Thales Teixeira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Harvard University",
+      "target_type": "company"
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Facebook",
+      "target_type": "company"
+    },
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Uber",
+      "target_type": "company"
+    },
+    {
+      "source": "Marissa Mayer",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Yahoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Yahoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Teixeira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Harvard",
+      "target_type": "company"
+    },
+    {
+      "source": "Easytaxi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiza Helena Trajano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Teixeira",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Unlocking The Customer Value Chain",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred Trajano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Magazine Luiza",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Build, Borrow, Buy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easytaxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Magazine Luiza",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Digital Transformation",
+      "target_type": "concept"
+    }
+  ]
+}

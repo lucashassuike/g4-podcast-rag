@@ -1,0 +1,204 @@
+{
+  "episode_id": "34748488395",
+  "title": "COMO AS EMPRESAS SE ADAPTAM ÀS MUDANÇAS DO CONSUMIDOR - ANTONIO AUGUSTO (UNILEVER) | PAPO DE GESTÃO",
+  "date_published": 1726473600,
+  "duration": 4004,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Antonio Augusto",
+      "role": "guest",
+      "company": "Unilever",
+      "title": "Diretor de Marketing"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "Fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Produtora do podcast e fornecedora de relatórios práticos para empresários."
+    },
+    {
+      "name": "Unilever",
+      "industry": "Alimentação e Produtos de Consumo",
+      "context": "Empresa onde Antonio Augusto atua como Diretor de Marketing."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce e Tecnologia",
+      "context": "Mencionada como exemplo de empresa focada em princípios imutáveis de negócios."
+    },
+    {
+      "name": "Zé Delivery",
+      "industry": "Delivery de bebidas",
+      "context": "Mencionada como exemplo de empresa que resolve uma dor específica do consumidor."
+    },
+    {
+      "name": "Nike",
+      "industry": "Vestuário e calçados esportivos",
+      "context": "Discussão sobre mudanças estratégicas e impacto no valuation."
+    },
+    {
+      "name": "Salesforce",
+      "industry": "Tecnologia e software",
+      "context": "Mencionada em relação à evolução de ferramentas de análise e inteligência artificial."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Engajamento",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Motivação",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Estratégia de Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Gestão de Recursos",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Condições de Contorno",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "DTC (Direct-to-Consumer)",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Infoxication",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Analysis Paralysis",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Modelos de atribuição",
+      "category": "Marketing digital"
+    },
+    {
+      "name": "5W2H",
+      "category": "framework"
+    },
+    {
+      "name": "cadeia de valor",
+      "category": "business concept"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "16 desafios",
+      "context": "Número de desafios identificados no relatório do G4 Educação para empresários."
+    },
+    {
+      "value": "15 minutos",
+      "context": "Tempo médio de entrega do Zé Delivery."
+    },
+    {
+      "value": "85%",
+      "context": "Porcentagem de aprovação da estratégia apresentada por Antonio Augusto na Unilever."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Amazon",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dtc (Direct-To-Consumer)",
+      "target_type": "concept"
+    },
+    {
+      "source": "5W2H",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Antonio Augusto",
+      "target_type": "person"
+    },
+    {
+      "source": "Salesforce",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Inteligência Artificial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Antonio Augusto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Unilever",
+      "target_type": "company"
+    },
+    {
+      "source": "Nike",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Dtc (Direct-To-Consumer)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "produces",
+      "target": "Papo De Gestão Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Estratégia De Marketing",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Antonio Augusto",
+      "target_type": "person"
+    }
+  ]
+}

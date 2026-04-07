@@ -1,0 +1,79 @@
+{
+  "episode_id": "41351713119",
+  "title": "[CORTE] DESCUBRA O CONCEITO QUE A INTELIGÊNCIA ARTIFICIAL TROUXE E MUDOU O JOGO DAS EMPRESAS",
+  "date_published": 1755291600,
+  "duration": 574,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Iago",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Pipe Drive",
+      "industry": "CRM Software",
+      "context": "Utilizado para gestão de funil de vendas"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "hiperpersonalização em escala",
+      "category": "estratégia de negócios"
+    },
+    {
+      "name": "inteligência artificial",
+      "category": "tecnologia"
+    },
+    {
+      "name": "lead scoring",
+      "category": "estratégia de negócios"
+    },
+    {
+      "name": "CRM",
+      "category": "tecnologia"
+    },
+    {
+      "name": "spin selling",
+      "category": "metodologia de vendas"
+    },
+    {
+      "name": "metodologia bunch",
+      "category": "metodologia de vendas"
+    }
+  ],
+  "books": [],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pipe Drive",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hiperpersonalização Em Escala",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pipe Drive",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Crm",
+      "target_type": "concept"
+    }
+  ]
+}

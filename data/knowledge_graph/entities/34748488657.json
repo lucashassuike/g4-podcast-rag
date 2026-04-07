@@ -1,0 +1,334 @@
+{
+  "episode_id": "34748488657",
+  "title": "#021 - Wildlife: uma diversão que rendeu 2 bilhões de clientes",
+  "date_published": 1628065810,
+  "duration": 3128,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Arthur",
+      "role": "guest",
+      "company": "Wildlife Studios",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Victor",
+      "role": "mentioned",
+      "company": "Wildlife Studios",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Júlio",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Eric Schmidt",
+      "role": "mentioned",
+      "company": "Google",
+      "title": "Former CEO"
+    },
+    {
+      "name": "Marissa Mayer",
+      "role": "mentioned",
+      "company": "Yahoo",
+      "title": "Former CEO"
+    },
+    {
+      "name": "Florian Bartonek",
+      "role": "mentioned",
+      "company": "",
+      "title": "Investor"
+    },
+    {
+      "name": "André Jakursky",
+      "role": "mentioned",
+      "company": "",
+      "title": "Financial Market Legend"
+    },
+    {
+      "name": "Paulo Guedes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Economist"
+    },
+    {
+      "name": "André Esteves",
+      "role": "mentioned",
+      "company": "BTG Pactual",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Podcast e escola de negócios"
+    },
+    {
+      "name": "Wildlife Studios",
+      "industry": "Games",
+      "context": "Empresa de jogos fundada por Arthur e Victor"
+    },
+    {
+      "name": "Bcg (Boston Consulting Group)",
+      "industry": "Consultoria",
+      "context": "Empresa onde Arthur trabalhou antes de fundar a Wildlife Studios"
+    },
+    {
+      "name": "Jp Morgan",
+      "industry": "Bancos",
+      "context": "Empresa onde Victor trabalhou antes de fundar a Wildlife Studios"
+    },
+    {
+      "name": "Amazon",
+      "industry": "Technology",
+      "context": "Referenced for its meeting model."
+    },
+    {
+      "name": "Tfg",
+      "industry": "Gaming",
+      "context": "Company co-founded by Victor and his brother, focusing on game development."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Mentioned in the context of work models and testing practices."
+    },
+    {
+      "name": "Yahoo",
+      "industry": "Technology",
+      "context": "Mentioned in the context of remote work practices."
+    },
+    {
+      "name": "Facebook",
+      "industry": "Technology",
+      "context": "Hybrid work model discussion"
+    },
+    {
+      "name": "Starx",
+      "industry": "Technology",
+      "context": "Global operations and remote work"
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Finance",
+      "context": "Financial market discussions"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Liderança 4.0",
+      "category": "Gestão"
+    },
+    {
+      "name": "Indústria de Games",
+      "category": "Setor"
+    },
+    {
+      "name": "Teoria dos Jogos",
+      "category": "Matemática"
+    },
+    {
+      "name": "Startup",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Distribuição de Jogos",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Convicção vale mais que consenso",
+      "category": "Management Philosophy"
+    },
+    {
+      "name": "Squad",
+      "category": "Team Structure"
+    },
+    {
+      "name": "Prototyping",
+      "category": "Product Development"
+    },
+    {
+      "name": "Believability",
+      "category": "Leadership Assessment"
+    },
+    {
+      "name": "Document-based meetings",
+      "category": "Management Process"
+    },
+    {
+      "name": "Product Owner (PO)",
+      "category": "Role"
+    },
+    {
+      "name": "Product Manager (PM)",
+      "category": "Role"
+    },
+    {
+      "name": "GMAT",
+      "category": "Assessment"
+    },
+    {
+      "name": "Gamification",
+      "category": "Strategy"
+    },
+    {
+      "name": "School of the Bridge (Escola da Ponte)",
+      "category": "Educational Methodology"
+    },
+    {
+      "name": "Remote Work",
+      "category": "Work Model"
+    },
+    {
+      "name": "Hybrid Work Model",
+      "category": "Work Model"
+    },
+    {
+      "name": "One-on-One Meetings",
+      "category": "Management Practice"
+    },
+    {
+      "name": "Transfer of Knowledge",
+      "category": "Organizational Learning"
+    },
+    {
+      "name": "Culture Building",
+      "category": "Organizational Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "How Google Works",
+      "author": "Eric Schmidt"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "2 bilhões de downloads",
+      "context": "Número de downloads alcançados pela Wildlife Studios"
+    },
+    {
+      "value": "900 funcionários",
+      "context": "Tamanho da equipe da Wildlife Studios"
+    },
+    {
+      "value": "75% de chance",
+      "context": "Estimativa de sucesso inicial da Wildlife Studios"
+    },
+    {
+      "value": "900",
+      "context": "Number of employees at Wildlife Studios."
+    },
+    {
+      "value": "100",
+      "context": "Number of game prototypes started annually at Wildlife Studios."
+    },
+    {
+      "value": "70 children",
+      "context": "Number of children enrolled in the Escola Aberta."
+    },
+    {
+      "value": "2 billion clients",
+      "context": "Wildlife Studios' customer base"
+    },
+    {
+      "value": "10 years",
+      "context": "Wildlife Studios' operational history"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Victor",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Wildlife Studios",
+      "target_type": "company"
+    },
+    {
+      "source": "Arthur",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Wildlife Studios",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Wildlife Studios",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tfg",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Schmidt",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Marissa Mayer",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Yahoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Arthur",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bcg (Boston Consulting Group)",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Jp Morgan",
+      "target_type": "company"
+    },
+    {
+      "source": "Arthur",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Wildlife Studios",
+      "target_type": "company"
+    },
+    {
+      "source": "Marissa Mayer",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Yahoo",
+      "target_type": "company"
+    },
+    {
+      "source": "André Esteves",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    }
+  ]
+}

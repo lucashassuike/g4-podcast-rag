@@ -1,0 +1,306 @@
+{
+  "episode_id": "34748488519",
+  "title": "Como Ele Inovou e Cresceu uma Empresa Familiar - Com Filipe Colombo (Anjo Tintas) | Extremos",
+  "date_published": 1698402485,
+  "duration": 4890,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Filipe Colombo",
+      "role": "guest",
+      "company": "Anjo Tintas",
+      "title": "CEO"
+    },
+    {
+      "name": "Beto Colombo",
+      "role": "mentioned",
+      "company": "Anjo Tintas",
+      "title": "Founder"
+    },
+    {
+      "name": "Roseli",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts of the podcast and platform for business education."
+    },
+    {
+      "name": "Anjo Tintas",
+      "industry": "Manufacturing",
+      "context": "Family-owned company specializing in paint products."
+    },
+    {
+      "name": "Souvenir",
+      "industry": "Manufacturing",
+      "context": "Competitor in the paint industry."
+    },
+    {
+      "name": "Sherwin-Williams",
+      "industry": "Manufacturing",
+      "context": "Competitor in the paint industry."
+    },
+    {
+      "name": "Coral",
+      "industry": "Manufacturing",
+      "context": "Competitor in the paint industry."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Feedback",
+      "category": "Leadership"
+    },
+    {
+      "name": "Professionalization",
+      "category": "Business Management"
+    },
+    {
+      "name": "ICP (Ideal Customer Profile)",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Shelf Life",
+      "category": "Product Management"
+    },
+    {
+      "name": "Model of Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Entrepreneurship by Necessity",
+      "category": "Business Concept"
+    },
+    {
+      "name": "Salesforce",
+      "category": "Business Tool"
+    },
+    {
+      "name": "Gestão de tempo",
+      "category": "Estratégia de produtividade"
+    },
+    {
+      "name": "Divisão de papéis",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Ironman",
+      "category": "Esporte e desafios pessoais"
+    },
+    {
+      "name": "Desconto logístico",
+      "category": "Estratégia comercial"
+    },
+    {
+      "name": "Concentração de vendas",
+      "category": "Desafio operacional"
+    },
+    {
+      "name": "Política comercial",
+      "category": "Estratégia de negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "Gestão Profissional na Prática",
+      "author": "Filipe Colombo"
+    },
+    {
+      "title": "Book by Filipe Colombo",
+      "author": "Filipe Colombo"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "220 million",
+      "context": "Initial revenue of Anjo Tintas when Filipe Colombo became CEO."
+    },
+    {
+      "value": "1 billion",
+      "context": "Projected revenue of Anjo Tintas after 10 years under Filipe Colombo's leadership."
+    },
+    {
+      "value": "180 employees",
+      "context": "Initial workforce of Anjo Tintas when Filipe Colombo became CEO."
+    },
+    {
+      "value": "550 employees",
+      "context": "Current workforce of Anjo Tintas after 10 years under Filipe Colombo's leadership."
+    },
+    {
+      "value": "4,000",
+      "context": "Books sold at launch"
+    },
+    {
+      "value": "15,000",
+      "context": "Total books sold"
+    },
+    {
+      "value": "11h55",
+      "context": "Tempo para completar o Ironman"
+    },
+    {
+      "value": "22 horas por semana",
+      "context": "Tempo de treino para o Ironman"
+    },
+    {
+      "value": "1 bilhão",
+      "context": "Faturamento estimado da Anjo Tintas"
+    },
+    {
+      "value": "1 bilhão",
+      "context": "Faturamento anual aproximado da Anjo Tintas."
+    },
+    {
+      "value": "10 anos",
+      "context": "Tempo de Filipe Colombo como CEO da Anjo Tintas."
+    },
+    {
+      "value": "37 anos",
+      "context": "Idade de Filipe Colombo."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Filipe Colombo",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Book By Filipe Colombo",
+      "target_type": "company"
+    },
+    {
+      "source": "Filipe Colombo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Entrepreneurship By Necessity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Filipe Colombo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Política Comercial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Anjo Tintas",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Souvenir",
+      "target_type": "company"
+    },
+    {
+      "source": "Filipe Colombo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Anjo Tintas",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Filipe Colombo",
+      "target_type": "person"
+    },
+    {
+      "source": "Anjo Tintas",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Sherwin-Williams",
+      "target_type": "company"
+    },
+    {
+      "source": "Anjo Tintas",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Coral",
+      "target_type": "company"
+    },
+    {
+      "source": "Filipe Colombo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ironman",
+      "target_type": "concept"
+    },
+    {
+      "source": "Filipe Colombo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Concentração De Vendas",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Desconto Logístico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Filipe Colombo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Desconto Logístico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Beto Colombo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Anjo Tintas",
+      "target_type": "company"
+    },
+    {
+      "source": "Filipe Colombo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Gestão De Tempo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Filipe Colombo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Divisão De Papéis",
+      "target_type": "concept"
+    },
+    {
+      "source": "Filipe Colombo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Model Of Management",
+      "target_type": "concept"
+    }
+  ]
+}

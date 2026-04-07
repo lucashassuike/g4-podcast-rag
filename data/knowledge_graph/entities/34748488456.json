@@ -1,0 +1,302 @@
+{
+  "episode_id": "34748488456",
+  "title": "COMO ELE CRIOU A MAIOR PLATAFORMA DE GESTÃO DE PROCESSOS - ALESSIO ALIONCO (PIPEFY) | PAPO DE GESTÃO",
+  "date_published": 1710785842,
+  "duration": 5099,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alessio Alionco",
+      "role": "guest",
+      "company": "Pipefy",
+      "title": "Fundador e CEO"
+    },
+    {
+      "name": "Dave Mcclure",
+      "role": "mentioned",
+      "company": "500 Startups",
+      "title": "Founder"
+    },
+    {
+      "name": "Victor Frankl",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Michael Singer",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Pipefy",
+      "industry": "Tecnologia",
+      "context": "Plataforma de gestão de processos e transformação digital"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de treinamento e capacitação empresarial"
+    },
+    {
+      "name": "Nestech",
+      "industry": "Aceleradora",
+      "context": "Aceleradora israelense mencionada por Alessio Alionco"
+    },
+    {
+      "name": "Vtex",
+      "industry": "E-commerce",
+      "context": "Mencionada como exemplo de empresa brasileira de tecnologia"
+    },
+    {
+      "name": "Jim Pesce",
+      "industry": "Tecnologia",
+      "context": "Mencionada como exemplo de empresa brasileira de tecnologia"
+    },
+    {
+      "name": "500 Startups",
+      "industry": "Aceleração de Startups",
+      "context": "Programa de aceleração onde o Pipefy participou e enfrentou desafios iniciais."
+    },
+    {
+      "name": "Zendesk",
+      "industry": "Software de Atendimento ao Cliente",
+      "context": "Investidor inicial do Pipefy."
+    },
+    {
+      "name": "Amazon",
+      "industry": "Tecnologia e Comércio Eletrônico",
+      "context": "Empresas onde profissionais brasileiros trabalharam antes de se juntarem ao Pipefy."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Transformação Digital",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Gestão de Processos",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "SaaS (Software as a Service)",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Treinamento"
+    },
+    {
+      "name": "Competitividade Empresarial",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Inteligência Artificial (AI)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Big Data",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Times cross-funcionais",
+      "category": "Gestão de equipes"
+    },
+    {
+      "name": "Value stream",
+      "category": "Gestão de processos"
+    },
+    {
+      "name": "Abordagem ágil",
+      "category": "Metodologia de desenvolvimento"
+    },
+    {
+      "name": "Melhoria contínua",
+      "category": "Gestão de processos"
+    },
+    {
+      "name": "Internacionalização",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Gestão Remota",
+      "category": "Gestão de Empresas"
+    },
+    {
+      "name": "Fluência em Inglês",
+      "category": "Habilidades Profissionais"
+    },
+    {
+      "name": "Aceleração de Startups",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "OKR",
+      "category": "Business Framework"
+    },
+    {
+      "name": "Logotherapy",
+      "category": "Psychotherapy"
+    },
+    {
+      "name": "Digital and Technological Company",
+      "category": "Business Concept"
+    }
+  ],
+  "books": [
+    {
+      "title": "Measuring What Matters",
+      "author": "John Doerr"
+    },
+    {
+      "title": "Crossing the Chasm",
+      "author": "Geoffrey Moore"
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Victor Frankl"
+    },
+    {
+      "title": "Awareness",
+      "author": "Unknown"
+    },
+    {
+      "title": "The Untethered Soul",
+      "author": "Michael Singer"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "dois terços",
+      "context": "Crescimento da empresa durante a pandemia"
+    },
+    {
+      "value": "7 dias",
+      "context": "Período de acesso gratuito ao G4 Skills"
+    },
+    {
+      "value": "2015",
+      "context": "Ano de lançamento do Pipefy"
+    },
+    {
+      "value": "2014",
+      "context": "Ano de fundação do Pipefy"
+    },
+    {
+      "value": "2015",
+      "context": "Ano de lançamento do Pipefy."
+    },
+    {
+      "value": "500 colaboradores",
+      "context": "Tamanho atual da equipe do Pipefy."
+    },
+    {
+      "value": "140 países",
+      "context": "Número de países onde o Pipefy possui clientes."
+    },
+    {
+      "value": "10,000 to 20,000 employees",
+      "context": "Future growth projection for Pipefy."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Pipefy",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Jim Pesce",
+      "target_type": "company"
+    },
+    {
+      "source": "Alessio Alionco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Pipefy",
+      "target_type": "company"
+    },
+    {
+      "source": "Pipefy",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "offers",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pipefy",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "500 Startups",
+      "target_type": "company"
+    },
+    {
+      "source": "Man'S Search For Meaning",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Logotherapy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nestech",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Alessio Alionco",
+      "target_type": "person"
+    },
+    {
+      "source": "Pipefy",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Zendesk",
+      "target_type": "company"
+    },
+    {
+      "source": "Measuring What Matters",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Okr",
+      "target_type": "concept"
+    }
+  ]
+}

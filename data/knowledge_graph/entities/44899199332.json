@@ -1,0 +1,244 @@
+{
+  "episode_id": "44899199332",
+  "title": "TOOLS LIVE: O NOVO PODCAST DO G4 EDUCAÇÃO",
+  "date_published": 1762528321,
+  "duration": 2490,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Igor Tor",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Responsável pelo G4 Tools"
+    },
+    {
+      "name": "Thiago Mendonça",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Head de Partner Success"
+    },
+    {
+      "name": "Denner Lippert",
+      "role": "mentioned",
+      "company": "V4 Company",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tuca Tapajós",
+      "role": "mentioned",
+      "company": "Tukatuka",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Organização principal discutida no episódio, responsável pelo G4 Tools."
+    },
+    {
+      "name": "Turbi",
+      "industry": "Mobilidade",
+      "context": "Startup cofundada por Thiago Mendonça, mencionada no episódio."
+    },
+    {
+      "name": "Meta",
+      "industry": "Tecnologia e Publicidade",
+      "context": "Mencionada como referência de marketplace para vendedores B2B."
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia e Publicidade",
+      "context": "Mencionada em contexto de investimento em publicidade por startups."
+    },
+    {
+      "name": "V4 Company",
+      "industry": "Marketing and Sales",
+      "context": "Mentioned as a successful case study of growth through G4 Educação's methodologies."
+    },
+    {
+      "name": "Tukatuka",
+      "industry": "Facilities Management",
+      "context": "Highlighted as a significant success story from G4 Educação's programs."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "CRM",
+      "category": "Ferramenta de Gestão de Relacionamento com o Cliente"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Simetria de Informação",
+      "category": "Conceito Econômico"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Customer Success (CS)",
+      "category": "Gestão de Relacionamento com o Cliente"
+    },
+    {
+      "name": "Field Sales",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "Account Manager",
+      "category": "Gestão de Contas"
+    },
+    {
+      "name": "Trusted Advisor",
+      "category": "Conceito de Relacionamento com o Cliente"
+    },
+    {
+      "name": "Finders Fee",
+      "category": "Modelo de Receita"
+    },
+    {
+      "name": "Networking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Ambition Renewal",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Business Growth",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Mentorship",
+      "category": "Education"
+    },
+    {
+      "name": "Vertical Growth Strategy",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "55,000 CNPJs",
+      "context": "Number of companies that have participated in G4 Educação programs."
+    },
+    {
+      "value": "10 million to 350 million",
+      "context": "Revenue growth of Tuca Tapajós's company after engaging with G4 Educação."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Thiago Mendonça",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Turbi",
+      "target_type": "company"
+    },
+    {
+      "source": "Denner Lippert",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tuca Tapajós",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tukatuka",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Customer Success (Cs)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Meta",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Marketplace",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Mentorship",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Mendonça",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Denner Lippert",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "V4 Company",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Networking",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tuca Tapajós",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Igor Tor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

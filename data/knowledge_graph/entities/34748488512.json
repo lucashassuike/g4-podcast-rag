@@ -1,0 +1,172 @@
+{
+  "episode_id": "34748488512",
+  "title": "Alta Performance na Vida e no Trabalho - Com Mari Britto da XP | Sem Atalhos",
+  "date_published": 1699345800,
+  "duration": 4092,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Mari Britto",
+      "role": "guest",
+      "company": "XP Inc",
+      "title": "Executiva"
+    },
+    {
+      "name": "Fernando De Magalhães",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Josh Waitzkin",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "César Cielo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Fundada por Tallis Gomes, oferece mentoria e treinamento em negócios."
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Serviços Financeiros",
+      "context": "Empresa onde Mari Britto atua e que investe no kitesurf no Brasil."
+    },
+    {
+      "name": "Ecotalentos",
+      "industry": "Agenciamento e Consultoria",
+      "context": "Empresa onde Mari Britto foi sócia, agenciando aventureiros."
+    },
+    {
+      "name": "North Face",
+      "industry": "Equipamentos e Vestuário Outdoor",
+      "context": "Fornecedora de equipamentos usados por Mari Britto em suas aventuras."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Branded Content",
+      "category": "Marketing"
+    },
+    {
+      "name": "Kitesurf",
+      "category": "Esporte"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Habilidade Pessoal"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Habilidade Pessoal"
+    },
+    {
+      "name": "Planejamento estratégico de carreira",
+      "category": "Estratégia de desenvolvimento pessoal"
+    },
+    {
+      "name": "Visão de longo prazo",
+      "category": "Estratégia de planejamento"
+    },
+    {
+      "name": "Soft skills",
+      "category": "Habilidades interpessoais"
+    },
+    {
+      "name": "Engenharia reversa",
+      "category": "Método de planejamento"
+    },
+    {
+      "name": "construção de hábitos",
+      "category": "desenvolvimento pessoal"
+    },
+    {
+      "name": "ambiente propício",
+      "category": "desenvolvimento pessoal"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Heart of Learning",
+      "author": "Josh Waitzkin"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "70%",
+      "context": "Dias em que a pessoa não acorda motivada, mas ainda assim executa suas tarefas."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Kitesurf",
+      "target_type": "concept"
+    },
+    {
+      "source": "Construção De Hábitos",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Ambiente Propício",
+      "target_type": "concept"
+    },
+    {
+      "source": "Disciplina",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Visão De Longo Prazo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mari Britto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Josh Waitzkin",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "The Heart Of Learning",
+      "target_type": "company"
+    },
+    {
+      "source": "Mari Britto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ecotalentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

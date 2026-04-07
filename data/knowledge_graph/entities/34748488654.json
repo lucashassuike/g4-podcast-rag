@@ -1,0 +1,339 @@
+{
+  "episode_id": "34748488654",
+  "title": "#024 - Jovem, mãe e co-founder de uma das maiores instituições financeiras do mundo",
+  "date_published": 1629880202,
+  "duration": 2716,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Cris Junqueira",
+      "role": "guest",
+      "company": "Nubank",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Cris",
+      "role": "guest",
+      "company": "Nubank",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Davi",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Jefferson",
+      "role": "mentioned",
+      "company": "Barbacoa",
+      "title": "Founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Philip Kotler",
+      "role": "mentioned",
+      "company": "Kellogg School of Management",
+      "title": "Professor"
+    },
+    {
+      "name": "Alice",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Maria",
+      "role": "mentioned",
+      "company": "Singula",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Financial Services",
+      "context": "One of the largest financial institutions in the world"
+    },
+    {
+      "name": "Disney",
+      "industry": "Entertainment",
+      "context": "Referenced as a source of inspiration for customer experience and attention to detail."
+    },
+    {
+      "name": "Barbacoa",
+      "industry": "Food and Beverage",
+      "context": "Discussed as an example of innovation in the restaurant industry."
+    },
+    {
+      "name": "Sequoia Capital",
+      "industry": "Venture Capital",
+      "context": "Mentioned in the context of Series A funding for Nubank."
+    },
+    {
+      "name": "Cingu",
+      "industry": "Technology",
+      "context": "Referenced as a startup where marketing strategies were previously applied."
+    },
+    {
+      "name": "Singul",
+      "industry": "Consumer Products",
+      "context": "Discussed as a company with a female CEO and majority female workforce."
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosmetics",
+      "context": "Mentioned as the acquiring company of Singul."
+    },
+    {
+      "name": "Singula",
+      "industry": "Healthcare",
+      "context": "Mentioned in relation to its financial operations and use of a white-label bank."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Imersão em Mentoria",
+      "category": "Business mentorship program"
+    },
+    {
+      "name": "Framework moral",
+      "category": "Personal development"
+    },
+    {
+      "name": "Valor do trabalho",
+      "category": "Ethics and values"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Leadership and productivity"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Attention to Detail",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Innovation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Culture of Encantment",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Customer Journey",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Marketing Efficiency",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "LTV/CAC Ratio",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Employee Moral Compass",
+      "category": "Human Resources"
+    },
+    {
+      "name": "Series A Funding",
+      "category": "Venture Capital"
+    },
+    {
+      "name": "Series A",
+      "category": "Funding"
+    },
+    {
+      "name": "Roadshow",
+      "category": "Funding"
+    },
+    {
+      "name": "Bias",
+      "category": "Psychology"
+    },
+    {
+      "name": "OKRs",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Weekly Operating Review",
+      "category": "Management Practice"
+    },
+    {
+      "name": "KPIs",
+      "category": "Management Metrics"
+    },
+    {
+      "name": "One-on-One Meetings",
+      "category": "Management Practice"
+    },
+    {
+      "name": "White-Label Banking",
+      "category": "Financial Services"
+    },
+    {
+      "name": "Management 4.0",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Marketing Management",
+      "author": "Philip Kotler"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "25 bilhões de dólares",
+      "context": "Valuation of Nubank"
+    },
+    {
+      "value": "15-20 metrics",
+      "context": "Number of metrics reviewed in Nubank's Weekly Operating Review."
+    },
+    {
+      "value": "80-100 million per year",
+      "context": "Annual revenue of a discussed company."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Davi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Jefferson",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Barbacoa",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Cris",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Maria",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Singula",
+      "target_type": "company"
+    },
+    {
+      "source": "Nubank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Disney",
+      "target_type": "company"
+    },
+    {
+      "source": "Nubank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sequoia Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Cris",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Cris Junqueira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Cris Junqueira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Singul",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Philip Kotler",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Kellogg School Of Management",
+      "target_type": "company"
+    },
+    {
+      "source": "Davi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    }
+  ]
+}

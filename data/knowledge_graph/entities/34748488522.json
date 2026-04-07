@@ -1,0 +1,827 @@
+{
+  "episode_id": "34748488522",
+  "title": "Alcance o Sucesso ao Empreender com Educação - Com Julio De Angeli | Papo De Gestão",
+  "date_published": 1698136200,
+  "duration": 4378,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Julio De Angeli",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Conselheiro"
+    },
+    {
+      "name": "Cris Correia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Daniel Borges",
+      "role": "mentioned",
+      "company": "Crescer",
+      "title": "Executive"
+    },
+    {
+      "name": "Felipe",
+      "role": "mentioned",
+      "company": "Crescer",
+      "title": "Executive"
+    },
+    {
+      "name": "Laura",
+      "role": "mentioned",
+      "company": "Crescer",
+      "title": "Executive"
+    },
+    {
+      "name": "Dr. Artilho",
+      "role": "mentioned",
+      "company": "Medcel",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno",
+      "role": "mentioned",
+      "company": "Whitebook",
+      "title": "Fundador"
+    },
+    {
+      "name": "Edu",
+      "role": "mentioned",
+      "company": "Whitebook",
+      "title": "Fundador"
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "Whitebook",
+      "title": "Fundador"
+    },
+    {
+      "name": "Doutor Zé Luiz",
+      "role": "mentioned",
+      "company": "Mandic",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Paulo",
+      "role": "mentioned",
+      "company": "Alura",
+      "title": ""
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Misa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Júlio De Angeli",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bob Iger",
+      "role": "mentioned",
+      "company": "Disney",
+      "title": "CEO"
+    },
+    {
+      "name": "David Grohl",
+      "role": "mentioned",
+      "company": "Foo Fighters",
+      "title": "Musician"
+    },
+    {
+      "name": "André Agassi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Tennis Player"
+    },
+    {
+      "name": "Gustavo Kuerten",
+      "role": "mentioned",
+      "company": "",
+      "title": "Tennis Player"
+    },
+    {
+      "name": "Abílio Diniz",
+      "role": "mentioned",
+      "company": "",
+      "title": "Businessman"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "",
+      "title": "Entrepreneur"
+    },
+    {
+      "name": "Phil Knight",
+      "role": "mentioned",
+      "company": "Nike",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Platform for team training and development."
+    },
+    {
+      "name": "Mastercard",
+      "industry": "Financial Services",
+      "context": "Julio De Angeli's career history."
+    },
+    {
+      "name": "Lab",
+      "industry": "Education",
+      "context": "Julio De Angeli's career history."
+    },
+    {
+      "name": "Ef",
+      "industry": "Education",
+      "context": "Julio De Angeli's career history."
+    },
+    {
+      "name": "Inglit Live",
+      "industry": "Education",
+      "context": "Julio De Angeli's career history."
+    },
+    {
+      "name": "Abril Educação",
+      "industry": "Education",
+      "context": "Julio De Angeli's career history."
+    },
+    {
+      "name": "Isab",
+      "industry": "Education",
+      "context": "Julio De Angeli's career history."
+    },
+    {
+      "name": "Red Balloon",
+      "industry": "Education",
+      "context": "Julio De Angeli's career history."
+    },
+    {
+      "name": "Somos Educação",
+      "industry": "Education",
+      "context": "Julio De Angeli's career history."
+    },
+    {
+      "name": "Medcell",
+      "industry": "Medical Education",
+      "context": "Julio De Angeli's career history."
+    },
+    {
+      "name": "Afya",
+      "industry": "Medical Education",
+      "context": "Julio De Angeli's career history."
+    },
+    {
+      "name": "Feralab",
+      "industry": "Corporate Education",
+      "context": "Founded by Julio De Angeli and colleagues."
+    },
+    {
+      "name": "Udemy",
+      "industry": "Educação",
+      "context": "Empresa mencionada como parte da trajetória de Julio De Angeli."
+    },
+    {
+      "name": "Ef Education First",
+      "industry": "Educação",
+      "context": "Empresa sueca mencionada como parte da trajetória de Julio De Angeli."
+    },
+    {
+      "name": "Afia",
+      "industry": "Educação médica",
+      "context": "Empresa formada a partir da consolidação de escolas e universidades na área médica, com IPO nos EUA."
+    },
+    {
+      "name": "Bozano Investimentos",
+      "industry": "Private Equity",
+      "context": "Fundo que investiu na formação da AFIA."
+    },
+    {
+      "name": "Cogna",
+      "industry": "Educação superior",
+      "context": "Empresa mencionada como exemplo de consolidação no setor de ensino superior."
+    },
+    {
+      "name": "Estácio",
+      "industry": "Educação superior",
+      "context": "Empresa mencionada como exemplo de consolidação no setor de ensino superior."
+    },
+    {
+      "name": "Afya Educacional",
+      "industry": "Education",
+      "context": "Holding company focused on medical education, listed in New York."
+    },
+    {
+      "name": "Medcel",
+      "industry": "Education",
+      "context": "Company specializing in preparatory courses for medical residency exams."
+    },
+    {
+      "name": "Nr Educacional",
+      "industry": "Education",
+      "context": "Group acquired by AFYA Educacional as part of its expansion strategy."
+    },
+    {
+      "name": "Crescer",
+      "industry": "Education",
+      "context": "Mentioned as a company with notable executives."
+    },
+    {
+      "name": "Whitebook",
+      "industry": "HealthTech",
+      "context": "Software de apoio à decisão clínica para médicos"
+    },
+    {
+      "name": "Mandic",
+      "industry": "Educação e Saúde",
+      "context": "Instituição de ensino com foco em odontologia e medicina"
+    },
+    {
+      "name": "Alura",
+      "industry": "Educação",
+      "context": "Conexão e troca de experiências mencionadas."
+    },
+    {
+      "name": "Disney",
+      "industry": "Entertainment",
+      "context": "Discussed in relation to Bob Iger's leadership and innovations"
+    },
+    {
+      "name": "Nike",
+      "industry": "Sportswear",
+      "context": "Discussed in relation to Phil Knight's entrepreneurial journey"
+    },
+    {
+      "name": "Foo Fighters",
+      "industry": "Music",
+      "context": "Discussed in relation to David Grohl's biography"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Platform"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Education",
+      "category": "Sector"
+    },
+    {
+      "name": "Continuous Learning",
+      "category": "Concept"
+    },
+    {
+      "name": "Distance Education",
+      "category": "Methodology"
+    },
+    {
+      "name": "Quality Education",
+      "category": "Concept"
+    },
+    {
+      "name": "Espírito empreendedor",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Treinamento contínuo",
+      "category": "Estratégia de desenvolvimento organizacional"
+    },
+    {
+      "name": "Private equity",
+      "category": "Finanças e investimentos"
+    },
+    {
+      "name": "M&A (fusões e aquisições)",
+      "category": "Estratégia corporativa"
+    },
+    {
+      "name": "M&A",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Governance",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Inorganic Growth",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Gestão"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Gestão"
+    },
+    {
+      "name": "Propósito Organizacional",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "Missão, Visão e Valores",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "Conselho de Administração",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Metodologia Educacional",
+      "category": "Educação"
+    },
+    {
+      "name": "Instituto Brasileiro de Governança Corporativa (IBGC)",
+      "category": "Organização"
+    },
+    {
+      "name": "Engajamento",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Metodologia de Ensino",
+      "category": "Education"
+    },
+    {
+      "name": "Tecnologia como Meio",
+      "category": "Technology"
+    },
+    {
+      "name": "Aquisições Estratégicas",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Radicalismo e Positividade",
+      "category": "Social Issues"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Sonho Grande",
+      "author": "Cris Correia"
+    },
+    {
+      "title": "The Ride of a Lifetime",
+      "author": "Bob Iger"
+    },
+    {
+      "title": "The Storyteller",
+      "author": "David Grohl"
+    },
+    {
+      "title": "Open",
+      "author": "André Agassi"
+    },
+    {
+      "title": "Guga: Um Brasileiro",
+      "author": "Gustavo Kuerten"
+    },
+    {
+      "title": "Shoe Dog",
+      "author": "Phil Knight"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "30 years",
+      "context": "Julio De Angeli's experience in the education sector."
+    },
+    {
+      "value": "10 million",
+      "context": "Number of people studying in higher education in Brazil."
+    },
+    {
+      "value": "800 milhões de reais",
+      "context": "Fundo criado pela Bozano Investimentos para investir na educação médica com tecnologia."
+    },
+    {
+      "value": "3% da população brasileira",
+      "context": "Percentual de brasileiros fluentes em inglês mencionado por Julio De Angeli."
+    },
+    {
+      "value": "4,000 BRL",
+      "context": "Monthly stipend for medical residents."
+    },
+    {
+      "value": "700-800 million BRL",
+      "context": "AFYA Educacional's revenue at the time of IPO in 2019."
+    },
+    {
+      "value": "2.7 billion BRL",
+      "context": "AFYA Educacional's projected revenue for 2023."
+    },
+    {
+      "value": "Growth of over three times",
+      "context": "AFYA Educacional's revenue growth from 2019 to 2023."
+    },
+    {
+      "value": "700-800 milhões",
+      "context": "Faturamento inicial da empresa listada"
+    },
+    {
+      "value": "2.7 bilhões",
+      "context": "Faturamento projetado para 2023"
+    },
+    {
+      "value": "30-40 milhões",
+      "context": "Pacientes impactados pelo uso do Whitebook"
+    },
+    {
+      "value": "200 mil médicos",
+      "context": "Usuários do Whitebook no Brasil"
+    },
+    {
+      "value": "500 mil médicos",
+      "context": "Número total de médicos com CRM no Brasil"
+    },
+    {
+      "value": "200 mil estudantes de medicina",
+      "context": "Número de estudantes de medicina no Brasil"
+    },
+    {
+      "value": "12 aquisições",
+      "context": "Número de aquisições de HealthTechs pela empresa mencionada"
+    },
+    {
+      "value": "35 anos",
+      "context": "Tempo de operação da Mandic"
+    },
+    {
+      "value": "1.800 funcionários",
+      "context": "Tamanho da empresa mencionada no contexto de governança."
+    },
+    {
+      "value": "98%",
+      "context": "Porcentagem de empresas familiares no Brasil."
+    },
+    {
+      "value": "130 escolas",
+      "context": "Investimento em Charter Schools nos Estados Unidos"
+    },
+    {
+      "value": "1 bilhão de dólares",
+      "context": "Levantado para investimento em educação"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Edu",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Whitebook",
+      "target_type": "company"
+    },
+    {
+      "source": "Afya Educacional",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Nr Educacional",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Distance Education",
+      "target_type": "concept"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gustavo Kuerten",
+      "target_type": "person"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Medcell",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alura",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Education",
+      "target_type": "concept"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Ef",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "Júlio De Angeli",
+      "target_type": "person"
+    },
+    {
+      "source": "Afya Educacional",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Medcel",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Phil Knight",
+      "target_type": "person"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Quality Education",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Artilho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Medcel",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Afia",
+      "target_type": "company"
+    },
+    {
+      "source": "Cris Correia",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "O Sonho Grande",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Isab",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "André Agassi",
+      "target_type": "person"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Red Balloon",
+      "target_type": "company"
+    },
+    {
+      "source": "Bob Iger",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Disney",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Abílio Diniz",
+      "target_type": "person"
+    },
+    {
+      "source": "Cogna",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Estácio",
+      "target_type": "company"
+    },
+    {
+      "source": "Phil Knight",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nike",
+      "target_type": "company"
+    },
+    {
+      "source": "Doutor Zé Luiz",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mandic",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Whitebook",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Lab",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Somos Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Mastercard",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "David Grohl",
+      "target_type": "person"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Feralab",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bob Iger",
+      "target_type": "person"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Afya",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Afya Educacional",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Continuous Learning",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bozano Investimentos",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Afia",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Abril Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Inglit Live",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Whitebook",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Medcell",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Alura",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Elon Musk",
+      "target_type": "person"
+    },
+    {
+      "source": "Afia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Medcell",
+      "target_type": "company"
+    },
+    {
+      "source": "David Grohl",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Foo Fighters",
+      "target_type": "company"
+    }
+  ]
+}

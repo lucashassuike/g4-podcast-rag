@@ -1,0 +1,263 @@
+{
+  "episode_id": "34748488369",
+  "title": "COMO E QUANDO DEVO VENDER MINHA EMPRESA - COM ALLAN PANOSSIAN | PAPO DE GESTÃO",
+  "date_published": 1732604400,
+  "duration": 4138,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Allan Panossian",
+      "role": "guest",
+      "company": "Delivery Direto",
+      "title": "Empreendedor Serial"
+    },
+    {
+      "name": "Clayton Christensen",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Fernando",
+      "role": "mentioned",
+      "company": "Delivery Direto",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcast",
+      "industry": "Mídia",
+      "context": "Podcast de negócios"
+    },
+    {
+      "name": "Local Web",
+      "industry": "Tecnologia",
+      "context": "Comprou a empresa de Allan Panossian"
+    },
+    {
+      "name": "Via 6",
+      "industry": "Tecnologia",
+      "context": "Primeira empresa fundada por Allan Panossian"
+    },
+    {
+      "name": "Quecanto",
+      "industry": "Tecnologia",
+      "context": "Startup fundada por Allan Panossian"
+    },
+    {
+      "name": "Delivery Direto",
+      "industry": "Tecnologia",
+      "context": "Empresa pivotada e vendida por Allan Panossian"
+    },
+    {
+      "name": "Que Canto",
+      "industry": "Technology",
+      "context": "Discussed as a previous business venture"
+    },
+    {
+      "name": "Localweb",
+      "industry": "Technology",
+      "context": "Acquirer of Delivery Direto"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Venture Capital",
+      "category": "Investimento"
+    },
+    {
+      "name": "Power Law",
+      "category": "Investimento"
+    },
+    {
+      "name": "Liquidation Preference",
+      "category": "Investimento"
+    },
+    {
+      "name": "Fundraising",
+      "category": "Investimento"
+    },
+    {
+      "name": "Pivotar",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Inside Sales",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "B2B SaaS",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Skin in the Game",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Phase-out",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Process"
+    },
+    {
+      "name": "Complementarity in Partnerships",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Earnout",
+      "category": "Termo Financeiro"
+    },
+    {
+      "name": "Investimento Anjo",
+      "category": "Finanças e Investimentos"
+    }
+  ],
+  "books": [
+    {
+      "title": "Dilema da Inovação",
+      "author": "Clayton Christensen"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "300 milhões de reais",
+      "context": "Exemplo de capital levantado por uma empresa"
+    },
+    {
+      "value": "400 milhões de reais",
+      "context": "Exemplo de valor de venda de uma empresa"
+    },
+    {
+      "value": "500 milhões de reais",
+      "context": "Exemplo de valor de mercado de uma empresa"
+    },
+    {
+      "value": "100 funcionários",
+      "context": "Tamanho da equipe da Delivery Direto no momento da venda."
+    },
+    {
+      "value": "2 anos",
+      "context": "Período de Earnout após a venda da Delivery Direto."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Allan Panossian",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Investimento Anjo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Allan Panossian",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Via 6",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Clayton Christensen",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Dilema Da Inovação",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Panossian",
+      "source_type": "person",
+      "relation": "sold_to",
+      "target": "Localweb",
+      "target_type": "company"
+    },
+    {
+      "source": "Delivery Direto",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Localweb",
+      "target_type": "company"
+    },
+    {
+      "source": "Delivery Direto",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Que Canto",
+      "target_type": "company"
+    },
+    {
+      "source": "Dilema Da Inovação",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Allan Panossian",
+      "target_type": "person"
+    },
+    {
+      "source": "Allan Panossian",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Que Canto",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Panossian",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Venture Capital",
+      "target_type": "concept"
+    },
+    {
+      "source": "Allan Panossian",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Delivery Direto",
+      "target_type": "company"
+    },
+    {
+      "source": "Allan Panossian",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Quecanto",
+      "target_type": "company"
+    },
+    {
+      "source": "Delivery Direto",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Local Web",
+      "target_type": "company"
+    }
+  ]
+}

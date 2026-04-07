@@ -1,0 +1,582 @@
+{
+  "episode_id": "34748488418",
+  "title": "NÃO QUEBRE! LIÇÕES DE SUCESSÃO FAMILIAR E GESTÃO COM TIZIANO FILHO (LEVEROS) | PAPO DE GESTÃO",
+  "date_published": 1720450800,
+  "duration": 4415,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Tiziano Filho",
+      "role": "guest",
+      "company": "Leveros",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno",
+      "role": "mentioned",
+      "company": "Leveros",
+      "title": "Operational Manager"
+    },
+    {
+      "name": "Ricardo Bermejo",
+      "role": "mentioned",
+      "company": "Bermejo Contabilidade",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Rogerinho",
+      "role": "mentioned",
+      "company": "Wine",
+      "title": "Executive"
+    },
+    {
+      "name": "Richard",
+      "role": "mentioned",
+      "company": "Aramis",
+      "title": ""
+    },
+    {
+      "name": "Manuel",
+      "role": "mentioned",
+      "company": "2B Capital",
+      "title": ""
+    },
+    {
+      "name": "Guilherme",
+      "role": "mentioned",
+      "company": "2B Capital",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Prado",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em cibersegurança"
+    },
+    {
+      "name": "Fernandinho Sartori",
+      "role": "mentioned",
+      "company": "",
+      "title": "Especialista em transportes"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Leveros",
+      "industry": "HVAC (Heating, Ventilation, and Air Conditioning)",
+      "context": "Family business focusing on air-conditioning distribution and services"
+    },
+    {
+      "name": "2B Capital",
+      "industry": "Investment",
+      "context": "Investor in Leveros"
+    },
+    {
+      "name": "Gelosom",
+      "industry": "Appliance Repair",
+      "context": "Original family business before Leveros"
+    },
+    {
+      "name": "Bermejo Contabilidade",
+      "industry": "Accounting",
+      "context": "Accounting services for Leveros"
+    },
+    {
+      "name": "Ford",
+      "industry": "Automotivo",
+      "context": "Referência à experiência anterior de Tiziano Filho"
+    },
+    {
+      "name": "Wine",
+      "industry": "Varejo de bebidas",
+      "context": "Localização próxima ao centro de distribuição da Leveros"
+    },
+    {
+      "name": "Nova América",
+      "industry": "Cervejaria",
+      "context": "Referência como empresa desejada para trabalhar"
+    },
+    {
+      "name": "Aramis",
+      "industry": "Varejo de moda masculina",
+      "context": "Relacionada ao fundo 2B Capital."
+    },
+    {
+      "name": "Wap",
+      "industry": "Tecnologia e E-commerce",
+      "context": "Empresa de plataforma de e-commerce mencionada como investimento da Leveros."
+    },
+    {
+      "name": "Daikin",
+      "industry": "Climatização",
+      "context": "Parceira da Leveros para desenvolvimento de e-commerce."
+    },
+    {
+      "name": "Americanas",
+      "industry": "Varejo",
+      "context": "Parceira da Leveros para soluções de instalação."
+    },
+    {
+      "name": "Electrolux",
+      "industry": "Eletrodomésticos",
+      "context": "Parceira da Leveros para soluções de instalação."
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Varejo",
+      "context": "Parceira da Leveros para soluções de instalação."
+    },
+    {
+      "name": "Profis",
+      "industry": "Tecnologia e prestação de serviços",
+      "context": "Plataforma mencionada como inovadora no setor de prestação de serviços."
+    },
+    {
+      "name": "Service Titan",
+      "industry": "Tecnologia e prestação de serviços",
+      "context": "Empresa americana mencionada como referência no setor de prestação de serviços."
+    },
+    {
+      "name": "Whole Foods",
+      "industry": "Varejo e alimentos naturais",
+      "context": "Empresa mencionada no contexto do livro 'Capitalismo Consciente'."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Family Business",
+      "category": "Business Model"
+    },
+    {
+      "name": "Succession Planning",
+      "category": "Management"
+    },
+    {
+      "name": "Conselho de Administração",
+      "category": "Corporate Governance"
+    },
+    {
+      "name": "Marketplace",
+      "category": "E-commerce"
+    },
+    {
+      "name": "Operational Efficiency",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Sucessão familiar",
+      "category": "Gestão"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Varejo"
+    },
+    {
+      "name": "Profissionalização empresarial",
+      "category": "Gestão"
+    },
+    {
+      "name": "Empatia na gestão",
+      "category": "Liderança"
+    },
+    {
+      "name": "Governança corporativa",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Framework das salas diferentes",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Humildade intelectual",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Arrogância situacional",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Conselho e Fórum da Família",
+      "category": "Governança Corporativa"
+    },
+    {
+      "name": "Profissionalização de Empresas Familiares",
+      "category": "Gestão"
+    },
+    {
+      "name": "Meritocracia",
+      "category": "Gestão"
+    },
+    {
+      "name": "Treinamento e Desenvolvimento de Colaboradores",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Crescimento Acelerado",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Integração de Sistemas",
+      "category": "Tecnologia e Operações"
+    },
+    {
+      "name": "Gestão de Negócios",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Tecnologia em Negócios",
+      "category": "Inovação"
+    },
+    {
+      "name": "Full Commerce",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "B2B2C",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "ERP",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "HVAC",
+      "category": "Tecnologia e climatização"
+    },
+    {
+      "name": "OPM (Owner/President Management)",
+      "category": "Educação executiva"
+    },
+    {
+      "name": "Empatia",
+      "category": "Gestão e liderança"
+    },
+    {
+      "name": "Capitalismo consciente",
+      "category": "Filosofia empresarial"
+    }
+  ],
+  "books": [
+    {
+      "title": "Capitalismo Consciente",
+      "author": "John Mackey"
+    },
+    {
+      "title": "Endurance",
+      "author": "Alfred Lansing"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "300 milhões de reais",
+      "context": "Revenue of Leveros at the time of investment by 2B Capital"
+    },
+    {
+      "value": "15-20 milhões de reais",
+      "context": "Revenue of Leveros in 2009-2010"
+    },
+    {
+      "value": "65-70 colaboradores",
+      "context": "Number of employees at Leveros in 2009-2010"
+    },
+    {
+      "value": "15, 20 para 200, 200, 250, 300",
+      "context": "Crescimento da Leveros em faturamento"
+    },
+    {
+      "value": "150, 200 milhões para 1 bilhão",
+      "context": "Crescimento esperado na fase de 10 para 100"
+    },
+    {
+      "value": "300 milhões de reais",
+      "context": "Receita da Leveros no momento de entrada do fundo 2B Capital."
+    },
+    {
+      "value": "40 milhões de reais",
+      "context": "Receita inicial da Leveros antes do crescimento significativo."
+    },
+    {
+      "value": "330 milhões de reais",
+      "context": "Receita da Leveros após reorganização e governança."
+    },
+    {
+      "value": "1.2 bilhões",
+      "context": "Faturamento anual da Leveros no ano anterior."
+    },
+    {
+      "value": "45%",
+      "context": "Taxa de crescimento anual da Leveros."
+    },
+    {
+      "value": "400 milhões para 1.2 bilhões",
+      "context": "Crescimento do faturamento da Leveros em 3 anos."
+    },
+    {
+      "value": "45%",
+      "context": "Crescimento acumulado mencionado no início da conversa."
+    },
+    {
+      "value": "4 salários de bônus",
+      "context": "Bônus anual distribuído aos colaboradores da Leveros."
+    },
+    {
+      "value": "150 milhões de reais",
+      "context": "Receita aproximada da Leveros no mercado de energia solar antes de encerrar a divisão."
+    },
+    {
+      "value": "8 mil instaladores cadastrados",
+      "context": "Número de instaladores cadastrados na plataforma Profis."
+    },
+    {
+      "value": "8 mil instaladores cadastrados",
+      "context": "Número de instaladores cadastrados na plataforma Profis."
+    },
+    {
+      "value": "33% de climatização",
+      "context": "Proporção de instaladores na Profis especializados em climatização."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rogerinho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Wine",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Nova América",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiziano Filho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sucessão Familiar",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfred Lansing",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Endurance",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiziano Filho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Family Business",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Climatização",
+      "target_type": "company"
+    },
+    {
+      "source": "Service Titan",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Profis",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "2B Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Framework Das Salas Diferentes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiziano Filho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Empatia Na Gestão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiziano Filho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Opm (Owner/President Management)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "2B Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiziano Filho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Profissionalização Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Americanas",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiziano Filho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "E-Commerce",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ricardo Bermejo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bermejo Contabilidade",
+      "target_type": "company"
+    },
+    {
+      "source": "Profis",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Leveros",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gelosom",
+      "target_type": "company"
+    },
+    {
+      "source": "2B Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Leveros",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiziano Filho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Capitalismo Consciente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Electrolux",
+      "target_type": "company"
+    },
+    {
+      "source": "Richard",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Aramis",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiziano Filho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hvac",
+      "target_type": "concept"
+    },
+    {
+      "source": "Manuel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "2B Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiziano Filho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marketplace",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiziano Filho",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Bruno Prado",
+      "target_type": "person"
+    },
+    {
+      "source": "Tiziano Filho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Leveros",
+      "target_type": "company"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Daikin",
+      "target_type": "company"
+    },
+    {
+      "source": "John Mackey",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Capitalismo Consciente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leveros",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Wap",
+      "target_type": "company"
+    }
+  ]
+}

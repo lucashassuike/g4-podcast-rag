@@ -1,0 +1,297 @@
+{
+  "episode_id": "34748488461",
+  "title": "O SEGREDO DA EXPERIÊNCIA - COM GABRIEL BENARROS | EXTREMOS",
+  "date_published": 1709280000,
+  "duration": 4521,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Engenheiro"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Gabriel Benarros",
+      "role": "guest",
+      "company": "Ingresso",
+      "title": "Founder e CEO"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Owen Wilson",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "role": "mentioned",
+      "company": "Meta",
+      "title": "CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa cofundada por Tallis Gomes, mencionada no contexto de aprendizado e mentoria."
+    },
+    {
+      "name": "Ingresso",
+      "industry": "Entretenimento",
+      "context": "Plataforma de venda de ingressos fundada por Gabriel Benarros."
+    },
+    {
+      "name": "North Ventures",
+      "industry": "Investimentos",
+      "context": "Fundo de investimento mencionado como empreendimento de Gabriel Benarros."
+    },
+    {
+      "name": "Ingresso.Com",
+      "industry": "Entretenimento e Tecnologia",
+      "context": "Plataforma de venda de ingressos e eventos"
+    },
+    {
+      "name": "Dgf",
+      "industry": "Investimentos",
+      "context": "Primeiro investidor institucional da Ingresso.com"
+    },
+    {
+      "name": "Paypal",
+      "industry": "Tecnologia Financeira",
+      "context": "Integração inicial para pagamentos na Ingresso.com"
+    },
+    {
+      "name": "Eventbrite",
+      "industry": "Entretenimento e Tecnologia",
+      "context": "Concorrente que saiu do mercado brasileiro"
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entretenimento e Tecnologia",
+      "context": "Modelo de investimento em conteúdo comparado ao da Ingresso.com"
+    },
+    {
+      "name": "Silicon Valley Bank",
+      "industry": "Finance",
+      "context": "Discussed as an example of financial instability and its impact on market trends."
+    },
+    {
+      "name": "Hsbc",
+      "industry": "Finance",
+      "context": "Mentioned as the buyer of the European branch of Silicon Valley Bank."
+    },
+    {
+      "name": "Openai",
+      "industry": "Technology",
+      "context": "Discussed as a transformative player in AI, surpassing Google in certain aspects."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Mentioned in the context of being surpassed by OpenAI in AI advancements."
+    },
+    {
+      "name": "Meta",
+      "industry": "Technology",
+      "context": "Mentioned in relation to Mark Zuckerberg's comments on returning to office work."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Metodologia de case",
+      "category": "Educação"
+    },
+    {
+      "name": "Validação de mercado",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Prototipação",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Experiência do usuário",
+      "category": "Negócios"
+    },
+    {
+      "name": "Funding para eventos",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "Consumer Revenge",
+      "category": "Comportamento do consumidor"
+    },
+    {
+      "name": "Efeito champanhe",
+      "category": "Comportamento do consumidor"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Disciplina financeira",
+      "category": "Gestão"
+    },
+    {
+      "name": "Runway",
+      "category": "Finance"
+    },
+    {
+      "name": "Camelocórnio",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "AI (Artificial Intelligence)",
+      "category": "Technology"
+    },
+    {
+      "name": "Web 3.0",
+      "category": "Technology"
+    },
+    {
+      "name": "NFT (Non-Fungible Token)",
+      "category": "Technology"
+    },
+    {
+      "name": "Blockchain",
+      "category": "Technology"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "20 bilhões de dólares",
+      "context": "Tamanho do mercado de entretenimento ao vivo no Brasil mencionado por Gabriel Benarros."
+    },
+    {
+      "value": "3 milhões de reais",
+      "context": "Faturamento da Ingresso.com no primeiro ano (2013)"
+    },
+    {
+      "value": "1 bilhão de reais",
+      "context": "Faturamento da Ingresso.com em 2022"
+    },
+    {
+      "value": "2 bilhões de reais",
+      "context": "Faturamento esperado da Ingresso.com em 2023"
+    },
+    {
+      "value": "80%",
+      "context": "Participação da Ingresso.com nos valores financeiros da Sapucaí"
+    },
+    {
+      "value": "30 milhões de reais",
+      "context": "Investimento da Ingresso.com em eventos de parceiros em um ano"
+    },
+    {
+      "value": "300% ao mês",
+      "context": "Growth rate mentioned as unsustainable without financial stability."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Eventbrite",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Ingresso.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Paypal",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ingresso.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Meta",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Benarros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "North Ventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Openai",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Benarros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ingresso",
+      "target_type": "company"
+    },
+    {
+      "source": "Dgf",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Ingresso.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Netflix",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ingresso.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Benarros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ingresso.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Hsbc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Silicon Valley Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Benarros",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ingresso.Com",
+      "target_type": "company"
+    }
+  ]
+}

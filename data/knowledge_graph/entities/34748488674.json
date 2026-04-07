@@ -1,0 +1,288 @@
+{
+  "episode_id": "34748488674",
+  "title": "#003 - Cultura de Startup: como identificar boas lideranças e formar seu board",
+  "date_published": 1600275487,
+  "duration": 1873,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Denis Wang",
+      "role": "guest",
+      "company": "Gestão 4.0",
+      "title": "Mentor de Gestão 4.0"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "mentioned",
+      "company": "Gestão 4.0",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "mentioned",
+      "company": "Gestão 4.0",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Julian",
+      "role": "mentioned",
+      "company": "Singoo",
+      "title": "Advisor de M&A"
+    },
+    {
+      "name": "João Vitor",
+      "role": "guest",
+      "company": "Gestão 4.0",
+      "title": "CEO"
+    },
+    {
+      "name": "Denis",
+      "role": "mentioned",
+      "company": "S-Wing",
+      "title": "CEO"
+    },
+    {
+      "name": "Fernando",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação para negócios"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Mobilidade",
+      "context": "Startup co-fundada por Tallis Gomes"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Finanças",
+      "context": "Empresa onde Denis Wang foi VP de Operações"
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Investimentos",
+      "context": "Fundo que investiu na Easy Taxi"
+    },
+    {
+      "name": "West Wing",
+      "industry": "E-commerce",
+      "context": "Empresa onde Denis Wang trabalhou anteriormente"
+    },
+    {
+      "name": "Singoo",
+      "industry": "Beleza e Bem-estar",
+      "context": "Empresa mencionada por Tallis Gomes"
+    },
+    {
+      "name": "Gestão 4.0",
+      "industry": "Education",
+      "context": "Business education and consulting"
+    },
+    {
+      "name": "S-Wing",
+      "industry": "Startup",
+      "context": "Mentioned as a company where Denis worked"
+    },
+    {
+      "name": "Rocket",
+      "industry": "Startup",
+      "context": "Mentioned in relation to Denis's career"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão 4.0",
+      "category": "Educação e Gestão"
+    },
+    {
+      "name": "Customer Experience",
+      "category": "Gestão e Estratégia"
+    },
+    {
+      "name": "Board of Directors",
+      "category": "Governança Corporativa"
+    },
+    {
+      "name": "Equity",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "Diversidade",
+      "category": "Cultura Organizacional"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Planejamento tributário",
+      "category": "Finance"
+    },
+    {
+      "name": "Investment Banking (IB)",
+      "category": "Finance"
+    },
+    {
+      "name": "Bottom line",
+      "category": "Finance"
+    },
+    {
+      "name": "Top line",
+      "category": "Finance"
+    },
+    {
+      "name": "MEI",
+      "category": "business structure"
+    },
+    {
+      "name": "business case",
+      "category": "strategy"
+    },
+    {
+      "name": "business plan",
+      "category": "strategy"
+    },
+    {
+      "name": "canvas",
+      "category": "framework"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "23 anos",
+      "context": "Idade de Tallis Gomes ao fundar a Easy Taxi"
+    },
+    {
+      "value": "100 corridas por dia",
+      "context": "Volume inicial de operações da Easy Taxi no Rio de Janeiro"
+    },
+    {
+      "value": "8 dígitos",
+      "context": "Lucro mencionado no contexto de Gestão 4.0"
+    },
+    {
+      "value": "5, 10 mil reais por mês",
+      "context": "faturamento desejado para pequenos negócios"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Julian",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Singoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Business Plan",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mei",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Denis Wang",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Canvas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Planejamento Tributário",
+      "target_type": "concept"
+    },
+    {
+      "source": "Denis Wang",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "S-Wing",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "João Vitor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Denis Wang",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Denis Wang",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "West Wing",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Business Case",
+      "target_type": "concept"
+    }
+  ]
+}

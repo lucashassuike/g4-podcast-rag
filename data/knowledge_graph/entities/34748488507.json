@@ -1,0 +1,380 @@
+{
+  "episode_id": "34748488507",
+  "title": "O Caminho até o Faturamento Bilionário com Imóveis - Com Peixoto Accyoli | Extremos",
+  "date_published": 1700061840,
+  "duration": 5325,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Peixoto Accyoli",
+      "role": "guest",
+      "company": "Remax Brasil",
+      "title": "CEO"
+    },
+    {
+      "name": "Rodrigo Albuquerque",
+      "role": "mentioned",
+      "company": "DAX",
+      "title": "N/A"
+    },
+    {
+      "name": "Joaquim Pedro",
+      "role": "mentioned",
+      "company": "Gazeta de Alagoas",
+      "title": "Presidente"
+    },
+    {
+      "name": "Fernando Collor",
+      "role": "mentioned",
+      "company": "Gazeta de Alagoas",
+      "title": "Ex-Presidente"
+    },
+    {
+      "name": "Renato Teixeira",
+      "role": "mentioned",
+      "company": "Remax Brasil",
+      "title": "Presidente"
+    },
+    {
+      "name": "Rodrigo Cavalcante",
+      "role": "mentioned",
+      "company": "Veja",
+      "title": "Diretor de Redação"
+    },
+    {
+      "name": "Júlio Giron",
+      "role": "mentioned",
+      "company": "RBS",
+      "title": "Diretor Executivo"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Larry Oberle",
+      "role": "mentioned",
+      "company": "Remax Global",
+      "title": "VP Global"
+    },
+    {
+      "name": "Renato",
+      "role": "mentioned",
+      "company": "Remax Brasil",
+      "title": "Presidente"
+    },
+    {
+      "name": "Gabriel",
+      "role": "mentioned",
+      "company": "Quinto Andar",
+      "title": "CEO"
+    },
+    {
+      "name": "Sandra Canelas",
+      "role": "mentioned",
+      "company": "Remax",
+      "title": "Real Estate Agent"
+    },
+    {
+      "name": "Paloma",
+      "role": "mentioned",
+      "company": "Cirela",
+      "title": "Corretora"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Mentoria",
+      "context": "Plataforma de desenvolvimento de equipes e negócios"
+    },
+    {
+      "name": "Remax Brasil",
+      "industry": "Franquias Imobiliárias",
+      "context": "Empresa liderada por Peixoto Accyoli"
+    },
+    {
+      "name": "Gazeta De Alagoas",
+      "industry": "Comunicação",
+      "context": "Afiliada da TV Globo no estado de Alagoas"
+    },
+    {
+      "name": "Rbs",
+      "industry": "Comunicação",
+      "context": "Grupo de comunicação mencionado como origem de Júlio Giron"
+    },
+    {
+      "name": "Remax Global",
+      "industry": "Real Estate",
+      "context": "Mentioned as the global leader in real estate franchise"
+    },
+    {
+      "name": "Remax",
+      "industry": "Real Estate",
+      "context": "Discussed as a company implementing innovative commission structures and customer representation strategies."
+    },
+    {
+      "name": "Quinto Andar",
+      "industry": "Real Estate",
+      "context": "Discussed as a disruptive company in the Brazilian real estate market."
+    },
+    {
+      "name": "Loft",
+      "industry": "Real Estate",
+      "context": "Mentioned as a company impacting the real estate market."
+    },
+    {
+      "name": "Casa Mineira",
+      "industry": "Real Estate",
+      "context": "Acquired by Quinto Andar as part of its strategy to integrate with traditional real estate operations."
+    },
+    {
+      "name": "Cirela",
+      "industry": "Real Estate",
+      "context": "Mentioned as a company specializing in property launches"
+    },
+    {
+      "name": "G4 Club",
+      "industry": "Networking",
+      "context": "Mentioned as a community for business networking"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Disciplina",
+      "category": "Habilidade Pessoal"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Execução Consistente",
+      "category": "Prática de Negócios"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Educação e Desenvolvimento"
+    },
+    {
+      "name": "Franquias",
+      "category": "Modelo de Negócios"
+    },
+    {
+      "name": "Caminho de Santiago",
+      "category": "Experiência Pessoal"
+    },
+    {
+      "name": "Franchise Model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Planning and Execution",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Dashboard Management",
+      "category": "Data Analysis"
+    },
+    {
+      "name": "Strategic Planning",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Tropicalization",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Commission Structure",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Customer Representation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Market Analysis",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "National Association of Realtors (NAR) Research",
+      "category": "Industry Insight"
+    },
+    {
+      "name": "Regionalization",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "investment imobiliário",
+      "category": "Finance"
+    },
+    {
+      "name": "pré-lançamento",
+      "category": "Real Estate"
+    },
+    {
+      "name": "Traction",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Excelência para Obstinados",
+      "author": "Peixoto Accyoli"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "630 lojas",
+      "context": "Número de lojas da Remax Brasil"
+    },
+    {
+      "value": "26 dias",
+      "context": "Tempo para completar o Caminho de Santiago"
+    },
+    {
+      "value": "800 kilometers",
+      "context": "Distance walked by Peixoto Accyoli on the Camino de Santiago"
+    },
+    {
+      "value": "26 days",
+      "context": "Time taken by Peixoto Accyoli to complete the Camino de Santiago"
+    },
+    {
+      "value": "3,000 attendees",
+      "context": "Peixoto Accyoli's presentation at Connect Mobi."
+    },
+    {
+      "value": "6% commission",
+      "context": "Standard commission rate in real estate transactions."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Larry Oberle",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Remax Global",
+      "target_type": "company"
+    },
+    {
+      "source": "Sandra Canelas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Remax",
+      "target_type": "company"
+    },
+    {
+      "source": "Peixoto Accyoli",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Larry Oberle",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Remax Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Peixoto Accyoli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Remax Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Paloma",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cirela",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Collor",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Gazeta De Alagoas",
+      "target_type": "company"
+    },
+    {
+      "source": "Peixoto Accyoli",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Joaquim Pedro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gazeta De Alagoas",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Quinto Andar",
+      "target_type": "company"
+    },
+    {
+      "source": "Peixoto Accyoli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "G4 Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Peixoto Accyoli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Remax",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Teixeira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Remax Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Peixoto Accyoli",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Excelência Para Obstinados",
+      "target_type": "company"
+    },
+    {
+      "source": "Quinto Andar",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Casa Mineira",
+      "target_type": "company"
+    }
+  ]
+}

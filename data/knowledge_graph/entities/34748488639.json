@@ -1,0 +1,484 @@
+{
+  "episode_id": "34748488639",
+  "title": "João Adibe - Influência, Cultura e Vendas | Extremos",
+  "date_published": 1649259617,
+  "duration": 4373,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "João Adibe",
+      "role": "guest",
+      "company": "Cimed",
+      "title": "CEO"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Carla Dias",
+      "role": "mentioned",
+      "company": "Globo",
+      "title": "Atriz"
+    },
+    {
+      "name": "Laura Miller",
+      "role": "mentioned",
+      "company": "Altas Horas",
+      "title": "Sexóloga"
+    },
+    {
+      "name": "Patrick Novela",
+      "role": "mentioned",
+      "company": "Netflix",
+      "title": "Investidor"
+    },
+    {
+      "name": "Bruno Van Henck",
+      "role": "mentioned",
+      "company": "Cabelóis",
+      "title": "Patrocinador"
+    },
+    {
+      "name": "Thiago Guto",
+      "role": "mentioned",
+      "company": "Cabelóis",
+      "title": "Patrocinador"
+    },
+    {
+      "name": "Maurício Júnior",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Apresentador de TV"
+    },
+    {
+      "name": "Bruna",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gibi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Esther",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Farah",
+      "role": "mentioned",
+      "company": "",
+      "title": "Presidente da Federação Paulista de Futebol"
+    },
+    {
+      "name": "Neymar",
+      "role": "mentioned",
+      "company": "",
+      "title": "Jogador de Futebol"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts and mentors of the podcast"
+    },
+    {
+      "name": "Cimed",
+      "industry": "Pharmaceutical",
+      "context": "Guest João Adibe's company"
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entertainment",
+      "context": "Mentioned as a sponsor"
+    },
+    {
+      "name": "Cabelóis",
+      "industry": "Cosmetics",
+      "context": "Mentioned as a sponsor"
+    },
+    {
+      "name": "Globo",
+      "industry": "Media",
+      "context": "Carla Dias' employer"
+    },
+    {
+      "name": "Altas Horas",
+      "industry": "Media",
+      "context": "Laura Miller's associated program"
+    },
+    {
+      "name": "Empiricus",
+      "industry": "Financeiro e Investimentos",
+      "context": "Empresa mencionada em relação ao estilo de comunicação"
+    },
+    {
+      "name": "Cimédia",
+      "industry": "Pharmaceutical",
+      "context": "Discussed as a major player in the pharmaceutical industry and its cultural and operational practices."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marketing de influência",
+      "category": "Marketing"
+    },
+    {
+      "name": "Agilidade em marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Sell-out e sell-in",
+      "category": "Sales"
+    },
+    {
+      "name": "Market share",
+      "category": "Metrics"
+    },
+    {
+      "name": "Empreendedorismo",
+      "category": "Business"
+    },
+    {
+      "name": "Networking",
+      "category": "Negócios"
+    },
+    {
+      "name": "Digitalização",
+      "category": "Tecnologia e Negócios"
+    },
+    {
+      "name": "Old Money",
+      "category": "Socioeconômico"
+    },
+    {
+      "name": "Síndrome do Pobrezinho",
+      "category": "Negócios e Vendas"
+    },
+    {
+      "name": "Síndrome de Estocolmo",
+      "category": "psicologia"
+    },
+    {
+      "name": "Stop",
+      "category": "jogo"
+    },
+    {
+      "name": "Sequestro",
+      "category": "evento"
+    },
+    {
+      "name": "Família",
+      "category": "estrutura social"
+    },
+    {
+      "name": "Resgate",
+      "category": "transação"
+    },
+    {
+      "name": "Superação",
+      "category": "valor pessoal"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Engajamento em vendas",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Acessibilidade com rentabilidade",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "Verticalização",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Execução",
+      "category": "Prática empresarial"
+    },
+    {
+      "name": "Energia",
+      "category": "Motivação e cultura organizacional"
+    }
+  ],
+  "books": [
+    {
+      "title": "Livro de João Adibe",
+      "author": "João Adibe"
+    },
+    {
+      "title": "Livro de 50 anos",
+      "author": "João Adibe"
+    },
+    {
+      "title": "O Sangue Amarelo",
+      "author": "João Adibe"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "70%",
+      "context": "Market share do produto mencionado"
+    },
+    {
+      "value": "6 vezes",
+      "context": "Aumento nas vendas do produto após viralização"
+    },
+    {
+      "value": "90% dos funcionários são digitais",
+      "context": "Transformação digital na empresa de João Adibe"
+    },
+    {
+      "value": "25 capítulos e quase 300 páginas",
+      "context": "Estrutura do livro de João Adibe"
+    },
+    {
+      "value": "12 dias",
+      "context": "Duração do sequestro de João Adibe"
+    },
+    {
+      "value": "12 dias",
+      "context": "Duração do sequestro"
+    },
+    {
+      "value": "10 anos",
+      "context": "Tempo morando em Florianópolis"
+    },
+    {
+      "value": "1,200 vendedores",
+      "context": "Number of salespeople employed by Cimédia."
+    },
+    {
+      "value": "80% de engajamento",
+      "context": "Engagement rate in Cimédia's sales team during live sessions."
+    },
+    {
+      "value": "55 produtos",
+      "context": "Número de lançamentos de produtos no ano anterior pela Cimédia."
+    },
+    {
+      "value": "60 produtos",
+      "context": "Meta de lançamentos de produtos para o ano atual pela Cimédia."
+    },
+    {
+      "value": "500 milhões de unidades",
+      "context": "Escala de produção mencionada para os produtos da Cimédia."
+    },
+    {
+      "value": "600 SKUs",
+      "context": "Quantidade de SKUs atualmente disponíveis pela Cimédia."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Execução",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Superação",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimed",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Verticalização",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Energia",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Livro De 50 Anos",
+      "target_type": "company"
+    },
+    {
+      "source": "Carla Dias",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Sequestro",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Síndrome De Estocolmo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Stop",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Empreendedorismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Guto",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Cabelóis",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Van Henck",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Cabelóis",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Síndrome Do Pobrezinho",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Neymar",
+      "target_type": "person"
+    },
+    {
+      "source": "Laura Miller",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Altas Horas",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Acessibilidade Com Rentabilidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Digitalização",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "O Sangue Amarelo",
+      "target_type": "company"
+    },
+    {
+      "source": "João Adibe",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cimédia",
+      "target_type": "company"
+    },
+    {
+      "source": "Patrick Novela",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Netflix",
+      "target_type": "company"
+    }
+  ]
+}

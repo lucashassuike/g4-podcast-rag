@@ -1,0 +1,189 @@
+{
+  "episode_id": "34748488381",
+  "title": "COMO O RH PODE ALAVANCAR O CRESCIMENTO DA SUA EMPRESA E TE FAZER PERDER MENOS DINHEIRO - COM MÔNICA HAUCK (SÓLIDES) | G4 PODCASTS",
+  "date_published": 1729839600,
+  "duration": 1586,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Mônica Hauck",
+      "role": "guest",
+      "company": "Sólides",
+      "title": "CEO e fundadora"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Sólides",
+      "industry": "Tecnologia de RH",
+      "context": "Empresa fundada por Mônica Hauck focada em soluções para gestão de pessoas."
+    },
+    {
+      "name": "Rh Portal",
+      "industry": "Educação e Recursos Humanos",
+      "context": "Portal criado por Mônica Hauck para educação e interação em gestão de pessoas."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Organizadora do podcast."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Rotatividade de Colaboradores",
+      "category": "Métrica de RH"
+    },
+    {
+      "name": "Desenvolvimento de Talentos",
+      "category": "Estratégia de RH"
+    },
+    {
+      "name": "Recrutamento e Seleção",
+      "category": "Processo de RH"
+    },
+    {
+      "name": "Ninebox",
+      "category": "Metodologia de Gestão"
+    },
+    {
+      "name": "Gestão Comportamental",
+      "category": "Estratégia de Recursos Humanos"
+    },
+    {
+      "name": "Rotatividade de Funcionários",
+      "category": "Métrica de Recursos Humanos"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Estratégia de Negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "40%",
+      "context": "Média de rotatividade de colaboradores em pequenas e médias empresas no Brasil."
+    },
+    {
+      "value": "17%",
+      "context": "Média de rotatividade de colaboradores após uso do software da Sólides."
+    },
+    {
+      "value": "300,000 reais por ano",
+      "context": "Economia média anual para empresas com 30-40 funcionários usando as ferramentas da Sólides."
+    },
+    {
+      "value": "Mais de 100%",
+      "context": "Taxa inicial de rotatividade de funcionários em um cliente da Sólides."
+    },
+    {
+      "value": "Abaixo da média nacional",
+      "context": "Taxa de rotatividade alcançada após implementação de gestão comportamental."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gestão De Pessoas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rh Portal",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gestão De Pessoas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mônica Hauck",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Sólides",
+      "target_type": "company"
+    },
+    {
+      "source": "Ninebox",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Gestão Comportamental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sólides",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão De Pessoas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sólides",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Eficiência Operacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mônica Hauck",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rh Portal",
+      "target_type": "company"
+    },
+    {
+      "source": "Sólides",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rotatividade De Colaboradores",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sólides",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Gestão Comportamental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ninebox",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Gestão De Pessoas",
+      "target_type": "concept"
+    }
+  ]
+}

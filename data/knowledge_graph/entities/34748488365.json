@@ -1,0 +1,248 @@
+{
+  "episode_id": "34748488365",
+  "title": "COMO LEVAR SUA EMPRESA À BOLSA DE VALORES COM FABIO NAZARI (BTG PACTUAL) | G4 PODCASTS",
+  "date_published": 1733468400,
+  "duration": 2666,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Maria Isabel Antonini",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "CEO"
+    },
+    {
+      "name": "Fábio Nazari",
+      "role": "guest",
+      "company": "BTG Pactual",
+      "title": "Sócio Sênior e Global Head de Equity Capital Markets"
+    },
+    {
+      "name": "Guilherme",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fabio Nazari",
+      "role": "guest",
+      "company": "BTG Pactual",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Organizadora do evento Valley 2024 e anfitriã do podcast"
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Serviços Financeiros",
+      "context": "Empregador de Fábio Nazari e atuante no mercado de capitais"
+    },
+    {
+      "name": "Itaú",
+      "industry": "Serviços Financeiros",
+      "context": "Ex-empregador de Maria Isabel Antonini"
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Serviços Financeiros",
+      "context": "Competidor mencionado no contexto de expansão de agências"
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosméticos",
+      "context": "Exemplo de empresa preparada para IPO"
+    },
+    {
+      "name": "Localiza",
+      "industry": "Locação de Veículos",
+      "context": "Exemplo de empresa preparada para IPO"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Equity Capital Markets",
+      "category": "Mercado Financeiro"
+    },
+    {
+      "name": "IPO",
+      "category": "Mercado Financeiro"
+    },
+    {
+      "name": "Follow-on",
+      "category": "Mercado Financeiro"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Valuation",
+      "category": "Mercado Financeiro"
+    },
+    {
+      "name": "Private Equity",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Conselho de Administração",
+      "category": "Governança Corporativa"
+    },
+    {
+      "name": "Conselho Consultivo",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Scale",
+      "category": "Produto de Consultoria"
+    },
+    {
+      "name": "Board Meetings",
+      "category": "Estratégia de Networking"
+    },
+    {
+      "name": "Valor Médio ao Longo do Tempo",
+      "category": "Investimentos"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "300 agências abertas em um trimestre",
+      "context": "Expansão de agências pelo Itaú"
+    },
+    {
+      "value": "250 agências abertas em um trimestre",
+      "context": "Expansão de agências pelo Bradesco"
+    },
+    {
+      "value": "22 anos",
+      "context": "Tempo de experiência de Fábio Nazari no BTG Pactual"
+    },
+    {
+      "value": "10 mil pessoas",
+      "context": "Participantes presenciais no evento Valley 2024"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Maria Isabel Antonini",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabio Nazari",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Scale",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Board Meetings",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio Nazari",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Natura",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Localiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Maria Isabel Antonini",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Itaú",
+      "target_type": "company"
+    },
+    {
+      "source": "Itaú",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Bradesco",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "episode_id": "34748488487",
+  "title": "COMO LIDAR COM A DOR DO CRESCIMENTO - COM BETINA WECKER | PAPO DE GESTÃO",
+  "date_published": 1702803600,
+  "duration": 3338,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Betina Wecker",
+      "role": "guest",
+      "company": "AppMax",
+      "title": "Fundadora"
+    },
+    {
+      "name": "Marcos Wecker",
+      "role": "mentioned",
+      "company": "AppMax",
+      "title": ""
+    },
+    {
+      "name": "Marcos",
+      "role": "mentioned",
+      "company": "AppMax",
+      "title": "Technology Lead"
+    },
+    {
+      "name": "Guilherme",
+      "role": "mentioned",
+      "company": "AppMax",
+      "title": "Sales Lead"
+    },
+    {
+      "name": "Bruna",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gustavo",
+      "role": "mentioned",
+      "company": "AppMax",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Marcelo",
+      "role": "mentioned",
+      "company": "Shopify",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de treinamento de times e capacitação de habilidades."
+    },
+    {
+      "name": "Appmax",
+      "industry": "Soluções de Pagamento",
+      "context": "Empresa líder em soluções de pagamento fundada por Betina Wecker."
+    },
+    {
+      "name": "Maxchef",
+      "industry": "E-commerce",
+      "context": "E-commerce de utensílios para cozinha fundado por Betina Wecker e Marcos Wecker."
+    },
+    {
+      "name": "Supercop",
+      "industry": "Indústria",
+      "context": "Empresa mencionada em relação a histórias compartilhadas."
+    },
+    {
+      "name": "Vitex",
+      "industry": "Tecnologia para E-commerce",
+      "context": "Evento mencionado onde AppMax foi apresentada."
+    },
+    {
+      "name": "Clear Sale",
+      "industry": "Tecnologia de antifraude",
+      "context": "Solução de antifraude mencionada como utilizada em e-commerce."
+    },
+    {
+      "name": "Shopify",
+      "industry": "E-commerce",
+      "context": "Plataforma de e-commerce mencionada como parceira estratégica."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de treinamento"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Modelo de negócio"
+    },
+    {
+      "name": "Conversão de vendas",
+      "category": "Métrica de desempenho"
+    },
+    {
+      "name": "Antifraude",
+      "category": "Tecnologia de segurança"
+    },
+    {
+      "name": "Spin-off",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "business growth",
+      "category": "strategy"
+    },
+    {
+      "name": "team culture",
+      "category": "management"
+    },
+    {
+      "name": "investment in talent",
+      "category": "strategy"
+    },
+    {
+      "name": "entrepreneurship",
+      "category": "general"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Gestão"
+    },
+    {
+      "name": "Execução estratégica",
+      "category": "Gestão"
+    },
+    {
+      "name": "Bootstrapping",
+      "category": "Finanças"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "7 dias de acesso gratuito",
+      "context": "Período de teste para a plataforma G4 Skills."
+    },
+    {
+      "value": "60 mil reais",
+      "context": "Faturamento inicial do e-commerce MaxChef no primeiro mês."
+    },
+    {
+      "value": "1 milhão de pedidos",
+      "context": "Volume de pedidos realizados pelo e-commerce MaxChef até 2018."
+    },
+    {
+      "value": "200 milhões de reais",
+      "context": "Faturamento total do e-commerce MaxChef até 2018."
+    },
+    {
+      "value": "50 mil unidades",
+      "context": "Quantidade de uma única panela vendida pelo e-commerce MaxChef."
+    },
+    {
+      "value": "450",
+      "context": "Number of employees at AppMax"
+    },
+    {
+      "value": "450",
+      "context": "Número de funcionários mencionados na empresa."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Appmax",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Maxchef",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Appmax",
+      "target_type": "company"
+    },
+    {
+      "source": "Betina Wecker",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Appmax",
+      "target_type": "company"
+    },
+    {
+      "source": "Betina Wecker",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Appmax",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcos Wecker",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Maxchef",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Shopify",
+      "target_type": "company"
+    },
+    {
+      "source": "Betina Wecker",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Marcelo",
+      "target_type": "person"
+    },
+    {
+      "source": "Betina Wecker",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Maxchef",
+      "target_type": "company"
+    },
+    {
+      "source": "Appmax",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Clear Sale",
+      "target_type": "company"
+    },
+    {
+      "source": "Betina Wecker",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Marcos",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Appmax",
+      "target_type": "company"
+    },
+    {
+      "source": "Betina Wecker",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gustavo",
+      "target_type": "person"
+    },
+    {
+      "source": "Marcos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Appmax",
+      "target_type": "company"
+    }
+  ]
+}

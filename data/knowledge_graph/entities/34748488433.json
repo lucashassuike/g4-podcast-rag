@@ -1,0 +1,514 @@
+{
+  "episode_id": "34748488433",
+  "title": "COMO ACELERAR O CRESCIMENTO DO NEGÓCIO - COM DENNIS WANG | EXTREMOS",
+  "date_published": 1716971400,
+  "duration": 5712,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Dennis Wang",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Jack Ma",
+      "role": "mentioned",
+      "company": "Alibaba Group",
+      "title": "Fundador"
+    },
+    {
+      "name": "Joaquim",
+      "role": "mentioned",
+      "company": "Rally dos Sertões",
+      "title": "CEO"
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Fundador"
+    },
+    {
+      "name": "Carlos Ghosn",
+      "role": "mentioned",
+      "company": "Nissan",
+      "title": "Ex-CEO"
+    },
+    {
+      "name": "Felipe Siqueira",
+      "role": "mentioned",
+      "company": "Reserva",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Caio Poli",
+      "role": "mentioned",
+      "company": "Didi",
+      "title": "Diretor de Experiência do Cliente"
+    },
+    {
+      "name": "Thomas Duarte",
+      "role": "mentioned",
+      "company": "Track.co",
+      "title": "Cofundador e CEO"
+    },
+    {
+      "name": "Caio",
+      "role": "mentioned",
+      "company": "Alimear",
+      "title": "Coach"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Plataforma de educação e mentoria para empresas"
+    },
+    {
+      "name": "Easytaxi",
+      "industry": "Mobilidade Urbana",
+      "context": "Aplicativo de transporte"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Serviços Financeiros",
+      "context": "Fintech brasileira"
+    },
+    {
+      "name": "Abn Amro",
+      "industry": "Serviços Financeiros",
+      "context": "Banco internacional mencionado na experiência de Dennis Wang"
+    },
+    {
+      "name": "Fortis",
+      "industry": "Serviços Financeiros",
+      "context": "Comprador da Asset do ABN AMRO"
+    },
+    {
+      "name": "Atier",
+      "industry": "Arquitetura",
+      "context": "Escritório de arquitetura mencionado como cliente do G4 Educação"
+    },
+    {
+      "name": "Rally Dos Sertões",
+      "industry": "Esportes e Eventos",
+      "context": "Evento esportivo mencionado como cliente do G4 Educação"
+    },
+    {
+      "name": "West Wing",
+      "industry": "E-commerce",
+      "context": "Empresa mencionada na trajetória de Dennis Wang"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transporte",
+      "context": "Discussão sobre o papel de Dennis Wang como co-CEO e a estrutura da empresa."
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Investimentos e Startups",
+      "context": "Mencionada como contexto de onde Dennis Wang recebeu feedback sobre sua decisão de entrar na Easy Taxi."
+    },
+    {
+      "name": "Nissan",
+      "industry": "Automotivo",
+      "context": "Mencionada em relação à história de Carlos Ghosn."
+    },
+    {
+      "name": "Reserva",
+      "industry": "Moda",
+      "context": "Felipe Siqueira foi cofundador e a empresa adquiriu a Oficina"
+    },
+    {
+      "name": "Oficina",
+      "industry": "Moda",
+      "context": "Adquirida pela Reserva"
+    },
+    {
+      "name": "Didi",
+      "industry": "Tecnologia/Transporte",
+      "context": "Caio Poli é diretor de experiência do cliente"
+    },
+    {
+      "name": "Track.Co",
+      "industry": "Tecnologia",
+      "context": "Thomas Duarte é cofundador e CEO"
+    },
+    {
+      "name": "Alimear",
+      "industry": "Sports Coaching",
+      "context": "Mentioned as the coaching company for triathlon training."
+    },
+    {
+      "name": "Remessa",
+      "industry": "Finance",
+      "context": "Mentioned as part of the group involved in triathlon training."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Independência Financeira",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Experiência do Cliente",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Crescimento Exponencial",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Mentoria Empresarial",
+      "category": "Educação e Desenvolvimento"
+    },
+    {
+      "name": "MVP (Minimum Viable Product)",
+      "category": "Desenvolvimento de Produto"
+    },
+    {
+      "name": "Risco Retorno",
+      "category": "Estratégia Financeira"
+    },
+    {
+      "name": "Complementariedade de Habilidades",
+      "category": "Gestão de Equipes"
+    },
+    {
+      "name": "Estrutura de Co-CEO",
+      "category": "Governança Corporativa"
+    },
+    {
+      "name": "Onboarding de Executivos",
+      "category": "Gestão de Talentos"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Gestão e Operações"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Desenvolvimento de Produto",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "PDCA",
+      "category": "Framework de Gestão"
+    },
+    {
+      "name": "NPS",
+      "category": "Métrica de Satisfação do Cliente"
+    },
+    {
+      "name": "Síndrome do Impostor",
+      "category": "Psicologia Organizacional"
+    },
+    {
+      "name": "Curva de Aprendizado",
+      "category": "Conceito de Desenvolvimento"
+    },
+    {
+      "name": "Humildade Intelectual",
+      "category": "Conceito de Liderança"
+    },
+    {
+      "name": "Triathlon",
+      "category": "Sports"
+    },
+    {
+      "name": "Efficiency",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Financial Independence",
+      "category": "Personal Finance"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Psicologia do Dinheiro",
+      "author": "Morgan Housel"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "Mais de 100 pessoas",
+      "context": "Número de participantes esperados no Rally dos Sertões de Kitesurf"
+    },
+    {
+      "value": "365 dias",
+      "context": "Tempo que um banco funciona sem falhas antes de um dia de interrupção."
+    },
+    {
+      "value": "30 países",
+      "context": "Expansão da Easy Taxi em menos de dois anos"
+    },
+    {
+      "value": "2 milhões para 20 milhões de clientes",
+      "context": "Crescimento de clientes do Nubank durante a gestão de Dennis Wang"
+    },
+    {
+      "value": "6 hours and 3 minutes",
+      "context": "Time taken by Dennis Wang to complete the triathlon."
+    },
+    {
+      "value": "8 kilograms",
+      "context": "Weight lost by Dennis Wang during his triathlon training."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Onboarding De Executivos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Financial Independence",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "West Wing",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Atier",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Siqueira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Reserva",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thomas Duarte",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Track.Co",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Psicologia Do Dinheiro",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Remessa",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rocket Internet",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estrutura De Co-Ceo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fortis",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Complementariedade De Habilidades",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Thomas Duarte",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Track.Co",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Siqueira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Oficina",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easytaxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Caio",
+      "target_type": "person"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rally Dos Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Experiência Do Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Eficiência Operacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jack Ma",
+      "target_type": "person"
+    },
+    {
+      "source": "Carlos Ghosn",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nissan",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio Poli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Didi",
+      "target_type": "company"
+    },
+    {
+      "source": "Caio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Alimear",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Abn Amro",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Triathlon",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Efficiency",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    }
+  ]
+}

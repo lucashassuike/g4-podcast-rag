@@ -1,0 +1,438 @@
+{
+  "episode_id": "34748488425",
+  "title": "COMO UNIR INOVAÇÃO E GESTÃO NA ÁREA DA SAÚDE - COM CEO DA LIVANCE, CLAUDIO MIFANO | PAPO DE GESTÃO",
+  "date_published": 1718613000,
+  "duration": 4714,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Claudio Mifano",
+      "role": "guest",
+      "company": "Livance",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Evan Spiegel",
+      "role": "mentioned",
+      "company": "Snapchat",
+      "title": "Founder"
+    },
+    {
+      "name": "Brian Chesky",
+      "role": "mentioned",
+      "company": "Airbnb",
+      "title": "Founder"
+    },
+    {
+      "name": "Jeffrey Boyd",
+      "role": "mentioned",
+      "company": "Booking.com",
+      "title": "Founder"
+    },
+    {
+      "name": "Adam Grant",
+      "role": "mentioned",
+      "company": "",
+      "title": "Organizational Design Expert"
+    },
+    {
+      "name": "Fábio",
+      "role": "mentioned",
+      "company": "",
+      "title": "Médico"
+    },
+    {
+      "name": "Pedro Sorrentino",
+      "role": "mentioned",
+      "company": "Atman Capital",
+      "title": "Venture Capitalist"
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Livance",
+      "industry": "Healthcare",
+      "context": "Company co-founded by Claudio Mifano focusing on solving challenges in the healthcare sector."
+    },
+    {
+      "name": "Snapchat",
+      "industry": "Technology",
+      "context": "Mentioned as an example of a startup founded by a Stanford student."
+    },
+    {
+      "name": "Airbnb",
+      "industry": "Hospitality",
+      "context": "Discussed in a case study at Stanford."
+    },
+    {
+      "name": "Booking.Com",
+      "industry": "Travel",
+      "context": "Mentioned as an example of a successful company."
+    },
+    {
+      "name": "Claritas",
+      "industry": "Finance",
+      "context": "Previous workplace of Claudio Mifano."
+    },
+    {
+      "name": "Twilio",
+      "industry": "Tecnologia",
+      "context": "Fornece serviços de comunicação para a Livance"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa que fornece frameworks e treinamentos de gestão."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Mentioned as an example of a successful company."
+    },
+    {
+      "name": "Atman Capital",
+      "industry": "Venture Capital",
+      "context": "Pedro Sorrentino works here and is involved in venture capital in the US."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce and Technology",
+      "context": "Jeff Bezos is associated with this company."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Venture Capital",
+      "category": "Finance"
+    },
+    {
+      "name": "Startup Garage",
+      "category": "Education"
+    },
+    {
+      "name": "MVP (Minimum Viable Product)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Burnout",
+      "category": "Workplace Health"
+    },
+    {
+      "name": "Break-even Point",
+      "category": "Finance"
+    },
+    {
+      "name": "Planning Personal Finances",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Lifestyle Business",
+      "category": "Business Model"
+    },
+    {
+      "name": "Complementary Skills in Partnerships",
+      "category": "Team Dynamics"
+    },
+    {
+      "name": "Market Analysis",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Modelo de assinatura",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Design centrado no paciente",
+      "category": "Estratégia de design"
+    },
+    {
+      "name": "Co-working para médicos",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Empreendedorismo médico",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Perfis de empreendedor",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Break-even",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Business Model"
+    },
+    {
+      "name": "Health Tech",
+      "category": "Industry"
+    },
+    {
+      "name": "Customer Experience Design",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Technology Integration",
+      "category": "Operational Strategy"
+    },
+    {
+      "name": "Customer Experience (CX)",
+      "category": "Gestão"
+    },
+    {
+      "name": "Pirâmide de Mensuração de CX",
+      "category": "Framework"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métrica"
+    },
+    {
+      "name": "E-NPS (Employee Net Promoter Score)",
+      "category": "Métrica"
+    },
+    {
+      "name": "Networking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Business"
+    },
+    {
+      "name": "Owners and President Management (OPM)",
+      "category": "Education"
+    },
+    {
+      "name": "Inside Sales",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Business Plan",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Startup",
+      "category": "Business Model"
+    },
+    {
+      "name": "Decision Making with Incomplete Information",
+      "category": "Management Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "60%",
+      "context": "Percentage of Brazilian doctors who do not recommend their children to pursue a medical career."
+    },
+    {
+      "value": "40%",
+      "context": "Percentage of startups failing due to lack of market demand"
+    },
+    {
+      "value": "17 unidades",
+      "context": "Número de unidades da Livance"
+    },
+    {
+      "value": "7 mil médicos",
+      "context": "Número de médicos associados à Livance"
+    },
+    {
+      "value": "1 milhão de consultas acumuladas",
+      "context": "Consultas realizadas através da Livance"
+    },
+    {
+      "value": "1 milhão de consultas acumuladas",
+      "context": "Total number of consultations facilitated by Livance."
+    },
+    {
+      "value": "Mais de 7 mil profissionais",
+      "context": "Number of healthcare professionals associated with Livance."
+    },
+    {
+      "value": "1.200 health techs criadas nos últimos 10 anos",
+      "context": "Number of health tech startups created in Brazil in the last decade."
+    },
+    {
+      "value": "32 health techs alcançaram série A",
+      "context": "Number of health tech startups in Brazil that reached Series A funding."
+    },
+    {
+      "value": "15 health techs alcançaram série B",
+      "context": "Number of health tech startups in Brazil that reached Series B funding."
+    },
+    {
+      "value": "6 anos",
+      "context": "Tempo de operação da Livance."
+    },
+    {
+      "value": "7 mil médicos",
+      "context": "Número de médicos associados à Livance."
+    },
+    {
+      "value": "17 unidades",
+      "context": "Número de unidades operacionais da Livance."
+    },
+    {
+      "value": "10,000 to 30,000 medical graduates per year",
+      "context": "Growth in the number of medical graduates in Brazil over the past decade."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Pedro Sorrentino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Atman Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jeffrey Boyd",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Booking.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Claudio Mifano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Livance",
+      "target_type": "company"
+    },
+    {
+      "source": "Brian Chesky",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Airbnb",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Adam Grant",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Complementary Skills In Partnerships",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Claudio Mifano",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Livance",
+      "target_type": "company"
+    },
+    {
+      "source": "Livance",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Saúde",
+      "target_type": "company"
+    },
+    {
+      "source": "Livance",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Twilio",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Pirâmide De Mensuração De Cx",
+      "target_type": "concept"
+    },
+    {
+      "source": "Evan Spiegel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Snapchat",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Livance",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Amazon",
+      "target_type": "company"
+    }
+  ]
+}

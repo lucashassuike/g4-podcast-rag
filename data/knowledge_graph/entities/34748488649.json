@@ -1,0 +1,235 @@
+{
+  "episode_id": "34748488649",
+  "title": "#029 - Sucessão: o incrível case da Transpes com Tarsia Gonzalez",
+  "date_published": 1632904209,
+  "duration": 3237,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Tássia Gonzalez",
+      "role": "guest",
+      "company": "Transpes",
+      "title": "Executiva"
+    },
+    {
+      "name": "Tarsia Gonzalez",
+      "role": "guest",
+      "company": "Transpes",
+      "title": "Conselheira"
+    },
+    {
+      "name": "Max Geren",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Afonso",
+      "role": "mentioned",
+      "company": "Transpes",
+      "title": "Gestor"
+    },
+    {
+      "name": "Sandro",
+      "role": "mentioned",
+      "company": "Transpes",
+      "title": "Gestor"
+    },
+    {
+      "name": "Russo",
+      "role": "mentioned",
+      "company": "Inova BH",
+      "title": "Gestor"
+    },
+    {
+      "name": "Alfonso",
+      "role": "mentioned",
+      "company": "Transpes",
+      "title": ""
+    },
+    {
+      "name": "Augusto Cury",
+      "role": "mentioned",
+      "company": "",
+      "title": "Mentor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Mentoria Empresarial",
+      "context": "Plataforma de educação e mentoria para negócios."
+    },
+    {
+      "name": "Transpes",
+      "industry": "Logística e Transporte",
+      "context": "Empresa familiar transformada em referência no setor."
+    },
+    {
+      "name": "Saúde Bh",
+      "industry": "Saúde",
+      "context": "Parte do grupo empresarial mencionado por Tarsia Gonzalez."
+    },
+    {
+      "name": "Inova Bh",
+      "industry": "Educação e Saúde",
+      "context": "Parte do grupo empresarial mencionado por Tarsia Gonzalez."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão 4.0",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "ISO 9000",
+      "category": "Certificação de Qualidade"
+    },
+    {
+      "name": "Gestão humanizada",
+      "category": "Estratégia de gestão"
+    },
+    {
+      "name": "Empresa familiar",
+      "category": "Modelo de negócio"
+    },
+    {
+      "name": "Sucessão em empresas familiares",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Políticas públicas e privadas",
+      "category": "Governança"
+    },
+    {
+      "name": "Liderança",
+      "category": "Gestão"
+    },
+    {
+      "name": "Ética empresarial",
+      "category": "Valores organizacionais"
+    },
+    {
+      "name": "Gestão da emoção",
+      "category": "Leadership"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Professional Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "Apaixonados pelo Brasil, onde estão?",
+      "author": "Tarsia Gonzalez"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "5 mil entrevistas",
+      "context": "Número de entrevistas realizadas por Tássia Gonzalez."
+    },
+    {
+      "value": "ISO 9000 nos anos 80",
+      "context": "Certificação de qualidade obtida pela Transpes como pioneira em Minas Gerais e terceira no Brasil."
+    },
+    {
+      "value": "5 mil funcionários",
+      "context": "Número de funcionários na Transpes durante seu auge."
+    },
+    {
+      "value": "Turnover zero",
+      "context": "Indicador de retenção de funcionários na Transpes."
+    },
+    {
+      "value": "52 escolas",
+      "context": "Projetos educacionais da Inova BH"
+    },
+    {
+      "value": "25 mil crianças",
+      "context": "Impacto dos projetos da Inova BH"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Transpes",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Iso 9000",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tarsia Gonzalez",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Saúde Bh",
+      "target_type": "company"
+    },
+    {
+      "source": "Gestão Da Emoção",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Apaixonados Pelo Brasil, Onde Estão?",
+      "target_type": "company"
+    },
+    {
+      "source": "Tarsia Gonzalez",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Inova Bh",
+      "target_type": "company"
+    },
+    {
+      "source": "Tarsia Gonzalez",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Transpes",
+      "target_type": "company"
+    },
+    {
+      "source": "Tarsia Gonzalez",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Augusto Cury",
+      "target_type": "person"
+    },
+    {
+      "source": "Tássia Gonzalez",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Transpes",
+      "target_type": "company"
+    },
+    {
+      "source": "Russo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Inova Bh",
+      "target_type": "company"
+    },
+    {
+      "source": "Tarsia Gonzalez",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Apaixonados Pelo Brasil, Onde Estão?",
+      "target_type": "company"
+    }
+  ]
+}

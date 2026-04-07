@@ -1,0 +1,322 @@
+{
+  "episode_id": "45793755711",
+  "title": "DOUGLAS VIEGAS - JOGADOR DE BASQUETE E DEPUTADO FEDERAL",
+  "date_published": 1764169200,
+  "duration": 4919,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Douglas Viegas",
+      "role": "guest",
+      "company": "Câmara dos Deputados",
+      "title": "Deputado Federal"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Mayra",
+      "role": "mentioned",
+      "company": "",
+      "title": "Primeira Dama"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Paulo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ailton",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Michael Jordan",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta de Basquete"
+    },
+    {
+      "name": "Kobe Bryant",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta de Basquete"
+    },
+    {
+      "name": "Lebron James",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta de Basquete"
+    },
+    {
+      "name": "Stephen Curry",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta de Basquete"
+    },
+    {
+      "name": "Kevin Durant",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta de Basquete"
+    },
+    {
+      "name": "Carmelo Anthony",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta de Basquete"
+    },
+    {
+      "name": "Flavinho Feriado",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Câmara Dos Deputados",
+      "industry": "Política",
+      "context": "Douglas Viegas atua como deputado federal."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Discussão sobre empreendedorismo e impacto"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Polarização política",
+      "category": "Fenômeno social"
+    },
+    {
+      "name": "Espiritualidade",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Comportamento humano",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Esporte",
+      "category": "Setor de atuação"
+    },
+    {
+      "name": "Autocuidado",
+      "category": "Pessoal e Filosofia"
+    },
+    {
+      "name": "Altruísmo",
+      "category": "Pessoal e Filosofia"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Pessoal e Filosofia"
+    },
+    {
+      "name": "Consistência",
+      "category": "Pessoal e Filosofia"
+    },
+    {
+      "name": "Legado",
+      "category": "Conceito de Propósito"
+    },
+    {
+      "name": "Responsabilidade Social",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Excelência",
+      "category": "Conceito de Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Esporte Coletivo",
+      "category": "Conceito de Esporte"
+    },
+    {
+      "name": "Basquete",
+      "category": "Esporte"
+    },
+    {
+      "name": "Propósito",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Multiplicar os talentos",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Excelência máxima",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Transbordo do sucesso",
+      "category": "Conceito de Negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bíblia",
+      "author": "Diversos"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "2019",
+      "context": "Ano em que Douglas Viegas começou a ler a Bíblia"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Esporte",
+      "target_type": "concept"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Lebron James",
+      "target_type": "person"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Comportamento Humano",
+      "target_type": "concept"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autocuidado",
+      "target_type": "concept"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Michael Jordan",
+      "target_type": "person"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alfredo Soares",
+      "target_type": "person"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Altruísmo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lebron James",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Michael Jordan",
+      "target_type": "person"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Consistência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Disciplina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Polarização Política",
+      "target_type": "concept"
+    },
+    {
+      "source": "Michael Jordan",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Kobe Bryant",
+      "target_type": "person"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Bíblia",
+      "target_type": "company"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Espiritualidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Câmara Dos Deputados",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Douglas Viegas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Kobe Bryant",
+      "target_type": "person"
+    }
+  ]
+}

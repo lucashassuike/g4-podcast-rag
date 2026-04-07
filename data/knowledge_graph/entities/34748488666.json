@@ -1,0 +1,439 @@
+{
+  "episode_id": "34748488666",
+  "title": "#012- Minha jornada empreendedora: uma conversa com Camarotti da Forbes Brasil",
+  "date_published": 1605720905,
+  "duration": 3289,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Camarotti",
+      "role": "guest",
+      "company": "Forbes Brasil",
+      "title": "Representante"
+    },
+    {
+      "name": "Dave Mcclure",
+      "role": "mentioned",
+      "company": "500 Startups",
+      "title": "Fundador"
+    },
+    {
+      "name": "Júlio Vasconcelos",
+      "role": "mentioned",
+      "company": "Peixe Urbano",
+      "title": "Fundador"
+    },
+    {
+      "name": "Amuri",
+      "role": "mentioned",
+      "company": "ABS",
+      "title": "Presidente"
+    },
+    {
+      "name": "Cris Junqueira",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Co-fundadora"
+    },
+    {
+      "name": "Davi Vélez",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Denis",
+      "role": "mentioned",
+      "company": "Easy Taxi",
+      "title": "Co-CEO"
+    },
+    {
+      "name": "Thales Gomes",
+      "role": "host",
+      "company": "Singoo",
+      "title": "CEO"
+    },
+    {
+      "name": "Janaína Antoniele",
+      "role": "mentioned",
+      "company": "Singoo",
+      "title": "Cabeleireira"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Jorge Forbes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Analista"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação para negócios"
+    },
+    {
+      "name": "Unilever",
+      "industry": "Bens de consumo",
+      "context": "Emprego anterior de Tallis Gomes"
+    },
+    {
+      "name": "Ortobon",
+      "industry": "Colchões",
+      "context": "Empresa onde Tallis Gomes trabalhou"
+    },
+    {
+      "name": "Tech Samurai",
+      "industry": "Tecnologia",
+      "context": "Empresa de software fundada por Tallis Gomes"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Tecnologia/Transporte",
+      "context": "Startup fundada por Tallis Gomes"
+    },
+    {
+      "name": "500 Startups",
+      "industry": "Investimentos",
+      "context": "Aceleradora mencionada no contexto do Startup Weekend"
+    },
+    {
+      "name": "Peixe Urbano",
+      "industry": "Tecnologia/Compras coletivas",
+      "context": "Empresa mencionada como referência de mercado"
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Investimentos",
+      "context": "Investidora da Easy Taxi"
+    },
+    {
+      "name": "Cabify",
+      "industry": "Mobilidade",
+      "context": "Adquirente da Easy Taxi"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Finanças",
+      "context": "Exemplo de cultura organizacional mencionada"
+    },
+    {
+      "name": "Singoo",
+      "industry": "Beleza e Tecnologia",
+      "context": "Empresa fundada por Tallis Gomes"
+    },
+    {
+      "name": "Gestão 4.0",
+      "industry": "Education",
+      "context": "Plataforma de educação focada em gestão empresarial"
+    },
+    {
+      "name": "Monte Bravo",
+      "industry": "Financial Services",
+      "context": "Corretora afiliada à XP Inc."
+    },
+    {
+      "name": "Fala Criativa",
+      "industry": "Public Relations",
+      "context": "Agência de comunicação e PR"
+    },
+    {
+      "name": "Xp Inc.",
+      "industry": "Financial Services",
+      "context": "Empresa de investimentos"
+    },
+    {
+      "name": "Forbes Brasil",
+      "industry": "Mídia e Publicações",
+      "context": "Empresa representada pelo convidado Camarotti."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Bancário",
+      "context": "Mencionado como exemplo de experiência profissional relevante para CTOs."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Startup Weekend",
+      "category": "Evento de empreendedorismo"
+    },
+    {
+      "name": "Lei de Moore",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Kager",
+      "category": "Métrica de crescimento"
+    },
+    {
+      "name": "All-in",
+      "category": "Estratégia de risco"
+    },
+    {
+      "name": "Diluição de Equity",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Protocolo de Biossegurança",
+      "category": "Operações"
+    },
+    {
+      "name": "biossegurança",
+      "category": "Health and Safety"
+    },
+    {
+      "name": "expansão internacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "educação técnica",
+      "category": "Education"
+    },
+    {
+      "name": "framework de sociedade",
+      "category": "Business Framework"
+    },
+    {
+      "name": "resiliência",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Contrato de Vesting",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Stock Option",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "LinkedIn Pro",
+      "category": "Ferramenta de Recrutamento"
+    },
+    {
+      "name": "Zona de Conforto",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Hustling",
+      "category": "Mentalidade Empreendedora"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "4%",
+      "context": "Penetração de smartphones no Brasil em 2011"
+    },
+    {
+      "value": "500,000",
+      "context": "Faturamento mensal do e-commerce desenvolvido por Tallis Gomes"
+    },
+    {
+      "value": "15,000 a 20,000",
+      "context": "Dividendos mensais recebidos por Tallis Gomes aos 21-22 anos"
+    },
+    {
+      "value": "35 países",
+      "context": "Expansão da Easy Taxi"
+    },
+    {
+      "value": "420 escritórios",
+      "context": "Operações globais da Easy Taxi"
+    },
+    {
+      "value": "85 milhões de dólares",
+      "context": "Investimento levantado pela Easy Taxi"
+    },
+    {
+      "value": "10 milhões de reais",
+      "context": "Investimento Series A da Rocket Internet na Easy Taxi"
+    },
+    {
+      "value": "1 bilhão de reais",
+      "context": "Valuation da Easy Taxi no auge"
+    },
+    {
+      "value": "8 bilhões",
+      "context": "Carteira de investimentos gerida pela Monte Bravo"
+    },
+    {
+      "value": "100 toneladas",
+      "context": "Alimentos arrecadados em campanha de lives"
+    },
+    {
+      "value": "300 metros a 1.100 metros em uma semana",
+      "context": "Progresso pessoal de Tallis Gomes na natação."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Davi Vélez",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Jorge Forbes",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Cabify",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Cris Junqueira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Camarotti",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Forbes Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Dave Mcclure",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "500 Startups",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Monte Bravo",
+      "source_type": "company",
+      "relation": "affiliated_with",
+      "target": "Xp Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio Vasconcelos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Peixe Urbano",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tech Samurai",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Monte Bravo",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Fala Criativa",
+      "target_type": "company"
+    },
+    {
+      "source": "Amuri",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Abs",
+      "target_type": "company"
+    }
+  ]
+}

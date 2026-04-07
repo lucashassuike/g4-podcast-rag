@@ -1,0 +1,158 @@
+{
+  "episode_id": "41815195208",
+  "title": "[CORTE] \"A GENTE NÃO QUER FAZER DINHEIRO POR DINHEIRO\" REVELA RODRIGO CARVALHO",
+  "date_published": 1756242000,
+  "duration": 621,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Rodrigo Carvalho",
+      "role": "guest",
+      "company": "Positive Company",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "Três Corações",
+      "title": "CEO"
+    },
+    {
+      "name": "Paulo",
+      "role": "mentioned",
+      "company": "Três Corações",
+      "title": "Executive"
+    },
+    {
+      "name": "Vicente",
+      "role": "mentioned",
+      "company": "Três Corações",
+      "title": "Executive"
+    },
+    {
+      "name": "Furla",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Executive"
+    },
+    {
+      "name": "Mesquita",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Executive"
+    },
+    {
+      "name": "Bruno Constantino",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Executive"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Positive Company",
+      "industry": "Food and Beverage",
+      "context": "Joint venture between Rodrigo Carvalho's family and Três Corações."
+    },
+    {
+      "name": "Três Corações",
+      "industry": "Food and Beverage",
+      "context": "Partnered with Positive Company for distribution and logistics."
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Financial Services",
+      "context": "Provided M&A advisory to Positive Company."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Joint Business Plan (JBP)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Trade Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Joint Venture",
+      "category": "Business Structure"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "50% ownership",
+      "context": "Três Corações acquired 50% of Positive Company."
+    },
+    {
+      "value": "February 2020",
+      "context": "Contract signing date for the joint venture between Positive Company and Três Corações."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Pedro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Três Corações",
+      "target_type": "company"
+    },
+    {
+      "source": "Três Corações",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Positive Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Vicente",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Três Corações",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Carvalho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Positive Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "provided_services_to",
+      "target": "Positive Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Constantino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Três Corações",
+      "target_type": "company"
+    },
+    {
+      "source": "Mesquita",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Furla",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    }
+  ]
+}

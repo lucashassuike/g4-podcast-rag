@@ -1,0 +1,830 @@
+{
+  "episode_id": "34748488463",
+  "title": "EIKE: PODER, NEGÓCIOS E CONTROVÉRSIAS | Vox Luminis Podcast",
+  "date_published": 1708969800,
+  "duration": 12718,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Matheus Montenegro",
+      "role": "host",
+      "company": "Pingback",
+      "title": "Fundador"
+    },
+    {
+      "name": "Eike Batista",
+      "role": "guest",
+      "company": "EBX Group",
+      "title": "Empresário"
+    },
+    {
+      "name": "João Figueiredo",
+      "role": "mentioned",
+      "company": "Governo Brasileiro",
+      "title": "Presidente do Brasil"
+    },
+    {
+      "name": "Barão De Mauá",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla",
+      "title": "CEO"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-presidente dos EUA"
+    },
+    {
+      "name": "Amber Heard",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atriz"
+    },
+    {
+      "name": "Johnny Depp",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ator"
+    },
+    {
+      "name": "Sheikh Mansoor",
+      "role": "mentioned",
+      "company": "",
+      "title": "Proprietário de iate"
+    },
+    {
+      "name": "Eduardo Paes",
+      "role": "mentioned",
+      "company": "Prefeitura do Rio de Janeiro",
+      "title": "Prefeito"
+    },
+    {
+      "name": "Edu Lyra",
+      "role": "mentioned",
+      "company": "Gerando Falcões",
+      "title": "Fundador"
+    },
+    {
+      "name": "Edu Lira",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dilma Rousseff",
+      "role": "mentioned",
+      "company": "",
+      "title": "Former President of Brazil"
+    },
+    {
+      "name": "Ayrton Batista",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rosa Célia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Doctor"
+    },
+    {
+      "name": "Sérgio Cabral",
+      "role": "mentioned",
+      "company": "",
+      "title": "Former Governor of Rio de Janeiro"
+    },
+    {
+      "name": "Marcelo Bretas",
+      "role": "mentioned",
+      "company": "",
+      "title": "Judge"
+    },
+    {
+      "name": "Flávia Batista",
+      "role": "mentioned",
+      "company": "",
+      "title": "Spouse"
+    },
+    {
+      "name": "Thor Batista",
+      "role": "mentioned",
+      "company": "",
+      "title": "Son"
+    },
+    {
+      "name": "Balder Batista",
+      "role": "mentioned",
+      "company": "",
+      "title": "Son"
+    },
+    {
+      "name": "Tayra Batista",
+      "role": "mentioned",
+      "company": "",
+      "title": "Daughter"
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Founder"
+    },
+    {
+      "name": "Nikola Tesla",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mati",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Taylor Swift",
+      "role": "mentioned",
+      "company": "",
+      "title": "Singer"
+    },
+    {
+      "name": "Michael Jordan",
+      "role": "mentioned",
+      "company": "Nike",
+      "title": "Athlete"
+    },
+    {
+      "name": "Mark Wahlberg",
+      "role": "mentioned",
+      "company": "Municipal",
+      "title": "Actor"
+    },
+    {
+      "name": "Beyoncé",
+      "role": "mentioned",
+      "company": "",
+      "title": "Singer"
+    },
+    {
+      "name": "Mr. Beast",
+      "role": "mentioned",
+      "company": "Feastables",
+      "title": "YouTuber"
+    },
+    {
+      "name": "Boca Rosa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influencer"
+    },
+    {
+      "name": "Virgínia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influencer"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Vale S.A.",
+      "industry": "Mineração",
+      "context": "Empresa transformada pelo pai de Eike Batista em uma grande companhia nacional"
+    },
+    {
+      "name": "Petrobras",
+      "industry": "Energia",
+      "context": "Exemplo de empresa com ativos monopolísticos únicos no Brasil"
+    },
+    {
+      "name": "Pingback",
+      "industry": "Tecnologia",
+      "context": "Empresa fundada por Matheus Montenegro"
+    },
+    {
+      "name": "Ebx Group",
+      "industry": "Diversos",
+      "context": "Conglomerado fundado por Eike Batista"
+    },
+    {
+      "name": "Cmp",
+      "industry": "Mining",
+      "context": "Mentioned as a mining company associated with Novo Astro mine."
+    },
+    {
+      "name": "Vale",
+      "industry": "Mining",
+      "context": "Mentioned in the context of executive salaries."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotivo",
+      "context": "Produção de carros elétricos e inovação tecnológica"
+    },
+    {
+      "name": "Vale Do Rio Doce",
+      "industry": "Mineração",
+      "context": "Monopólio percebido no setor de mineração no Brasil"
+    },
+    {
+      "name": "Mmx",
+      "industry": "Mineração",
+      "context": "Desafio ao monopólio da Vale do Rio Doce"
+    },
+    {
+      "name": "Ogx",
+      "industry": "Petróleo e Gás",
+      "context": "Empresa fundada por Eike Batista"
+    },
+    {
+      "name": "Gerando Falcões",
+      "industry": "Filantropia",
+      "context": "Projeto social apoiado por Tallis Gomes"
+    },
+    {
+      "name": "Nvidia",
+      "industry": "Technology",
+      "context": "Valuation of 1.8 trillion dollars"
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Mentioned as a major American company"
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Mentioned as a major American company"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Mentioned as a major American company"
+    },
+    {
+      "name": "Amazon",
+      "industry": "Technology",
+      "context": "Mentioned as a major American company"
+    },
+    {
+      "name": "Siemens",
+      "industry": "Industrial Manufacturing",
+      "context": "Discussed in the context of industrial collaboration"
+    },
+    {
+      "name": "Caterpillar",
+      "industry": "Industrial Manufacturing",
+      "context": "Discussed in the context of industrial collaboration"
+    },
+    {
+      "name": "Alpargatas",
+      "industry": "Footwear",
+      "context": "Reported a billion-dollar loss in sandals"
+    },
+    {
+      "name": "Nike",
+      "industry": "Footwear",
+      "context": "Associated with Michael Jordan's endorsement"
+    },
+    {
+      "name": "Municipal",
+      "industry": "Sportswear",
+      "context": "Founded by Mark Wahlberg"
+    },
+    {
+      "name": "Hershey'S",
+      "industry": "Food",
+      "context": "Referenced as a benchmark in chocolate quality"
+    },
+    {
+      "name": "Feastables",
+      "industry": "Food",
+      "context": "Owned by Mr. Beast"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Logística",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Investimento Estrangeiro",
+      "category": "Economia"
+    },
+    {
+      "name": "Margem Operacional",
+      "category": "Finanças"
+    },
+    {
+      "name": "Ativos Monopolísticos",
+      "category": "Economia"
+    },
+    {
+      "name": "Risk-taking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Efficiency",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Biomass energy",
+      "category": "Energy"
+    },
+    {
+      "name": "Pre-salt oil fields",
+      "category": "Energy"
+    },
+    {
+      "name": "Capitalization",
+      "category": "Finance"
+    },
+    {
+      "name": "Agenda 2030",
+      "category": "Política energética"
+    },
+    {
+      "name": "Carros elétricos",
+      "category": "Tecnologia automotiva"
+    },
+    {
+      "name": "Matriz energética",
+      "category": "Energia"
+    },
+    {
+      "name": "Pré-sal",
+      "category": "Exploração de petróleo"
+    },
+    {
+      "name": "Investimento em startups",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Filantropia empresarial",
+      "category": "Responsabilidade social"
+    },
+    {
+      "name": "Tecnologia de ruptura",
+      "category": "Inovação"
+    },
+    {
+      "name": "Eficiência estatal vs. privada",
+      "category": "Economia"
+    },
+    {
+      "name": "Lava Jato",
+      "category": "Political Investigation"
+    },
+    {
+      "name": "Porto do Açú",
+      "category": "Infrastructure Project"
+    },
+    {
+      "name": "Legacy projects",
+      "category": "Business Impact"
+    },
+    {
+      "name": "Family dynamics in wealth",
+      "category": "Social Impact"
+    },
+    {
+      "name": "energy perpetua",
+      "category": "Energy"
+    },
+    {
+      "name": "energia solar",
+      "category": "Energy"
+    },
+    {
+      "name": "energia eolica",
+      "category": "Energy"
+    },
+    {
+      "name": "energia mare motriz",
+      "category": "Energy"
+    },
+    {
+      "name": "energia hidraulica",
+      "category": "Energy"
+    },
+    {
+      "name": "energia magnetica",
+      "category": "Energy"
+    },
+    {
+      "name": "motor perpetuo",
+      "category": "Technology"
+    },
+    {
+      "name": "bateria de sodio",
+      "category": "Technology"
+    },
+    {
+      "name": "inteligencia artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "medicina de precisao",
+      "category": "Healthcare"
+    },
+    {
+      "name": "DNA",
+      "category": "Healthcare"
+    },
+    {
+      "name": "recursos naturais",
+      "category": "Business"
+    },
+    {
+      "name": "infraestrutura",
+      "category": "Business"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "Framework",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Capex",
+      "category": "Finance"
+    },
+    {
+      "name": "Opex",
+      "category": "Finance"
+    },
+    {
+      "name": "Franquia",
+      "category": "Business Model"
+    },
+    {
+      "name": "Leapfrog",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+      "author": "Ashlee Vance"
+    },
+    {
+      "title": "Atlas Shrugged",
+      "author": "Ayn Rand"
+    },
+    {
+      "title": "The Originals",
+      "author": "Adam Grant"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "50 bilhões de dólares",
+      "context": "Investimento trazido por Eike Batista para o Brasil"
+    },
+    {
+      "value": "20-30 bilhões de dólares",
+      "context": "Caixa anual da Vale S.A."
+    },
+    {
+      "value": "90%",
+      "context": "Margem operacional em ativos minerais como os da Vale S.A."
+    },
+    {
+      "value": "500 million reais",
+      "context": "Investment in biomass energy plants."
+    },
+    {
+      "value": "4.5 million barrels per day",
+      "context": "Total oil production in Brazil."
+    },
+    {
+      "value": "3.5 million barrels per day",
+      "context": "Oil production by Petrobras."
+    },
+    {
+      "value": "10 million dollars per year",
+      "context": "Salary of a Vale executive."
+    },
+    {
+      "value": "5 billion dollars",
+      "context": "Cost of a pre-salt oil production plant."
+    },
+    {
+      "value": "2 bilhões",
+      "context": "Número de veículos rodando no planeta que consomem combustível fóssil"
+    },
+    {
+      "value": "100 milhões",
+      "context": "Produção anual de veículos no mundo"
+    },
+    {
+      "value": "600 milhões de dólares",
+      "context": "Valor alocado para compra de ações da Tesla em 2012"
+    },
+    {
+      "value": "50 milhões de dólares",
+      "context": "Valor pago pela Tesla por uma fábrica da GM/Toyota em Fremont"
+    },
+    {
+      "value": "10 milhões de dólares",
+      "context": "Doação de Eike Batista para a campanha da Copa do Mundo no Brasil"
+    },
+    {
+      "value": "35 países",
+      "context": "Expansão do Easy Taxi"
+    },
+    {
+      "value": "1 bilhão de reais",
+      "context": "Valoração da Easy Taxi como startup brasileira"
+    },
+    {
+      "value": "Eighth richest man in the world",
+      "context": "Referring to the wealth status of the speaker"
+    },
+    {
+      "value": "20,000",
+      "context": "Jobs maintained by Eike Batista's projects"
+    },
+    {
+      "value": "10 cents per dollar",
+      "context": "Selling dollar to sustain projects"
+    },
+    {
+      "value": "Three airplanes",
+      "context": "Assets owned by Eike Batista before financial challenges"
+    },
+    {
+      "value": "1.8 trillion dollars",
+      "context": "Valuation of Nvidia"
+    },
+    {
+      "value": "1.8 trillion dollars",
+      "context": "Valuation of Nvidia"
+    },
+    {
+      "value": "5 to 10 billion dollars",
+      "context": "Annual AI investment by major tech companies"
+    },
+    {
+      "value": "2 to 3 billion dollars",
+      "context": "Suggested investment by Petrobras in AI"
+    },
+    {
+      "value": "400 people",
+      "context": "Workforce size mentioned in the discussion"
+    },
+    {
+      "value": "150 to 200 hours per month",
+      "context": "Work hours of employees"
+    },
+    {
+      "value": "Billion-dollar loss",
+      "context": "Alpargatas' financial performance"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Edu Lyra",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Mmx",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Vale Do Rio Doce",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Johnny Depp",
+      "target_type": "person"
+    },
+    {
+      "source": "Nikola Tesla",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Energia Magnetica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "The Originals",
+      "target_type": "company"
+    },
+    {
+      "source": "Cmp",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Novo Astro",
+      "target_type": "company"
+    },
+    {
+      "source": "Mr. Beast",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Feastables",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Eduardo Paes",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Risk-Taking",
+      "target_type": "concept"
+    },
+    {
+      "source": "Edu Lira",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Dilma Rousseff",
+      "target_type": "person"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Amber Heard",
+      "target_type": "person"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Energia Solar",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ebx Group",
+      "target_type": "company"
+    },
+    {
+      "source": "Michael Jordan",
+      "source_type": "person",
+      "relation": "endorsed",
+      "target": "Nike",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tesla",
+      "target_type": "company"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Sheikh Mansoor",
+      "target_type": "person"
+    },
+    {
+      "source": "João Figueiredo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Vale S.A.",
+      "target_type": "company"
+    },
+    {
+      "source": "Mark Wahlberg",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Municipal",
+      "target_type": "company"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ogx",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tesla, Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "Petrobras",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Pre-Salt Oil Fields",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Gerando Falcões",
+      "target_type": "company"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Carros Elétricos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ayrton Batista",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rosa Célia",
+      "target_type": "person"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Bill Gates",
+      "target_type": "person"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Agenda 2030",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Legacy Projects",
+      "target_type": "concept"
+    },
+    {
+      "source": "Matheus Montenegro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Pingback",
+      "target_type": "company"
+    },
+    {
+      "source": "Sérgio Cabral",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Marcelo Bretas",
+      "target_type": "person"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Family Dynamics In Wealth",
+      "target_type": "concept"
+    }
+  ]
+}

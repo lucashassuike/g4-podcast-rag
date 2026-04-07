@@ -1,0 +1,538 @@
+{
+  "episode_id": "34748488476",
+  "title": "COMO ELE EXPANDIU NEGÓCIOS COMO IFOOD E KANUI? - COM BRUNO HENRIQUES | PAPO DE GESTÃO",
+  "date_published": 1705307400,
+  "duration": 4422,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Bruno Henriques",
+      "role": "guest",
+      "company": "iFood",
+      "title": "Vice-Presidente"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Andrézão",
+      "role": "mentioned",
+      "company": "Canui",
+      "title": "Comprador de moda surf"
+    },
+    {
+      "name": "Fabrício",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": "CEO"
+    },
+    {
+      "name": "Pri",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Blois",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": "CEO"
+    },
+    {
+      "name": "Fabrício Bloise",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": "CEO"
+    },
+    {
+      "name": "Fabrício Blois",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": "Executivo"
+    },
+    {
+      "name": "Angela Duckworth",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Jim Collins",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Ifood",
+      "industry": "Food Delivery",
+      "context": "Discussão sobre estratégias de crescimento e fidelidade."
+    },
+    {
+      "name": "Canui",
+      "industry": "E-commerce",
+      "context": "História de fundação e desafios financeiros."
+    },
+    {
+      "name": "Dafite",
+      "industry": "E-commerce",
+      "context": "Aquisição da Canui."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education Technology",
+      "context": "Plataforma de treinamento de times mencionada."
+    },
+    {
+      "name": "Oakley",
+      "industry": "Fashion",
+      "context": "Fornecedor de óculos mencionado na história de estoque."
+    },
+    {
+      "name": "Kanui",
+      "industry": "E-commerce",
+      "context": "Discussed as a successful e-commerce company founded by Bruno Henriques."
+    },
+    {
+      "name": "Net Shoes",
+      "industry": "E-commerce",
+      "context": "Mentioned as a competitor and inspiration for Kanui."
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Investment",
+      "context": "Major investor in Kanui and Dafiti."
+    },
+    {
+      "name": "Dafiti",
+      "industry": "E-commerce",
+      "context": "Merged with Kanui to form a larger entity."
+    },
+    {
+      "name": "Global Fashion Group (Gfg)",
+      "industry": "Fashion",
+      "context": "A global initiative by Rocket Internet to consolidate fashion e-commerce companies."
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Retail",
+      "context": "Mentioned in relation to Net Shoes' acquisition."
+    },
+    {
+      "name": "Rappi",
+      "industry": "Delivery",
+      "context": "Mentioned in relation to Bruno Nardon's involvement."
+    },
+    {
+      "name": "Móveli",
+      "industry": "Technology",
+      "context": "Discussed in relation to AI and data integration."
+    },
+    {
+      "name": "Global Fashion Group",
+      "industry": "Fashion E-commerce",
+      "context": "Mentioned as a potential career opportunity for Bruno Henriques."
+    },
+    {
+      "name": "Zalora",
+      "industry": "Fashion E-commerce",
+      "context": "Discussed as a career opportunity in Singapore."
+    },
+    {
+      "name": "Maplink",
+      "industry": "Data Services",
+      "context": "Discussed as a source of data technology integrated into iFood."
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Discussed in relation to early AI and warehouse management systems."
+    },
+    {
+      "name": "Móvel",
+      "industry": "Technology",
+      "context": "Mentioned in relation to iFood's culture and values."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Programa de fidelidade",
+      "category": "Marketing"
+    },
+    {
+      "name": "Fluxo de caixa",
+      "category": "Finance"
+    },
+    {
+      "name": "Capital de giro",
+      "category": "Finance"
+    },
+    {
+      "name": "Gestão de estoque",
+      "category": "Operations"
+    },
+    {
+      "name": "Cash flow",
+      "category": "Finance"
+    },
+    {
+      "name": "Engenharia de dados",
+      "category": "Data Science"
+    },
+    {
+      "name": "Break Even",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Product-Market Fit",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Culture of Innovation",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "AI (Artificial Intelligence)",
+      "category": "Technology"
+    },
+    {
+      "name": "Logistics Optimization",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Neural Networks",
+      "category": "Technology"
+    },
+    {
+      "name": "Data Governance",
+      "category": "Technology Management"
+    },
+    {
+      "name": "Growth",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Jet Ski Methodology",
+      "category": "Innovation Framework"
+    },
+    {
+      "name": "Customer Acquisition",
+      "category": "Marketing"
+    },
+    {
+      "name": "Customer Retention",
+      "category": "Marketing"
+    },
+    {
+      "name": "Ambidestria Organizacional",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Gestão de equipes",
+      "category": "Management"
+    },
+    {
+      "name": "RMR (Reunião Mensal de Resultados)",
+      "category": "Management Practices"
+    },
+    {
+      "name": "FCA (Fato, Causa, Ação)",
+      "category": "Problem-Solving Framework"
+    },
+    {
+      "name": "Estrutura organizacional flat",
+      "category": "Organizational Design"
+    },
+    {
+      "name": "Cascateamento de metas",
+      "category": "Strategic Alignment"
+    },
+    {
+      "name": "Mural dos Sonhos",
+      "category": "Cultural Initiative"
+    },
+    {
+      "name": "Persistence",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Resilience",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Dream Big",
+      "category": "Cultural Value"
+    }
+  ],
+  "books": [
+    {
+      "title": "Exame Magazine",
+      "author": "Exame Editorial"
+    },
+    {
+      "title": "Empresas Feitas Para Vencer",
+      "author": "Jim Collins"
+    },
+    {
+      "title": "Grit",
+      "author": "Angela Duckworth"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "Milhões de assinantes",
+      "context": "Número de assinantes do clube iFood."
+    },
+    {
+      "value": "100 óculos por dia",
+      "context": "Venda inicial de óculos Oakley pela Canui."
+    },
+    {
+      "value": "200 óculos por dia",
+      "context": "Venda subsequente de óculos Oakley pela Canui."
+    },
+    {
+      "value": "500",
+      "context": "Number of employees at Kanui before merging with Dafiti."
+    },
+    {
+      "value": "3,000",
+      "context": "Number of employees after Kanui merged with Dafiti."
+    },
+    {
+      "value": "2 billion",
+      "context": "Combined revenue of Kanui and Dafiti after the merger."
+    },
+    {
+      "value": "70 million orders per month",
+      "context": "iFood's operational scale."
+    },
+    {
+      "value": "200-300 AI and data personnel",
+      "context": "Size of AI and data team at iFood."
+    },
+    {
+      "value": "20-40 times growth",
+      "context": "Growth of iFood during Bruno Henriques' tenure."
+    },
+    {
+      "value": "200-300",
+      "context": "Number of AI and data personnel at iFood."
+    },
+    {
+      "value": "Millions",
+      "context": "Number of Clube iFood subscribers."
+    },
+    {
+      "value": "1000 pessoas",
+      "context": "Número de pessoas na equipe de dados, inovação e crescimento do iFood."
+    },
+    {
+      "value": "5 a 7 pessoas",
+      "context": "Número de diretos geridos por Bruno Henriques."
+    },
+    {
+      "value": "5 years",
+      "context": "Duration of Bruno Henriques' role restructuring at iFood."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Henriques",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Canui",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Global Fashion Group (Gfg)",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabrício",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Móveli",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Dafiti",
+      "target_type": "company"
+    },
+    {
+      "source": "Blois",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Henriques",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Henriques",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Móveli",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Móveli",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Henriques",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Product-Market Fit",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Fabrício",
+      "target_type": "person"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Kanui",
+      "target_type": "company"
+    },
+    {
+      "source": "Kanui",
+      "source_type": "company",
+      "relation": "merged_with",
+      "target": "Dafiti",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Henriques",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Data Governance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Angela Duckworth",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Grit",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Henriques",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Kanui",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Henriques",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Logistics Optimization",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabrício Blois",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Maplink",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabrício Bloise",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Maplink",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Móveli",
+      "target_type": "company"
+    },
+    {
+      "source": "Móvel",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Canui",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dafite",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Henriques",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Neural Networks",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jim Collins",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Empresas Feitas Para Vencer",
+      "target_type": "company"
+    },
+    {
+      "source": "Canui",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Oakley",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Henriques",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ai (Artificial Intelligence)",
+      "target_type": "concept"
+    }
+  ]
+}

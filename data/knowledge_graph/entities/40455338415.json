@@ -1,0 +1,121 @@
+{
+  "episode_id": "40455338415",
+  "title": "[CORTE] \"ESSES AI DEVEM SER FILHINHOS DE PAPAI\" REVELA PAULO URBAN",
+  "date_published": 1753390800,
+  "duration": 668,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Paulo Urban",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Essência Nutrition",
+      "industry": "Nutrition and Supplements",
+      "context": "Founded in 2012, specializes in high-quality nutritional products."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Farmácia de manipulação",
+      "category": "Business Model"
+    },
+    {
+      "name": "Prescrição médica",
+      "category": "Healthcare"
+    },
+    {
+      "name": "Eventos e congressos",
+      "category": "Marketing Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "6",
+      "context": "Number of employees at the start in 2004."
+    },
+    {
+      "value": "80",
+      "context": "Number of employees in 2008."
+    },
+    {
+      "value": "300-400",
+      "context": "Number of employees in 2015."
+    },
+    {
+      "value": "700",
+      "context": "Number of employees in 2020."
+    },
+    {
+      "value": "1,700",
+      "context": "Number of employees in 2025."
+    },
+    {
+      "value": "2,500",
+      "context": "Number of formulas produced daily."
+    },
+    {
+      "value": "300",
+      "context": "Number of events participated annually."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Essência Nutrition",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Farmácia De Manipulação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Essência Nutrition",
+      "source_type": "company",
+      "relation": "utilizes",
+      "target": "Eventos E Congressos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Urban",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Essência Nutrition",
+      "target_type": "company"
+    },
+    {
+      "source": "Essência Nutrition",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Prescrição Médica",
+      "target_type": "concept"
+    }
+  ]
+}

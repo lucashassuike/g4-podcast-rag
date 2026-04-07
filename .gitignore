@@ -1,6 +1,8 @@
 .env
-data/
+data/audio/
+data/leads.jsonl
 __pycache__/
 *.pyc
 .venv/
 venv/
+.claude/

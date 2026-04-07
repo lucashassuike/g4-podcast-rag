@@ -1,0 +1,229 @@
+{
+  "episode_id": "41017441421",
+  "title": "DE EMPRESÁRIO A GOVERNADOR DE MINAS GERAIS COM ROMEU ZEMA | VOX LUMINIS",
+  "date_published": 1754665200,
+  "duration": 5744,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Romeu Zema",
+      "role": "guest",
+      "company": "Lojas Zema",
+      "title": "Governador de Minas Gerais"
+    },
+    {
+      "name": "Thales",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mateus",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Charles Economista Santos",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Paulo Guedes",
+      "role": "mentioned",
+      "company": "Grupo Afia",
+      "title": "Ex-Ministro da Economia"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empresário"
+    },
+    {
+      "name": "Otávio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Matheus",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Maria Antonieta",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Lojas Zema",
+      "industry": "Retail",
+      "context": "Fundada por Romeu Zema, possui mais de 470 lojas e emprega mais de 5 mil pessoas."
+    },
+    {
+      "name": "Grupo Afia",
+      "industry": "Education",
+      "context": "Empresa mencionada em relação a Paulo Guedes, que foi um dos maiores investidores antes de se tornar Ministro da Economia."
+    },
+    {
+      "name": "Ufmg",
+      "industry": "Educação",
+      "context": "Proprietária do terreno do Mineirão"
+    },
+    {
+      "name": "Governo De Minas Gerais",
+      "industry": "Administração Pública",
+      "context": "Estado com menor número de secretarias no Brasil"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Democracia",
+      "category": "Political System"
+    },
+    {
+      "name": "Monarquia",
+      "category": "Political System"
+    },
+    {
+      "name": "Aristocracia",
+      "category": "Political Philosophy"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Caged",
+      "category": "Employment Metrics"
+    },
+    {
+      "name": "Reserva de Preservação Permanente",
+      "category": "Ambiental"
+    },
+    {
+      "name": "Marco do Saneamento",
+      "category": "Política Pública"
+    },
+    {
+      "name": "Divisão dos Poderes",
+      "category": "Governança"
+    },
+    {
+      "name": "Unificação de Eleições",
+      "category": "Política"
+    },
+    {
+      "name": "Liderança",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão financeira pública",
+      "category": "Administração Pública"
+    },
+    {
+      "name": "non-deal roadshow",
+      "category": "Finance"
+    },
+    {
+      "name": "fundos de equity",
+      "category": "Finance"
+    },
+    {
+      "name": "fiscal responsibility",
+      "category": "Economics"
+    },
+    {
+      "name": "mola comprimida",
+      "category": "Economics"
+    }
+  ],
+  "books": [
+    {
+      "title": "Works of Plato",
+      "author": "Plato"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "470 lojas",
+      "context": "Número de lojas da Lojas Zema."
+    },
+    {
+      "value": "5 mil pessoas",
+      "context": "Número de empregados pela Lojas Zema."
+    },
+    {
+      "value": "700 mil empregos",
+      "context": "Empregos gerados em Minas Gerais durante a gestão de Romeu Zema."
+    },
+    {
+      "value": "1 milhão de empregos",
+      "context": "Projeção de empregos gerados em Minas Gerais."
+    },
+    {
+      "value": "4 bilhões de dólares",
+      "context": "Valor do IPO do Grupo Afia mencionado em relação a Paulo Guedes."
+    },
+    {
+      "value": "14 secretarias",
+      "context": "Número de secretarias no Governo de Minas Gerais"
+    },
+    {
+      "value": "Metade da população sem saneamento básico",
+      "context": "Indicador de saneamento básico no Brasil"
+    },
+    {
+      "value": "240 mil",
+      "context": "Funcionários do estado de Minas Gerais com nome no SPC/Serasa devido a atrasos salariais."
+    },
+    {
+      "value": "10 trilhões de reais",
+      "context": "Value of equity funds discussed during the non-deal roadshow."
+    },
+    {
+      "value": "2 trilhões de dólares",
+      "context": "Approximate GDP of Brazil."
+    },
+    {
+      "value": "200 mil pontos",
+      "context": "Potential future value of the Brazilian stock market index."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Romeu Zema",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Governo De Minas Gerais",
+      "target_type": "company"
+    },
+    {
+      "source": "Romeu Zema",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Lojas Zema",
+      "target_type": "company"
+    },
+    {
+      "source": "Ufmg",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Reserva De Preservação Permanente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Guedes",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Grupo Afia",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "episode_id": "34748488415",
+  "title": "3 PILARES ESSENCIAIS PARA NEGÓCIOS LUCRATIVOS (O BOTICÁRIO, ALURA E NUBANK) | G4 PODCASTS",
+  "date_published": 1721291400,
+  "duration": 1706,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Arthur Grimbal",
+      "role": "guest",
+      "company": "Grupo Boticário",
+      "title": "Vice-presidente do conselho e ex-CEO"
+    },
+    {
+      "name": "Caíto Maia",
+      "role": "mentioned",
+      "company": "Chilli Beans",
+      "title": "Founder"
+    },
+    {
+      "name": "Paulo Silveira",
+      "role": "guest",
+      "company": "Alura",
+      "title": "CEO e cofundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Cristina Junqueira",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Cofundadora"
+    },
+    {
+      "name": "Davi Vélez",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Ed Wible",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Átila Iamarino",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jovem Nerd",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Paulo Guedes",
+      "role": "mentioned",
+      "company": "Crescera (antiga Bozano)",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Grupo Boticário",
+      "industry": "Cosmetics and Beauty",
+      "context": "Discussed as a successful example of business longevity and innovation in Brazil"
+    },
+    {
+      "name": "Chilli Beans",
+      "industry": "Retail",
+      "context": "Mentioned as a successful franchise alongside Grupo Boticário"
+    },
+    {
+      "name": "Alura",
+      "industry": "Education Technology",
+      "context": "Discussed as a leading EdTech company in Brazil"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Fintech",
+      "context": "Discussão sobre cultura organizacional e crescimento"
+    },
+    {
+      "name": "Crescera",
+      "industry": "Investimentos",
+      "context": "Investidora mencionada no contexto de profissionalização e crescimento"
+    },
+    {
+      "name": "Sic",
+      "industry": "Educação e Empregabilidade",
+      "context": "Investidora estratégica mencionada"
+    },
+    {
+      "name": "Afya",
+      "industry": "Educação",
+      "context": "Empresa mencionada no contexto de IPO"
+    },
+    {
+      "name": "Anima",
+      "industry": "Educação",
+      "context": "Empresa mencionada no contexto de IPO"
+    },
+    {
+      "name": "Abril",
+      "industry": "Mídia",
+      "context": "Empresa mencionada no contexto de IPO"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Franchise Model",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Consumer-Centric Approach",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Innovation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Business Longevity",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Digital Pivot",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Podcast Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Smart Money",
+      "category": "Investimentos"
+    },
+    {
+      "name": "IPO",
+      "category": "Mercado financeiro"
+    },
+    {
+      "name": "EBITDA positivo",
+      "category": "Finanças"
+    },
+    {
+      "name": "Investidor anjo",
+      "category": "Investimentos"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "50 years",
+      "context": "Grupo Boticário's operational history"
+    },
+    {
+      "value": "500,000 students",
+      "context": "Alura's student base"
+    },
+    {
+      "value": "400 million BRL",
+      "context": "Alura's annual revenue"
+    },
+    {
+      "value": "100 milhões",
+      "context": "Número de clientes do Nubank"
+    },
+    {
+      "value": "7 bilhões de dólares",
+      "context": "Valor da empresa SIC"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Cristina Junqueira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Crescera",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Ed Wible",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Sic",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Arthur Grimbal",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Boticário",
+      "target_type": "company"
+    },
+    {
+      "source": "Caíto Maia",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Chilli Beans",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Silveira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Alura",
+      "target_type": "company"
+    },
+    {
+      "source": "Davi Vélez",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Nubank",
+      "target_type": "company"
+    }
+  ]
+}

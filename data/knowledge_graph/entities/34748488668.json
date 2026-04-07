@@ -1,0 +1,131 @@
+{
+  "episode_id": "34748488668",
+  "title": "#009 - Retomada: o que o mercado de eventos nos ensina com Benarrós da Ingresse",
+  "date_published": 1603904605,
+  "duration": 2168,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Gabriel",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gabriel Benarroch",
+      "role": "guest",
+      "company": "Ingresse",
+      "title": "Executive"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Escola de negócios que traduz práticas de empresas de alto crescimento."
+    },
+    {
+      "name": "Singoo",
+      "industry": "Beleza e Bem-estar",
+      "context": "Empresa mencionada como exemplo de aplicação de aprendizados de gestão."
+    },
+    {
+      "name": "Globo",
+      "industry": "Mídia e Entretenimento",
+      "context": "Mencionada em relação ao monopólio de transmissão de futebol."
+    },
+    {
+      "name": "Ingresse",
+      "industry": "Event Ticketing",
+      "context": "Gabriel Benarroch represents Ingresse in the discussion."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão 4.0",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Lean Startup",
+      "category": "Metodologia de Negócios"
+    },
+    {
+      "name": "Streaming",
+      "category": "Tecnologia e Mídia"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão e Liderança"
+    },
+    {
+      "name": "Sustentabilidade Financeira",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "Solidariedade",
+      "category": "Ethics"
+    },
+    {
+      "name": "Interconectividade",
+      "category": "Globalization"
+    },
+    {
+      "name": "Pequenas atitudes éticas",
+      "category": "Ethics"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Mais de mil toneladas",
+      "context": "Quantidade de alimentos coletados na iniciativa Fome de Música."
+    },
+    {
+      "value": "7 das 10 lives mais populares do planeta",
+      "context": "Participação brasileira em eventos de streaming."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gestão 4.0",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Lean Startup",
+      "target_type": "concept"
+    },
+    {
+      "source": "Globo",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Streaming",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Benarroch",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ingresse",
+      "target_type": "company"
+    }
+  ]
+}

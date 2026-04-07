@@ -1,0 +1,151 @@
+{
+  "episode_id": "34748488445",
+  "title": "POR TRÁS DA JORNADA DE UM EMPREENDEDOR SERIAL: SUCESSOS, DESAFIOS E INCERTEZAS - COM DIÓGENES MALAQUIAS | PAPO DE GESTÃO",
+  "date_published": 1714465800,
+  "duration": 4266,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Diógenes Malaquias",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Carolina Borges",
+      "role": "mentioned",
+      "company": "Universidade Federal de Pelotas",
+      "title": "Professora"
+    },
+    {
+      "name": "Carolina",
+      "role": "mentioned",
+      "company": "",
+      "title": "Estudante de Arquitetura e Urbanismo"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de treinamento de times mencionada no episódio"
+    },
+    {
+      "name": "Universidade Federal De Pelotas",
+      "industry": "Educação",
+      "context": "Instituição de ensino superior mencionada na pesquisa"
+    },
+    {
+      "name": "Cnpq (Conselho Nacional De Desenvolvimento Científico E Tecnológico)",
+      "industry": "Pesquisa e Desenvolvimento",
+      "context": "Financiador do projeto de pesquisa mencionado"
+    },
+    {
+      "name": "Conselho Nacional De Desenvolvimento Científico E Tecnológico",
+      "industry": "Research and Development",
+      "context": "Financiamento para exposição e artigo"
+    },
+    {
+      "name": "Morar Mais Por Menos",
+      "industry": "Architecture and Urbanism",
+      "context": "Exposição mencionada"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de treinamento"
+    },
+    {
+      "name": "Reciclagem",
+      "category": "Sustentabilidade"
+    },
+    {
+      "name": "Iniciação Científica",
+      "category": "Educação e Pesquisa"
+    },
+    {
+      "name": "Gestão de resíduos",
+      "category": "Environmental Management"
+    },
+    {
+      "name": "Cooperativas de reciclagem",
+      "category": "Environmental Management"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "7 dias",
+      "context": "Período de acesso gratuito ao G4 Skills"
+    },
+    {
+      "value": "8 alunos",
+      "context": "Número de participantes na pesquisa de arquitetura e urbanismo"
+    },
+    {
+      "value": "3 bolsistas",
+      "context": "Número de bolsistas de iniciação científica mencionados"
+    },
+    {
+      "value": "5 voluntários",
+      "context": "Número de voluntários no projeto de pesquisa"
+    },
+    {
+      "value": "3 alunas bolsistas",
+      "context": "Participantes do projeto de iniciação científica"
+    },
+    {
+      "value": "5 voluntárias",
+      "context": "Participantes do projeto"
+    },
+    {
+      "value": "Desde 5 de setembro até 20 de outubro",
+      "context": "Duração da exposição"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Diógenes Malaquias",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "Papo De Gestão",
+      "target_type": "company"
+    },
+    {
+      "source": "Conselho Nacional De Desenvolvimento Científico E Tecnológico",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Exposição",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carolina",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Morar Mais Por Menos",
+      "target_type": "company"
+    },
+    {
+      "source": "Cnpq (Conselho Nacional De Desenvolvimento Científico E Tecnológico)",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Projeto De Pesquisa Sobre Reciclagem",
+      "target_type": "company"
+    },
+    {
+      "source": "Carolina Borges",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Universidade Federal De Pelotas",
+      "target_type": "company"
+    }
+  ]
+}

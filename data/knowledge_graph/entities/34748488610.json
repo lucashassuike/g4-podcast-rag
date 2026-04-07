@@ -1,0 +1,166 @@
+{
+  "episode_id": "34748488610",
+  "title": "Jhonny Martins - Sucessão Familiar e Diferença de Herdeiro e Sucessor | Conectandos os Pontos",
+  "date_published": 1680080407,
+  "duration": 2161,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Johnny Martins",
+      "role": "guest",
+      "company": "Serac",
+      "title": "Vice-presidente"
+    },
+    {
+      "name": "Jonathan Martins",
+      "role": "guest",
+      "company": "Serac",
+      "title": "Vice-presidente"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "",
+      "title": "Funcionário"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "",
+      "title": "Funcionário"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Serac",
+      "industry": "Contabilidade e soluções empresariais",
+      "context": "Empresa familiar fundada em 1989, com foco em contabilidade e consultoria empresarial."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Organizadora do podcast e de imersões sobre temas empresariais."
+    },
+    {
+      "name": "Cerac",
+      "industry": "Indústria",
+      "context": "Empresa familiar discutida no contexto de sucessão e governança."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Sucessão familiar",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Empresa familiar",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Treinamento de sucessores",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Alinhamento estratégico",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Governança Corporativa",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Partnership",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Isonomia",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Remuneração Estratégica",
+      "category": "Gestão de Pessoas"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "500 mil reais",
+      "context": "Dívida da Serac em tributos em 2006."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Jonathan Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Serac",
+      "target_type": "company"
+    },
+    {
+      "source": "Johnny Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Cerac",
+      "target_type": "company"
+    },
+    {
+      "source": "Johnny Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Serac",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

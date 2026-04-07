@@ -1,0 +1,201 @@
+{
+  "episode_id": "34748488600",
+  "title": "Paulo Muzy - Saúde e Empreendedorismo: A arte do equilíbrio para alcançar a excelência | Sem Atalhos",
+  "date_published": 1683018021,
+  "duration": 4006,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Lucas Riedo",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "CEO"
+    },
+    {
+      "name": "Paulo Muzy",
+      "role": "guest",
+      "company": "Não mencionado",
+      "title": "Médico e Especialista em Saúde e Alta Performance"
+    },
+    {
+      "name": "Anderson Bernal",
+      "role": "mentioned",
+      "company": "",
+      "title": "Dentista"
+    },
+    {
+      "name": "David Sinclair",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor"
+    },
+    {
+      "name": "Fabio Ancona Lopes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Professor"
+    },
+    {
+      "name": "Lucas",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Paulo Vieira",
+      "role": "mentioned",
+      "company": "Não mencionado",
+      "title": "Coach"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento Empresarial",
+      "context": "Organizadora do podcast e fornecedora da plataforma G4 Skills"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta Performance",
+      "category": "Estratégia de Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Saúde Mental",
+      "category": "Bem-estar e Saúde"
+    },
+    {
+      "name": "Saúde Física",
+      "category": "Bem-estar e Saúde"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Desenvolvimento de Habilidades"
+    },
+    {
+      "name": "Ancoragem",
+      "category": "Estratégia de produtividade"
+    },
+    {
+      "name": "Curva de esquecimento",
+      "category": "Conceito de aprendizado"
+    },
+    {
+      "name": "Medicina baseada em evidências",
+      "category": "Conceito médico"
+    },
+    {
+      "name": "Pesquisa científica",
+      "category": "Conceito acadêmico"
+    },
+    {
+      "name": "Saúde crônica",
+      "category": "Conceito de saúde"
+    },
+    {
+      "name": "Propósito",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Gestão de equipe",
+      "category": "Gestão empresarial"
+    }
+  ],
+  "books": [
+    {
+      "title": "Endocrinologia Vilar, sexta edição",
+      "author": ""
+    }
+  ],
+  "metrics": [
+    {
+      "value": "90%",
+      "context": "Proporção de papers científicos mal feitos segundo curso de pesquisa científica mencionado por Paulo Muzy"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Saúde Crônica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "David Sinclair",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ancoragem",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Paulo Vieira",
+      "target_type": "person"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Medicina Baseada Em Evidências",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pesquisa Científica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Riedo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Fabio Ancona Lopes",
+      "target_type": "person"
+    },
+    {
+      "source": "Paulo Muzy",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Curva De Esquecimento",
+      "target_type": "concept"
+    }
+  ]
+}

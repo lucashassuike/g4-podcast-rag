@@ -1,0 +1,265 @@
+{
+  "episode_id": "34748488483",
+  "title": "ENTENDA COMO A GLOBO ESTÁ INOVANDO COM TECNOLOGIA E DADOS - COM WANDERLEY BACCALA (GLOBO.COM) | G4 PODCASTS",
+  "date_published": 1703584800,
+  "duration": 1984,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Wanderley Bacala",
+      "role": "guest",
+      "company": "Globo.com",
+      "title": "CEO"
+    },
+    {
+      "name": "Jorge Cluney",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Wanderley Baccala",
+      "role": "guest",
+      "company": "Globo.com",
+      "title": ""
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de educação para negócios e empreendedorismo"
+    },
+    {
+      "name": "Globo.Com",
+      "industry": "Mídia e Tecnologia",
+      "context": "Plataforma digital da Globo"
+    },
+    {
+      "name": "Globoplay",
+      "industry": "Streaming e Mídia",
+      "context": "Serviço de streaming da Globo"
+    },
+    {
+      "name": "C&A",
+      "industry": "Varejo",
+      "context": "Patrocinadora do BBB"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Transformação Digital",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "TV do Futuro",
+      "category": "Inovação Tecnológica"
+    },
+    {
+      "name": "Personalização de Conteúdo",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Adbase",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Efeito Rajada",
+      "category": "Estratégia de engajamento"
+    },
+    {
+      "name": "Modelagem de Grafo",
+      "category": "Tecnologia de dados"
+    },
+    {
+      "name": "Antiturning",
+      "category": "Modelo preditivo"
+    },
+    {
+      "name": "CRM",
+      "category": "Gestão de relacionamento com o cliente"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "140 milhões",
+      "context": "Usuários únicos na base digital da Globo"
+    },
+    {
+      "value": "30 milhões",
+      "context": "Consumidores mensais no Globoplay"
+    },
+    {
+      "value": "2.2 bilhões",
+      "context": "Horas consumidas no Globoplay mensalmente"
+    },
+    {
+      "value": "45 horas",
+      "context": "Tempo médio mensal de uso por usuário no Globoplay"
+    },
+    {
+      "value": "30 milhões",
+      "context": "Consumidores mensais no Globoplay"
+    },
+    {
+      "value": "25%",
+      "context": "Taxa de conversão de audiência no Globoplay"
+    },
+    {
+      "value": "2.2 bilhões",
+      "context": "Horas consumidas no Globoplay"
+    },
+    {
+      "value": "45 horas por mês",
+      "context": "Tempo médio de uso mensal no Globoplay"
+    },
+    {
+      "value": "70 milhões",
+      "context": "Pessoas assistindo TV aberta diariamente"
+    },
+    {
+      "value": "4 milhões",
+      "context": "Usuários simultâneos em live na internet"
+    },
+    {
+      "value": "140 milhões",
+      "context": "Usuários modelados em grafo pela Globo"
+    },
+    {
+      "value": "14 bilhões",
+      "context": "Registros de interações armazenados em dia de pico do BBB"
+    },
+    {
+      "value": "1.500",
+      "context": "Desenvolvedores no Hub Digital da Globo"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Wanderley Bacala",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Globo.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Globoplay",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Globo.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Globoplay",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Efeito Rajada",
+      "target_type": "concept"
+    },
+    {
+      "source": "Globoplay",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Antiturning",
+      "target_type": "concept"
+    },
+    {
+      "source": "Transformação Digital",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Globo.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Globoplay",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Inteligência Artificial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Wanderley Baccala",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Globo.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Tv Do Futuro",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Globo.Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Inteligência Artificial",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Globoplay",
+      "target_type": "company"
+    },
+    {
+      "source": "Globoplay",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Crm",
+      "target_type": "concept"
+    },
+    {
+      "source": "Globoplay",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Modelagem De Grafo",
+      "target_type": "concept"
+    },
+    {
+      "source": "C&A",
+      "source_type": "company",
+      "relation": "sponsored",
+      "target": "Bbb",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

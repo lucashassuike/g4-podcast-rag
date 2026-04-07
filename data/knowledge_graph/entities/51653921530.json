@@ -1,0 +1,440 @@
+{
+  "episode_id": "51653921530",
+  "title": "LUCAS FINK: O BRASILEIRO QUE DESAFIOU ONDAS DE 20M E VIROU PENTACAMPEÃO MUNDIAL | EXTREMOS",
+  "date_published": 1773250881,
+  "duration": 5416,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Lucas Fink",
+      "role": "guest",
+      "company": "Red Bull",
+      "title": "Pentacampeão Mundial de Skimboard"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Carlos Burle",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista"
+    },
+    {
+      "name": "Pedro Scooby",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista"
+    },
+    {
+      "name": "Nicolas Arantes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista e empresário"
+    },
+    {
+      "name": "Raulne Monteiro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista"
+    },
+    {
+      "name": "Silvinho",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista"
+    },
+    {
+      "name": "Silvio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nicolas",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mário Maluco",
+      "role": "mentioned",
+      "company": "",
+      "title": "Empresário"
+    },
+    {
+      "name": "Gustavinho",
+      "role": "mentioned",
+      "company": "Skin Center",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Chumbo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista e mentor"
+    },
+    {
+      "name": "Scooby",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista"
+    },
+    {
+      "name": "Bull",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista"
+    },
+    {
+      "name": "Bruno",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Caio",
+      "role": "mentioned",
+      "company": "Oakley",
+      "title": ""
+    },
+    {
+      "name": "Iago Dora",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Serginho Lauz",
+      "role": "mentioned",
+      "company": "",
+      "title": "Mestre em Surf"
+    },
+    {
+      "name": "Nicolas Zarantes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Red Bull",
+      "industry": "Bebidas energéticas",
+      "context": "Patrocinadora de Lucas Fink"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Empresa dos hosts do podcast"
+    },
+    {
+      "name": "Hb",
+      "industry": "Eyewear",
+      "context": "Sponsor of Lucas Fink"
+    },
+    {
+      "name": "Amor Mai",
+      "industry": "Fashion",
+      "context": "Sponsor of Lucas Fink"
+    },
+    {
+      "name": "Exile",
+      "industry": "Sports Equipment",
+      "context": "Sponsor of Lucas Fink"
+    },
+    {
+      "name": "Orto Pride",
+      "industry": "Healthcare",
+      "context": "Sponsor of Lucas Fink"
+    },
+    {
+      "name": "Uol",
+      "industry": "Technology",
+      "context": "Sponsor of Lucas Fink"
+    },
+    {
+      "name": "True Source",
+      "industry": "Nutrition",
+      "context": "Sponsor of Lucas Fink"
+    },
+    {
+      "name": "Skin Center",
+      "industry": "Media and E-commerce",
+      "context": "Founded by Lucas Fink"
+    },
+    {
+      "name": "Skincenter",
+      "industry": "Esportes",
+      "context": "Empresa mencionada como fornecedora de equipamentos e aulas de skinboard"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Skimboard",
+      "category": "Esporte aquático"
+    },
+    {
+      "name": "Pororoca",
+      "category": "Fenômeno natural"
+    },
+    {
+      "name": "Nazaré",
+      "category": "Local de surfe extremo"
+    },
+    {
+      "name": "G4 Tools",
+      "category": "Ferramenta empresarial"
+    },
+    {
+      "name": "Campeonato Mundial",
+      "category": "Competição esportiva"
+    },
+    {
+      "name": "Projeto esportivo",
+      "category": "Gestão de projetos"
+    },
+    {
+      "name": "Patrocínio esportivo",
+      "category": "Marketing e esportes"
+    },
+    {
+      "name": "toe-in surfing",
+      "category": "Sports Technique"
+    },
+    {
+      "name": "apnea training",
+      "category": "Sports Training"
+    },
+    {
+      "name": "content marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "personal branding",
+      "category": "Branding Strategy"
+    },
+    {
+      "name": "Comunicação e Posicionamento de Marca",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Conteúdo Digital",
+      "category": "Marketing Digital"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "27 anos",
+      "context": "Idade de Lucas Fink"
+    },
+    {
+      "value": "5 títulos mundiais",
+      "context": "Conquistas de Lucas Fink no skimboard"
+    },
+    {
+      "value": "10 minutos",
+      "context": "Tempo estimado de surfe na Pororoca por Lucas Fink"
+    },
+    {
+      "value": "6 anos",
+      "context": "Idade em que Lucas Fink começou a praticar skimboard"
+    },
+    {
+      "value": "2019",
+      "context": "Ano em que Lucas Fink foi campeão mundial pela primeira vez"
+    },
+    {
+      "value": "20 meters",
+      "context": "Height of the largest wave surfed by Lucas Fink"
+    },
+    {
+      "value": "24 meters",
+      "context": "Current world record for wave height"
+    },
+    {
+      "value": "10 mil views em 24 horas",
+      "context": "Desempenho do canal de YouTube mencionado"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "sponsored_by",
+      "target": "Orto Pride",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "sponsored_by",
+      "target": "Uol",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Skin Center",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "co-founded",
+      "target": "Skin Center",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Serginho Lauz",
+      "target_type": "person"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "sponsored_by",
+      "target": "Red Bull",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Skin Center",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "sponsored_by",
+      "target": "True Source",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Chumbo",
+      "target_type": "person"
+    },
+    {
+      "source": "Gustavinho",
+      "source_type": "person",
+      "relation": "co-founded",
+      "target": "Skin Center",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Red Bull",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Red Bull",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "sponsored_by",
+      "target": "Exile",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Red Bull",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Skincenter",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Skimboard",
+      "target_type": "concept"
+    },
+    {
+      "source": "Chumbo",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Red Bull",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Tools",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nazaré",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "sponsored_by",
+      "target": "Amor Mai",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pororoca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Fink",
+      "source_type": "person",
+      "relation": "sponsored_by",
+      "target": "Hb",
+      "target_type": "company"
+    }
+  ]
+}

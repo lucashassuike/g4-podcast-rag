@@ -1,0 +1,300 @@
+{
+  "episode_id": "34748488420",
+  "title": "EIKE BATISTA - 5 LIÇÕES DE VIDA E NEGÓCIOS | G4 PODCASTS",
+  "date_published": 1719477000,
+  "duration": 1504,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Eike Batista",
+      "role": "guest",
+      "company": "MMX, MPX",
+      "title": "Empresário"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Presidente"
+    },
+    {
+      "name": "Matt Montenegro",
+      "role": "mentioned",
+      "company": "Pingback",
+      "title": "Fundador"
+    },
+    {
+      "name": "Fernando Henrique Cardoso",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-presidente do Brasil"
+    },
+    {
+      "name": "Lula",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-presidente do Brasil"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla, SpaceX",
+      "title": "Empresário"
+    },
+    {
+      "name": "Jorge Rocha",
+      "role": "mentioned",
+      "company": "",
+      "title": "Padrinho de batismo de Tallis Gomes"
+    },
+    {
+      "name": "Andy Grove",
+      "role": "mentioned",
+      "company": "Intel",
+      "title": "Former CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Mmx",
+      "industry": "Mineração",
+      "context": "Fundada por Eike Batista para desafiar o monopólio da Vale."
+    },
+    {
+      "name": "Mpx",
+      "industry": "Energia",
+      "context": "Empresa de energia fundada por Eike Batista, incluindo projetos de carvão e solar."
+    },
+    {
+      "name": "Vale",
+      "industry": "Mineração",
+      "context": "Monopólio estatal mencionado como competidor da MMX."
+    },
+    {
+      "name": "Petrobras",
+      "industry": "Energia",
+      "context": "Controladora de gás mencionada em relação a contratos com MPX."
+    },
+    {
+      "name": "Eletrobras",
+      "industry": "Energia",
+      "context": "Mencionada como geradora de energia no Brasil."
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosméticos",
+      "context": "Comprou a empresa Cingo de Tallis Gomes."
+    },
+    {
+      "name": "Pingback",
+      "industry": "Tecnologia",
+      "context": "Fundada por Matt Montenegro."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotivo e Energia",
+      "context": "Empresa de Elon Musk mencionada como referência."
+    },
+    {
+      "name": "Spacex",
+      "industry": "Aeroespacial",
+      "context": "Empresa de Elon Musk mencionada como referência."
+    },
+    {
+      "name": "Intel",
+      "industry": "Technology",
+      "context": "Mentioned in relation to Andy Grove's leadership and book."
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entertainment",
+      "context": "Discussed as an example of a successful business model."
+    },
+    {
+      "name": "Blockbuster",
+      "industry": "Entertainment",
+      "context": "Discussed as a company that failed to adapt to market changes."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Monopólio",
+      "category": "Estratégia de mercado"
+    },
+    {
+      "name": "Arbitragem de ineficiências",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "IPO",
+      "category": "Finanças"
+    },
+    {
+      "name": "Carvão padrão alemão",
+      "category": "Energia e Meio Ambiente"
+    },
+    {
+      "name": "Auditoria tripla",
+      "category": "Governança corporativa"
+    },
+    {
+      "name": "Redundancy in processes",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Deflationary future",
+      "category": "Economic Trend"
+    },
+    {
+      "name": "Stop loss",
+      "category": "Financial Strategy"
+    },
+    {
+      "name": "Reconstruction and resilience",
+      "category": "Personal Development"
+    },
+    {
+      "name": "foguetes reutilizáveis",
+      "category": "Engenharia Aeroespacial"
+    },
+    {
+      "name": "indústria aeroespacial",
+      "category": "Setor Econômico"
+    },
+    {
+      "name": "framework de gestão",
+      "category": "Estratégia de Negócios"
+    }
+  ],
+  "books": [
+    {
+      "title": "High Output Management",
+      "author": "Andy Grove"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "30 bilhões de dólares",
+      "context": "Patrimônio estimado de Eike Batista como sétima maior fortuna do mundo."
+    },
+    {
+      "value": "10 bilhões de dólares",
+      "context": "Recebíveis vendidos por MPX em leilão de energia."
+    },
+    {
+      "value": "4 bilhões de dólares",
+      "context": "Avaliação da MPX após IPO."
+    },
+    {
+      "value": "1 bilhão de dólares",
+      "context": "Capital levantado no IPO da MPX."
+    },
+    {
+      "value": "100 milhões de dólares",
+      "context": "Investimento inicial em concessões e terras para MPX."
+    },
+    {
+      "value": "40 vezes",
+      "context": "Multiplicação do investimento inicial em MPX em dois anos."
+    },
+    {
+      "value": "1%",
+      "context": "Cost of insurance for a construction project."
+    },
+    {
+      "value": "3,000 BRL",
+      "context": "Monthly cost of Blockbuster rentals."
+    },
+    {
+      "value": "40 BRL",
+      "context": "Monthly cost of Netflix subscription."
+    },
+    {
+      "value": "20,000+ jobs",
+      "context": "Employment created by Eike Batista's ventures."
+    },
+    {
+      "value": "10 vezes mais barato por quilo levantado no espaço",
+      "context": "Redução de custos na indústria aeroespacial mencionada por Elon Musk."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Spacex",
+      "target_type": "company"
+    },
+    {
+      "source": "Netflix",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Blockbuster",
+      "target_type": "company"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Elon Musk",
+      "target_type": "person"
+    },
+    {
+      "source": "Mpx",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Petrobras",
+      "target_type": "company"
+    },
+    {
+      "source": "Natura",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Cingo",
+      "target_type": "company"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Andy Grove",
+      "target_type": "person"
+    },
+    {
+      "source": "Mmx",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Vale",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cingo",
+      "target_type": "company"
+    },
+    {
+      "source": "Andy Grove",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Intel",
+      "target_type": "company"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mpx",
+      "target_type": "company"
+    },
+    {
+      "source": "Eike Batista",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mmx",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "episode_id": "34748488501",
+  "title": "Ele Ficou Milionário Vendendo Vinhos - Com Rogério Salume (Wine) | Extremos",
+  "date_published": 1700728200,
+  "duration": 4788,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Rogério Salume",
+      "role": "guest",
+      "company": "Wine",
+      "title": "Empresário"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "Fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Ana Lúcia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Esposa de Rogério Salume"
+    },
+    {
+      "name": "Abílio Diniz",
+      "role": "mentioned",
+      "company": "Península Participações",
+      "title": "Founder"
+    },
+    {
+      "name": "Marcelo Darienzo",
+      "role": "mentioned",
+      "company": "Wine",
+      "title": "CEO"
+    },
+    {
+      "name": "Anselmo",
+      "role": "mentioned",
+      "company": "Wine",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Jorge Paulo Lemann",
+      "role": "mentioned",
+      "company": "3G Capital",
+      "title": "Investor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação focada em negócios"
+    },
+    {
+      "name": "Wine",
+      "industry": "Varejo de vinhos",
+      "context": "Maior clube de vinhos do mundo"
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Referência mencionada como comparação ao sucesso de Rogério Salume"
+    },
+    {
+      "name": "Península Participações",
+      "industry": "Investment",
+      "context": "Mentioned in relation to investment and partnership with Wine."
+    },
+    {
+      "name": "Pão De Açúcar",
+      "industry": "Retail",
+      "context": "Associated with Abílio Diniz"
+    },
+    {
+      "name": "3G Capital",
+      "industry": "Investment",
+      "context": "Associated with Jorge Paulo Lemann"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Recorrência",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Eficiência no varejo",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Habilidade pessoal"
+    },
+    {
+      "name": "Foco",
+      "category": "Habilidade pessoal"
+    },
+    {
+      "name": "Clube de assinatura",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Indicação de clientes",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Clusters de clientes",
+      "category": "Segmentação de mercado"
+    },
+    {
+      "name": "Logística e distribuição",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Proposta de valor",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Industry"
+    },
+    {
+      "name": "B2B",
+      "category": "Business Model"
+    },
+    {
+      "name": "B2C",
+      "category": "Business Model"
+    },
+    {
+      "name": "Business Contracts",
+      "category": "Business Process"
+    },
+    {
+      "name": "Global Business Expansion",
+      "category": "Strategy"
+    },
+    {
+      "name": "Mentorship",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "MeuSucesso.com",
+      "author": "Não especificado"
+    },
+    {
+      "title": "Revista Exame (edição sobre Abílio Diniz e Cassinô)",
+      "author": "Exame"
+    },
+    {
+      "title": "Revista Exame",
+      "author": "Editora Abril"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "3 milhões de reais por dia",
+      "context": "Faturamento diário da Wine"
+    },
+    {
+      "value": "350 mil assinantes",
+      "context": "Número de membros do clube de vinhos da Wine"
+    },
+    {
+      "value": "1,5% da população brasileira",
+      "context": "Proporção de assinantes da Wine em relação à população brasileira"
+    },
+    {
+      "value": "100 mil sócios",
+      "context": "Meta alcançada pela Wine com mais de 60% dos clientes vindo por indicação."
+    },
+    {
+      "value": "350 mil sócios",
+      "context": "Número atual de sócios do clube de assinatura da Wine."
+    },
+    {
+      "value": "35% das vendas",
+      "context": "Provenientes de indicações na Wine atualmente."
+    },
+    {
+      "value": "360 mil assinaturas",
+      "context": "Wine's subscription base."
+    },
+    {
+      "value": "400 mil assinaturas",
+      "context": "Updated metric for Wine's subscription base."
+    },
+    {
+      "value": "17 lojas próprias",
+      "context": "Wine's physical store count."
+    },
+    {
+      "value": "8 years",
+      "context": "Duration of partnership between Rogério Salume and Abílio Diniz"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rogério Salume",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Foco",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rogério Salume",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jorge Paulo Lemann",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Wine",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Recorrência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Darienzo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Wine",
+      "target_type": "company"
+    },
+    {
+      "source": "Wine",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Península Participações",
+      "target_type": "company"
+    },
+    {
+      "source": "Rogério Salume",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Abílio Diniz",
+      "target_type": "person"
+    },
+    {
+      "source": "Anselmo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Wine",
+      "target_type": "company"
+    },
+    {
+      "source": "Rogério Salume",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Wine",
+      "target_type": "company"
+    },
+    {
+      "source": "Rogério Salume",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Disciplina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Wine",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Eficiência No Varejo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rogério Salume",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Wine",
+      "target_type": "company"
+    },
+    {
+      "source": "Abílio Diniz",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Península Participações",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

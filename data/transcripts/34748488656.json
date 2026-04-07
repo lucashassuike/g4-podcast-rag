@@ -1,0 +1,3915 @@
+{
+  "id": 34748488656,
+  "title": "#022 - 10 anos de Easy Taxi: fundadores relembram a jornada da companhia",
+  "guest": "",
+  "date_published": 1628670607,
+  "duration": 2092,
+  "text": "Fala galera, eu sou o Tales Gomes e esse é um episódio do Papo de Gestão, um podcast do G4 Educação em que eu converso com os maiores gestores do Brasil. Aqui você vai aprender as lições que eu gostaria de ter escutado na minha trajetória e vai participar de conversas com pessoas que eu admiro sobre gestão, liderança, alta performance e outros assuntos que são necessários para você ser um líder 4.0. E no final, não esquece de ir no Instagram do arroba G4 Podcast para me falar o que você está achando sobre esse projeto. Antes de iniciar, quero te falar um pouco melhor sobre o que é o G4. Nós somos a evolução da escola de negócios. Nós traduzimos as práticas das empresas que mais crescem no mundo para o seu negócio. Eu sou mentor de um dos produtos, o G4 Imersão e Mentoria. Ela possui três pilares. Primeiro, conteúdo de altíssima qualidade que trazem as práticas das empresas que mais crescem no mundo para o seu negócio. Segundo, mentorias em que você pode tirar as suas dúvidas com os mentores, como eu, e que não são professores, mas sim empresários bem-sucedidos que já passaram pelos desafios que você está enfrentando hoje. Terceiro, networking com outros gestores, pois sabemos que a jornada do empreendedor é solitária. E por isso, oferecemos um ambiente onde você pode fazer relacionamentos e também negócios. Se você quiser ser mentorado por mim e outros empreendedores, é só entrar em g4educação.com barra mentoria ou ir na descrição desse episódio e clicar no link para se inscrever no processo de seleção do G4 Imersão e Mentoria. Nela, você terá três dias comigo, Alfredo e Bruno, e também acessa uma plataforma com conteúdos exclusivos para transformar o seu negócio após a imersão. Um verdadeiro MBA de três dias, com lições que você já irá aplicar um dia depois na sua empresa. Vou chamar meus co-founders aqui e vocês vão ver essa resenha aí, entre a gente. Saudade dos caras, velho. Juro por Deus, tem muito tempo que a gente não senta para trocar essa ideia. E aí, Vini? Fala. Gente, esse é o Vini, meu CTO. Cara, o Vini é um dos caras mais emblemáticos do ecossistema de empreendedorismo na parte de tecnologia. Tem quantos anos que você trampa com tecnologia, Vini? Uns 30 anos já? É, acho que desde moleque. 30 não, mas uns 25 aí já. É verdade. 25 anos, né, velho? Qual foi a primeira coisa que você codou na sua vida? Ah, jogo, né? Quando eu era moleque, quando eu tinha 8 anos de idade, meu pai dava aqueles livrinhos lá de jogo. Eu copiava, né? Não era nem codar. Eu copiava e ele foi me ensinando a debugar. Eu fui aprendendo ali. Fala lá com ele. Fala, Daniel Coi. Caralho, que animal, velho, que a gente conseguiu juntar os caras. Esses caras não gostam de aparecer, gente. Coi, é difícil, cara. Não gostam. A ideia é a gente lembrar dos perrengues que a gente passou lá no primeiro ano pra fazer esse negócio acontecer. E foi perrengue, né, brother? O Daniel foi meu primeiro co-founder, cara. É o único original do Startup Weekend. O cara ralou pra caralho ali com a gente no iniciozinho da companhia pra tirar o negócio do chão. Ele era meu co-founder, diretor operacional. É super raro esse negócio, cara, de você realmente conhecer alguém no Startup Weekend que depois a sociedade funciona e pô, o Coi foi o único, inclusive, né? Coi, a gente tinha uns 5, 6 negros no nosso grupo no Startup Weekend? Nada, cara, nada. Lembra, cara, no primeiro dia a gente tava sem ideia e aí na mesa tinha umas 10 pessoas, né? E as outras mesas cheias de gente. Porra, as outras mesas tudo funcionando, o pessoal já tava começando a criar startup e a gente, ó, sem ideia nenhuma. Nós criamos o ônibus, né? É, a questão do ônibus lá do Google, te falei lá do Google. Porra, vamos fazer. Não, foi tu, porra. Eu? Ah, foi tu, cara. Não me lembro, eu sei que, tipo assim, a gente ficou... Tudo que é cachorro, cara. A gente ficou conjecturando pra ver o que ia fazer e tal, até que a gente chegou na ideia do táxi, porque tava ruim de conseguir táxi, né, velho? É, porra, um da manhã, um da manhã tentando táxi, porra, ninguém parava. Ninguém parava, foi uma merda, cara. E eu me lembro que eu fui dormir, tipo, a gente se falando no WhatsApp o tempo inteiro e você, porra, vou modelar essa porra. E você começou, tipo, a modelar o negócio, pegou o Canvas, começou a fazer o Canvas, você lembra? Canvas, cara, naquela época, 2011, né? Ninguém conhecia essa parada de Canvas, ninguém conhecia, cara. Deixa eu te mostrar essa porra aqui. Até te prestei um livro, cara. Business Model Canvas. Do Alexander Osterwalder. É, exatamente, exatamente. Porra, e ali que a gente começou a desenhar Easy Taxi, cara, modelo de negócio. Aí tu não vai lembrar disso não, mas tu me ligou, cara, no primeiro dia, quando a gente chegou em casa, a gente morava perto, tu me ligou, Daniel, já sei como é que a gente vai fazer a cobrança, como é que a gente vai monetizar. Como, Tales? Ah, vamos cobrar por download de aplicativo. Tu não vai lembrar disso. Não lembro. Aí eu falei pra você, já era de madrugada, cara, tu devia estar cansado pra cacete. Aí eu falei, não rola, cara, vai ser uma barreira de entrada gigantesca. Vamos dormir, amanhã a gente pensa. Aí no dia seguinte, porra, Tales, já sei como é que é. Aí eu te falei, pago por uso, lembra disso? TPU? É verdade, eu lembro, TPU, velho. TPU, na verdade, a ideia surgiu do modelo de negócio da TIM, naquela época, que a TIM tava, cara, 2011, naquela época a TIM tava lançando pré-pago, 50 centavos, né? Era o sucessinho do pré-pago, né? É, 2G, né, ainda, né? E sabe o que eu me lembro? Smartphone não existia, cara, era aquelas telas micro. É, e eu me lembro que eu fui visitar os pontos de táxi, Daniel, e a gente viu que tinha um prancheta, você lembra que cobrava 2 reais? Você falou, pô, vamos botar 1 real então, mano, TPU. Foi o que surgiu, TPU, pago por uso. Exatamente, começando com esse troço, E aí, sabe o que eu me lembro também, velho? Do quanto que você ralou pra gente conseguir aqueles smartphones, que não tinha smartphone, né, brother? Cara, não tinha smartphone na época, a gente tava todo fodido e sem dinheiro também, né? A gente tava fodido pra caralho comodatto, né? Não, mas isso foi depois, Vini. Não, foi depois. Eu lembro quando comprou os ETs, você já tava assim, né, Thales? Comprou aqueles ETs, era uns 10, eu tava assim. Você já tava? Estava. Foi nos primeiros 20 que a gente comprou do modelo Easy Mobile. Era o ET ainda, não? Não, na verdade foi um dos 10 primeiros, mas... Eu já tava acordando com o Márcio, o Márcio vinha aqui pra casa e a gente tava acordando. Eu me lembro que o Bicalho tinha pegado, e aí o Bicalho não tava acreditando muito na gente, não. Isso, isso, isso. Eu lembro muito mesmo, pô. Ele não falou o que sabia, ele falou que não sabia, mas que ele aprendia, Thales, não muda não. Isso mesmo, isso mesmo. Ninguém sabia programar mobile, né? Ninguém sabia. Ninguém sabia. Não sabia. Estão dois do Android chegando no Brasil ainda. Você lembra disso? Agora que o app era feio pra cacete e era, né? Não vou falar que ele programava.\n\nVamos falar, porque era frio, era. O objetivo era esse, cara. O objetivo era esse, cara. Só para vocês terem uma visualizada aqui, gente, vocês estão vendo? A gente está falando de Brasil 2011, 4% da população brasileira tinha smartphone com internet só, segunda versão do Android chegando no Brasil, e esses malucos aqui fazendo mobile, cara. Mobile, eu não sabia que era mobile no mundo. A gente começando esse treco no Brasil, senhora loucura. E aí o Daniel foi meu primeiro co-founder, era meu diretor de operações e tal, ele, pô, se virou para arrumar um ZTE, que era uma bosta da Huawei, Daniel? Era a Huawei, era bem barato. ZTE? Não, cara, ZTE era ZTE mesmo, era chinês. Uma porcaria, mas que era caro pra caralho. Se não me engano, você pagou R$700 em cada celular desse, não é isso? Não, cara, não, não. R$700 era preço de mercado, preço de loja física. Não, não, a gente pagou R$300, cara, preço de custo. Não, R$300 não foi no Huawei? Não. Não foi no Huawei, foi no ZTE. Foi R$300, eu lembro, cara. Eu lembro disso. A gente está falando de 2011, tá? Traz na Valor Presente. R$300 era dinheiro pra caralho. Pra caralho. R$300 era muito dinheiro, velho. Eu não sei fazer essa conta, não, mas eu sei que era dinheiro pra caralho. Eu lembro na época. Caralho, R$300 é dinheiro demais, irmão. E não era só porque a gente não tinha grana, não, porque o Inês era rico. É porque o negócio era dinheiro pra caralho mesmo. Era foda. iPhone era tipo R$800, não era isso? R$900, sei lá. Acho que era mais, cara. Acho que era mais. Era, cara. Era, mas sempre foi caro. Tinha smartphone de R$2.000, cara, na época, que eu lembro. Tinha, tinha. Mas eu lembro que a gente se virou com esse ZTE e, porra, e a galera, vocês estão ouvindo a gente aí? A maior dificuldade era o seguinte, cara. Taxista usado era aquele negócio do radinho, me dá o nome? Nextel. Radinho. Nextel. Era mesmo. E a gente convenceu os caras a comprar smartphone, o caralho, e os caras não compravam nem fudendo. Aí o que a gente fez? A gente foi e falou, pô, vamos comprar 10? Quero que a gente tenha de grana ali. E vamos emprestar pros caras. Só que qual que era a parada, brother? O negócio que emprestava pros caras, os caras não tinham nem carregador veicular. Você lembra, Daniel? Não, e eles esqueciam de logar, porque não tinha chamada no começo. Eles esqueciam de logar. O cara ficava mais de uma hora no banheiro. Não, cara. Aí o Daniel ficava ligando pros caras. Você lembra, Daniel? A gente fez um sistema. Eu lembro que a gente fez um sistema. Quantas horas tinha ficado logado pra gente poder pedir de volta os smartphones. Não, cara. O corrente tinha que ligar. Lembro. Eu ligava, cara. Ficava uns 24 horas, porra, ligando. Pedia o celular de volta, que não logava. Lembro, porra. O Daniel não dormia nessa época. Ele ficava o tempo inteiro ligado no trem, velho. Até a distância do Daniel era aquele mapa do Google ali, plotando os taxistas navegando. Eu tenho. Com oito taxistas ali. Caralho, eu lembro, cara. Eu comprei um tablet pra fazer o cadastro mais rápido dos taxistas. Pô, meu laptop era pesado pra cacete. Eu pensei assim, pô, vou comprar um tablet. Comprei um tablet da Samsung mais baratinho, só com chip, né? Nem Wi-Fi recebia. Aí eu comprei o tablet. Porra, a gente não tinha escritório também, né? Escritório era a minha casa, era dentro do táxi. Cara, todo cadastro eu descia, sentava lá dentro do táxi e fazia o cadastro. Até, lembra, Márcio, com a palavra que eu ia dizer? Márcio, tô indo fazer um cadastro. Fica atento aí. Fica esperto aí. Fica esperto aí. E aí eu fazia os cadastros assim. E aí o tablet, cara, eu dormia com ele, cara. Eu dormia do meu lado, assim. Estava de qualquer maneira, só virar e pegar o tablet. Eu lembro desse tablet. Se eu quero um Android, era. Era um Android, cara. Uma merda esse tablet. Era uma merda. Você era acho que uma das primeiras versões de tablet que chegou no Brasil. Era o Samsung de 7 polegadas. 7 polegadas. Eu comprei. Comprei o de 10 pra poder ver os carrinhos rodando, né? Caralho, que época. E aí depois nós começamos a arrumar os treinos dos comodatos lá pra poder de telefone, porque os caras não tinham telefone, né, mano? Tinha que arrumar os treinos de comodatos. A gente teve um contrato de comodato de mil linhas, né? Que era mil aparelhos. A gente anunciou e faltando... Quando deu 45 dias, a gente falou que ia ter em 60 dias, falaram que a nossa empresa era muito nova, não tinha crédito pra pegar as linhas, os aparelhos, né? Eu lembro, velho. Eu também. Naquela época, ele ficava o tempo inteiro ligado no treino. É. Tinha uma de distância do Daniel, era aquele mapa do Google ali, plotando os taxistas navegando. Você tem print, Daniel? Eu tenho, tenho, tenho. Com oito taxistas ali. Caralho, eu lembro, cara. Eu comprei um tablet pra fazer o cadastro mais rápido dos taxistas. Pô, meu laptop era pesado pra cacete. Aí eu pensei assim, pô, vou comprar um tablet. Comprei tablet da Samsung mais baratinho, só com chip, né? Nem Wi-Fi recebia. Aí eu comprei o tablet. Porra, a gente não tinha escritório também, né? Escritório era a minha casa, era dentro do táxi. Cara, todo cadastro eu descia, sentava lá dentro do táxi e fazia o cadastro. Até, lembra, Marcos, com a palavra que eu vou dizer? Marcos, tô indo fazer um cadastro. Fica atento aí. Fica esperto aí. Fica esperto aí. E aí eu fazia os cadastros assim. E aí o tablet, cara, eu dormia com ele, cara. Eu dormia do meu lado, assim. Estava de qualquer maneira, só virar e pegar o tablet. Eu lembro desse tablet. Se eu quero um Android, né? Era um Android, cara. Uma merda esse tablet. Era uma merda. Você era acho que uma das primeiras versões de tablet que chegou no Brasil. Era o Samsung de 7 polegadas. 7 polegadas. Eu comprei. Comprei o de 10 pra poder ver os carrinhos rodando, né? Caralho, que época. E aí depois nós começamos a arrumar os treinos dos comodatos lá pra poder de telefone, porque os caras não tinham telefone, né, mano? Tinha que arrumar os treinos de comodato. A gente teve um contrato de comodato de mil linhas, né? Que era mil aparelhos. A gente anunciou e faltando... Quando deu 45 dias, a gente falou que ia ter em 60 dias, falaram que a nossa empresa era muito nova, não tinha crédito pra pegar as linhas, os aparelhos, né? Eu lembro, velho. Eu lembro o seguinte. A gente foi mil linhas mesmo de comodato. Aí eu falei, não, vamos ter mil, pode vir aí, porra. A gente foi captando, aí daqui a pouco... Não, não tem como emprestar pra vocês. Não, e anunciou, cara. Anunciou não, né? Saiu no jornal, saiu tudo. Que ia ter mil taxistas, saiu... Caralho, é verdade. Eu lembro, velho. Foi no início, quando a gente começou... Naquele escritório que foi lançado na Igreja da Glória. Vocês lembram disso? Eu lembro. Eu lembro eu e Márcio naquela mesezinha de plástico. Naquele trem quente, velho. Não era do meu dia, meu dia. Não passava sinal de Wi-Fi naquelas paredes, cara. Não passava sinal de Wi-Fi ali. Não passava sinal de Wi-Fi que não dá pra trabalhar aqui. Nossa, velho. Que perrengue que a gente passou nessa porra, brother. Eu me lembro, cara, do caralho, cara. A gente cadastrando... E não tinha funcionário, cara. Não tinha nem ventilador, cara. Não tinha ventilador. Não tinha nada naquela sala, não tinha nada. Era mesa de plástico. Pra trabalhar, pra programar, era mesa de plástico e cadeira de plástico. Sabe uma lembrança que eu tenho, Vinícius? Você puta comigo, que eu dei uma entrevista pra Globo News ali. E você me perguntou qual a maior dificuldade de empreender no Brasil. Eu vou botar a Dilma como sócia, eu vim e ficou puto. Eu lembro lá mesmo. Eu e o Márcio sentados na mesinha ali atrás de plástico\n\ncom aquele 21, 2 em 2, sei lá, na época, não deu porra. Lembra do The Next Web que a gente competiu com eles? Foi no The Next Web? Não, foi no... Foi naquele negócio do IBM. Não, não, não. A gente apresentou esse modelo. A gente foi pra The Next Web. É verdade que foi aqui em São Paulo a premiação, brother. Exato. Eu não tinha grana pra vir, mas não tinha grana pra dormir no hotel. Aí eu falei, eu vou conhecer alguém lá, vou ficar brother, alguém vai me convidar pra dormir na casa dele. Foi até o Felipe Oranges, cara, meu amigo até hoje, sou astronauta. Não sei se você acredita. Ele e o Vitor, que era o sócio dele lá, os caras, tipo assim, estavam com um aplicativo bosta, né? Na verdade, imprimir cartão postal. E aí estava disputando lá o trem, aí eu fiquei brother dos caras. Aí os caras, e aí, vai fazer o quê? Eu falei, pô, sei lá, tô vendo o que eu vou fazer. Eu não tinha grana pra dormir no hotel. Aí os caras, porra, se quiser cair em casa, eu falei, ah, se for de boa, eu quero, mano. Graças a Deus, arrumei um lugar pra cair. Ô, Márcio, qual foi aquele evento que te botaram pra fazer embaixadinha lá, que você competiu com o cara? Ah, é, pô, foi no The Next Web, pô. Foi nesse evento. Foi nesse evento. É verdade. Pô, eu tava de sapato social, velho. Não, de sapato social. Ganhou do gringo, não é isso? É. Era isso. Sapato social, o Márcio foi fazer embaixadinha, ganhou do cara lá. Ganhou do cara, velho. Caralho, que resenha, meu irmão. Puta que pariu. O que você lembra de mais perrengue aí, Daniel? Perrengue? Márcio, pode lembrar muito bem, cara. Carreata dos taxistas, lembra disso, Márcio? Carreata? Aquele evento que ele fez no hotel, e aí no dia seguinte tinha... Não. Cara, foi uma carreata que ia ter dos taxistas em prol de um deputado, em prol dos taxistas. Não, não. Em prol do deputado, defendia, claro, dos taxistas. E aí eu falei, pô, eu nem tinha lançado ainda o app. Aí eu falei, porra, eu preciso ir nessa parada pra poder fazer o pré-cadastro, né, dos taxistas. Bater uns 500 lá, vou fazer cadastro de todo mundo. Aí eu pensei assim, caralho, vai se dar na puta que pariu. Márcio, vamos comigo, vamos sozinho nessa parada, não. Vamos lá, vamos embora. Aí eu disse, vamos lá. Chamei o Márcio, aí a gente foi lá. Qual foi o ponto, Márcio, que a gente encontrou? Costa Barros. A gente encontrou, a gente deu um taxilho e fomos de carreata até Costa Barros. Caralho, cara. Dois dias depois... Não, o pior é que a gente depois saiu do bairro, lá que a gente tava, que teve essa confusão, e a gente foi pra Ilha do Governador pra churrasco. Tinha um churrasco. Tinha um churrasco. Churrasco das cooperativas, cara. Cara, aí o Márcio, a gente foi, entramos, aí vimos os donos das cooperativas com bandeirão, tipo torcida organizada. Cara, eu falei, Márcio, vambora daqui, cara. Tá maluco isso aqui? Tô aqui daqui a pouco. Eu me lembro que eu ia em evento de cooperativa e tinha um cara do cooperativo, acho que era o André, que era o nome dele, que a gente ficou mais forte. André Assisto. Isso, lembro. O André Assisto. No clube dos taxistas. No clube dos taxistas. Não, de associação. Na verdade, o André não era muito... De associação dos taxistas autônomos, não era isso? É um negócio assim, taxistas autônomos. Associação dos taxistas autônomos, alguma parada assim. Os caras do cooperativo não gostavam muito da gente, não. Pesão não era muito nosso fã, não. Na verdade, no começo, eles não tinham muito problema, né? Porque eles achavam que não ia dar em muito nada. Eles começavam a aparecer. Eu lembro, cara. Eu lembro que eu vim de uma cooperativa lá na Tijuca, chamada Pontual. Era grande. Pontual? Era top do Rio. Era top, era top. E aí o cara, porra, falou assim pra gente. Porra, vocês vão ter que ralar bastante pra terem 2 milhões de corrida mesmo. É, tá bom. Mas meses depois, a gente bateu a meta, né? Exatamente. O cara morreu, né? Acabou a cooperativa. O tal do crescimento exponencial, né, velho? Que é bizarro quando o trem engata. Vamos falar pra galera quando o troço engata. Quando o negócio realmente, tipo assim, achou o modelo de negócio. Pivotamos, então, gente, uma vez. A gente saiu do modelo de fazer um attachment com cooperativas pra ir direto no B2C, o que era inimaginável na época. E a gente fez essa parada. A gente achou que esse era o caminho. E só pra vocês entenderem onde que a gente tava, antes da gente receber a primeira rodada de funding da Rocket, a gente tava, tipo assim, há dois meses de quebrar totalmente, né, Daniel? Não tinha mais grana. Dois meses? Que dois meses, meu? Um mês. Foi um mês, né? Não, cara. Eu lembro, cara. Não, a gente chegou três dívidas, né? A gente tava fodido mesmo. Mas dívida não. A gente tava pra quebrar uns dois meses mesmo. Porque a gente pegou um empréstimo lá. Na verdade, a gente não tinha muito problema, né? Eles achavam que não ia dar em muito nada. A gente começou a aparecer. Não ia dar em nada, cara. Eu lembro, cara. Eu lembro que eu vim de uma cooperativa lá na Tijuca, chamada Pontual. Era grande. Pontual? Era top do Rio. Era top, era top. E aí o cara, porra, falou assim pra gente. Porra, vocês vão ter que ralar bastante pra terem dois milhões de corrida mesmo. É. É, tá bom. Mas meses depois, a gente bateu a meta, né? Exatamente. O cara morreu, né? Acabou a cooperativa. O tal do crescimento exponencial, né, velho? Que é bizarro quando o trem engata. Vamos falar pra galera quando o troço engata, assim. Quando o negócio realmente, tipo assim, a gente achou o modelo de negócio. Pivotamos, então, gente, uma vez. A gente saiu do modelo de fazer um attachment com cooperativas pra ir direto no B2C, o que era inimaginável na época. E a gente fez essa parada. A gente achou que esse era o caminho. E só pra vocês entenderem onde que a gente tava, antes da gente receber a primeira rodada de funding da Rocket, a gente tava, tipo assim, há dois meses de quebrar totalmente, né, Daniel? Não tinha mais grana. Dois meses? Que dois meses? Um mês. Não, cara. Foi um mês, né? Foi um mês? Não, cara. Não, eu lembro, cara. Não, a gente chegou atendido, né? A gente tava fodido mesmo. Mas dívida não. A gente tava pra quebrar, tipo lá, uns dois meses mesmo. Porque a gente pegou um empréstimo lá. Imagina, a gente sabe que a Rocket pagou. Tem coisa que a Rocket pagou. Ah, verdade. Mas isso aí, a gente seguiu pra frente. A gente pegou empréstimo com o Alex Taboa. Alex Taboa. Alex Taboa. Tipo assim, eu sei que a grana do Daniel já tava acabando, a minha já tava acabando, não tinha mais grana, velho. Essa que era a verdade. Tanto que foi o tempo que o Bicarro falou, porra, eu tô fora, galera, que esse negócio vai virar. É, o Bicarro foi, saiu. Ele foi uma outra saída. Lembra? O Bicarro saiu. O Bicarro saiu nessa época, cara. E já tava aí, cara. Aí tava começando a fazer com o advogado, que era o Zemo Yu. Não, não, não. Vamos lembrar, vamos lembrar. A gente tinha um acordo com o escritório de advocacia que defendeu a gente, que quando a gente captasse, a gente tinha que pagar. Então a gente já tinha uma dívida ativa com o Bicarro. Foi pra defender a gente. O Gaessa e o Gaessa e o Daniel Romor, que foi pra defender a gente daquele maluco que processou a gente. Como é que é o nome, velho? Ah, é. Teve também aquilo. Esse cara teve uma grana pra ele. Foi disso que nasceu a dívida do escritório de advocacia. Foi desse processo. Tinha um maluco que processou a gente. Mas que a gente botou ele pra trabalhar de cofada e o cara não tava entregando. O Daniel\n\nEu me lembro do perrengue que a gente passou porque a Rocket queria botar os engenheiros deles para poder meter a mão no app. Você lembra o tanto que você tomou no cu com isso, Vini? Botaram, né? Depois eu tinha que refazer a API toda, né? Eles fizeram lá em Mongo tudo errado. Os caras fizeram a gente perder três meses nessa porra. O tal do Mongo que você adorava, né? O Vercoffee caía. Fazia uma consulta, eles fizeram um mundo relacional. Eles botaram as tabelas do banco não relacional, relacional, que era o que eles sabiam. Cara, eu tive que refazer o app todo. Caía todo dia. Aula do que nunca fazer em Venture Capital, velho. Tentar meter a mão no negócio dos caras que vocês foram investindo. Que era só pra gente ver como é que era, que a TI podia ficar em qualquer lugar. São Paulo era um projeto de dois meses. Era só pra gente ver como é que era. São Paulo era um projeto de dois meses. Fala aí, se passa, explica como funcionam as coisas e depois vocês voltam. Tá até agora pra voltar. Ô Vini, você lembra como que a gente veio pra São Paulo a primeira vez juntos? Você lembra que a gente ficou dormindo juntos? Você marcou aquele dormindo? Marquei um hotel. Na primeira noite não, mas aí eu falei, cara, marca o hotel pra amanhã. Você falou, beleza. Aí eu saí e voltei e você marcou. Você estava dormindo, apagado. Ah, marquei. Aí no dia seguinte eu tô indo pro hotel e você falou, ah, não marquei esse aqui não. Falei, como assim, cara? Eu te dei a página, mostrei o hotel. Aí a gente teve que ir pra outro hotel. Chegamos de madrugada. Dormiu numa cama de casal, velho. Não tinha mais quarto a nada. E o primeiro Airbnb, Marcio, você lembra? Aquela casa do quarto, num colchão no chão, velho. Parecia um cachiveiro, velho. A gente tinha recebido, sei lá, milhões, 10 milhões de reais de investimento da Rocket. E aí, brother, a gente pegou, eu marquei um Airbnb, pô, eu era muito humilde, velho. Tipo assim, não conhecia nada, assim, tá ligado? Nunca tive dinheiro na minha vida. Eu, pô, marquei um Airbnb, mas daqui era aluguel de quarto, num lugar, tipo, sei lá, na Moca, sabe? E era um quartinho do fera lá, que tinha uns três colchões que a gente dormia no chão, num free, velho. Você lembra, Marcio? Ficamos ali, velho. Parecia um cachiveiro, velho. Você tá ficando aonde? Eu falei, ah, velho, peguei um Airbnb ali. Aí negou ali aonde? Tal lugar, que eu não lembro onde que era. Tipo, um lugar muito longe. Aí eu, que isso, você tá maluco? Pô, você lembra do primeiro dia em São Paulo, Tati? A gente assinou o contrato, porra, almoçamos com todo mundo, ficamos trabalhando até 11 da noite, fomos sair da Rocket. Não tinha táxi. Fomos pra rua tentar pegar táxi na rua, porra, tinha um cara assaltando uma menina. Caralho, é verdade! O escritório da Rocket, tipo, naquela Cracolândiazinha ali, né? Na Vila Leopoldina. Como é que é o nome daquilo? Vila... Vila Leopoldina. Leopoldina. Não, não, acho que é por aí, por aí, acho que é no Parque Vila Lobos. Aí fez o Parque Vila Lobos ali. E eu me lembro que o Márcio e o Vini odiavam São Paulo, e eu virei pros caras e falei, não, velho, só vai ali, eu pedi pra arrumar uma parada, daqui a pouco vocês voltam pro Rio. Não, tá aí. Não, mas a Rocket falou isso também, o Sima falou isso pra mim. O Sima falou isso pra gente também. Não, pode ver, a TI pode ficar em qualquer lugar do mundo. Então tá aí, pode voltar pro Rio, tá bom. O Márcio ficou na casa do André aí um tempo, eu fiquei na casa do meu primo, cara, eu hospedado, achando que era temporário. Pô, eu pedi a fudia pra poder ir com o Sima, o Sima tá lá em Miami, né? É, tá em Miami, faz tempo que eu não falo com ele também. Vamos falar um pouquinho sobre o que cada um tá fazendo agora? Dani, conta pra galera o que você tá fazendo e tal, pra galera te conhecer melhor, mano. Cara, hoje trabalho com diversidade cognitiva. Delexia, na verdade. Pra quem não sabe o que é Delexia, Delexia, se você jogar no Google, é transtorno de aprendizagem, mas na verdade tem o outro lado da moeda, que é o dom da Delexia, que nos dá potencialidades fora do normal, né? Então eu tô trabalhando com pessoas dilexicas pra descobrir e potencializar esse dom. Caralho, mano. E assim que eu obtenho sucesso profissional e pessoal. Caralho. E você, Vini? O que você tá arrumando? Cara, eu tô na Remessa Online hoje, com o Márcio, ele vai falar também, tocando a parte de dados, segurança, ajudando lá em tudo, né? Onde precisa, escalabilidade, onde eu consigo fazer alguma coisa. O Remessa Online, gente, é um dos business que surgiu do negócio que a gente criou quando a gente vendeu a Izitac, chamado E-Genius, que era uma venture builder. E aí, puta, dessa venture builder nasceu o Simbu, nasceu o Bicâmbio, que virou Remessa, não é isso, Márcio? É, só corrigindo, né? O Pavani e o Stefano, que são os fundadores iniciais, estavam já tocando a Bicâmbio, e a gente fez um modelo de joint venture ali, e desse projeto da Bicâmbio nasceu o Remessa Online em 2016, né? Pra facilitar e simplificar aí quem precisa fazer pagamentos internacionais. Então, quem precisa mandar dinheiro pra fora ou receber dinheiro, pode usar a nossa solução aí, tanto pra pessoa física quanto pra pessoa jurídica. É, os caras estão... Você está transacionando quanto hoje, cara? Puts, não tenho os números de cabeça, mas a gente transacionou mais de um bi já esse ano, tá, Deco? Não tenho na vírgula aqui, mas estamos crescendo num ritmo muito bom, e o grande foco agora é a gente também trazer os benefícios que a gente fez da pessoa física ao longo desses três anos aí pra pessoa jurídica. Exatamente, cara. Na verdade é o seguinte, porra, eu quis fazer essa resenha aqui pra vocês verem, é... Na verdade tinha muito tempo que eu não conversava com os nossos quatro juntos, a gente não fazia essa resenha aí, de fato. E eu falei, vamos fazer essa resenha. Tem porra, 10 anos. Como é que é, Dani? Os quatro juntos tem muito tempo. Você conta agora de 10 em 10. Cara, vendeu um livro nas quatro, muito tempo. Cinco anos. A gente fez essa resenha em 2016. Ficamos quatro anos de Z-Taxi ou cinco, a gente falou, não foi? Pô, acho que a gente fez em 16, alguma coisa assim. Eu acho que foi em 16. A gente se encontrou em São Paulo. Se foi até naquele restaurante japonês lá, o Scandal? Tô brincando. Sempre brincadeira. Eu acho que a gente fez a última resenha, cara, em 2016, velho. Em 2016 que a gente fez essa resenha junto, tomando uma. E eu falei, pô, vou fazer essa resenha aqui com os caras pra vocês verem como é que funciona, cara. Como que a gente... Começa um negócio, o tanto de perrengue que a gente passa. Vocês vão ver tanta gente falar sobre facilidade, vem cá que eu vou te dar uma fórmula, um hack. Tem porra nenhuma disso, mas é a relação do caralho pra tirar o negócio do chão, brother. Do caralho, vocês não têm ideia. Ô Thales, você não deixou o Marcio falar o que ele tá fazendo, cara. O Marcio falou, ué. Não, ele falou remessa, mas não falou o que ele tá fazendo lá. O que você faz na remessa, Marcio? Pô, hoje eu sou o Red de Engenharia, então cuido dos times de desenvolvimento lá. Mas eu falei, Vini, falei no conjunto com o Pete. Ah, chique, hein, Marcio. Caralho, é Red de Engenharia. Quem diria, hein, velho. A gente vai galgando devagarzinho, né. O importante é estar sempre construindo. Filho de mineiro. Desistiu de jogar bola, meu irmão. Marcio é bom de bola, viu, velho. Dois anos atrás, eu saí da empresa, quebrei a clavícula jogando bola. Quebrou a clavícula jogando bola? Como você fez isso? Cai, rebentei o ombro. Cara, perto do Ano Novo. E o pior de tudo é que no dia, eu falei pra ele pra ele não jogar, lembra disso, Marcio? Você me deu a oportunidade de não jogar. Foi",
+  "word_count": 5511,
+  "chunks_used": 4,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.94,
+      "timestamp": "00:00",
+      "text": "Fala galera, eu sou o Tales Gomes e esse é um episódio do Papo de Gestão, um podcast do G4 Educação em que eu converso com os maiores gestores do Brasil."
+    },
+    {
+      "start": 10.94,
+      "end": 28.67,
+      "timestamp": "00:10",
+      "text": "Aqui você vai aprender as lições que eu gostaria de ter escutado na minha trajetória e vai participar de conversas com pessoas que eu admiro sobre gestão, liderança, alta performance e outros assuntos que são necessários para você ser um líder 4.0."
+    },
+    {
+      "start": 28.67,
+      "end": 37.32,
+      "timestamp": "00:28",
+      "text": "E no final, não esquece de ir no Instagram do arroba G4 Podcast para me falar o que você está achando sobre esse projeto."
+    },
+    {
+      "start": 37.32,
+      "end": 42.18,
+      "timestamp": "00:37",
+      "text": "Antes de iniciar, quero te falar um pouco melhor sobre o que é o G4."
+    },
+    {
+      "start": 42.18,
+      "end": 45.25,
+      "timestamp": "00:42",
+      "text": "Nós somos a evolução da escola de negócios."
+    },
+    {
+      "start": 45.25,
+      "end": 51.33,
+      "timestamp": "00:45",
+      "text": "Nós traduzimos as práticas das empresas que mais crescem no mundo para o seu negócio."
+    },
+    {
+      "start": 51.33,
+      "end": 55.47,
+      "timestamp": "00:51",
+      "text": "Eu sou mentor de um dos produtos, o G4 Imersão e Mentoria."
+    },
+    {
+      "start": 55.47,
+      "end": 57.19,
+      "timestamp": "00:55",
+      "text": "Ela possui três pilares."
+    },
+    {
+      "start": 57.19,
+      "end": 65.98,
+      "timestamp": "00:57",
+      "text": "Primeiro, conteúdo de altíssima qualidade que trazem as práticas das empresas que mais crescem no mundo para o seu negócio."
+    },
+    {
+      "start": 65.98,
+      "end": 80.78,
+      "timestamp": "01:05",
+      "text": "Segundo, mentorias em que você pode tirar as suas dúvidas com os mentores, como eu, e que não são professores, mas sim empresários bem-sucedidos que já passaram pelos desafios que você está enfrentando hoje."
+    },
+    {
+      "start": 80.78,
+      "end": 87.71,
+      "timestamp": "01:20",
+      "text": "Terceiro, networking com outros gestores, pois sabemos que a jornada do empreendedor é solitária."
+    },
+    {
+      "start": 87.71,
+      "end": 94.15,
+      "timestamp": "01:27",
+      "text": "E por isso, oferecemos um ambiente onde você pode fazer relacionamentos e também negócios."
+    },
+    {
+      "start": 94.15,
+      "end": 110.16,
+      "timestamp": "01:34",
+      "text": "Se você quiser ser mentorado por mim e outros empreendedores, é só entrar em g4educação.com barra mentoria ou ir na descrição desse episódio e clicar no link para se inscrever no processo de seleção do G4 Imersão e Mentoria."
+    },
+    {
+      "start": 110.16,
+      "end": 121.1,
+      "timestamp": "01:50",
+      "text": "Nela, você terá três dias comigo, Alfredo e Bruno, e também acessa uma plataforma com conteúdos exclusivos para transformar o seu negócio após a imersão."
+    },
+    {
+      "start": 121.1,
+      "end": 127.96,
+      "timestamp": "02:01",
+      "text": "Um verdadeiro MBA de três dias, com lições que você já irá aplicar um dia depois na sua empresa."
+    },
+    {
+      "start": 127.96,
+      "end": 133.68,
+      "timestamp": "02:07",
+      "text": "Vou chamar meus co-founders aqui e vocês vão ver essa resenha aí, entre a gente."
+    },
+    {
+      "start": 133.68,
+      "end": 135.47,
+      "timestamp": "02:13",
+      "text": "Saudade dos caras, velho."
+    },
+    {
+      "start": 135.47,
+      "end": 140.9,
+      "timestamp": "02:15",
+      "text": "Juro por Deus, tem muito tempo que a gente não senta para trocar essa ideia."
+    },
+    {
+      "start": 140.9,
+      "end": 141.69,
+      "timestamp": "02:20",
+      "text": "E aí, Vini?"
+    },
+    {
+      "start": 141.69,
+      "end": 142.04,
+      "timestamp": "02:21",
+      "text": "Fala."
+    },
+    {
+      "start": 142.04,
+      "end": 144.19,
+      "timestamp": "02:22",
+      "text": "Gente, esse é o Vini, meu CTO."
+    },
+    {
+      "start": 144.19,
+      "end": 151.62,
+      "timestamp": "02:24",
+      "text": "Cara, o Vini é um dos caras mais emblemáticos do ecossistema de empreendedorismo na parte de tecnologia."
+    },
+    {
+      "start": 151.62,
+      "end": 155.48,
+      "timestamp": "02:31",
+      "text": "Tem quantos anos que você trampa com tecnologia, Vini?"
+    },
+    {
+      "start": 155.48,
+      "end": 156.56,
+      "timestamp": "02:35",
+      "text": "Uns 30 anos já?"
+    },
+    {
+      "start": 156.56,
+      "end": 158.42,
+      "timestamp": "02:36",
+      "text": "É, acho que desde moleque."
+    },
+    {
+      "start": 158.42,
+      "end": 160.2,
+      "timestamp": "02:38",
+      "text": "30 não, mas uns 25 aí já."
+    },
+    {
+      "start": 160.2,
+      "end": 160.92,
+      "timestamp": "02:40",
+      "text": "É verdade."
+    },
+    {
+      "start": 160.92,
+      "end": 162.28,
+      "timestamp": "02:40",
+      "text": "25 anos, né, velho?"
+    },
+    {
+      "start": 162.28,
+      "end": 166.06,
+      "timestamp": "02:42",
+      "text": "Qual foi a primeira coisa que você codou na sua vida?"
+    },
+    {
+      "start": 166.06,
+      "end": 166.99,
+      "timestamp": "02:46",
+      "text": "Ah, jogo, né?"
+    },
+    {
+      "start": 166.99,
+      "end": 174.0,
+      "timestamp": "02:46",
+      "text": "Quando eu era moleque, quando eu tinha 8 anos de idade, meu pai dava aqueles livrinhos lá de jogo."
+    },
+    {
+      "start": 174.0,
+      "end": 175.07,
+      "timestamp": "02:53",
+      "text": "Eu copiava, né?"
+    },
+    {
+      "start": 175.07,
+      "end": 176.36,
+      "timestamp": "02:55",
+      "text": "Não era nem codar."
+    },
+    {
+      "start": 176.36,
+      "end": 179.5,
+      "timestamp": "02:56",
+      "text": "Eu copiava e ele foi me ensinando a debugar."
+    },
+    {
+      "start": 179.5,
+      "end": 181.08,
+      "timestamp": "02:59",
+      "text": "Eu fui aprendendo ali."
+    },
+    {
+      "start": 181.08,
+      "end": 182.22,
+      "timestamp": "03:01",
+      "text": "Fala lá com ele."
+    },
+    {
+      "start": 182.22,
+      "end": 183.44,
+      "timestamp": "03:02",
+      "text": "Fala, Daniel Coi."
+    },
+    {
+      "start": 183.44,
+      "end": 188.15,
+      "timestamp": "03:03",
+      "text": "Caralho, que animal, velho, que a gente conseguiu juntar os caras."
+    },
+    {
+      "start": 188.15,
+      "end": 191.16,
+      "timestamp": "03:08",
+      "text": "Esses caras não gostam de aparecer, gente."
+    },
+    {
+      "start": 191.16,
+      "end": 192.66,
+      "timestamp": "03:11",
+      "text": "Coi, é difícil, cara."
+    },
+    {
+      "start": 192.66,
+      "end": 193.44,
+      "timestamp": "03:12",
+      "text": "Não gostam."
+    },
+    {
+      "start": 193.44,
+      "end": 201.45,
+      "timestamp": "03:13",
+      "text": "A ideia é a gente lembrar dos perrengues que a gente passou lá no primeiro ano pra fazer esse negócio acontecer."
+    },
+    {
+      "start": 201.45,
+      "end": 203.52,
+      "timestamp": "03:21",
+      "text": "E foi perrengue, né, brother?"
+    },
+    {
+      "start": 203.52,
+      "end": 206.6,
+      "timestamp": "03:23",
+      "text": "O Daniel foi meu primeiro co-founder, cara."
+    },
+    {
+      "start": 206.6,
+      "end": 209.31,
+      "timestamp": "03:26",
+      "text": "É o único original do Startup Weekend."
+    },
+    {
+      "start": 209.31,
+      "end": 216.25,
+      "timestamp": "03:29",
+      "text": "O cara ralou pra caralho ali com a gente no iniciozinho da companhia pra tirar o negócio do chão."
+    },
+    {
+      "start": 216.25,
+      "end": 219.39,
+      "timestamp": "03:36",
+      "text": "Ele era meu co-founder, diretor operacional."
+    },
+    {
+      "start": 219.39,
+      "end": 230.62,
+      "timestamp": "03:39",
+      "text": "É super raro esse negócio, cara, de você realmente conhecer alguém no Startup Weekend que depois a sociedade funciona e pô, o Coi foi o único, inclusive, né?"
+    },
+    {
+      "start": 230.62,
+      "end": 235.55,
+      "timestamp": "03:50",
+      "text": "Coi, a gente tinha uns 5, 6 negros no nosso grupo no Startup Weekend?"
+    },
+    {
+      "start": 235.55,
+      "end": 236.77,
+      "timestamp": "03:55",
+      "text": "Nada, cara, nada."
+    },
+    {
+      "start": 236.77,
+      "end": 243.34,
+      "timestamp": "03:56",
+      "text": "Lembra, cara, no primeiro dia a gente tava sem ideia e aí na mesa tinha umas 10 pessoas, né?"
+    },
+    {
+      "start": 243.34,
+      "end": 245.77,
+      "timestamp": "04:03",
+      "text": "E as outras mesas cheias de gente."
+    },
+    {
+      "start": 245.77,
+      "end": 254.14,
+      "timestamp": "04:05",
+      "text": "Porra, as outras mesas tudo funcionando, o pessoal já tava começando a criar startup e a gente, ó, sem ideia nenhuma."
+    },
+    {
+      "start": 254.14,
+      "end": 255.92,
+      "timestamp": "04:14",
+      "text": "Nós criamos o ônibus, né?"
+    },
+    {
+      "start": 255.92,
+      "end": 260.14,
+      "timestamp": "04:15",
+      "text": "É, a questão do ônibus lá do Google, te falei lá do Google."
+    },
+    {
+      "start": 260.14,
+      "end": 261.5,
+      "timestamp": "04:20",
+      "text": "Porra, vamos fazer."
+    },
+    {
+      "start": 261.5,
+      "end": 262.86,
+      "timestamp": "04:21",
+      "text": "Não, foi tu, porra."
+    },
+    {
+      "start": 262.86,
+      "end": 263.07,
+      "timestamp": "04:22",
+      "text": "Eu?"
+    },
+    {
+      "start": 263.07,
+      "end": 264.29,
+      "timestamp": "04:23",
+      "text": "Ah, foi tu, cara."
+    },
+    {
+      "start": 264.29,
+      "end": 268.22,
+      "timestamp": "04:24",
+      "text": "Não me lembro, eu sei que, tipo assim, a gente ficou..."
+    },
+    {
+      "start": 268.22,
+      "end": 270.08,
+      "timestamp": "04:28",
+      "text": "Tudo que é cachorro, cara."
+    },
+    {
+      "start": 270.08,
+      "end": 280.44,
+      "timestamp": "04:30",
+      "text": "A gente ficou conjecturando pra ver o que ia fazer e tal, até que a gente chegou na ideia do táxi, porque tava ruim de conseguir táxi, né, velho?"
+    },
+    {
+      "start": 280.44,
+      "end": 285.59,
+      "timestamp": "04:40",
+      "text": "É, porra, um da manhã, um da manhã tentando táxi, porra, ninguém parava."
+    },
+    {
+      "start": 285.59,
+      "end": 288.16,
+      "timestamp": "04:45",
+      "text": "Ninguém parava, foi uma merda, cara."
+    },
+    {
+      "start": 288.16,
+      "end": 297.1,
+      "timestamp": "04:48",
+      "text": "E eu me lembro que eu fui dormir, tipo, a gente se falando no WhatsApp o tempo inteiro e você, porra, vou modelar essa porra."
+    },
+    {
+      "start": 297.1,
+      "end": 304.03,
+      "timestamp": "04:57",
+      "text": "E você começou, tipo, a modelar o negócio, pegou o Canvas, começou a fazer o Canvas, você lembra?"
+    },
+    {
+      "start": 304.03,
+      "end": 306.75,
+      "timestamp": "05:04",
+      "text": "Canvas, cara, naquela época, 2011, né?"
+    },
+    {
+      "start": 306.75,
+      "end": 311.26,
+      "timestamp": "05:06",
+      "text": "Ninguém conhecia essa parada de Canvas, ninguém conhecia, cara."
+    },
+    {
+      "start": 311.26,
+      "end": 313.83,
+      "timestamp": "05:11",
+      "text": "Deixa eu te mostrar essa porra aqui."
+    },
+    {
+      "start": 313.83,
+      "end": 315.97,
+      "timestamp": "05:13",
+      "text": "Até te prestei um livro, cara."
+    },
+    {
+      "start": 315.97,
+      "end": 317.55,
+      "timestamp": "05:15",
+      "text": "Business Model Canvas."
+    },
+    {
+      "start": 317.55,
+      "end": 319.33,
+      "timestamp": "05:17",
+      "text": "Do Alexander Osterwalder."
+    },
+    {
+      "start": 319.33,
+      "end": 321.19,
+      "timestamp": "05:19",
+      "text": "É, exatamente, exatamente."
+    },
+    {
+      "start": 321.19,
+      "end": 326.84,
+      "timestamp": "05:21",
+      "text": "Porra, e ali que a gente começou a desenhar Easy Taxi, cara, modelo de negócio."
+    },
+    {
+      "start": 326.84,
+      "end": 343.14,
+      "timestamp": "05:26",
+      "text": "Aí tu não vai lembrar disso não, mas tu me ligou, cara, no primeiro dia, quando a gente chegou em casa, a gente morava perto, tu me ligou, Daniel, já sei como é que a gente vai fazer a cobrança, como é que a gente vai monetizar."
+    },
+    {
+      "start": 343.14,
+      "end": 344.0,
+      "timestamp": "05:43",
+      "text": "Como, Tales?"
+    },
+    {
+      "start": 344.0,
+      "end": 347.14,
+      "timestamp": "05:43",
+      "text": "Ah, vamos cobrar por download de aplicativo."
+    },
+    {
+      "start": 347.14,
+      "end": 348.93,
+      "timestamp": "05:47",
+      "text": "Tu não vai lembrar disso."
+    },
+    {
+      "start": 348.93,
+      "end": 349.72,
+      "timestamp": "05:48",
+      "text": "Não lembro."
+    },
+    {
+      "start": 349.72,
+      "end": 355.65,
+      "timestamp": "05:49",
+      "text": "Aí eu falei pra você, já era de madrugada, cara, tu devia estar cansado pra cacete."
+    },
+    {
+      "start": 355.65,
+      "end": 360.8,
+      "timestamp": "05:55",
+      "text": "Aí eu falei, não rola, cara, vai ser uma barreira de entrada gigantesca."
+    },
+    {
+      "start": 360.8,
+      "end": 363.3,
+      "timestamp": "06:00",
+      "text": "Vamos dormir, amanhã a gente pensa."
+    },
+    {
+      "start": 363.3,
+      "end": 367.16,
+      "timestamp": "06:03",
+      "text": "Aí no dia seguinte, porra, Tales, já sei como é que é."
+    },
+    {
+      "start": 367.16,
+      "end": 370.23,
+      "timestamp": "06:07",
+      "text": "Aí eu te falei, pago por uso, lembra disso?"
+    },
+    {
+      "start": 370.23,
+      "end": 370.52,
+      "timestamp": "06:10",
+      "text": "TPU?"
+    },
+    {
+      "start": 370.52,
+      "end": 372.88,
+      "timestamp": "06:10",
+      "text": "É verdade, eu lembro, TPU, velho."
+    },
+    {
+      "start": 372.88,
+      "end": 384.6,
+      "timestamp": "06:12",
+      "text": "TPU, na verdade, a ideia surgiu do modelo de negócio da TIM, naquela época, que a TIM tava, cara, 2011, naquela época a TIM tava lançando pré-pago, 50 centavos, né?"
+    },
+    {
+      "start": 384.6,
+      "end": 386.96,
+      "timestamp": "06:24",
+      "text": "Era o sucessinho do pré-pago, né?"
+    },
+    {
+      "start": 386.96,
+      "end": 388.46,
+      "timestamp": "06:26",
+      "text": "É, 2G, né, ainda, né?"
+    },
+    {
+      "start": 388.46,
+      "end": 390.32,
+      "timestamp": "06:28",
+      "text": "E sabe o que eu me lembro?"
+    },
+    {
+      "start": 390.32,
+      "end": 394.18,
+      "timestamp": "06:30",
+      "text": "Smartphone não existia, cara, era aquelas telas micro."
+    },
+    {
+      "start": 394.18,
+      "end": 403.76,
+      "timestamp": "06:34",
+      "text": "É, e eu me lembro que eu fui visitar os pontos de táxi, Daniel, e a gente viu que tinha um prancheta, você lembra que cobrava 2 reais?"
+    },
+    {
+      "start": 403.76,
+      "end": 407.48,
+      "timestamp": "06:43",
+      "text": "Você falou, pô, vamos botar 1 real então, mano, TPU."
+    },
+    {
+      "start": 407.48,
+      "end": 410.05,
+      "timestamp": "06:47",
+      "text": "Foi o que surgiu, TPU, pago por uso."
+    },
+    {
+      "start": 410.05,
+      "end": 415.91,
+      "timestamp": "06:50",
+      "text": "Exatamente, começando com esse troço, E aí, sabe o que eu me lembro também, velho?"
+    },
+    {
+      "start": 415.91,
+      "end": 423.35,
+      "timestamp": "06:55",
+      "text": "Do quanto que você ralou pra gente conseguir aqueles smartphones, que não tinha smartphone, né, brother?"
+    },
+    {
+      "start": 423.35,
+      "end": 429.64,
+      "timestamp": "07:03",
+      "text": "Cara, não tinha smartphone na época, a gente tava todo fodido e sem dinheiro também, né?"
+    },
+    {
+      "start": 429.64,
+      "end": 432.93,
+      "timestamp": "07:09",
+      "text": "A gente tava fodido pra caralho comodatto, né?"
+    },
+    {
+      "start": 432.93,
+      "end": 435.14,
+      "timestamp": "07:12",
+      "text": "Não, mas isso foi depois, Vini."
+    },
+    {
+      "start": 435.14,
+      "end": 436.29,
+      "timestamp": "07:15",
+      "text": "Não, foi depois."
+    },
+    {
+      "start": 436.29,
+      "end": 440.86,
+      "timestamp": "07:16",
+      "text": "Eu lembro quando comprou os ETs, você já tava assim, né, Thales?"
+    },
+    {
+      "start": 440.86,
+      "end": 444.22,
+      "timestamp": "07:20",
+      "text": "Comprou aqueles ETs, era uns 10, eu tava assim."
+    },
+    {
+      "start": 444.22,
+      "end": 445.15,
+      "timestamp": "07:24",
+      "text": "Você já tava?"
+    },
+    {
+      "start": 445.15,
+      "end": 445.65,
+      "timestamp": "07:25",
+      "text": "Estava."
+    },
+    {
+      "start": 445.65,
+      "end": 450.15,
+      "timestamp": "07:25",
+      "text": "Foi nos primeiros 20 que a gente comprou do modelo Easy Mobile."
+    },
+    {
+      "start": 450.15,
+      "end": 451.58,
+      "timestamp": "07:30",
+      "text": "Era o ET ainda, não?"
+    },
+    {
+      "start": 451.58,
+      "end": 454.94,
+      "timestamp": "07:31",
+      "text": "Não, na verdade foi um dos 10 primeiros, mas..."
+    },
+    {
+      "start": 454.94,
+      "end": 461.31,
+      "timestamp": "07:34",
+      "text": "Eu já tava acordando com o Márcio, o Márcio vinha aqui pra casa e a gente tava acordando."
+    },
+    {
+      "start": 461.31,
+      "end": 468.24,
+      "timestamp": "07:41",
+      "text": "Eu me lembro que o Bicalho tinha pegado, e aí o Bicalho não tava acreditando muito na gente, não."
+    },
+    {
+      "start": 468.24,
+      "end": 469.46,
+      "timestamp": "07:48",
+      "text": "Isso, isso, isso."
+    },
+    {
+      "start": 469.46,
+      "end": 471.31,
+      "timestamp": "07:49",
+      "text": "Eu lembro muito mesmo, pô."
+    },
+    {
+      "start": 471.31,
+      "end": 478.11,
+      "timestamp": "07:51",
+      "text": "Ele não falou o que sabia, ele falou que não sabia, mas que ele aprendia, Thales, não muda não."
+    },
+    {
+      "start": 478.11,
+      "end": 479.75,
+      "timestamp": "07:58",
+      "text": "Isso mesmo, isso mesmo."
+    },
+    {
+      "start": 479.75,
+      "end": 482.25,
+      "timestamp": "07:59",
+      "text": "Ninguém sabia programar mobile, né?"
+    },
+    {
+      "start": 482.25,
+      "end": 483.25,
+      "timestamp": "08:02",
+      "text": "Ninguém sabia."
+    },
+    {
+      "start": 483.25,
+      "end": 484.25,
+      "timestamp": "08:03",
+      "text": "Ninguém sabia."
+    },
+    {
+      "start": 484.25,
+      "end": 484.97,
+      "timestamp": "08:04",
+      "text": "Não sabia."
+    },
+    {
+      "start": 484.97,
+      "end": 488.33,
+      "timestamp": "08:04",
+      "text": "Estão dois do Android chegando no Brasil ainda."
+    },
+    {
+      "start": 488.33,
+      "end": 489.62,
+      "timestamp": "08:08",
+      "text": "Você lembra disso?"
+    },
+    {
+      "start": 489.62,
+      "end": 492.9,
+      "timestamp": "08:09",
+      "text": "Agora que o app era feio pra cacete e era, né?"
+    },
+    {
+      "start": 492.9,
+      "end": 495.26,
+      "timestamp": "08:12",
+      "text": "Não vou falar que ele programava."
+    },
+    {
+      "start": 495.26,
+      "end": 497.69,
+      "timestamp": "08:15",
+      "text": "Vamos falar, porque era frio, era."
+    },
+    {
+      "start": 497.69,
+      "end": 499.55,
+      "timestamp": "08:17",
+      "text": "O objetivo era esse, cara."
+    },
+    {
+      "start": 499.55,
+      "end": 501.41,
+      "timestamp": "08:19",
+      "text": "O objetivo era esse, cara."
+    },
+    {
+      "start": 501.41,
+      "end": 506.2,
+      "timestamp": "08:21",
+      "text": "Só para vocês terem uma visualizada aqui, gente, vocês estão vendo?"
+    },
+    {
+      "start": 506.2,
+      "end": 519.5,
+      "timestamp": "08:26",
+      "text": "A gente está falando de Brasil 2011, 4% da população brasileira tinha smartphone com internet só, segunda versão do Android chegando no Brasil, e esses malucos aqui fazendo mobile, cara."
+    },
+    {
+      "start": 519.5,
+      "end": 522.71,
+      "timestamp": "08:39",
+      "text": "Mobile, eu não sabia que era mobile no mundo."
+    },
+    {
+      "start": 522.71,
+      "end": 526.72,
+      "timestamp": "08:42",
+      "text": "A gente começando esse treco no Brasil, senhora loucura."
+    },
+    {
+      "start": 526.72,
+      "end": 537.73,
+      "timestamp": "08:46",
+      "text": "E aí o Daniel foi meu primeiro co-founder, era meu diretor de operações e tal, ele, pô, se virou para arrumar um ZTE, que era uma bosta da Huawei, Daniel?"
+    },
+    {
+      "start": 537.73,
+      "end": 539.8,
+      "timestamp": "08:57",
+      "text": "Era a Huawei, era bem barato."
+    },
+    {
+      "start": 539.8,
+      "end": 540.09,
+      "timestamp": "08:59",
+      "text": "ZTE?"
+    },
+    {
+      "start": 540.09,
+      "end": 543.02,
+      "timestamp": "09:00",
+      "text": "Não, cara, ZTE era ZTE mesmo, era chinês."
+    },
+    {
+      "start": 543.02,
+      "end": 546.09,
+      "timestamp": "09:03",
+      "text": "Uma porcaria, mas que era caro pra caralho."
+    },
+    {
+      "start": 546.09,
+      "end": 551.02,
+      "timestamp": "09:06",
+      "text": "Se não me engano, você pagou R$700 em cada celular desse, não é isso?"
+    },
+    {
+      "start": 551.02,
+      "end": 552.45,
+      "timestamp": "09:11",
+      "text": "Não, cara, não, não."
+    },
+    {
+      "start": 552.45,
+      "end": 555.96,
+      "timestamp": "09:12",
+      "text": "R$700 era preço de mercado, preço de loja física."
+    },
+    {
+      "start": 555.96,
+      "end": 559.67,
+      "timestamp": "09:15",
+      "text": "Não, não, a gente pagou R$300, cara, preço de custo."
+    },
+    {
+      "start": 559.67,
+      "end": 561.75,
+      "timestamp": "09:19",
+      "text": "Não, R$300 não foi no Huawei?"
+    },
+    {
+      "start": 561.75,
+      "end": 562.03,
+      "timestamp": "09:21",
+      "text": "Não."
+    },
+    {
+      "start": 562.03,
+      "end": 564.18,
+      "timestamp": "09:22",
+      "text": "Não foi no Huawei, foi no ZTE."
+    },
+    {
+      "start": 564.18,
+      "end": 566.11,
+      "timestamp": "09:24",
+      "text": "Foi R$300, eu lembro, cara."
+    },
+    {
+      "start": 566.11,
+      "end": 567.25,
+      "timestamp": "09:26",
+      "text": "Eu lembro disso."
+    },
+    {
+      "start": 567.25,
+      "end": 569.61,
+      "timestamp": "09:27",
+      "text": "A gente está falando de 2011, tá?"
+    },
+    {
+      "start": 569.61,
+      "end": 571.25,
+      "timestamp": "09:29",
+      "text": "Traz na Valor Presente."
+    },
+    {
+      "start": 571.25,
+      "end": 573.47,
+      "timestamp": "09:31",
+      "text": "R$300 era dinheiro pra caralho."
+    },
+    {
+      "start": 573.47,
+      "end": 574.33,
+      "timestamp": "09:33",
+      "text": "Pra caralho."
+    },
+    {
+      "start": 574.33,
+      "end": 576.62,
+      "timestamp": "09:34",
+      "text": "R$300 era muito dinheiro, velho."
+    },
+    {
+      "start": 576.62,
+      "end": 581.91,
+      "timestamp": "09:36",
+      "text": "Eu não sei fazer essa conta, não, mas eu sei que era dinheiro pra caralho."
+    },
+    {
+      "start": 581.91,
+      "end": 583.26,
+      "timestamp": "09:41",
+      "text": "Eu lembro na época."
+    },
+    {
+      "start": 583.26,
+      "end": 586.12,
+      "timestamp": "09:43",
+      "text": "Caralho, R$300 é dinheiro demais, irmão."
+    },
+    {
+      "start": 586.12,
+      "end": 591.34,
+      "timestamp": "09:46",
+      "text": "E não era só porque a gente não tinha grana, não, porque o Inês era rico."
+    },
+    {
+      "start": 591.34,
+      "end": 594.92,
+      "timestamp": "09:51",
+      "text": "É porque o negócio era dinheiro pra caralho mesmo."
+    },
+    {
+      "start": 594.92,
+      "end": 595.56,
+      "timestamp": "09:54",
+      "text": "Era foda."
+    },
+    {
+      "start": 595.56,
+      "end": 598.13,
+      "timestamp": "09:55",
+      "text": "iPhone era tipo R$800, não era isso?"
+    },
+    {
+      "start": 598.13,
+      "end": 599.13,
+      "timestamp": "09:58",
+      "text": "R$900, sei lá."
+    },
+    {
+      "start": 599.13,
+      "end": 600.85,
+      "timestamp": "09:59",
+      "text": "Acho que era mais, cara."
+    },
+    {
+      "start": 600.85,
+      "end": 602.14,
+      "timestamp": "10:00",
+      "text": "Acho que era mais."
+    },
+    {
+      "start": 602.14,
+      "end": 602.85,
+      "timestamp": "10:02",
+      "text": "Era, cara."
+    },
+    {
+      "start": 602.85,
+      "end": 604.64,
+      "timestamp": "10:02",
+      "text": "Era, mas sempre foi caro."
+    },
+    {
+      "start": 604.64,
+      "end": 608.86,
+      "timestamp": "10:04",
+      "text": "Tinha smartphone de R$2.000, cara, na época, que eu lembro."
+    },
+    {
+      "start": 608.86,
+      "end": 609.79,
+      "timestamp": "10:08",
+      "text": "Tinha, tinha."
+    },
+    {
+      "start": 609.79,
+      "end": 617.01,
+      "timestamp": "10:09",
+      "text": "Mas eu lembro que a gente se virou com esse ZTE e, porra, e a galera, vocês estão ouvindo a gente aí?"
+    },
+    {
+      "start": 617.01,
+      "end": 619.94,
+      "timestamp": "10:17",
+      "text": "A maior dificuldade era o seguinte, cara."
+    },
+    {
+      "start": 619.94,
+      "end": 624.08,
+      "timestamp": "10:19",
+      "text": "Taxista usado era aquele negócio do radinho, me dá o nome?"
+    },
+    {
+      "start": 624.08,
+      "end": 624.58,
+      "timestamp": "10:24",
+      "text": "Nextel."
+    },
+    {
+      "start": 624.58,
+      "end": 625.16,
+      "timestamp": "10:24",
+      "text": "Radinho."
+    },
+    {
+      "start": 625.16,
+      "end": 625.66,
+      "timestamp": "10:25",
+      "text": "Nextel."
+    },
+    {
+      "start": 625.66,
+      "end": 626.37,
+      "timestamp": "10:25",
+      "text": "Era mesmo."
+    },
+    {
+      "start": 626.37,
+      "end": 633.45,
+      "timestamp": "10:26",
+      "text": "E a gente convenceu os caras a comprar smartphone, o caralho, e os caras não compravam nem fudendo."
+    },
+    {
+      "start": 633.45,
+      "end": 634.95,
+      "timestamp": "10:33",
+      "text": "Aí o que a gente fez?"
+    },
+    {
+      "start": 634.95,
+      "end": 637.95,
+      "timestamp": "10:34",
+      "text": "A gente foi e falou, pô, vamos comprar 10?"
+    },
+    {
+      "start": 637.95,
+      "end": 640.6,
+      "timestamp": "10:37",
+      "text": "Quero que a gente tenha de grana ali."
+    },
+    {
+      "start": 640.6,
+      "end": 642.67,
+      "timestamp": "10:40",
+      "text": "E vamos emprestar pros caras."
+    },
+    {
+      "start": 642.67,
+      "end": 645.39,
+      "timestamp": "10:42",
+      "text": "Só que qual que era a parada, brother?"
+    },
+    {
+      "start": 645.39,
+      "end": 651.18,
+      "timestamp": "10:45",
+      "text": "O negócio que emprestava pros caras, os caras não tinham nem carregador veicular."
+    },
+    {
+      "start": 651.18,
+      "end": 652.61,
+      "timestamp": "10:51",
+      "text": "Você lembra, Daniel?"
+    },
+    {
+      "start": 652.61,
+      "end": 657.4,
+      "timestamp": "10:52",
+      "text": "Não, e eles esqueciam de logar, porque não tinha chamada no começo."
+    },
+    {
+      "start": 657.4,
+      "end": 659.11,
+      "timestamp": "10:57",
+      "text": "Eles esqueciam de logar."
+    },
+    {
+      "start": 659.11,
+      "end": 662.19,
+      "timestamp": "10:59",
+      "text": "O cara ficava mais de uma hora no banheiro."
+    },
+    {
+      "start": 662.19,
+      "end": 662.9,
+      "timestamp": "11:02",
+      "text": "Não, cara."
+    },
+    {
+      "start": 662.9,
+      "end": 665.62,
+      "timestamp": "11:02",
+      "text": "Aí o Daniel ficava ligando pros caras."
+    },
+    {
+      "start": 665.62,
+      "end": 667.05,
+      "timestamp": "11:05",
+      "text": "Você lembra, Daniel?"
+    },
+    {
+      "start": 667.05,
+      "end": 668.69,
+      "timestamp": "11:07",
+      "text": "A gente fez um sistema."
+    },
+    {
+      "start": 668.69,
+      "end": 671.34,
+      "timestamp": "11:08",
+      "text": "Eu lembro que a gente fez um sistema."
+    },
+    {
+      "start": 671.34,
+      "end": 677.05,
+      "timestamp": "11:11",
+      "text": "Quantas horas tinha ficado logado pra gente poder pedir de volta os smartphones."
+    },
+    {
+      "start": 677.05,
+      "end": 677.77,
+      "timestamp": "11:17",
+      "text": "Não, cara."
+    },
+    {
+      "start": 677.77,
+      "end": 679.7,
+      "timestamp": "11:17",
+      "text": "O corrente tinha que ligar."
+    },
+    {
+      "start": 679.7,
+      "end": 680.2,
+      "timestamp": "11:19",
+      "text": "Lembro."
+    },
+    {
+      "start": 680.2,
+      "end": 681.34,
+      "timestamp": "11:20",
+      "text": "Eu ligava, cara."
+    },
+    {
+      "start": 681.34,
+      "end": 683.92,
+      "timestamp": "11:21",
+      "text": "Ficava uns 24 horas, porra, ligando."
+    },
+    {
+      "start": 683.92,
+      "end": 686.85,
+      "timestamp": "11:23",
+      "text": "Pedia o celular de volta, que não logava."
+    },
+    {
+      "start": 686.85,
+      "end": 687.85,
+      "timestamp": "11:26",
+      "text": "Lembro, porra."
+    },
+    {
+      "start": 687.85,
+      "end": 690.14,
+      "timestamp": "11:27",
+      "text": "O Daniel não dormia nessa época."
+    },
+    {
+      "start": 690.14,
+      "end": 693.64,
+      "timestamp": "11:30",
+      "text": "Ele ficava o tempo inteiro ligado no trem, velho."
+    },
+    {
+      "start": 693.64,
+      "end": 699.93,
+      "timestamp": "11:33",
+      "text": "Até a distância do Daniel era aquele mapa do Google ali, plotando os taxistas navegando."
+    },
+    {
+      "start": 699.93,
+      "end": 700.57,
+      "timestamp": "11:39",
+      "text": "Eu tenho."
+    },
+    {
+      "start": 700.57,
+      "end": 702.15,
+      "timestamp": "11:40",
+      "text": "Com oito taxistas ali."
+    },
+    {
+      "start": 702.15,
+      "end": 703.93,
+      "timestamp": "11:42",
+      "text": "Caralho, eu lembro, cara."
+    },
+    {
+      "start": 703.93,
+      "end": 708.72,
+      "timestamp": "11:43",
+      "text": "Eu comprei um tablet pra fazer o cadastro mais rápido dos taxistas."
+    },
+    {
+      "start": 708.72,
+      "end": 711.37,
+      "timestamp": "11:48",
+      "text": "Pô, meu laptop era pesado pra cacete."
+    },
+    {
+      "start": 711.37,
+      "end": 714.44,
+      "timestamp": "11:51",
+      "text": "Eu pensei assim, pô, vou comprar um tablet."
+    },
+    {
+      "start": 714.44,
+      "end": 718.8,
+      "timestamp": "11:54",
+      "text": "Comprei um tablet da Samsung mais baratinho, só com chip, né?"
+    },
+    {
+      "start": 718.8,
+      "end": 720.09,
+      "timestamp": "11:58",
+      "text": "Nem Wi-Fi recebia."
+    },
+    {
+      "start": 720.09,
+      "end": 721.73,
+      "timestamp": "12:00",
+      "text": "Aí eu comprei o tablet."
+    },
+    {
+      "start": 721.73,
+      "end": 725.09,
+      "timestamp": "12:01",
+      "text": "Porra, a gente não tinha escritório também, né?"
+    },
+    {
+      "start": 725.09,
+      "end": 728.53,
+      "timestamp": "12:05",
+      "text": "Escritório era a minha casa, era dentro do táxi."
+    },
+    {
+      "start": 728.53,
+      "end": 733.96,
+      "timestamp": "12:08",
+      "text": "Cara, todo cadastro eu descia, sentava lá dentro do táxi e fazia o cadastro."
+    },
+    {
+      "start": 733.96,
+      "end": 737.6,
+      "timestamp": "12:13",
+      "text": "Até, lembra, Márcio, com a palavra que eu ia dizer?"
+    },
+    {
+      "start": 737.6,
+      "end": 740.03,
+      "timestamp": "12:17",
+      "text": "Márcio, tô indo fazer um cadastro."
+    },
+    {
+      "start": 740.03,
+      "end": 741.11,
+      "timestamp": "12:20",
+      "text": "Fica atento aí."
+    },
+    {
+      "start": 741.11,
+      "end": 742.25,
+      "timestamp": "12:21",
+      "text": "Fica esperto aí."
+    },
+    {
+      "start": 742.25,
+      "end": 743.39,
+      "timestamp": "12:22",
+      "text": "Fica esperto aí."
+    },
+    {
+      "start": 743.39,
+      "end": 745.75,
+      "timestamp": "12:23",
+      "text": "E aí eu fazia os cadastros assim."
+    },
+    {
+      "start": 745.75,
+      "end": 748.97,
+      "timestamp": "12:25",
+      "text": "E aí o tablet, cara, eu dormia com ele, cara."
+    },
+    {
+      "start": 748.97,
+      "end": 751.04,
+      "timestamp": "12:28",
+      "text": "Eu dormia do meu lado, assim."
+    },
+    {
+      "start": 751.04,
+      "end": 754.9,
+      "timestamp": "12:31",
+      "text": "Estava de qualquer maneira, só virar e pegar o tablet."
+    },
+    {
+      "start": 754.9,
+      "end": 756.55,
+      "timestamp": "12:34",
+      "text": "Eu lembro desse tablet."
+    },
+    {
+      "start": 756.55,
+      "end": 758.55,
+      "timestamp": "12:36",
+      "text": "Se eu quero um Android, era."
+    },
+    {
+      "start": 758.55,
+      "end": 760.05,
+      "timestamp": "12:38",
+      "text": "Era um Android, cara."
+    },
+    {
+      "start": 760.05,
+      "end": 761.62,
+      "timestamp": "12:40",
+      "text": "Uma merda esse tablet."
+    },
+    {
+      "start": 761.62,
+      "end": 762.62,
+      "timestamp": "12:41",
+      "text": "Era uma merda."
+    },
+    {
+      "start": 762.62,
+      "end": 767.99,
+      "timestamp": "12:42",
+      "text": "Você era acho que uma das primeiras versões de tablet que chegou no Brasil."
+    },
+    {
+      "start": 767.99,
+      "end": 770.06,
+      "timestamp": "12:47",
+      "text": "Era o Samsung de 7 polegadas."
+    },
+    {
+      "start": 770.06,
+      "end": 770.92,
+      "timestamp": "12:50",
+      "text": "7 polegadas."
+    },
+    {
+      "start": 770.92,
+      "end": 771.7,
+      "timestamp": "12:50",
+      "text": "Eu comprei."
+    },
+    {
+      "start": 771.7,
+      "end": 775.64,
+      "timestamp": "12:51",
+      "text": "Comprei o de 10 pra poder ver os carrinhos rodando, né?"
+    },
+    {
+      "start": 775.64,
+      "end": 776.99,
+      "timestamp": "12:55",
+      "text": "Caralho, que época."
+    },
+    {
+      "start": 776.99,
+      "end": 786.5,
+      "timestamp": "12:56",
+      "text": "E aí depois nós começamos a arrumar os treinos dos comodatos lá pra poder de telefone, porque os caras não tinham telefone, né, mano?"
+    },
+    {
+      "start": 786.5,
+      "end": 789.5,
+      "timestamp": "13:06",
+      "text": "Tinha que arrumar os treinos de comodatos."
+    },
+    {
+      "start": 789.5,
+      "end": 793.44,
+      "timestamp": "13:09",
+      "text": "A gente teve um contrato de comodato de mil linhas, né?"
+    },
+    {
+      "start": 793.44,
+      "end": 795.01,
+      "timestamp": "13:13",
+      "text": "Que era mil aparelhos."
+    },
+    {
+      "start": 795.01,
+      "end": 797.15,
+      "timestamp": "13:15",
+      "text": "A gente anunciou e faltando..."
+    },
+    {
+      "start": 797.15,
+      "end": 808.38,
+      "timestamp": "13:17",
+      "text": "Quando deu 45 dias, a gente falou que ia ter em 60 dias, falaram que a nossa empresa era muito nova, não tinha crédito pra pegar as linhas, os aparelhos, né?"
+    },
+    {
+      "start": 808.38,
+      "end": 809.59,
+      "timestamp": "13:28",
+      "text": "Eu lembro, velho."
+    },
+    {
+      "start": 809.59,
+      "end": 810.31,
+      "timestamp": "13:29",
+      "text": "Eu também."
+    },
+    {
+      "start": 810.31,
+      "end": 814.52,
+      "timestamp": "13:30",
+      "text": "Naquela época, ele ficava o tempo inteiro ligado no treino."
+    },
+    {
+      "start": 814.52,
+      "end": 814.67,
+      "timestamp": "13:34",
+      "text": "É."
+    },
+    {
+      "start": 814.67,
+      "end": 821.53,
+      "timestamp": "13:34",
+      "text": "Tinha uma de distância do Daniel, era aquele mapa do Google ali, plotando os taxistas navegando."
+    },
+    {
+      "start": 821.53,
+      "end": 823.17,
+      "timestamp": "13:41",
+      "text": "Você tem print, Daniel?"
+    },
+    {
+      "start": 823.17,
+      "end": 824.82,
+      "timestamp": "13:43",
+      "text": "Eu tenho, tenho, tenho."
+    },
+    {
+      "start": 824.82,
+      "end": 826.39,
+      "timestamp": "13:44",
+      "text": "Com oito taxistas ali."
+    },
+    {
+      "start": 826.39,
+      "end": 828.18,
+      "timestamp": "13:46",
+      "text": "Caralho, eu lembro, cara."
+    },
+    {
+      "start": 828.18,
+      "end": 832.97,
+      "timestamp": "13:48",
+      "text": "Eu comprei um tablet pra fazer o cadastro mais rápido dos taxistas."
+    },
+    {
+      "start": 832.97,
+      "end": 835.61,
+      "timestamp": "13:52",
+      "text": "Pô, meu laptop era pesado pra cacete."
+    },
+    {
+      "start": 835.61,
+      "end": 838.9,
+      "timestamp": "13:55",
+      "text": "Aí eu pensei assim, pô, vou comprar um tablet."
+    },
+    {
+      "start": 838.9,
+      "end": 843.05,
+      "timestamp": "13:58",
+      "text": "Comprei tablet da Samsung mais baratinho, só com chip, né?"
+    },
+    {
+      "start": 843.05,
+      "end": 844.33,
+      "timestamp": "14:03",
+      "text": "Nem Wi-Fi recebia."
+    },
+    {
+      "start": 844.33,
+      "end": 845.98,
+      "timestamp": "14:04",
+      "text": "Aí eu comprei o tablet."
+    },
+    {
+      "start": 845.98,
+      "end": 849.34,
+      "timestamp": "14:05",
+      "text": "Porra, a gente não tinha escritório também, né?"
+    },
+    {
+      "start": 849.34,
+      "end": 852.77,
+      "timestamp": "14:09",
+      "text": "Escritório era a minha casa, era dentro do táxi."
+    },
+    {
+      "start": 852.77,
+      "end": 858.2,
+      "timestamp": "14:12",
+      "text": "Cara, todo cadastro eu descia, sentava lá dentro do táxi e fazia o cadastro."
+    },
+    {
+      "start": 858.2,
+      "end": 861.92,
+      "timestamp": "14:18",
+      "text": "Até, lembra, Marcos, com a palavra que eu vou dizer?"
+    },
+    {
+      "start": 861.92,
+      "end": 864.35,
+      "timestamp": "14:21",
+      "text": "Marcos, tô indo fazer um cadastro."
+    },
+    {
+      "start": 864.35,
+      "end": 865.42,
+      "timestamp": "14:24",
+      "text": "Fica atento aí."
+    },
+    {
+      "start": 865.42,
+      "end": 866.57,
+      "timestamp": "14:25",
+      "text": "Fica esperto aí."
+    },
+    {
+      "start": 866.57,
+      "end": 867.71,
+      "timestamp": "14:26",
+      "text": "Fica esperto aí."
+    },
+    {
+      "start": 867.71,
+      "end": 870.07,
+      "timestamp": "14:27",
+      "text": "E aí eu fazia os cadastros assim."
+    },
+    {
+      "start": 870.07,
+      "end": 873.29,
+      "timestamp": "14:30",
+      "text": "E aí o tablet, cara, eu dormia com ele, cara."
+    },
+    {
+      "start": 873.29,
+      "end": 875.36,
+      "timestamp": "14:33",
+      "text": "Eu dormia do meu lado, assim."
+    },
+    {
+      "start": 875.36,
+      "end": 879.22,
+      "timestamp": "14:35",
+      "text": "Estava de qualquer maneira, só virar e pegar o tablet."
+    },
+    {
+      "start": 879.22,
+      "end": 880.86,
+      "timestamp": "14:39",
+      "text": "Eu lembro desse tablet."
+    },
+    {
+      "start": 880.86,
+      "end": 882.79,
+      "timestamp": "14:40",
+      "text": "Se eu quero um Android, né?"
+    },
+    {
+      "start": 882.79,
+      "end": 884.3,
+      "timestamp": "14:42",
+      "text": "Era um Android, cara."
+    },
+    {
+      "start": 884.3,
+      "end": 885.87,
+      "timestamp": "14:44",
+      "text": "Uma merda esse tablet."
+    },
+    {
+      "start": 885.87,
+      "end": 886.87,
+      "timestamp": "14:45",
+      "text": "Era uma merda."
+    },
+    {
+      "start": 886.87,
+      "end": 892.23,
+      "timestamp": "14:46",
+      "text": "Você era acho que uma das primeiras versões de tablet que chegou no Brasil."
+    },
+    {
+      "start": 892.23,
+      "end": 894.3,
+      "timestamp": "14:52",
+      "text": "Era o Samsung de 7 polegadas."
+    },
+    {
+      "start": 894.3,
+      "end": 895.16,
+      "timestamp": "14:54",
+      "text": "7 polegadas."
+    },
+    {
+      "start": 895.16,
+      "end": 895.95,
+      "timestamp": "14:55",
+      "text": "Eu comprei."
+    },
+    {
+      "start": 895.95,
+      "end": 899.88,
+      "timestamp": "14:55",
+      "text": "Comprei o de 10 pra poder ver os carrinhos rodando, né?"
+    },
+    {
+      "start": 899.88,
+      "end": 901.24,
+      "timestamp": "14:59",
+      "text": "Caralho, que época."
+    },
+    {
+      "start": 901.24,
+      "end": 910.75,
+      "timestamp": "15:01",
+      "text": "E aí depois nós começamos a arrumar os treinos dos comodatos lá pra poder de telefone, porque os caras não tinham telefone, né, mano?"
+    },
+    {
+      "start": 910.75,
+      "end": 913.68,
+      "timestamp": "15:10",
+      "text": "Tinha que arrumar os treinos de comodato."
+    },
+    {
+      "start": 913.68,
+      "end": 917.61,
+      "timestamp": "15:13",
+      "text": "A gente teve um contrato de comodato de mil linhas, né?"
+    },
+    {
+      "start": 917.61,
+      "end": 919.18,
+      "timestamp": "15:17",
+      "text": "Que era mil aparelhos."
+    },
+    {
+      "start": 919.18,
+      "end": 921.33,
+      "timestamp": "15:19",
+      "text": "A gente anunciou e faltando..."
+    },
+    {
+      "start": 921.33,
+      "end": 932.55,
+      "timestamp": "15:21",
+      "text": "Quando deu 45 dias, a gente falou que ia ter em 60 dias, falaram que a nossa empresa era muito nova, não tinha crédito pra pegar as linhas, os aparelhos, né?"
+    },
+    {
+      "start": 932.55,
+      "end": 933.77,
+      "timestamp": "15:32",
+      "text": "Eu lembro, velho."
+    },
+    {
+      "start": 933.77,
+      "end": 935.27,
+      "timestamp": "15:33",
+      "text": "Eu lembro o seguinte."
+    },
+    {
+      "start": 935.27,
+      "end": 938.2,
+      "timestamp": "15:35",
+      "text": "A gente foi mil linhas mesmo de comodato."
+    },
+    {
+      "start": 938.2,
+      "end": 941.91,
+      "timestamp": "15:38",
+      "text": "Aí eu falei, não, vamos ter mil, pode vir aí, porra."
+    },
+    {
+      "start": 941.91,
+      "end": 944.85,
+      "timestamp": "15:41",
+      "text": "A gente foi captando, aí daqui a pouco..."
+    },
+    {
+      "start": 944.85,
+      "end": 947.56,
+      "timestamp": "15:44",
+      "text": "Não, não tem como emprestar pra vocês."
+    },
+    {
+      "start": 947.56,
+      "end": 949.13,
+      "timestamp": "15:47",
+      "text": "Não, e anunciou, cara."
+    },
+    {
+      "start": 949.13,
+      "end": 950.35,
+      "timestamp": "15:49",
+      "text": "Anunciou não, né?"
+    },
+    {
+      "start": 950.35,
+      "end": 952.21,
+      "timestamp": "15:50",
+      "text": "Saiu no jornal, saiu tudo."
+    },
+    {
+      "start": 952.21,
+      "end": 954.5,
+      "timestamp": "15:52",
+      "text": "Que ia ter mil taxistas, saiu..."
+    },
+    {
+      "start": 954.5,
+      "end": 955.85,
+      "timestamp": "15:54",
+      "text": "Caralho, é verdade."
+    },
+    {
+      "start": 955.85,
+      "end": 957.07,
+      "timestamp": "15:55",
+      "text": "Eu lembro, velho."
+    },
+    {
+      "start": 957.07,
+      "end": 959.93,
+      "timestamp": "15:57",
+      "text": "Foi no início, quando a gente começou..."
+    },
+    {
+      "start": 959.93,
+      "end": 963.86,
+      "timestamp": "15:59",
+      "text": "Naquele escritório que foi lançado na Igreja da Glória."
+    },
+    {
+      "start": 963.86,
+      "end": 965.29,
+      "timestamp": "16:03",
+      "text": "Vocês lembram disso?"
+    },
+    {
+      "start": 965.29,
+      "end": 966.01,
+      "timestamp": "16:05",
+      "text": "Eu lembro."
+    },
+    {
+      "start": 966.01,
+      "end": 969.72,
+      "timestamp": "16:06",
+      "text": "Eu lembro eu e Márcio naquela mesezinha de plástico."
+    },
+    {
+      "start": 969.72,
+      "end": 971.65,
+      "timestamp": "16:09",
+      "text": "Naquele trem quente, velho."
+    },
+    {
+      "start": 971.65,
+      "end": 973.66,
+      "timestamp": "16:11",
+      "text": "Não era do meu dia, meu dia."
+    },
+    {
+      "start": 973.66,
+      "end": 977.23,
+      "timestamp": "16:13",
+      "text": "Não passava sinal de Wi-Fi naquelas paredes, cara."
+    },
+    {
+      "start": 977.23,
+      "end": 979.45,
+      "timestamp": "16:17",
+      "text": "Não passava sinal de Wi-Fi ali."
+    },
+    {
+      "start": 979.45,
+      "end": 983.52,
+      "timestamp": "16:19",
+      "text": "Não passava sinal de Wi-Fi que não dá pra trabalhar aqui."
+    },
+    {
+      "start": 983.52,
+      "end": 984.45,
+      "timestamp": "16:23",
+      "text": "Nossa, velho."
+    },
+    {
+      "start": 984.45,
+      "end": 988.31,
+      "timestamp": "16:24",
+      "text": "Que perrengue que a gente passou nessa porra, brother."
+    },
+    {
+      "start": 988.31,
+      "end": 990.95,
+      "timestamp": "16:28",
+      "text": "Eu me lembro, cara, do caralho, cara."
+    },
+    {
+      "start": 990.95,
+      "end": 992.53,
+      "timestamp": "16:30",
+      "text": "A gente cadastrando..."
+    },
+    {
+      "start": 992.53,
+      "end": 994.67,
+      "timestamp": "16:32",
+      "text": "E não tinha funcionário, cara."
+    },
+    {
+      "start": 994.67,
+      "end": 996.89,
+      "timestamp": "16:34",
+      "text": "Não tinha nem ventilador, cara."
+    },
+    {
+      "start": 996.89,
+      "end": 998.39,
+      "timestamp": "16:36",
+      "text": "Não tinha ventilador."
+    },
+    {
+      "start": 998.39,
+      "end": 1001.53,
+      "timestamp": "16:38",
+      "text": "Não tinha nada naquela sala, não tinha nada."
+    },
+    {
+      "start": 1001.53,
+      "end": 1003.04,
+      "timestamp": "16:41",
+      "text": "Era mesa de plástico."
+    },
+    {
+      "start": 1003.04,
+      "end": 1008.25,
+      "timestamp": "16:43",
+      "text": "Pra trabalhar, pra programar, era mesa de plástico e cadeira de plástico."
+    },
+    {
+      "start": 1008.25,
+      "end": 1011.26,
+      "timestamp": "16:48",
+      "text": "Sabe uma lembrança que eu tenho, Vinícius?"
+    },
+    {
+      "start": 1011.26,
+      "end": 1015.76,
+      "timestamp": "16:51",
+      "text": "Você puta comigo, que eu dei uma entrevista pra Globo News ali."
+    },
+    {
+      "start": 1015.76,
+      "end": 1020.69,
+      "timestamp": "16:55",
+      "text": "E você me perguntou qual a maior dificuldade de empreender no Brasil."
+    },
+    {
+      "start": 1020.69,
+      "end": 1024.48,
+      "timestamp": "17:00",
+      "text": "Eu vou botar a Dilma como sócia, eu vim e ficou puto."
+    },
+    {
+      "start": 1024.48,
+      "end": 1025.84,
+      "timestamp": "17:04",
+      "text": "Eu lembro lá mesmo."
+    },
+    {
+      "start": 1025.84,
+      "end": 1033.85,
+      "timestamp": "17:05",
+      "text": "Eu e o Márcio sentados na mesinha ali atrás de plástico\n\ncom aquele 21, 2 em 2, sei lá, na época, não deu porra."
+    },
+    {
+      "start": 1033.85,
+      "end": 1037.64,
+      "timestamp": "17:13",
+      "text": "Lembra do The Next Web que a gente competiu com eles?"
+    },
+    {
+      "start": 1037.64,
+      "end": 1039.07,
+      "timestamp": "17:17",
+      "text": "Foi no The Next Web?"
+    },
+    {
+      "start": 1039.07,
+      "end": 1040.07,
+      "timestamp": "17:19",
+      "text": "Não, foi no..."
+    },
+    {
+      "start": 1040.07,
+      "end": 1042.0,
+      "timestamp": "17:20",
+      "text": "Foi naquele negócio do IBM."
+    },
+    {
+      "start": 1042.0,
+      "end": 1043.0,
+      "timestamp": "17:21",
+      "text": "Não, não, não."
+    },
+    {
+      "start": 1043.0,
+      "end": 1045.21,
+      "timestamp": "17:22",
+      "text": "A gente apresentou esse modelo."
+    },
+    {
+      "start": 1045.21,
+      "end": 1047.29,
+      "timestamp": "17:25",
+      "text": "A gente foi pra The Next Web."
+    },
+    {
+      "start": 1047.29,
+      "end": 1051.36,
+      "timestamp": "17:27",
+      "text": "É verdade que foi aqui em São Paulo a premiação, brother."
+    },
+    {
+      "start": 1051.36,
+      "end": 1051.79,
+      "timestamp": "17:31",
+      "text": "Exato."
+    },
+    {
+      "start": 1051.79,
+      "end": 1056.65,
+      "timestamp": "17:31",
+      "text": "Eu não tinha grana pra vir, mas não tinha grana pra dormir no hotel."
+    },
+    {
+      "start": 1056.65,
+      "end": 1064.23,
+      "timestamp": "17:36",
+      "text": "Aí eu falei, eu vou conhecer alguém lá, vou ficar brother, alguém vai me convidar pra dormir na casa dele."
+    },
+    {
+      "start": 1064.23,
+      "end": 1069.02,
+      "timestamp": "17:44",
+      "text": "Foi até o Felipe Oranges, cara, meu amigo até hoje, sou astronauta."
+    },
+    {
+      "start": 1069.02,
+      "end": 1070.81,
+      "timestamp": "17:49",
+      "text": "Não sei se você acredita."
+    },
+    {
+      "start": 1070.81,
+      "end": 1077.81,
+      "timestamp": "17:50",
+      "text": "Ele e o Vitor, que era o sócio dele lá, os caras, tipo assim, estavam com um aplicativo bosta, né?"
+    },
+    {
+      "start": 1077.81,
+      "end": 1080.31,
+      "timestamp": "17:57",
+      "text": "Na verdade, imprimir cartão postal."
+    },
+    {
+      "start": 1080.31,
+      "end": 1084.96,
+      "timestamp": "18:00",
+      "text": "E aí estava disputando lá o trem, aí eu fiquei brother dos caras."
+    },
+    {
+      "start": 1084.96,
+      "end": 1087.46,
+      "timestamp": "18:04",
+      "text": "Aí os caras, e aí, vai fazer o quê?"
+    },
+    {
+      "start": 1087.46,
+      "end": 1091.04,
+      "timestamp": "18:07",
+      "text": "Eu falei, pô, sei lá, tô vendo o que eu vou fazer."
+    },
+    {
+      "start": 1091.04,
+      "end": 1093.82,
+      "timestamp": "18:11",
+      "text": "Eu não tinha grana pra dormir no hotel."
+    },
+    {
+      "start": 1093.82,
+      "end": 1100.12,
+      "timestamp": "18:13",
+      "text": "Aí os caras, porra, se quiser cair em casa, eu falei, ah, se for de boa, eu quero, mano."
+    },
+    {
+      "start": 1100.12,
+      "end": 1103.05,
+      "timestamp": "18:20",
+      "text": "Graças a Deus, arrumei um lugar pra cair."
+    },
+    {
+      "start": 1103.05,
+      "end": 1110.55,
+      "timestamp": "18:23",
+      "text": "Ô, Márcio, qual foi aquele evento que te botaram pra fazer embaixadinha lá, que você competiu com o cara?"
+    },
+    {
+      "start": 1110.55,
+      "end": 1113.05,
+      "timestamp": "18:30",
+      "text": "Ah, é, pô, foi no The Next Web, pô."
+    },
+    {
+      "start": 1113.05,
+      "end": 1114.27,
+      "timestamp": "18:33",
+      "text": "Foi nesse evento."
+    },
+    {
+      "start": 1114.27,
+      "end": 1115.49,
+      "timestamp": "18:34",
+      "text": "Foi nesse evento."
+    },
+    {
+      "start": 1115.49,
+      "end": 1116.2,
+      "timestamp": "18:35",
+      "text": "É verdade."
+    },
+    {
+      "start": 1116.2,
+      "end": 1118.77,
+      "timestamp": "18:36",
+      "text": "Pô, eu tava de sapato social, velho."
+    },
+    {
+      "start": 1118.77,
+      "end": 1120.35,
+      "timestamp": "18:38",
+      "text": "Não, de sapato social."
+    },
+    {
+      "start": 1120.35,
+      "end": 1122.42,
+      "timestamp": "18:40",
+      "text": "Ganhou do gringo, não é isso?"
+    },
+    {
+      "start": 1122.42,
+      "end": 1122.56,
+      "timestamp": "18:42",
+      "text": "É."
+    },
+    {
+      "start": 1122.56,
+      "end": 1123.21,
+      "timestamp": "18:42",
+      "text": "Era isso."
+    },
+    {
+      "start": 1123.21,
+      "end": 1127.92,
+      "timestamp": "18:43",
+      "text": "Sapato social, o Márcio foi fazer embaixadinha, ganhou do cara lá."
+    },
+    {
+      "start": 1127.92,
+      "end": 1129.5,
+      "timestamp": "18:47",
+      "text": "Ganhou do cara, velho."
+    },
+    {
+      "start": 1129.5,
+      "end": 1131.78,
+      "timestamp": "18:49",
+      "text": "Caralho, que resenha, meu irmão."
+    },
+    {
+      "start": 1131.78,
+      "end": 1132.86,
+      "timestamp": "18:51",
+      "text": "Puta que pariu."
+    },
+    {
+      "start": 1132.86,
+      "end": 1136.22,
+      "timestamp": "18:52",
+      "text": "O que você lembra de mais perrengue aí, Daniel?"
+    },
+    {
+      "start": 1136.22,
+      "end": 1136.93,
+      "timestamp": "18:56",
+      "text": "Perrengue?"
+    },
+    {
+      "start": 1136.93,
+      "end": 1139.58,
+      "timestamp": "18:56",
+      "text": "Márcio, pode lembrar muito bem, cara."
+    },
+    {
+      "start": 1139.58,
+      "end": 1142.72,
+      "timestamp": "18:59",
+      "text": "Carreata dos taxistas, lembra disso, Márcio?"
+    },
+    {
+      "start": 1142.72,
+      "end": 1143.37,
+      "timestamp": "19:02",
+      "text": "Carreata?"
+    },
+    {
+      "start": 1143.37,
+      "end": 1148.01,
+      "timestamp": "19:03",
+      "text": "Aquele evento que ele fez no hotel, e aí no dia seguinte tinha..."
+    },
+    {
+      "start": 1148.01,
+      "end": 1148.3,
+      "timestamp": "19:08",
+      "text": "Não."
+    },
+    {
+      "start": 1148.3,
+      "end": 1154.87,
+      "timestamp": "19:08",
+      "text": "Cara, foi uma carreata que ia ter dos taxistas em prol de um deputado, em prol dos taxistas."
+    },
+    {
+      "start": 1154.87,
+      "end": 1155.52,
+      "timestamp": "19:14",
+      "text": "Não, não."
+    },
+    {
+      "start": 1155.52,
+      "end": 1159.16,
+      "timestamp": "19:15",
+      "text": "Em prol do deputado, defendia, claro, dos taxistas."
+    },
+    {
+      "start": 1159.16,
+      "end": 1162.88,
+      "timestamp": "19:19",
+      "text": "E aí eu falei, pô, eu nem tinha lançado ainda o app."
+    },
+    {
+      "start": 1162.88,
+      "end": 1169.74,
+      "timestamp": "19:22",
+      "text": "Aí eu falei, porra, eu preciso ir nessa parada pra poder fazer o pré-cadastro, né, dos taxistas."
+    },
+    {
+      "start": 1169.74,
+      "end": 1173.39,
+      "timestamp": "19:29",
+      "text": "Bater uns 500 lá, vou fazer cadastro de todo mundo."
+    },
+    {
+      "start": 1173.39,
+      "end": 1177.54,
+      "timestamp": "19:33",
+      "text": "Aí eu pensei assim, caralho, vai se dar na puta que pariu."
+    },
+    {
+      "start": 1177.54,
+      "end": 1181.4,
+      "timestamp": "19:37",
+      "text": "Márcio, vamos comigo, vamos sozinho nessa parada, não."
+    },
+    {
+      "start": 1181.4,
+      "end": 1183.04,
+      "timestamp": "19:41",
+      "text": "Vamos lá, vamos embora."
+    },
+    {
+      "start": 1183.04,
+      "end": 1184.61,
+      "timestamp": "19:43",
+      "text": "Aí eu disse, vamos lá."
+    },
+    {
+      "start": 1184.61,
+      "end": 1187.12,
+      "timestamp": "19:44",
+      "text": "Chamei o Márcio, aí a gente foi lá."
+    },
+    {
+      "start": 1187.12,
+      "end": 1190.55,
+      "timestamp": "19:47",
+      "text": "Qual foi o ponto, Márcio, que a gente encontrou?"
+    },
+    {
+      "start": 1190.55,
+      "end": 1191.48,
+      "timestamp": "19:50",
+      "text": "Costa Barros."
+    },
+    {
+      "start": 1191.48,
+      "end": 1197.12,
+      "timestamp": "19:51",
+      "text": "A gente encontrou, a gente deu um taxilho e fomos de carreata até Costa Barros."
+    },
+    {
+      "start": 1197.12,
+      "end": 1198.12,
+      "timestamp": "19:57",
+      "text": "Caralho, cara."
+    },
+    {
+      "start": 1198.12,
+      "end": 1199.48,
+      "timestamp": "19:58",
+      "text": "Dois dias depois..."
+    },
+    {
+      "start": 1199.48,
+      "end": 1209.85,
+      "timestamp": "19:59",
+      "text": "Não, o pior é que a gente depois saiu do bairro, lá que a gente tava, que teve essa confusão, e a gente foi pra Ilha do Governador pra churrasco."
+    },
+    {
+      "start": 1209.85,
+      "end": 1211.21,
+      "timestamp": "20:09",
+      "text": "Tinha um churrasco."
+    },
+    {
+      "start": 1211.21,
+      "end": 1212.57,
+      "timestamp": "20:11",
+      "text": "Tinha um churrasco."
+    },
+    {
+      "start": 1212.57,
+      "end": 1214.92,
+      "timestamp": "20:12",
+      "text": "Churrasco das cooperativas, cara."
+    },
+    {
+      "start": 1214.92,
+      "end": 1223.22,
+      "timestamp": "20:14",
+      "text": "Cara, aí o Márcio, a gente foi, entramos, aí vimos os donos das cooperativas com bandeirão, tipo torcida organizada."
+    },
+    {
+      "start": 1223.22,
+      "end": 1226.36,
+      "timestamp": "20:23",
+      "text": "Cara, eu falei, Márcio, vambora daqui, cara."
+    },
+    {
+      "start": 1226.36,
+      "end": 1227.79,
+      "timestamp": "20:26",
+      "text": "Tá maluco isso aqui?"
+    },
+    {
+      "start": 1227.79,
+      "end": 1229.36,
+      "timestamp": "20:27",
+      "text": "Tô aqui daqui a pouco."
+    },
+    {
+      "start": 1229.36,
+      "end": 1240.23,
+      "timestamp": "20:29",
+      "text": "Eu me lembro que eu ia em evento de cooperativa e tinha um cara do cooperativo, acho que era o André, que era o nome dele, que a gente ficou mais forte."
+    },
+    {
+      "start": 1240.23,
+      "end": 1241.23,
+      "timestamp": "20:40",
+      "text": "André Assisto."
+    },
+    {
+      "start": 1241.23,
+      "end": 1242.16,
+      "timestamp": "20:41",
+      "text": "Isso, lembro."
+    },
+    {
+      "start": 1242.16,
+      "end": 1243.3,
+      "timestamp": "20:42",
+      "text": "O André Assisto."
+    },
+    {
+      "start": 1243.3,
+      "end": 1244.88,
+      "timestamp": "20:43",
+      "text": "No clube dos taxistas."
+    },
+    {
+      "start": 1244.88,
+      "end": 1246.45,
+      "timestamp": "20:44",
+      "text": "No clube dos taxistas."
+    },
+    {
+      "start": 1246.45,
+      "end": 1247.81,
+      "timestamp": "20:46",
+      "text": "Não, de associação."
+    },
+    {
+      "start": 1247.81,
+      "end": 1250.38,
+      "timestamp": "20:47",
+      "text": "Na verdade, o André não era muito..."
+    },
+    {
+      "start": 1250.38,
+      "end": 1254.03,
+      "timestamp": "20:50",
+      "text": "De associação dos taxistas autônomos, não era isso?"
+    },
+    {
+      "start": 1254.03,
+      "end": 1256.82,
+      "timestamp": "20:54",
+      "text": "É um negócio assim, taxistas autônomos."
+    },
+    {
+      "start": 1256.82,
+      "end": 1260.75,
+      "timestamp": "20:56",
+      "text": "Associação dos taxistas autônomos, alguma parada assim."
+    },
+    {
+      "start": 1260.75,
+      "end": 1264.82,
+      "timestamp": "21:00",
+      "text": "Os caras do cooperativo não gostavam muito da gente, não."
+    },
+    {
+      "start": 1264.82,
+      "end": 1267.25,
+      "timestamp": "21:04",
+      "text": "Pesão não era muito nosso fã, não."
+    },
+    {
+      "start": 1267.25,
+      "end": 1271.4,
+      "timestamp": "21:07",
+      "text": "Na verdade, no começo, eles não tinham muito problema, né?"
+    },
+    {
+      "start": 1271.4,
+      "end": 1274.9,
+      "timestamp": "21:11",
+      "text": "Porque eles achavam que não ia dar em muito nada."
+    },
+    {
+      "start": 1274.9,
+      "end": 1276.76,
+      "timestamp": "21:14",
+      "text": "Eles começavam a aparecer."
+    },
+    {
+      "start": 1276.76,
+      "end": 1277.9,
+      "timestamp": "21:16",
+      "text": "Eu lembro, cara."
+    },
+    {
+      "start": 1277.9,
+      "end": 1282.91,
+      "timestamp": "21:17",
+      "text": "Eu lembro que eu vim de uma cooperativa lá na Tijuca, chamada Pontual."
+    },
+    {
+      "start": 1282.91,
+      "end": 1283.69,
+      "timestamp": "21:22",
+      "text": "Era grande."
+    },
+    {
+      "start": 1283.69,
+      "end": 1284.27,
+      "timestamp": "21:23",
+      "text": "Pontual?"
+    },
+    {
+      "start": 1284.27,
+      "end": 1285.34,
+      "timestamp": "21:24",
+      "text": "Era top do Rio."
+    },
+    {
+      "start": 1285.34,
+      "end": 1286.55,
+      "timestamp": "21:25",
+      "text": "Era top, era top."
+    },
+    {
+      "start": 1286.55,
+      "end": 1289.56,
+      "timestamp": "21:26",
+      "text": "E aí o cara, porra, falou assim pra gente."
+    },
+    {
+      "start": 1289.56,
+      "end": 1295.06,
+      "timestamp": "21:29",
+      "text": "Porra, vocês vão ter que ralar bastante pra terem 2 milhões de corrida mesmo."
+    },
+    {
+      "start": 1295.06,
+      "end": 1295.78,
+      "timestamp": "21:35",
+      "text": "É, tá bom."
+    },
+    {
+      "start": 1295.78,
+      "end": 1298.85,
+      "timestamp": "21:35",
+      "text": "Mas meses depois, a gente bateu a meta, né?"
+    },
+    {
+      "start": 1298.85,
+      "end": 1299.64,
+      "timestamp": "21:38",
+      "text": "Exatamente."
+    },
+    {
+      "start": 1299.64,
+      "end": 1300.92,
+      "timestamp": "21:39",
+      "text": "O cara morreu, né?"
+    },
+    {
+      "start": 1300.92,
+      "end": 1302.42,
+      "timestamp": "21:40",
+      "text": "Acabou a cooperativa."
+    },
+    {
+      "start": 1302.42,
+      "end": 1305.57,
+      "timestamp": "21:42",
+      "text": "O tal do crescimento exponencial, né, velho?"
+    },
+    {
+      "start": 1305.57,
+      "end": 1308.07,
+      "timestamp": "21:45",
+      "text": "Que é bizarro quando o trem engata."
+    },
+    {
+      "start": 1308.07,
+      "end": 1311.29,
+      "timestamp": "21:48",
+      "text": "Vamos falar pra galera quando o troço engata."
+    },
+    {
+      "start": 1311.29,
+      "end": 1316.01,
+      "timestamp": "21:51",
+      "text": "Quando o negócio realmente, tipo assim, achou o modelo de negócio."
+    },
+    {
+      "start": 1316.01,
+      "end": 1318.37,
+      "timestamp": "21:56",
+      "text": "Pivotamos, então, gente, uma vez."
+    },
+    {
+      "start": 1318.37,
+      "end": 1326.73,
+      "timestamp": "21:58",
+      "text": "A gente saiu do modelo de fazer um attachment com cooperativas pra ir direto no B2C, o que era inimaginável na época."
+    },
+    {
+      "start": 1326.73,
+      "end": 1328.59,
+      "timestamp": "22:06",
+      "text": "E a gente fez essa parada."
+    },
+    {
+      "start": 1328.59,
+      "end": 1331.23,
+      "timestamp": "22:08",
+      "text": "A gente achou que esse era o caminho."
+    },
+    {
+      "start": 1331.23,
+      "end": 1344.53,
+      "timestamp": "22:11",
+      "text": "E só pra vocês entenderem onde que a gente tava, antes da gente receber a primeira rodada de funding da Rocket, a gente tava, tipo assim, há dois meses de quebrar totalmente, né, Daniel?"
+    },
+    {
+      "start": 1344.53,
+      "end": 1346.03,
+      "timestamp": "22:24",
+      "text": "Não tinha mais grana."
+    },
+    {
+      "start": 1346.03,
+      "end": 1346.82,
+      "timestamp": "22:26",
+      "text": "Dois meses?"
+    },
+    {
+      "start": 1346.82,
+      "end": 1348.25,
+      "timestamp": "22:26",
+      "text": "Que dois meses, meu?"
+    },
+    {
+      "start": 1348.25,
+      "end": 1348.75,
+      "timestamp": "22:28",
+      "text": "Um mês."
+    },
+    {
+      "start": 1348.75,
+      "end": 1349.82,
+      "timestamp": "22:28",
+      "text": "Foi um mês, né?"
+    },
+    {
+      "start": 1349.82,
+      "end": 1350.54,
+      "timestamp": "22:29",
+      "text": "Não, cara."
+    },
+    {
+      "start": 1350.54,
+      "end": 1351.68,
+      "timestamp": "22:30",
+      "text": "Eu lembro, cara."
+    },
+    {
+      "start": 1351.68,
+      "end": 1354.32,
+      "timestamp": "22:31",
+      "text": "Não, a gente chegou três dívidas, né?"
+    },
+    {
+      "start": 1354.32,
+      "end": 1356.18,
+      "timestamp": "22:34",
+      "text": "A gente tava fodido mesmo."
+    },
+    {
+      "start": 1356.18,
+      "end": 1357.26,
+      "timestamp": "22:36",
+      "text": "Mas dívida não."
+    },
+    {
+      "start": 1357.26,
+      "end": 1360.54,
+      "timestamp": "22:37",
+      "text": "A gente tava pra quebrar uns dois meses mesmo."
+    },
+    {
+      "start": 1360.54,
+      "end": 1363.26,
+      "timestamp": "22:40",
+      "text": "Porque a gente pegou um empréstimo lá."
+    },
+    {
+      "start": 1363.26,
+      "end": 1366.76,
+      "timestamp": "22:43",
+      "text": "Na verdade, a gente não tinha muito problema, né?"
+    },
+    {
+      "start": 1366.76,
+      "end": 1369.77,
+      "timestamp": "22:46",
+      "text": "Eles achavam que não ia dar em muito nada."
+    },
+    {
+      "start": 1369.77,
+      "end": 1371.7,
+      "timestamp": "22:49",
+      "text": "A gente começou a aparecer."
+    },
+    {
+      "start": 1371.7,
+      "end": 1373.48,
+      "timestamp": "22:51",
+      "text": "Não ia dar em nada, cara."
+    },
+    {
+      "start": 1373.48,
+      "end": 1374.63,
+      "timestamp": "22:53",
+      "text": "Eu lembro, cara."
+    },
+    {
+      "start": 1374.63,
+      "end": 1379.63,
+      "timestamp": "22:54",
+      "text": "Eu lembro que eu vim de uma cooperativa lá na Tijuca, chamada Pontual."
+    },
+    {
+      "start": 1379.63,
+      "end": 1380.42,
+      "timestamp": "22:59",
+      "text": "Era grande."
+    },
+    {
+      "start": 1380.42,
+      "end": 1380.99,
+      "timestamp": "23:00",
+      "text": "Pontual?"
+    },
+    {
+      "start": 1380.99,
+      "end": 1382.06,
+      "timestamp": "23:00",
+      "text": "Era top do Rio."
+    },
+    {
+      "start": 1382.06,
+      "end": 1383.28,
+      "timestamp": "23:02",
+      "text": "Era top, era top."
+    },
+    {
+      "start": 1383.28,
+      "end": 1386.28,
+      "timestamp": "23:03",
+      "text": "E aí o cara, porra, falou assim pra gente."
+    },
+    {
+      "start": 1386.28,
+      "end": 1392.0,
+      "timestamp": "23:06",
+      "text": "Porra, vocês vão ter que ralar bastante pra terem dois milhões de corrida mesmo."
+    },
+    {
+      "start": 1392.0,
+      "end": 1392.14,
+      "timestamp": "23:11",
+      "text": "É."
+    },
+    {
+      "start": 1392.14,
+      "end": 1392.86,
+      "timestamp": "23:12",
+      "text": "É, tá bom."
+    },
+    {
+      "start": 1392.86,
+      "end": 1395.93,
+      "timestamp": "23:12",
+      "text": "Mas meses depois, a gente bateu a meta, né?"
+    },
+    {
+      "start": 1395.93,
+      "end": 1396.72,
+      "timestamp": "23:15",
+      "text": "Exatamente."
+    },
+    {
+      "start": 1396.72,
+      "end": 1398.0,
+      "timestamp": "23:16",
+      "text": "O cara morreu, né?"
+    },
+    {
+      "start": 1398.0,
+      "end": 1399.5,
+      "timestamp": "23:18",
+      "text": "Acabou a cooperativa."
+    },
+    {
+      "start": 1399.5,
+      "end": 1402.65,
+      "timestamp": "23:19",
+      "text": "O tal do crescimento exponencial, né, velho?"
+    },
+    {
+      "start": 1402.65,
+      "end": 1405.15,
+      "timestamp": "23:22",
+      "text": "Que é bizarro quando o trem engata."
+    },
+    {
+      "start": 1405.15,
+      "end": 1408.87,
+      "timestamp": "23:25",
+      "text": "Vamos falar pra galera quando o troço engata, assim."
+    },
+    {
+      "start": 1408.87,
+      "end": 1414.16,
+      "timestamp": "23:28",
+      "text": "Quando o negócio realmente, tipo assim, a gente achou o modelo de negócio."
+    },
+    {
+      "start": 1414.16,
+      "end": 1416.52,
+      "timestamp": "23:34",
+      "text": "Pivotamos, então, gente, uma vez."
+    },
+    {
+      "start": 1416.52,
+      "end": 1424.88,
+      "timestamp": "23:36",
+      "text": "A gente saiu do modelo de fazer um attachment com cooperativas pra ir direto no B2C, o que era inimaginável na época."
+    },
+    {
+      "start": 1424.88,
+      "end": 1426.74,
+      "timestamp": "23:44",
+      "text": "E a gente fez essa parada."
+    },
+    {
+      "start": 1426.74,
+      "end": 1429.39,
+      "timestamp": "23:46",
+      "text": "A gente achou que esse era o caminho."
+    },
+    {
+      "start": 1429.39,
+      "end": 1442.68,
+      "timestamp": "23:49",
+      "text": "E só pra vocês entenderem onde que a gente tava, antes da gente receber a primeira rodada de funding da Rocket, a gente tava, tipo assim, há dois meses de quebrar totalmente, né, Daniel?"
+    },
+    {
+      "start": 1442.68,
+      "end": 1444.18,
+      "timestamp": "24:02",
+      "text": "Não tinha mais grana."
+    },
+    {
+      "start": 1444.18,
+      "end": 1444.97,
+      "timestamp": "24:04",
+      "text": "Dois meses?"
+    },
+    {
+      "start": 1444.97,
+      "end": 1446.04,
+      "timestamp": "24:04",
+      "text": "Que dois meses?"
+    },
+    {
+      "start": 1446.04,
+      "end": 1446.54,
+      "timestamp": "24:06",
+      "text": "Um mês."
+    },
+    {
+      "start": 1446.54,
+      "end": 1447.26,
+      "timestamp": "24:06",
+      "text": "Não, cara."
+    },
+    {
+      "start": 1447.26,
+      "end": 1448.33,
+      "timestamp": "24:07",
+      "text": "Foi um mês, né?"
+    },
+    {
+      "start": 1448.33,
+      "end": 1449.12,
+      "timestamp": "24:08",
+      "text": "Foi um mês?"
+    },
+    {
+      "start": 1449.12,
+      "end": 1449.83,
+      "timestamp": "24:09",
+      "text": "Não, cara."
+    },
+    {
+      "start": 1449.83,
+      "end": 1451.33,
+      "timestamp": "24:09",
+      "text": "Não, eu lembro, cara."
+    },
+    {
+      "start": 1451.33,
+      "end": 1453.69,
+      "timestamp": "24:11",
+      "text": "Não, a gente chegou atendido, né?"
+    },
+    {
+      "start": 1453.69,
+      "end": 1455.55,
+      "timestamp": "24:13",
+      "text": "A gente tava fodido mesmo."
+    },
+    {
+      "start": 1455.55,
+      "end": 1456.62,
+      "timestamp": "24:15",
+      "text": "Mas dívida não."
+    },
+    {
+      "start": 1456.62,
+      "end": 1460.63,
+      "timestamp": "24:16",
+      "text": "A gente tava pra quebrar, tipo lá, uns dois meses mesmo."
+    },
+    {
+      "start": 1460.63,
+      "end": 1463.34,
+      "timestamp": "24:20",
+      "text": "Porque a gente pegou um empréstimo lá."
+    },
+    {
+      "start": 1463.34,
+      "end": 1466.27,
+      "timestamp": "24:23",
+      "text": "Imagina, a gente sabe que a Rocket pagou."
+    },
+    {
+      "start": 1466.27,
+      "end": 1468.35,
+      "timestamp": "24:26",
+      "text": "Tem coisa que a Rocket pagou."
+    },
+    {
+      "start": 1468.35,
+      "end": 1469.2,
+      "timestamp": "24:28",
+      "text": "Ah, verdade."
+    },
+    {
+      "start": 1469.2,
+      "end": 1471.99,
+      "timestamp": "24:29",
+      "text": "Mas isso aí, a gente seguiu pra frente."
+    },
+    {
+      "start": 1471.99,
+      "end": 1474.99,
+      "timestamp": "24:31",
+      "text": "A gente pegou empréstimo com o Alex Taboa."
+    },
+    {
+      "start": 1474.99,
+      "end": 1475.78,
+      "timestamp": "24:34",
+      "text": "Alex Taboa."
+    },
+    {
+      "start": 1475.78,
+      "end": 1476.57,
+      "timestamp": "24:35",
+      "text": "Alex Taboa."
+    },
+    {
+      "start": 1476.57,
+      "end": 1484.65,
+      "timestamp": "24:36",
+      "text": "Tipo assim, eu sei que a grana do Daniel já tava acabando, a minha já tava acabando, não tinha mais grana, velho."
+    },
+    {
+      "start": 1484.65,
+      "end": 1486.29,
+      "timestamp": "24:44",
+      "text": "Essa que era a verdade."
+    },
+    {
+      "start": 1486.29,
+      "end": 1493.22,
+      "timestamp": "24:46",
+      "text": "Tanto que foi o tempo que o Bicarro falou, porra, eu tô fora, galera, que esse negócio vai virar."
+    },
+    {
+      "start": 1493.22,
+      "end": 1494.87,
+      "timestamp": "24:53",
+      "text": "É, o Bicarro foi, saiu."
+    },
+    {
+      "start": 1494.87,
+      "end": 1496.58,
+      "timestamp": "24:54",
+      "text": "Ele foi uma outra saída."
+    },
+    {
+      "start": 1496.58,
+      "end": 1497.08,
+      "timestamp": "24:56",
+      "text": "Lembra?"
+    },
+    {
+      "start": 1497.08,
+      "end": 1498.16,
+      "timestamp": "24:57",
+      "text": "O Bicarro saiu."
+    },
+    {
+      "start": 1498.16,
+      "end": 1500.52,
+      "timestamp": "24:58",
+      "text": "O Bicarro saiu nessa época, cara."
+    },
+    {
+      "start": 1500.52,
+      "end": 1501.87,
+      "timestamp": "25:00",
+      "text": "E já tava aí, cara."
+    },
+    {
+      "start": 1501.87,
+      "end": 1506.16,
+      "timestamp": "25:01",
+      "text": "Aí tava começando a fazer com o advogado, que era o Zemo Yu."
+    },
+    {
+      "start": 1506.16,
+      "end": 1507.16,
+      "timestamp": "25:06",
+      "text": "Não, não, não."
+    },
+    {
+      "start": 1507.16,
+      "end": 1509.24,
+      "timestamp": "25:07",
+      "text": "Vamos lembrar, vamos lembrar."
+    },
+    {
+      "start": 1509.24,
+      "end": 1518.46,
+      "timestamp": "25:09",
+      "text": "A gente tinha um acordo com o escritório de advocacia que defendeu a gente, que quando a gente captasse, a gente tinha que pagar."
+    },
+    {
+      "start": 1518.46,
+      "end": 1522.32,
+      "timestamp": "25:18",
+      "text": "Então a gente já tinha uma dívida ativa com o Bicarro."
+    },
+    {
+      "start": 1522.32,
+      "end": 1524.11,
+      "timestamp": "25:22",
+      "text": "Foi pra defender a gente."
+    },
+    {
+      "start": 1524.11,
+      "end": 1531.54,
+      "timestamp": "25:24",
+      "text": "O Gaessa e o Gaessa e o Daniel Romor, que foi pra defender a gente daquele maluco que processou a gente."
+    },
+    {
+      "start": 1531.54,
+      "end": 1533.47,
+      "timestamp": "25:31",
+      "text": "Como é que é o nome, velho?"
+    },
+    {
+      "start": 1533.47,
+      "end": 1533.9,
+      "timestamp": "25:33",
+      "text": "Ah, é."
+    },
+    {
+      "start": 1533.9,
+      "end": 1535.26,
+      "timestamp": "25:33",
+      "text": "Teve também aquilo."
+    },
+    {
+      "start": 1535.26,
+      "end": 1537.62,
+      "timestamp": "25:35",
+      "text": "Esse cara teve uma grana pra ele."
+    },
+    {
+      "start": 1537.62,
+      "end": 1541.69,
+      "timestamp": "25:37",
+      "text": "Foi disso que nasceu a dívida do escritório de advocacia."
+    },
+    {
+      "start": 1541.69,
+      "end": 1543.05,
+      "timestamp": "25:41",
+      "text": "Foi desse processo."
+    },
+    {
+      "start": 1543.05,
+      "end": 1545.77,
+      "timestamp": "25:43",
+      "text": "Tinha um maluco que processou a gente."
+    },
+    {
+      "start": 1545.77,
+      "end": 1551.41,
+      "timestamp": "25:45",
+      "text": "Mas que a gente botou ele pra trabalhar de cofada e o cara não tava entregando."
+    },
+    {
+      "start": 1551.41,
+      "end": 1561.06,
+      "timestamp": "25:51",
+      "text": "O Daniel\n\nEu me lembro do perrengue que a gente passou porque a Rocket queria botar os engenheiros deles para poder meter a mão no app."
+    },
+    {
+      "start": 1561.06,
+      "end": 1565.07,
+      "timestamp": "26:01",
+      "text": "Você lembra o tanto que você tomou no cu com isso, Vini?"
+    },
+    {
+      "start": 1565.07,
+      "end": 1565.93,
+      "timestamp": "26:05",
+      "text": "Botaram, né?"
+    },
+    {
+      "start": 1565.93,
+      "end": 1569.0,
+      "timestamp": "26:05",
+      "text": "Depois eu tinha que refazer a API toda, né?"
+    },
+    {
+      "start": 1569.0,
+      "end": 1571.65,
+      "timestamp": "26:09",
+      "text": "Eles fizeram lá em Mongo tudo errado."
+    },
+    {
+      "start": 1571.65,
+      "end": 1575.58,
+      "timestamp": "26:11",
+      "text": "Os caras fizeram a gente perder três meses nessa porra."
+    },
+    {
+      "start": 1575.58,
+      "end": 1578.15,
+      "timestamp": "26:15",
+      "text": "O tal do Mongo que você adorava, né?"
+    },
+    {
+      "start": 1578.15,
+      "end": 1579.37,
+      "timestamp": "26:18",
+      "text": "O Vercoffee caía."
+    },
+    {
+      "start": 1579.37,
+      "end": 1583.15,
+      "timestamp": "26:19",
+      "text": "Fazia uma consulta, eles fizeram um mundo relacional."
+    },
+    {
+      "start": 1583.15,
+      "end": 1589.37,
+      "timestamp": "26:23",
+      "text": "Eles botaram as tabelas do banco não relacional, relacional, que era o que eles sabiam."
+    },
+    {
+      "start": 1589.37,
+      "end": 1592.02,
+      "timestamp": "26:29",
+      "text": "Cara, eu tive que refazer o app todo."
+    },
+    {
+      "start": 1592.02,
+      "end": 1593.02,
+      "timestamp": "26:32",
+      "text": "Caía todo dia."
+    },
+    {
+      "start": 1593.02,
+      "end": 1596.59,
+      "timestamp": "26:33",
+      "text": "Aula do que nunca fazer em Venture Capital, velho."
+    },
+    {
+      "start": 1596.59,
+      "end": 1601.38,
+      "timestamp": "26:36",
+      "text": "Tentar meter a mão no negócio dos caras que vocês foram investindo."
+    },
+    {
+      "start": 1601.38,
+      "end": 1607.1,
+      "timestamp": "26:41",
+      "text": "Que era só pra gente ver como é que era, que a TI podia ficar em qualquer lugar."
+    },
+    {
+      "start": 1607.1,
+      "end": 1609.89,
+      "timestamp": "26:47",
+      "text": "São Paulo era um projeto de dois meses."
+    },
+    {
+      "start": 1609.89,
+      "end": 1612.46,
+      "timestamp": "26:49",
+      "text": "Era só pra gente ver como é que era."
+    },
+    {
+      "start": 1612.46,
+      "end": 1615.25,
+      "timestamp": "26:52",
+      "text": "São Paulo era um projeto de dois meses."
+    },
+    {
+      "start": 1615.25,
+      "end": 1620.54,
+      "timestamp": "26:55",
+      "text": "Fala aí, se passa, explica como funcionam as coisas e depois vocês voltam."
+    },
+    {
+      "start": 1620.54,
+      "end": 1622.26,
+      "timestamp": "27:00",
+      "text": "Tá até agora pra voltar."
+    },
+    {
+      "start": 1622.26,
+      "end": 1627.83,
+      "timestamp": "27:02",
+      "text": "Ô Vini, você lembra como que a gente veio pra São Paulo a primeira vez juntos?"
+    },
+    {
+      "start": 1627.83,
+      "end": 1631.12,
+      "timestamp": "27:07",
+      "text": "Você lembra que a gente ficou dormindo juntos?"
+    },
+    {
+      "start": 1631.12,
+      "end": 1633.12,
+      "timestamp": "27:11",
+      "text": "Você marcou aquele dormindo?"
+    },
+    {
+      "start": 1633.12,
+      "end": 1634.34,
+      "timestamp": "27:13",
+      "text": "Marquei um hotel."
+    },
+    {
+      "start": 1634.34,
+      "end": 1639.41,
+      "timestamp": "27:14",
+      "text": "Na primeira noite não, mas aí eu falei, cara, marca o hotel pra amanhã."
+    },
+    {
+      "start": 1639.41,
+      "end": 1640.77,
+      "timestamp": "27:19",
+      "text": "Você falou, beleza."
+    },
+    {
+      "start": 1640.77,
+      "end": 1643.13,
+      "timestamp": "27:20",
+      "text": "Aí eu saí e voltei e você marcou."
+    },
+    {
+      "start": 1643.13,
+      "end": 1645.28,
+      "timestamp": "27:23",
+      "text": "Você estava dormindo, apagado."
+    },
+    {
+      "start": 1645.28,
+      "end": 1646.13,
+      "timestamp": "27:25",
+      "text": "Ah, marquei."
+    },
+    {
+      "start": 1646.13,
+      "end": 1652.14,
+      "timestamp": "27:26",
+      "text": "Aí no dia seguinte eu tô indo pro hotel e você falou, ah, não marquei esse aqui não."
+    },
+    {
+      "start": 1652.14,
+      "end": 1653.86,
+      "timestamp": "27:32",
+      "text": "Falei, como assim, cara?"
+    },
+    {
+      "start": 1653.86,
+      "end": 1656.43,
+      "timestamp": "27:33",
+      "text": "Eu te dei a página, mostrei o hotel."
+    },
+    {
+      "start": 1656.43,
+      "end": 1659.22,
+      "timestamp": "27:36",
+      "text": "Aí a gente teve que ir pra outro hotel."
+    },
+    {
+      "start": 1659.22,
+      "end": 1660.79,
+      "timestamp": "27:39",
+      "text": "Chegamos de madrugada."
+    },
+    {
+      "start": 1660.79,
+      "end": 1663.15,
+      "timestamp": "27:40",
+      "text": "Dormiu numa cama de casal, velho."
+    },
+    {
+      "start": 1663.15,
+      "end": 1665.22,
+      "timestamp": "27:43",
+      "text": "Não tinha mais quarto a nada."
+    },
+    {
+      "start": 1665.22,
+      "end": 1668.15,
+      "timestamp": "27:45",
+      "text": "E o primeiro Airbnb, Marcio, você lembra?"
+    },
+    {
+      "start": 1668.15,
+      "end": 1671.73,
+      "timestamp": "27:48",
+      "text": "Aquela casa do quarto, num colchão no chão, velho."
+    },
+    {
+      "start": 1671.73,
+      "end": 1673.8,
+      "timestamp": "27:51",
+      "text": "Parecia um cachiveiro, velho."
+    },
+    {
+      "start": 1673.8,
+      "end": 1680.02,
+      "timestamp": "27:53",
+      "text": "A gente tinha recebido, sei lá, milhões, 10 milhões de reais de investimento da Rocket."
+    },
+    {
+      "start": 1680.02,
+      "end": 1686.02,
+      "timestamp": "28:00",
+      "text": "E aí, brother, a gente pegou, eu marquei um Airbnb, pô, eu era muito humilde, velho."
+    },
+    {
+      "start": 1686.02,
+      "end": 1689.46,
+      "timestamp": "28:06",
+      "text": "Tipo assim, não conhecia nada, assim, tá ligado?"
+    },
+    {
+      "start": 1689.46,
+      "end": 1691.89,
+      "timestamp": "28:09",
+      "text": "Nunca tive dinheiro na minha vida."
+    },
+    {
+      "start": 1691.89,
+      "end": 1698.96,
+      "timestamp": "28:11",
+      "text": "Eu, pô, marquei um Airbnb, mas daqui era aluguel de quarto, num lugar, tipo, sei lá, na Moca, sabe?"
+    },
+    {
+      "start": 1698.96,
+      "end": 1706.33,
+      "timestamp": "28:18",
+      "text": "E era um quartinho do fera lá, que tinha uns três colchões que a gente dormia no chão, num free, velho."
+    },
+    {
+      "start": 1706.33,
+      "end": 1707.76,
+      "timestamp": "28:26",
+      "text": "Você lembra, Marcio?"
+    },
+    {
+      "start": 1707.76,
+      "end": 1709.11,
+      "timestamp": "28:27",
+      "text": "Ficamos ali, velho."
+    },
+    {
+      "start": 1709.11,
+      "end": 1711.19,
+      "timestamp": "28:29",
+      "text": "Parecia um cachiveiro, velho."
+    },
+    {
+      "start": 1711.19,
+      "end": 1712.76,
+      "timestamp": "28:31",
+      "text": "Você tá ficando aonde?"
+    },
+    {
+      "start": 1712.76,
+      "end": 1715.76,
+      "timestamp": "28:32",
+      "text": "Eu falei, ah, velho, peguei um Airbnb ali."
+    },
+    {
+      "start": 1715.76,
+      "end": 1717.12,
+      "timestamp": "28:35",
+      "text": "Aí negou ali aonde?"
+    },
+    {
+      "start": 1717.12,
+      "end": 1720.12,
+      "timestamp": "28:37",
+      "text": "Tal lugar, que eu não lembro onde que era."
+    },
+    {
+      "start": 1720.12,
+      "end": 1722.05,
+      "timestamp": "28:40",
+      "text": "Tipo, um lugar muito longe."
+    },
+    {
+      "start": 1722.05,
+      "end": 1724.34,
+      "timestamp": "28:42",
+      "text": "Aí eu, que isso, você tá maluco?"
+    },
+    {
+      "start": 1724.34,
+      "end": 1727.99,
+      "timestamp": "28:44",
+      "text": "Pô, você lembra do primeiro dia em São Paulo, Tati?"
+    },
+    {
+      "start": 1727.99,
+      "end": 1736.49,
+      "timestamp": "28:47",
+      "text": "A gente assinou o contrato, porra, almoçamos com todo mundo, ficamos trabalhando até 11 da noite, fomos sair da Rocket."
+    },
+    {
+      "start": 1736.49,
+      "end": 1737.57,
+      "timestamp": "28:56",
+      "text": "Não tinha táxi."
+    },
+    {
+      "start": 1737.57,
+      "end": 1743.5,
+      "timestamp": "28:57",
+      "text": "Fomos pra rua tentar pegar táxi na rua, porra, tinha um cara assaltando uma menina."
+    },
+    {
+      "start": 1743.5,
+      "end": 1744.86,
+      "timestamp": "29:03",
+      "text": "Caralho, é verdade!"
+    },
+    {
+      "start": 1744.86,
+      "end": 1749.36,
+      "timestamp": "29:04",
+      "text": "O escritório da Rocket, tipo, naquela Cracolândiazinha ali, né?"
+    },
+    {
+      "start": 1749.36,
+      "end": 1750.72,
+      "timestamp": "29:09",
+      "text": "Na Vila Leopoldina."
+    },
+    {
+      "start": 1750.72,
+      "end": 1752.72,
+      "timestamp": "29:10",
+      "text": "Como é que é o nome daquilo?"
+    },
+    {
+      "start": 1752.72,
+      "end": 1753.22,
+      "timestamp": "29:12",
+      "text": "Vila..."
+    },
+    {
+      "start": 1753.22,
+      "end": 1754.37,
+      "timestamp": "29:13",
+      "text": "Vila Leopoldina."
+    },
+    {
+      "start": 1754.37,
+      "end": 1755.15,
+      "timestamp": "29:14",
+      "text": "Leopoldina."
+    },
+    {
+      "start": 1755.15,
+      "end": 1760.09,
+      "timestamp": "29:15",
+      "text": "Não, não, acho que é por aí, por aí, acho que é no Parque Vila Lobos."
+    },
+    {
+      "start": 1760.09,
+      "end": 1762.3,
+      "timestamp": "29:20",
+      "text": "Aí fez o Parque Vila Lobos ali."
+    },
+    {
+      "start": 1762.3,
+      "end": 1775.03,
+      "timestamp": "29:22",
+      "text": "E eu me lembro que o Márcio e o Vini odiavam São Paulo, e eu virei pros caras e falei, não, velho, só vai ali, eu pedi pra arrumar uma parada, daqui a pouco vocês voltam pro Rio."
+    },
+    {
+      "start": 1775.03,
+      "end": 1775.81,
+      "timestamp": "29:35",
+      "text": "Não, tá aí."
+    },
+    {
+      "start": 1775.81,
+      "end": 1780.32,
+      "timestamp": "29:35",
+      "text": "Não, mas a Rocket falou isso também, o Sima falou isso pra mim."
+    },
+    {
+      "start": 1780.32,
+      "end": 1782.82,
+      "timestamp": "29:40",
+      "text": "O Sima falou isso pra gente também."
+    },
+    {
+      "start": 1782.82,
+      "end": 1786.96,
+      "timestamp": "29:42",
+      "text": "Não, pode ver, a TI pode ficar em qualquer lugar do mundo."
+    },
+    {
+      "start": 1786.96,
+      "end": 1789.9,
+      "timestamp": "29:46",
+      "text": "Então tá aí, pode voltar pro Rio, tá bom."
+    },
+    {
+      "start": 1789.9,
+      "end": 1798.76,
+      "timestamp": "29:49",
+      "text": "O Márcio ficou na casa do André aí um tempo, eu fiquei na casa do meu primo, cara, eu hospedado, achando que era temporário."
+    },
+    {
+      "start": 1798.76,
+      "end": 1803.84,
+      "timestamp": "29:58",
+      "text": "Pô, eu pedi a fudia pra poder ir com o Sima, o Sima tá lá em Miami, né?"
+    },
+    {
+      "start": 1803.84,
+      "end": 1807.91,
+      "timestamp": "30:03",
+      "text": "É, tá em Miami, faz tempo que eu não falo com ele também."
+    },
+    {
+      "start": 1807.91,
+      "end": 1812.34,
+      "timestamp": "30:07",
+      "text": "Vamos falar um pouquinho sobre o que cada um tá fazendo agora?"
+    },
+    {
+      "start": 1812.34,
+      "end": 1818.63,
+      "timestamp": "30:12",
+      "text": "Dani, conta pra galera o que você tá fazendo e tal, pra galera te conhecer melhor, mano."
+    },
+    {
+      "start": 1818.63,
+      "end": 1821.92,
+      "timestamp": "30:18",
+      "text": "Cara, hoje trabalho com diversidade cognitiva."
+    },
+    {
+      "start": 1821.92,
+      "end": 1823.35,
+      "timestamp": "30:21",
+      "text": "Delexia, na verdade."
+    },
+    {
+      "start": 1823.35,
+      "end": 1838.44,
+      "timestamp": "30:23",
+      "text": "Pra quem não sabe o que é Delexia, Delexia, se você jogar no Google, é transtorno de aprendizagem, mas na verdade tem o outro lado da moeda, que é o dom da Delexia, que nos dá potencialidades fora do normal, né?"
+    },
+    {
+      "start": 1838.44,
+      "end": 1844.51,
+      "timestamp": "30:38",
+      "text": "Então eu tô trabalhando com pessoas dilexicas pra descobrir e potencializar esse dom."
+    },
+    {
+      "start": 1844.51,
+      "end": 1845.51,
+      "timestamp": "30:44",
+      "text": "Caralho, mano."
+    },
+    {
+      "start": 1845.51,
+      "end": 1849.37,
+      "timestamp": "30:45",
+      "text": "E assim que eu obtenho sucesso profissional e pessoal."
+    },
+    {
+      "start": 1849.37,
+      "end": 1849.94,
+      "timestamp": "30:49",
+      "text": "Caralho."
+    },
+    {
+      "start": 1849.94,
+      "end": 1850.87,
+      "timestamp": "30:49",
+      "text": "E você, Vini?"
+    },
+    {
+      "start": 1850.87,
+      "end": 1852.59,
+      "timestamp": "30:50",
+      "text": "O que você tá arrumando?"
+    },
+    {
+      "start": 1852.59,
+      "end": 1862.1,
+      "timestamp": "30:52",
+      "text": "Cara, eu tô na Remessa Online hoje, com o Márcio, ele vai falar também, tocando a parte de dados, segurança, ajudando lá em tudo, né?"
+    },
+    {
+      "start": 1862.1,
+      "end": 1866.74,
+      "timestamp": "31:02",
+      "text": "Onde precisa, escalabilidade, onde eu consigo fazer alguma coisa."
+    },
+    {
+      "start": 1866.74,
+      "end": 1878.25,
+      "timestamp": "31:06",
+      "text": "O Remessa Online, gente, é um dos business que surgiu do negócio que a gente criou quando a gente vendeu a Izitac, chamado E-Genius, que era uma venture builder."
+    },
+    {
+      "start": 1878.25,
+      "end": 1885.9,
+      "timestamp": "31:18",
+      "text": "E aí, puta, dessa venture builder nasceu o Simbu, nasceu o Bicâmbio, que virou Remessa, não é isso, Márcio?"
+    },
+    {
+      "start": 1885.9,
+      "end": 1887.4,
+      "timestamp": "31:25",
+      "text": "É, só corrigindo, né?"
+    },
+    {
+      "start": 1887.4,
+      "end": 1901.34,
+      "timestamp": "31:27",
+      "text": "O Pavani e o Stefano, que são os fundadores iniciais, estavam já tocando a Bicâmbio, e a gente fez um modelo de joint venture ali, e desse projeto da Bicâmbio nasceu o Remessa Online em 2016, né?"
+    },
+    {
+      "start": 1901.34,
+      "end": 1906.78,
+      "timestamp": "31:41",
+      "text": "Pra facilitar e simplificar aí quem precisa fazer pagamentos internacionais."
+    },
+    {
+      "start": 1906.78,
+      "end": 1917.29,
+      "timestamp": "31:46",
+      "text": "Então, quem precisa mandar dinheiro pra fora ou receber dinheiro, pode usar a nossa solução aí, tanto pra pessoa física quanto pra pessoa jurídica."
+    },
+    {
+      "start": 1917.29,
+      "end": 1918.72,
+      "timestamp": "31:57",
+      "text": "É, os caras estão..."
+    },
+    {
+      "start": 1918.72,
+      "end": 1921.79,
+      "timestamp": "31:58",
+      "text": "Você está transacionando quanto hoje, cara?"
+    },
+    {
+      "start": 1921.79,
+      "end": 1928.87,
+      "timestamp": "32:01",
+      "text": "Puts, não tenho os números de cabeça, mas a gente transacionou mais de um bi já esse ano, tá, Deco?"
+    },
+    {
+      "start": 1928.87,
+      "end": 1944.02,
+      "timestamp": "32:08",
+      "text": "Não tenho na vírgula aqui, mas estamos crescendo num ritmo muito bom, e o grande foco agora é a gente também trazer os benefícios que a gente fez da pessoa física ao longo desses três anos aí pra pessoa jurídica."
+    },
+    {
+      "start": 1944.02,
+      "end": 1945.24,
+      "timestamp": "32:24",
+      "text": "Exatamente, cara."
+    },
+    {
+      "start": 1945.24,
+      "end": 1951.31,
+      "timestamp": "32:25",
+      "text": "Na verdade é o seguinte, porra, eu quis fazer essa resenha aqui pra vocês verem, é..."
+    },
+    {
+      "start": 1951.31,
+      "end": 1960.11,
+      "timestamp": "32:31",
+      "text": "Na verdade tinha muito tempo que eu não conversava com os nossos quatro juntos, a gente não fazia essa resenha aí, de fato."
+    },
+    {
+      "start": 1960.11,
+      "end": 1962.75,
+      "timestamp": "32:40",
+      "text": "E eu falei, vamos fazer essa resenha."
+    },
+    {
+      "start": 1962.75,
+      "end": 1964.11,
+      "timestamp": "32:42",
+      "text": "Tem porra, 10 anos."
+    },
+    {
+      "start": 1964.11,
+      "end": 1965.47,
+      "timestamp": "32:44",
+      "text": "Como é que é, Dani?"
+    },
+    {
+      "start": 1965.47,
+      "end": 1967.83,
+      "timestamp": "32:45",
+      "text": "Os quatro juntos tem muito tempo."
+    },
+    {
+      "start": 1967.83,
+      "end": 1969.9,
+      "timestamp": "32:47",
+      "text": "Você conta agora de 10 em 10."
+    },
+    {
+      "start": 1969.9,
+      "end": 1973.19,
+      "timestamp": "32:49",
+      "text": "Cara, vendeu um livro nas quatro, muito tempo."
+    },
+    {
+      "start": 1973.19,
+      "end": 1973.97,
+      "timestamp": "32:53",
+      "text": "Cinco anos."
+    },
+    {
+      "start": 1973.97,
+      "end": 1976.33,
+      "timestamp": "32:53",
+      "text": "A gente fez essa resenha em 2016."
+    },
+    {
+      "start": 1976.33,
+      "end": 1980.84,
+      "timestamp": "32:56",
+      "text": "Ficamos quatro anos de Z-Taxi ou cinco, a gente falou, não foi?"
+    },
+    {
+      "start": 1980.84,
+      "end": 1984.48,
+      "timestamp": "33:00",
+      "text": "Pô, acho que a gente fez em 16, alguma coisa assim."
+    },
+    {
+      "start": 1984.48,
+      "end": 1986.06,
+      "timestamp": "33:04",
+      "text": "Eu acho que foi em 16."
+    },
+    {
+      "start": 1986.06,
+      "end": 1988.49,
+      "timestamp": "33:06",
+      "text": "A gente se encontrou em São Paulo."
+    },
+    {
+      "start": 1988.49,
+      "end": 1992.28,
+      "timestamp": "33:08",
+      "text": "Se foi até naquele restaurante japonês lá, o Scandal?"
+    },
+    {
+      "start": 1992.28,
+      "end": 1993.2,
+      "timestamp": "33:12",
+      "text": "Tô brincando."
+    },
+    {
+      "start": 1993.2,
+      "end": 1994.56,
+      "timestamp": "33:13",
+      "text": "Sempre brincadeira."
+    },
+    {
+      "start": 1994.56,
+      "end": 1999.07,
+      "timestamp": "33:14",
+      "text": "Eu acho que a gente fez a última resenha, cara, em 2016, velho."
+    },
+    {
+      "start": 1999.07,
+      "end": 2003.07,
+      "timestamp": "33:19",
+      "text": "Em 2016 que a gente fez essa resenha junto, tomando uma."
+    },
+    {
+      "start": 2003.07,
+      "end": 2010.15,
+      "timestamp": "33:23",
+      "text": "E eu falei, pô, vou fazer essa resenha aqui com os caras pra vocês verem como é que funciona, cara."
+    },
+    {
+      "start": 2010.15,
+      "end": 2011.51,
+      "timestamp": "33:30",
+      "text": "Como que a gente..."
+    },
+    {
+      "start": 2011.51,
+      "end": 2015.65,
+      "timestamp": "33:31",
+      "text": "Começa um negócio, o tanto de perrengue que a gente passa."
+    },
+    {
+      "start": 2015.65,
+      "end": 2022.51,
+      "timestamp": "33:35",
+      "text": "Vocês vão ver tanta gente falar sobre facilidade, vem cá que eu vou te dar uma fórmula, um hack."
+    },
+    {
+      "start": 2022.51,
+      "end": 2028.88,
+      "timestamp": "33:42",
+      "text": "Tem porra nenhuma disso, mas é a relação do caralho pra tirar o negócio do chão, brother."
+    },
+    {
+      "start": 2028.88,
+      "end": 2031.16,
+      "timestamp": "33:48",
+      "text": "Do caralho, vocês não têm ideia."
+    },
+    {
+      "start": 2031.16,
+      "end": 2036.03,
+      "timestamp": "33:51",
+      "text": "Ô Thales, você não deixou o Marcio falar o que ele tá fazendo, cara."
+    },
+    {
+      "start": 2036.03,
+      "end": 2037.38,
+      "timestamp": "33:56",
+      "text": "O Marcio falou, ué."
+    },
+    {
+      "start": 2037.38,
+      "end": 2041.82,
+      "timestamp": "33:57",
+      "text": "Não, ele falou remessa, mas não falou o que ele tá fazendo lá."
+    },
+    {
+      "start": 2041.82,
+      "end": 2044.25,
+      "timestamp": "34:01",
+      "text": "O que você faz na remessa, Marcio?"
+    },
+    {
+      "start": 2044.25,
+      "end": 2050.04,
+      "timestamp": "34:04",
+      "text": "Pô, hoje eu sou o Red de Engenharia, então cuido dos times de desenvolvimento lá."
+    },
+    {
+      "start": 2050.04,
+      "end": 2053.54,
+      "timestamp": "34:10",
+      "text": "Mas eu falei, Vini, falei no conjunto com o Pete."
+    },
+    {
+      "start": 2053.54,
+      "end": 2055.33,
+      "timestamp": "34:13",
+      "text": "Ah, chique, hein, Marcio."
+    },
+    {
+      "start": 2055.33,
+      "end": 2057.4,
+      "timestamp": "34:15",
+      "text": "Caralho, é Red de Engenharia."
+    },
+    {
+      "start": 2057.4,
+      "end": 2059.12,
+      "timestamp": "34:17",
+      "text": "Quem diria, hein, velho."
+    },
+    {
+      "start": 2059.12,
+      "end": 2061.83,
+      "timestamp": "34:19",
+      "text": "A gente vai galgando devagarzinho, né."
+    },
+    {
+      "start": 2061.83,
+      "end": 2064.69,
+      "timestamp": "34:21",
+      "text": "O importante é estar sempre construindo."
+    },
+    {
+      "start": 2064.69,
+      "end": 2065.91,
+      "timestamp": "34:24",
+      "text": "Filho de mineiro."
+    },
+    {
+      "start": 2065.91,
+      "end": 2068.34,
+      "timestamp": "34:25",
+      "text": "Desistiu de jogar bola, meu irmão."
+    },
+    {
+      "start": 2068.34,
+      "end": 2070.7,
+      "timestamp": "34:28",
+      "text": "Marcio é bom de bola, viu, velho."
+    },
+    {
+      "start": 2070.7,
+      "end": 2075.63,
+      "timestamp": "34:30",
+      "text": "Dois anos atrás, eu saí da empresa, quebrei a clavícula jogando bola."
+    },
+    {
+      "start": 2075.63,
+      "end": 2077.99,
+      "timestamp": "34:35",
+      "text": "Quebrou a clavícula jogando bola?"
+    },
+    {
+      "start": 2077.99,
+      "end": 2079.35,
+      "timestamp": "34:37",
+      "text": "Como você fez isso?"
+    },
+    {
+      "start": 2079.35,
+      "end": 2080.92,
+      "timestamp": "34:39",
+      "text": "Cai, rebentei o ombro."
+    },
+    {
+      "start": 2080.92,
+      "end": 2082.64,
+      "timestamp": "34:40",
+      "text": "Cara, perto do Ano Novo."
+    },
+    {
+      "start": 2082.64,
+      "end": 2088.93,
+      "timestamp": "34:42",
+      "text": "E o pior de tudo é que no dia, eu falei pra ele pra ele não jogar, lembra disso, Marcio?"
+    },
+    {
+      "start": 2088.93,
+      "end": 2091.79,
+      "timestamp": "34:48",
+      "text": "Você me deu a oportunidade de não jogar."
+    },
+    {
+      "start": 2091.79,
+      "end": 2092.0,
+      "timestamp": "34:51",
+      "text": "Foi"
+    }
+  ],
+  "segment_count": 650,
+  "text_timestamped": "[00:00] Fala galera, eu sou o Tales Gomes e esse é um episódio do Papo de Gestão, um podcast do G4 Educação em que eu converso com os maiores gestores do Brasil.\n[00:10] Aqui você vai aprender as lições que eu gostaria de ter escutado na minha trajetória e vai participar de conversas com pessoas que eu admiro sobre gestão, liderança, alta performance e outros assuntos que são necessários para você ser um líder 4.0.\n[00:28] E no final, não esquece de ir no Instagram do arroba G4 Podcast para me falar o que você está achando sobre esse projeto.\n[00:37] Antes de iniciar, quero te falar um pouco melhor sobre o que é o G4.\n[00:42] Nós somos a evolução da escola de negócios.\n[00:45] Nós traduzimos as práticas das empresas que mais crescem no mundo para o seu negócio.\n[00:51] Eu sou mentor de um dos produtos, o G4 Imersão e Mentoria.\n[00:55] Ela possui três pilares.\n[00:57] Primeiro, conteúdo de altíssima qualidade que trazem as práticas das empresas que mais crescem no mundo para o seu negócio.\n[01:05] Segundo, mentorias em que você pode tirar as suas dúvidas com os mentores, como eu, e que não são professores, mas sim empresários bem-sucedidos que já passaram pelos desafios que você está enfrentando hoje.\n[01:20] Terceiro, networking com outros gestores, pois sabemos que a jornada do empreendedor é solitária.\n[01:27] E por isso, oferecemos um ambiente onde você pode fazer relacionamentos e também negócios.\n[01:34] Se você quiser ser mentorado por mim e outros empreendedores, é só entrar em g4educação.com barra mentoria ou ir na descrição desse episódio e clicar no link para se inscrever no processo de seleção do G4 Imersão e Mentoria.\n[01:50] Nela, você terá três dias comigo, Alfredo e Bruno, e também acessa uma plataforma com conteúdos exclusivos para transformar o seu negócio após a imersão.\n[02:01] Um verdadeiro MBA de três dias, com lições que você já irá aplicar um dia depois na sua empresa.\n[02:07] Vou chamar meus co-founders aqui e vocês vão ver essa resenha aí, entre a gente.\n[02:13] Saudade dos caras, velho.\n[02:15] Juro por Deus, tem muito tempo que a gente não senta para trocar essa ideia.\n[02:20] E aí, Vini?\n[02:21] Fala.\n[02:22] Gente, esse é o Vini, meu CTO.\n[02:24] Cara, o Vini é um dos caras mais emblemáticos do ecossistema de empreendedorismo na parte de tecnologia.\n[02:31] Tem quantos anos que você trampa com tecnologia, Vini?\n[02:35] Uns 30 anos já?\n[02:36] É, acho que desde moleque.\n[02:38] 30 não, mas uns 25 aí já.\n[02:40] É verdade.\n[02:40] 25 anos, né, velho?\n[02:42] Qual foi a primeira coisa que você codou na sua vida?\n[02:46] Ah, jogo, né?\n[02:46] Quando eu era moleque, quando eu tinha 8 anos de idade, meu pai dava aqueles livrinhos lá de jogo.\n[02:53] Eu copiava, né?\n[02:55] Não era nem codar.\n[02:56] Eu copiava e ele foi me ensinando a debugar.\n[02:59] Eu fui aprendendo ali.\n[03:01] Fala lá com ele.\n[03:02] Fala, Daniel Coi.\n[03:03] Caralho, que animal, velho, que a gente conseguiu juntar os caras.\n[03:08] Esses caras não gostam de aparecer, gente.\n[03:11] Coi, é difícil, cara.\n[03:12] Não gostam.\n[03:13] A ideia é a gente lembrar dos perrengues que a gente passou lá no primeiro ano pra fazer esse negócio acontecer.\n[03:21] E foi perrengue, né, brother?\n[03:23] O Daniel foi meu primeiro co-founder, cara.\n[03:26] É o único original do Startup Weekend.\n[03:29] O cara ralou pra caralho ali com a gente no iniciozinho da companhia pra tirar o negócio do chão.\n[03:36] Ele era meu co-founder, diretor operacional.\n[03:39] É super raro esse negócio, cara, de você realmente conhecer alguém no Startup Weekend que depois a sociedade funciona e pô, o Coi foi o único, inclusive, né?\n[03:50] Coi, a gente tinha uns 5, 6 negros no nosso grupo no Startup Weekend?\n[03:55] Nada, cara, nada.\n[03:56] Lembra, cara, no primeiro dia a gente tava sem ideia e aí na mesa tinha umas 10 pessoas, né?\n[04:03] E as outras mesas cheias de gente.\n[04:05] Porra, as outras mesas tudo funcionando, o pessoal já tava começando a criar startup e a gente, ó, sem ideia nenhuma.\n[04:14] Nós criamos o ônibus, né?\n[04:15] É, a questão do ônibus lá do Google, te falei lá do Google.\n[04:20] Porra, vamos fazer.\n[04:21] Não, foi tu, porra.\n[04:22] Eu?\n[04:23] Ah, foi tu, cara.\n[04:24] Não me lembro, eu sei que, tipo assim, a gente ficou...\n[04:28] Tudo que é cachorro, cara.\n[04:30] A gente ficou conjecturando pra ver o que ia fazer e tal, até que a gente chegou na ideia do táxi, porque tava ruim de conseguir táxi, né, velho?\n[04:40] É, porra, um da manhã, um da manhã tentando táxi, porra, ninguém parava.\n[04:45] Ninguém parava, foi uma merda, cara.\n[04:48] E eu me lembro que eu fui dormir, tipo, a gente se falando no WhatsApp o tempo inteiro e você, porra, vou modelar essa porra.\n[04:57] E você começou, tipo, a modelar o negócio, pegou o Canvas, começou a fazer o Canvas, você lembra?\n[05:04] Canvas, cara, naquela época, 2011, né?\n[05:06] Ninguém conhecia essa parada de Canvas, ninguém conhecia, cara.\n[05:11] Deixa eu te mostrar essa porra aqui.\n[05:13] Até te prestei um livro, cara.\n[05:15] Business Model Canvas.\n[05:17] Do Alexander Osterwalder.\n[05:19] É, exatamente, exatamente.\n[05:21] Porra, e ali que a gente começou a desenhar Easy Taxi, cara, modelo de negócio.\n[05:26] Aí tu não vai lembrar disso não, mas tu me ligou, cara, no primeiro dia, quando a gente chegou em casa, a gente morava perto, tu me ligou, Daniel, já sei como é que a gente vai fazer a cobrança, como é que a gente vai monetizar.\n[05:43] Como, Tales?\n[05:43] Ah, vamos cobrar por download de aplicativo.\n[05:47] Tu não vai lembrar disso.\n[05:48] Não lembro.\n[05:49] Aí eu falei pra você, já era de madrugada, cara, tu devia estar cansado pra cacete.\n[05:55] Aí eu falei, não rola, cara, vai ser uma barreira de entrada gigantesca.\n[06:00] Vamos dormir, amanhã a gente pensa.\n[06:03] Aí no dia seguinte, porra, Tales, já sei como é que é.\n[06:07] Aí eu te falei, pago por uso, lembra disso?\n[06:10] TPU?\n[06:10] É verdade, eu lembro, TPU, velho.\n[06:12] TPU, na verdade, a ideia surgiu do modelo de negócio da TIM, naquela época, que a TIM tava, cara, 2011, naquela época a TIM tava lançando pré-pago, 50 centavos, né?\n[06:24] Era o sucessinho do pré-pago, né?\n[06:26] É, 2G, né, ainda, né?\n[06:28] E sabe o que eu me lembro?\n[06:30] Smartphone não existia, cara, era aquelas telas micro.\n[06:34] É, e eu me lembro que eu fui visitar os pontos de táxi, Daniel, e a gente viu que tinha um prancheta, você lembra que cobrava 2 reais?\n[06:43] Você falou, pô, vamos botar 1 real então, mano, TPU.\n[06:47] Foi o que surgiu, TPU, pago por uso.\n[06:50] Exatamente, começando com esse troço, E aí, sabe o que eu me lembro também, velho?\n[06:55] Do quanto que você ralou pra gente conseguir aqueles smartphones, que não tinha smartphone, né, brother?\n[07:03] Cara, não tinha smartphone na época, a gente tava todo fodido e sem dinheiro também, né?\n[07:09] A gente tava fodido pra caralho comodatto, né?\n[07:12] Não, mas isso foi depois, Vini.\n[07:15] Não, foi depois.\n[07:16] Eu lembro quando comprou os ETs, você já tava assim, né, Thales?\n[07:20] Comprou aqueles ETs, era uns 10, eu tava assim.\n[07:24] Você já tava?\n[07:25] Estava.\n[07:25] Foi nos primeiros 20 que a gente comprou do modelo Easy Mobile.\n[07:30] Era o ET ainda, não?\n[07:31] Não, na verdade foi um dos 10 primeiros, mas...\n[07:34] Eu já tava acordando com o Márcio, o Márcio vinha aqui pra casa e a gente tava acordando.\n[07:41] Eu me lembro que o Bicalho tinha pegado, e aí o Bicalho não tava acreditando muito na gente, não.\n[07:48] Isso, isso, isso.\n[07:49] Eu lembro muito mesmo, pô.\n[07:51] Ele não falou o que sabia, ele falou que não sabia, mas que ele aprendia, Thales, não muda não.\n[07:58] Isso mesmo, isso mesmo.\n[07:59] Ninguém sabia programar mobile, né?\n[08:02] Ninguém sabia.\n[08:03] Ninguém sabia.\n[08:04] Não sabia.\n[08:04] Estão dois do Android chegando no Brasil ainda.\n[08:08] Você lembra disso?\n[08:09] Agora que o app era feio pra cacete e era, né?\n[08:12] Não vou falar que ele programava.\n[08:15] Vamos falar, porque era frio, era.\n[08:17] O objetivo era esse, cara.\n[08:19] O objetivo era esse, cara.\n[08:21] Só para vocês terem uma visualizada aqui, gente, vocês estão vendo?\n[08:26] A gente está falando de Brasil 2011, 4% da população brasileira tinha smartphone com internet só, segunda versão do Android chegando no Brasil, e esses malucos aqui fazendo mobile, cara.\n[08:39] Mobile, eu não sabia que era mobile no mundo.\n[08:42] A gente começando esse treco no Brasil, senhora loucura.\n[08:46] E aí o Daniel foi meu primeiro co-founder, era meu diretor de operações e tal, ele, pô, se virou para arrumar um ZTE, que era uma bosta da Huawei, Daniel?\n[08:57] Era a Huawei, era bem barato.\n[08:59] ZTE?\n[09:00] Não, cara, ZTE era ZTE mesmo, era chinês.\n[09:03] Uma porcaria, mas que era caro pra caralho.\n[09:06] Se não me engano, você pagou R$700 em cada celular desse, não é isso?\n[09:11] Não, cara, não, não.\n[09:12] R$700 era preço de mercado, preço de loja física.\n[09:15] Não, não, a gente pagou R$300, cara, preço de custo.\n[09:19] Não, R$300 não foi no Huawei?\n[09:21] Não.\n[09:22] Não foi no Huawei, foi no ZTE.\n[09:24] Foi R$300, eu lembro, cara.\n[09:26] Eu lembro disso.\n[09:27] A gente está falando de 2011, tá?\n[09:29] Traz na Valor Presente.\n[09:31] R$300 era dinheiro pra caralho.\n[09:33] Pra caralho.\n[09:34] R$300 era muito dinheiro, velho.\n[09:36] Eu não sei fazer essa conta, não, mas eu sei que era dinheiro pra caralho.\n[09:41] Eu lembro na época.\n[09:43] Caralho, R$300 é dinheiro demais, irmão.\n[09:46] E não era só porque a gente não tinha grana, não, porque o Inês era rico.\n[09:51] É porque o negócio era dinheiro pra caralho mesmo.\n[09:54] Era foda.\n[09:55] iPhone era tipo R$800, não era isso?\n[09:58] R$900, sei lá.\n[09:59] Acho que era mais, cara.\n[10:00] Acho que era mais.\n[10:02] Era, cara.\n[10:02] Era, mas sempre foi caro.\n[10:04] Tinha smartphone de R$2.000, cara, na época, que eu lembro.\n[10:08] Tinha, tinha.\n[10:09] Mas eu lembro que a gente se virou com esse ZTE e, porra, e a galera, vocês estão ouvindo a gente aí?\n[10:17] A maior dificuldade era o seguinte, cara.\n[10:19] Taxista usado era aquele negócio do radinho, me dá o nome?\n[10:24] Nextel.\n[10:24] Radinho.\n[10:25] Nextel.\n[10:25] Era mesmo.\n[10:26] E a gente convenceu os caras a comprar smartphone, o caralho, e os caras não compravam nem fudendo.\n[10:33] Aí o que a gente fez?\n[10:34] A gente foi e falou, pô, vamos comprar 10?\n[10:37] Quero que a gente tenha de grana ali.\n[10:40] E vamos emprestar pros caras.\n[10:42] Só que qual que era a parada, brother?\n[10:45] O negócio que emprestava pros caras, os caras não tinham nem carregador veicular.\n[10:51] Você lembra, Daniel?\n[10:52] Não, e eles esqueciam de logar, porque não tinha chamada no começo.\n[10:57] Eles esqueciam de logar.\n[10:59] O cara ficava mais de uma hora no banheiro.\n[11:02] Não, cara.\n[11:02] Aí o Daniel ficava ligando pros caras.\n[11:05] Você lembra, Daniel?\n[11:07] A gente fez um sistema.\n[11:08] Eu lembro que a gente fez um sistema.\n[11:11] Quantas horas tinha ficado logado pra gente poder pedir de volta os smartphones.\n[11:17] Não, cara.\n[11:17] O corrente tinha que ligar.\n[11:19] Lembro.\n[11:20] Eu ligava, cara.\n[11:21] Ficava uns 24 horas, porra, ligando.\n[11:23] Pedia o celular de volta, que não logava.\n[11:26] Lembro, porra.\n[11:27] O Daniel não dormia nessa época.\n[11:30] Ele ficava o tempo inteiro ligado no trem, velho.\n[11:33] Até a distância do Daniel era aquele mapa do Google ali, plotando os taxistas navegando.\n[11:39] Eu tenho.\n[11:40] Com oito taxistas ali.\n[11:42] Caralho, eu lembro, cara.\n[11:43] Eu comprei um tablet pra fazer o cadastro mais rápido dos taxistas.\n[11:48] Pô, meu laptop era pesado pra cacete.\n[11:51] Eu pensei assim, pô, vou comprar um tablet.\n[11:54] Comprei um tablet da Samsung mais baratinho, só com chip, né?\n[11:58] Nem Wi-Fi recebia.\n[12:00] Aí eu comprei o tablet.\n[12:01] Porra, a gente não tinha escritório também, né?\n[12:05] Escritório era a minha casa, era dentro do táxi.\n[12:08] Cara, todo cadastro eu descia, sentava lá dentro do táxi e fazia o cadastro.\n[12:13] Até, lembra, Márcio, com a palavra que eu ia dizer?\n[12:17] Márcio, tô indo fazer um cadastro.\n[12:20] Fica atento aí.\n[12:21] Fica esperto aí.\n[12:22] Fica esperto aí.\n[12:23] E aí eu fazia os cadastros assim.\n[12:25] E aí o tablet, cara, eu dormia com ele, cara.\n[12:28] Eu dormia do meu lado, assim.\n[12:31] Estava de qualquer maneira, só virar e pegar o tablet.\n[12:34] Eu lembro desse tablet.\n[12:36] Se eu quero um Android, era.\n[12:38] Era um Android, cara.\n[12:40] Uma merda esse tablet.\n[12:41] Era uma merda.\n[12:42] Você era acho que uma das primeiras versões de tablet que chegou no Brasil.\n[12:47] Era o Samsung de 7 polegadas.\n[12:50] 7 polegadas.\n[12:50] Eu comprei.\n[12:51] Comprei o de 10 pra poder ver os carrinhos rodando, né?\n[12:55] Caralho, que época.\n[12:56] E aí depois nós começamos a arrumar os treinos dos comodatos lá pra poder de telefone, porque os caras não tinham telefone, né, mano?\n[13:06] Tinha que arrumar os treinos de comodatos.\n[13:09] A gente teve um contrato de comodato de mil linhas, né?\n[13:13] Que era mil aparelhos.\n[13:15] A gente anunciou e faltando...\n[13:17] Quando deu 45 dias, a gente falou que ia ter em 60 dias, falaram que a nossa empresa era muito nova, não tinha crédito pra pegar as linhas, os aparelhos, né?\n[13:28] Eu lembro, velho.\n[13:29] Eu também.\n[13:30] Naquela época, ele ficava o tempo inteiro ligado no treino.\n[13:34] É.\n[13:34] Tinha uma de distância do Daniel, era aquele mapa do Google ali, plotando os taxistas navegando.\n[13:41] Você tem print, Daniel?\n[13:43] Eu tenho, tenho, tenho.\n[13:44] Com oito taxistas ali.\n[13:46] Caralho, eu lembro, cara.\n[13:48] Eu comprei um tablet pra fazer o cadastro mais rápido dos taxistas.\n[13:52] Pô, meu laptop era pesado pra cacete.\n[13:55] Aí eu pensei assim, pô, vou comprar um tablet.\n[13:58] Comprei tablet da Samsung mais baratinho, só com chip, né?\n[14:03] Nem Wi-Fi recebia.\n[14:04] Aí eu comprei o tablet.\n[14:05] Porra, a gente não tinha escritório também, né?\n[14:09] Escritório era a minha casa, era dentro do táxi.\n[14:12] Cara, todo cadastro eu descia, sentava lá dentro do táxi e fazia o cadastro.\n[14:18] Até, lembra, Marcos, com a palavra que eu vou dizer?\n[14:21] Marcos, tô indo fazer um cadastro.\n[14:24] Fica atento aí.\n[14:25] Fica esperto aí.\n[14:26] Fica esperto aí.\n[14:27] E aí eu fazia os cadastros assim.\n[14:30] E aí o tablet, cara, eu dormia com ele, cara.\n[14:33] Eu dormia do meu lado, assim.\n[14:35] Estava de qualquer maneira, só virar e pegar o tablet.\n[14:39] Eu lembro desse tablet.\n[14:40] Se eu quero um Android, né?\n[14:42] Era um Android, cara.\n[14:44] Uma merda esse tablet.\n[14:45] Era uma merda.\n[14:46] Você era acho que uma das primeiras versões de tablet que chegou no Brasil.\n[14:52] Era o Samsung de 7 polegadas.\n[14:54] 7 polegadas.\n[14:55] Eu comprei.\n[14:55] Comprei o de 10 pra poder ver os carrinhos rodando, né?\n[14:59] Caralho, que época.\n[15:01] E aí depois nós começamos a arrumar os treinos dos comodatos lá pra poder de telefone, porque os caras não tinham telefone, né, mano?\n[15:10] Tinha que arrumar os treinos de comodato.\n[15:13] A gente teve um contrato de comodato de mil linhas, né?\n[15:17] Que era mil aparelhos.\n[15:19] A gente anunciou e faltando...\n[15:21] Quando deu 45 dias, a gente falou que ia ter em 60 dias, falaram que a nossa empresa era muito nova, não tinha crédito pra pegar as linhas, os aparelhos, né?\n[15:32] Eu lembro, velho.\n[15:33] Eu lembro o seguinte.\n[15:35] A gente foi mil linhas mesmo de comodato.\n[15:38] Aí eu falei, não, vamos ter mil, pode vir aí, porra.\n[15:41] A gente foi captando, aí daqui a pouco...\n[15:44] Não, não tem como emprestar pra vocês.\n[15:47] Não, e anunciou, cara.\n[15:49] Anunciou não, né?\n[15:50] Saiu no jornal, saiu tudo.\n[15:52] Que ia ter mil taxistas, saiu...\n[15:54] Caralho, é verdade.\n[15:55] Eu lembro, velho.\n[15:57] Foi no início, quando a gente começou...\n[15:59] Naquele escritório que foi lançado na Igreja da Glória.\n[16:03] Vocês lembram disso?\n[16:05] Eu lembro.\n[16:06] Eu lembro eu e Márcio naquela mesezinha de plástico.\n[16:09] Naquele trem quente, velho.\n[16:11] Não era do meu dia, meu dia.\n[16:13] Não passava sinal de Wi-Fi naquelas paredes, cara.\n[16:17] Não passava sinal de Wi-Fi ali.\n[16:19] Não passava sinal de Wi-Fi que não dá pra trabalhar aqui.\n[16:23] Nossa, velho.\n[16:24] Que perrengue que a gente passou nessa porra, brother.\n[16:28] Eu me lembro, cara, do caralho, cara.\n[16:30] A gente cadastrando...\n[16:32] E não tinha funcionário, cara.\n[16:34] Não tinha nem ventilador, cara.\n[16:36] Não tinha ventilador.\n[16:38] Não tinha nada naquela sala, não tinha nada.\n[16:41] Era mesa de plástico.\n[16:43] Pra trabalhar, pra programar, era mesa de plástico e cadeira de plástico.\n[16:48] Sabe uma lembrança que eu tenho, Vinícius?\n[16:51] Você puta comigo, que eu dei uma entrevista pra Globo News ali.\n[16:55] E você me perguntou qual a maior dificuldade de empreender no Brasil.\n[17:00] Eu vou botar a Dilma como sócia, eu vim e ficou puto.\n[17:04] Eu lembro lá mesmo.\n[17:05] Eu e o Márcio sentados na mesinha ali atrás de plástico\n\ncom aquele 21, 2 em 2, sei lá, na época, não deu porra.\n[17:13] Lembra do The Next Web que a gente competiu com eles?\n[17:17] Foi no The Next Web?\n[17:19] Não, foi no...\n[17:20] Foi naquele negócio do IBM.\n[17:21] Não, não, não.\n[17:22] A gente apresentou esse modelo.\n[17:25] A gente foi pra The Next Web.\n[17:27] É verdade que foi aqui em São Paulo a premiação, brother.\n[17:31] Exato.\n[17:31] Eu não tinha grana pra vir, mas não tinha grana pra dormir no hotel.\n[17:36] Aí eu falei, eu vou conhecer alguém lá, vou ficar brother, alguém vai me convidar pra dormir na casa dele.\n[17:44] Foi até o Felipe Oranges, cara, meu amigo até hoje, sou astronauta.\n[17:49] Não sei se você acredita.\n[17:50] Ele e o Vitor, que era o sócio dele lá, os caras, tipo assim, estavam com um aplicativo bosta, né?\n[17:57] Na verdade, imprimir cartão postal.\n[18:00] E aí estava disputando lá o trem, aí eu fiquei brother dos caras.\n[18:04] Aí os caras, e aí, vai fazer o quê?\n[18:07] Eu falei, pô, sei lá, tô vendo o que eu vou fazer.\n[18:11] Eu não tinha grana pra dormir no hotel.\n[18:13] Aí os caras, porra, se quiser cair em casa, eu falei, ah, se for de boa, eu quero, mano.\n[18:20] Graças a Deus, arrumei um lugar pra cair.\n[18:23] Ô, Márcio, qual foi aquele evento que te botaram pra fazer embaixadinha lá, que você competiu com o cara?\n[18:30] Ah, é, pô, foi no The Next Web, pô.\n[18:33] Foi nesse evento.\n[18:34] Foi nesse evento.\n[18:35] É verdade.\n[18:36] Pô, eu tava de sapato social, velho.\n[18:38] Não, de sapato social.\n[18:40] Ganhou do gringo, não é isso?\n[18:42] É.\n[18:42] Era isso.\n[18:43] Sapato social, o Márcio foi fazer embaixadinha, ganhou do cara lá.\n[18:47] Ganhou do cara, velho.\n[18:49] Caralho, que resenha, meu irmão.\n[18:51] Puta que pariu.\n[18:52] O que você lembra de mais perrengue aí, Daniel?\n[18:56] Perrengue?\n[18:56] Márcio, pode lembrar muito bem, cara.\n[18:59] Carreata dos taxistas, lembra disso, Márcio?\n[19:02] Carreata?\n[19:03] Aquele evento que ele fez no hotel, e aí no dia seguinte tinha...\n[19:08] Não.\n[19:08] Cara, foi uma carreata que ia ter dos taxistas em prol de um deputado, em prol dos taxistas.\n[19:14] Não, não.\n[19:15] Em prol do deputado, defendia, claro, dos taxistas.\n[19:19] E aí eu falei, pô, eu nem tinha lançado ainda o app.\n[19:22] Aí eu falei, porra, eu preciso ir nessa parada pra poder fazer o pré-cadastro, né, dos taxistas.\n[19:29] Bater uns 500 lá, vou fazer cadastro de todo mundo.\n[19:33] Aí eu pensei assim, caralho, vai se dar na puta que pariu.\n[19:37] Márcio, vamos comigo, vamos sozinho nessa parada, não.\n[19:41] Vamos lá, vamos embora.\n[19:43] Aí eu disse, vamos lá.\n[19:44] Chamei o Márcio, aí a gente foi lá.\n[19:47] Qual foi o ponto, Márcio, que a gente encontrou?\n[19:50] Costa Barros.\n[19:51] A gente encontrou, a gente deu um taxilho e fomos de carreata até Costa Barros.\n[19:57] Caralho, cara.\n[19:58] Dois dias depois...\n[19:59] Não, o pior é que a gente depois saiu do bairro, lá que a gente tava, que teve essa confusão, e a gente foi pra Ilha do Governador pra churrasco.\n[20:09] Tinha um churrasco.\n[20:11] Tinha um churrasco.\n[20:12] Churrasco das cooperativas, cara.\n[20:14] Cara, aí o Márcio, a gente foi, entramos, aí vimos os donos das cooperativas com bandeirão, tipo torcida organizada.\n[20:23] Cara, eu falei, Márcio, vambora daqui, cara.\n[20:26] Tá maluco isso aqui?\n[20:27] Tô aqui daqui a pouco.\n[20:29] Eu me lembro que eu ia em evento de cooperativa e tinha um cara do cooperativo, acho que era o André, que era o nome dele, que a gente ficou mais forte.\n[20:40] André Assisto.\n[20:41] Isso, lembro.\n[20:42] O André Assisto.\n[20:43] No clube dos taxistas.\n[20:44] No clube dos taxistas.\n[20:46] Não, de associação.\n[20:47] Na verdade, o André não era muito...\n[20:50] De associação dos taxistas autônomos, não era isso?\n[20:54] É um negócio assim, taxistas autônomos.\n[20:56] Associação dos taxistas autônomos, alguma parada assim.\n[21:00] Os caras do cooperativo não gostavam muito da gente, não.\n[21:04] Pesão não era muito nosso fã, não.\n[21:07] Na verdade, no começo, eles não tinham muito problema, né?\n[21:11] Porque eles achavam que não ia dar em muito nada.\n[21:14] Eles começavam a aparecer.\n[21:16] Eu lembro, cara.\n[21:17] Eu lembro que eu vim de uma cooperativa lá na Tijuca, chamada Pontual.\n[21:22] Era grande.\n[21:23] Pontual?\n[21:24] Era top do Rio.\n[21:25] Era top, era top.\n[21:26] E aí o cara, porra, falou assim pra gente.\n[21:29] Porra, vocês vão ter que ralar bastante pra terem 2 milhões de corrida mesmo.\n[21:35] É, tá bom.\n[21:35] Mas meses depois, a gente bateu a meta, né?\n[21:38] Exatamente.\n[21:39] O cara morreu, né?\n[21:40] Acabou a cooperativa.\n[21:42] O tal do crescimento exponencial, né, velho?\n[21:45] Que é bizarro quando o trem engata.\n[21:48] Vamos falar pra galera quando o troço engata.\n[21:51] Quando o negócio realmente, tipo assim, achou o modelo de negócio.\n[21:56] Pivotamos, então, gente, uma vez.\n[21:58] A gente saiu do modelo de fazer um attachment com cooperativas pra ir direto no B2C, o que era inimaginável na época.\n[22:06] E a gente fez essa parada.\n[22:08] A gente achou que esse era o caminho.\n[22:11] E só pra vocês entenderem onde que a gente tava, antes da gente receber a primeira rodada de funding da Rocket, a gente tava, tipo assim, há dois meses de quebrar totalmente, né, Daniel?\n[22:24] Não tinha mais grana.\n[22:26] Dois meses?\n[22:26] Que dois meses, meu?\n[22:28] Um mês.\n[22:28] Foi um mês, né?\n[22:29] Não, cara.\n[22:30] Eu lembro, cara.\n[22:31] Não, a gente chegou três dívidas, né?\n[22:34] A gente tava fodido mesmo.\n[22:36] Mas dívida não.\n[22:37] A gente tava pra quebrar uns dois meses mesmo.\n[22:40] Porque a gente pegou um empréstimo lá.\n[22:43] Na verdade, a gente não tinha muito problema, né?\n[22:46] Eles achavam que não ia dar em muito nada.\n[22:49] A gente começou a aparecer.\n[22:51] Não ia dar em nada, cara.\n[22:53] Eu lembro, cara.\n[22:54] Eu lembro que eu vim de uma cooperativa lá na Tijuca, chamada Pontual.\n[22:59] Era grande.\n[23:00] Pontual?\n[23:00] Era top do Rio.\n[23:02] Era top, era top.\n[23:03] E aí o cara, porra, falou assim pra gente.\n[23:06] Porra, vocês vão ter que ralar bastante pra terem dois milhões de corrida mesmo.\n[23:11] É.\n[23:12] É, tá bom.\n[23:12] Mas meses depois, a gente bateu a meta, né?\n[23:15] Exatamente.\n[23:16] O cara morreu, né?\n[23:18] Acabou a cooperativa.\n[23:19] O tal do crescimento exponencial, né, velho?\n[23:22] Que é bizarro quando o trem engata.\n[23:25] Vamos falar pra galera quando o troço engata, assim.\n[23:28] Quando o negócio realmente, tipo assim, a gente achou o modelo de negócio.\n[23:34] Pivotamos, então, gente, uma vez.\n[23:36] A gente saiu do modelo de fazer um attachment com cooperativas pra ir direto no B2C, o que era inimaginável na época.\n[23:44] E a gente fez essa parada.\n[23:46] A gente achou que esse era o caminho.\n[23:49] E só pra vocês entenderem onde que a gente tava, antes da gente receber a primeira rodada de funding da Rocket, a gente tava, tipo assim, há dois meses de quebrar totalmente, né, Daniel?\n[24:02] Não tinha mais grana.\n[24:04] Dois meses?\n[24:04] Que dois meses?\n[24:06] Um mês.\n[24:06] Não, cara.\n[24:07] Foi um mês, né?\n[24:08] Foi um mês?\n[24:09] Não, cara.\n[24:09] Não, eu lembro, cara.\n[24:11] Não, a gente chegou atendido, né?\n[24:13] A gente tava fodido mesmo.\n[24:15] Mas dívida não.\n[24:16] A gente tava pra quebrar, tipo lá, uns dois meses mesmo.\n[24:20] Porque a gente pegou um empréstimo lá.\n[24:23] Imagina, a gente sabe que a Rocket pagou.\n[24:26] Tem coisa que a Rocket pagou.\n[24:28] Ah, verdade.\n[24:29] Mas isso aí, a gente seguiu pra frente.\n[24:31] A gente pegou empréstimo com o Alex Taboa.\n[24:34] Alex Taboa.\n[24:35] Alex Taboa.\n[24:36] Tipo assim, eu sei que a grana do Daniel já tava acabando, a minha já tava acabando, não tinha mais grana, velho.\n[24:44] Essa que era a verdade.\n[24:46] Tanto que foi o tempo que o Bicarro falou, porra, eu tô fora, galera, que esse negócio vai virar.\n[24:53] É, o Bicarro foi, saiu.\n[24:54] Ele foi uma outra saída.\n[24:56] Lembra?\n[24:57] O Bicarro saiu.\n[24:58] O Bicarro saiu nessa época, cara.\n[25:00] E já tava aí, cara.\n[25:01] Aí tava começando a fazer com o advogado, que era o Zemo Yu.\n[25:06] Não, não, não.\n[25:07] Vamos lembrar, vamos lembrar.\n[25:09] A gente tinha um acordo com o escritório de advocacia que defendeu a gente, que quando a gente captasse, a gente tinha que pagar.\n[25:18] Então a gente já tinha uma dívida ativa com o Bicarro.\n[25:22] Foi pra defender a gente.\n[25:24] O Gaessa e o Gaessa e o Daniel Romor, que foi pra defender a gente daquele maluco que processou a gente.\n[25:31] Como é que é o nome, velho?\n[25:33] Ah, é.\n[25:33] Teve também aquilo.\n[25:35] Esse cara teve uma grana pra ele.\n[25:37] Foi disso que nasceu a dívida do escritório de advocacia.\n[25:41] Foi desse processo.\n[25:43] Tinha um maluco que processou a gente.\n[25:45] Mas que a gente botou ele pra trabalhar de cofada e o cara não tava entregando.\n[25:51] O Daniel\n\nEu me lembro do perrengue que a gente passou porque a Rocket queria botar os engenheiros deles para poder meter a mão no app.\n[26:01] Você lembra o tanto que você tomou no cu com isso, Vini?\n[26:05] Botaram, né?\n[26:05] Depois eu tinha que refazer a API toda, né?\n[26:09] Eles fizeram lá em Mongo tudo errado.\n[26:11] Os caras fizeram a gente perder três meses nessa porra.\n[26:15] O tal do Mongo que você adorava, né?\n[26:18] O Vercoffee caía.\n[26:19] Fazia uma consulta, eles fizeram um mundo relacional.\n[26:23] Eles botaram as tabelas do banco não relacional, relacional, que era o que eles sabiam.\n[26:29] Cara, eu tive que refazer o app todo.\n[26:32] Caía todo dia.\n[26:33] Aula do que nunca fazer em Venture Capital, velho.\n[26:36] Tentar meter a mão no negócio dos caras que vocês foram investindo.\n[26:41] Que era só pra gente ver como é que era, que a TI podia ficar em qualquer lugar.\n[26:47] São Paulo era um projeto de dois meses.\n[26:49] Era só pra gente ver como é que era.\n[26:52] São Paulo era um projeto de dois meses.\n[26:55] Fala aí, se passa, explica como funcionam as coisas e depois vocês voltam.\n[27:00] Tá até agora pra voltar.\n[27:02] Ô Vini, você lembra como que a gente veio pra São Paulo a primeira vez juntos?\n[27:07] Você lembra que a gente ficou dormindo juntos?\n[27:11] Você marcou aquele dormindo?\n[27:13] Marquei um hotel.\n[27:14] Na primeira noite não, mas aí eu falei, cara, marca o hotel pra amanhã.\n[27:19] Você falou, beleza.\n[27:20] Aí eu saí e voltei e você marcou.\n[27:23] Você estava dormindo, apagado.\n[27:25] Ah, marquei.\n[27:26] Aí no dia seguinte eu tô indo pro hotel e você falou, ah, não marquei esse aqui não.\n[27:32] Falei, como assim, cara?\n[27:33] Eu te dei a página, mostrei o hotel.\n[27:36] Aí a gente teve que ir pra outro hotel.\n[27:39] Chegamos de madrugada.\n[27:40] Dormiu numa cama de casal, velho.\n[27:43] Não tinha mais quarto a nada.\n[27:45] E o primeiro Airbnb, Marcio, você lembra?\n[27:48] Aquela casa do quarto, num colchão no chão, velho.\n[27:51] Parecia um cachiveiro, velho.\n[27:53] A gente tinha recebido, sei lá, milhões, 10 milhões de reais de investimento da Rocket.\n[28:00] E aí, brother, a gente pegou, eu marquei um Airbnb, pô, eu era muito humilde, velho.\n[28:06] Tipo assim, não conhecia nada, assim, tá ligado?\n[28:09] Nunca tive dinheiro na minha vida.\n[28:11] Eu, pô, marquei um Airbnb, mas daqui era aluguel de quarto, num lugar, tipo, sei lá, na Moca, sabe?\n[28:18] E era um quartinho do fera lá, que tinha uns três colchões que a gente dormia no chão, num free, velho.\n[28:26] Você lembra, Marcio?\n[28:27] Ficamos ali, velho.\n[28:29] Parecia um cachiveiro, velho.\n[28:31] Você tá ficando aonde?\n[28:32] Eu falei, ah, velho, peguei um Airbnb ali.\n[28:35] Aí negou ali aonde?\n[28:37] Tal lugar, que eu não lembro onde que era.\n[28:40] Tipo, um lugar muito longe.\n[28:42] Aí eu, que isso, você tá maluco?\n[28:44] Pô, você lembra do primeiro dia em São Paulo, Tati?\n[28:47] A gente assinou o contrato, porra, almoçamos com todo mundo, ficamos trabalhando até 11 da noite, fomos sair da Rocket.\n[28:56] Não tinha táxi.\n[28:57] Fomos pra rua tentar pegar táxi na rua, porra, tinha um cara assaltando uma menina.\n[29:03] Caralho, é verdade!\n[29:04] O escritório da Rocket, tipo, naquela Cracolândiazinha ali, né?\n[29:09] Na Vila Leopoldina.\n[29:10] Como é que é o nome daquilo?\n[29:12] Vila...\n[29:13] Vila Leopoldina.\n[29:14] Leopoldina.\n[29:15] Não, não, acho que é por aí, por aí, acho que é no Parque Vila Lobos.\n[29:20] Aí fez o Parque Vila Lobos ali.\n[29:22] E eu me lembro que o Márcio e o Vini odiavam São Paulo, e eu virei pros caras e falei, não, velho, só vai ali, eu pedi pra arrumar uma parada, daqui a pouco vocês voltam pro Rio.\n[29:35] Não, tá aí.\n[29:35] Não, mas a Rocket falou isso também, o Sima falou isso pra mim.\n[29:40] O Sima falou isso pra gente também.\n[29:42] Não, pode ver, a TI pode ficar em qualquer lugar do mundo.\n[29:46] Então tá aí, pode voltar pro Rio, tá bom.\n[29:49] O Márcio ficou na casa do André aí um tempo, eu fiquei na casa do meu primo, cara, eu hospedado, achando que era temporário.\n[29:58] Pô, eu pedi a fudia pra poder ir com o Sima, o Sima tá lá em Miami, né?\n[30:03] É, tá em Miami, faz tempo que eu não falo com ele também.\n[30:07] Vamos falar um pouquinho sobre o que cada um tá fazendo agora?\n[30:12] Dani, conta pra galera o que você tá fazendo e tal, pra galera te conhecer melhor, mano.\n[30:18] Cara, hoje trabalho com diversidade cognitiva.\n[30:21] Delexia, na verdade.\n[30:23] Pra quem não sabe o que é Delexia, Delexia, se você jogar no Google, é transtorno de aprendizagem, mas na verdade tem o outro lado da moeda, que é o dom da Delexia, que nos dá potencialidades fora do normal, né?\n[30:38] Então eu tô trabalhando com pessoas dilexicas pra descobrir e potencializar esse dom.\n[30:44] Caralho, mano.\n[30:45] E assim que eu obtenho sucesso profissional e pessoal.\n[30:49] Caralho.\n[30:49] E você, Vini?\n[30:50] O que você tá arrumando?\n[30:52] Cara, eu tô na Remessa Online hoje, com o Márcio, ele vai falar também, tocando a parte de dados, segurança, ajudando lá em tudo, né?\n[31:02] Onde precisa, escalabilidade, onde eu consigo fazer alguma coisa.\n[31:06] O Remessa Online, gente, é um dos business que surgiu do negócio que a gente criou quando a gente vendeu a Izitac, chamado E-Genius, que era uma venture builder.\n[31:18] E aí, puta, dessa venture builder nasceu o Simbu, nasceu o Bicâmbio, que virou Remessa, não é isso, Márcio?\n[31:25] É, só corrigindo, né?\n[31:27] O Pavani e o Stefano, que são os fundadores iniciais, estavam já tocando a Bicâmbio, e a gente fez um modelo de joint venture ali, e desse projeto da Bicâmbio nasceu o Remessa Online em 2016, né?\n[31:41] Pra facilitar e simplificar aí quem precisa fazer pagamentos internacionais.\n[31:46] Então, quem precisa mandar dinheiro pra fora ou receber dinheiro, pode usar a nossa solução aí, tanto pra pessoa física quanto pra pessoa jurídica.\n[31:57] É, os caras estão...\n[31:58] Você está transacionando quanto hoje, cara?\n[32:01] Puts, não tenho os números de cabeça, mas a gente transacionou mais de um bi já esse ano, tá, Deco?\n[32:08] Não tenho na vírgula aqui, mas estamos crescendo num ritmo muito bom, e o grande foco agora é a gente também trazer os benefícios que a gente fez da pessoa física ao longo desses três anos aí pra pessoa jurídica.\n[32:24] Exatamente, cara.\n[32:25] Na verdade é o seguinte, porra, eu quis fazer essa resenha aqui pra vocês verem, é...\n[32:31] Na verdade tinha muito tempo que eu não conversava com os nossos quatro juntos, a gente não fazia essa resenha aí, de fato.\n[32:40] E eu falei, vamos fazer essa resenha.\n[32:42] Tem porra, 10 anos.\n[32:44] Como é que é, Dani?\n[32:45] Os quatro juntos tem muito tempo.\n[32:47] Você conta agora de 10 em 10.\n[32:49] Cara, vendeu um livro nas quatro, muito tempo.\n[32:53] Cinco anos.\n[32:53] A gente fez essa resenha em 2016.\n[32:56] Ficamos quatro anos de Z-Taxi ou cinco, a gente falou, não foi?\n[33:00] Pô, acho que a gente fez em 16, alguma coisa assim.\n[33:04] Eu acho que foi em 16.\n[33:06] A gente se encontrou em São Paulo.\n[33:08] Se foi até naquele restaurante japonês lá, o Scandal?\n[33:12] Tô brincando.\n[33:13] Sempre brincadeira.\n[33:14] Eu acho que a gente fez a última resenha, cara, em 2016, velho.\n[33:19] Em 2016 que a gente fez essa resenha junto, tomando uma.\n[33:23] E eu falei, pô, vou fazer essa resenha aqui com os caras pra vocês verem como é que funciona, cara.\n[33:30] Como que a gente...\n[33:31] Começa um negócio, o tanto de perrengue que a gente passa.\n[33:35] Vocês vão ver tanta gente falar sobre facilidade, vem cá que eu vou te dar uma fórmula, um hack.\n[33:42] Tem porra nenhuma disso, mas é a relação do caralho pra tirar o negócio do chão, brother.\n[33:48] Do caralho, vocês não têm ideia.\n[33:51] Ô Thales, você não deixou o Marcio falar o que ele tá fazendo, cara.\n[33:56] O Marcio falou, ué.\n[33:57] Não, ele falou remessa, mas não falou o que ele tá fazendo lá.\n[34:01] O que você faz na remessa, Marcio?\n[34:04] Pô, hoje eu sou o Red de Engenharia, então cuido dos times de desenvolvimento lá.\n[34:10] Mas eu falei, Vini, falei no conjunto com o Pete.\n[34:13] Ah, chique, hein, Marcio.\n[34:15] Caralho, é Red de Engenharia.\n[34:17] Quem diria, hein, velho.\n[34:19] A gente vai galgando devagarzinho, né.\n[34:21] O importante é estar sempre construindo.\n[34:24] Filho de mineiro.\n[34:25] Desistiu de jogar bola, meu irmão.\n[34:28] Marcio é bom de bola, viu, velho.\n[34:30] Dois anos atrás, eu saí da empresa, quebrei a clavícula jogando bola.\n[34:35] Quebrou a clavícula jogando bola?\n[34:37] Como você fez isso?\n[34:39] Cai, rebentei o ombro.\n[34:40] Cara, perto do Ano Novo.\n[34:42] E o pior de tudo é que no dia, eu falei pra ele pra ele não jogar, lembra disso, Marcio?\n[34:48] Você me deu a oportunidade de não jogar.\n[34:51] Foi",
+  "timestamps_estimated": true
+}

@@ -1,0 +1,172 @@
+{
+  "episode_id": "34748488431",
+  "title": "A IMPORTÂNCIA DAS RELAÇÕES PARA O NEGÓCIO DECOLAR -- COM MÔNICA HAUCK E IGOR SENRA | G4 PODCASTS",
+  "date_published": 1717144200,
+  "duration": 1940,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Mônica Hauck",
+      "role": "guest",
+      "company": "Solidis",
+      "title": "Cofundadora e CEO"
+    },
+    {
+      "name": "Igor Senra",
+      "role": "guest",
+      "company": "Banco Cora",
+      "title": "Cofundador e CEO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa cofundada por Tallis Gomes e Alfredo Soares, mencionada no contexto de mentoria e educação empresarial."
+    },
+    {
+      "name": "Solidis",
+      "industry": "Tecnologia e Serviços",
+      "context": "Empresa cofundada por Mônica Hauck, mencionada no contexto de empreendedorismo e captação de investimentos."
+    },
+    {
+      "name": "Banco Cora",
+      "industry": "Serviços Financeiros",
+      "context": "Empresa cofundada por Igor Senra, mencionada no contexto de empreendedorismo e captação de investimentos."
+    },
+    {
+      "name": "Cora",
+      "industry": "Fintech",
+      "context": "Empresa focada em serviços financeiros para pequenas e médias empresas, destacando-se pelo volume de depósitos no Banco Central."
+    },
+    {
+      "name": "Solids",
+      "industry": "Recursos Humanos",
+      "context": "Desenvolve soluções para gestão de pessoas focadas em pequenas e médias empresas."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Fundraising",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "Gestão de Recursos",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Eficiência Operacional",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Elevator Pitch",
+      "category": "Estratégia de Comunicação"
+    },
+    {
+      "name": "Planejamento Financeiro",
+      "category": "Gestão Financeira"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Centenas de milhões de dólares",
+      "context": "Montante levantado por Mônica Hauck e Igor Senra em rodadas de investimento."
+    },
+    {
+      "value": "20%-30%",
+      "context": "Percentual de ganho de eficiência operacional mencionado no contexto de uso de inteligência artificial."
+    },
+    {
+      "value": "20% a 30%",
+      "context": "Melhoria de eficiência em processos com o uso de tecnologia."
+    },
+    {
+      "value": "1 milhão de clientes",
+      "context": "Número de clientes alcançados pela Cora em menos de quatro anos."
+    },
+    {
+      "value": "1,5 bilhões de reais",
+      "context": "Volume de depósitos mensais da Cora no Banco Central."
+    },
+    {
+      "value": "3 milhões de empresas",
+      "context": "Meta de empresas beneficiadas pela Solids com sua solução de gestão de pessoas."
+    },
+    {
+      "value": "6 vezes mais crescimento",
+      "context": "Taxa de crescimento dos clientes da Solids em comparação à média brasileira."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Solids",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Mônica Hauck",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Solidis",
+      "target_type": "company"
+    },
+    {
+      "source": "Igor Senra",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cora",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Mônica Hauck",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Solids",
+      "target_type": "company"
+    },
+    {
+      "source": "Igor Senra",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Banco Cora",
+      "target_type": "company"
+    }
+  ]
+}

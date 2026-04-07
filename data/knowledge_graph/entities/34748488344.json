@@ -1,0 +1,357 @@
+{
+  "episode_id": "34748488344",
+  "title": "MAIS DE 30% DOS IPHONES DO MUNDO SÃO FABRICADOS PELA BYD | EXTREMOS",
+  "date_published": 1738760400,
+  "duration": 4080,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Alexandre Baldi",
+      "role": "guest",
+      "company": "BYD Brasil",
+      "title": "Líder de Expansão"
+    },
+    {
+      "name": "Marco Maciel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-Vice-Presidente da República"
+    },
+    {
+      "name": "Tyler",
+      "role": "mentioned",
+      "company": "BYD Brasil",
+      "title": "CEO"
+    },
+    {
+      "name": "Estela",
+      "role": "mentioned",
+      "company": "BYD",
+      "title": "VP Executiva Global e CEO das Américas"
+    },
+    {
+      "name": "Lincoln",
+      "role": "mentioned",
+      "company": "China Link",
+      "title": "Representante"
+    },
+    {
+      "name": "Alfredo",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Byd Brasil",
+      "industry": "Automotivo",
+      "context": "Expansão e fabricação de carros elétricos no Brasil"
+    },
+    {
+      "name": "Foxbit",
+      "industry": "Criptomoedas",
+      "context": "Patrocinador do G4 Podcast"
+    },
+    {
+      "name": "Minimal Club",
+      "industry": "Vestuário",
+      "context": "Patrocinador do G4 Podcast"
+    },
+    {
+      "name": "Ford",
+      "industry": "Automotivo",
+      "context": "Venda de fábrica em Camaçari para a BYD"
+    },
+    {
+      "name": "Byd",
+      "industry": "Tecnologia e Inovação",
+      "context": "Conglomerado global com operações no Brasil e outros países, atuando em setores como fabricação de baterias, veículos elétricos e painéis solares."
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Cliente da BYD para fabricação de iPhones e iPads."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automobilístico",
+      "context": "Cliente da BYD para fornecimento de baterias."
+    },
+    {
+      "name": "Toyota",
+      "industry": "Automobilístico",
+      "context": "Cliente da BYD para fornecimento de baterias."
+    },
+    {
+      "name": "Mercedes",
+      "industry": "Automobilístico",
+      "context": "Cliente da BYD para fornecimento de baterias."
+    },
+    {
+      "name": "China Link",
+      "industry": "Consultoria e Comércio Internacional",
+      "context": "Empresa que conecta empresários brasileiros ao mercado chinês."
+    },
+    {
+      "name": "Shell",
+      "industry": "Energy",
+      "context": "Parceira em superpostos de carregamento elétrico."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Crescimento exponencial",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Network",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Expansão de mercado",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Fabricação local",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Glocal",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Super Híbrido Flex-Fuel",
+      "category": "Tecnologia Automobilística"
+    },
+    {
+      "name": "Green Tech",
+      "category": "Sustentabilidade e Inovação"
+    },
+    {
+      "name": "Autonomia de Veículos Elétricos",
+      "category": "Tecnologia Automobilística"
+    },
+    {
+      "name": "Carros elétricos",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Carros híbridos",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Infraestrutura de carregamento",
+      "category": "Infraestrutura"
+    },
+    {
+      "name": "Receita acessória",
+      "category": "Modelo de Negócio"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "83 bilhões de dólares",
+      "context": "Faturamento anual mencionado"
+    },
+    {
+      "value": "30%",
+      "context": "Porcentagem de iPhones fabricados pela BYD"
+    },
+    {
+      "value": "7.635 carros",
+      "context": "Volume de vendas no Brasil"
+    },
+    {
+      "value": "5,5 bilhões de reais",
+      "context": "Investimento na fábrica em Camaçari"
+    },
+    {
+      "value": "22%",
+      "context": "Participação de mercado em embalagens farmacêuticas no Brasil"
+    },
+    {
+      "value": "30%",
+      "context": "Porcentagem de iPhones fabricados pela BYD no mundo."
+    },
+    {
+      "value": "80%",
+      "context": "Porcentagem de iPads fabricados pela BYD."
+    },
+    {
+      "value": "24 bilhões de dólares",
+      "context": "Faturamento estimado da BYD com produtos fabricados para a Apple em 2024."
+    },
+    {
+      "value": "120 bilhões de dólares",
+      "context": "Faturamento anual da BYD como montadora."
+    },
+    {
+      "value": "83 bilhões de dólares",
+      "context": "Faturamento do conglomerado BYD no ano anterior."
+    },
+    {
+      "value": "10 mil pessoas",
+      "context": "Número de contratações planejadas pela BYD na Bahia até 2025."
+    },
+    {
+      "value": "1.200 km",
+      "context": "Autonomia máxima de um carro elétrico mencionado."
+    },
+    {
+      "value": "100 mil carregadores wallbox",
+      "context": "Quantidade de carregadores entregues pela BYD no Brasil."
+    },
+    {
+      "value": "300 kW",
+      "context": "Capacidade de carregamento de supercarregadores em superpostos."
+    },
+    {
+      "value": "15 mil ônibus elétricos",
+      "context": "Frota de ônibus elétricos em Shenzhen, todos da BYD."
+    },
+    {
+      "value": "26 mil táxis elétricos",
+      "context": "Frota de táxis elétricos em Shenzhen, todos da BYD."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Byd",
+      "source_type": "company",
+      "relation": "manufactures",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "Byd",
+      "source_type": "company",
+      "relation": "supplies",
+      "target": "Mercedes",
+      "target_type": "company"
+    },
+    {
+      "source": "Byd",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Green Tech",
+      "target_type": "concept"
+    },
+    {
+      "source": "Byd",
+      "source_type": "company",
+      "relation": "supplies",
+      "target": "Toyota",
+      "target_type": "company"
+    },
+    {
+      "source": "Byd",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Camaçari",
+      "target_type": "company"
+    },
+    {
+      "source": "Shell",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Byd",
+      "target_type": "company"
+    },
+    {
+      "source": "Minimal Club",
+      "source_type": "company",
+      "relation": "sponsor",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Byd",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Infraestrutura De Carregamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Toyota",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Byd",
+      "target_type": "company"
+    },
+    {
+      "source": "Byd",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Carros Elétricos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Foxbit",
+      "source_type": "company",
+      "relation": "sponsor",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Baldi",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "Byd Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Byd Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ford",
+      "target_type": "company"
+    },
+    {
+      "source": "Byd",
+      "source_type": "company",
+      "relation": "supplies",
+      "target": "Tesla",
+      "target_type": "company"
+    }
+  ]
+}

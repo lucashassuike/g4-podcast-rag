@@ -1,0 +1,494 @@
+{
+  "episode_id": "34748488598",
+  "title": "Sofia Esteves e Jan Christian - Gestão de Pessoas: Estratégias e Tendências | Conectando os Pontos",
+  "date_published": 1683675981,
+  "duration": 4490,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Sofia Esteves",
+      "role": "guest",
+      "company": "Não especificado",
+      "title": "Presidente do Conselho"
+    },
+    {
+      "name": "Jan Christian",
+      "role": "guest",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Jj",
+      "role": "mentioned",
+      "company": "Ambev",
+      "title": "Presidente"
+    },
+    {
+      "name": "Manu",
+      "role": "mentioned",
+      "company": "Ambev",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Lucas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Benchmol",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ian",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Founder"
+    },
+    {
+      "name": "Ale",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Santos Dumont",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Ambev",
+      "industry": "Bebidas",
+      "context": "Discussão sobre transformação cultural"
+    },
+    {
+      "name": "Michael Page",
+      "industry": "Recruitment",
+      "context": "Mentioned in relation to socioemotional and soft skills research."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education and Business Consulting",
+      "context": "Discussed in relation to leadership academy and hiring practices."
+    },
+    {
+      "name": "Companhia De Talentos",
+      "industry": "Recruitment",
+      "context": "Discussed as a major player in recruitment processes in Brazil."
+    },
+    {
+      "name": "Flash People",
+      "industry": "HR Technology",
+      "context": "Discussed in relation to acquisition strategies and HR tools development."
+    },
+    {
+      "name": "Folha Certa",
+      "industry": "HR Technology",
+      "context": "Acquired by Flash People for its expertise in control of employee attendance."
+    },
+    {
+      "name": "Flash",
+      "industry": "HR Technology",
+      "context": "Discussed in the context of acquiring Folha Certa for its superior product."
+    },
+    {
+      "name": "Ciee De Talentos",
+      "industry": "HR and Talent Management",
+      "context": "Discussed in relation to Sofia Esteves' leadership transition."
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Financial Services",
+      "context": "Mentioned in the context of business metrics and strategy."
+    },
+    {
+      "name": "Bradesco",
+      "industry": "Banking",
+      "context": "Engages in large-scale recruitment projects with Companhia de Talentos."
+    },
+    {
+      "name": "Endeavor",
+      "industry": "Entrepreneurship",
+      "context": "Mentioned in relation to Sofia Esteves receiving an award"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Soft skills",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Processo seletivo",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Transformação cultural",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Entropia organizacional",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Cultural Alignment",
+      "category": "HR and Recruitment"
+    },
+    {
+      "name": "Leadership Academy",
+      "category": "Education and Training"
+    },
+    {
+      "name": "Recruitment Tools",
+      "category": "HR Technology"
+    },
+    {
+      "name": "Employee Turnover Metrics",
+      "category": "HR Analytics"
+    },
+    {
+      "name": "RH estratégico",
+      "category": "HR Strategy"
+    },
+    {
+      "name": "Seleção por Competências",
+      "category": "HR Methodology"
+    },
+    {
+      "name": "Dashboard de Indicadores",
+      "category": "Business Analytics"
+    },
+    {
+      "name": "Turnover",
+      "category": "HR Metrics"
+    },
+    {
+      "name": "Seleção por Comportamento",
+      "category": "Recruitment Methodology"
+    },
+    {
+      "name": "Pesquisa Pulse",
+      "category": "Employee Engagement Tool"
+    },
+    {
+      "name": "AI (Artificial Intelligence)",
+      "category": "Technology"
+    },
+    {
+      "name": "Microlearning",
+      "category": "Learning and Development"
+    },
+    {
+      "name": "Login Único",
+      "category": "Technology"
+    },
+    {
+      "name": "ChatGPT",
+      "category": "Technology"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Burnout",
+      "category": "Saúde Mental"
+    },
+    {
+      "name": "Mindfulness",
+      "category": "Prática de Bem-Estar"
+    },
+    {
+      "name": "KPI (Key Performance Indicator)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Projeto Excelência",
+      "category": "Iniciativa de Desenvolvimento"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Liderança",
+      "category": "Management"
+    },
+    {
+      "name": "Sucesso",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "150,000",
+      "context": "Número de participantes na pesquisa Carreira dos Sonhos"
+    },
+    {
+      "value": "40%",
+      "context": "Porcentagem de alta liderança que planeja sair da empresa nos próximos 24 meses"
+    },
+    {
+      "value": "90-91%",
+      "context": "Porcentagem de demissões por questões socioemocionais ou soft skills segundo pesquisa da Michael Page"
+    },
+    {
+      "value": "1.5 million",
+      "context": "Number of people processed annually by Companhia de Talentos in recruitment."
+    },
+    {
+      "value": "100 to 700 employees",
+      "context": "Growth in employee count at Flash People in one year."
+    },
+    {
+      "value": "50% monthly growth",
+      "context": "Growth rate mentioned for Flash People."
+    },
+    {
+      "value": "$20 billion",
+      "context": "Market size for HR technology."
+    },
+    {
+      "value": "$100 million",
+      "context": "Funding round raised by Flash People."
+    },
+    {
+      "value": "150,000",
+      "context": "Number of candidates processed for Itaú."
+    },
+    {
+      "value": "92",
+      "context": "NPS score for Companhia de Talentos."
+    },
+    {
+      "value": "1,400,000",
+      "context": "Number of applicants for positions managed by Companhia de Talentos."
+    },
+    {
+      "value": "15,000 to 18,000",
+      "context": "Number of positions worked on by Companhia de Talentos in the last year."
+    },
+    {
+      "value": "2,000",
+      "context": "Annual positions managed for Bradesco by Companhia de Talentos."
+    },
+    {
+      "value": "700,000",
+      "context": "Followers on LinkedIn mentioned by Sofia Esteves"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Ai (Artificial Intelligence)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Sofia Esteves",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Flash People",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Folha Certa",
+      "target_type": "company"
+    },
+    {
+      "source": "Flash",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Folha Certa",
+      "target_type": "company"
+    },
+    {
+      "source": "Sofia Esteves",
+      "source_type": "person",
+      "relation": "received_award",
+      "target": "Endeavor",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Transformação Cultural",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Leadership Academy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Companhia De Talentos",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Bradesco",
+      "target_type": "company"
+    },
+    {
+      "source": "Jan Christian",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Flash People",
+      "target_type": "company"
+    },
+    {
+      "source": "Jan Christian",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Transformação Cultural",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jj",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Sofia Esteves",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Companhia De Talentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Flash",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Pesquisa Pulse",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Sofia Esteves",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ciee De Talentos",
+      "target_type": "company"
+    },
+    {
+      "source": "Jan Christian",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Flash People",
+      "target_type": "company"
+    },
+    {
+      "source": "Jan Christian",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Flash",
+      "target_type": "company"
+    },
+    {
+      "source": "Michael Page",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Soft Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

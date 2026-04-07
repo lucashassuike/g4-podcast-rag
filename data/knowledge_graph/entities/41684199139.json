@@ -1,0 +1,294 @@
+{
+  "episode_id": "41684199139",
+  "title": "O SEGREDO POR TRÁS DE MARCAS SAUDÁVEIS E LUCRATIVAS COM RODRIGO CARVALHO | PAPO DE GESTÃO",
+  "date_published": 1756134000,
+  "duration": 4109,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Rodrigo Carvalho",
+      "role": "guest",
+      "company": "Plant Power",
+      "title": "Fundador"
+    },
+    {
+      "name": "José Mário",
+      "role": "mentioned",
+      "company": "Grupo de empresas de pesca",
+      "title": "Fundador"
+    },
+    {
+      "name": "Felipe",
+      "role": "mentioned",
+      "company": "Positive Company",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "Três Corações",
+      "title": "CEO"
+    },
+    {
+      "name": "Furla",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Executive"
+    },
+    {
+      "name": "Mesquita",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Executive"
+    },
+    {
+      "name": "Bruno Constantino",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Executive"
+    },
+    {
+      "name": "Marcelo",
+      "role": "mentioned",
+      "company": "Zaya",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Botilho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nizam Guaraná",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Plant Power",
+      "industry": "Alimentos e Bebidas",
+      "context": "Empresa focada em produtos saudáveis e suplementos naturais."
+    },
+    {
+      "name": "Positive Company",
+      "industry": "Alimentos e Bebidas",
+      "context": "Anteriormente conhecida como Positive Brands, empresa que desenvolve produtos saudáveis."
+    },
+    {
+      "name": "A Tal Da Castanha",
+      "industry": "Alimentos e Bebidas",
+      "context": "Primeira marca incubada pela indústria de castanha de caju da família de Rodrigo Carvalho."
+    },
+    {
+      "name": "Grupo De Empresas De Pesca",
+      "industry": "Pesca e Exportação",
+      "context": "Fundado por José Mário, expandiu para frigoríficos e exportação."
+    },
+    {
+      "name": "Tal Da Castanha",
+      "industry": "Food and Beverage",
+      "context": "Producer of plant-based beverages and snacks"
+    },
+    {
+      "name": "Três Corações",
+      "industry": "Food and Beverage",
+      "context": "Coffee and beverage company"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Financial Services",
+      "context": "Investment and financial services firm"
+    },
+    {
+      "name": "Positive Coal",
+      "industry": "Food and Beverage",
+      "context": "Acquired Zaya to expand market presence and accelerate growth."
+    },
+    {
+      "name": "Zaya",
+      "industry": "Food and Beverage",
+      "context": "Produces clean label snacks and was acquired by Positive Coal."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Almond Milk",
+      "category": "Produto"
+    },
+    {
+      "name": "Leite de castanha de caju",
+      "category": "Produto"
+    },
+    {
+      "name": "Suplementos naturais",
+      "category": "Produto"
+    },
+    {
+      "name": "Liofilização",
+      "category": "Tecnologia de alimentos"
+    },
+    {
+      "name": "Joint Business Plan (JBP)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Clean Label",
+      "category": "Product Development"
+    },
+    {
+      "name": "Trade Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Growth Strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Portfolio Expansion",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "32 anos",
+      "context": "Tempo de operação da indústria de castanha de caju da família de Rodrigo Carvalho."
+    },
+    {
+      "value": "33 lojas",
+      "context": "Número de concessionárias de veículos geridas pelo tio de Rodrigo Carvalho."
+    },
+    {
+      "value": "2 bilhões de reais",
+      "context": "Faturamento das concessionárias de veículos geridas pelo tio de Rodrigo Carvalho."
+    },
+    {
+      "value": "100 million",
+      "context": "Rapid revenue growth of brands employing heavy influencer marketing"
+    },
+    {
+      "value": "12 grams",
+      "context": "Protein content in Zaytas proteic snacks"
+    },
+    {
+      "value": "15 days",
+      "context": "Time until the new automated industry in Vinhedo is ready."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Pedro",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Três Corações",
+      "target_type": "company"
+    },
+    {
+      "source": "Positive Coal",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Zaya",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Constantino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Mesquita",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Carvalho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Positive Coal",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Positive Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Carvalho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tal Da Castanha",
+      "target_type": "company"
+    },
+    {
+      "source": "Tal Da Castanha",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Três Corações",
+      "target_type": "company"
+    },
+    {
+      "source": "José Mário",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo De Empresas De Pesca",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Carvalho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Plant Power",
+      "target_type": "company"
+    },
+    {
+      "source": "Positive Coal",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Três Corações",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Carvalho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "A Tal Da Castanha",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Zaya",
+      "target_type": "company"
+    },
+    {
+      "source": "A Tal Da Castanha",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Positive Company",
+      "target_type": "company"
+    },
+    {
+      "source": "Furla",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    }
+  ]
+}

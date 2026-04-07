@@ -1,0 +1,250 @@
+{
+  "episode_id": "34748488579",
+  "title": "Fábio Gurgel - Do Tatame à Gestão: O Caminho Árduo de um Campeão | Sem Atalhos",
+  "date_published": 1687856400,
+  "duration": 3381,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Fábio Gurgel",
+      "role": "guest",
+      "company": "Alliance",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio e Mentor"
+    },
+    {
+      "name": "Kobe Bryant",
+      "role": "mentioned",
+      "company": "",
+      "title": "Athlete"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Athlete"
+    },
+    {
+      "name": "Usain Bolt",
+      "role": "mentioned",
+      "company": "",
+      "title": "Athlete"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Ayn Rand",
+      "role": "mentioned",
+      "company": "",
+      "title": "Escritora"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Host company of the podcast and provider of business education services"
+    },
+    {
+      "name": "Alliance",
+      "industry": "Sports and Fitness",
+      "context": "A global jiu-jitsu academy founded by Fábio Gurgel"
+    },
+    {
+      "name": "Alliance Jiu-Jitsu",
+      "industry": "Sports and Fitness",
+      "context": "Discussed as the organization led by Fábio Gurgel"
+    },
+    {
+      "name": "Aliança",
+      "industry": "Esportes e Artes Marciais",
+      "context": "Academia de Jiu-Jitsu"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta Performance",
+      "category": "Mindset"
+    },
+    {
+      "name": "Metodologia",
+      "category": "Business Framework"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Technology"
+    },
+    {
+      "name": "Delegação",
+      "category": "Leadership"
+    },
+    {
+      "name": "Mindset",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Leadership",
+      "category": "Management"
+    },
+    {
+      "name": "Resilience",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Patience",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Gratitude",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Virtue of Selfishness",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Conforto no desconforto",
+      "category": "Estratégia de desenvolvimento pessoal"
+    },
+    {
+      "name": "Sacrifício e virtude",
+      "category": "Filosofia de vida"
+    },
+    {
+      "name": "Analogias no ensino",
+      "category": "Método educacional"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Habilidade pessoal"
+    },
+    {
+      "name": "Esportes de alta performance",
+      "category": "Estilo de vida"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Virtue of Selfishness",
+      "author": "Ayn Rand"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "25 campeões mundiais de jiu-jitsu",
+      "context": "Formados por Fábio Gurgel"
+    },
+    {
+      "value": "120 academias no Brasil",
+      "context": "Alliance"
+    },
+    {
+      "value": "70 academias nos Estados Unidos",
+      "context": "Alliance"
+    },
+    {
+      "value": "300 filiais em 32 países",
+      "context": "Alliance"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio Gurgel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alliance",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio Gurgel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aliança",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Education",
+      "target_type": "company"
+    },
+    {
+      "source": "Alliance",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Sports And Fitness",
+      "target_type": "company"
+    },
+    {
+      "source": "Ayn Rand",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "The Virtue Of Selfishness",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fábio Gurgel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Alliance Jiu-Jitsu",
+      "target_type": "company"
+    }
+  ]
+}

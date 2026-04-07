@@ -1,0 +1,613 @@
+{
+  "episode_id": "34748488553",
+  "title": "O Que é Preciso para Construir um Legado? - Com Fernando Cinelli | G4 Podcasts",
+  "date_published": 1693816200,
+  "duration": 4474,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Fernando Cinelli",
+      "role": "guest",
+      "company": "Apex Partners",
+      "title": "Fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Malcolm Gladwell",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Lorena",
+      "role": "mentioned",
+      "company": "",
+      "title": "Advogada"
+    },
+    {
+      "name": "Martins Cobori",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Adam Smith",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de treinamento e capacitação para empresas e empreendedores"
+    },
+    {
+      "name": "Apex Partners",
+      "industry": "Mercado de Capitais",
+      "context": "Empresa fundada por Fernando Cinelli, focada em venture capital e private equity"
+    },
+    {
+      "name": "Btg",
+      "industry": "Serviços Financeiros",
+      "context": "Envolvida em um grande negócio com a Apex Partners"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Investimentos",
+      "context": "Mencionada como exemplo de desconcentração do mercado de capitais."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Investimentos",
+      "context": "Mencionada em relação a um acordo estratégico com a Apex Partners."
+    },
+    {
+      "name": "Safra",
+      "industry": "Investimentos",
+      "context": "Mencionada como parte do movimento de desconcentração do mercado de capitais."
+    },
+    {
+      "name": "Apex",
+      "industry": "Financeiro",
+      "context": "Empresa mencionada como foco principal do convidado Fernando Cinelli."
+    },
+    {
+      "name": "Goldman Sachs",
+      "industry": "Financeiro",
+      "context": "Mencionado como benchmark global para a Apex."
+    },
+    {
+      "name": "Falcone",
+      "industry": "Consultoria",
+      "context": "Mencionada como parceira da Apex para desenvolvimento organizacional."
+    },
+    {
+      "name": "Singur",
+      "industry": "Technology",
+      "context": "Mentioned as a previous venture by Tallis Gomes."
+    },
+    {
+      "name": "Eze Tax",
+      "industry": "Technology",
+      "context": "Mentioned as a previous venture by Tallis Gomes."
+    },
+    {
+      "name": "Gepardo",
+      "industry": "Investment Management",
+      "context": "Referenced in relation to decision-making processes in investment committees."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Mercado de Capitais",
+      "category": "Economia"
+    },
+    {
+      "name": "Inteligência Emocional",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Organizações Aranha e Estrela do Mar",
+      "category": "Estratégia Organizacional"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Treinamento"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Investimento"
+    },
+    {
+      "name": "Private Equity",
+      "category": "Investimento"
+    },
+    {
+      "name": "Financial Deepening",
+      "category": "Finanças"
+    },
+    {
+      "name": "Gestão de Recursos",
+      "category": "Finanças"
+    },
+    {
+      "name": "Advisory",
+      "category": "Finanças"
+    },
+    {
+      "name": "Estratégia de Expansão Regional",
+      "category": "Negócios"
+    },
+    {
+      "name": "Efeito Rede",
+      "category": "Negócios"
+    },
+    {
+      "name": "Investment Banking",
+      "category": "Serviços financeiros"
+    },
+    {
+      "name": "Wealth Management",
+      "category": "Serviços financeiros"
+    },
+    {
+      "name": "Family Office",
+      "category": "Serviços financeiros"
+    },
+    {
+      "name": "Gestão de Portfólio",
+      "category": "Serviços financeiros"
+    },
+    {
+      "name": "Estratégia de Negócios",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão de Riscos",
+      "category": "Gestão"
+    },
+    {
+      "name": "Desenvolvimento de Talentos",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Estrutura Matricial",
+      "category": "Gestão Organizacional"
+    },
+    {
+      "name": "Chief Executive Officer (CEO)",
+      "category": "Cargos Executivos"
+    },
+    {
+      "name": "Chairman",
+      "category": "Cargos Executivos"
+    },
+    {
+      "name": "OPM (Owner/President Management)",
+      "category": "Educação Executiva"
+    },
+    {
+      "name": "Leaderless Organizations",
+      "category": "Organizational Structure"
+    },
+    {
+      "name": "Organizations Aranha e Estrela do Mar",
+      "category": "Organizational Structure"
+    },
+    {
+      "name": "Democracia Grega",
+      "category": "Historical Governance"
+    },
+    {
+      "name": "Outliers",
+      "category": "Book Concept"
+    },
+    {
+      "name": "VC Track",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "IPO",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Long-term Business Vision",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Acordo de Sócios",
+      "category": "Governança Corporativa"
+    },
+    {
+      "name": "Vesting",
+      "category": "Governança Corporativa"
+    },
+    {
+      "name": "Cliff",
+      "category": "Governança Corporativa"
+    },
+    {
+      "name": "Governança",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Liderança Nível 5",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Virtude do Egoísmo",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Pareto Principle",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "IDH (Índice de Desenvolvimento Humano)",
+      "category": "Economic Indicator"
+    },
+    {
+      "name": "Reforma Tributária",
+      "category": "Economic Policy"
+    },
+    {
+      "name": "Arcabouço Fiscal",
+      "category": "Economic Policy"
+    },
+    {
+      "name": "Desinflacionário",
+      "category": "Economic Policy"
+    },
+    {
+      "name": "Curva de Juros",
+      "category": "Economic Indicator"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finance"
+    },
+    {
+      "name": "Fluxo de Caixa Futuro",
+      "category": "Finance"
+    },
+    {
+      "name": "Trade-off",
+      "category": "Economic Concept"
+    },
+    {
+      "name": "Divisão do trabalho",
+      "category": "Economia"
+    },
+    {
+      "name": "Relações de troca",
+      "category": "Economia"
+    },
+    {
+      "name": "Especialização",
+      "category": "Economia"
+    },
+    {
+      "name": "Produtividade",
+      "category": "Economia"
+    },
+    {
+      "name": "Vantagens competitivas",
+      "category": "Economia"
+    },
+    {
+      "name": "Juros compostos",
+      "category": "Finanças"
+    }
+  ],
+  "books": [
+    {
+      "title": "Leaderless Organizations",
+      "author": "Unknown"
+    },
+    {
+      "title": "Outliers",
+      "author": "Malcolm Gladwell"
+    },
+    {
+      "title": "Built to Last",
+      "author": "Jim Collins"
+    },
+    {
+      "title": "Vencedoras por Opção",
+      "author": "Jim Collins"
+    },
+    {
+      "title": "A Riqueza das Nações",
+      "author": "Adam Smith"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7 dias",
+      "context": "Período de acesso gratuito ao G4 Skills"
+    },
+    {
+      "value": "43%",
+      "context": "Participação de São Paulo e Rio de Janeiro no PIB brasileiro."
+    },
+    {
+      "value": "33%",
+      "context": "Participação de São Paulo no PIB brasileiro."
+    },
+    {
+      "value": "14 a 15 trilhões de reais",
+      "context": "Estoque de capital no Brasil."
+    },
+    {
+      "value": "110 a 120 bilhões de reais",
+      "context": "Estoque de capital no Espírito Santo."
+    },
+    {
+      "value": "5,5 bilhões de reais",
+      "context": "Ativos sob supervisão pela Apex Partners."
+    },
+    {
+      "value": "200 pessoas",
+      "context": "Tamanho da equipe da Apex Partners."
+    },
+    {
+      "value": "80 milhões de reais",
+      "context": "Faturamento anual estimado da Apex Partners."
+    },
+    {
+      "value": "2,000 a 2,500 empregos diretos",
+      "context": "Gerados pela área de investimentos em ativos imobiliários da Apex."
+    },
+    {
+      "value": "6,000 empregos indiretos",
+      "context": "Gerados pela área de investimentos em ativos imobiliários da Apex."
+    },
+    {
+      "value": "250% CAGR",
+      "context": "Growth rate of G4 Educação over the last 4 years."
+    },
+    {
+      "value": "200 million BRL",
+      "context": "Annual revenue of G4 Educação."
+    },
+    {
+      "value": "0.760",
+      "context": "Current average IDH of Brazil"
+    },
+    {
+      "value": "0.8",
+      "context": "Threshold for Brazil to be considered developed"
+    },
+    {
+      "value": "2% to 2.5%",
+      "context": "Expected GDP growth for Brazil"
+    },
+    {
+      "value": "8 years",
+      "context": "Period of Brazil's transformation into a major energy exporter"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Fernando Cinelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Apex Partners",
+      "target_type": "company"
+    },
+    {
+      "source": "Apex Partners",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Safra",
+      "target_type": "company"
+    },
+    {
+      "source": "Malcolm Gladwell",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Outliers",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singur",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Cinelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Apex",
+      "target_type": "company"
+    },
+    {
+      "source": "Jim Collins",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Vencedoras Por Opção",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Apex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Falcone",
+      "target_type": "company"
+    },
+    {
+      "source": "Apex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Cinelli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Martins Cobori",
+      "target_type": "person"
+    },
+    {
+      "source": "Apex",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Goldman Sachs",
+      "target_type": "company"
+    },
+    {
+      "source": "Xp Inc",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Apex Partners",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Btg",
+      "target_type": "company"
+    },
+    {
+      "source": "Apex Partners",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Apex Partners",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Cinelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "A Riqueza Das Nações",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Cinelli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Apex Partners",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Cinelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Falcone",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Cinelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Btg Pactual",
+      "target_type": "company"
+    },
+    {
+      "source": "Jim Collins",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Built To Last",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Cinelli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Adam Smith",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Eze Tax",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Cinelli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Goldman Sachs",
+      "target_type": "company"
+    }
+  ]
+}

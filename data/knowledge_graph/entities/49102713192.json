@@ -1,0 +1,338 @@
+{
+  "episode_id": "49102713192",
+  "title": "SAÚDE MENTAL DÁ LUCRO? COM TATI PIMENTA | PAPO DE GESTÃO",
+  "date_published": 1769447716,
+  "duration": 3462,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tatiana Pimenta",
+      "role": "guest",
+      "company": "Vitude",
+      "title": "Fundadora"
+    },
+    {
+      "name": "Paulo Chapchap",
+      "role": "mentioned",
+      "company": "Hospital Sírio-Libanês",
+      "title": "Presidente (na época mencionada)"
+    },
+    {
+      "name": "Luiz Reis",
+      "role": "mentioned",
+      "company": "Hospital Sírio-Libanês",
+      "title": "Responsável pela inovação"
+    },
+    {
+      "name": "Tati Pimenta",
+      "role": "guest",
+      "company": "Avitude",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Sirlene Zimmerman",
+      "role": "mentioned",
+      "company": "Ministério Público do Trabalho",
+      "title": "Procuradora"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Vitude",
+      "industry": "Saúde Mental",
+      "context": "Fundada por Tatiana Pimenta para oferecer serviços de saúde mental e terapia online."
+    },
+    {
+      "name": "Hospital Sírio-Libanês",
+      "industry": "Saúde",
+      "context": "Mencionado como referência em programas de segunda opinião em oncologia."
+    },
+    {
+      "name": "Avitude",
+      "industry": "Saúde Mental",
+      "context": "Empresa focada em saúde mental corporativa, mencionada como liderada por Tati Pimenta."
+    },
+    {
+      "name": "Grupo Boticário",
+      "industry": "Varejo",
+      "context": "Cliente mencionado como exigente em segurança da informação."
+    },
+    {
+      "name": "Redpoint",
+      "industry": "Investimentos",
+      "context": "Investidora da Avitude, cofundadora do Cubo."
+    },
+    {
+      "name": "Cubo",
+      "industry": "Inovação e Startups",
+      "context": "Local utilizado para eventos da Avitude."
+    },
+    {
+      "name": "Ministério Público Do Trabalho",
+      "industry": "Governo e Administração Pública",
+      "context": "Envolvido na mudança da NR1 e em eventos relacionados à saúde mental"
+    },
+    {
+      "name": "Ministério Do Trabalho E Emprego",
+      "industry": "Governo e Administração Pública",
+      "context": "Envolvido na mudança da NR1 e em eventos relacionados à saúde mental"
+    },
+    {
+      "name": "Boticário",
+      "industry": "Cosméticos",
+      "context": "Cliente de longa data mencionado como exemplo de retenção de clientes"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Burnout",
+      "category": "Saúde Mental"
+    },
+    {
+      "name": "Inteligência Artificial (IA)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Psicoeducação",
+      "category": "Saúde Mental"
+    },
+    {
+      "name": "KPI (Key Performance Indicator)",
+      "category": "Gestão"
+    },
+    {
+      "name": "Telemedicina",
+      "category": "Saúde Digital"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "GMV (Gross Merchandise Value)",
+      "category": "Métrica de Negócio"
+    },
+    {
+      "name": "Churn",
+      "category": "Métrica de Negócio"
+    },
+    {
+      "name": "Máquina de Vendas",
+      "category": "Gestão Comercial"
+    },
+    {
+      "name": "Employee Value Proposition (EVP)",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Go to Market",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "ROI (Retorno sobre Investimento)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Cyber Security",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "FAP-RAT",
+      "category": "Tributação e Recursos Humanos"
+    },
+    {
+      "name": "NR1",
+      "category": "Regulamentação"
+    },
+    {
+      "name": "Riscos psicossociais",
+      "category": "Saúde e Segurança no Trabalho"
+    },
+    {
+      "name": "Enterprise Sales",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "ICP (Ideal Customer Profile)",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Segurança psicológica",
+      "category": "Saúde Mental e Organizacional"
+    },
+    {
+      "name": "Primeiros socorros em saúde mental",
+      "category": "Treinamento e Educação"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "6 clientes corporativos",
+      "context": "Número inicial de clientes da Vitude em março de um ano não especificado."
+    },
+    {
+      "value": "200 clientes corporativos",
+      "context": "Número de clientes da Vitude ao final de 2021/início de 2022."
+    },
+    {
+      "value": "Mais de 5 mil municípios no Brasil",
+      "context": "Número de municípios no Brasil, metade sem psicólogos ou psiquiatras."
+    },
+    {
+      "value": "55% dos psicólogos no estado de São Paulo",
+      "context": "Distribuição de profissionais de psicologia no Brasil."
+    },
+    {
+      "value": "200 clientes",
+      "context": "Número de clientes da Avitude em um período mencionado."
+    },
+    {
+      "value": "35% de crescimento de receita",
+      "context": "Crescimento da Avitude em 2023."
+    },
+    {
+      "value": "Meta de dobrar de tamanho",
+      "context": "Objetivo da Avitude para 2024."
+    },
+    {
+      "value": "6 anos",
+      "context": "Tempo de retenção do cliente Boticário"
+    },
+    {
+      "value": "Mil consultas",
+      "context": "Exemplo de volume de consultas faturadas mensalmente"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Sirlene Zimmerman",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ministério Público Do Trabalho",
+      "target_type": "company"
+    },
+    {
+      "source": "Tati Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nr1",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tati Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Riscos Psicossociais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tati Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Enterprise Sales",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tati Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Segurança Psicológica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luiz Reis",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hospital Sírio-Libanês",
+      "target_type": "company"
+    },
+    {
+      "source": "Redpoint",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Avitude",
+      "target_type": "company"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vitude",
+      "target_type": "company"
+    },
+    {
+      "source": "Tati Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Icp (Ideal Customer Profile)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Chapchap",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hospital Sírio-Libanês",
+      "target_type": "company"
+    },
+    {
+      "source": "Boticário",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Tati Pimenta",
+      "target_type": "person"
+    },
+    {
+      "source": "Grupo Boticário",
+      "source_type": "company",
+      "relation": "mentioned",
+      "target": "Avitude",
+      "target_type": "company"
+    },
+    {
+      "source": "Tati Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Primeiros Socorros Em Saúde Mental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tati Pimenta",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Avitude",
+      "target_type": "company"
+    },
+    {
+      "source": "Cubo",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Redpoint",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "episode_id": "34748488559",
+  "title": "Como Criei uma Marca Viral - Com Gabriel Ferreira, Founder e CEO da Bold Snacks | Extremos",
+  "date_published": 1692693049,
+  "duration": 6369,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Gabriel Ferreira",
+      "role": "guest",
+      "company": "Bold Snacks",
+      "title": "Founder e CEO"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "João Adib",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fred Gelli",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ana Couto",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Doutor Duran",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Twitter",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Bold Snacks",
+      "industry": "Alimentos e Bebidas",
+      "context": "Empresa fundada por Gabriel Ferreira, conhecida por seus produtos alimentícios inovadores."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa cofundada por Alfredo Soares e Bruno Nardon, focada em capacitação empresarial."
+    },
+    {
+      "name": "The News",
+      "industry": "Mídia e Informação",
+      "context": "Empresa fundada pelo irmão de Gabriel Ferreira."
+    },
+    {
+      "name": "Xtech",
+      "industry": "E-commerce",
+      "context": "Empresa mencionada por Alfredo Soares, relacionada ao desenvolvimento de lojas virtuais."
+    },
+    {
+      "name": "Vetex",
+      "industry": "E-commerce",
+      "context": "Empresa que adquiriu a Xtech."
+    },
+    {
+      "name": "Twitter",
+      "industry": "Social Media",
+      "context": "Mencionada em relação ao rebranding para 'X' por Elon Musk."
+    },
+    {
+      "name": "Gpa",
+      "industry": "Retail",
+      "context": "Mentioned as a major retailer that started purchasing Bold Snacks products."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marketing Viral",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Forbes Under 30",
+      "category": "Reconhecimento"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Ferramenta de Capacitação Empresarial"
+    },
+    {
+      "name": "Rebranding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Benchmarking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Crossfit",
+      "category": "Fitness"
+    },
+    {
+      "name": "Whey Protein",
+      "category": "Nutrition"
+    },
+    {
+      "name": "BCAA",
+      "category": "Nutrition"
+    },
+    {
+      "name": "Creatine",
+      "category": "Nutrition"
+    },
+    {
+      "name": "Marketing de Influenciadores",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Produção Interna",
+      "category": "Estratégia Operacional"
+    },
+    {
+      "name": "Crescimento Acelerado",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Outbound Sales",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Inbound Sales",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Corporate Life Cycles",
+      "category": "Business Framework"
+    },
+    {
+      "name": "Influencer Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Triathlon",
+      "category": "Sports"
+    },
+    {
+      "name": "Discipline",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Training Volume",
+      "category": "Fitness"
+    },
+    {
+      "name": "Health Maintenance",
+      "category": "Wellness"
+    }
+  ],
+  "books": [
+    {
+      "title": "Livro americano mencionado",
+      "author": "Não especificado"
+    },
+    {
+      "title": "Managing Corporate Life Cycles",
+      "author": "Ichak Adizes"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "25,000",
+      "context": "Número de colaboradores capacitados diariamente pelo G4 Skills."
+    },
+    {
+      "value": "150,000 BRL",
+      "context": "Capital inicial investido na Bold Snacks."
+    },
+    {
+      "value": "140,000 BRL",
+      "context": "Custo inicial estimado para branding na Bold Snacks."
+    },
+    {
+      "value": "1.700",
+      "context": "Número de influenciadores na base da Bold Snacks."
+    },
+    {
+      "value": "100 milhões",
+      "context": "Meta de faturamento em 5 anos para a Bold Snacks."
+    },
+    {
+      "value": "800 metros quadrados",
+      "context": "Tamanho inicial da unidade de produção da Bold Snacks."
+    },
+    {
+      "value": "7.000 metros quadrados",
+      "context": "Tamanho da nova unidade de produção da Bold Snacks."
+    },
+    {
+      "value": "10,000 points of sale",
+      "context": "Bold Snacks' distribution reach."
+    },
+    {
+      "value": "800 square meters",
+      "context": "Initial production facility size of Bold Snacks."
+    },
+    {
+      "value": "7,000 square meters",
+      "context": "New production facility size of Bold Snacks."
+    },
+    {
+      "value": "23,000 square meters",
+      "context": "Total land area for the new Bold Snacks facility."
+    },
+    {
+      "value": "95% inbound sales",
+      "context": "Percentage of Bold Snacks' store acquisition strategy."
+    },
+    {
+      "value": "5 months",
+      "context": "Preparation time for a triathlon event"
+    },
+    {
+      "value": "70.3",
+      "context": "Distance covered in a triathlon event"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Twitter",
+      "target_type": "company"
+    },
+    {
+      "source": "Bold Snacks",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Crescimento Acelerado",
+      "target_type": "concept"
+    },
+    {
+      "source": "Managing Corporate Life Cycles",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gabriel Ferreira",
+      "target_type": "person"
+    },
+    {
+      "source": "Bold Snacks",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Crossfit",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gabriel Ferreira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bold Snacks",
+      "target_type": "company"
+    },
+    {
+      "source": "Bold Snacks",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Marketing Viral",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bold Snacks",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gpa",
+      "target_type": "company"
+    },
+    {
+      "source": "Bold Snacks",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Marketing De Influenciadores",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xtech",
+      "target_type": "company"
+    },
+    {
+      "source": "Xtech",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Vetex",
+      "target_type": "company"
+    },
+    {
+      "source": "Bold Snacks",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Produção Interna",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gabriel Ferreira",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "The News",
+      "target_type": "company"
+    }
+  ]
+}

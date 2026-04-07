@@ -1,0 +1,179 @@
+{
+  "episode_id": "34748488661",
+  "title": "#017 - Cultura, carreira e Marketing 4.0 com Ricardo Dias, ex-VP de Marketing da Ambev",
+  "date_published": 1608741967,
+  "duration": 3089,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Ricardo Dias",
+      "role": "guest",
+      "company": "Ambev",
+      "title": "Ex-VP de Marketing"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "Ambev",
+      "industry": "Beverage",
+      "context": "Marketing strategies and consumer insights"
+    },
+    {
+      "name": "Singoo",
+      "industry": "Beauty services",
+      "context": "Marketing campaigns with influencers"
+    },
+    {
+      "name": "Dollar Shave Club",
+      "industry": "Consumer goods",
+      "context": "Marketing case study"
+    },
+    {
+      "name": "Cingu",
+      "industry": "Serviços",
+      "context": "Possível parceria mencionada para levar experiência de cerveja para dentro das casas"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "earned media",
+      "category": "Marketing"
+    },
+    {
+      "name": "framework",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Marketing 4.0",
+      "category": "Marketing"
+    },
+    {
+      "name": "influencer marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "KPIs",
+      "category": "Business metrics"
+    },
+    {
+      "name": "LGPD",
+      "category": "Regulamentação"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Habilidade Pessoal"
+    },
+    {
+      "name": "Curiosidade",
+      "category": "Habilidade Pessoal"
+    },
+    {
+      "name": "Live commerce",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Gamificação",
+      "category": "Estratégia de engajamento"
+    },
+    {
+      "name": "Reconhecimento facial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Vending Machine",
+      "category": "Modelo de distribuição"
+    },
+    {
+      "name": "Microfranquias",
+      "category": "Modelo de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "3.5 times better results",
+      "context": "Comparison between micro-influencers and major influencers in marketing campaigns"
+    },
+    {
+      "value": "$1 billion",
+      "context": "Acquisition of Dollar Shave Club by Unilever"
+    },
+    {
+      "value": "300,000 seguidores",
+      "context": "Engajamento nas redes sociais mencionado por Tallis Gomes"
+    },
+    {
+      "value": "100 dólares por ano",
+      "context": "Gasto médio no Fortnite para personalização de avatares"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo Dias",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Live Commerce",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Gamificação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ambev",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cingu",
+      "target_type": "company"
+    },
+    {
+      "source": "Singoo",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Influencer Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vending Machine",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Reconhecimento Facial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dollar Shave Club",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Marketing 4.0",
+      "target_type": "concept"
+    }
+  ]
+}

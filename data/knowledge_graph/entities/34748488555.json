@@ -1,0 +1,318 @@
+{
+  "episode_id": "34748488555",
+  "title": "Prevenindo o Câncer: Estratégias Práticas e Hábitos - Com Dr. Andrey Soares | Sem Atalhos",
+  "date_published": 1693386000,
+  "duration": 3636,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Dr. Andrei Soares",
+      "role": "guest",
+      "company": "Hospital Albert Einstein",
+      "title": "Oncologista Clínico"
+    },
+    {
+      "name": "Angelina Jolie",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dr. Silvio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dr. Andrey Soares",
+      "role": "guest",
+      "company": "",
+      "title": "Oncologista"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de treinamentos e desenvolvimento de times"
+    },
+    {
+      "name": "Hospital Albert Einstein",
+      "industry": "Saúde",
+      "context": "Local de atuação do Dr. Andrei Soares"
+    },
+    {
+      "name": "Ucla",
+      "industry": "Educação",
+      "context": "Universidade mencionada no contexto de formação médica nos Estados Unidos."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Treinamento"
+    },
+    {
+      "name": "BRCA",
+      "category": "Genética"
+    },
+    {
+      "name": "Síndromes Hereditárias",
+      "category": "Genética"
+    },
+    {
+      "name": "Estilo de Vida Saudável",
+      "category": "Saúde"
+    },
+    {
+      "name": "Tabagismo",
+      "category": "Saúde"
+    },
+    {
+      "name": "Etilismo",
+      "category": "Saúde"
+    },
+    {
+      "name": "Alimentação Saudável",
+      "category": "Saúde"
+    },
+    {
+      "name": "Testosterona",
+      "category": "Saúde"
+    },
+    {
+      "name": "Detecção Precoce de Câncer",
+      "category": "Saúde"
+    },
+    {
+      "name": "Prevenção de câncer",
+      "category": "Saúde"
+    },
+    {
+      "name": "Diagnóstico precoce",
+      "category": "Saúde"
+    },
+    {
+      "name": "Exame de próstata",
+      "category": "Saúde"
+    },
+    {
+      "name": "Mamografia",
+      "category": "Saúde"
+    },
+    {
+      "name": "Colonoscopia",
+      "category": "Saúde"
+    },
+    {
+      "name": "Educação médica",
+      "category": "Educação"
+    },
+    {
+      "name": "Sistema de saúde brasileiro",
+      "category": "Saúde"
+    },
+    {
+      "name": "sistema de saúde no Brasil",
+      "category": "sistema de saúde"
+    },
+    {
+      "name": "marcadores tumorais",
+      "category": "medicina"
+    },
+    {
+      "name": "PSA",
+      "category": "medicina"
+    },
+    {
+      "name": "rastreamento de câncer",
+      "category": "medicina"
+    },
+    {
+      "name": "curva de Gauss",
+      "category": "estatística"
+    },
+    {
+      "name": "exames de sangue",
+      "category": "medicina"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10%",
+      "context": "Proporção de tumores relacionados a síndromes hereditárias"
+    },
+    {
+      "value": "60%",
+      "context": "Proporção de casos de câncer atribuídos ao acaso"
+    },
+    {
+      "value": "30%",
+      "context": "Proporção de casos de câncer atribuídos a fatores modificáveis"
+    },
+    {
+      "value": "30 anos",
+      "context": "Idade mencionada de um diretor do G4 que realizou seu primeiro exame de sangue."
+    },
+    {
+      "value": "45 anos",
+      "context": "Idade recomendada para início de exames de mamografia e colonoscopia."
+    },
+    {
+      "value": "50 anos",
+      "context": "Idade recomendada para início de exames de próstata na população geral."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Brca",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Síndromes Hereditárias",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Andrey Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Diagnóstico Precoce",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Andrey Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Exame De Próstata",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Andrey Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sistema De Saúde Brasileiro",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Andrey Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Colonoscopia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Angelina Jolie",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Brca",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Andrey Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Educação Médica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Andrey Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Prevenção De Câncer",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dr. Andrey Soares",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Andrei Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hospital Albert Einstein",
+      "target_type": "company"
+    },
+    {
+      "source": "Dr. Andrey Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mamografia",
+      "target_type": "concept"
+    }
+  ]
+}

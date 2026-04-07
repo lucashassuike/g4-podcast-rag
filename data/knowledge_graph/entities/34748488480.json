@@ -1,0 +1,181 @@
+{
+  "episode_id": "34748488480",
+  "title": "COMO CONSTRUIR UMA MARCA PESSOAL FORTE? - COM ANA MOISÉS | G4 PODCASTS",
+  "date_published": 1704445200,
+  "duration": 3599,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Ana Moisés",
+      "role": "guest",
+      "company": "LinkedIn",
+      "title": "Executiva"
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Fundador"
+    },
+    {
+      "name": "Barack Obama",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-presidente dos EUA"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Abílio Diniz",
+      "role": "mentioned",
+      "company": "Empresa X",
+      "title": "Executivo fictício"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa cofundada por Tallis Gomes, mencionada no contexto de mentoria e desenvolvimento de habilidades."
+    },
+    {
+      "name": "Linkedin",
+      "industry": "Tecnologia e Redes Sociais",
+      "context": "Plataforma discutida no contexto de desenvolvimento profissional e programas como Top Voices."
+    },
+    {
+      "name": "Lynda",
+      "industry": "Educação",
+      "context": "Adquirida pelo LinkedIn para oferecer cursos e desenvolvimento de habilidades."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia",
+      "context": "Mencionada em relação ao impacto de Bill Gates como líder inspirador."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marca pessoal",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Top Voices",
+      "category": "Programa de Reconhecimento"
+    },
+    {
+      "name": "Consistência",
+      "category": "Habilidade Pessoal"
+    },
+    {
+      "name": "Autenticidade",
+      "category": "Habilidade Pessoal"
+    },
+    {
+      "name": "Liderança inspiradora",
+      "category": "Gestão e liderança"
+    },
+    {
+      "name": "Employer branding",
+      "category": "Gestão de talentos"
+    },
+    {
+      "name": "Engajamento em redes sociais",
+      "category": "Marketing digital"
+    },
+    {
+      "name": "LinkedIn Top Voice",
+      "category": "Plataforma de redes sociais"
+    },
+    {
+      "name": "Geração Z",
+      "category": "Demografia"
+    },
+    {
+      "name": "Conexões no LinkedIn",
+      "category": "Plataforma de redes sociais"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "70%",
+      "context": "Dias em que a pessoa não acorda motivada, mencionado como um desafio para manter a consistência."
+    },
+    {
+      "value": "6 a 7 vezes maior engajamento",
+      "context": "Comparação entre posts de executivos e posts de marcas no LinkedIn."
+    },
+    {
+      "value": "30 mil conexões",
+      "context": "Limite de conexões no LinkedIn mencionado por um Top Voice"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ana Moisés",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Linkedin",
+      "target_type": "company"
+    },
+    {
+      "source": "Linkedin",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Lynda",
+      "target_type": "company"
+    },
+    {
+      "source": "Bill Gates",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

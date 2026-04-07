@@ -1,0 +1,518 @@
+{
+  "episode_id": "49452748088",
+  "title": "MERCADO LIVRE, ECOMMERCE E BILHÕES EM FATURAMENTO COM THIAGO FRANCO | EXTREMOS",
+  "date_published": 1770051276,
+  "duration": 2989,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Thiago Franco",
+      "role": "guest",
+      "company": "Mercado Livre",
+      "title": "Embaixador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "João Vitor",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "João Vinícius",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alex",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bia",
+      "role": "mentioned",
+      "company": "Boxfun",
+      "title": "Diretora de Operações"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Discussão sobre vendas e consultoria em marketplaces"
+    },
+    {
+      "name": "Milken Institute",
+      "industry": "Think Tank",
+      "context": "Mencionado em relação a eventos de negócios"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Plataforma de educação e podcast"
+    },
+    {
+      "name": "Fluminense Pass",
+      "industry": "Esportes",
+      "context": "Mencionado como patrocinador"
+    },
+    {
+      "name": "Boxfun",
+      "industry": "E-commerce e Indústria",
+      "context": "Empresa de produtos fundada por Thiago Franco."
+    },
+    {
+      "name": "E-Com",
+      "industry": "Educação",
+      "context": "Escola de educação fundada por Thiago Franco."
+    },
+    {
+      "name": "Integracom",
+      "industry": "Educação",
+      "context": "Outra empresa mencionada por Thiago Franco."
+    },
+    {
+      "name": "Icon",
+      "industry": "Education",
+      "context": "School focused on e-commerce education"
+    },
+    {
+      "name": "Shopee",
+      "industry": "E-commerce",
+      "context": "Marketplace platform"
+    },
+    {
+      "name": "Magalu",
+      "industry": "Retail",
+      "context": "Marketplace platform"
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce",
+      "context": "Marketplace platform"
+    },
+    {
+      "name": "Supley",
+      "industry": "Nutrition",
+      "context": "Client of Icon"
+    },
+    {
+      "name": "Weg",
+      "industry": "Industrial Automation",
+      "context": "Client of Icon"
+    },
+    {
+      "name": "Polishop",
+      "industry": "Retail",
+      "context": "Client of Icon"
+    },
+    {
+      "name": "Fox Racing",
+      "industry": "Sportswear",
+      "context": "Client of Icon"
+    },
+    {
+      "name": "Icon Escola",
+      "industry": "Education",
+      "context": "Thiago Franco is associated with Icon Escola."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marketplace",
+      "category": "E-commerce"
+    },
+    {
+      "name": "Consultoria de negócios",
+      "category": "Serviços empresariais"
+    },
+    {
+      "name": "Recomeço empresarial",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Gestão de mix de produtos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Gestão empresarial",
+      "category": "Business"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Educação"
+    },
+    {
+      "name": "Crescimento empresarial",
+      "category": "Business"
+    },
+    {
+      "name": "Divisão de papéis: dono, gestor, empreendedor",
+      "category": "Business Framework"
+    },
+    {
+      "name": "Marketplace Efficiency",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Traffic Paid Ads",
+      "category": "Marketing"
+    },
+    {
+      "name": "Portfolio Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Profundidade de estoque",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Datas iguais",
+      "category": "Estratégia de promoção"
+    },
+    {
+      "name": "ROI (Retorno sobre Investimento)",
+      "category": "Métrica financeira"
+    },
+    {
+      "name": "Black Friday",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Tráfego pago",
+      "category": "Marketing digital"
+    },
+    {
+      "name": "sales negotiation",
+      "category": "business strategy"
+    },
+    {
+      "name": "credit terms",
+      "category": "finance"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Bilhões em vendas",
+      "context": "Vendas geradas através do Mercado Livre e outros marketplaces"
+    },
+    {
+      "value": "Mais de um milhão de reais",
+      "context": "Dívidas acumuladas após falência"
+    },
+    {
+      "value": "15 anos",
+      "context": "Tempo de experiência de Thiago Franco em vendas"
+    },
+    {
+      "value": "2017",
+      "context": "Ano em que Thiago Franco começou a vender no Mercado Livre"
+    },
+    {
+      "value": "800 mil reais por mês",
+      "context": "Volume de vendas alcançado por Thiago Franco no Mercado Livre antes de se tornar fabricante."
+    },
+    {
+      "value": "20 milhões de reais por ano",
+      "context": "Faturamento anual da escola E-com."
+    },
+    {
+      "value": "15 milhões de reais por ano",
+      "context": "Faturamento anual da empresa Boxfun."
+    },
+    {
+      "value": "100 pessoas",
+      "context": "Número total de funcionários somando as empresas de Thiago Franco."
+    },
+    {
+      "value": "20 million",
+      "context": "Annual revenue of Icon"
+    },
+    {
+      "value": "15 million",
+      "context": "Annual revenue of Boxfun"
+    },
+    {
+      "value": "6 million",
+      "context": "Annual revenue of IntegraCom"
+    },
+    {
+      "value": "41 million",
+      "context": "Combined annual revenue of Icon, Boxfun, and IntegraCom"
+    },
+    {
+      "value": "130",
+      "context": "Total number of employees across Icon, Boxfun, and IntegraCom"
+    },
+    {
+      "value": "4 million",
+      "context": "Revenue of e-commerce operations when Thiago Franco joined G4 Educação"
+    },
+    {
+      "value": "6",
+      "context": "Number of employees in e-commerce operations when Thiago Franco joined G4 Educação"
+    },
+    {
+      "value": "44%",
+      "context": "Crescimento médio documentado dos clientes da Icon."
+    },
+    {
+      "value": "1.5 milhões para 4.5 milhões",
+      "context": "Crescimento de faturamento em três meses para um cliente da Icon."
+    },
+    {
+      "value": "150 mil por mês",
+      "context": "Faturamento alcançado por um cliente da Icon em três meses."
+    },
+    {
+      "value": "2,000 luminárias",
+      "context": "Number of luminárias sold to the turco."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Shopee",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Alfredo Soares",
+      "target_type": "person"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Magalu",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Mix De Produtos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Boxfun",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Fox Racing",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sales Negotiation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "E-Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Boxfun",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Polishop",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Supley",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "E-Com",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Icon",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Weg",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Shopee",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Marketplace",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Recomeço Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Icon Escola",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Boxfun",
+      "target_type": "company"
+    },
+    {
+      "source": "Bia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Boxfun",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Integracom",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Thiago Franco",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "João Vinícius",
+      "target_type": "person"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "João Vitor",
+      "target_type": "person"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Icon",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Marketplace",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Thiago Franco",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Credit Terms",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

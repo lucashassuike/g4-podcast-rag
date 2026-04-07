@@ -1,0 +1,203 @@
+{
+  "episode_id": "43789357905",
+  "title": "COMO A IMPRESSÃO 3D ESTÁ REVOLUCIONANDO A CONSTRUÇÃO CIVIL COM SANTO CONCRETO | PAPO DE GESTÃO",
+  "date_published": 1760367600,
+  "duration": 3980,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Matheus De Nadai",
+      "role": "guest",
+      "company": "Santo Concreto",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Guilherme Malveze",
+      "role": "guest",
+      "company": "Santo Concreto",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Otto",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Student"
+    },
+    {
+      "name": "Alexandre Farcu",
+      "role": "mentioned",
+      "company": "Family Office",
+      "title": "Manager"
+    },
+    {
+      "name": "Matheus",
+      "role": "mentioned",
+      "company": "Santo Concreto",
+      "title": "Engenheiro"
+    },
+    {
+      "name": "Gui",
+      "role": "guest",
+      "company": "Santo Concreto",
+      "title": "Co-fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Santo Concreto",
+      "industry": "Construction",
+      "context": "Company focused on revolutionizing construction management with technology and transparency."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Organizer of the G4 Valley event and provider of entrepreneurial education."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "construction management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "real estate",
+      "category": "Industry"
+    },
+    {
+      "name": "networking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Family Office",
+      "category": "Finance"
+    },
+    {
+      "name": "Gestão de Pessoas e Processos",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Complementariedade de Sócios",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Inovação Tecnológica na Construção Civil",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Alinhamento de Expectativas",
+      "category": "Gestão de Projetos"
+    },
+    {
+      "name": "planejamento anual",
+      "category": "estratégia"
+    },
+    {
+      "name": "homologação de parceiros",
+      "category": "gestão"
+    },
+    {
+      "name": "sustentabilidade em obras",
+      "category": "práticas sustentáveis"
+    },
+    {
+      "name": "tecnologia no canteiro de obras",
+      "category": "inovação"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10,000",
+      "context": "Number of entrepreneurs attending the G4 Valley event."
+    },
+    {
+      "value": "3 days",
+      "context": "Duration of the G4 Valley event."
+    },
+    {
+      "value": "4 months",
+      "context": "Duration of a significant construction project by Santo Concreto."
+    },
+    {
+      "value": "2017",
+      "context": "Ano de início da sociedade entre os fundadores da Santo Concreto."
+    },
+    {
+      "value": "2012",
+      "context": "Ano em que os fundadores da Santo Concreto se conheceram na faculdade."
+    },
+    {
+      "value": "5.500 metros de terreno",
+      "context": "dimensão de uma obra em BH"
+    },
+    {
+      "value": "1.400 metros de área construída",
+      "context": "dimensão de uma obra em BH"
+    },
+    {
+      "value": "70 pessoas",
+      "context": "média de efetivo em uma obra em BH"
+    },
+    {
+      "value": "dois anos",
+      "context": "tempo para entrega de uma obra em BH"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Farcu",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Family Office",
+      "target_type": "concept"
+    },
+    {
+      "source": "Otto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gui",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Santo Concreto",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Malveze",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Santo Concreto",
+      "target_type": "company"
+    },
+    {
+      "source": "Matheus De Nadai",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Santo Concreto",
+      "target_type": "company"
+    },
+    {
+      "source": "Matheus",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Santo Concreto",
+      "target_type": "company"
+    }
+  ]
+}

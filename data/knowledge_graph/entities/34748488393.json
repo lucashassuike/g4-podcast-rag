@@ -1,0 +1,122 @@
+{
+  "episode_id": "34748488393",
+  "title": "O QUE TEM QUE SER FEITO PARA VENDER MAIS E ENTREGAR A META DE 2024 | G4 PODCASTS",
+  "date_published": 1726858200,
+  "duration": 1266,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Gustavo Pagotto",
+      "role": "guest",
+      "company": "Pipe Lovers",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Mentioned as the organizer of the podcast and related to sales training and management."
+    },
+    {
+      "name": "Pipe Lovers",
+      "industry": "Sales Training",
+      "context": "Founded by Gustavo Pagotto and discussed as a solution for sales team training."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Sales Team Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Pipeline Review",
+      "category": "Sales Process"
+    },
+    {
+      "name": "One-on-One Meetings",
+      "category": "Management Practice"
+    },
+    {
+      "name": "CRM",
+      "category": "Technology"
+    },
+    {
+      "name": "Forecast Meetings",
+      "category": "Sales Process"
+    },
+    {
+      "name": "Sales Training",
+      "category": "Skill Development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "15 hours per week",
+      "context": "Time recommended for a sales manager to conduct one-on-one and pipeline review meetings."
+    },
+    {
+      "value": "2 hours per week",
+      "context": "Minimum recommended time for sales team training."
+    },
+    {
+      "value": "1 to 1.5 years",
+      "context": "Average tenure of a salesperson in a company."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Pipe Lovers",
+      "target_type": "company"
+    },
+    {
+      "source": "Pipe Lovers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sales Training",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Traction",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sales Team Management",
+      "target_type": "concept"
+    }
+  ]
+}

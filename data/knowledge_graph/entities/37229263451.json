@@ -1,0 +1,289 @@
+{
+  "episode_id": "37229263451",
+  "title": "GOVERNANÇA NA PRÁTICA: O PAPEL DO CONSELHEIRO COM JULIO DE ANGELI | PAPO DE GESTÃO",
+  "date_published": 1747040400,
+  "duration": 3506,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-Founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-Founder"
+    },
+    {
+      "name": "Júlio De Angeli",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Former Advisor"
+    },
+    {
+      "name": "Zeca",
+      "role": "mentioned",
+      "company": "Grupo de Educação na Área de Saúde",
+      "title": "Successor"
+    },
+    {
+      "name": "Julio De Angeli",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Zé Luiz",
+      "role": "mentioned",
+      "company": "Faculdade São Leopoldo Mandir",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Platform for business education and mentorship"
+    },
+    {
+      "name": "Ferrolab",
+      "industry": "Technology",
+      "context": "Júlio de Angeli was a partner"
+    },
+    {
+      "name": "English Live",
+      "industry": "Education",
+      "context": "Júlio de Angeli led operations in Latin America and Europe"
+    },
+    {
+      "name": "Wiseapp",
+      "industry": "Technology",
+      "context": "Júlio de Angeli served as president"
+    },
+    {
+      "name": "Áfia",
+      "industry": "Healthcare Education",
+      "context": "Júlio de Angeli contributed to the company's IPO on Nasdaq"
+    },
+    {
+      "name": "Grupo De Educação Na Área De Saúde",
+      "industry": "Healthcare Education",
+      "context": "Family-owned business with focus on health education"
+    },
+    {
+      "name": "Hortifruti Natural Da Terra",
+      "industry": "Varejo",
+      "context": "Empresa onde Julio de Angeli atuou como conselheiro."
+    },
+    {
+      "name": "Grupo Mateus",
+      "industry": "Varejo",
+      "context": "Empresa onde Julio de Angeli atuou como conselheiro."
+    },
+    {
+      "name": "C&A",
+      "industry": "Varejo",
+      "context": "Empresa onde Julio de Angeli realizou trabalhos consultivos."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Governança Corporativa",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Conselho Consultivo",
+      "category": "Business Structure"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Estratégia Empresarial",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Sucessão Familiar",
+      "category": "Business Management"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Estratégia e Gestão"
+    },
+    {
+      "name": "Turnover",
+      "category": "Métrica de Recursos Humanos"
+    },
+    {
+      "name": "Matriz da Maquins",
+      "category": "Ferramenta de Gestão"
+    },
+    {
+      "name": "Rituais de Gestão",
+      "category": "Estratégia e Gestão"
+    },
+    {
+      "name": "Lealdade organizacional",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Missão empresarial",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Escutativa",
+      "category": "Habilidade interpessoal"
+    },
+    {
+      "name": "Reposicionamento de carreira",
+      "category": "Gestão de carreira"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10,000",
+      "context": "Number of dentistry specialization students per year at Grupo de Educação na Área de Saúde"
+    },
+    {
+      "value": "4",
+      "context": "Number of medical colleges operated by Grupo de Educação na Área de Saúde"
+    },
+    {
+      "value": "30% ao ano",
+      "context": "Taxa de turnover mencionada na empresa discutida"
+    },
+    {
+      "value": "2.200 funcionários",
+      "context": "Tamanho da equipe mencionada na empresa discutida"
+    },
+    {
+      "value": "30 anos",
+      "context": "Tempo de experiência de Julio de Angeli na área de educação."
+    },
+    {
+      "value": "18 meses",
+      "context": "Tempo médio para reposicionamento de executivos no mercado."
+    },
+    {
+      "value": "Mil leitos",
+      "context": "Capacidade hospitalar mencionada por Zé Luiz."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governança Corporativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "English Live",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Planejamento Estratégico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Wiseapp",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo Mateus",
+      "target_type": "company"
+    },
+    {
+      "source": "Zeca",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Grupo De Educação Na Área De Saúde",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hortifruti Natural Da Terra",
+      "target_type": "company"
+    },
+    {
+      "source": "Julio De Angeli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "C&A",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Áfia",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio De Angeli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Ferrolab",
+      "target_type": "company"
+    },
+    {
+      "source": "Zé Luiz",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Faculdade São Leopoldo Mandir",
+      "target_type": "company"
+    }
+  ]
+}

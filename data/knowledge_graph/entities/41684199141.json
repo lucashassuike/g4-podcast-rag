@@ -1,0 +1,114 @@
+{
+  "episode_id": "41684199141",
+  "title": "[CORTE] NÃO É SÓ ESTILO: A ROUPA QUE VOCÊ USA FALA POR VOCÊ",
+  "date_published": 1756069200,
+  "duration": 575,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Lívia",
+      "role": "mentioned",
+      "company": "Adib",
+      "title": ""
+    },
+    {
+      "name": "Balbi",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Adib",
+      "industry": "Moda",
+      "context": "Mencionada como empresa relacionada ao trabalho de Lívia."
+    },
+    {
+      "name": "Máximo Dutty",
+      "industry": "Moda",
+      "context": "Mencionada como loja onde roupas foram compradas."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Dress Code",
+      "category": "Estilo e Moda"
+    },
+    {
+      "name": "Imagem Pessoal",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Consumo Consciente",
+      "category": "Sustentabilidade"
+    },
+    {
+      "name": "Rotatividade de Estoque",
+      "category": "Gestão de Estoque"
+    }
+  ],
+  "books": [],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Lívia",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Adib",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

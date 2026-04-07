@@ -1,0 +1,553 @@
+{
+  "episode_id": "34748488361",
+  "title": "COMO IMPULSIONAR AS VENDAS DA SUA EMPRESA EM 2025 | G4 PODCASTS",
+  "date_published": 1734084000,
+  "duration": 2985,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Jonathan (John)",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Diretor de Vendas"
+    },
+    {
+      "name": "Gustavo Pagoto",
+      "role": "guest",
+      "company": "Pipe Lovers",
+      "title": "Fundador"
+    },
+    {
+      "name": "Elia Azevedo",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Aaron Ross",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor"
+    },
+    {
+      "name": "Gustavo",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jonathan",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Clube",
+      "title": ""
+    },
+    {
+      "name": "Iago Martins",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Gu Pagotto",
+      "role": "guest",
+      "company": "Pipe Lovers",
+      "title": "Sales Expert"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa central do podcast e das atividades mencionadas"
+    },
+    {
+      "name": "Pipe Lovers",
+      "industry": "Comunidade de Vendas B2B",
+      "context": "Fundada por Gustavo Pagoto"
+    },
+    {
+      "name": "Tots",
+      "industry": "Tecnologia",
+      "context": "Empresa onde Gustavo Pagoto trabalhou"
+    },
+    {
+      "name": "Linkedin",
+      "industry": "Tecnologia e Redes Sociais",
+      "context": "Empresa onde Gustavo Pagoto trabalhou"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia",
+      "context": "Comprou o LinkedIn"
+    },
+    {
+      "name": "Acreditas",
+      "industry": "Fintech",
+      "context": "Empresa onde Gustavo Pagoto liderou equipes de vendas"
+    },
+    {
+      "name": "Zoho Crm",
+      "industry": "Tecnologia e Software",
+      "context": "Ferramenta mencionada no contexto de gestão de relacionamento com clientes."
+    },
+    {
+      "name": "Meta",
+      "industry": "Tecnologia e Publicidade",
+      "context": "Mencionada no contexto de dependência de canais de mídia paga."
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia e Publicidade",
+      "context": "Mencionada no contexto de dependência de canais de mídia paga."
+    },
+    {
+      "name": "China Link",
+      "industry": "Comércio Exterior",
+      "context": "Empresa mencionada como cliente e exemplo de vendas técnicas."
+    },
+    {
+      "name": "Câmara Brasil-Alemanha",
+      "industry": "Comércio e Relações Internacionais",
+      "context": "Local onde um dos hosts iniciou sua carreira em vendas."
+    },
+    {
+      "name": "G4 Sales",
+      "industry": "Educação e Consultoria",
+      "context": "Mencionado como parte do G4 Educação focado em vendas."
+    },
+    {
+      "name": "G4 Capital",
+      "industry": "Investimentos",
+      "context": "Mencionado em relação a investimentos e mentorias."
+    },
+    {
+      "name": "Predi",
+      "industry": "Tecnologia",
+      "context": "Plataforma de análise de dados com inteligência artificial."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão de Vendas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Planejamento de Vendas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Top-down Planning",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Bottom-up Planning",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Receita Previsível",
+      "category": "Framework de Negócios"
+    },
+    {
+      "name": "SDR (Sales Development Representative)",
+      "category": "Função de Vendas"
+    },
+    {
+      "name": "BDR (Business Development Representative)",
+      "category": "Função de Vendas"
+    },
+    {
+      "name": "CRM (Customer Relationship Management)",
+      "category": "Tecnologia de Negócios"
+    },
+    {
+      "name": "Product-Market Fit",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Mídia Paga",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Prospecção Ativa",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "Funil de Vendas",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Habilidade de Liderança"
+    },
+    {
+      "name": "Métricas de Execução",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Taxa de conversão",
+      "category": "Métrica de Vendas"
+    },
+    {
+      "name": "Ticket médio",
+      "category": "Métrica de Vendas"
+    },
+    {
+      "name": "Ciclo de vendas",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "Onboarding",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Playbook",
+      "category": "Gestão de Vendas"
+    },
+    {
+      "name": "Lifetime Value (LTV)",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Margem de contribuição",
+      "category": "Métrica Financeira"
+    },
+    {
+      "name": "Política de desligamento por baixa performance",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Plano de recuperação de resultado",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Execução",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Automação",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "CRM",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Win-Loss Analysis",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Crescimento Linear",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Receita Recorrente",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Sales Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Mentorship",
+      "category": "Business Development"
+    },
+    {
+      "name": "Scalability",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Customer Feedback",
+      "category": "Customer Relationship Management"
+    }
+  ],
+  "books": [
+    {
+      "title": "Receita Previsível",
+      "author": "Aaron Ross"
+    },
+    {
+      "title": "Homo Sapiens",
+      "author": "Yuval Noah Harari"
+    },
+    {
+      "title": "Arquitetura de Vendas de Alta Performance",
+      "author": "Gu Pagotto"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "15% ao mês",
+      "context": "Crescimento da Pipe Lovers"
+    },
+    {
+      "value": "200 pessoas",
+      "context": "Tamanho da equipe liderada por Gustavo Pagoto na Acreditas"
+    },
+    {
+      "value": "2 milhões por mês",
+      "context": "Faturamento inicial da equipe liderada por Gustavo Pagoto na Acreditas"
+    },
+    {
+      "value": "24 milhões por mês",
+      "context": "Faturamento após dois anos da equipe liderada por Gustavo Pagoto na Acreditas"
+    },
+    {
+      "value": "Quatro variáveis (volume, taxa de conversão, ticket médio, portfólio de produtos)",
+      "context": "Fatores para aumentar vendas."
+    },
+    {
+      "value": "Capacidade de execução de seis reuniões por dia",
+      "context": "Capacidade média de um vendedor."
+    },
+    {
+      "value": "400 mil reais",
+      "context": "Meta mensal de vendas para um vendedor."
+    },
+    {
+      "value": "20 mil reais",
+      "context": "Ticket médio de vendas."
+    },
+    {
+      "value": "75%",
+      "context": "Margem de contribuição da Pipe Lovers."
+    },
+    {
+      "value": "10 mil reais",
+      "context": "Custo mensal médio de um vendedor na Pipe Lovers."
+    },
+    {
+      "value": "8 mil reais",
+      "context": "Nova receita recorrente média gerada por um vendedor na Pipe Lovers."
+    },
+    {
+      "value": "15% ao mês durante 20 meses",
+      "context": "Crescimento linear mencionado como exemplo."
+    },
+    {
+      "value": "300%",
+      "context": "Crescimento da receita recorrente do G4 Educação em um ano."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gustavo Pagoto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Linkedin",
+      "target_type": "company"
+    },
+    {
+      "source": "Gu Pagotto",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Arquitetura De Vendas De Alta Performance",
+      "target_type": "company"
+    },
+    {
+      "source": "Pipe Lovers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Predi",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sales Management",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gu Pagotto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Pipe Lovers",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagoto",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Elia Azevedo",
+      "target_type": "person"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Receita Previsível",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Pagoto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Tots",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Receita Previsível",
+      "target_type": "concept"
+    },
+    {
+      "source": "China Link",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Comércio Exterior",
+      "target_type": "company"
+    },
+    {
+      "source": "Iago Martins",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "G4 Sales",
+      "target_type": "company"
+    },
+    {
+      "source": "Pipe Lovers",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Treinamento E Desenvolvimento",
+      "target_type": "company"
+    },
+    {
+      "source": "Iago Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagoto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Pipe Lovers",
+      "target_type": "company"
+    },
+    {
+      "source": "Pipe Lovers",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Sales Management",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Linkedin",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagoto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Acreditas",
+      "target_type": "company"
+    },
+    {
+      "source": "Câmara Brasil-Alemanha",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Comércio E Relações Internacionais",
+      "target_type": "company"
+    },
+    {
+      "source": "Jonathan (John)",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagoto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Pipe Lovers",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

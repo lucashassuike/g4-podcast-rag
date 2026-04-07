@@ -1,0 +1,262 @@
+{
+  "episode_id": "34748488642",
+  "title": "#037 - Como começar uma startup sem programador?",
+  "date_published": 1637742616,
+  "duration": 1425,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Márcio",
+      "role": "mentioned",
+      "company": "Easy Taxi",
+      "title": "Ex-head of Mobile"
+    },
+    {
+      "name": "Fernando Sadiq",
+      "role": "mentioned",
+      "company": "Easy Carros",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Taxi booking service"
+    },
+    {
+      "name": "Cingu",
+      "industry": "Beauty and Wellness",
+      "context": "On-demand beauty and wellness services"
+    },
+    {
+      "name": "Easy Carros",
+      "industry": "Automotive Services",
+      "context": "Mobile car maintenance and cleaning services"
+    },
+    {
+      "name": "Egenius",
+      "industry": "Venture Building",
+      "context": "Venture builder for startups"
+    },
+    {
+      "name": "Bicambio",
+      "industry": "Finance",
+      "context": "Currency exchange services"
+    },
+    {
+      "name": "Singul",
+      "industry": "Beleza e bem-estar",
+      "context": "Startup mencionada como exemplo de marketplace de serviços comoditizáveis."
+    },
+    {
+      "name": "99",
+      "industry": "Mobilidade urbana",
+      "context": "Competidora mencionada que influenciou mudanças no modelo de monetização da Easy Taxi."
+    },
+    {
+      "name": "Uber",
+      "industry": "Mobilidade urbana",
+      "context": "Exemplo de startup que opera com grandes perdas anuais."
+    },
+    {
+      "name": "Singur",
+      "industry": "Serviços de beleza",
+      "context": "Plataforma mencionada como maior do segmento na América Latina."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "MVP (Minimum Viable Product)",
+      "category": "Startup Framework"
+    },
+    {
+      "name": "Networking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "InVision",
+      "category": "Prototyping Tool"
+    },
+    {
+      "name": "UX (User Experience)",
+      "category": "Design Principle"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Business Model"
+    },
+    {
+      "name": "Equity",
+      "category": "Estratégia de compensação"
+    },
+    {
+      "name": "Vesting",
+      "category": "Estratégia de compensação"
+    },
+    {
+      "name": "Cliff",
+      "category": "Estratégia de compensação"
+    },
+    {
+      "name": "Diretrizes estratégicas",
+      "category": "Planejamento estratégico"
+    },
+    {
+      "name": "PPU (Pay Per Use)",
+      "category": "Modelo de monetização"
+    },
+    {
+      "name": "FII (Fee-based model)",
+      "category": "Modelo de monetização"
+    },
+    {
+      "name": "Avenidas de crescimento",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Execução consistente",
+      "category": "Gestão"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "4%",
+      "context": "Percentage of Brazilian population with smartphones in 2011"
+    },
+    {
+      "value": "35 countries",
+      "context": "Operational reach of Easy Taxi"
+    },
+    {
+      "value": "1 billion valuation",
+      "context": "Valuation of Easy Taxi"
+    },
+    {
+      "value": "3 bilhões de dólares por ano",
+      "context": "Perda anual do Uber mencionada como exemplo de desafios financeiros em startups."
+    },
+    {
+      "value": "R$2 por corrida",
+      "context": "Modelo de monetização inicial da Easy Taxi."
+    },
+    {
+      "value": "R$10 a R$12 mil",
+      "context": "Custo de um kit básico de maquiagem mencionado como desafio operacional."
+    },
+    {
+      "value": "30%",
+      "context": "Porcentagem da receita representada pelo serviço de maquiagem na Singur."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cingu",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singul",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Sadiq",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Carros",
+      "target_type": "company"
+    },
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "99",
+      "target_type": "company"
+    },
+    {
+      "source": "Márcio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Egenius",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Easy Carros",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singur",
+      "target_type": "company"
+    },
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Mobilidade Urbana",
+      "target_type": "company"
+    },
+    {
+      "source": "Egenius",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Bicambio",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Egenius",
+      "target_type": "company"
+    }
+  ]
+}

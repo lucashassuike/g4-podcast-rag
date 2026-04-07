@@ -1,0 +1,508 @@
+{
+  "episode_id": "34748488511",
+  "title": "Case Webmotors: Como Inovar em Mercados Tradicionais - Com Sylvio de Barros | Extremos",
+  "date_published": 1699432200,
+  "duration": 4864,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Sylvio De Barros",
+      "role": "guest",
+      "company": "WebMotors",
+      "title": "Fundador"
+    },
+    {
+      "name": "Carlinhos Campante",
+      "role": "mentioned",
+      "company": "Team Systems",
+      "title": "Filho do dono"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Maurício Simões",
+      "role": "mentioned",
+      "company": "carros.com.br",
+      "title": "Founder"
+    },
+    {
+      "name": "Luísa Posse",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Carla Sabá",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Caetano",
+      "role": "mentioned",
+      "company": "e-carros",
+      "title": "System Specialist"
+    },
+    {
+      "name": "Fernando Ortenblar",
+      "role": "mentioned",
+      "company": "Z-Flow",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Daniel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Former Partner"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Rivian",
+      "title": "Investor"
+    },
+    {
+      "name": "Júlio Capa",
+      "role": "mentioned",
+      "company": "Sertões",
+      "title": "Partner"
+    },
+    {
+      "name": "Marcos Moraes",
+      "role": "mentioned",
+      "company": "Sertões",
+      "title": "Former Manager"
+    },
+    {
+      "name": "Joaquim",
+      "role": "mentioned",
+      "company": "Sertões",
+      "title": "Manager"
+    },
+    {
+      "name": "Nilson",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Daidinho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bryce Menzies",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Desenvolvimento Empresarial",
+      "context": "Plataforma de desenvolvimento de habilidades e mentoria empresarial"
+    },
+    {
+      "name": "Webmotors",
+      "industry": "Automotivo e Tecnologia",
+      "context": "Plataforma digital para compra e venda de veículos"
+    },
+    {
+      "name": "Minha Vida",
+      "industry": "Saúde e Tecnologia",
+      "context": "Plataforma digital de saúde e bem-estar"
+    },
+    {
+      "name": "Zimet",
+      "industry": "Automotivo e Tecnologia",
+      "context": "Serviço de assinatura de carros elétricos"
+    },
+    {
+      "name": "Team Systems",
+      "industry": "Tecnologia",
+      "context": "Empresa de desenvolvimento de software"
+    },
+    {
+      "name": "Santander",
+      "industry": "Financeiro",
+      "context": "Banco que adquiriu a WebMotors"
+    },
+    {
+      "name": "Jp Morgan",
+      "industry": "Financeiro",
+      "context": "Investidor inicial da WebMotors"
+    },
+    {
+      "name": "Chase Capital Partners",
+      "industry": "Financeiro",
+      "context": "Investidor inicial da WebMotors"
+    },
+    {
+      "name": "Local Web",
+      "industry": "Tecnologia",
+      "context": "Empresa de serviços digitais mencionada como exemplo de M&A"
+    },
+    {
+      "name": "Itaú",
+      "industry": "Banking",
+      "context": "Developed e-Carros and competed with WebMotors in the automotive classifieds market."
+    },
+    {
+      "name": "Localweb",
+      "industry": "Technology Services",
+      "context": "Sylvio de Barros participated in its board."
+    },
+    {
+      "name": "Carros.Com.Br",
+      "industry": "Automotive Classifieds",
+      "context": "Founded by Maurício Simões and later acquired by Sylvio de Barros."
+    },
+    {
+      "name": "E-Carros",
+      "industry": "Automotive Classifieds",
+      "context": "Developed in partnership with Itaú and discussed as a competitor to WebMotors."
+    },
+    {
+      "name": "Z-Flow",
+      "industry": "Technology",
+      "context": "Developed financing systems for Itaú"
+    },
+    {
+      "name": "Rivian",
+      "industry": "Automotive",
+      "context": "Electric vehicle manufacturer"
+    },
+    {
+      "name": "Sertões",
+      "industry": "Sports and Events",
+      "context": "Off-road rally event organizer"
+    },
+    {
+      "name": "Bmw",
+      "industry": "Automotive",
+      "context": "Equipe de corrida de fábrica mencionada no contexto do Dakar."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "CVC (Corporate Venture Capital)",
+      "category": "Investimento e Inovação"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Estratégia Corporativa"
+    },
+    {
+      "name": "SEO (Search Engine Optimization)",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Startup",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Carro elétrico por assinatura",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Matriz energética limpa",
+      "category": "Sustentabilidade"
+    },
+    {
+      "name": "Corporate Venture Capital (CVC)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Mergers and Acquisitions (M&A)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Busdoor Advertising",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Big Data",
+      "category": "Technology"
+    },
+    {
+      "name": "Digital Financing Automation",
+      "category": "Fintech"
+    },
+    {
+      "name": "Landing Platform",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Autonomous Vehicles",
+      "category": "Technology"
+    },
+    {
+      "name": "Electric Vehicles",
+      "category": "Technology"
+    },
+    {
+      "name": "Sertões",
+      "category": "Event"
+    },
+    {
+      "name": "Dakar",
+      "category": "Event"
+    },
+    {
+      "name": "Kitesurfer",
+      "category": "Sport"
+    },
+    {
+      "name": "Bike elétrica",
+      "category": "Technology"
+    },
+    {
+      "name": "Burning Man",
+      "category": "Event"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "800 mil usuários",
+      "context": "Usuários iniciais da WebMotors em banda estreita"
+    },
+    {
+      "value": "55% das buscas de saúde",
+      "context": "Participação de mercado da Minha Vida em buscas de saúde"
+    },
+    {
+      "value": "40,000 BRL",
+      "context": "Initial revenue of WebMotors."
+    },
+    {
+      "value": "18,000 BRL",
+      "context": "Initial costs of WebMotors."
+    },
+    {
+      "value": "5",
+      "context": "Initial number of employees at WebMotors."
+    },
+    {
+      "value": "1 billion BRL",
+      "context": "Estimated valuation of WebMotors when sold by Santander."
+    },
+    {
+      "value": "150,000",
+      "context": "Price of a car discussed"
+    },
+    {
+      "value": "200",
+      "context": "Initial number of fields in a financing form"
+    },
+    {
+      "value": "10",
+      "context": "Reduced number of fields in a financing form"
+    },
+    {
+      "value": "30",
+      "context": "Number of channels created for Itaú"
+    },
+    {
+      "value": "3%",
+      "context": "Interest rate during the pandemic"
+    },
+    {
+      "value": "50 anos",
+      "context": "Idade de Sylvio de Barros ao participar do Dakar."
+    },
+    {
+      "value": "5,6",
+      "context": "Idade mencionada por Sylvio de Barros."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Sylvio De Barros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Minha Vida",
+      "target_type": "company"
+    },
+    {
+      "source": "Bmw",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dakar",
+      "target_type": "concept"
+    },
+    {
+      "source": "Sylvio De Barros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Zimet",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlinhos Campante",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Team Systems",
+      "target_type": "company"
+    },
+    {
+      "source": "Sylvio De Barros",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Dakar",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jp Morgan",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Webmotors",
+      "target_type": "company"
+    },
+    {
+      "source": "Caetano",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "E-Carros",
+      "target_type": "company"
+    },
+    {
+      "source": "Santander",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Webmotors",
+      "target_type": "company"
+    },
+    {
+      "source": "Itaú",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "E-Carros",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Ortenblar",
+      "source_type": "person",
+      "relation": "co_founded",
+      "target": "Z-Flow",
+      "target_type": "company"
+    },
+    {
+      "source": "Joaquim",
+      "source_type": "person",
+      "relation": "manages",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Chase Capital Partners",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Webmotors",
+      "target_type": "company"
+    },
+    {
+      "source": "Local Web",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "M&A (Mergers And Acquisitions)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Santander",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Webmotors",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcos Moraes",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Sylvio De Barros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Z-Flow",
+      "target_type": "company"
+    },
+    {
+      "source": "Sylvio De Barros",
+      "source_type": "person",
+      "relation": "acquired",
+      "target": "Carros.Com.Br",
+      "target_type": "company"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Rivian",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio Capa",
+      "source_type": "person",
+      "relation": "partnered_with",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Z-Flow",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Itaú",
+      "target_type": "company"
+    },
+    {
+      "source": "Sylvio De Barros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Webmotors",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio Capa",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcos Moraes",
+      "source_type": "person",
+      "relation": "managed",
+      "target": "Sertões",
+      "target_type": "company"
+    },
+    {
+      "source": "Sylvio De Barros",
+      "source_type": "person",
+      "relation": "participated_in",
+      "target": "Localweb",
+      "target_type": "company"
+    }
+  ]
+}

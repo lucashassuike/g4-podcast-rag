@@ -1,0 +1,250 @@
+{
+  "episode_id": "46045592477",
+  "title": "CULTURA, MÉTODO E GROWTH: A FÓRMULA QUE NINGUÉM QUER APLICAR COM EMÍLIA CHAGAS | PAPO DE GESTÃO",
+  "date_published": 1764601201,
+  "duration": 3337,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Emília Chagas",
+      "role": "guest",
+      "company": "Content Tools",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Harvard",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno",
+      "role": "host",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Content Tools",
+      "industry": "Marketing Technology",
+      "context": "Uma plataforma de gestão de conteúdo digital para empresas."
+    },
+    {
+      "name": "500 Startups",
+      "industry": "Venture Capital",
+      "context": "Investidor inicial da Content Tools."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Plataforma de educação focada em negócios e gestão."
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Empresa mencionada como exemplo de operação de marketing."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Realizou um estudo sobre segurança psicológica em equipes."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Segurança psicológica",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Inovação contínua",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Rituais e ritmo",
+      "category": "Leadership Practices"
+    },
+    {
+      "name": "OKRs",
+      "category": "Performance Framework"
+    },
+    {
+      "name": "Balance Scorecard",
+      "category": "Performance Framework"
+    },
+    {
+      "name": "One-on-one",
+      "category": "Gestão"
+    },
+    {
+      "name": "Growth Journey",
+      "category": "Estratégia de crescimento"
+    },
+    {
+      "name": "Leadership for Innovation",
+      "category": "Liderança"
+    },
+    {
+      "name": "Comunicação não violenta",
+      "category": "Communication"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Performance Management"
+    },
+    {
+      "name": "Liderança",
+      "category": "Leadership Development"
+    },
+    {
+      "name": "Vulnerabilidade na liderança",
+      "category": "Leadership Development"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "2%",
+      "context": "Porcentagem do mercado potencial da Content Tools no Brasil."
+    },
+    {
+      "value": "40%",
+      "context": "Porcentagem de times de marketing nos Estados Unidos com necessidade de solução de gestão."
+    },
+    {
+      "value": "2015",
+      "context": "Ano de fundação da Content Tools."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Harvard",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "One-On-One",
+      "target_type": "concept"
+    },
+    {
+      "source": "Emília Chagas",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Emília Chagas",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Content Tools",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Emília Chagas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alta Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Emília Chagas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Comunicação Não Violenta",
+      "target_type": "concept"
+    },
+    {
+      "source": "Emília Chagas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Liderança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Emília Chagas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vulnerabilidade Na Liderança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Emília Chagas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Segurança Psicológica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Content Tools",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "500 Startups",
+      "target_type": "company"
+    },
+    {
+      "source": "Emília Chagas",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Segurança Psicológica",
+      "target_type": "concept"
+    }
+  ]
+}

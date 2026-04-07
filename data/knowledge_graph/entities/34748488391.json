@@ -1,0 +1,329 @@
+{
+  "episode_id": "34748488391",
+  "title": "UMA RESENHA SOBRE TRIATHLON, LIDERANÇA E NEGÓCIOS COM DENNIS WANG | PAPO DE GESTÃO",
+  "date_published": 1727424000,
+  "duration": 3523,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Dennis Wang",
+      "role": "guest",
+      "company": "Nubank",
+      "title": "Executive"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Davi",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "César",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Caio",
+      "role": "mentioned",
+      "company": "Limiar",
+      "title": "Assessor de Triatlon"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Nubank",
+      "industry": "Financial Services",
+      "context": "Discussed as a consumer brand and its innovative work culture."
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Discussed as a startup co-founded by Tallis Gomes and Dennis Wang."
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Venture Capital",
+      "context": "Invested in Easy Taxi and other startups."
+    },
+    {
+      "name": "West Wing",
+      "industry": "E-commerce",
+      "context": "Dennis Wang worked on its launch."
+    },
+    {
+      "name": "Cabify",
+      "industry": "Transportation",
+      "context": "Merged with Easy Taxi."
+    },
+    {
+      "name": "Rakuten",
+      "industry": "E-commerce",
+      "context": "Invested in Easy Taxi."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Mentioned as a company co-founded by Tallis Gomes."
+    },
+    {
+      "name": "Jim Pass",
+      "industry": "Saúde e bem-estar",
+      "context": "Empresa mencionada em conversas de Dennis Wang."
+    },
+    {
+      "name": "Limiar",
+      "industry": "Esportes e treinamento",
+      "context": "Empresa de assessoria esportiva mencionada por Dennis Wang."
+    },
+    {
+      "name": "Zwift",
+      "industry": "Tecnologia e Fitness",
+      "context": "Aplicativo mencionado para treino de bicicleta"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Consumer Brand",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Microservices",
+      "category": "Technology"
+    },
+    {
+      "name": "Startup Culture",
+      "category": "Organizational Behavior"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Industry"
+    },
+    {
+      "name": "Mobile Technology",
+      "category": "Technology"
+    },
+    {
+      "name": "Mergers and Acquisitions",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Micro-serviços",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Customer satisfaction",
+      "category": "Gestão"
+    },
+    {
+      "name": "Escalabilidade",
+      "category": "Negócios"
+    },
+    {
+      "name": "Triatlon",
+      "category": "Esportes"
+    },
+    {
+      "name": "Networking",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Frugalidade",
+      "category": "Princípios Financeiros"
+    },
+    {
+      "name": "Rolo de bicicleta",
+      "category": "Equipamento de Treino"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "8 million rides per month",
+      "context": "Easy Taxi's performance at its peak."
+    },
+    {
+      "value": "30+ countries",
+      "context": "Easy Taxi's operational reach."
+    },
+    {
+      "value": "2 milhões de clientes",
+      "context": "Número de clientes da Easy Taxi quando foi vendida."
+    },
+    {
+      "value": "2 milhões de clientes",
+      "context": "Número de clientes do Nubank quando Dennis Wang entrou."
+    },
+    {
+      "value": "20 milhões de clientes",
+      "context": "Número de clientes do Nubank quando Dennis Wang saiu."
+    },
+    {
+      "value": "6.500 funcionários",
+      "context": "Número total de funcionários e terceirizados no Nubank quando Dennis Wang saiu."
+    },
+    {
+      "value": "6 horas e 3 minutos",
+      "context": "Tempo de Dennis Wang no meio Ironman do Rio de Janeiro."
+    },
+    {
+      "value": "1900 metros nadando, 90 quilômetros pedalando e 21 quilômetros correndo",
+      "context": "Distâncias do meio Ironman (70.3)"
+    },
+    {
+      "value": "106 quilômetros com 2500 metros de altimetria",
+      "context": "Prova de bicicleta Letap em Campos de Jordão"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rakuten",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Zwift",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jim Pass",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Triatlon",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Triatlon",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Caio",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Networking",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rolo De Bicicleta",
+      "target_type": "concept"
+    },
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "merged_with",
+      "target": "Cabify",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Limiar",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Frugalidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    }
+  ]
+}

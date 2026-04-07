@@ -1,0 +1,207 @@
+{
+  "episode_id": "34748488643",
+  "title": "#036 - Por que você não precisa de muito dinheiro para começar sua startup?",
+  "date_published": 1637137817,
+  "duration": 1516,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Escola de negócios focada em práticas de empresas de crescimento exponencial."
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Tecnologia/Transporte",
+      "context": "Startup fundada por Tallis Gomes para facilitar o acesso a táxis."
+    },
+    {
+      "name": "Singu",
+      "industry": "Tecnologia/Beleza",
+      "context": "Plataforma de serviços de beleza fundada por Tallis Gomes."
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Referência em pluralidade de ideias e inovação."
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosméticos",
+      "context": "Parceira da Singu em operações."
+    },
+    {
+      "name": "Gestão 4.0",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa focada em propósito e geração de valor"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão 4.0",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Framework de report",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Estrutura de squads e tribos",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Capacidade de adaptação",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Complementação de habilidades",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Divisão de Equity",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Contrato de Vesting e Cliff",
+      "category": "Governança Corporativa"
+    },
+    {
+      "name": "Dedicação Exclusiva",
+      "category": "Estratégia de Empreendedorismo"
+    },
+    {
+      "name": "Validação de Hipóteses",
+      "category": "Metodologia de Startups"
+    },
+    {
+      "name": "investidor anjo",
+      "category": "Funding"
+    },
+    {
+      "name": "prolabore",
+      "category": "Finance"
+    },
+    {
+      "name": "growth",
+      "category": "Marketing"
+    },
+    {
+      "name": "economics",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "SaaS",
+      "category": "Business Model"
+    },
+    {
+      "name": "venda B2B",
+      "category": "Sales"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "60%",
+      "context": "Porcentagem de equity dividida entre sócios na Easy Taxi"
+    },
+    {
+      "value": "40%",
+      "context": "Porcentagem de equity mantida por Tallis Gomes na Easy Taxi"
+    },
+    {
+      "value": "4-5 pessoas",
+      "context": "Número inicial de pessoas essenciais para o negócio"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singu",
+      "target_type": "company"
+    },
+    {
+      "source": "Saas",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Venda B2B",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Investidor Anjo",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Startup",
+      "target_type": "company"
+    },
+    {
+      "source": "Growth",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Geração De Clientes",
+      "target_type": "company"
+    },
+    {
+      "source": "Singu",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Google",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    }
+  ]
+}

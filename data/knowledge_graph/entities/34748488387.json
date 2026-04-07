@@ -1,0 +1,114 @@
+{
+  "episode_id": "34748488387",
+  "title": "ÍCARO DE CARVALHO: COMO A VIDA E OS NEGÓCIOS SE RELACIONAM | G4 PODCASTS",
+  "date_published": 1728633600,
+  "duration": 1119,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Ícaro De Carvalho",
+      "role": "guest",
+      "company": "O Novo Mercado",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Ana",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Matheus",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Mars",
+      "role": "mentioned",
+      "company": "",
+      "title": "Singer"
+    }
+  ],
+  "companies": [
+    {
+      "name": "O Novo Mercado",
+      "industry": "Education",
+      "context": "Founded by Ícaro de Carvalho"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Capitalismo Tardio",
+      "category": "Economic Theory"
+    },
+    {
+      "name": "Influenciadores Digitais",
+      "category": "Marketing"
+    },
+    {
+      "name": "Consumo Excessivo",
+      "category": "Economic Behavior"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "800,000",
+      "context": "Followers of Ícaro de Carvalho on social media"
+    },
+    {
+      "value": "200,000,000",
+      "context": "Debt of Bruno Mars in a casino"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Consumo Excessivo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "O Novo Mercado",
+      "target_type": "company"
+    },
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Influenciadores Digitais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Capitalismo Tardio",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Mars",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Debt",
+      "target_type": "company"
+    }
+  ]
+}

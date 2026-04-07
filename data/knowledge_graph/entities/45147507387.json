@@ -1,0 +1,491 @@
+{
+  "episode_id": "45147507387",
+  "title": "SEMENZATO: A MENTE GENIAL - E BILIONÁRIA - DO SHARK | EXTREMOS",
+  "date_published": 1762959600,
+  "duration": 5869,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "José Carlos Semenzato",
+      "role": "guest",
+      "company": "SMZTO Holding",
+      "title": "Empresário e investidor"
+    },
+    {
+      "name": "Semenzato",
+      "role": "guest",
+      "company": "SMZTO",
+      "title": "Founder"
+    },
+    {
+      "name": "Gugu Liberato",
+      "role": "mentioned",
+      "company": "Domingo Legal",
+      "title": "Host"
+    },
+    {
+      "name": "Netinho De Paula",
+      "role": "mentioned",
+      "company": "Record",
+      "title": "Host"
+    },
+    {
+      "name": "Dr. Gilberto Brito",
+      "role": "mentioned",
+      "company": "Medical Professional",
+      "title": "Doctor"
+    },
+    {
+      "name": "Dr. João Mansur",
+      "role": "mentioned",
+      "company": "Medical Professional",
+      "title": "Doctor"
+    },
+    {
+      "name": "Samara",
+      "role": "mentioned",
+      "company": "Personal Context",
+      "title": "Spouse"
+    },
+    {
+      "name": "Dra. Ana",
+      "role": "mentioned",
+      "company": "Hospital Israelita Albert Einstein",
+      "title": "Cardiologist"
+    },
+    {
+      "name": "Natália Bille",
+      "role": "mentioned",
+      "company": "Royal Face",
+      "title": "Founder"
+    },
+    {
+      "name": "Felipe",
+      "role": "mentioned",
+      "company": "Royal Face",
+      "title": "Co-Founder"
+    },
+    {
+      "name": "Rodolfo",
+      "role": "mentioned",
+      "company": "Up Franquias",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruna",
+      "role": "mentioned",
+      "company": "Peça Rara",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Marcelo",
+      "role": "mentioned",
+      "company": "Peça Rara",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Gustavo",
+      "role": "mentioned",
+      "company": "Peça Rara",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Laura",
+      "role": "mentioned",
+      "company": "Peça Rara",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e negócios",
+      "context": "Organizador do G4 Valley e anfitrião do podcast"
+    },
+    {
+      "name": "Smzto Holding",
+      "industry": "Franquias e investimentos",
+      "context": "Empresa liderada por José Carlos Semenzato"
+    },
+    {
+      "name": "Microlins",
+      "industry": "Educação profissional",
+      "context": "Fundada por José Carlos Semenzato em 1991"
+    },
+    {
+      "name": "Smzto",
+      "industry": "Franchising",
+      "context": "Private equity and franchise management"
+    },
+    {
+      "name": "Up Franquias",
+      "industry": "Franchising",
+      "context": "Franchise incubation"
+    },
+    {
+      "name": "Royal Face",
+      "industry": "Aesthetics",
+      "context": "Franchise network"
+    },
+    {
+      "name": "Peça Rara",
+      "industry": "Second-hand Retail",
+      "context": "Acquired and expanded by Semenzato"
+    },
+    {
+      "name": "Terça Da Serra",
+      "industry": "Senior Living",
+      "context": "Example of a senior residence business model"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "franquias",
+      "category": "modelo de negócios"
+    },
+    {
+      "name": "expansão de negócios",
+      "category": "estratégia empresarial"
+    },
+    {
+      "name": "capacitação profissional",
+      "category": "educação"
+    },
+    {
+      "name": "mercado de trabalho",
+      "category": "economia"
+    },
+    {
+      "name": "gestão empresarial",
+      "category": "administração"
+    },
+    {
+      "name": "marketing e vendas",
+      "category": "estratégia empresarial"
+    },
+    {
+      "name": "Franchising",
+      "category": "Business Model"
+    },
+    {
+      "name": "Private Equity",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Economic Viability Analysis",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Economia Circular",
+      "category": "Business Trend"
+    },
+    {
+      "name": "Economia Prateada",
+      "category": "Business Trend"
+    },
+    {
+      "name": "DRE (Demonstração do Resultado do Exercício)",
+      "category": "Financial Management"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Marketing Metric"
+    },
+    {
+      "name": "Análise de viabilidade",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Taxa de franquia",
+      "category": "Modelos de negócios"
+    },
+    {
+      "name": "ROI (Retorno sobre Investimento)",
+      "category": "Métricas financeiras"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métricas de satisfação do cliente"
+    },
+    {
+      "name": "Gestão de equipes",
+      "category": "Liderança e administração"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "5 mil operações de negócio",
+      "context": "Número de operações comandadas por José Carlos Semenzato"
+    },
+    {
+      "value": "30 países",
+      "context": "Presença internacional das operações de José Carlos Semenzato"
+    },
+    {
+      "value": "10 bilhões de reais",
+      "context": "Faturamento combinado das operações de José Carlos Semenzato"
+    },
+    {
+      "value": "4 milhões de jovens",
+      "context": "Número de jovens capacitados pela Microlins"
+    },
+    {
+      "value": "750 escolas",
+      "context": "Número de unidades da Microlins no Brasil"
+    },
+    {
+      "value": "500 mil alunos ativos",
+      "context": "Número de alunos ativos na Microlins"
+    },
+    {
+      "value": "36 points of Ibope",
+      "context": "Audience rating for Gugu's program"
+    },
+    {
+      "value": "40 million viewers",
+      "context": "Audience size for Gugu's program"
+    },
+    {
+      "value": "1 million BRL per month",
+      "context": "Personal income in 2004"
+    },
+    {
+      "value": "12 million BRL per year",
+      "context": "Annual income in 2004"
+    },
+    {
+      "value": "100 thousand BRL per month",
+      "context": "Revenue per aesthetics clinic"
+    },
+    {
+      "value": "7% royalties",
+      "context": "Franchise fee for aesthetics clinics"
+    },
+    {
+      "value": "25 units",
+      "context": "First-year franchise expansion for Royal Face"
+    },
+    {
+      "value": "200 units",
+      "context": "Franchise network size before SMZTO acquisition"
+    },
+    {
+      "value": "25 unidades",
+      "context": "Number of units opened in the first year of a franchise"
+    },
+    {
+      "value": "200 unidades",
+      "context": "Number of units reached before Semenzato's investment in Royal Face"
+    },
+    {
+      "value": "150 lojas",
+      "context": "Current number of Peça Rara stores"
+    },
+    {
+      "value": "40%",
+      "context": "Percentage of sales revenue given to sellers in Peça Rara"
+    },
+    {
+      "value": "60%",
+      "context": "Percentage of sales revenue retained by Peça Rara for operational costs"
+    },
+    {
+      "value": "50 milhões",
+      "context": "Projected number of elderly people in Brazil by 2030"
+    },
+    {
+      "value": "1 milhão por mês",
+      "context": "Faturamento mensal de uma franquia"
+    },
+    {
+      "value": "500 mil reais por mês",
+      "context": "Lucro líquido mensal de uma franquia"
+    },
+    {
+      "value": "6 milhões por ano",
+      "context": "Lucro anual de uma franquia"
+    },
+    {
+      "value": "50 mil reais por mês",
+      "context": "Lucro médio mensal por unidade de franquia"
+    },
+    {
+      "value": "250 mil reais por mês",
+      "context": "Lucro total de cinco unidades de franquia"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cac (Custo De Aquisição De Cliente)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Up Franquias",
+      "target_type": "company"
+    },
+    {
+      "source": "José Carlos Semenzato",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Microlins",
+      "target_type": "company"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Peça Rara",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Microlins",
+      "target_type": "company"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Royal Face",
+      "target_type": "company"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Rodolfo",
+      "target_type": "person"
+    },
+    {
+      "source": "José Carlos Semenzato",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Smzto Holding",
+      "target_type": "company"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Smzto",
+      "target_type": "company"
+    },
+    {
+      "source": "José Carlos Semenzato",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Franquias",
+      "target_type": "concept"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Microlins",
+      "target_type": "company"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Economia Circular",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Microlins",
+      "target_type": "company"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Economia Prateada",
+      "target_type": "concept"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dre (Demonstração Do Resultado Do Exercício)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Semenzato",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Royal Face",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

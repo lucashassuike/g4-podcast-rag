@@ -1,0 +1,210 @@
+{
+  "episode_id": "52819396282",
+  "title": "COMO A FARM VIROU UM FENÔMENO DA MODA BRASILEIRA - MARCELLO BASTOS | PAPO DE GESTÃO",
+  "date_published": 1774882800,
+  "duration": 4034,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Marcello Bastos",
+      "role": "guest",
+      "company": "Farm",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Kátia Barros",
+      "role": "mentioned",
+      "company": "Farm",
+      "title": "Co-fundadora"
+    },
+    {
+      "name": "Janja",
+      "role": "mentioned",
+      "company": "Brazilian Government",
+      "title": "First Lady"
+    },
+    {
+      "name": "Lula",
+      "role": "mentioned",
+      "company": "Brazilian Government",
+      "title": "President"
+    },
+    {
+      "name": "Beyoncé",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artist"
+    },
+    {
+      "name": "Justin Bieber",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artist"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Farm",
+      "industry": "Moda",
+      "context": "Marca brasileira de moda mencionada como exemplo de sucesso e inovação."
+    },
+    {
+      "name": "Grupo Soma",
+      "industry": "Moda",
+      "context": "Grupo empresarial que inclui a marca Farm e desenvolve tecnologia proprietária."
+    },
+    {
+      "name": "Roberts Bank",
+      "industry": "Consultoria",
+      "context": "Consultoria contratada para auxiliar na entrada da Farm no mercado americano."
+    },
+    {
+      "name": "Farm Rio",
+      "industry": "Fashion",
+      "context": "Discussed as a successful Brazilian fashion brand"
+    },
+    {
+      "name": "Maria Filó",
+      "industry": "Fashion",
+      "context": "Mentioned as a fashion brand"
+    },
+    {
+      "name": "Animalia",
+      "industry": "Fashion",
+      "context": "Mentioned as a fashion brand"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Estratégia de escassez",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Lead time",
+      "category": "Gestão de operações"
+    },
+    {
+      "name": "Binômio produto-aposta",
+      "category": "Gestão de produtos"
+    },
+    {
+      "name": "Tecnologia proprietária",
+      "category": "Inovação tecnológica"
+    },
+    {
+      "name": "Price point",
+      "category": "Estratégia de precificação"
+    },
+    {
+      "name": "Stock Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Brand Reputation",
+      "category": "Marketing"
+    },
+    {
+      "name": "Audience Engagement",
+      "category": "Marketing"
+    },
+    {
+      "name": "Technological Planning",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "1.200 itens por mês",
+      "context": "Média de vendas mensais da Farm."
+    },
+    {
+      "value": "250 a 400 dólares",
+      "context": "Faixa de preço médio dos produtos da Farm no mercado americano."
+    },
+    {
+      "value": "300 a 500 milhões",
+      "context": "Crescimento de faturamento anual mencionado."
+    },
+    {
+      "value": "60%",
+      "context": "Importance of purchase decisions in stock management"
+    },
+    {
+      "value": "40%",
+      "context": "Importance of day-to-day stock piloting"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcello Bastos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Farm",
+      "target_type": "company"
+    },
+    {
+      "source": "Kátia Barros",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Farm",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcello Bastos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Farm Rio",
+      "target_type": "company"
+    },
+    {
+      "source": "Farm Rio",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Animalia",
+      "target_type": "company"
+    },
+    {
+      "source": "Farm",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Tecnologia Proprietária",
+      "target_type": "concept"
+    },
+    {
+      "source": "Farm",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Estratégia De Escassez",
+      "target_type": "concept"
+    },
+    {
+      "source": "Farm Rio",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Maria Filó",
+      "target_type": "company"
+    },
+    {
+      "source": "Farm",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Grupo Soma",
+      "target_type": "company"
+    },
+    {
+      "source": "Farm",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Binômio Produto-Aposta",
+      "target_type": "concept"
+    },
+    {
+      "source": "Farm",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Roberts Bank",
+      "target_type": "company"
+    }
+  ]
+}

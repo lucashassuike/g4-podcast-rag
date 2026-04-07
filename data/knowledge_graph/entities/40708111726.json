@@ -1,0 +1,214 @@
+{
+  "episode_id": "40708111726",
+  "title": "[CORTE] A NOVA MOEDA DO MERCADO? ALLAN BARROS REVELA O QUE REALMENTE IMPORTA EM 2025",
+  "date_published": 1753995600,
+  "duration": 643,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Allan Barros",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Martim",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Blois",
+      "role": "mentioned",
+      "company": "",
+      "title": "CEO"
+    },
+    {
+      "name": "Diego Barreto",
+      "role": "mentioned",
+      "company": "iFood",
+      "title": "Executive"
+    },
+    {
+      "name": "Adib",
+      "role": "mentioned",
+      "company": "",
+      "title": "President"
+    },
+    {
+      "name": "Bill Gates",
+      "role": "mentioned",
+      "company": "Microsoft",
+      "title": "Founder"
+    },
+    {
+      "name": "Renato Franklin",
+      "role": "mentioned",
+      "company": "Casa Bahia",
+      "title": "Executive"
+    },
+    {
+      "name": "Luciano",
+      "role": "mentioned",
+      "company": "Havan",
+      "title": "Owner"
+    },
+    {
+      "name": "Jojo Toddynho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Cadu",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Ifood",
+      "industry": "Food Delivery",
+      "context": "Discussed as a company with strategic communication and content production."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotive",
+      "context": "Mentioned as an example of a 'company of owner'."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "context": "Mentioned as an example of a 'company of owner'."
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Mentioned as an example of a 'company of owner'."
+    },
+    {
+      "name": "Casa Bahia",
+      "industry": "Retail",
+      "context": "Discussed as a company using executive-led communication strategies."
+    },
+    {
+      "name": "Havan",
+      "industry": "Retail",
+      "context": "Discussed as a company with strong owner-led marketing strategies."
+    },
+    {
+      "name": "Meta",
+      "industry": "Technology",
+      "context": "Discussed in the context of user behavior and platform dependency."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Discussed in the context of user behavior and platform dependency."
+    },
+    {
+      "name": "S-Med",
+      "industry": "Healthcare",
+      "context": "Mentioned as a company adept at trend surfing."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Edu Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Growth Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Attention Economy",
+      "category": "Market Trend"
+    },
+    {
+      "name": "Trend Surfing",
+      "category": "Marketing Strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "Exponencial",
+      "author": "Unknown"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "400,000 followers",
+      "context": "Blois' Instagram followers."
+    },
+    {
+      "value": "40,000 followers",
+      "context": "Blois' English profile followers."
+    },
+    {
+      "value": "100 billion dollars",
+      "context": "Company valuation mentioned in relation to Blois."
+    },
+    {
+      "value": "20 billion dollars",
+      "context": "Cash reserves mentioned in relation to Blois' company."
+    },
+    {
+      "value": "6,000 to 7,000 employees",
+      "context": "iFood's workforce size."
+    },
+    {
+      "value": "95% to 30% organic sales",
+      "context": "Sales shift in Acelera after adopting content strategies."
+    },
+    {
+      "value": "9 million followers",
+      "context": "Havan's social media following."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Luciano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Havan",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Franklin",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Casa Bahia",
+      "target_type": "company"
+    },
+    {
+      "source": "Adib",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "S-Med",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Barreto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Blois",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Luciano",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Jojo Toddynho",
+      "target_type": "person"
+    }
+  ]
+}

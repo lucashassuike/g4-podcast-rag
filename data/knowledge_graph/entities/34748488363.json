@@ -1,0 +1,638 @@
+{
+  "episode_id": "34748488363",
+  "title": "TIAGO BRUNET REVELA AS MENTALIDADES VENCEDORAS PARA 2025 | EXTREMOS",
+  "date_published": 1733900400,
+  "duration": 4425,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tiago Brunet",
+      "role": "guest",
+      "company": "Instituto Dash",
+      "title": "Fundador"
+    },
+    {
+      "name": "Roberto Navarro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Clayton Pietro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Janine Brunet",
+      "role": "mentioned",
+      "company": "",
+      "title": "Spouse"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Paulo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Apóstolo"
+    },
+    {
+      "name": "Rodrigão",
+      "role": "mentioned",
+      "company": "Boale",
+      "title": "Mentor do G4"
+    },
+    {
+      "name": "Flávio Augusto",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Napoleon Hill",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jim Collins",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Judas Iscariot",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Samuel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Profeta"
+    },
+    {
+      "name": "Jessé",
+      "role": "mentioned",
+      "company": "",
+      "title": "Pai de Davi"
+    },
+    {
+      "name": "Davi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Rei de Israel"
+    },
+    {
+      "name": "Salomão",
+      "role": "mentioned",
+      "company": "",
+      "title": "Rei e Autor de Provérbios"
+    },
+    {
+      "name": "Rei Salomão",
+      "role": "mentioned",
+      "company": "",
+      "title": "Historical Figure"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Minimal Club",
+      "industry": "Vestuário",
+      "context": "Patrocinadora do podcast Extremos"
+    },
+    {
+      "name": "Instituto Dash",
+      "industry": "Educação e Desenvolvimento Pessoal",
+      "context": "Empresa fundada por Tiago Brunet"
+    },
+    {
+      "name": "Instituto Destiny",
+      "industry": "Education",
+      "context": "Founded by Tiago Brunet in 2014 focusing on personal development"
+    },
+    {
+      "name": "Mcdonald'S",
+      "industry": "Food and Beverage",
+      "context": "Cristiano Ronaldo mencionou que recebia hambúrgueres de um McDonald's em Lisboa quando era jovem."
+    },
+    {
+      "name": "Boale",
+      "industry": "Foodtech",
+      "context": "Empresa de alimentação saudável em expansão nacional."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Oferece formações como o G4 Traction para empreendedores."
+    },
+    {
+      "name": "Destiny Minds",
+      "industry": "Educação e Desenvolvimento Pessoal",
+      "context": "Grupo mencionado por Tiago Brunet como parte de seu trabalho com empresários."
+    },
+    {
+      "name": "Casa De Destino",
+      "industry": "Media",
+      "context": "Channel for transmissions and programs like Terra Prometida and Brunecast"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Influência Digital",
+      "category": "Marketing e Comunicação"
+    },
+    {
+      "name": "Inteligência Emocional",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Inteligência Bíblica",
+      "category": "Desenvolvimento Espiritual"
+    },
+    {
+      "name": "Streaming",
+      "category": "Tecnologia e Mídia"
+    },
+    {
+      "name": "Obra Social",
+      "category": "Responsabilidade Social"
+    },
+    {
+      "name": "Desenvolvimento pessoal",
+      "category": "Framework"
+    },
+    {
+      "name": "Princípios bíblicos",
+      "category": "Framework"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Disciplina e paciência",
+      "category": "Strategy"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Paciência",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Risco Calculado",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Dinheiro Emocional",
+      "category": "Financial Management"
+    },
+    {
+      "name": "Maturidade",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Princípios Milenares",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Inteligência Financeira",
+      "category": "Financial Management"
+    },
+    {
+      "name": "Maturidade Financeira",
+      "category": "Financial Management"
+    },
+    {
+      "name": "Honra",
+      "category": "Ethics"
+    },
+    {
+      "name": "Raridade no Mercado",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Autenticidade",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Método Destiny",
+      "category": "Framework de Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Princípio da Escuta",
+      "category": "Princípios de Liderança"
+    },
+    {
+      "name": "Princípio da Disciplina",
+      "category": "Princípios de Liderança"
+    },
+    {
+      "name": "Espiritualidade",
+      "category": "Conceito Filosófico"
+    },
+    {
+      "name": "Religião",
+      "category": "Conceito Filosófico"
+    },
+    {
+      "name": "crescimento exponencial",
+      "category": "estratégia"
+    },
+    {
+      "name": "princípio da repreensão",
+      "category": "estratégia"
+    },
+    {
+      "name": "prosperidade",
+      "category": "conceito"
+    },
+    {
+      "name": "gestão emocional",
+      "category": "conceito"
+    },
+    {
+      "name": "gestão empresarial",
+      "category": "conceito"
+    },
+    {
+      "name": "empreendimento",
+      "category": "conceito"
+    },
+    {
+      "name": "Gestão Financeira",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Marca Pessoal",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Educação Emocional",
+      "category": "Educação"
+    },
+    {
+      "name": "Generosidade",
+      "category": "Valores e Princípios"
+    },
+    {
+      "name": "Provérbios 16",
+      "category": "Biblical Reference"
+    },
+    {
+      "name": "Terra Prometida",
+      "category": "Media Program"
+    },
+    {
+      "name": "Café com Destino",
+      "category": "Media Program"
+    },
+    {
+      "name": "Brunecast",
+      "category": "Media Program"
+    }
+  ],
+  "books": [
+    {
+      "title": "Princípios Milenares: As Dez Leis Espirituais para uma Vida de Paz e Prosperidade",
+      "author": "Tiago Brunet"
+    },
+    {
+      "title": "Princípios Milenares",
+      "author": "Tiago Brunet"
+    },
+    {
+      "title": "Dinheiro Emocional",
+      "author": "Tiago Brunet"
+    },
+    {
+      "title": "Best-seller de Tiago Brunet",
+      "author": "Tiago Brunet"
+    },
+    {
+      "title": "A Bíblia",
+      "author": "diversos autores"
+    },
+    {
+      "title": "Provérbios",
+      "author": "Salomão"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1 milhão",
+      "context": "Livros vendidos por Tiago Brunet nos últimos 12 meses"
+    },
+    {
+      "value": "20 milhões",
+      "context": "Contas únicas que assistem ao conteúdo de Tiago Brunet semanalmente"
+    },
+    {
+      "value": "5 mil metros quadrados",
+      "context": "Tamanho da estrutura do projeto Terra Prometida"
+    },
+    {
+      "value": "Dezenas de milhões de reais",
+      "context": "Investimento no projeto Terra Prometida"
+    },
+    {
+      "value": "18,000 BRL",
+      "context": "Initial payment for book development"
+    },
+    {
+      "value": "50,000 books",
+      "context": "Number of books sold by Tiago Brunet"
+    },
+    {
+      "value": "156 million BRL",
+      "context": "Valuation of Tiago Brunet's company during M&A discussions"
+    },
+    {
+      "value": "1 million BRL",
+      "context": "Revenue from a course in 2017"
+    },
+    {
+      "value": "2025",
+      "context": "Ano em que Tiago Brunet espera dobrar seu faturamento atual."
+    },
+    {
+      "value": "Dezenas de milhões de reais",
+      "context": "Investimento feito por Tiago Brunet na construção da Terra Prometida."
+    },
+    {
+      "value": "100,000",
+      "context": "Número de cópias vendidas no lançamento de um livro de Tiago Brunet."
+    },
+    {
+      "value": "13 milhões",
+      "context": "Seguidores orgânicos nas redes sociais de Tiago Brunet."
+    },
+    {
+      "value": "13 milhões",
+      "context": "Seguidores nas redes sociais de Tiago Brunet."
+    },
+    {
+      "value": "100 mil",
+      "context": "Livros vendidos no lançamento por Tiago Brunet."
+    },
+    {
+      "value": "250 mil reais",
+      "context": "custo de uma palestra de Tiago Brunet"
+    },
+    {
+      "value": "100 milhões de faturamento",
+      "context": "negócio construído por Tiago Brunet"
+    },
+    {
+      "value": "3 bilhões",
+      "context": "Número de empresários mencionados no grupo Destiny Minds."
+    },
+    {
+      "value": "700",
+      "context": "Quantidade de participantes no grupo Destiny Minds."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Disciplina E Paciência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Instituto Dash",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Dinheiro Emocional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Boale",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "Tiago Brunet",
+      "target_type": "person"
+    },
+    {
+      "source": "Cristiano Ronaldo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Mcdonald'S",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Bíblia",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Princípio Da Repreensão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Flávio Augusto",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Powerhouse",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Desenvolvimento Pessoal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Princípios Bíblicos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Empreendimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Samuel",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Davi",
+      "target_type": "person"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Instituto Destiny",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Destiny Minds",
+      "target_type": "company"
+    },
+    {
+      "source": "Salomão",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Provérbios",
+      "target_type": "company"
+    },
+    {
+      "source": "Casa De Destino",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Brunecast",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Prosperidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Casa De Destino",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Terra Prometida",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão Emocional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Emocional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Crescimento Exponencial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Minimal Club",
+      "source_type": "company",
+      "relation": "sponsors",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "M&A (Mergers And Acquisitions)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Casa De Destino",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Café Com Destino",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Casa De Destino",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Princípios Milenares: As Dez Leis Espirituais Para Uma Vida De Paz E Prosperidade",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigão",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Princípios Milenares",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiago Brunet",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Princípio Da Escuta",
+      "target_type": "concept"
+    }
+  ]
+}

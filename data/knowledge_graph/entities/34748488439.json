@@ -1,0 +1,322 @@
+{
+  "episode_id": "34748488439",
+  "title": "POR TRÁS DO ECOSSISTEMA SUPLEY (MAX TITANIUM, PROBIÓTICA E DR.PEANUT) - COM MARIANE MORELLI (CEO)",
+  "date_published": 1715848200,
+  "duration": 4039,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Mariane Morelli",
+      "role": "guest",
+      "company": "Supley",
+      "title": "CEO"
+    },
+    {
+      "name": "Renato Cariani",
+      "role": "mentioned",
+      "company": "Supley",
+      "title": "Influenciador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Rafael Brandão",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta"
+    },
+    {
+      "name": "Júlio Balestrin",
+      "role": "mentioned",
+      "company": "",
+      "title": "Atleta"
+    },
+    {
+      "name": "Marcos Mion",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influenciador"
+    },
+    {
+      "name": "Graciane Barbosa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influenciadora"
+    },
+    {
+      "name": "Nicole Baus",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influenciadora"
+    },
+    {
+      "name": "Inácio",
+      "role": "mentioned",
+      "company": "",
+      "title": "Parceiro de Mariane Morelli"
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "Dr. Peanut",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Supley",
+      "industry": "Suplementação",
+      "context": "Empresa discutida no episódio, enfrentou uma crise de imagem envolvendo Renato Cariani."
+    },
+    {
+      "name": "Max Titanium",
+      "industry": "Suplementação",
+      "context": "Parte do ecossistema Supley."
+    },
+    {
+      "name": "Probiótica",
+      "industry": "Suplementação",
+      "context": "Parte do ecossistema Supley."
+    },
+    {
+      "name": "Dr. Peanut",
+      "industry": "Suplementação",
+      "context": "Parte do ecossistema Supley."
+    },
+    {
+      "name": "Armie",
+      "industry": "Fitness",
+      "context": "Empresa mencionada como tendo Renato Cariani como sócio."
+    },
+    {
+      "name": "Max Titânio",
+      "industry": "Suplementação",
+      "context": "Marca inicial da Supley focada em musculação e nutrição esportiva."
+    },
+    {
+      "name": "Valent",
+      "industry": "Farmacêutico",
+      "context": "Empresa que adquiriu a Probiótica em 2013, mas não conseguiu manter seu valor de mercado."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Plataforma de educação empresarial mencionada no contexto de mentorias."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão de crise",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Posicionamento estratégico",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Mercado de suplementação",
+      "category": "Indústria"
+    },
+    {
+      "name": "Transformação através do esporte e nutrição",
+      "category": "Propósito empresarial"
+    },
+    {
+      "name": "M&A (Merger and Acquisition)",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Suplementos agudos e crônicos",
+      "category": "Nutrição esportiva"
+    },
+    {
+      "name": "Registro de marca",
+      "category": "Propriedade intelectual"
+    },
+    {
+      "name": "Crescimento inorgânico",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Crescimento orgânico",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "M&A (Fusões e Aquisições)",
+      "category": "Estratégia de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "12 mil",
+      "context": "Pontos de venda da Supley no Brasil."
+    },
+    {
+      "value": "17 anos",
+      "context": "Tempo de operação da Supley desde 2006."
+    },
+    {
+      "value": "18 anos",
+      "context": "Tempo de operação da Supley."
+    },
+    {
+      "value": "2006",
+      "context": "Ano de fundação da Supley."
+    },
+    {
+      "value": "2018",
+      "context": "Ano de aquisição da marca Probiótica pela Supley."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Supley",
+      "target_type": "company"
+    },
+    {
+      "source": "Supley",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Dr. Peanut",
+      "target_type": "company"
+    },
+    {
+      "source": "Probiótica",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Max Titânio",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rafael Brandão",
+      "target_type": "person"
+    },
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Júlio Balestrin",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Armie",
+      "target_type": "company"
+    },
+    {
+      "source": "Valent",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Probiótica",
+      "target_type": "company"
+    },
+    {
+      "source": "Supley",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Probiótica",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Inácio",
+      "target_type": "person"
+    },
+    {
+      "source": "Supley",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Probiótica",
+      "target_type": "company"
+    },
+    {
+      "source": "Supley",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Probiótica",
+      "target_type": "company"
+    },
+    {
+      "source": "Supley",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Max Titânio",
+      "target_type": "company"
+    },
+    {
+      "source": "Supley",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Max Titanium",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Dr. Peanut",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Graciane Barbosa",
+      "target_type": "person"
+    },
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Marcos Mion",
+      "target_type": "person"
+    },
+    {
+      "source": "Mariane Morelli",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nicole Baus",
+      "target_type": "person"
+    },
+    {
+      "source": "Supley",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Dr. Peanut",
+      "target_type": "company"
+    },
+    {
+      "source": "Supley",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Max Titanium",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Cariani",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Supley",
+      "target_type": "company"
+    }
+  ]
+}

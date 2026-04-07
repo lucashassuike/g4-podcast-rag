@@ -1,0 +1,65 @@
+{
+  "episode_id": "34748488446",
+  "title": "COMO WENDEL BEZERRA EMPREENDEU E REVOLUCIONOU NA DUBLAGEM BRASILEIRA | EXTREMOS",
+  "date_published": 1713947400,
+  "duration": 4682,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Wendel Bezerra",
+      "role": "guest",
+      "company": "Não especificado",
+      "title": "Dublador e empreendedor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Chairman e cofundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e negócios",
+      "context": "Mencionada como empresa cofundada por Tallis Gomes"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inteligência artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Dublagem",
+      "category": "Indústria de entretenimento"
+    },
+    {
+      "name": "Regulamentação",
+      "category": "Legislação"
+    },
+    {
+      "name": "Country manager",
+      "category": "Posição executiva"
+    },
+    {
+      "name": "Planejamento com objetivos e metas",
+      "category": "Gestão"
+    },
+    {
+      "name": "Mentoria com track record comprovado",
+      "category": "Educação e desenvolvimento"
+    }
+  ],
+  "books": [],
+  "metrics": [],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

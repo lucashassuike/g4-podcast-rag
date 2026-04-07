@@ -1,0 +1,309 @@
+{
+  "episode_id": "35333893402",
+  "title": "COMO POSICIONAR UM PRODUTO ARTESANAL COMO ITEM DE LUXO COM PAULO HENRIQUE - ORGANNE | EXTREMOS",
+  "date_published": 1743001200,
+  "duration": 3806,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Paulo Henrique Costa",
+      "role": "guest",
+      "company": "Organi Vasos Decor",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "Minimal Club",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Flávio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Nery",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Paulo Henrique",
+      "role": "guest",
+      "company": "Organi",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Romário",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sig Bergamin",
+      "role": "mentioned",
+      "company": "",
+      "title": "Architect"
+    },
+    {
+      "name": "Nath Vossa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influencer"
+    },
+    {
+      "name": "Silvia Brás",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influencer"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "Boale",
+      "title": "Leader"
+    },
+    {
+      "name": "Otaviano Costa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influencer"
+    },
+    {
+      "name": "Darlene Sblam",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Organi Vasos Decor",
+      "industry": "Luxury Home Decor",
+      "context": "Largest luxury vase brand in the world"
+    },
+    {
+      "name": "Minimal Club",
+      "industry": "Fashion",
+      "context": "Subscription-based clothing service"
+    },
+    {
+      "name": "Organi",
+      "industry": "Luxury Goods",
+      "context": "Producer of luxury handcrafted products"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education platform"
+    },
+    {
+      "name": "Boale",
+      "industry": "Food and Beverage",
+      "context": "Healthy food franchise"
+    },
+    {
+      "name": "Louis Vuitton",
+      "industry": "Moda e Luxo",
+      "context": "Empresa mencionada em relação a uma parceria para visual merchandising."
+    },
+    {
+      "name": "Fasano",
+      "industry": "Hotelaria",
+      "context": "Hotel mencionado como local de evento da Louis Vuitton."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "OKR",
+      "category": "Strategic Planning"
+    },
+    {
+      "name": "Working Capital",
+      "category": "Financial Management"
+    },
+    {
+      "name": "Luxury Market",
+      "category": "Market Segment"
+    },
+    {
+      "name": "luxury branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "market of desire",
+      "category": "Marketing"
+    },
+    {
+      "name": "franchise model",
+      "category": "Business Model"
+    },
+    {
+      "name": "Logística",
+      "category": "Operações"
+    },
+    {
+      "name": "Construção de Marca",
+      "category": "Marketing"
+    },
+    {
+      "name": "Tropicalização de Produtos",
+      "category": "Estratégia de Mercado"
+    },
+    {
+      "name": "Confiança no Mercado",
+      "category": "Negócios"
+    },
+    {
+      "name": "Produto de Luxo",
+      "category": "Mercado"
+    },
+    {
+      "name": "Visual Merchandising",
+      "category": "Marketing"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "25 million",
+      "context": "Annual revenue of Organi Vasos Decor"
+    },
+    {
+      "value": "100",
+      "context": "Number of Boale stores"
+    },
+    {
+      "value": "16",
+      "context": "Number of products selected by Sig Bergamin"
+    },
+    {
+      "value": "80%",
+      "context": "Porcentagem da logística realizada internamente pela Organi."
+    },
+    {
+      "value": "100,000",
+      "context": "Valor de um vaso mencionado como exemplo de produto de luxo."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Boale",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Henrique",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Organi",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Silvia Brás",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Organi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Henrique",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Organi",
+      "target_type": "company"
+    },
+    {
+      "source": "Fasano",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Louis Vuitton",
+      "target_type": "company"
+    },
+    {
+      "source": "Sig Bergamin",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Organi",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Minimal Club",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Henrique Costa",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Organi Vasos Decor",
+      "target_type": "company"
+    },
+    {
+      "source": "Louis Vuitton",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Organi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Nath Vossa",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Organi",
+      "target_type": "company"
+    }
+  ]
+}

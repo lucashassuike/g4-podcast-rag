@@ -1,0 +1,365 @@
+{
+  "episode_id": "40182961425",
+  "title": "GESTÃO COM PROPÓSITO: A FILOSOFIA DA ESSENTIAL NUTRITION | PAPO DE GESTÃO",
+  "date_published": 1753110000,
+  "duration": 4780,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Paulo Urban",
+      "role": "guest",
+      "company": "Essential Nutrition",
+      "title": "Founder"
+    },
+    {
+      "name": "Vitor",
+      "role": "mentioned",
+      "company": "Essential Nutrition",
+      "title": "Commercial Area Manager"
+    },
+    {
+      "name": "Marcelo",
+      "role": "mentioned",
+      "company": "Essential Nutrition",
+      "title": "Co-founder and Medical Professional"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Essential Nutrition",
+      "industry": "Nutritional Supplements",
+      "context": "Discussed as a high-quality nutritional supplement company founded by Paulo Urban and Marcelo."
+    },
+    {
+      "name": "Essential Pharma",
+      "industry": "Pharmaceuticals",
+      "context": "Origin of Essential Nutrition, started as a pharmacy of manipulation."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts the G4 Podcast and provides business education."
+    },
+    {
+      "name": "Citibank",
+      "industry": "Finance",
+      "context": "Mentioned as Paulo Urban's former employer during his early career."
+    },
+    {
+      "name": "Glambia",
+      "industry": "Suplementos alimentares",
+      "context": "Fornecedor de whey protein para a Essential Nutrition."
+    },
+    {
+      "name": "Mundo Verde",
+      "industry": "Produtos naturais",
+      "context": "Citado como canal de distribuição para produtos da Essential Nutrition."
+    },
+    {
+      "name": "Biomundo",
+      "industry": "Produtos naturais",
+      "context": "Citado como canal de distribuição para produtos da Essential Nutrition."
+    },
+    {
+      "name": "Divina Terra",
+      "industry": "Produtos naturais",
+      "context": "Citado como canal de distribuição para produtos da Essential Nutrition."
+    },
+    {
+      "name": "São Marché",
+      "industry": "Supermercados",
+      "context": "Citado como canal de distribuição para produtos da Essential Nutrition."
+    },
+    {
+      "name": "Cvs",
+      "industry": "Farmácias",
+      "context": "Citado em contexto de experiência de compra nos Estados Unidos."
+    },
+    {
+      "name": "Cvs Pharmacy",
+      "industry": "Farmácia e Varejo",
+      "context": "Mencionada como local de compra de produtos."
+    },
+    {
+      "name": "Gatorade",
+      "industry": "Bebidas esportivas",
+      "context": "Discussão sobre regulamentação de ingredientes nos EUA."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Farmácia de Manipulação",
+      "category": "Business Model"
+    },
+    {
+      "name": "Nutrição Cerebral",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Marketing Educativo",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Contaminação Cruzada",
+      "category": "Quality Control"
+    },
+    {
+      "name": "Suplementação Nutricional",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Gestão com propósito",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Canal de distribuição",
+      "category": "Estratégia de mercado"
+    },
+    {
+      "name": "Produto regenerativo",
+      "category": "Sustentabilidade"
+    },
+    {
+      "name": "Suplementação alimentar",
+      "category": "Saúde e bem-estar"
+    },
+    {
+      "name": "Jornada do cliente",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Regulamentação de ingredientes",
+      "category": "Legislação e compliance"
+    },
+    {
+      "name": "Diretoria e gestão de níveis",
+      "category": "Estrutura organizacional"
+    },
+    {
+      "name": "Qualidade de vida no trabalho",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Flexibilidade no trabalho",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Produtos disruptivos",
+      "category": "Inovação"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "6",
+      "context": "Number of employees at Essential Nutrition in 2004."
+    },
+    {
+      "value": "80",
+      "context": "Number of employees at Essential Nutrition in 2008."
+    },
+    {
+      "value": "300-400",
+      "context": "Number of employees at Essential Nutrition in 2015."
+    },
+    {
+      "value": "700",
+      "context": "Number of employees at Essential Nutrition in 2020."
+    },
+    {
+      "value": "1,700",
+      "context": "Number of employees at Essential Nutrition in 2025."
+    },
+    {
+      "value": "2012",
+      "context": "Ano de fundação da Essential Nutrition."
+    },
+    {
+      "value": "9 produtos",
+      "context": "Número inicial de produtos desenvolvidos pela Essential Nutrition."
+    },
+    {
+      "value": "5 gramas",
+      "context": "Quantidade de cacau em pó no produto Cacau Whey da Essential Nutrition."
+    },
+    {
+      "value": "160 SKUs",
+      "context": "Número de produtos disponíveis atualmente na Essential Nutrition."
+    },
+    {
+      "value": "1.700 funcionários",
+      "context": "Tamanho da equipe da Essential Nutrition."
+    },
+    {
+      "value": "16 diretores",
+      "context": "Número de diretores na estrutura organizacional da Essential Nutrition."
+    },
+    {
+      "value": "110 gestores de áreas",
+      "context": "Número de gestores de áreas na Essential Nutrition."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcelo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Essential Nutrition",
+      "target_type": "company"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cvs Pharmacy",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Produtos Disruptivos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Paulo Urban",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Essential Nutrition",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Urban",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Essential Pharma",
+      "target_type": "company"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gatorade",
+      "target_type": "company"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Nutrição E Suplementos",
+      "target_type": "company"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Diretoria E Gestão De Níveis",
+      "target_type": "concept"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Jornada Do Cliente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Glambia",
+      "target_type": "company"
+    },
+    {
+      "source": "Paulo Urban",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Essential Nutrition",
+      "target_type": "company"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Biomundo",
+      "target_type": "company"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gestão Com Propósito",
+      "target_type": "concept"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Divina Terra",
+      "target_type": "company"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "São Marché",
+      "target_type": "company"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Mundo Verde",
+      "target_type": "company"
+    },
+    {
+      "source": "Essential Nutrition",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "2012",
+      "target_type": "company"
+    }
+  ]
+}

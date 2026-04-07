@@ -1,0 +1,362 @@
+{
+  "episode_id": "34748488531",
+  "title": "Reconheça o Copo Vazio e Não Glamourize o que é Trágico - Com Clóvis de Barros | Extremos",
+  "date_published": 1696926600,
+  "duration": 6977,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Clóvis De Barros",
+      "role": "guest",
+      "company": "USP",
+      "title": "Professor e Filósofo"
+    },
+    {
+      "name": "Daniel Castanho",
+      "role": "mentioned",
+      "company": "Ânima Educação",
+      "title": ""
+    },
+    {
+      "name": "John Nash",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sócrates",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Monja Cohen",
+      "role": "mentioned",
+      "company": "",
+      "title": "Monja"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de desenvolvimento de times e liderança"
+    },
+    {
+      "name": "Ânima Educação",
+      "industry": "Educação",
+      "context": "Mencionada como empresa associada a Daniel Castanho"
+    },
+    {
+      "name": "Universidade De Berkeley",
+      "industry": "Educação",
+      "context": "Mencionada em relação ao filósofo Berkeley"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Liderança com contexto",
+      "category": "Estratégia de liderança"
+    },
+    {
+      "name": "Desenvolvimento de times",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Habilidade pessoal"
+    },
+    {
+      "name": "Ética",
+      "category": "Filosofia"
+    },
+    {
+      "name": "filosofia",
+      "category": "framework"
+    },
+    {
+      "name": "pensamento estoico",
+      "category": "framework"
+    },
+    {
+      "name": "educação",
+      "category": "strategy"
+    },
+    {
+      "name": "Storytelling",
+      "category": "framework"
+    },
+    {
+      "name": "Consciência da ignorância",
+      "category": "filosofia"
+    },
+    {
+      "name": "Daimon",
+      "category": "filosofia"
+    },
+    {
+      "name": "Prazer de aprender",
+      "category": "educação"
+    },
+    {
+      "name": "Humildade para aprender",
+      "category": "filosofia"
+    },
+    {
+      "name": "Conhecimento",
+      "category": "philosophical concept"
+    },
+    {
+      "name": "Moral",
+      "category": "philosophical concept"
+    },
+    {
+      "name": "Estética",
+      "category": "philosophical concept"
+    },
+    {
+      "name": "Lei da Atração",
+      "category": "spiritual concept"
+    },
+    {
+      "name": "Ego",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Espírito científico",
+      "category": "Filosofia da ciência"
+    },
+    {
+      "name": "Filosofia atomista",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Percepção do mundo",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Sanidade psíquica",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Crenças estruturais",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Filosofia de Berkeley",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Matrix",
+      "category": "Cultura pop"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Vida Que Vale A Pena Ser Vivida",
+      "author": "Clóvis de Barros"
+    },
+    {
+      "title": "O Segredo dos Seus Olhos",
+      "author": "Eduardo Sacheri"
+    },
+    {
+      "title": "Diálogos entre Ilas e Filonous",
+      "author": "George Berkeley"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "20 livros",
+      "context": "Número de livros publicados por Clóvis de Barros"
+    },
+    {
+      "value": "8 mil",
+      "context": "Número de contratantes potenciais em um evento de palestras mencionado por Clóvis de Barros."
+    },
+    {
+      "value": "8 mil",
+      "context": "Número de participantes em uma palestra mencionada por Clóvis de Barros"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Resiliência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Monja Cohen",
+      "target_type": "person"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "John Nash",
+      "target_type": "person"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Storytelling",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Filosofia De Berkeley",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Daimon",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lei Da Atração",
+      "target_type": "concept"
+    },
+    {
+      "source": "Filosofia De Berkeley",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Matrix",
+      "target_type": "concept"
+    },
+    {
+      "source": "Universidade De Berkeley",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Filosofia De Berkeley",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Conhecimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Humildade Para Aprender",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Prazer De Aprender",
+      "target_type": "concept"
+    },
+    {
+      "source": "Daniel Castanho",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ânima Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Sócrates",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Daimon",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Filosofia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estética",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "O Segredo Dos Seus Olhos",
+      "target_type": "company"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Moral",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Consciência Da Ignorância",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clóvis De Barros",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Usp",
+      "target_type": "company"
+    }
+  ]
+}

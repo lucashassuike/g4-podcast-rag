@@ -1,0 +1,253 @@
+{
+  "episode_id": "47204473327",
+  "title": "Os MELHORES MOMENTOS do PAPO DE GESTÃO em 2025 (insights que VALERAM o ano) | Episódio Especial",
+  "date_published": 1766415600,
+  "duration": 2516,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Alex Ormose",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Adam Mosseri",
+      "role": "mentioned",
+      "company": "Instagram",
+      "title": "CEO"
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "G4",
+      "title": ""
+    },
+    {
+      "name": "Denner",
+      "role": "mentioned",
+      "company": "V4",
+      "title": ""
+    },
+    {
+      "name": "Giovanni Miguel",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fernando Miranda",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Instagram",
+      "industry": "Social Media",
+      "context": "Plataforma mencionada como priorizando marcas pessoais."
+    },
+    {
+      "name": "G4",
+      "industry": "Education and Business Consulting",
+      "context": "Mencionado como local de eventos e aprendizado."
+    },
+    {
+      "name": "V4",
+      "industry": "Marketing and Business Consulting",
+      "context": "Mencionado em relação a tentativas de replicar estratégias de conteúdo."
+    },
+    {
+      "name": "Stark Bank",
+      "industry": "Financeiro",
+      "context": "Mencionado como exemplo de cultura organizacional."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Discussão sobre construção de marca e cultura organizacional."
+    },
+    {
+      "name": "Nike",
+      "industry": "Vestuário e Esportes",
+      "context": "Exemplo de construção de marca."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "marca pessoal",
+      "category": "Marketing"
+    },
+    {
+      "name": "engajamento em redes sociais",
+      "category": "Social Media"
+    },
+    {
+      "name": "método científico",
+      "category": "Framework"
+    },
+    {
+      "name": "growth",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "roteiro viral",
+      "category": "Content Creation"
+    },
+    {
+      "name": "cultura organizacional",
+      "category": "Business Management"
+    },
+    {
+      "name": "Construção de Marca",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Performance e Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Planejamento Orçamentário",
+      "category": "Finanças"
+    },
+    {
+      "name": "Rolling Forecast",
+      "category": "Finanças"
+    },
+    {
+      "name": "DRE (Demonstrativo de Resultados do Exercício)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Fluxo de Caixa",
+      "category": "Finanças"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "551 mil seguidores",
+      "context": "Número de seguidores no Instagram mencionado."
+    },
+    {
+      "value": "322 mil seguidores",
+      "context": "Número de seguidores no YouTube mencionado."
+    },
+    {
+      "value": "200 mil seguidores",
+      "context": "Número de seguidores no Facebook mencionado."
+    },
+    {
+      "value": "300 mil seguidores",
+      "context": "Número de seguidores no TikTok mencionado."
+    },
+    {
+      "value": "1.5 bilhão de dólares",
+      "context": "Faturamento anual do maior vendedor de madeira dos Estados Unidos."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Denner",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "V4",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Adam Mosseri",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Instagram",
+      "target_type": "company"
+    },
+    {
+      "source": "Stark Bank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nike",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Construção De Marca",
+      "target_type": "concept"
+    },
+    {
+      "source": "João",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Construção De Marca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

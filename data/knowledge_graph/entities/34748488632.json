@@ -1,0 +1,517 @@
+{
+  "episode_id": "34748488632",
+  "title": "Fabrício Bloisi (CEO do iFood) - Cultura e Crescimento do iFood | Papo de Gestão com Tallis Gomes",
+  "date_published": 1666600827,
+  "duration": 4570,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Fabrício Bloisi",
+      "role": "guest",
+      "company": "iFood",
+      "title": "CEO"
+    },
+    {
+      "name": "Jorge Paulo Lemann",
+      "role": "mentioned",
+      "company": "3G Capital",
+      "title": ""
+    },
+    {
+      "name": "Marcelo Telles",
+      "role": "mentioned",
+      "company": "3G Capital",
+      "title": ""
+    },
+    {
+      "name": "Beto Sicupira",
+      "role": "mentioned",
+      "company": "3G Capital",
+      "title": ""
+    },
+    {
+      "name": "Peter Diamandis",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": ""
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa organizadora do podcast e mencionada como parte do propósito de gerar empregos."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Tecnologia e Alimentação",
+      "context": "Principal empresa discutida no episódio, liderada por Fabrício Bloisi."
+    },
+    {
+      "name": "Móvel",
+      "industry": "Tecnologia",
+      "context": "Empresa fundada por Fabrício Bloisi, que deu origem ao iFood e outros negócios."
+    },
+    {
+      "name": "Simpla",
+      "industry": "Eventos",
+      "context": "Parte do grupo Móvel, mencionada como ferramenta de eventos."
+    },
+    {
+      "name": "Afterverse",
+      "industry": "Jogos",
+      "context": "Parte do grupo Móvel, mencionada como empresa de jogos."
+    },
+    {
+      "name": "Zup",
+      "industry": "Tecnologia",
+      "context": "Parte do grupo Móvel, mencionada como uma das empresas do grupo."
+    },
+    {
+      "name": "3G Capital",
+      "industry": "Investment",
+      "context": "Referenced in relation to the book 'Sonho Grande' and its founders."
+    },
+    {
+      "name": "Tencent",
+      "industry": "Technology",
+      "context": "Cited as a reference for innovation and business practices."
+    },
+    {
+      "name": "Alibaba",
+      "industry": "E-commerce",
+      "context": "Cited as a reference for innovation and business practices."
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce and Technology",
+      "context": "Mentioned in relation to Jeff Bezos' management practices."
+    },
+    {
+      "name": "Mobile",
+      "industry": "Technology",
+      "context": "Mentioned in relation to M&A activities and collaboration with iFood."
+    },
+    {
+      "name": "Móveli",
+      "industry": "Technology",
+      "context": "Mentioned in the context of its stock option program and its relationship with iFood."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Inovação",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Sonho grande",
+      "category": "Motivação e Propósito"
+    },
+    {
+      "name": "Modelo de gestão",
+      "category": "Gestão"
+    },
+    {
+      "name": "Empresas ambidestras",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Disciplina organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Stock Options",
+      "category": "Employee Compensation"
+    },
+    {
+      "name": "Lean Startup",
+      "category": "Innovation Framework"
+    },
+    {
+      "name": "Ambidestria Organizacional",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Planejamento estratégico",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "KPI (Key Performance Indicator)",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Ritual corporativo",
+      "category": "Business Practices"
+    },
+    {
+      "name": "Empoderamento",
+      "category": "Leadership"
+    },
+    {
+      "name": "Capitalismo consciente",
+      "category": "Economic Philosophy"
+    },
+    {
+      "name": "Impacto social",
+      "category": "Corporate Responsibility"
+    },
+    {
+      "name": "OKR",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Alinhamento estratégico",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Gestão remota",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Silos organizacionais",
+      "category": "Business Challenges"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Finance"
+    },
+    {
+      "name": "IPO (Initial Public Offering)",
+      "category": "Finance"
+    },
+    {
+      "name": "Discipline in Financial Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Economic Inflation",
+      "category": "Economic Concept"
+    },
+    {
+      "name": "Global Recession",
+      "category": "Economic Concept"
+    },
+    {
+      "name": "Innovation",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Strategic Planning",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Mentalidade de Abundância",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "Propósito Empresarial",
+      "category": "Corporate Values"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Regra Não Tem Regras",
+      "author": "Reed Hastings"
+    },
+    {
+      "title": "Sonho Grande",
+      "author": "Cristiane Correa"
+    },
+    {
+      "title": "Organizações Exponenciais",
+      "author": "Salim Ismail"
+    },
+    {
+      "title": "Lean Startup",
+      "author": "Eric Ries"
+    },
+    {
+      "title": "Reimaginando o Capitalismo no Mundo em Chamas",
+      "author": "Rebecca Henderson"
+    },
+    {
+      "title": "Capitalismo Consciente",
+      "author": "John Mackey"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7 mil pessoas",
+      "context": "Número de funcionários no iFood."
+    },
+    {
+      "value": "214 mil empregos",
+      "context": "Empregos gerados pelos alunos do G4 Educação até o momento."
+    },
+    {
+      "value": "250 mil entregadores",
+      "context": "Número de entregadores parceiros do iFood."
+    },
+    {
+      "value": "320 mil restaurantes",
+      "context": "Número de restaurantes parceiros do iFood."
+    },
+    {
+      "value": "Dezenas de bilhões de reais",
+      "context": "Movimentação financeira anual do iFood."
+    },
+    {
+      "value": "6,000",
+      "context": "Number of employees at iFood."
+    },
+    {
+      "value": "100 bilhões de dólares",
+      "context": "Meta de valor de mercado para o iFood."
+    },
+    {
+      "value": "6 mil pessoas",
+      "context": "Número de participantes no evento remoto iFood Share."
+    },
+    {
+      "value": "6,000",
+      "context": "Number of participants in the iFood Share event."
+    },
+    {
+      "value": "100%-300%",
+      "context": "Annual growth rates discussed for companies like iFood."
+    },
+    {
+      "value": "3% growth in GDP",
+      "context": "Brazil's economic growth compared to other countries."
+    },
+    {
+      "value": "Sixth best inflation rate globally",
+      "context": "Brazil's inflation rate in comparison to other nations."
+    },
+    {
+      "value": "50 acquisitions",
+      "context": "Number of M&A activities conducted by iFood and Mobile."
+    },
+    {
+      "value": "6,000",
+      "context": "Number of employees at iFood."
+    },
+    {
+      "value": "1,100",
+      "context": "Number of employees at iFood with stock options."
+    },
+    {
+      "value": "Billions per year",
+      "context": "Transaction volume of iFood."
+    },
+    {
+      "value": "mais de mil pessoas",
+      "context": "Número de pessoas com Stock Options no iFood."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Móvel",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Simpla",
+      "target_type": "company"
+    },
+    {
+      "source": "Móvel",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Zup",
+      "target_type": "company"
+    },
+    {
+      "source": "Jeff Bezos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Amazon",
+      "target_type": "company"
+    },
+    {
+      "source": "M&A (Mergers And Acquisitions)",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabrício Bloisi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Beto Sicupira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "3G Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Innovation",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcelo Telles",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "3G Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Móveli",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabrício Bloisi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sonho Grande",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Strategic Planning",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabrício Bloisi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Móvel",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabrício Bloisi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Alibaba",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Paulo Lemann",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "3G Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "M&A (Mergers And Acquisitions)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Stock Options",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ipo (Initial Public Offering)",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabrício Bloisi",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Regra Não Tem Regras",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Tencent",
+      "target_type": "company"
+    },
+    {
+      "source": "Móvel",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Móvel",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Afterverse",
+      "target_type": "company"
+    },
+    {
+      "source": "Venture Capital",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Ifood",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mobile",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

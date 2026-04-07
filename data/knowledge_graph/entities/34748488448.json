@@ -1,0 +1,478 @@
+{
+  "episode_id": "34748488448",
+  "title": "COMO A FORMA QUE ÍCARO DE CARVALHO ENXERGA A VIDA VAI TE IMPACTAR? | EXTREMOS",
+  "date_published": 1713256200,
+  "duration": 6958,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Chicó Mosquito",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-host"
+    },
+    {
+      "name": "Ícaro De Carvalho",
+      "role": "guest",
+      "company": "Novo Mercado",
+      "title": "Founder"
+    },
+    {
+      "name": "Felipe Neto",
+      "role": "mentioned",
+      "company": "",
+      "title": "Entrepreneur"
+    },
+    {
+      "name": "Jonas",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ana",
+      "role": "mentioned",
+      "company": "",
+      "title": "Spouse of Ícaro de Carvalho"
+    },
+    {
+      "name": "Matheus",
+      "role": "mentioned",
+      "company": "",
+      "title": "Child of Ícaro de Carvalho"
+    },
+    {
+      "name": "Lavínia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Child of Ícaro de Carvalho"
+    },
+    {
+      "name": "Tereza",
+      "role": "mentioned",
+      "company": "",
+      "title": "Child of Ícaro de Carvalho"
+    },
+    {
+      "name": "Samuel",
+      "role": "mentioned",
+      "company": "",
+      "title": "Child of Ícaro de Carvalho"
+    },
+    {
+      "name": "Lucas Ferrugem",
+      "role": "mentioned",
+      "company": "Brasil Paralelo",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Valerim",
+      "role": "mentioned",
+      "company": "Brasil Paralelo",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Leandro",
+      "role": "mentioned",
+      "company": "Brasil Paralelo",
+      "title": "Consultor político"
+    },
+    {
+      "name": "Tiago Nigro",
+      "role": "mentioned",
+      "company": "Primo Rico",
+      "title": "Fundador"
+    },
+    {
+      "name": "Roberto Lifi",
+      "role": "mentioned",
+      "company": "Avenue",
+      "title": "Fundador"
+    },
+    {
+      "name": "Jorge Soros",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marcel Teles",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Charlie Munger",
+      "role": "mentioned",
+      "company": "Berkshire Hathaway",
+      "title": "Vice Chairman"
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "mentioned",
+      "company": "Berkshire Hathaway",
+      "title": "Chairman and CEO"
+    },
+    {
+      "name": "René Girard",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author and Philosopher"
+    },
+    {
+      "name": "Betina",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Peter Thiel",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Joel",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Ben Shimol",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "René Guirra",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts the G4 Podcast"
+    },
+    {
+      "name": "Novo Mercado",
+      "industry": "Education",
+      "context": "Founded by Ícaro de Carvalho"
+    },
+    {
+      "name": "Brasil Paralelo",
+      "industry": "Media and Education",
+      "context": "Discussed as a project Ícaro de Carvalho contributed to"
+    },
+    {
+      "name": "Primo Rico",
+      "industry": "Educação financeira",
+      "context": "Organização de congressos financeiros"
+    },
+    {
+      "name": "Avenue",
+      "industry": "Serviços financeiros",
+      "context": "Plataforma de investimentos internacionais"
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "industry": "Investment and Insurance",
+      "context": "Discussed in relation to Charlie Munger and Warren Buffett."
+    },
+    {
+      "name": "Aramis",
+      "industry": "Moda",
+      "context": "Mencionada em relação a Joel."
+    },
+    {
+      "name": "Brightly",
+      "industry": "Relógios",
+      "context": "Mencionada como marca de relógios com embaixadores."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marketing Digital",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Value Delivery",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Education Technology"
+    },
+    {
+      "name": "CONA (Congresso Nacional)",
+      "category": "Event Strategy"
+    },
+    {
+      "name": "Summit",
+      "category": "Event Strategy"
+    },
+    {
+      "name": "CONA",
+      "category": "Evento/congresso"
+    },
+    {
+      "name": "Lançamento no mercado digital",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Desbancarização",
+      "category": "Conceito financeiro"
+    },
+    {
+      "name": "Internacionalização",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Worldly Wisdom",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Library of Thoughts",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Lollapalooza Effect",
+      "category": "Psychology"
+    },
+    {
+      "name": "Mimetic Desire",
+      "category": "Sociology"
+    },
+    {
+      "name": "Compound Effect",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "ROI",
+      "category": "Métrica de Negócios"
+    },
+    {
+      "name": "Memetic Desire",
+      "category": "Psicologia e Comportamento"
+    },
+    {
+      "name": "Estádio de Tensão",
+      "category": "Psicologia e Comportamento"
+    },
+    {
+      "name": "Efeito de espelhamento",
+      "category": "psicologia"
+    },
+    {
+      "name": "Classes sociais",
+      "category": "sociologia"
+    },
+    {
+      "name": "Esforço e aprendizado",
+      "category": "educação"
+    },
+    {
+      "name": "Consumo de bens materiais",
+      "category": "sociologia"
+    }
+  ],
+  "books": [
+    {
+      "title": "Wanting",
+      "author": "René Girard"
+    },
+    {
+      "title": "Vidas na Sarjeta",
+      "author": "Não mencionado"
+    },
+    {
+      "title": "Podres de Mimados",
+      "author": "Não mencionado"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "200 hours",
+      "context": "Content provided by G4 Skills for employee development"
+    },
+    {
+      "value": "100 milhões",
+      "context": "Faturamento anual do Brasil Paralelo"
+    },
+    {
+      "value": "2,5 a 3 milhões",
+      "context": "Custo de produção por série do Brasil Paralelo"
+    },
+    {
+      "value": "1 milhão",
+      "context": "Pessoas presentes na manifestação na Paulista durante o impeachment da Dilma"
+    },
+    {
+      "value": "160,000",
+      "context": "Number of Instagram stories created by Alfredo Soares."
+    },
+    {
+      "value": "22 milhões",
+      "context": "Número de seguidores mencionados para uma audiência certa."
+    },
+    {
+      "value": "12 mil",
+      "context": "Patrocínio nos últimos quatro meses."
+    },
+    {
+      "value": "300 mil",
+      "context": "Dívidas mencionadas como recebidas em relógios."
+    },
+    {
+      "value": "500 mil a 1 milhão",
+      "context": "Valor estimado de relógios Patek Philippe."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Roberto Lifi",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Avenue",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Brightly",
+      "target_type": "company"
+    },
+    {
+      "source": "Joel",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Aramis",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ícaro De Carvalho",
+      "target_type": "person"
+    },
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Novo Mercado",
+      "target_type": "company"
+    },
+    {
+      "source": "Chicó Mosquito",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Podres De Mimados",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Classes Sociais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Ferrugem",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Brasil Paralelo",
+      "target_type": "company"
+    },
+    {
+      "source": "Valerim",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Brasil Paralelo",
+      "target_type": "company"
+    },
+    {
+      "source": "Warren Buffett",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Berkshire Hathaway",
+      "target_type": "company"
+    },
+    {
+      "source": "René Girard",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Wanting",
+      "target_type": "company"
+    },
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Vidas Na Sarjeta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Classes Sociais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Charlie Munger",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Berkshire Hathaway",
+      "target_type": "company"
+    },
+    {
+      "source": "Ícaro De Carvalho",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Brasil Paralelo",
+      "target_type": "company"
+    },
+    {
+      "source": "Tiago Nigro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Primo Rico",
+      "target_type": "company"
+    }
+  ]
+}

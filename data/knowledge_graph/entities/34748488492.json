@@ -1,0 +1,379 @@
+{
+  "episode_id": "34748488492",
+  "title": "COMO ASSUMIR UMA EMPRESA FAMILIAR E FAZER UMA BOA SUCESSÃO? - COM RICHARD STAD (ARAMIS) | EXTREMOS",
+  "date_published": 1702024200,
+  "duration": 4917,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Fred Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Richard Stad",
+      "role": "guest",
+      "company": "Aramis",
+      "title": "CEO"
+    },
+    {
+      "name": "Henri Stad",
+      "role": "mentioned",
+      "company": "Aramis",
+      "title": "Fundador"
+    },
+    {
+      "name": "Henrique",
+      "role": "mentioned",
+      "company": "Aramis",
+      "title": "Executivo"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Cauã Reymond",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ator"
+    },
+    {
+      "name": "Luciano",
+      "role": "mentioned",
+      "company": "",
+      "title": "Agente"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de mentoria e educação empresarial"
+    },
+    {
+      "name": "Aramis",
+      "industry": "Moda",
+      "context": "Marca de moda masculina brasileira"
+    },
+    {
+      "name": "Adidas",
+      "industry": "Moda",
+      "context": "Mencionada em colaboração com a Gucci."
+    },
+    {
+      "name": "Gucci",
+      "industry": "Moda",
+      "context": "Mencionada em colaboração com a Adidas."
+    },
+    {
+      "name": "Reserva",
+      "industry": "Moda",
+      "context": "Mencionada como exemplo de marca ousada e inovadora."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Planejamento com objetivos e metas",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Execução consistente",
+      "category": "Práticas de Negócios"
+    },
+    {
+      "name": "Fundo de investimento",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "Sucessão empresarial",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Business Management"
+    },
+    {
+      "name": "Roadshow",
+      "category": "Fundraising"
+    },
+    {
+      "name": "Plano A e Plano B",
+      "category": "Decision Making"
+    },
+    {
+      "name": "Inquietude empresarial",
+      "category": "Business Philosophy"
+    },
+    {
+      "name": "Same Store Sales",
+      "category": "Métrica de desempenho"
+    },
+    {
+      "name": "Digital Native Vertical Brands (DNVBs)",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Rebranding",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "CRM",
+      "category": "Ferramenta de gestão de relacionamento com o cliente"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica de valor do cliente"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Mídia de performance",
+      "category": "Estratégia de marketing digital"
+    },
+    {
+      "name": "DNVBs (Digitally Native Vertical Brands)",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Sourcing",
+      "category": "Logística e cadeia de suprimentos"
+    },
+    {
+      "name": "Marketplace de lifestyle masculino",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "NFT (Non-Fungible Token)",
+      "category": "Tecnologia e inovação"
+    }
+  ],
+  "books": [
+    {
+      "title": "Os Três Mosqueteiros",
+      "author": "Alexandre Dumas"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "360 milhões",
+      "context": "Faturamento anual da Aramis em 2021"
+    },
+    {
+      "value": "100 lojas",
+      "context": "Número de lojas da Aramis em 2021"
+    },
+    {
+      "value": "110 milhões",
+      "context": "Faturamento da Aramis em 2012"
+    },
+    {
+      "value": "30 lojas",
+      "context": "Número de lojas da Aramis em 2012"
+    },
+    {
+      "value": "110 lojas",
+      "context": "Número de lojas da Aramis em 2023."
+    },
+    {
+      "value": "470 milhões de faturamento",
+      "context": "Faturamento anual da Aramis em 2023."
+    },
+    {
+      "value": "Mil e poucas multimarcas",
+      "context": "Número de multimarcas associadas à Aramis em 2023."
+    },
+    {
+      "value": "390 mil",
+      "context": "Número de clientes ativos da Aramis nos últimos 12 meses."
+    },
+    {
+      "value": "50%",
+      "context": "Crescimento mensal no número de tickets após o rebranding."
+    },
+    {
+      "value": "97%",
+      "context": "Crescimento de vendas comparáveis (same store sales) no mês anterior."
+    },
+    {
+      "value": "70%",
+      "context": "Crescimento de vendas comparáveis (same store sales) no mês atual."
+    },
+    {
+      "value": "Esgotou em menos de horas",
+      "context": "NFT lançado pela Aramis em parceria com Cauã Reymond."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sucessão Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Plano A E Plano B",
+      "target_type": "concept"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Roadshow",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aramis",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rebranding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aramis",
+      "target_type": "company"
+    },
+    {
+      "source": "Aramis",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Mídia De Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Henrique",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aramis",
+      "target_type": "company"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inquietude Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aramis",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Same Store Sales",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aramis",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Marketplace",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fred Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Stad",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Aramis",
+      "target_type": "company"
+    },
+    {
+      "source": "Henri Stad",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Richard Stad",
+      "target_type": "person"
+    },
+    {
+      "source": "Cauã Reymond",
+      "source_type": "person",
+      "relation": "collaborated_with",
+      "target": "Aramis",
+      "target_type": "company"
+    },
+    {
+      "source": "Richard Stad",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Os Três Mosqueteiros",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Aramis",
+      "target_type": "company"
+    },
+    {
+      "source": "Aramis",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Crm",
+      "target_type": "concept"
+    },
+    {
+      "source": "Adidas",
+      "source_type": "company",
+      "relation": "collaborated_with",
+      "target": "Gucci",
+      "target_type": "company"
+    },
+    {
+      "source": "Reserva",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Aramis",
+      "target_type": "company"
+    }
+  ]
+}

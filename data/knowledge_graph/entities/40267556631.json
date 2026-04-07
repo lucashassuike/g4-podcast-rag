@@ -1,0 +1,286 @@
+{
+  "episode_id": "40267556631",
+  "title": "O SEGREDO DO MERCADO IMOBILIÁRIO QUE NINGUÉM TE CONTA | COM VINICIUS MOTTA",
+  "date_published": 1753272000,
+  "duration": 3218,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Vinicius Motta",
+      "role": "guest",
+      "company": "Minha Casa Financiada",
+      "title": "Founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Diogo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Corretor"
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "Teclatê",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "John Vlogs",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rodrigão Barros",
+      "role": "mentioned",
+      "company": "Positive Brands",
+      "title": ""
+    },
+    {
+      "name": "Guto Galamba",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcast",
+      "industry": "Media",
+      "context": "Podcast de negócios"
+    },
+    {
+      "name": "Teclatê",
+      "industry": "Technology",
+      "context": "Mencionada em relação a Rafa"
+    },
+    {
+      "name": "Minha Casa Financiada",
+      "industry": "Real Estate",
+      "context": "Plataforma de construção e incorporação imobiliária"
+    },
+    {
+      "name": "Mrv",
+      "industry": "Real Estate",
+      "context": "Citada como exemplo de empresa que não opera em mercados pulverizados"
+    },
+    {
+      "name": "Cirela",
+      "industry": "Real Estate",
+      "context": "Citada como exemplo de empresa que não opera em mercados pulverizados"
+    },
+    {
+      "name": "Boalhe",
+      "industry": "Healthtech",
+      "context": "Patrocinadora mencionada no episódio, envolvida em projetos de expansão no Brasil e busca empreendedores qualificados."
+    },
+    {
+      "name": "Positive Brands",
+      "industry": "Foodtech",
+      "context": "Mencionada no contexto de produtos vendidos."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Mercado Imobiliário",
+      "category": "Industry"
+    },
+    {
+      "name": "Fundo Imobiliário",
+      "category": "Finance"
+    },
+    {
+      "name": "Selic",
+      "category": "Finance"
+    },
+    {
+      "name": "Refinanciamento",
+      "category": "Finance"
+    },
+    {
+      "name": "ITBI (Imposto de Transmissão de Bens Imóveis)",
+      "category": "Taxation"
+    },
+    {
+      "name": "Incorporação imobiliária",
+      "category": "Business Practice"
+    },
+    {
+      "name": "Alto padrão",
+      "category": "Market Segment"
+    },
+    {
+      "name": "Médio padrão",
+      "category": "Market Segment"
+    },
+    {
+      "name": "Baixo padrão",
+      "category": "Market Segment"
+    },
+    {
+      "name": "FGTS",
+      "category": "Financial Instrument"
+    },
+    {
+      "name": "Minha Casa Minha Vida",
+      "category": "Government Program"
+    },
+    {
+      "name": "Healthtech",
+      "category": "Industry"
+    },
+    {
+      "name": "Foodtech",
+      "category": "Industry"
+    },
+    {
+      "name": "Steel Frame",
+      "category": "Construction Technology"
+    },
+    {
+      "name": "Light Wall",
+      "category": "Construction Technology"
+    },
+    {
+      "name": "Impressão de casas",
+      "category": "Construction Technology"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "100 milhões",
+      "context": "Valor mencionado por Vinicius Motta"
+    },
+    {
+      "value": "40 milhões",
+      "context": "Valor de uma casa mencionada"
+    },
+    {
+      "value": "1 milhão e meio",
+      "context": "Custo mencionado para um evento"
+    },
+    {
+      "value": "2,5%",
+      "context": "Regra para presentes baseada no custo de festas"
+    },
+    {
+      "value": "100 milhões de reais",
+      "context": "Alvo inicial de captação do fundo"
+    },
+    {
+      "value": "1 bilhão de reais",
+      "context": "Meta de captação do fundo até 2025"
+    },
+    {
+      "value": "10 milhões a 20 milhões de reais",
+      "context": "Valor das casas de alto padrão em São Paulo mencionadas"
+    },
+    {
+      "value": "6%",
+      "context": "Taxa de desemprego mencionada no Brasil."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Minha Casa Financiada",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Cirela",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigão Barros",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Positive Brands",
+      "target_type": "company"
+    },
+    {
+      "source": "Boalhe",
+      "source_type": "company",
+      "relation": "sponsor",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Teclatê",
+      "target_type": "company"
+    },
+    {
+      "source": "Minha Casa Financiada",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Mrv",
+      "target_type": "company"
+    },
+    {
+      "source": "Vinicius Motta",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Minha Casa Financiada",
+      "target_type": "company"
+    },
+    {
+      "source": "Vinicius Motta",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Minha Casa Financiada",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Mercado Imobiliário",
+      "target_type": "concept"
+    },
+    {
+      "source": "Minha Casa Financiada",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Incorporação Imobiliária",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "episode_id": "52618161621",
+  "title": "COMO A IA ENTROU NA ROTINA DO BRUNO NARDON | O JOGO DA IA",
+  "date_published": 1774623600,
+  "duration": 2971,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Iago Martins",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "João Victor",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Time de Tecnologia"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Rafael Milagre",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Time de Tecnologia"
+    },
+    {
+      "name": "Bruno Prado",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Aluno"
+    },
+    {
+      "name": "João Vitor",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "João",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Vitor Meirelles",
+      "role": "mentioned",
+      "company": "Canoe",
+      "title": "Analista"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa mencionada como inovadora e que utiliza IA para otimizar processos."
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Empresa fundada por Bruno Nardon antes de sua atuação no G4 Educação."
+    },
+    {
+      "name": "Openai",
+      "industry": "Tecnologia e IA",
+      "context": "Criadora do ChatGPT, tecnologia mencionada como transformadora."
+    },
+    {
+      "name": "Tesla",
+      "industry": "Automotivo e Tecnologia",
+      "context": "Empresa mencionada em relação ao uso de carros autônomos."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Serviços Financeiros",
+      "context": "Mencionada como fornecedora de número de telefone para WhatsApp Business."
+    },
+    {
+      "name": "Lovable",
+      "industry": "Technology",
+      "context": "Mentioned as a tool for creating websites and analyzing data"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inteligência Artificial (IA)",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "ChatGPT",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Automação de Processos",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Crescimento Escalável",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Tecnologia de Self-Driving",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Python",
+      "category": "Linguagem de Programação"
+    },
+    {
+      "name": "vibe coding",
+      "category": "Técnica de programação"
+    },
+    {
+      "name": "vibe prompting",
+      "category": "Técnica de interação com IA"
+    },
+    {
+      "name": "GitHub",
+      "category": "Plataforma de desenvolvimento colaborativo"
+    },
+    {
+      "name": "Railway",
+      "category": "Plataforma de hospedagem de aplicações"
+    },
+    {
+      "name": "WhatsApp Business",
+      "category": "Ferramenta de comunicação empresarial"
+    },
+    {
+      "name": "MVP (Minimum Viable Product)",
+      "category": "Estratégia de desenvolvimento de produto"
+    },
+    {
+      "name": "hackathon",
+      "category": "Evento de desenvolvimento colaborativo"
+    },
+    {
+      "name": "query",
+      "category": "Técnica de consulta a banco de dados"
+    },
+    {
+      "name": "Prova Social",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "Quick Wins",
+      "category": "Estratégia de Implementação"
+    },
+    {
+      "name": "Engenharia Reversa",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "BI (Business Intelligence)",
+      "category": "Tecnologia e Análise de Dados"
+    },
+    {
+      "name": "Evangelização da IA",
+      "category": "Strategy"
+    },
+    {
+      "name": "Trauma como ferramenta de compreensão",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Execução prática para aprendizado",
+      "category": "Learning Strategy"
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "category": "Technology"
+    },
+    {
+      "name": "Business Transformation",
+      "category": "Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Triplicou a receita",
+      "context": "Crescimento do G4 Educação em 2023 comparado ao ano anterior."
+    },
+    {
+      "value": "5% a 10% de aumento no time",
+      "context": "Crescimento do time do G4 Educação em 2023."
+    },
+    {
+      "value": "duas horas",
+      "context": "Tempo para colocar um projeto inicial no ar."
+    },
+    {
+      "value": "40 minutos a uma hora",
+      "context": "Tempo para adicionar funcionalidades básicas ao bot."
+    },
+    {
+      "value": "15 minutos",
+      "context": "Tempo para gerar relatórios com integração de bases de dados."
+    },
+    {
+      "value": "750 milhões",
+      "context": "Faturamento projetado do G4 Educação para o ano"
+    },
+    {
+      "value": "Tripled",
+      "context": "Faturamento do G4 Educação nos últimos três anos devido à integração de IA."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Iago Martins",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitor Meirelles",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafael Milagre",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Lovable",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "João",
+      "target_type": "person"
+    },
+    {
+      "source": "João Victor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tesla",
+      "source_type": "company",
+      "relation": "utilizes",
+      "target": "Tecnologia De Self-Driving",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "utilizes",
+      "target": "Inteligência Artificial (Ia)",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "utilizes",
+      "target": "Chatgpt",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Prado",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Artificial Intelligence (Ai)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lovable",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Artificial Intelligence (Ai)",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Vitor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Canoe",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Artificial (Ia)",
+      "target_type": "concept"
+    }
+  ]
+}

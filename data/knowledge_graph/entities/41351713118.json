@@ -1,0 +1,148 @@
+{
+  "episode_id": "41351713118",
+  "title": "[CORTE] \"ESSE É O PERFIL IDEAL PARA UM LÍDER DE TECNOLOGIA\" REVELA JOÃO MORESSI",
+  "date_published": 1755464400,
+  "duration": 669,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "João Moressi",
+      "role": "guest",
+      "company": "UPA",
+      "title": "Gestor Principal"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Citada como exemplo de empresa inovadora em desenvolvimento de software."
+    },
+    {
+      "name": "Grupo Cvc",
+      "industry": "Turismo",
+      "context": "Citada como exemplo de empresa inovadora em desenvolvimento de software."
+    },
+    {
+      "name": "Banco Canfor",
+      "industry": "Financeiro",
+      "context": "Citada como exemplo de empresa inovadora em desenvolvimento de software."
+    },
+    {
+      "name": "Upa",
+      "industry": "Tecnologia",
+      "context": "Empresa liderada por João Moressi, focada em desenvolvimento de software e alocação de profissionais."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão de equipe",
+      "category": "Liderança"
+    },
+    {
+      "name": "Infraestrutura de tecnologia",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Cloud computing",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Modelo híbrido de trabalho",
+      "category": "Gestão"
+    },
+    {
+      "name": "Inovação tecnológica",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Desenvolvimento de software",
+      "category": "Tecnologia"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "90%",
+      "context": "Porcentagem de desenvolvedores trabalhando remotamente na UPA."
+    },
+    {
+      "value": "13 anos",
+      "context": "Tempo de liderança de João Moressi na UPA."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Upa",
+      "target_type": "company"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Modelo Híbrido De Trabalho",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Gestão De Equipe",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Banco Canfor",
+      "target_type": "company"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Grupo Cvc",
+      "target_type": "company"
+    },
+    {
+      "source": "João Moressi",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Inovação Tecnológica",
+      "target_type": "concept"
+    }
+  ]
+}

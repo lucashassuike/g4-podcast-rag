@@ -1,0 +1,485 @@
+{
+  "episode_id": "34748488412",
+  "title": "DESVENDANDO UMA CULTURA DE GROWTH - COM LUCAS VARGAS (NOMAD) | PAPO DE GESTÃO",
+  "date_published": 1722241800,
+  "duration": 4461,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Lucas Vargas",
+      "role": "guest",
+      "company": "Nomad",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Logan Roy",
+      "role": "mentioned",
+      "company": "",
+      "title": "Protagonista fictício de Succession"
+    },
+    {
+      "name": "Patrick Lencioni",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Reed Hastings",
+      "role": "mentioned",
+      "company": "Netflix",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Nomad",
+      "industry": "Fintech",
+      "context": "Oferece serviços financeiros no exterior para brasileiros."
+    },
+    {
+      "name": "Viva Real",
+      "industry": "Real Estate",
+      "context": "Lucas Vargas liderou a empresa antes de sua venda para o Grupo OLX."
+    },
+    {
+      "name": "Grupo Olx",
+      "industry": "Marketplace",
+      "context": "Adquiriu o Viva Real em uma das maiores vendas de startups no Brasil."
+    },
+    {
+      "name": "Grupo Sap",
+      "industry": "Software",
+      "context": "Lucas Vargas liderou a empresa antes de sua atuação na Nomad."
+    },
+    {
+      "name": "Itaú",
+      "industry": "Banking",
+      "context": "Mencionado como uma grande instituição financeira brasileira."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Fintech",
+      "context": "Mencionado como uma grande instituição financeira brasileira."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação empresarial",
+      "context": "Mencionado como patrocinador do bloco de gestão e estratégia."
+    },
+    {
+      "name": "Grupo Zap",
+      "industry": "Imobiliário",
+      "context": "Lucas Vargas foi CEO após a fusão com o Viva Real."
+    },
+    {
+      "name": "Olx",
+      "industry": "Classificados online",
+      "context": "Comprou o Grupo Zap por 2,9 bilhões de reais."
+    },
+    {
+      "name": "Husk",
+      "industry": "Financial Technology",
+      "context": "Acquired by Nomad to enhance international transfer capabilities."
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entertainment",
+      "context": "Mentioned in the context of leadership philosophy."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Conta Global",
+      "category": "Banking"
+    },
+    {
+      "name": "Cultura de Growth",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Diversificação de Patrimônio",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Compliance",
+      "category": "Regulatory"
+    },
+    {
+      "name": "Volatilidade Cambial",
+      "category": "Finance"
+    },
+    {
+      "name": "Rebranding",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Customer Acquisition",
+      "category": "Marketing"
+    },
+    {
+      "name": "Fintech",
+      "category": "Industry"
+    },
+    {
+      "name": "Regulatory Compliance",
+      "category": "Legal"
+    },
+    {
+      "name": "Diversification of Investments",
+      "category": "Finance"
+    },
+    {
+      "name": "Long-term Strategy",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Captação de recursos",
+      "category": "Finanças"
+    },
+    {
+      "name": "Unit economics",
+      "category": "Finanças"
+    },
+    {
+      "name": "Gestão de pessoas",
+      "category": "Gestão"
+    },
+    {
+      "name": "Crescimento empresarial",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Leadership",
+      "category": "Management"
+    },
+    {
+      "name": "Growth Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Organizational Change",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Efficiency in Scaling",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Custom Planning Models",
+      "category": "Management"
+    },
+    {
+      "name": "Rapid Execution and Correction",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Gestão e Estratégia",
+      "category": "Educação empresarial"
+    },
+    {
+      "name": "Fusão e Aquisição",
+      "category": "Finanças"
+    },
+    {
+      "name": "Reputação e Confiança",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Generosity in Leadership",
+      "category": "Leadership Philosophy"
+    },
+    {
+      "name": "Feedback Loop",
+      "category": "Management Strategy"
+    },
+    {
+      "name": "Global Financial Ecosystem",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Customer Experience Metric"
+    },
+    {
+      "name": "Leadership Consciousness",
+      "category": "Leadership Philosophy"
+    }
+  ],
+  "books": [
+    {
+      "title": "15 Commitments of Conscious Leadership",
+      "author": "Jim Dethmer, Diana Chapman, Kaley Warner Klemp"
+    },
+    {
+      "title": "The Five Dysfunctions of a Team",
+      "author": "Patrick Lencioni"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "12 meses",
+      "context": "Período em que o termo 'Conta Global' ganhou popularidade."
+    },
+    {
+      "value": "5,65 BRL/USD",
+      "context": "Valor do câmbio mencionado como alta recente."
+    },
+    {
+      "value": "1.6 million clients",
+      "context": "Reported as the number of clients Nomad has achieved in less than five years."
+    },
+    {
+      "value": "120 milhões de dólares",
+      "context": "Total levantado pela Nomad desde sua fundação."
+    },
+    {
+      "value": "61 milhões de dólares",
+      "context": "Valor levantado pela Nomad em 2023."
+    },
+    {
+      "value": "32 milhões de dólares",
+      "context": "Valor levantado pela Nomad em 2022."
+    },
+    {
+      "value": "250 million BRL",
+      "context": "Revenue of Nomad in the previous year."
+    },
+    {
+      "value": "3x growth",
+      "context": "Revenue growth rate of Nomad in the previous year."
+    },
+    {
+      "value": "205 million BRL",
+      "context": "Revenue of G4 Educação in the previous year."
+    },
+    {
+      "value": "500+ employees",
+      "context": "Current employee count at Nomad."
+    },
+    {
+      "value": "2,9 bilhões de reais",
+      "context": "Valor da venda do Grupo Zap para a OLX."
+    },
+    {
+      "value": "600 colaboradores",
+      "context": "Tamanho individual das equipes do Viva Real e do Grupo Zap antes da fusão."
+    },
+    {
+      "value": "1.200 colaboradores",
+      "context": "Tamanho combinado das equipes após a fusão do Viva Real com o Grupo Zap."
+    },
+    {
+      "value": "Two years and a half",
+      "context": "Time Lucas Vargas has been off Instagram."
+    },
+    {
+      "value": "Two per month",
+      "context": "Estimated number of Exame magazine covers per year."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Nomad",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Regulatory Compliance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nomad",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Itaú",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Vargas",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Grupo Sap",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Vargas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Husk",
+      "target_type": "company"
+    },
+    {
+      "source": "Nomad",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Diversification Of Investments",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Vargas",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Viva Real",
+      "target_type": "company"
+    },
+    {
+      "source": "Nomad",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Husk",
+      "target_type": "company"
+    },
+    {
+      "source": "Nomad",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rebranding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Vargas",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "15 Commitments Of Conscious Leadership",
+      "target_type": "company"
+    },
+    {
+      "source": "Viva Real",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Grupo Olx",
+      "target_type": "company"
+    },
+    {
+      "source": "Nomad",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Customer Acquisition",
+      "target_type": "concept"
+    },
+    {
+      "source": "Grupo Zap",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Olx",
+      "target_type": "company"
+    },
+    {
+      "source": "Nomad",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Grupo Zap",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Viva Real",
+      "target_type": "company"
+    },
+    {
+      "source": "Nomad",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Fintech",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Vargas",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Grupo Zap",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Vargas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nomad",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Vargas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Reed Hastings",
+      "target_type": "person"
+    },
+    {
+      "source": "Nomad",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Long-Term Strategy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lucas Vargas",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "The Five Dysfunctions Of A Team",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Vargas",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Viva Real",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

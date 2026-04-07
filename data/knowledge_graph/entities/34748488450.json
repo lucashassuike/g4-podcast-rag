@@ -1,0 +1,271 @@
+{
+  "episode_id": "34748488450",
+  "title": "COMO O SEM PARAR REVOLUCIONOU O SETOR DE PAGAMENTOS - COM GABRIEL PORTO (CMO) | PAPO DE GESTÃO",
+  "date_published": 1712565000,
+  "duration": 3798,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Gabriel Porto",
+      "role": "guest",
+      "company": "Sem Parar",
+      "title": "CMO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Stélio Tolda",
+      "role": "mentioned",
+      "company": "Mercado Livre",
+      "title": "Executivo"
+    },
+    {
+      "name": "Stélio Toda",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Daniel Fittipaldi",
+      "role": "mentioned",
+      "company": "DaFit",
+      "title": ""
+    },
+    {
+      "name": "Brian",
+      "role": "mentioned",
+      "company": "Viva Real",
+      "title": ""
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "Viva Real",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Sem Parar",
+      "industry": "Mobilidade e Pagamentos",
+      "context": "Empresa discutida no episódio, foco em mobilidade e pagamentos veiculares."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Empresa dos hosts, mencionada no contexto de treinamento de equipes."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Empresa onde Gabriel Porto trabalhou anteriormente."
+    },
+    {
+      "name": "Dafiti",
+      "industry": "E-commerce de Moda",
+      "context": "Empresa onde Gabriel Porto trabalhou anteriormente."
+    },
+    {
+      "name": "Grupo Zap",
+      "industry": "Imobiliário",
+      "context": "Empresa onde Gabriel Porto trabalhou anteriormente."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Delivery de Alimentos",
+      "context": "Mencionado como exemplo de empresa com estratégias de inovação."
+    },
+    {
+      "name": "Buscapé",
+      "industry": "Comparação de Preços",
+      "context": "Mencionado em comparação com Mercado Livre."
+    },
+    {
+      "name": "Dafit",
+      "industry": "E-commerce",
+      "context": "Discussed as a case study in building an e-commerce platform for fashion in Latin America."
+    },
+    {
+      "name": "Viva Real",
+      "industry": "Real Estate",
+      "context": "Discussed as a company where Gabriel Porto worked, focusing on SEO, app development, and B2B education."
+    },
+    {
+      "name": "Zap",
+      "industry": "Real Estate",
+      "context": "Mentioned as a competitor to Viva Real."
+    },
+    {
+      "name": "Olx",
+      "industry": "Classifieds",
+      "context": "Mentioned in the context of Viva Real's sale."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Rebranding",
+      "category": "Estratégia de Marca"
+    },
+    {
+      "name": "Cross-sell",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "Segmentação de Mercado",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Segmentação de Produto",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Gestão"
+    },
+    {
+      "name": "Fake Door Testing",
+      "category": "Metodologia de Teste"
+    },
+    {
+      "name": "Ambidestralidade Organizacional",
+      "category": "Gestão de Inovação"
+    },
+    {
+      "name": "Click-Through Rate (CTR)",
+      "category": "Métrica de Marketing Digital"
+    },
+    {
+      "name": "SEO",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Business Model"
+    },
+    {
+      "name": "B2B Education",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "App Development",
+      "category": "Technology"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "7 milhões",
+      "context": "Número de tags do Sem Parar mencionadas no episódio."
+    },
+    {
+      "value": "3 mil colaboradores",
+      "context": "Número de colaboradores do Sem Parar mencionado."
+    },
+    {
+      "value": "80 para 120 pessoas",
+      "context": "Crescimento do time de Gabriel Porto no Sem Parar."
+    },
+    {
+      "value": "7 milhões",
+      "context": "Número de clientes do Sem Parar."
+    },
+    {
+      "value": "Three years",
+      "context": "Gabriel Porto's tenure at Viva Real."
+    },
+    {
+      "value": "Eight months",
+      "context": "DaFit's age when Gabriel Porto joined."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Viva Real",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Olx",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Buscapé",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Porto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Viva Real",
+      "target_type": "company"
+    },
+    {
+      "source": "Sem Parar",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Porto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sem Parar",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Porto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Dafiti",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Porto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Porto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Dafit",
+      "target_type": "company"
+    },
+    {
+      "source": "Viva Real",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Zap",
+      "target_type": "company"
+    },
+    {
+      "source": "Stélio Tolda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Porto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Grupo Zap",
+      "target_type": "company"
+    }
+  ]
+}

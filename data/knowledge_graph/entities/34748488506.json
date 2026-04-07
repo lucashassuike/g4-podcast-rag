@@ -1,0 +1,61 @@
+{
+  "episode_id": "34748488506",
+  "title": "Como Evoluir a Liderança da sua Empresa? | G4 Podcasts",
+  "date_published": 1700145128,
+  "duration": 1313,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Thales Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa cofundada por Thales Gomes, mencionada no contexto de liderança e desenvolvimento de habilidades."
+    },
+    {
+      "name": "Btg Pactual",
+      "industry": "Serviços financeiros",
+      "context": "Mencionado no contexto de desenvolvimento de liderança e cultura organizacional."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Planejamento com objetivos e metas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Execução consistente",
+      "category": "Habilidade de liderança"
+    },
+    {
+      "name": "Desenvolvimento de liderança interna",
+      "category": "Cultura organizacional"
+    },
+    {
+      "name": "Framework de tomada de decisão",
+      "category": "Estratégia de negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "250%",
+      "context": "Crescimento do QI da empresa nos últimos cinco anos."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

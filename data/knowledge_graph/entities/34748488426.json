@@ -1,0 +1,287 @@
+{
+  "episode_id": "34748488426",
+  "title": "GUILHERME BENCHIMOL E AS LIÇÕES DE LIDERANÇA NA XP - G4 PODCASTS",
+  "date_published": 1718353800,
+  "duration": 3319,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Guilherme Benchimol",
+      "role": "guest",
+      "company": "XP Inc.",
+      "title": "Fundador e Presidente Executivo do Conselho de Administração"
+    },
+    {
+      "name": "João Vitor",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio e CPTU"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Xp Inc.",
+      "industry": "Financeiro",
+      "context": "Instituição financeira brasileira especializada em investimentos e corretagem de valores mobiliários"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Empresa focada em mentoria e desenvolvimento de habilidades empresariais"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Finance",
+      "context": "Discussed as a case study for leadership and organizational culture."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Desbancarização de investimentos",
+      "category": "Estratégia de mercado"
+    },
+    {
+      "name": "Empoderamento de equipe",
+      "category": "Gestão"
+    },
+    {
+      "name": "Humildade intelectual",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Meritocracia",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Coeficiente emocional",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Rotina",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Liderança",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Transformação pessoal",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Organização pessoal",
+      "category": "Desenvolvimento Pessoal"
+    }
+  ],
+  "books": [
+    {
+      "title": "Na Raça",
+      "author": "Guilherme Benchimol"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "R$ 105 bilhões",
+      "context": "Fluxo positivo líquido da XP Inc. em 2023"
+    },
+    {
+      "value": "R$ 72 bilhões",
+      "context": "Ganhos de mercado da XP Inc. em 2023"
+    },
+    {
+      "value": "Mais de um trilhão",
+      "context": "Ativos de clientes da XP Inc. em 2023"
+    },
+    {
+      "value": "6,000 funcionários",
+      "context": "Current size of XP Inc as mentioned by Guilherme Benchimol."
+    },
+    {
+      "value": "15,000 assessores",
+      "context": "Number of advisors associated with XP Inc."
+    },
+    {
+      "value": "20 anos",
+      "context": "Tempo de Guilherme Benchimol como CEO da XP Inc"
+    },
+    {
+      "value": "2 anos",
+      "context": "Tempo de Guilherme Benchimol como Presidente do Conselho da XP Inc"
+    },
+    {
+      "value": "13 anos",
+      "context": "Idade da filha mais velha de Guilherme Benchimol"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Liderança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mentoria",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Desbancarização De Investimentos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Organização Pessoal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Na Raça",
+      "target_type": "company"
+    },
+    {
+      "source": "João Vitor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Transformação Pessoal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Humildade Intelectual",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Disciplina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Empoderamento De Equipe",
+      "target_type": "concept"
+    },
+    {
+      "source": "Guilherme Benchimol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xp Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

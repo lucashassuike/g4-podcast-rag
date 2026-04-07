@@ -1,0 +1,301 @@
+{
+  "episode_id": "46439298504",
+  "title": "O ERRO QUE FAZ EMPRESAS QUEBRAREM MESMO TENDO LUCRO COM GIOVANNI COLACICCO | PAPO DE GESTÃO",
+  "date_published": 1765206001,
+  "duration": 3510,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Giovanni Colacicco",
+      "role": "guest",
+      "company": "E-Conexão",
+      "title": "Founder"
+    },
+    {
+      "name": "Adhemar Dekaroli",
+      "role": "mentioned",
+      "company": "Klabin",
+      "title": "Former Director"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts the G4 Podcast and provides mentorship programs."
+    },
+    {
+      "name": "E-Conexão",
+      "industry": "Financial Services",
+      "context": "Founded by Giovanni Colacicco, focuses on financial management and control."
+    },
+    {
+      "name": "Klabin",
+      "industry": "Paper and Pulp",
+      "context": "Adhemar Dekaroli was a former director."
+    },
+    {
+      "name": "Grupo Matarazzo",
+      "industry": "Industrial Conglomerate",
+      "context": "Adhemar Dekaroli was a former director."
+    },
+    {
+      "name": "Bling",
+      "industry": "Software de Gestão Empresarial",
+      "context": "Mencionado como um dos sistemas ERP disponíveis no mercado."
+    },
+    {
+      "name": "Omie",
+      "industry": "Software de Gestão Empresarial",
+      "context": "Mencionado como um dos sistemas ERP disponíveis no mercado."
+    },
+    {
+      "name": "Conta Azul",
+      "industry": "Software de Gestão Empresarial",
+      "context": "Mencionado como um dos sistemas ERP disponíveis no mercado."
+    },
+    {
+      "name": "Totos",
+      "industry": "Software de Gestão Empresarial",
+      "context": "Mencionado como um dos sistemas ERP disponíveis no mercado."
+    },
+    {
+      "name": "Sap",
+      "industry": "Software de Gestão Empresarial",
+      "context": "Mencionado como um dos sistemas ERP disponíveis no mercado."
+    },
+    {
+      "name": "E Conexão",
+      "industry": "Consultoria e Controladoria",
+      "context": "Empresa fundada por Giovanni Colacicco para ajudar empresários com controladoria e gestão financeira."
+    },
+    {
+      "name": "Canoe",
+      "industry": "Varejo",
+      "context": "Empresa mencionada por Bruno Nardon como sua primeira empresa de sucesso no setor de varejo."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "DRE (Demonstração do Resultado do Exercício)",
+      "category": "Financial Reporting"
+    },
+    {
+      "name": "Margem de Contribuição",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Balanço Patrimonial",
+      "category": "Financial Reporting"
+    },
+    {
+      "name": "Fluxo de Caixa",
+      "category": "Financial Management"
+    },
+    {
+      "name": "RFA (Raciocínio Financeiro Aplicado)",
+      "category": "Financial Methodology"
+    },
+    {
+      "name": "ERP (Enterprise Resource Planning)",
+      "category": "Business Software"
+    },
+    {
+      "name": "Cultura Financeira",
+      "category": "Conceito de Gestão"
+    },
+    {
+      "name": "Plano de Contas",
+      "category": "Conceito de Contabilidade"
+    },
+    {
+      "name": "Payback",
+      "category": "Conceito Financeiro"
+    },
+    {
+      "name": "Ativo circulante",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "Passivo circulante",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "Capital circulante líquido (CCR)",
+      "category": "Gestão Financeira"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "5 milhões por mês",
+      "context": "Faturamento da empresa familiar de Giovanni Colacicco em valores atualizados."
+    },
+    {
+      "value": "500 projetos",
+      "context": "Número de projetos realizados utilizando o método RFA."
+    },
+    {
+      "value": "100 turmas",
+      "context": "Número de turmas formadas por Giovanni Colacicco no G4 Educação."
+    },
+    {
+      "value": "1 a 3 milhões por ano",
+      "context": "Faturamento de empresas com 10 colaboradores."
+    },
+    {
+      "value": "5 a 15 milhões por ano",
+      "context": "Faturamento de empresas com 10 a 50 colaboradores."
+    },
+    {
+      "value": "15 a 20 milhões por ano",
+      "context": "Faturamento de empresas com 40 a 50 colaboradores."
+    },
+    {
+      "value": "100 empresas simultâneas",
+      "context": "Número de empresas atendidas pela E Conexão atualmente."
+    },
+    {
+      "value": "6 milhões de custo fixo",
+      "context": "Exemplo de custo fixo mencionado por Bruno Nardon para ilustrar gestão financeira."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Giovanni Colacicco",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Erp (Enterprise Resource Planning)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Conta Azul",
+      "target_type": "company"
+    },
+    {
+      "source": "Giovanni Colacicco",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Adhemar Dekaroli",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Grupo Matarazzo",
+      "target_type": "company"
+    },
+    {
+      "source": "Erp (Enterprise Resource Planning)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Sap",
+      "target_type": "company"
+    },
+    {
+      "source": "Erp (Enterprise Resource Planning)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Totos",
+      "target_type": "company"
+    },
+    {
+      "source": "Giovanni Colacicco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "E Conexão",
+      "target_type": "company"
+    },
+    {
+      "source": "Erp (Enterprise Resource Planning)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Omie",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Adhemar Dekaroli",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Klabin",
+      "target_type": "company"
+    },
+    {
+      "source": "Giovanni Colacicco",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Adhemar Dekaroli",
+      "target_type": "person"
+    },
+    {
+      "source": "Rfa (Raciocínio Financeiro Aplicado)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Cultura Financeira",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rfa (Raciocínio Financeiro Aplicado)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Plano De Contas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Erp (Enterprise Resource Planning)",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Bling",
+      "target_type": "company"
+    },
+    {
+      "source": "Giovanni Colacicco",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "E-Conexão",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Canoe",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "episode_id": "37049808916",
+  "title": "O QUE APRENDI LIDERANDO A EASY TAXI E O NUBANK COM DENNIS WANG | PAPO DE GESTÃO",
+  "date_published": 1746435600,
+  "duration": 4060,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Dennis Wang",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Investidor, Advisor e Mentor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Cris",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": ""
+    },
+    {
+      "name": "Ed",
+      "role": "mentioned",
+      "company": "Nubank",
+      "title": "CTO e Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Easy Taxi",
+      "industry": "Mobilidade Urbana",
+      "context": "Dennis Wang foi co-CEO e liderou a expansão para 35 países."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Serviços Financeiros",
+      "context": "Dennis Wang atuou como VP de Operações, escalando de 2 para 20 milhões de clientes."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Dennis Wang atua como mentor, investidor e advisor com foco em liderança, cultura e gestão de pessoas."
+    },
+    {
+      "name": "Banco Central",
+      "industry": "Regulação Financeira",
+      "context": "Discussão sobre mudanças regulatórias e impacto no Nubank."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Gestão"
+    },
+    {
+      "name": "Liderança",
+      "category": "Gestão"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Crescimento Sustentável",
+      "category": "Estratégia"
+    },
+    {
+      "name": "CAC (Custo de Aquisição de Cliente)",
+      "category": "Métrica"
+    },
+    {
+      "name": "LTV (Lifetime Value)",
+      "category": "Métrica"
+    },
+    {
+      "name": "Hyper Growth",
+      "category": "Crescimento Empresarial"
+    },
+    {
+      "name": "Smart Efficiency",
+      "category": "Estratégia Operacional"
+    },
+    {
+      "name": "Middle Management",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Outsourcing",
+      "category": "Estratégia Operacional"
+    },
+    {
+      "name": "BPO (Business Process Outsourcing)",
+      "category": "Estratégia Operacional"
+    },
+    {
+      "name": "Onboarding",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Avaliação de Desempenho",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Autonomia e Responsabilidade",
+      "category": "Gestão"
+    },
+    {
+      "name": "All Hands",
+      "category": "Gestão de Comunicação"
+    },
+    {
+      "name": "Iron Man",
+      "category": "Esporte"
+    },
+    {
+      "name": "70.3",
+      "category": "Esporte"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "35 países",
+      "context": "Expansão da Easy Taxi sob liderança de Dennis Wang."
+    },
+    {
+      "value": "20 milhões de clientes",
+      "context": "Escala do Nubank durante a gestão de Dennis Wang."
+    },
+    {
+      "value": "2 milhões de clientes",
+      "context": "Número de clientes no início da gestão de Dennis Wang no Nubank."
+    },
+    {
+      "value": "20 milhões de clientes",
+      "context": "Número de clientes alcançados durante a gestão de Dennis Wang no Nubank."
+    },
+    {
+      "value": "3.800 metros",
+      "context": "Distância de natação no Iron Man"
+    },
+    {
+      "value": "180 quilômetros",
+      "context": "Distância de ciclismo no Iron Man"
+    },
+    {
+      "value": "42.195 quilômetros",
+      "context": "Distância de corrida no Iron Man (maratona)"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Rappi",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Uber",
+      "target_type": "company"
+    },
+    {
+      "source": "Ed",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Dennis Wang",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    }
+  ]
+}

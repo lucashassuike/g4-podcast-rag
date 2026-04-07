@@ -1,0 +1,707 @@
+{
+  "episode_id": "34748488428",
+  "title": "COMO USAR A CRIATIVIDADE A FAVOR DO NEGÓCIO - COM CEO DA OGILVY, LUIZ FERNANDO MUSA | PAPO DE GESTÃO",
+  "date_published": 1718008200,
+  "duration": 5843,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Luiz Fernando Musa",
+      "role": "guest",
+      "company": "Ogilvy Brasil",
+      "title": "CEO"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Priscila",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Ariel",
+      "role": "mentioned",
+      "company": "ALE",
+      "title": "President"
+    },
+    {
+      "name": "Irã Castelo Branco",
+      "role": "mentioned",
+      "company": "Agência não especificada",
+      "title": "Dono"
+    },
+    {
+      "name": "Angélica Armentano",
+      "role": "mentioned",
+      "company": "Ogilvy",
+      "title": "Vice-presidente"
+    },
+    {
+      "name": "Jeffrey",
+      "role": "mentioned",
+      "company": "Ogilvy",
+      "title": "Gringo novo"
+    },
+    {
+      "name": "Angélica",
+      "role": "mentioned",
+      "company": "Ogilvy",
+      "title": "Supervisor"
+    },
+    {
+      "name": "Salim Matata",
+      "role": "mentioned",
+      "company": "Localiza",
+      "title": "Executive"
+    },
+    {
+      "name": "Marcela",
+      "role": "mentioned",
+      "company": "Freelance",
+      "title": "Contractor"
+    },
+    {
+      "name": "Rafa Donato",
+      "role": "mentioned",
+      "company": "David",
+      "title": "Head de Criação"
+    },
+    {
+      "name": "Vanessa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Frederico Trajano",
+      "role": "mentioned",
+      "company": "Magazine Luiza",
+      "title": "Diretor de Marketing"
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Júlio",
+      "role": "mentioned",
+      "company": "Unilever",
+      "title": ""
+    },
+    {
+      "name": "Larissa Manoela",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Victor Frankl",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Carla Madeira",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Ogilvy Brasil",
+      "industry": "Advertising",
+      "context": "Discussed as a leading advertising agency under Luiz Fernando Musa's leadership."
+    },
+    {
+      "name": "David",
+      "industry": "Advertising",
+      "context": "Founded by Luiz Fernando Musa, recognized as a global and creative agency."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Discussed as a company leveraging branding and advertising strategies."
+    },
+    {
+      "name": "Ogilvy",
+      "industry": "Advertising",
+      "context": "Discussed as a leading advertising agency with creative campaigns."
+    },
+    {
+      "name": "Nestlé",
+      "industry": "Food and Beverage",
+      "context": "Mentioned as a client in advertising campaigns."
+    },
+    {
+      "name": "Unilever",
+      "industry": "Consumer Goods",
+      "context": "Discussed in relation to Dove's Real Beauty campaign."
+    },
+    {
+      "name": "Coca-Cola",
+      "industry": "Beverages",
+      "context": "Mentioned as a client in advertising campaigns."
+    },
+    {
+      "name": "Mondelez",
+      "industry": "Food and Beverage",
+      "context": "Mentioned as a client in advertising campaigns."
+    },
+    {
+      "name": "Burger King",
+      "industry": "Food and Beverage",
+      "context": "Discussed as a client with transformative advertising campaigns."
+    },
+    {
+      "name": "Magalu",
+      "industry": "Retail",
+      "context": "Discussed as a client with consistent advertising campaigns over 15 years."
+    },
+    {
+      "name": "Thompson",
+      "industry": "Publicidade",
+      "context": "Primeiro emprego do tio-avô de Luiz Fernando Musa"
+    },
+    {
+      "name": "Nissin",
+      "industry": "Alimentação",
+      "context": "Cliente da agência japonesa onde Luiz Fernando Musa trabalhou"
+    },
+    {
+      "name": "Yamaha",
+      "industry": "Automotivo",
+      "context": "Cliente da agência japonesa onde Luiz Fernando Musa trabalhou"
+    },
+    {
+      "name": "Localiza",
+      "industry": "Automotivo",
+      "context": "Conta de seminovos trabalhada por Luiz Fernando Musa"
+    },
+    {
+      "name": "Medics",
+      "industry": "Equipamentos de Proteção Individual (EPI)",
+      "context": "Empresa mencionada como exemplo de cliente que começou pequeno e cresceu."
+    },
+    {
+      "name": "Magazine Luiza",
+      "industry": "Varejo",
+      "context": "Cliente de longa data da Ogilvy, com trabalho destacado na entrada em São Paulo."
+    },
+    {
+      "name": "Rede Globo",
+      "industry": "Mídia e Entretenimento",
+      "context": "Mencionada no contexto de consolidação de mercado e fomento ao empreendedorismo."
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Mencionada no contexto de consolidação de mercado e fomento ao empreendedorismo."
+    },
+    {
+      "name": "Samsung",
+      "industry": "Technology",
+      "context": "Discussed in relation to a product demo and creativity"
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Discussed in relation to a product demo and creativity"
+    },
+    {
+      "name": "Compra Agora",
+      "industry": "E-commerce",
+      "context": "Mentioned as a company Júlio moved to"
+    },
+    {
+      "name": "Mcdonald'S",
+      "industry": "Food Service",
+      "context": "Discussed in comparison to Burger King"
+    },
+    {
+      "name": "Canoe",
+      "industry": "E-commerce",
+      "context": "Canoe foi mencionada como a segunda empresa de um dos hosts."
+    },
+    {
+      "name": "África",
+      "industry": "Advertising",
+      "context": "A agência África colaborou com a Canoe em um case publicitário."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "creativity",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "advertising campaigns",
+      "category": "Marketing"
+    },
+    {
+      "name": "brand positioning",
+      "category": "Marketing"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Training Platform"
+    },
+    {
+      "name": "Creativity in Advertising",
+      "category": "Strategy"
+    },
+    {
+      "name": "Real Beauty Campaign",
+      "category": "Marketing"
+    },
+    {
+      "name": "Advertising Agency Roles",
+      "category": "Business Operations"
+    },
+    {
+      "name": "Social Media Evolution",
+      "category": "Technology"
+    },
+    {
+      "name": "Creator Economy",
+      "category": "Business Trends"
+    },
+    {
+      "name": "Publicidade",
+      "category": "Indústria"
+    },
+    {
+      "name": "Planejamento",
+      "category": "Função de agência"
+    },
+    {
+      "name": "Atendimento",
+      "category": "Função de agência"
+    },
+    {
+      "name": "Redação",
+      "category": "Função de agência"
+    },
+    {
+      "name": "Resilience",
+      "category": "Leadership"
+    },
+    {
+      "name": "Frictionless Experience",
+      "category": "Customer Experience"
+    },
+    {
+      "name": "Generational Differences",
+      "category": "Sociology"
+    },
+    {
+      "name": "Leadership Challenges",
+      "category": "Management"
+    },
+    {
+      "name": "Liderança",
+      "category": "Gestão"
+    },
+    {
+      "name": "Criatividade",
+      "category": "Publicidade"
+    },
+    {
+      "name": "Estrutura Interna vs. Agência Externa",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Estrutura Interna",
+      "category": "Gestão"
+    },
+    {
+      "name": "Retenção de Talentos",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Modelo de House",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Fomento ao Empreendedorismo",
+      "category": "Desenvolvimento Econômico"
+    },
+    {
+      "name": "Três Fs (Fun, Fortune, Fame)",
+      "category": "Estratégia de Prospecção"
+    },
+    {
+      "name": "Erro Compartilhado",
+      "category": "Gestão de Projetos"
+    },
+    {
+      "name": "Marketing Campaigns",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Error Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Crisis Management",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Crise de reputação",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Campanhas publicitárias",
+      "category": "Marketing"
+    },
+    {
+      "name": "Gestão de crises",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Propósito",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Marketing de performance",
+      "category": "Marketing"
+    },
+    {
+      "name": "Leão de Cannes",
+      "category": "Advertising Awards"
+    }
+  ],
+  "books": [
+    {
+      "title": "Em Busca de Sentido",
+      "author": "Victor Frankl"
+    },
+    {
+      "title": "Tudo é Rio",
+      "author": "Carla Madeira"
+    },
+    {
+      "title": "Véspera",
+      "author": "Carla Madeira"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "130 Leões de Cannes",
+      "context": "Awards won by Ogilvy Brasil under Luiz Fernando Musa's leadership."
+    },
+    {
+      "value": "30 years",
+      "context": "Luiz Fernando Musa's tenure at Ogilvy Brasil."
+    },
+    {
+      "value": "6 countries",
+      "context": "David operates in six countries."
+    },
+    {
+      "value": "20 years",
+      "context": "Duration of Dove's Real Beauty campaign."
+    },
+    {
+      "value": "1.500 reais",
+      "context": "Salário inicial oferecido a Luiz Fernando Musa na Ogilvy"
+    },
+    {
+      "value": "28 anos",
+      "context": "Tempo de Luiz Fernando Musa na Ogilvy."
+    },
+    {
+      "value": "500 pessoas",
+      "context": "Número de funcionários da Ogilvy no Brasil."
+    },
+    {
+      "value": "180 pessoas",
+      "context": "Número de funcionários da David no Brasil."
+    },
+    {
+      "value": "550 pessoas",
+      "context": "Número de funcionários da David globalmente."
+    },
+    {
+      "value": "R$ 9,90",
+      "context": "Promotional price error for Dove Desodorante"
+    },
+    {
+      "value": "100 milhões de prêmios Cannes",
+      "context": "Número de prêmios mencionados por Luiz Fernando Musa."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Burger King",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Creativity In Advertising",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luiz Fernando Musa",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Thompson",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafa Donato",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "David",
+      "target_type": "company"
+    },
+    {
+      "source": "Ogilvy",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rede Globo",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Marketing",
+      "target_type": "concept"
+    },
+    {
+      "source": "Canoe",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "África",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Fernando Musa",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "David",
+      "target_type": "company"
+    },
+    {
+      "source": "David",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Advertising",
+      "target_type": "company"
+    },
+    {
+      "source": "Ogilvy",
+      "source_type": "company",
+      "relation": "works_with",
+      "target": "Medics",
+      "target_type": "company"
+    },
+    {
+      "source": "Carla Madeira",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Véspera",
+      "target_type": "company"
+    },
+    {
+      "source": "Jeffrey",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ogilvy",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Fernando Musa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ogilvy",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Unilever",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Fernando Musa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Creativity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luiz Fernando Musa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "David",
+      "target_type": "company"
+    },
+    {
+      "source": "Ogilvy",
+      "source_type": "company",
+      "relation": "works_with",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Fernando Musa",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Localiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Ogilvy",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Advertising",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Fernando Musa",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Yamaha",
+      "target_type": "company"
+    },
+    {
+      "source": "Carla Madeira",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Tudo É Rio",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Fernando Musa",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Localiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Fernando Musa",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Nissin",
+      "target_type": "company"
+    },
+    {
+      "source": "Burger King",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Mcdonald'S",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "works_with",
+      "target": "Ogilvy",
+      "target_type": "company"
+    },
+    {
+      "source": "Ogilvy",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Júlio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Compra Agora",
+      "target_type": "company"
+    },
+    {
+      "source": "Angélica Armentano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ogilvy",
+      "target_type": "company"
+    },
+    {
+      "source": "Victor Frankl",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Em Busca De Sentido",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Fernando Musa",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Ogilvy",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "David",
+      "target_type": "company"
+    },
+    {
+      "source": "Luiz Fernando Musa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Ogilvy Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Frederico Trajano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Magazine Luiza",
+      "target_type": "company"
+    },
+    {
+      "source": "Unilever",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Real Beauty Campaign",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "episode_id": "34748488481",
+  "title": "DA CONSTRUÇÃO DE UM MVP À VENDA BILIONÁRIA - COM ERIC SANTOS RD STATION | PAPO DE GESTÃO",
+  "date_published": 1704186000,
+  "duration": 3625,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Eric Santos",
+      "role": "guest",
+      "company": "RD Station",
+      "title": "Fundador e CEO"
+    },
+    {
+      "name": "Guga Kirten",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Reed Hastings",
+      "role": "mentioned",
+      "company": "Netflix",
+      "title": "CEO"
+    },
+    {
+      "name": "Jeff Wiener",
+      "role": "mentioned",
+      "company": "LinkedIn",
+      "title": "CEO"
+    },
+    {
+      "name": "Juliano Tubino",
+      "role": "mentioned",
+      "company": "RD Station",
+      "title": "CEO"
+    },
+    {
+      "name": "Denis",
+      "role": "mentioned",
+      "company": "TOTS",
+      "title": "Executive"
+    },
+    {
+      "name": "Juliana",
+      "role": "mentioned",
+      "company": "RD Station",
+      "title": "Former CRO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Empresa mencionada como exemplo de mentoria e desenvolvimento de habilidades empresariais."
+    },
+    {
+      "name": "Rd Station",
+      "industry": "Tecnologia e Marketing Digital",
+      "context": "Empresa fundada por Eric Santos, anteriormente chamada Resultados Digitais."
+    },
+    {
+      "name": "Hubspot",
+      "industry": "Tecnologia e Marketing Digital",
+      "context": "Empresa mencionada como referência no mercado de inbound marketing."
+    },
+    {
+      "name": "Marketo",
+      "industry": "Tecnologia e Marketing Digital",
+      "context": "Empresa mencionada como referência no mercado de inbound marketing."
+    },
+    {
+      "name": "Tpg Growth",
+      "industry": "Venture Capital",
+      "context": "Led a funding round for RD Station in 2016"
+    },
+    {
+      "name": "Riverwood Capital",
+      "industry": "Venture Capital",
+      "context": "Led a funding round for RD Station in 2019"
+    },
+    {
+      "name": "Tots",
+      "industry": "Technology",
+      "context": "Acquired RD Station"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inbound Marketing",
+      "category": "Marketing"
+    },
+    {
+      "name": "Product-Market Fit",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Efeito Composto",
+      "category": "Finanças e Crescimento"
+    },
+    {
+      "name": "Initial Traction",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Series A e Series B",
+      "category": "Investimento e Financiamento"
+    },
+    {
+      "name": "MVP",
+      "category": "Product Development"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "VC (Venture Capital)",
+      "category": "Finance"
+    },
+    {
+      "name": "Earn Out",
+      "category": "Finance"
+    },
+    {
+      "name": "Equity",
+      "category": "Finance"
+    },
+    {
+      "name": "governança corporativa",
+      "category": "business strategy"
+    },
+    {
+      "name": "sinergia empresarial",
+      "category": "business strategy"
+    },
+    {
+      "name": "transição de liderança",
+      "category": "business strategy"
+    },
+    {
+      "name": "relacionamento com o mercado",
+      "category": "business strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "18 mil pessoas por dia",
+      "context": "Número de participantes no RD Summit 2023."
+    },
+    {
+      "value": "50 colaboradores",
+      "context": "Tamanho da equipe na empresa anterior de Eric Santos antes de fundar a RD Station."
+    },
+    {
+      "value": "300",
+      "context": "Number of employees at RD Station in 2016"
+    },
+    {
+      "value": "100 million reais",
+      "context": "Revenue of RD CRM business"
+    },
+    {
+      "value": "50 million dollars",
+      "context": "Funding raised by RD Station in 2019"
+    },
+    {
+      "value": "2 billion reais",
+      "context": "Valuation of RD Station at the time of acquisition by TOTS"
+    },
+    {
+      "value": "1.82 billion reais",
+      "context": "Amount paid by TOTS for RD Station"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Eric Santos",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Relacionamento Com O Mercado",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Santos",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Rd Station",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Marketo",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Santos",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governança Corporativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Santos",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Coach (Reed Hastings' And Jeff Wiener'S Coach)",
+      "target_type": "company"
+    },
+    {
+      "source": "Rd Station",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Hubspot",
+      "target_type": "company"
+    },
+    {
+      "source": "Denis",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tots",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Santos",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Transição De Liderança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tpg Growth",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Riverwood Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliana",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Santos",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sinergia Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Eric Santos",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Juliano Tubino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rd Station",
+      "target_type": "company"
+    },
+    {
+      "source": "Tots",
+      "source_type": "company",
+      "relation": "acquired",
+      "target": "Rd Station",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "episode_id": "34748488406",
+  "title": "FAÇA AGORA O PLANEJAMENTO ESTRATÉGICO DA SUA EMPRESA - COM ANTÔNIO NAPOLE (KAISER ASSOCIATES) | PAPO DE GESTÃO",
+  "date_published": 1723622400,
+  "duration": 5000,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Antônio Napoli",
+      "role": "guest",
+      "company": "Kaiser Associates",
+      "title": "Sócio e cofundador no Brasil"
+    },
+    {
+      "name": "Antônio Napole",
+      "role": "guest",
+      "company": "Kaiser Associates",
+      "title": "Consultor"
+    },
+    {
+      "name": "Padre Bill",
+      "role": "mentioned",
+      "company": "Favelas da Tijuca",
+      "title": "Padre"
+    },
+    {
+      "name": "Alba Souza",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Mentora"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Plataforma de educação e mentoria para empreendedores e gestores"
+    },
+    {
+      "name": "Kaiser Associates",
+      "industry": "Consultoria Empresarial",
+      "context": "Consultoria em estratégia e inteligência competitiva"
+    },
+    {
+      "name": "The Economist",
+      "industry": "Mídia e Publicações",
+      "context": "Mencionada em um exemplo de exercício de planejamento estratégico."
+    },
+    {
+      "name": "Telebrás",
+      "industry": "Telecomunicações",
+      "context": "Mencionada no contexto de privatização e reformas nas favelas."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Planejamento Estratégico",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Inteligência Competitiva",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Estratégia Empresarial",
+      "category": "Estratégia Empresarial"
+    },
+    {
+      "name": "Teoria de causa e efeito",
+      "category": "Psicologia e biologia"
+    },
+    {
+      "name": "Consolidação de mercado",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Diferenciação plena",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Menor custo",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Velocidade",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Visão, Missão e Propósito",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Obstáculos Removíveis",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Commodity de Informação",
+      "category": "Economia e Negócios"
+    },
+    {
+      "name": "Teoria das Competências",
+      "category": "Framework de Negócios"
+    },
+    {
+      "name": "Geração de Valor",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Prosperidade Empresarial",
+      "category": "Objetivo de Negócios"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "Mais de 40 anos de história",
+      "context": "História da Kaiser Associates"
+    },
+    {
+      "value": "30 anos no Brasil",
+      "context": "Presença da Kaiser Associates no Brasil"
+    },
+    {
+      "value": "Mais de mil projetos",
+      "context": "Projetos realizados pela Kaiser Associates no Brasil"
+    },
+    {
+      "value": "Escritórios em três regiões do mundo",
+      "context": "Presença global da Kaiser Associates"
+    },
+    {
+      "value": "10 bilhões",
+      "context": "Meta de faturamento mencionada como exemplo de planejamento estratégico."
+    },
+    {
+      "value": "30 anos",
+      "context": "Tempo de experiência de Antônio Napole no mercado."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Teoria Das Competências",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Antônio Napoli",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Competitiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Antônio Napoli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Kaiser Associates",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Prosperidade Empresarial",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Antônio Napole",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Alba Souza",
+      "target_type": "person"
+    },
+    {
+      "source": "Padre Bill",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Favelas Da Tijuca",
+      "target_type": "company"
+    },
+    {
+      "source": "Geração De Valor",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Kaiser Associates",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Estratégia Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Antônio Napole",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Kaiser Associates",
+      "target_type": "company"
+    },
+    {
+      "source": "Antônio Napoli",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Kaiser Associates",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Planejamento Estratégico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

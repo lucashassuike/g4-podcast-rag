@@ -1,0 +1,198 @@
+{
+  "episode_id": "34748488530",
+  "title": "Como Aumentar Sua Produtividade e Performance? - Com Marcio Atalla | Sem Atalhos",
+  "date_published": 1697013000,
+  "duration": 2706,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Márcio Atalla",
+      "role": "guest",
+      "company": "",
+      "title": "Especialista em Saúde e Bem-Estar"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de treinamentos e desenvolvimento de times"
+    },
+    {
+      "name": "Br",
+      "industry": "Diversos",
+      "context": "Empresa mencionada em exemplo de palestra"
+    },
+    {
+      "name": "Conselho Federal De Medicina",
+      "industry": "Saúde",
+      "context": "Organização mencionada em relação à regulamentação do uso de hormônios estéticos."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta performance",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de treinamento"
+    },
+    {
+      "name": "Inteligência artificial",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Atividade física",
+      "category": "Saúde e bem-estar"
+    },
+    {
+      "name": "Produtividade",
+      "category": "Desempenho profissional"
+    },
+    {
+      "name": "Reuniões caminhando",
+      "category": "Prática de trabalho"
+    },
+    {
+      "name": "Regularidade na atividade física",
+      "category": "Saúde e bem-estar"
+    },
+    {
+      "name": "Estilo de vida saudável",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Sono reparador",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Ciclo circadiano",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Gerenciamento de estresse",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Dependência de internet",
+      "category": "Saúde e Bem-estar"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10 mil passos por dia",
+      "context": "Média de passos diários do brasileiro na década de 90"
+    },
+    {
+      "value": "64% da população acima do peso",
+      "context": "Estatística atual sobre obesidade no Brasil"
+    },
+    {
+      "value": "150 minutos por semana",
+      "context": "Tempo recomendado de atividade física programada pela OMS"
+    },
+    {
+      "value": "8 quilos perdidos em um mês e meio",
+      "context": "Resultado de mudanças de hábitos de um executivo"
+    },
+    {
+      "value": "72%",
+      "context": "Porcentagem de brasileiros que relatam dormir mal."
+    },
+    {
+      "value": "350 calorias",
+      "context": "Quantidade média adicional consumida por pessoas que dormem mal."
+    },
+    {
+      "value": "6 anos",
+      "context": "Expectativa de vida maior para pessoas que dormem bem."
+    },
+    {
+      "value": "1 hora e 20 minutos",
+      "context": "Redução média no tempo de sono dos brasileiros nos últimos 40 anos."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Conselho Federal De Medicina",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Uso De Hormônios Estéticos",
+      "target_type": "company"
+    },
+    {
+      "source": "Márcio Atalla",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Atividade Física",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Skills",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Márcio Atalla",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Produtividade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Márcio Atalla",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Reuniões Caminhando",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Produtividade",
+      "target_type": "concept"
+    }
+  ]
+}

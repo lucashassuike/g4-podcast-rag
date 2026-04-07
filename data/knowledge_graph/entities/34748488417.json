@@ -1,0 +1,690 @@
+{
+  "episode_id": "34748488417",
+  "title": "OS SEGREDOS DO SUCESSO NO SETOR DE WELLNESS - COM FABIANO ZETTEL | EXTREMOS",
+  "date_published": 1720719205,
+  "duration": 4330,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Fabiano Zettel",
+      "role": "guest",
+      "company": "Moria Asset",
+      "title": "CEO"
+    },
+    {
+      "name": "Felipe Tito",
+      "role": "mentioned",
+      "company": "Smooth",
+      "title": ""
+    },
+    {
+      "name": "Cláudio",
+      "role": "mentioned",
+      "company": "Empório Frutaria",
+      "title": "Founder"
+    },
+    {
+      "name": "Geógio",
+      "role": "mentioned",
+      "company": "Oakberry",
+      "title": "Founder"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "VTEX",
+      "title": "Partner"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Virginia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influenciadora"
+    },
+    {
+      "name": "Manu City",
+      "role": "mentioned",
+      "company": "",
+      "title": "Influenciadora"
+    },
+    {
+      "name": "Aldinho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Claudio",
+      "role": "mentioned",
+      "company": "Frutaria São Paulo",
+      "title": "Proprietário"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Plataforma de educação e gestão estratégica mencionada no podcast."
+    },
+    {
+      "name": "Moria Asset",
+      "industry": "Investimentos",
+      "context": "Empresa de investimentos focada em saúde, longevidade e qualidade de vida."
+    },
+    {
+      "name": "Desinchar",
+      "industry": "Alimentos e Bebidas",
+      "context": "Parte do portfólio de investimentos da Moria Asset."
+    },
+    {
+      "name": "Oakberry",
+      "industry": "Alimentos e Bebidas",
+      "context": "Parte do portfólio de investimentos da Moria Asset."
+    },
+    {
+      "name": "Smooth",
+      "industry": "Alimentos e Bebidas",
+      "context": "Parte do portfólio de investimentos da Moria Asset."
+    },
+    {
+      "name": "Raoma",
+      "industry": "Alimentos e Bebidas",
+      "context": "Parte do portfólio de investimentos da Moria Asset."
+    },
+    {
+      "name": "Frutaria São Paulo",
+      "industry": "Alimentos e Bebidas",
+      "context": "Parte do portfólio de investimentos da Moria Asset."
+    },
+    {
+      "name": "Morear",
+      "industry": "Investment",
+      "context": "Fabiano Zettel founded and operates Morear, an investment company focusing on wellness and related sectors."
+    },
+    {
+      "name": "Promed",
+      "industry": "Healthcare",
+      "context": "Fabiano Zettel was involved in the sale of Promed to App Vida."
+    },
+    {
+      "name": "App Vida",
+      "industry": "Healthcare",
+      "context": "Acquired Promed in a deal facilitated by Fabiano Zettel."
+    },
+    {
+      "name": "Empório Frutaria",
+      "industry": "Retail",
+      "context": "Fabiano Zettel is a minority investor in Empório Frutaria, a wellness-focused retail chain."
+    },
+    {
+      "name": "Desinchá",
+      "industry": "Food & Beverage",
+      "context": "Fabiano Zettel is a minority investor in Desinchá, a wellness tea brand."
+    },
+    {
+      "name": "Nectar",
+      "industry": "Food & Beverage",
+      "context": "Fabiano Zettel is a minority investor in Nectar, a wellness-focused food brand."
+    },
+    {
+      "name": "Solo Snack",
+      "industry": "Food & Beverage",
+      "context": "Fabiano Zettel is a minority investor in Solo Snack, a healthy snack brand."
+    },
+    {
+      "name": "Alessanque",
+      "industry": "Fitness",
+      "context": "Fabiano Zettel is a minority investor in Alessanque, a fitness-related company."
+    },
+    {
+      "name": "Biba",
+      "industry": "Media",
+      "context": "Fabiano Zettel is a minority investor in Biba, focusing on airport media solutions."
+    },
+    {
+      "name": "Arme",
+      "industry": "Apparel",
+      "context": "Fabiano Zettel is a minority investor in ARME, a gym apparel brand."
+    },
+    {
+      "name": "Morial",
+      "industry": "Investment",
+      "context": "Founded by Fabiano Zettel"
+    },
+    {
+      "name": "Vtex",
+      "industry": "E-commerce",
+      "context": "Associated with Mariano"
+    },
+    {
+      "name": "Moriá",
+      "industry": "Investimentos",
+      "context": "Empresa de investimentos mencionada por Fabiano Zettel."
+    },
+    {
+      "name": "Emporio Frutaria",
+      "industry": "Alimentação",
+      "context": "Local onde produtos de empresas investidas foram colocados."
+    },
+    {
+      "name": "Moriá Asset",
+      "industry": "Investment and Asset Management",
+      "context": "Mentioned as a sponsor and investment entity"
+    },
+    {
+      "name": "Holy Subs",
+      "industry": "Food and Beverage",
+      "context": "Discussed in relation to NVB investments"
+    },
+    {
+      "name": "Nvb",
+      "industry": "Business Ventures",
+      "context": "Discussed in relation to investments"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "DNVB (Digitally Native Vertical Brands)",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Gestão Estratégica",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Investimento Holístico",
+      "category": "Estratégia de Investimentos"
+    },
+    {
+      "name": "M&A",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Co-branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Cash In",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Cash Out",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Minority Investment",
+      "category": "Investment Strategy"
+    },
+    {
+      "name": "Investment Strategy",
+      "category": "Business"
+    },
+    {
+      "name": "Branding",
+      "category": "Marketing"
+    },
+    {
+      "name": "Consumer Market",
+      "category": "Business"
+    },
+    {
+      "name": "Scalability",
+      "category": "Business"
+    },
+    {
+      "name": "Holistic Evaluation",
+      "category": "Business"
+    },
+    {
+      "name": "Investimento em startups",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Distribuição de dividendos",
+      "category": "Finanças"
+    },
+    {
+      "name": "Influenciadores digitais",
+      "category": "Marketing"
+    },
+    {
+      "name": "Estratégia de nicho",
+      "category": "Marketing"
+    },
+    {
+      "name": "Gestão financeira",
+      "category": "Finanças"
+    },
+    {
+      "name": "Formalização empresarial",
+      "category": "Gestão"
+    },
+    {
+      "name": "Networking",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Influencer Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "empreendedorismo",
+      "category": "business"
+    },
+    {
+      "name": "educação empresarial",
+      "category": "business"
+    },
+    {
+      "name": "feiras de negócios",
+      "category": "business"
+    },
+    {
+      "name": "empreendedorismo corporativo",
+      "category": "estratégia"
+    },
+    {
+      "name": "estudo de mercado",
+      "category": "estratégia"
+    },
+    {
+      "name": "preparação profissional",
+      "category": "desenvolvimento pessoal"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "400 bilhões",
+      "context": "Faturamento anual do mercado de saúde e bem-estar no Brasil."
+    },
+    {
+      "value": "5% ao ano",
+      "context": "Taxa de crescimento anual do mercado de saúde e bem-estar no Brasil."
+    },
+    {
+      "value": "100 milhões",
+      "context": "Valor de um deal recente envolvendo a Raoma."
+    },
+    {
+      "value": "2019",
+      "context": "Year Morear was founded."
+    },
+    {
+      "value": "32",
+      "context": "Número de investimentos em startups mencionados por Fabiano Zettel."
+    },
+    {
+      "value": "15 a 20",
+      "context": "Número de pessoas trabalhando na Moriá em São Paulo."
+    },
+    {
+      "value": "10 million",
+      "context": "Followers of a northern Brazil influencer"
+    },
+    {
+      "value": "3%",
+      "context": "Customer base in João Pessoa"
+    },
+    {
+      "value": "30 million",
+      "context": "Permuta in six months"
+    },
+    {
+      "value": "30 milhões",
+      "context": "Valor de permuta mencionado em seis meses."
+    },
+    {
+      "value": "150 startups",
+      "context": "Capacidade de espaço para evento mencionado."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Claudio",
+      "target_type": "person"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Empreendedorismo Corporativo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Preparação Profissional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Moria Asset",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Minority Investment",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "M&A",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Distribuição De Dividendos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão Financeira",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Emporio Frutaria",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Moriá",
+      "target_type": "company"
+    },
+    {
+      "source": "Moria Asset",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Frutaria São Paulo",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Desinchar",
+      "target_type": "company"
+    },
+    {
+      "source": "Moria Asset",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Smooth",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cash In",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Moriá",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cash Out",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Oakberry",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estratégia De Nicho",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Empório Frutaria",
+      "target_type": "company"
+    },
+    {
+      "source": "Moria Asset",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Desinchar",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Influenciadores Digitais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Holy Subs",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Co-Branding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Moriá Asset",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Oakberry",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Raoma",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Alessanque",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estudo De Mercado",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Morear",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Investimento Em Startups",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Nvb",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Biba",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Frutaria São Paulo",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Frutaria São Paulo",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Formalização Empresarial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Moria Asset",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Oakberry",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Morial",
+      "target_type": "company"
+    },
+    {
+      "source": "Moria Asset",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Raoma",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Arme",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Moriá Asset",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Desinchá",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Nectar",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Solo Snack",
+      "target_type": "company"
+    },
+    {
+      "source": "Fabiano Zettel",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Desinchar",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vtex",
+      "target_type": "company"
+    }
+  ]
+}

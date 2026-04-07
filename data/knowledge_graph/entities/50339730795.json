@@ -1,0 +1,305 @@
+{
+  "episode_id": "50339730795",
+  "title": "ELETROMOBILIDADE, CHINA E O FUTURO DO BRASIL COM ALEXANDRE FAUSTINO | EXTREMOS",
+  "date_published": 1771426800,
+  "duration": 3267,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Alexandre Faustino",
+      "role": "guest",
+      "company": "Teison",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Lucila",
+      "role": "mentioned",
+      "company": "",
+      "title": "Legal Advisor"
+    },
+    {
+      "name": "Lincoln",
+      "role": "mentioned",
+      "company": "China Link",
+      "title": "Advisor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Byd",
+      "industry": "Automotivo",
+      "context": "Empresa chinesa mencionada como parceira em negócios de eletromobilidade."
+    },
+    {
+      "name": "Volkswagen",
+      "industry": "Automotivo",
+      "context": "Mencionada como pioneira na transição para veículos elétricos e sua dependência do mercado chinês."
+    },
+    {
+      "name": "Sony",
+      "industry": "Eletrônicos",
+      "context": "Empresa onde Alexandre Faustino trabalhou como executivo."
+    },
+    {
+      "name": "Siemens",
+      "industry": "Eletrônicos",
+      "context": "Empresa onde Alexandre Faustino trabalhou como executivo."
+    },
+    {
+      "name": "Teison",
+      "industry": "Eletromobilidade",
+      "context": "Empresa chinesa adquirida por Alexandre Faustino para fornecer carregadores elétricos."
+    },
+    {
+      "name": "Teison Do Brasil",
+      "industry": "Electric vehicle charging solutions",
+      "context": "Subsidiary established in Brazil"
+    },
+    {
+      "name": "Weg",
+      "industry": "Electrical equipment",
+      "context": "Competitor in the Brazilian market"
+    },
+    {
+      "name": "Tayson",
+      "industry": "Eletromobilidade",
+      "context": "Fabricação e venda de carregadores para veículos elétricos"
+    },
+    {
+      "name": "Ziker",
+      "industry": "Automotivo",
+      "context": "Fabricante de veículos elétricos"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Eletromobilidade",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Carregadores elétricos",
+      "category": "Infraestrutura"
+    },
+    {
+      "name": "Transformação de negócios",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Pivotagem de modelo de negócio",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Escutativa",
+      "category": "Habilidade"
+    },
+    {
+      "name": "Market share",
+      "category": "Business metric"
+    },
+    {
+      "name": "Subsidiary",
+      "category": "Business structure"
+    },
+    {
+      "name": "Intercompany pricing",
+      "category": "Business strategy"
+    },
+    {
+      "name": "Electric vehicle charging infrastructure",
+      "category": "Industry"
+    },
+    {
+      "name": "Ideal Customer Profile (ICP)",
+      "category": "Marketing strategy"
+    },
+    {
+      "name": "Eletroposto",
+      "category": "Infraestrutura de recarga"
+    },
+    {
+      "name": "Carregador de 480 kW",
+      "category": "Tecnologia de recarga"
+    },
+    {
+      "name": "Carregador portátil",
+      "category": "Tecnologia de recarga"
+    },
+    {
+      "name": "Carregador de 80 kW",
+      "category": "Tecnologia de recarga"
+    },
+    {
+      "name": "White label",
+      "category": "Modelo de negócio"
+    },
+    {
+      "name": "Motoristas de aplicativo",
+      "category": "Segmento de mercado"
+    },
+    {
+      "name": "Veículos elétricos",
+      "category": "Tecnologia automotiva"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "50%",
+      "context": "Dependência da Volkswagen no mercado chinês."
+    },
+    {
+      "value": "10%",
+      "context": "Market share of Teison in Brazil"
+    },
+    {
+      "value": "84%",
+      "context": "Growth contribution of Teison do Brasil to Teison globally in 2024"
+    },
+    {
+      "value": "480 kW",
+      "context": "Capacidade de carregamento de um carregador para veículos elétricos"
+    },
+    {
+      "value": "22 kW",
+      "context": "Capacidade máxima de carregamento para uso residencial"
+    },
+    {
+      "value": "120 mil reais",
+      "context": "Custo de um carregador de 80 kW"
+    },
+    {
+      "value": "30% ao ano",
+      "context": "Retorno esperado sobre o capital investido em eletropostos"
+    },
+    {
+      "value": "8%",
+      "context": "Porcentagem de veículos vendidos no Brasil que são elétricos ou eletrificados"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Teison Do Brasil",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Teison",
+      "target_type": "company"
+    },
+    {
+      "source": "Tayson",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Carregador De 480 Kw",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alexandre Faustino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Teison",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Faustino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Teison",
+      "target_type": "company"
+    },
+    {
+      "source": "Tayson",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Carregador Portátil",
+      "target_type": "concept"
+    },
+    {
+      "source": "Teison Do Brasil",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Weg",
+      "target_type": "company"
+    },
+    {
+      "source": "Byd",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Electric Vehicle Charging Infrastructure",
+      "target_type": "concept"
+    },
+    {
+      "source": "Byd",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Teison",
+      "target_type": "company"
+    },
+    {
+      "source": "Teison",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Electric Vehicle Charging Infrastructure",
+      "target_type": "concept"
+    },
+    {
+      "source": "Motoristas De Aplicativo",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Veículos Elétricos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alexandre Faustino",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Sony",
+      "target_type": "company"
+    },
+    {
+      "source": "Tayson",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Carregador De 80 Kw",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tayson",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Eletroposto",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alexandre Faustino",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Siemens",
+      "target_type": "company"
+    },
+    {
+      "source": "Alexandre Faustino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Teison Do Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Volkswagen",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Byd",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "episode_id": "34748488451",
+  "title": "COMO ENCARAR SITUAÇÕES DE PRESSÃO EXTREMA - COM PEDRO SCOOBY | EXTREMOS",
+  "date_published": 1712219400,
+  "duration": 5736,
+  "chunks_processed": 8,
+  "people": [
+    {
+      "name": "Pedro Scooby",
+      "role": "guest",
+      "company": "Red Bull",
+      "title": "Surfista de ondas grandes"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Co-host"
+    },
+    {
+      "name": "Cíntia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Chumbinho",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista"
+    },
+    {
+      "name": "Caelen",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista"
+    },
+    {
+      "name": "Maia",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sebastian Studer",
+      "role": "mentioned",
+      "company": "",
+      "title": "Recordista mundial de ondas grandes"
+    },
+    {
+      "name": "Dom",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filho de Pedro Scooby"
+    },
+    {
+      "name": "Burley",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Alemão De Maresias",
+      "role": "mentioned",
+      "company": "",
+      "title": "Piloto de jet ski"
+    },
+    {
+      "name": "Nigel Houston",
+      "role": "mentioned",
+      "company": "",
+      "title": "Skatista"
+    },
+    {
+      "name": "Sadguru",
+      "role": "mentioned",
+      "company": "",
+      "title": "Guru indiano"
+    },
+    {
+      "name": "Tom Brady",
+      "role": "mentioned",
+      "company": "",
+      "title": "Jogador de futebol americano"
+    },
+    {
+      "name": "Eric Ribeiro",
+      "role": "mentioned",
+      "company": "",
+      "title": "Piloto de jet ski"
+    },
+    {
+      "name": "Rodrigo Costa",
+      "role": "mentioned",
+      "company": "",
+      "title": "Piloto de jet ski"
+    },
+    {
+      "name": "Lucas Fink",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista de Skimboard"
+    },
+    {
+      "name": "Gabriel Medina",
+      "role": "mentioned",
+      "company": "",
+      "title": "Surfista profissional"
+    },
+    {
+      "name": "Dendê",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Medina",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Filipinho",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Luana",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Aurora",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marcos Biang",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sade Guru",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Fred Soares",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Flávio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Podcast",
+      "industry": "Media",
+      "context": "Podcast focusing on business and personal development"
+    },
+    {
+      "name": "Caring Group",
+      "industry": "Luxury Goods",
+      "context": "Mencionado como empresa onde a primeira mulher CEO da Ásia trabalha"
+    },
+    {
+      "name": "Red Bull",
+      "industry": "Bebidas energéticas",
+      "context": "Patrocinadora de Pedro Scooby"
+    },
+    {
+      "name": "Nike",
+      "industry": "Esportes e vestuário",
+      "context": "Ex-patrocinadora de Pedro Scooby"
+    },
+    {
+      "name": "Oakley",
+      "industry": "Óculos e acessórios esportivos",
+      "context": "Patrocinadora de Pedro Scooby"
+    },
+    {
+      "name": "Corona",
+      "industry": "Cervejaria",
+      "context": "Patrocinadora de Pedro Scooby"
+    },
+    {
+      "name": "Ford",
+      "industry": "Automotive",
+      "context": "Mentioned in relation to the Ford F50 Raptor vehicle."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação para negócios mencionada no podcast."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Extreme sports",
+      "category": "Sports"
+    },
+    {
+      "name": "Wave surfing",
+      "category": "Sports"
+    },
+    {
+      "name": "Podcasting",
+      "category": "Media"
+    },
+    {
+      "name": "Personal development",
+      "category": "Education"
+    },
+    {
+      "name": "Medo",
+      "category": "Psicologia e comportamento"
+    },
+    {
+      "name": "Superação de limites",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Ondas gigantes",
+      "category": "Esportes radicais"
+    },
+    {
+      "name": "Campeonatos de surf",
+      "category": "Eventos esportivos"
+    },
+    {
+      "name": "Gestão do medo",
+      "category": "Psicologia e desenvolvimento pessoal"
+    },
+    {
+      "name": "Relação de confiança em esportes radicais",
+      "category": "Dinâmica de equipe"
+    },
+    {
+      "name": "Surf de Onda Gigante",
+      "category": "Esporte"
+    },
+    {
+      "name": "Parceria",
+      "category": "Relacionamento profissional"
+    },
+    {
+      "name": "Confiança",
+      "category": "Relacionamento interpessoal"
+    },
+    {
+      "name": "Disposição",
+      "category": "Qualidade pessoal"
+    },
+    {
+      "name": "Patrocínio",
+      "category": "Marketing"
+    },
+    {
+      "name": "Esportes radicais",
+      "category": "Indústria esportiva"
+    },
+    {
+      "name": "Fama",
+      "category": "Cultura e sociedade"
+    },
+    {
+      "name": "Pé no chão",
+      "category": "Valores pessoais"
+    },
+    {
+      "name": "Big Brother Brasil (BBB)",
+      "category": "Entretenimento"
+    },
+    {
+      "name": "Depressão",
+      "category": "Saúde mental"
+    },
+    {
+      "name": "paternidade",
+      "category": "personal development"
+    },
+    {
+      "name": "educação personalizada",
+      "category": "education"
+    },
+    {
+      "name": "relações familiares",
+      "category": "personal development"
+    },
+    {
+      "name": "Protetor solar vegano",
+      "category": "Produto"
+    },
+    {
+      "name": "Inspiração",
+      "category": "Conceito"
+    }
+  ],
+  "books": [
+    {
+      "title": "A vida irada",
+      "author": "Pedro Scooby"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "Top 5 podcasts of business in Brazil",
+      "context": "Ranking of G4 Podcast"
+    },
+    {
+      "value": "15 anos",
+      "context": "Tempo de experiência de Pedro Scooby em surfar ondas grandes"
+    },
+    {
+      "value": "25 a 30 metros",
+      "context": "Altura das ondas gigantes mencionadas"
+    },
+    {
+      "value": "9,70 ou 9,80",
+      "context": "Nota obtida por Pedro Scooby em um campeonato de surf"
+    },
+    {
+      "value": "200 pessoas",
+      "context": "Número de participantes no evento na Arábia Saudita"
+    },
+    {
+      "value": "11 anos",
+      "context": "Duração da parceria entre Pedro Scooby e Red Bull"
+    },
+    {
+      "value": "11 anos",
+      "context": "Tempo de parceria de Pedro Scooby com a Red Bull"
+    },
+    {
+      "value": "600 famílias",
+      "context": "Número de famílias beneficiadas pela estação de tratamento de água potável no Ceará"
+    },
+    {
+      "value": "Finalista do BBB",
+      "context": "Participação de Pedro Scooby no programa"
+    },
+    {
+      "value": "Maior visibilidade e aumento de valores de trabalho",
+      "context": "Impacto da participação de Pedro Scooby no BBB"
+    },
+    {
+      "value": "15 dias",
+      "context": "Tempo que a filha de Pedro Scooby ficou na UTI após a cirurgia."
+    },
+    {
+      "value": "8 meses",
+      "context": "Tempo que outra criança ficou na UTI após a mesma cirurgia."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Eric Ribeiro",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Aurora",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Sebastian Studer",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Dom",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Rodrigo Costa",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Tom Brady",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Lucas Fink",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Sade Guru",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Red Bull",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Medina",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Luana",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Marcos Biang",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Burley",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alemão De Maresias",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Nike",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Chumbinho",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Maia",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gabriel Medina",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Corona",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Filipinho",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Cíntia",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Sadguru",
+      "target_type": "person"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Oakley",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro Scooby",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nigel Houston",
+      "target_type": "person"
+    }
+  ]
+}

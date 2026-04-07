@@ -1,0 +1,610 @@
+{
+  "episode_id": "41017441424",
+  "title": "A ARTE DE CRIAR E CRESCER NO MUNDO DIGITAL COM FILIPE PENONI | EXTREMOS",
+  "date_published": 1754492400,
+  "duration": 4387,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Filipe Penoni",
+      "role": "guest",
+      "company": "Não especificado",
+      "title": "Digital Creator"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Pedro Sobral",
+      "role": "mentioned",
+      "company": "",
+      "title": "Digital Marketing Specialist"
+    },
+    {
+      "name": "Whindersson Nunes",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comedian and Influencer"
+    },
+    {
+      "name": "Júlio Cossiello",
+      "role": "mentioned",
+      "company": "",
+      "title": "Digital Creator"
+    },
+    {
+      "name": "Érico Rocha",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Digital Marketing Specialist"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Fátima Bernardes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Henrique Maderite",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jp",
+      "role": "mentioned",
+      "company": "Laut",
+      "title": "Empresário"
+    },
+    {
+      "name": "Adriano Jantur",
+      "role": "mentioned",
+      "company": "",
+      "title": "Professor"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "Apple",
+      "title": "Fundador"
+    },
+    {
+      "name": "Manu City",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ladeirinha",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Matheus Beirão",
+      "role": "mentioned",
+      "company": "Queima Diária",
+      "title": "Sócio Fundador"
+    },
+    {
+      "name": "Enaldinho",
+      "role": "mentioned",
+      "company": "",
+      "title": "Youtuber"
+    },
+    {
+      "name": "Mrbeast",
+      "role": "mentioned",
+      "company": "",
+      "title": "Youtuber"
+    },
+    {
+      "name": "Frey Gilson",
+      "role": "mentioned",
+      "company": "",
+      "title": "Religious Content Creator"
+    },
+    {
+      "name": "Leandro Ladeira",
+      "role": "mentioned",
+      "company": "",
+      "title": "Marketing Specialist"
+    },
+    {
+      "name": "Manu Gavassi",
+      "role": "mentioned",
+      "company": "",
+      "title": "Artist"
+    },
+    {
+      "name": "Bento",
+      "role": "mentioned",
+      "company": "Minimal Club",
+      "title": "Representative"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts of the podcast"
+    },
+    {
+      "name": "Canui",
+      "industry": "E-commerce",
+      "context": "Discussed as a pioneering company in influencer marketing"
+    },
+    {
+      "name": "Rock In Rio",
+      "industry": "Entretenimento",
+      "context": "Evento onde Filipe Penoni trabalhou como auxiliar de produção"
+    },
+    {
+      "name": "Facebook",
+      "industry": "Tecnologia",
+      "context": "Plataforma usada por Filipe Penoni para divulgar seus vídeos"
+    },
+    {
+      "name": "Youtube",
+      "industry": "Tecnologia",
+      "context": "Plataforma onde Filipe Penoni iniciou sua carreira de criador de conteúdo"
+    },
+    {
+      "name": "Tiktok",
+      "industry": "Tecnologia",
+      "context": "Plataforma onde Filipe Penoni possui 1.4 milhões de seguidores"
+    },
+    {
+      "name": "Laut",
+      "industry": "Bebidas",
+      "context": "Empresa associada ao Henrique Maderite"
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Empresa mencionada em relação ao iPhone"
+    },
+    {
+      "name": "Queima Diária",
+      "industry": "Fitness e Bem-Estar",
+      "context": "Empresa mencionada como tendo faturamento de mais de meio bilhão e sendo liderada por Matheus Beirão."
+    },
+    {
+      "name": "Instagram",
+      "industry": "Social Media",
+      "context": "Discussed as a platform for content creation and engagement"
+    },
+    {
+      "name": "Minimal Club",
+      "industry": "Fashion",
+      "context": "Sponsor of G4 Podcasts and Extremos"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Marketing boca a boca",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "Influencer Marketing",
+      "category": "Marketing Strategy"
+    },
+    {
+      "name": "AdSense",
+      "category": "Digital Advertising"
+    },
+    {
+      "name": "Alexa",
+      "category": "Digital Analytics"
+    },
+    {
+      "name": "SimilarWeb",
+      "category": "Digital Analytics"
+    },
+    {
+      "name": "Sunny Vegas",
+      "category": "Video Editing Software"
+    },
+    {
+      "name": "Premiere",
+      "category": "Video Editing Software"
+    },
+    {
+      "name": "Forma de Lançamento",
+      "category": "Digital Marketing Framework"
+    },
+    {
+      "name": "Criação de conteúdo",
+      "category": "Marketing digital"
+    },
+    {
+      "name": "Retenção de audiência",
+      "category": "Métrica de performance"
+    },
+    {
+      "name": "Mentalidade de criador",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Autenticidade",
+      "category": "Estratégia de Conteúdo"
+    },
+    {
+      "name": "Comportamento do Consumidor",
+      "category": "Marketing"
+    },
+    {
+      "name": "Engajamento em Redes Sociais",
+      "category": "Métricas de Marketing"
+    },
+    {
+      "name": "Métricas de Vaidade",
+      "category": "Marketing"
+    },
+    {
+      "name": "Storytelling",
+      "category": "Marketing Digital"
+    },
+    {
+      "name": "Criatividade",
+      "category": "Inovação"
+    },
+    {
+      "name": "Algoritmos de Redes Sociais",
+      "category": "Tecnologia"
+    },
+    {
+      "name": "Retenção de público",
+      "category": "Métricas de desempenho"
+    },
+    {
+      "name": "Algoritmo de redes sociais",
+      "category": "Tecnologia e marketing"
+    },
+    {
+      "name": "boca a boca",
+      "category": "Marketing"
+    },
+    {
+      "name": "alcance",
+      "category": "Metrics"
+    },
+    {
+      "name": "retenção",
+      "category": "Metrics"
+    },
+    {
+      "name": "engajamento",
+      "category": "Metrics"
+    },
+    {
+      "name": "funil de vendas",
+      "category": "Marketing"
+    },
+    {
+      "name": "Content Creation",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Retention Editing",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Paid Traffic",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Ethics in Content Production",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Religious Content",
+      "category": "Digital Marketing"
+    }
+  ],
+  "books": [
+    {
+      "title": "Roube Como Artista",
+      "author": "Austin Kleon"
+    },
+    {
+      "title": "TikTok Boom",
+      "author": "Desconhecido"
+    },
+    {
+      "title": "Riqueza das Nações",
+      "author": "Adam Smith"
+    },
+    {
+      "title": "Teoria dos Sentimentos Morais",
+      "author": "Adam Smith"
+    },
+    {
+      "title": "Suma Teológica",
+      "author": "Tomás de Aquino"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "100,000",
+      "context": "Subscribers on Filipe Penoni's old YouTube channel"
+    },
+    {
+      "value": "25",
+      "context": "Age of Filipe Penoni"
+    },
+    {
+      "value": "13",
+      "context": "Age when Filipe Penoni started his YouTube career"
+    },
+    {
+      "value": "300",
+      "context": "Amount paid to Whindersson Nunes for a YouTube sponsorship by Canui"
+    },
+    {
+      "value": "100,000 inscritos",
+      "context": "Número de inscritos no canal do YouTube de Filipe Penoni em 2014"
+    },
+    {
+      "value": "1.4 milhões de seguidores",
+      "context": "Número de seguidores de Filipe Penoni no TikTok"
+    },
+    {
+      "value": "100 mil visualizações",
+      "context": "Desempenho de Reels no Instagram mencionado por Filipe Penoni."
+    },
+    {
+      "value": "Mais de meio bilhão de faturamento",
+      "context": "Faturamento da empresa Queima Diária mencionada por Filipe Penoni."
+    },
+    {
+      "value": "10 mil visualizações",
+      "context": "Average views on Instagram content"
+    },
+    {
+      "value": "40 milhões de inscritos",
+      "context": "Enaldinho's YouTube channel subscriber count"
+    },
+    {
+      "value": "500,000",
+      "context": "Number of people participating in Frey Gilson's rosary prayer sessions"
+    },
+    {
+      "value": "15%",
+      "context": "Discount offered by Minimal Club with the EXTREMOS coupon"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Canui",
+      "target_type": "company"
+    },
+    {
+      "source": "Steve Jobs",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Apple",
+      "target_type": "company"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Retenção De Público",
+      "target_type": "concept"
+    },
+    {
+      "source": "Pedro Sobral",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Filipe Penoni",
+      "target_type": "person"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Facebook",
+      "target_type": "company"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Retenção De Audiência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Rock In Rio",
+      "target_type": "company"
+    },
+    {
+      "source": "Matheus Beirão",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Queima Diária",
+      "target_type": "company"
+    },
+    {
+      "source": "Minimal Club",
+      "source_type": "company",
+      "relation": "sponsored",
+      "target": "G4 Podcasts",
+      "target_type": "company"
+    },
+    {
+      "source": "Jp",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Laut",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Whindersson Nunes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Canui",
+      "target_type": "company"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mentalidade De Criador",
+      "target_type": "concept"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marketing Boca A Boca",
+      "target_type": "concept"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Criação De Conteúdo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Youtube",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "hosted",
+      "target": "Filipe Penoni",
+      "target_type": "person"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Algoritmo De Redes Sociais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Frey Gilson",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Religious Content",
+      "target_type": "concept"
+    },
+    {
+      "source": "Érico Rocha",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Forma De Lançamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Tiktok",
+      "target_type": "company"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Forma De Lançamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Canui",
+      "target_type": "company"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Comportamento Do Consumidor",
+      "target_type": "concept"
+    },
+    {
+      "source": "Enaldinho",
+      "source_type": "person",
+      "relation": "collaborated_with",
+      "target": "Mrbeast",
+      "target_type": "person"
+    },
+    {
+      "source": "Filipe Penoni",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Matheus Beirão",
+      "target_type": "person"
+    },
+    {
+      "source": "Enaldinho",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Youtube",
+      "target_type": "company"
+    }
+  ]
+}

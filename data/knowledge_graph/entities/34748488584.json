@@ -1,0 +1,221 @@
+{
+  "episode_id": "34748488584",
+  "title": "Alfredo Soares - Supere Limitações, Maximize Esforços e Alcance a Excelência | Conectando os Pontos",
+  "date_published": 1686733259,
+  "duration": 2475,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "guest",
+      "company": "X-Tech",
+      "title": "Founder"
+    },
+    {
+      "name": "Mariano Sonsini",
+      "role": "mentioned",
+      "company": "VTex",
+      "title": "Founder"
+    },
+    {
+      "name": "Flávio Augusto",
+      "role": "mentioned",
+      "company": "Wise Up",
+      "title": "Founder"
+    },
+    {
+      "name": "Primo Rico",
+      "role": "mentioned",
+      "company": "N/A",
+      "title": "Content Creator"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "Vitex",
+      "title": "Executive"
+    },
+    {
+      "name": "André",
+      "role": "mentioned",
+      "company": "Vitex",
+      "title": "CFO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "X-Tech",
+      "industry": "E-commerce",
+      "context": "Founded by Alfredo Soares, discussed in relation to its growth and challenges."
+    },
+    {
+      "name": "Vtex",
+      "industry": "E-commerce",
+      "context": "Discussed as a competitor and collaborator with X-Tech."
+    },
+    {
+      "name": "Social Rocket",
+      "industry": "Social Media Automation",
+      "context": "Discussed as a tool for Instagram automation with significant user base."
+    },
+    {
+      "name": "Xtec",
+      "industry": "E-commerce",
+      "context": "Company founded by Alfredo Soares, involved in M&A with Vitex."
+    },
+    {
+      "name": "Vitex",
+      "industry": "E-commerce",
+      "context": "Acquired Xtec in an M&A deal."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Soft Skills",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Network",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Governance",
+      "category": "Business Management"
+    },
+    {
+      "name": "M&A",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Negotiation",
+      "category": "Business Skill"
+    },
+    {
+      "name": "Law of Attraction",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Ambiência",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "Bora Vender",
+      "author": "Alfredo Soares"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "150,000 users",
+      "context": "Social Rocket's user base in seven countries over three years."
+    },
+    {
+      "value": "353 lives",
+      "context": "Number of live sessions conducted by Alfredo Soares during the pandemic."
+    },
+    {
+      "value": "13% to 5%",
+      "context": "Reduction in X-Tech's inadimplência (default rate) through creative strategies."
+    },
+    {
+      "value": "32,000 BRL",
+      "context": "Alfredo Soares' account balance during the M&A process."
+    },
+    {
+      "value": "15,000 BRL",
+      "context": "Alfredo Soares' monthly salary during the M&A process."
+    },
+    {
+      "value": "14,000,000 BRL",
+      "context": "Amount Alfredo Soares earned from the M&A deal."
+    },
+    {
+      "value": "600,000-700,000 BRL",
+      "context": "Amount Alfredo Soares negotiated to retain during the M&A process."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Bora Vender",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "X-Tech",
+      "target_type": "company"
+    },
+    {
+      "source": "Xtec",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Vitex",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano Sonsini",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Network",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "M&A (Mergers And Acquisitions)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xtec",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Governance",
+      "target_type": "concept"
+    },
+    {
+      "source": "André",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vitex",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vitex",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Soft Skills",
+      "target_type": "concept"
+    }
+  ]
+}

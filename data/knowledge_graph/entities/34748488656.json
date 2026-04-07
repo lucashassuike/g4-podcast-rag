@@ -1,0 +1,152 @@
+{
+  "episode_id": "34748488656",
+  "title": "#022 - 10 anos de Easy Taxi: fundadores relembram a jornada da companhia",
+  "date_published": 1628670607,
+  "duration": 2092,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Daniel",
+      "role": "guest",
+      "company": "",
+      "title": "Diversity Cognitive Specialist"
+    },
+    {
+      "name": "Vini",
+      "role": "guest",
+      "company": "Remessa Online",
+      "title": "Data and Security Specialist"
+    },
+    {
+      "name": "Márcio",
+      "role": "guest",
+      "company": "Remessa Online",
+      "title": "Head of Engineering"
+    },
+    {
+      "name": "Pavani",
+      "role": "mentioned",
+      "company": "Remessa Online",
+      "title": "Founder"
+    },
+    {
+      "name": "Stefano",
+      "role": "mentioned",
+      "company": "Remessa Online",
+      "title": "Founder"
+    },
+    {
+      "name": "Sima",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Business education and mentorship"
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Venture Capital",
+      "context": "Investor in Easy Taxi"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Transportation",
+      "context": "Ride-hailing company founded by Tallis Gomes"
+    },
+    {
+      "name": "Remessa Online",
+      "industry": "Financial Services",
+      "context": "International money transfer service"
+    },
+    {
+      "name": "E-Genius",
+      "industry": "Venture Builder",
+      "context": "Created by Easy Taxi founders"
+    },
+    {
+      "name": "Bicâmbio",
+      "industry": "Financial Services",
+      "context": "Predecessor to Remessa Online"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Venture Capital",
+      "category": "Investment"
+    },
+    {
+      "name": "Diversity Cognitive",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Scalability",
+      "category": "Business Strategy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "10 milhões de reais",
+      "context": "Investment received from Rocket Internet"
+    },
+    {
+      "value": "Mais de 1 bilhão de reais",
+      "context": "Transaction volume of Remessa Online in the current year"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "E-Genius",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Remessa Online",
+      "target_type": "company"
+    },
+    {
+      "source": "Stefano",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bicâmbio",
+      "target_type": "company"
+    },
+    {
+      "source": "Pavani",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bicâmbio",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Bicâmbio",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Remessa Online",
+      "target_type": "company"
+    }
+  ]
+}

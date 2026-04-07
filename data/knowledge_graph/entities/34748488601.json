@@ -1,0 +1,404 @@
+{
+  "episode_id": "34748488601",
+  "title": "Bruno Garschagen - Gestão e Política, Restauração da Monarquia e Conservadorismo | Papo de Gestão",
+  "date_published": 1682924451,
+  "duration": 6386,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Bruno Garschagen",
+      "role": "guest",
+      "company": "B&M, Empreendedorismo Intelectual",
+      "title": "CEO"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Fábio Gugel",
+      "role": "mentioned",
+      "company": "Aliança",
+      "title": "Professor de Jiu-Jitsu"
+    },
+    {
+      "name": "Aristóteles",
+      "role": "mentioned",
+      "company": "",
+      "title": "Philosopher"
+    },
+    {
+      "name": "Galileu Galilei",
+      "role": "mentioned",
+      "company": "",
+      "title": "Scientist"
+    },
+    {
+      "name": "São Tomás De Aquino",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Sócrates",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Políbio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Michael Oakeshott",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo Político Conservador"
+    },
+    {
+      "name": "Friedrich Hayek",
+      "role": "mentioned",
+      "company": "",
+      "title": "Economista da Escola Austríaca"
+    },
+    {
+      "name": "Miguel Morgado",
+      "role": "mentioned",
+      "company": "",
+      "title": "Professor e Autor"
+    },
+    {
+      "name": "Larry Diamond",
+      "role": "mentioned",
+      "company": "",
+      "title": "Teórico da Democracia"
+    },
+    {
+      "name": "Zélia Cardoso De Mello",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-Ministra da Fazenda"
+    },
+    {
+      "name": "Delfim Neto",
+      "role": "mentioned",
+      "company": "",
+      "title": "Economista"
+    },
+    {
+      "name": "Bresser Pereira",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-Ministro da Fazenda"
+    },
+    {
+      "name": "Fernando Collor De Mello",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-Presidente do Brasil"
+    },
+    {
+      "name": "Francisco Franco",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-Chefe de Estado da Espanha"
+    }
+  ],
+  "companies": [
+    {
+      "name": "B&M, Empreendedorismo Intelectual",
+      "industry": "Consultoria e Educação",
+      "context": "Empresa liderada por Bruno Garschagen"
+    },
+    {
+      "name": "Aliança",
+      "industry": "Artes Marciais",
+      "context": "Academia de Jiu-Jitsu mencionada por Tallis Gomes"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Empresa onde Tallis Gomes atua como Presidente Executivo"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Conservadorismo",
+      "category": "Política"
+    },
+    {
+      "name": "Jiu-Jitsu",
+      "category": "Artes Marciais"
+    },
+    {
+      "name": "Educação Aristotélica",
+      "category": "História e Filosofia"
+    },
+    {
+      "name": "Relativismo",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Iluminismo",
+      "category": "História e Filosofia"
+    },
+    {
+      "name": "Educação",
+      "category": "Social Concept"
+    },
+    {
+      "name": "Ensino",
+      "category": "Social Concept"
+    },
+    {
+      "name": "Virtude",
+      "category": "Philosophical Concept"
+    },
+    {
+      "name": "Polímatas",
+      "category": "Educational Concept"
+    },
+    {
+      "name": "Massificação do ensino",
+      "category": "Educational Policy"
+    },
+    {
+      "name": "Cultura do mimimi",
+      "category": "Social Behavior"
+    },
+    {
+      "name": "virtudes cardeais",
+      "category": "philosophy"
+    },
+    {
+      "name": "democracia",
+      "category": "political system"
+    },
+    {
+      "name": "monarquia constitucional",
+      "category": "political system"
+    },
+    {
+      "name": "Monarquia Mista",
+      "category": "Sistema Político"
+    },
+    {
+      "name": "República Presidencialista",
+      "category": "Sistema Político"
+    },
+    {
+      "name": "Sistema Matricial",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Business Units",
+      "category": "Gestão Empresarial"
+    },
+    {
+      "name": "Freios e Contrapesos",
+      "category": "Sistema Político"
+    },
+    {
+      "name": "Elite Natural",
+      "category": "Sociologia"
+    },
+    {
+      "name": "Elite Sociológica",
+      "category": "Sociologia"
+    },
+    {
+      "name": "Estado mínimo",
+      "category": "political theory"
+    },
+    {
+      "name": "licitação",
+      "category": "government process"
+    },
+    {
+      "name": "monarquia inglesa",
+      "category": "political system"
+    },
+    {
+      "name": "Constituição de 1824",
+      "category": "historical document"
+    },
+    {
+      "name": "poder moderador",
+      "category": "political concept"
+    },
+    {
+      "name": "parlamentarismo",
+      "category": "political system"
+    }
+  ],
+  "books": [
+    {
+      "title": "Pare de acreditar no governo",
+      "author": "Bruno Garschagen"
+    },
+    {
+      "title": "Direitos Máximos, Deveres Mínimos",
+      "author": "Bruno Garschagen"
+    },
+    {
+      "title": "Aristocracia e seus Críticos",
+      "author": "Miguel Morgado"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "350",
+      "context": "Número de funcionários mencionados em uma companhia hipotética"
+    },
+    {
+      "value": "Cinco negócios em quatro anos",
+      "context": "Crescimento do grupo empresarial mencionado por Tallis Gomes"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Democracia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Miguel Morgado",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Aristocracia E Seus Críticos",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Direitos Máximos, Deveres Mínimos",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Estado Mínimo",
+      "target_type": "concept"
+    },
+    {
+      "source": "São Tomás De Aquino",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Virtudes Cardeais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Francisco Franco",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Monarquia Espanhola",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "B&M, Empreendedorismo Intelectual",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Educação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fernando Collor De Mello",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Galileu Galilei",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Pare De Acreditar No Governo",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Fábio Gugel",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Monarquia Constitucional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aristóteles",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Virtudes Cardeais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ensino",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Constituição De 1824",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Aristóteles",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Poder Moderador",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Garschagen",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Conservadorismo",
+      "target_type": "concept"
+    }
+  ]
+}

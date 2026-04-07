@@ -1,0 +1,2295 @@
+{
+  "id": 42997399170,
+  "title": "COMO RAFAEL FIGUEIREDO REVOLUCIONOU O MERCADO DE TECNOLOGIA | PAPO DE GESTÃO",
+  "guest": "",
+  "date_published": 1758553200,
+  "duration": 3846,
+  "text": "São mais de 600 profissionais hoje diretamente alocados, né? Deve ter um time de back office aí de, pô, somando duas sedes, que é Fortaleza e São Paulo, mais de 60 pessoas. O cliente falou pra gente assim, Rafa, vou te abrir, eu não queria vocês irem com a Magalu. Eu comecei a usar os canais de vocês também pra vender. Isso mudou no Vale, a gente era muito atacando, cara. Vou atacar hoje esse ramo, vou atacar hoje esse segmento. Não funcionava tão bem assim. Cara, eu estive no Vale do Silício ano passado e, assim como todo canto, era todo mundo falando de Iá. Todo mundo falava de Iá, qualquer palestra era voltado a Iá. Bem-vindos ao Papo de Gestão, podcast aqui do G4 Podcasts, onde a gente traz donos de empresas, fundadores, C-levels e gente que tá construindo o Brasil pra contar pra você um pouquinho daquilo que eles têm feito certo pra você aprender, o que eles têm feito errado pra você evitar e, logicamente, dar risada durante esse aprendizado. Então já pega a tua caneta, papel, e se você tá na academia, já abre aí o bloquinho de notas, que hoje vai ser uma aula de tecnologia. A gente recebe aqui um cara que saiu lá do Ceará, o Terra Maravilhosa. Gostosa, né, cara? Gostosa. Passei agora um pedacinho das minhas férias lá com a criançada no Preá. Cara, cheguei lá, tirei o tênis, coloquei o pé na areia e não coloquei nem tênis nem chinelo pra nada. E nem calça, imagino. Só bermuda, cara, maravilhoso. Pô, delícia. E ele saiu lá do Ceará com uma missão, galera, hackear o jeito que a tecnologia chega nas empresas. Ele não quis esperar a próxima tendência, prefiro programar o próprio futuro, e fundou a Tecla T, e com ela ele criou uma nova experiência em outsourcing. Mais humano, mais rápido, mais eficiente. Rafael Figueiredo, ele é engenheiro, CEO, membro do G4 Club, e o nome por trás de todos esses cases de grande crescimento no mercado de tecnologia. Bem-vindo ao Papo de Gestão, meu querido. Tamo junto. Obrigado pelo convite, cara. É isso aí, vamos falar de tecnologia. Não sei por onde tu quer começar. Eu quero começar você explicando o que é a Tecla T e o que é esse tal de outsourcing que um monte de gente fala e ninguém entende. Cara, é um termo difícil pra caramba. A gente fica ainda bem, porra, no formato educativo, nem todo mundo sabe de fato o que é outsourcing, mas basicamente é a terceirização. A gente hoje ajuda empresas que não necessariamente são de tecnologia, mas que precisam de soluções que envolvam tecnologia. Então a gente aloca times pra fazer o que eles precisarem, seja desenvolvimento de apps, site, integração, pra testar, pra fazer gestão de projeto. Eu só não saio da linha de tecnologia, mas de ponta a ponta a gente ajuda empresas nesse modelo. Então deixa eu ver se eu entendi aqui. Eu tenho aqui o G4, a gente terceiriza alguma coisa, mas eu tenho o G4. Não vou falar do G4, vou falar de um caso mais difícil. Cara, eu tenho uma empresa de engenharia que tem umas máquinas que foram programadas em COBOL. Pra quem não entende COBOL, é uma programação... Beleza, só o bancão antigo aqui. Beleza, sou um banco antigo que tem um mainframe que é programado em COBOL. E ninguém mais hoje em dia programa COBOL. E eu preciso de gente pra fazer isso. Vocês conseguem? Cara, consigo. Como você consegue isso? Cara, esse é o segredo. Por exemplo, um caso parecido. Não chegou a ser COBOL não, mas o Grupo Mateus. Cara, o Grupo Mateus em 2020, eu estava com o desafio de alocar profissional em São Luís do Maranhão que programava em C++. Hoje o moleque que entra na faculdade não vê mais nada de C++ e eu precisava fazer isso. Cara, a gente desenvolveu um modelo que eu sou muito bom em conversar com a comunidade de tecnologia. Eu tenho que fazer com que a tecla T seja um ambiente atrativo pra essa galera e que ele veja valor em estar com a gente não no mercado. Mas esse é o desafio, é um motor de recrutamento e seleção bem aplicado. Perfeito, então você recruta e seleciona pra qualquer tipo de demanda. Eu dei esse extremo de COBOL, C++, até as mais avançadas, pode ser front-end, back-end, infraestrutura, data center, tudo. E aí tem uma pitadinha que dificulta. Há nove meses eu estou prometendo pra galera que não importa a tecnologia, não importa se é presencial, se é remoto, se é em Fortaleza, se é em uma capital no interior. Cara, em sete dias tem que estar começando o teu projeto. E aí? Cara, há nove meses eu não quebro minha promessa. Caramba, hein? Há nove meses eu estou honrando. E quem te contrata? Empresa grande, empresa média, empresa pequena, precisa ter um contrato mínimo, não precisa... Não precisa ter contrato mínimo. E isso acho que é o que faz com que tanto o pequeno quanto o gigante consiga contratar. O que vai variar é o volume. O App Vida me pede mais de 200 profissionais. Uma empresa de bairro que vende tintas, talvez vai ter meio profissional part-time. Essa temática, essa proposta de entregar com sete dias, ela me traz um problema, porque aparentemente eu vou entregar qualquer profissional só pra te atender o SLA. E aí eu tenho que trazer algum outro benefício pra ele, que é eu nunca mudei isso, cara. Até hoje a gente nunca teve contrato de fidelidade, nunca teve multa. Então assim, não adianta eu ser rápido e te entregar qualquer pessoa, porque o meu contrato não me prende a ti. Todo mês ele é renovado. E esse contrato é igual pra App Vida, Grupo Mateus, Magalu, M Dias Branco, Ernest Young, todos estão nesse modelo, cara. Então se você não entregar qualidade, ele pode te tirar o contrato. Total, total. E eu sou muito orgulhoso de falar que o meu primeiro cliente está comigo até hoje, cara. E está nesse modelo. Que irado. Então, e daí você terceiriza isso pra ele, mas daí você terceiriza e aloca na empresa do cara, e daí ele vai ser tocado por um gestor da empresa, ou você faz a própria gestão daquele projeto, ou pode ser também o que que já... Tem de tudo. O que normalmente tem acontecido é que quanto maior a empresa, menos eu entrego gestão. Quanto maior o grupo, eu vou entregar a mão de obra que vai produzir, mas a gestão está na mão dele. Quanto menor, aí o pequeno e médio se encaixam. Cara, eu vou entrar de ponta a ponta. A gente está desenvolvendo um formato, cara, que é o meu sonho que isso dê certo, mesmo que encarar a TI como um serviço. Cara, a TI é as a service. Cara, não faz sentido uma empresa de... Vou usar o exemplo de tinta de novo, uma funerária. Porra, pra que a funerária quer ter o problema de lidar com a gestão de um time de tecnologia? Cara, ela vai me passar a demanda, dali pra frente é uma caixa preta que eu toco e vai ter só a saída, que é o que ela está buscando. E, cara, tem muita tecnologia dentro de casa pra apoiar. Então, o meu profissional que vai cuidar de gestão, que vai ter essa conversa, ele não precisa lembrar de tudo isso. Do outro lado tem um robozinho nosso que vai dizendo, porra, fala daquele tema que ele falou na reunião passada. Lembra disso. Pô, ele falou que vai se mudar? Então já disparo a mensagenzinha, cara, que tem que ter alguma ação pra casa nova dele. E aí vai um brinde surpresa pra casa desse profissional. Então, cara, tem muita tecnologia envolvida pra cuidar de gente. Quantos profissionais você tem hoje dentro de casa? Cara, são mais de 600 profissionais hoje diretamente alocados, né? Então são 600 alocados em clientes. Exato. Deve ter um time de back-office aí de, pô, somando duas sedes, que é Fortaleza e São Paulo, mais 60 pessoas. Então 60 pessoas dentro desses 600, ou a par desses 60? A par. Então você tem hoje 660 pessoas no total, sendo 60 dedicadas no cliente, 60 que faz a gestão de toda essa loucura. E, cara, antes da tecla T, você passou ali por experiências difíceis como profissional de tecnologia. O que que fez você decidir, falar, meu, eu acho que tem um jeito melhor e eu vou fazer do meu jeito? De onde veio essa fagulha de empreender? Cara, eu fui desenvolvedor por muito tempo, né? Fui engenheiro de computação e fui desenvolvedor. Mas tinha alguma coisa estranha, cara, porque eu não era o melhor aluno da sala, mas eu era desenrolado. Eu tava na sala, eu entrei na faculdade sem saber programar e me sentia, porra, completamente estranho, porque meus amigos entraram sabendo. E aí eu tava na sala, o time de tecnologia mais diferentão, todo mundo gostava de rock e eu gostava de forró. A galera gostava de olhar pra tela do computador, porra, eu gostava de conversar. E aí, cara, mas fui indo, aluno seis e meio, sete\n\nE depois de ter dado certo, o cliente falou pra gente assim, Rafa, vou te abrir, eu não queria vocês aqui na Magalu. Eu falei, porra, por quê? O que é que eu fiz? Ele, não, é porque eu já tinha resolvido tudo. Ano passado a gente fez uma reestruturação, tirei todos os fornecedores que não faziam mais sentido, deixamos fixos esses, eu não podia incluir mais um, mas eu incluí vocês. Eu falei, tá bom, agora me conta o porquê. Eu senti que vocês têm, eu estava com saudade de empresa de dono, pô. Que se der merda, eu vou te ligar, tu vai atender, tu vai resolver o problema. E essa foi a primeira coisinha que eu fiz lá em 2019, né? Então, o que mudou no processo, cara, eu estava muito presente e esse profissional era muito ativado pela tecla T. Ele participava dos nossos eventos, participava da nossa cultura. Então, ele fala, eu sou o tecla T. Até hoje ele fala, esses 600 falam, eu sou o tecla T. Só que você não leva os 600 no primeiro dia de aula a mais, né? Não levo mais. Mas tem alguém que faz? Eu nem conheço os 600 hoje. Tem alguém que faz? Tem, tem. Dentro desse time de gente de gestão que conversa, vai ter alguém que vai acompanhar, isso a gente não perdeu. Legal. Isso a gente não perdeu. Muito bom, cara. E aí, Brunão, tem um detalhe. De novo, se esse cara contratasse melhor do que eu, ele não me contratava. Como é que eu faço para ter o mesmo profissional? Eu sou muito claro. Eu contrato o profissional que ele quer e muitas vezes eu vou pagar menos do que o que ele quer. Porque esse cara quer vir para a tecla T. Esse ano, nós estamos em agosto falando, já passaram mais de 5 mil pessoas do nosso banco de talentos levantando a mão. Quero trabalhar na tecla T. E você fala não? Não, não, eu falo sim. Óbvio que vamos entender a demanda de mercado, mas é por isso que eu sou rápido nos 7 dias. O meu banco de talentos está muito forte. E como que você criou essa love brand, essa marca desejada pelos desenvolvedores? De novo, eu não sabia o que fazer, eu sabia o que não fazer. Eu comecei a perder profissional e aí vamos lá, eu comecei a tecla T em 19, em fevereiro de 20 começou uma pandemia. E a gente veio todo mundo indo para fora, salários muito atrativos. E aí eu comecei a perceber, pera, por que eu estou perdendo um profissional para trabalhar fora? Ah não, Rafa, é porque eu quero trabalhar num projeto para falar inglês, é um projeto que vai fazer sentido para a minha carreira. Aí eu falei, tá bom, então o que é que eu preciso fazer para que a tecla T seja atraente? Eu vou trazer um contrato internacional. Legal. Trouxe o primeiro contrato da Austrália. Primeira vez que a Heineken terceirizou um projeto de tecnologia fora do ambiente Heineken e foi com a gente. Falei, cara, tu quer falar inglês? Pois tá aqui o projeto. Eu me associei a empresas de fora dizendo, cara, meu preço é cinco vezes mais barato do que o teu, pô. É um preço Brasil, tu vai ganhar na moeda que for, tu me paga em real. O meu cliente, o meu colaborador vai trabalhar no projeto que ele quer. Eu comecei a não perder. Então eu fui entendendo, esse cara tá saindo por esse motivo, eu vou contornar essa objeção. No final das contas, é comercial de toda ponta, pô. Só que é um comercial com colaborador. A objeção desse colaborador, que poderia ser de um cliente, só que ele é um cliente interno, a dor naquele momento era, eu preciso trabalhar numa empresa maneira. O desenvolvedor, cara, o profissional... Porrada, hein? Porrada. O profissional de tecnologia, ele tem uma veia meio artística. Pô, eu falo, eu fui desenvolvedor e falo abertamente. Cara, eu acho babozeira, tá? O que me motivava era pagar a conta, era grana. Não tava muito ligando pra projeto. Mas tem muita gente que tá. Tem muita gente que tá. E tá tudo bem. E aí eu entendi que pra eles é uma atividade meio artística, o projeto faz sim diferença. Ele topa, às vezes, ganhar menos, porque o projeto vai trazer uma repercussão pra carreira dele diferenciada. Então tá bom. Seja de aprender uma nova linguagem, seja de desenvolver um negócio pra uma empresa bacana, que ele fala, cara, olha o que eu desenvolvi. Tem muito mais o lance do desafio do que de fato do dinheiro. Exatamente. Então eu comecei a trazer esse projeto. Mas daí são perfis de colaboradores dentro desses 600, que tem os que querem dinheiro, tem os que querem falar inglês, tem os que querem o desafio, tem os que querem programar em COBOL, tem os que... E assim por diante. E aí por diante. Que legal, cara. Quando que foi o momento que você falou, meu, o Teclatev vingou? Pô, não faz muito tempo não, viu? Eu tenho uma característica, cara, e eu acho de fato que não é vantagem não, é só uma característica, de não comemorar muito as coisas. E talvez, cara, por como tudo começou a Teclatev, eu não vim de um beijo de pais empresários, meu pai é professor da rede pública, minha mãe é enfermeira da rede pública, concursados, não tem nenhum pezinho no empreendedorismo. E, cara, então quando eu fundei a Teclatev, a qualquer momento podia quebrar. Eu não tinha plano B, de fato. Então a qualquer momento podia quebrar. E então eu adotei uma postura de não comemorar. Eu falei, cara, não vou comemorar agora não, porque vai que daqui a dois meses quebra. Então deixa quieto. E aí a gente fechou esse primeiro contrato. Isso é igualzinho você, cara. É muito doido, pô. É muito doido. E aí eu fechei o primeiro contrato. Você tá paranoico toda hora. Toda hora. Cara, hoje eu ainda não desligo. Mas assim, fechei o primeiro contrato, não comemorei. Ah, me pediu 12 profissionais. Cara, não comemorei não. Vou comemorar quando tiver 20. Chegou os 20, eu não comemorei. A gente fechou a Pivida, cara, acho que em 21. Cara, já chegou com uma pancada. Sei lá, eram quase 100 profissionais de cara, assim, pra gente implantar. Falei, assinei o contrato, Brunão. Não comemorei. Eu falei, só vou comemorar quando preencher essas posições. Preenchemos, eu não comemorei. Eu falei, só vou comemorar quando chegar em 100. Chegou 100, eu não comemorei. Chegou 200, eu não comemorei. A parte ruim disso é que vai ficando pesada essa jornada. Vai ficando meio que... Não vai ter uma linha de chegada. Mas ao mesmo tempo, cara, vai me fazendo... Tá toda hora querendo mais. Querendo mais. Então, talvez eu percebi que a tecla T deu certo. Porra, sei lá, junho do ano passado? Talvez. Mas por quê? Porque eu vi que ela conseguia andar por conta própria. Eu não tava mais sendo extremamente necessário pra essa operação. Tanto que hoje, entre um profissional, eu não preciso recrutar ele, eu não preciso conhecer ele, eu não levei ele no primeiro dia, ele passou o primeiro mês, o cliente não reportou nada pra mim, às vezes ele nem sabe quem eu sou. Funcionou sem mim. Então, aí eu senti que virou uma empresa, parou de estar uma dependência... Uma founder dependência. Exato. Óbvio que hoje essas maiores contas, cara, eu faço questão de conhecer, de fazer esse processo. O maior canal de aquisição hoje tá passando por mim ainda nessa aproximação. E eu acho que talvez nunca mude. Mas ela não depende mais. E, cara, como é que é vender pra uma empresa grande? Cara, é difícil. E talvez isso foi a parte frustrante de ter vindo pra São Paulo. Eu abro o site aqui em São Paulo em 2022. Pô, cheguei grandão. Já tendo o grupo Matheus, M.Dias Branco, Beach Park, os maiores do Nordeste já estavam na minha lista de clientes. Cheguei aqui, ninguém abriu porta. Cheguei aqui, ok, tá bom, beleza. Eu entendo que também era finalzinho de pandemia, a rotina de escritório ainda não tava 100%, e eu me vi ali, primeiro, sem as empresas abrirem as portas como eu achei que elas abririam, e segundo, conseguindo tocar a minha agenda toda remota. Eu falei, por que que eu tô em São Paulo, pô? Tô longe de praia, longe da minha família, pagando caro, minha agenda toda online. Não preciso estar aqui. Voltei pro Ceará. Durou 4, 5 meses, voltei pro Ceará. Como casa, né? E aí fiquei indo e voltando até o fim de 23. E aí eu vim em 24 de novo, cara. A terceira tentativa, e hoje, pô, é incrível, o melhor momento pessoal e profissional nosso. Mas porque eu entendi como é que é o game de São Paulo, pô. Tá\n\nmais logicamente que depois que você já está um pouquinho maior, isso não faz sentido. Exatamente. Precificação é uma delas. E fluxo de caixa, para quem aqui não entendeu, galera, é o seguinte. Imagina que ele vai alocar 20 pessoas num projeto novo. E esse cliente vai pagar ele daqui 120 dias, ou seja, 4 meses. O que ele tem que fazer durante esses 4 meses? Ele tem que ter dinheiro para sustentar o salário dessas 20 pessoas. Então, se cada uma ganha 10 mil reais, provavelmente é mais, provavelmente é menos, você está falando de 200 mil reais por mês, vezes 4, dá 800 mil reais. Então, se ele não tiver 800 mil reais em caixa para bancar esses 4 meses, vai dar ruim. E além disso, isso daqui é uma medida importante do quanto você também pode crescer e de que tipo de projeto você pode aceitar. E às vezes o que acaba acontecendo, já deve ter acontecido com vocês, o quão desesperado também está o cliente. Se o cliente vem para você e fala, cara, eu quero 50 devs para amanhã, você fala, tá bom, e eu quero pagar só daqui a 4 meses, então eu não vou conseguir para amanhã, eu vou conseguir para daqui 2, 3 meses. Aí você fala, mas por quê? Porque, cara, isso daqui vai descasar muito o meu fluxo de caixa. Tudo bem que 50 hoje para você, como você está em um tamanho de 600, você cabe, mas se alguém chegar e pedir 200, não dá hoje, a não ser que você vai antecipar no banco, tomar um empréstimo ou o que seja. Que daí são outras vezes que você conseguiria bancar, mas você chega para falar, meu amigo, eu não consigo, a não ser que você pague antecipado ou pague a cada mês e daqui tanto tempo a gente vai alongando esse contrato para em algum momento chegar nos 120 dias, mas no começo você vai ter que pagar ali mês a mês e conforme vai crescendo com a própria margem do teu projeto, eu consigo ir te dando mais prazo até chegar no prazo que você quer, mas se descasar o meu fluxo de caixa, dá problema. E é muito normal isso acontecer em empresa de varejo. Muito, muito. O cara vai quebrar com tudo descasado o fluxo dele. Com tudo descasado, porque ele recebe do cliente em sei lá tanto tempo, porque ele parcelou em 12 vezes, tem que pagar o fornecedor dele em 90 dias. Tem que ter estoque. Tem que ter estoque e daí ele pode ter tido lucro, 30%, 40% de lucro, mas ele não vê isso porque às vezes ele antecipou o fornecedor dele para pagar, para conseguir uma negociação melhor, mas o prazo de recebimento dele está maior do que o prazo de pagamento para o fornecedor. Então, é um caso que até quem quiser ouvir aí, eu gravei aqui um podcast no Papo de Gestão com o Richard Aramis, gente boa que ele fala sobre isso. Teve um ano que ele teve o maior lucro da história dele e chegou no fim do ano com quase zero de caixa. Caraca. Mas exatamente por isso, porque ele descasou, para ele conseguir melhores negociações, como ele estava crescendo muito rápido, ele teve que antecipar o pagamento para o fornecedor dele conseguir produzir mais rápido, ele teve melhores margens, mas descasou tudo e como ele vende muito para o... como ele tem outros lugares que ele vende além das lojas próprias, ele também deu mais prazo para o cara comprar. Então, descasou o pagamento. Cara, muito legal. Então, fluxo de caixa, faturamento, vagas em aberto, tempo para fechar as vagas, fluxo de caixa. Legal. Qual lição você daria para o cara que está ouvindo a gente aqui que ele mais tem que se atentar? Porque pelos quadros que você falou, são os 4 pontos de fato mais importantes do teu negócio. Faturamento para ver teu crescimento, vagas abertas que você precisa alocar, que o teu negócio é gente, tempo para cumprir essas vagas, que é a tua autoridade, seriedade, que está em risco, qualidade no fim do dia, fluxo de caixa, que é o quanto você consegue precisar no acelerador ou tem que segurar. Qual que é a tua dica para a galera que está ouvindo a gente das métricas que eles deveriam ver? Eu sei que é muito genérico. Cara, tentando olhar para o caso geral que a gente hoje atende quando fala de dados. Então, sei lá, vai envolver alguma coisa relacionada ao comercial, então vai ter sim algum indicador que determine o forecast desse cara, quanto de vagas na etapa de prospecção do CRM, do que você está negociando. Existe, dá para ter uma noção se os próximos meses serão bons ou ruins, se o teu forecast está apresentando mais ou menos grana. Então, eu olharia para isso. Olharia para, cara, lucro líquido no final do dia, não acredito muito em empresa que ela não gera lucro. Essa operação pode ser momentaneamente não tão eficaz, efetiva também, mas tem que dar lucro. Então, é um indicador que eu acho bem genérico e deveria estar sendo olhado. E, cara, eu olharia o NPS, acho que independente do segmento que o teu cliente está te avaliando, determina muito. No começo da tecla, cara, de novo, a gente não tinha grana. Eu dependia demais da minha indicação. Cara, o NPS era o que eu olhava todo dia. Eu pedia todo dia, cara, para pessoas que poderiam avaliar o nosso serviço. Cara, me fala aí o que eu posso melhorar. Me fala aí como é que foi a minha prestação. Pô, tu indicaria para outra pessoa? Pô, indicaria? Pô, então indica. Então, me ajuda a abrir essa porta. Cara, era a forma mais barata que eu tinha de crescer. Era essa. Então, eu olharia o NPS. E como que você mantém hoje o nível de satisfação e produtividade do time teu alocado e do teu cliente? Na prática, fazendo as mesmas coisas. Só mudou a escala. Mas esse cara continua muito próximo da gente com eventos, com ações. Pô, eu tento de toda forma, cara, ativar esse cara durante o ano todo. Então, eu penso de fato como um grande cronograma. Pô, vai ter festa junina. Vai ter que ter alguma coisa nossa, cara. Seja para o cliente, seja para o colaborador. Vai ter alguma lembrança nossa. Pô, vai ter dia das mães. Pô, vai ter dia dos pais agora no próximo fim de semana. Cara, ontem todos os clientes, pais, levaram seus filhos para conhecer o CT do time de futebol do Fortaleza, pô. Que massa. Os caras entraram em campo, fizeram pô, super isso. Então, cara, teoricamente não tem nada a ver Tecla T. Mas, pô, foram três horas que tinham lá 50 famílias e os garotinhos todos falando, cara, Tecla T, Tecla T. Pô, papai, Tecla T, eu gostei. Quando é que é o próximo? Então, a gente tem hoje de fato um cronograma presente na vida do colaborador e do cliente, cara, para marcar momentos. Cara, isso é algo que às vezes as pessoas passam desapercebido, mas quando é o sonho da pessoa ter um impacto tão profundo que transcede a relação cliente-fornecedor. De fato. Total. Eu tenho um exemplo agora, eu sou viciado em ciclismo, corrida, natação, tipo, triatlon e tal, mas, cara, ciclismo das três modalidades é uma das que eu mais gosto. E veio um amigo meu alemão que eu fiz lá em Harvard aqui para o Brasil e ele tem uma marca que se chama Opessin que patrocina uma das principais equipes de ciclismo do mundo e do Tour de France. Estava rolando o Tour de France quando ele veio aqui. E ele me convidou para ir lá. E, cara, eu passei quatro, cinco dias lá com a turma, com clientes dele, com fornecedores dele, com amigos, a turma que foi viver isso de estar junto com a Opessin acompanhando o Tour de France. Cara, esquece. Qual a chance desse cara não lembrar desse cara, ser grato? Qual a chance eu não ser grato por ele? Então ele nem me pediu ajuda, eu estou ajudando a Opessin aqui no Brasil com a General Manager deles aqui apresentando gente. Cara, assim, eu já era amigo do cara, eu já estava ajudando ele na boa. Mas, cara, depois disso eu quero que eles entrem no Brasil e tenham o máximo de sucesso possível aqui, entendeu? Não porque eu quero ser convidado para o ano que vem, porque ele já disse que vai me convidar. Já tem registrado. É, mas tem a Copa do Mundo ano que vem, então eu não sei se eu vou ter agenda. Tá bom. Mas... Mas marca, cara, é isso. Marca, é assim, é o negócio. E, pô, eu estou repetindo, contando, gravei um vídeo sobre o tema. Cara, 30 mil pessoas quase assistiram o vídeo que eu fiz no YouTube. Cara, 20 e tantos, quase 30 minutos falando sobre o Tour de France. Cara, um monte de gente que não conhecia o PC não conhece. Animal, animal. É... Marca. Transcede. Se liga nesse caso. A gente é patrocinador do Fortaleza. Então a gente tem, nos jogos do Fortaleza, a gente tem todos o camarote lá para receber clientes. Fortaleza e Boca Juniors, ano passado, ingressos esgotados",
+  "text_timestamped": "[00:00] São mais de 600 profissionais hoje diretamente alocados, né?\n[00:09] Deve ter um time de back office aí de, pô, somando duas sedes, que é Fortaleza e São Paulo, mais de 60 pessoas.\n[00:26] O cliente falou pra gente assim, Rafa, vou te abrir, eu não queria vocês irem com a Magalu.\n[00:40] Eu comecei a usar os canais de vocês também pra vender.\n[00:49] Isso mudou no Vale, a gente era muito atacando, cara.\n[00:57] Vou atacar hoje esse ramo, vou atacar hoje esse segmento.\n[01:06] Não funcionava tão bem assim.\n[01:11] Cara, eu estive no Vale do Silício ano passado e, assim como todo canto, era todo mundo falando de Iá.\n[01:27] Todo mundo falava de Iá, qualquer palestra era voltado a Iá.\n[01:36] Bem-vindos ao Papo de Gestão, podcast aqui do G4 Podcasts, onde a gente traz donos de empresas, fundadores, C-levels e gente que tá construindo o Brasil pra contar pra você um pouquinho daquilo que eles têm feito certo pra você aprender, o que eles têm feito errado pra você evitar e, logicamente, dar risada durante esse aprendizado.\n[02:28] Então já pega a tua caneta, papel, e se você tá na academia, já abre aí o bloquinho de notas, que hoje vai ser uma aula de tecnologia.\n[02:49] A gente recebe aqui um cara que saiu lá do Ceará, o Terra Maravilhosa.\n[03:00] Gostosa, né, cara?\n[03:03] Gostosa.\n[03:04] Passei agora um pedacinho das minhas férias lá com a criançada no Preá.\n[03:15] Cara, cheguei lá, tirei o tênis, coloquei o pé na areia e não coloquei nem tênis nem chinelo pra nada.\n[03:31] E nem calça, imagino.\n[03:35] Só bermuda, cara, maravilhoso.\n[03:39] Pô, delícia.\n[03:41] E ele saiu lá do Ceará com uma missão, galera, hackear o jeito que a tecnologia chega nas empresas.\n[03:57] Ele não quis esperar a próxima tendência, prefiro programar o próprio futuro, e fundou a Tecla T, e com ela ele criou uma nova experiência em outsourcing.\n[04:21] Mais humano, mais rápido, mais eficiente.\n[04:27] Rafael Figueiredo, ele é engenheiro, CEO, membro do G4 Club, e o nome por trás de todos esses cases de grande crescimento no mercado de tecnologia.\n[04:50] Bem-vindo ao Papo de Gestão, meu querido.\n[04:57] Tamo junto.\n[04:58] Obrigado pelo convite, cara.\n[05:03] É isso aí, vamos falar de tecnologia.\n[05:09] Não sei por onde tu quer começar.\n[05:14] Eu quero começar você explicando o que é a Tecla T e o que é esse tal de outsourcing que um monte de gente fala e ninguém entende.\n[05:34] Cara, é um termo difícil pra caramba.\n[05:40] A gente fica ainda bem, porra, no formato educativo, nem todo mundo sabe de fato o que é outsourcing, mas basicamente é a terceirização.\n[06:01] A gente hoje ajuda empresas que não necessariamente são de tecnologia, mas que precisam de soluções que envolvam tecnologia.\n[06:20] Então a gente aloca times pra fazer o que eles precisarem, seja desenvolvimento de apps, site, integração, pra testar, pra fazer gestão de projeto.\n[06:43] Eu só não saio da linha de tecnologia, mas de ponta a ponta a gente ajuda empresas nesse modelo.\n[06:58] Então deixa eu ver se eu entendi aqui.\n[07:04] Eu tenho aqui o G4, a gente terceiriza alguma coisa, mas eu tenho o G4.\n[07:16] Não vou falar do G4, vou falar de um caso mais difícil.\n[07:24] Cara, eu tenho uma empresa de engenharia que tem umas máquinas que foram programadas em COBOL.\n[07:39] Pra quem não entende COBOL, é uma programação...\n[07:46] Beleza, só o bancão antigo aqui.\n[07:51] Beleza, sou um banco antigo que tem um mainframe que é programado em COBOL.\n[08:03] E ninguém mais hoje em dia programa COBOL.\n[08:10] E eu preciso de gente pra fazer isso.\n[08:15] Vocês conseguem?\n[08:18] Cara, consigo.\n[08:20] Como você consegue isso?\n[08:24] Cara, esse é o segredo.\n[08:27] Por exemplo, um caso parecido.\n[08:32] Não chegou a ser COBOL não, mas o Grupo Mateus.\n[08:40] Cara, o Grupo Mateus em 2020, eu estava com o desafio de alocar profissional em São Luís do Maranhão que programava em C++.\n[08:59] Hoje o moleque que entra na faculdade não vê mais nada de C++ e eu precisava fazer isso.\n[09:13] Cara, a gente desenvolveu um modelo que eu sou muito bom em conversar com a comunidade de tecnologia.\n[09:28] Eu tenho que fazer com que a tecla T seja um ambiente atrativo pra essa galera e que ele veja valor em estar com a gente não no mercado.\n[09:50] Mas esse é o desafio, é um motor de recrutamento e seleção bem aplicado.\n[10:01] Perfeito, então você recruta e seleciona pra qualquer tipo de demanda.\n[10:12] Eu dei esse extremo de COBOL, C++, até as mais avançadas, pode ser front-end, back-end, infraestrutura, data center, tudo.\n[10:31] E aí tem uma pitadinha que dificulta.\n[10:37] Há nove meses eu estou prometendo pra galera que não importa a tecnologia, não importa se é presencial, se é remoto, se é em Fortaleza, se é em uma capital no interior.\n[11:03] Cara, em sete dias tem que estar começando o teu projeto.\n[11:12] E aí?\n[11:13] Cara, há nove meses eu não quebro minha promessa.\n[11:20] Caramba, hein?\n[11:22] Há nove meses eu estou honrando.\n[11:27] E quem te contrata?\n[11:30] Empresa grande, empresa média, empresa pequena, precisa ter um contrato mínimo, não precisa...\n[11:45] Não precisa ter contrato mínimo.\n[11:50] E isso acho que é o que faz com que tanto o pequeno quanto o gigante consiga contratar.\n[12:04] O que vai variar é o volume.\n[12:08] O App Vida me pede mais de 200 profissionais.\n[12:15] Uma empresa de bairro que vende tintas, talvez vai ter meio profissional part-time.\n[12:28] Essa temática, essa proposta de entregar com sete dias, ela me traz um problema, porque aparentemente eu vou entregar qualquer profissional só pra te atender o SLA.\n[12:54] E aí eu tenho que trazer algum outro benefício pra ele, que é eu nunca mudei isso, cara.\n[13:08] Até hoje a gente nunca teve contrato de fidelidade, nunca teve multa.\n[13:18] Então assim, não adianta eu ser rápido e te entregar qualquer pessoa, porque o meu contrato não me prende a ti.\n[13:36] Todo mês ele é renovado.\n[13:39] E esse contrato é igual pra App Vida, Grupo Mateus, Magalu, M Dias Branco, Ernest Young, todos estão nesse modelo, cara.\n[13:58] Então se você não entregar qualidade, ele pode te tirar o contrato.\n[14:09] Total, total.\n[14:11] E eu sou muito orgulhoso de falar que o meu primeiro cliente está comigo até hoje, cara.\n[14:25] E está nesse modelo.\n[14:28] Que irado.\n[14:29] Então, e daí você terceiriza isso pra ele, mas daí você terceiriza e aloca na empresa do cara, e daí ele vai ser tocado por um gestor da empresa, ou você faz a própria gestão daquele projeto, ou pode ser também o que que já...\n[15:05] Tem de tudo.\n[15:06] O que normalmente tem acontecido é que quanto maior a empresa, menos eu entrego gestão.\n[15:20] Quanto maior o grupo, eu vou entregar a mão de obra que vai produzir, mas a gestão está na mão dele.\n[15:36] Quanto menor, aí o pequeno e médio se encaixam.\n[15:43] Cara, eu vou entrar de ponta a ponta.\n[15:49] A gente está desenvolvendo um formato, cara, que é o meu sonho que isso dê certo, mesmo que encarar a TI como um serviço.\n[16:08] Cara, a TI é as a service.\n[16:12] Cara, não faz sentido uma empresa de...\n[16:18] Vou usar o exemplo de tinta de novo, uma funerária.\n[16:26] Porra, pra que a funerária quer ter o problema de lidar com a gestão de um time de tecnologia?\n[16:41] Cara, ela vai me passar a demanda, dali pra frente é uma caixa preta que eu toco e vai ter só a saída, que é o que ela está buscando.\n[17:01] E, cara, tem muita tecnologia dentro de casa pra apoiar.\n[17:10] Então, o meu profissional que vai cuidar de gestão, que vai ter essa conversa, ele não precisa lembrar de tudo isso.\n[17:28] Do outro lado tem um robozinho nosso que vai dizendo, porra, fala daquele tema que ele falou na reunião passada.\n[17:46] Lembra disso.\n[17:48] Pô, ele falou que vai se mudar?\n[17:53] Então já disparo a mensagenzinha, cara, que tem que ter alguma ação pra casa nova dele.\n[18:06] E aí vai um brinde surpresa pra casa desse profissional.\n[18:15] Então, cara, tem muita tecnologia envolvida pra cuidar de gente.\n[18:25] Quantos profissionais você tem hoje dentro de casa?\n[18:33] Cara, são mais de 600 profissionais hoje diretamente alocados, né?\n[18:43] Então são 600 alocados em clientes.\n[18:49] Exato.\n[18:50] Deve ter um time de back-office aí de, pô, somando duas sedes, que é Fortaleza e São Paulo, mais 60 pessoas.\n[19:07] Então 60 pessoas dentro desses 600, ou a par desses 60?\n[19:15] A par.\n[19:16] Então você tem hoje 660 pessoas no total, sendo 60 dedicadas no cliente, 60 que faz a gestão de toda essa loucura.\n[19:34] E, cara, antes da tecla T, você passou ali por experiências difíceis como profissional de tecnologia.\n[19:50] O que que fez você decidir, falar, meu, eu acho que tem um jeito melhor e eu vou fazer do meu jeito?\n[20:05] De onde veio essa fagulha de empreender?\n[20:12] Cara, eu fui desenvolvedor por muito tempo, né?\n[20:19] Fui engenheiro de computação e fui desenvolvedor.\n[20:27] Mas tinha alguma coisa estranha, cara, porque eu não era o melhor aluno da sala, mas eu era desenrolado.\n[20:43] Eu tava na sala, eu entrei na faculdade sem saber programar e me sentia, porra, completamente estranho, porque meus amigos entraram sabendo.\n[21:05] E aí eu tava na sala, o time de tecnologia mais diferentão, todo mundo gostava de rock e eu gostava de forró.\n[21:22] A galera gostava de olhar pra tela do computador, porra, eu gostava de conversar.\n[21:35] E aí, cara, mas fui indo, aluno seis e meio, sete\n\nE depois de ter dado certo, o cliente falou pra gente assim, Rafa, vou te abrir, eu não queria vocês aqui na Magalu.\n[22:01] Eu falei, porra, por quê?\n[22:05] O que é que eu fiz?\n[22:08] Ele, não, é porque eu já tinha resolvido tudo.\n[22:15] Ano passado a gente fez uma reestruturação, tirei todos os fornecedores que não faziam mais sentido, deixamos fixos esses, eu não podia incluir mais um, mas eu incluí vocês.\n[22:42] Eu falei, tá bom, agora me conta o porquê.\n[22:48] Eu senti que vocês têm, eu estava com saudade de empresa de dono, pô.\n[22:59] Que se der merda, eu vou te ligar, tu vai atender, tu vai resolver o problema.\n[23:11] E essa foi a primeira coisinha que eu fiz lá em 2019, né?\n[23:20] Então, o que mudou no processo, cara, eu estava muito presente e esse profissional era muito ativado pela tecla T.\n[23:38] Ele participava dos nossos eventos, participava da nossa cultura.\n[23:48] Então, ele fala, eu sou o tecla T.\n[23:54] Até hoje ele fala, esses 600 falam, eu sou o tecla T.\n[24:02] Só que você não leva os 600 no primeiro dia de aula a mais, né?\n[24:12] Não levo mais.\n[24:14] Mas tem alguém que faz?\n[24:18] Eu nem conheço os 600 hoje.\n[24:22] Tem alguém que faz?\n[24:25] Tem, tem.\n[24:26] Dentro desse time de gente de gestão que conversa, vai ter alguém que vai acompanhar, isso a gente não perdeu.\n[24:43] Legal.\n[24:44] Isso a gente não perdeu.\n[24:48] Muito bom, cara.\n[24:51] E aí, Brunão, tem um detalhe.\n[24:55] De novo, se esse cara contratasse melhor do que eu, ele não me contratava.\n[25:07] Como é que eu faço para ter o mesmo profissional?\n[25:14] Eu sou muito claro.\n[25:17] Eu contrato o profissional que ele quer e muitas vezes eu vou pagar menos do que o que ele quer.\n[25:32] Porque esse cara quer vir para a tecla T.\n[25:39] Esse ano, nós estamos em agosto falando, já passaram mais de 5 mil pessoas do nosso banco de talentos levantando a mão.\n[25:57] Quero trabalhar na tecla T.\n[26:02] E você fala não?\n[26:04] Não, não, eu falo sim.\n[26:07] Óbvio que vamos entender a demanda de mercado, mas é por isso que eu sou rápido nos 7 dias.\n[26:22] O meu banco de talentos está muito forte.\n[26:28] E como que você criou essa love brand, essa marca desejada pelos desenvolvedores?\n[26:41] De novo, eu não sabia o que fazer, eu sabia o que não fazer.\n[26:50] Eu comecei a perder profissional e aí vamos lá, eu comecei a tecla T em 19, em fevereiro de 20 começou uma pandemia.\n[27:08] E a gente veio todo mundo indo para fora, salários muito atrativos.\n[27:19] E aí eu comecei a perceber, pera, por que eu estou perdendo um profissional para trabalhar fora?\n[27:34] Ah não, Rafa, é porque eu quero trabalhar num projeto para falar inglês, é um projeto que vai fazer sentido para a minha carreira.\n[27:54] Aí eu falei, tá bom, então o que é que eu preciso fazer para que a tecla T seja atraente?\n[28:08] Eu vou trazer um contrato internacional.\n[28:14] Legal.\n[28:15] Trouxe o primeiro contrato da Austrália.\n[28:22] Primeira vez que a Heineken terceirizou um projeto de tecnologia fora do ambiente Heineken e foi com a gente.\n[28:39] Falei, cara, tu quer falar inglês?\n[28:44] Pois tá aqui o projeto.\n[28:47] Eu me associei a empresas de fora dizendo, cara, meu preço é cinco vezes mais barato do que o teu, pô.\n[29:03] É um preço Brasil, tu vai ganhar na moeda que for, tu me paga em real.\n[29:14] O meu cliente, o meu colaborador vai trabalhar no projeto que ele quer.\n[29:25] Eu comecei a não perder.\n[29:29] Então eu fui entendendo, esse cara tá saindo por esse motivo, eu vou contornar essa objeção.\n[29:44] No final das contas, é comercial de toda ponta, pô.\n[29:52] Só que é um comercial com colaborador.\n[29:58] A objeção desse colaborador, que poderia ser de um cliente, só que ele é um cliente interno, a dor naquele momento era, eu preciso trabalhar numa empresa maneira.\n[30:23] O desenvolvedor, cara, o profissional...\n[30:29] Porrada, hein?\n[30:31] Porrada.\n[30:33] O profissional de tecnologia, ele tem uma veia meio artística.\n[30:42] Pô, eu falo, eu fui desenvolvedor e falo abertamente.\n[30:51] Cara, eu acho babozeira, tá?\n[30:55] O que me motivava era pagar a conta, era grana.\n[31:02] Não tava muito ligando pra projeto.\n[31:08] Mas tem muita gente que tá.\n[31:12] Tem muita gente que tá.\n[31:16] E tá tudo bem.\n[31:18] E aí eu entendi que pra eles é uma atividade meio artística, o projeto faz sim diferença.\n[31:32] Ele topa, às vezes, ganhar menos, porque o projeto vai trazer uma repercussão pra carreira dele diferenciada.\n[31:49] Então tá bom.\n[31:51] Seja de aprender uma nova linguagem, seja de desenvolver um negócio pra uma empresa bacana, que ele fala, cara, olha o que eu desenvolvi.\n[32:12] Tem muito mais o lance do desafio do que de fato do dinheiro.\n[32:22] Exatamente.\n[32:23] Então eu comecei a trazer esse projeto.\n[32:30] Mas daí são perfis de colaboradores dentro desses 600, que tem os que querem dinheiro, tem os que querem falar inglês, tem os que querem o desafio, tem os que querem programar em COBOL, tem os que...\n[33:01] E assim por diante.\n[33:04] E aí por diante.\n[33:06] Que legal, cara.\n[33:09] Quando que foi o momento que você falou, meu, o Teclatev vingou?\n[33:19] Pô, não faz muito tempo não, viu?\n[33:24] Eu tenho uma característica, cara, e eu acho de fato que não é vantagem não, é só uma característica, de não comemorar muito as coisas.\n[33:45] E talvez, cara, por como tudo começou a Teclatev, eu não vim de um beijo de pais empresários, meu pai é professor da rede pública, minha mãe é enfermeira da rede pública, concursados, não tem nenhum pezinho no empreendedorismo.\n[34:20] E, cara, então quando eu fundei a Teclatev, a qualquer momento podia quebrar.\n[34:32] Eu não tinha plano B, de fato.\n[34:37] Então a qualquer momento podia quebrar.\n[34:43] E então eu adotei uma postura de não comemorar.\n[34:51] Eu falei, cara, não vou comemorar agora não, porque vai que daqui a dois meses quebra.\n[35:04] Então deixa quieto.\n[35:07] E aí a gente fechou esse primeiro contrato.\n[35:14] Isso é igualzinho você, cara.\n[35:18] É muito doido, pô.\n[35:21] É muito doido.\n[35:23] E aí eu fechei o primeiro contrato.\n[35:29] Você tá paranoico toda hora.\n[35:33] Toda hora.\n[35:35] Cara, hoje eu ainda não desligo.\n[35:40] Mas assim, fechei o primeiro contrato, não comemorei.\n[35:48] Ah, me pediu 12 profissionais.\n[35:53] Cara, não comemorei não.\n[35:56] Vou comemorar quando tiver 20.\n[36:01] Chegou os 20, eu não comemorei.\n[36:06] A gente fechou a Pivida, cara, acho que em 21.\n[36:13] Cara, já chegou com uma pancada.\n[36:18] Sei lá, eram quase 100 profissionais de cara, assim, pra gente implantar.\n[36:30] Falei, assinei o contrato, Brunão.\n[36:35] Não comemorei.\n[36:37] Eu falei, só vou comemorar quando preencher essas posições.\n[36:46] Preenchemos, eu não comemorei.\n[36:51] Eu falei, só vou comemorar quando chegar em 100.\n[36:59] Chegou 100, eu não comemorei.\n[37:03] Chegou 200, eu não comemorei.\n[37:08] A parte ruim disso é que vai ficando pesada essa jornada.\n[37:17] Vai ficando meio que...\n[37:20] Não vai ter uma linha de chegada.\n[37:25] Mas ao mesmo tempo, cara, vai me fazendo...\n[37:32] Tá toda hora querendo mais.\n[37:36] Querendo mais.\n[37:38] Então, talvez eu percebi que a tecla T deu certo.\n[37:46] Porra, sei lá, junho do ano passado?\n[37:52] Talvez.\n[37:53] Mas por quê?\n[37:55] Porque eu vi que ela conseguia andar por conta própria.\n[38:03] Eu não tava mais sendo extremamente necessário pra essa operação.\n[38:13] Tanto que hoje, entre um profissional, eu não preciso recrutar ele, eu não preciso conhecer ele, eu não levei ele no primeiro dia, ele passou o primeiro mês, o cliente não reportou nada pra mim, às vezes ele nem sabe quem eu sou.\n[38:49] Funcionou sem mim.\n[38:52] Então, aí eu senti que virou uma empresa, parou de estar uma dependência...\n[39:04] Uma founder dependência.\n[39:08] Exato.\n[39:09] Óbvio que hoje essas maiores contas, cara, eu faço questão de conhecer, de fazer esse processo.\n[39:23] O maior canal de aquisição hoje tá passando por mim ainda nessa aproximação.\n[39:35] E eu acho que talvez nunca mude.\n[39:40] Mas ela não depende mais.\n[39:44] E, cara, como é que é vender pra uma empresa grande?\n[39:52] Cara, é difícil.\n[39:55] E talvez isso foi a parte frustrante de ter vindo pra São Paulo.\n[40:05] Eu abro o site aqui em São Paulo em 2022.\n[40:11] Pô, cheguei grandão.\n[40:14] Já tendo o grupo Matheus, M.Dias Branco, Beach Park, os maiores do Nordeste já estavam na minha lista de clientes.\n[40:32] Cheguei aqui, ninguém abriu porta.\n[40:37] Cheguei aqui, ok, tá bom, beleza.\n[40:43] Eu entendo que também era finalzinho de pandemia, a rotina de escritório ainda não tava 100%, e eu me vi ali, primeiro, sem as empresas abrirem as portas como eu achei que elas abririam, e segundo, conseguindo tocar a minha agenda toda remota.\n[41:21] Eu falei, por que que eu tô em São Paulo, pô?\n[41:28] Tô longe de praia, longe da minha família, pagando caro, minha agenda toda online.\n[41:41] Não preciso estar aqui.\n[41:44] Voltei pro Ceará.\n[41:47] Durou 4, 5 meses, voltei pro Ceará.\n[41:52] Como casa, né?\n[41:54] E aí fiquei indo e voltando até o fim de 23.\n[42:01] E aí eu vim em 24 de novo, cara.\n[42:06] A terceira tentativa, e hoje, pô, é incrível, o melhor momento pessoal e profissional nosso.\n[42:21] Mas porque eu entendi como é que é o game de São Paulo, pô.\n[42:30] Tá\n\nmais logicamente que depois que você já está um pouquinho maior, isso não faz sentido.\n[42:44] Exatamente.\n[42:46] Precificação é uma delas.\n[42:50] E fluxo de caixa, para quem aqui não entendeu, galera, é o seguinte.\n[43:00] Imagina que ele vai alocar 20 pessoas num projeto novo.\n[43:09] E esse cliente vai pagar ele daqui 120 dias, ou seja, 4 meses.\n[43:19] O que ele tem que fazer durante esses 4 meses?\n[43:26] Ele tem que ter dinheiro para sustentar o salário dessas 20 pessoas.\n[43:36] Então, se cada uma ganha 10 mil reais, provavelmente é mais, provavelmente é menos, você está falando de 200 mil reais por mês, vezes 4, dá 800 mil reais.\n[44:00] Então, se ele não tiver 800 mil reais em caixa para bancar esses 4 meses, vai dar ruim.\n[44:14] E além disso, isso daqui é uma medida importante do quanto você também pode crescer e de que tipo de projeto você pode aceitar.\n[44:34] E às vezes o que acaba acontecendo, já deve ter acontecido com vocês, o quão desesperado também está o cliente.\n[44:51] Se o cliente vem para você e fala, cara, eu quero 50 devs para amanhã, você fala, tá bom, e eu quero pagar só daqui a 4 meses, então eu não vou conseguir para amanhã, eu vou conseguir para daqui 2, 3 meses.\n[45:24] Aí você fala, mas por quê?\n[45:28] Porque, cara, isso daqui vai descasar muito o meu fluxo de caixa.\n[45:38] Tudo bem que 50 hoje para você, como você está em um tamanho de 600, você cabe, mas se alguém chegar e pedir 200, não dá hoje, a não ser que você vai antecipar no banco, tomar um empréstimo ou o que seja.\n[46:10] Que daí são outras vezes que você conseguiria bancar, mas você chega para falar, meu amigo, eu não consigo, a não ser que você pague antecipado ou pague a cada mês e daqui tanto tempo a gente vai alongando esse contrato para em algum momento chegar nos 120 dias, mas no começo você vai ter que pagar ali mês a mês e conforme vai crescendo com a própria margem do teu projeto, eu consigo ir te dando mais prazo até chegar no prazo que você quer, mas se descasar o meu fluxo de caixa, dá problema.\n[47:27] E é muito normal isso acontecer em empresa de varejo.\n[47:35] Muito, muito.\n[47:37] O cara vai quebrar com tudo descasado o fluxo dele.\n[47:45] Com tudo descasado, porque ele recebe do cliente em sei lá tanto tempo, porque ele parcelou em 12 vezes, tem que pagar o fornecedor dele em 90 dias.\n[48:09] Tem que ter estoque.\n[48:12] Tem que ter estoque e daí ele pode ter tido lucro, 30%, 40% de lucro, mas ele não vê isso porque às vezes ele antecipou o fornecedor dele para pagar, para conseguir uma negociação melhor, mas o prazo de recebimento dele está maior do que o prazo de pagamento para o fornecedor.\n[48:55] Então, é um caso que até quem quiser ouvir aí, eu gravei aqui um podcast no Papo de Gestão com o Richard Aramis, gente boa que ele fala sobre isso.\n[49:18] Teve um ano que ele teve o maior lucro da história dele e chegou no fim do ano com quase zero de caixa.\n[49:34] Caraca.\n[49:35] Mas exatamente por isso, porque ele descasou, para ele conseguir melhores negociações, como ele estava crescendo muito rápido, ele teve que antecipar o pagamento para o fornecedor dele conseguir produzir mais rápido, ele teve melhores margens, mas descasou tudo e como ele vende muito para o...\n[50:21] como ele tem outros lugares que ele vende além das lojas próprias, ele também deu mais prazo para o cara comprar.\n[50:39] Então, descasou o pagamento.\n[50:43] Cara, muito legal.\n[50:46] Então, fluxo de caixa, faturamento, vagas em aberto, tempo para fechar as vagas, fluxo de caixa.\n[51:01] Legal.\n[51:02] Qual lição você daria para o cara que está ouvindo a gente aqui que ele mais tem que se atentar?\n[51:17] Porque pelos quadros que você falou, são os 4 pontos de fato mais importantes do teu negócio.\n[51:32] Faturamento para ver teu crescimento, vagas abertas que você precisa alocar, que o teu negócio é gente, tempo para cumprir essas vagas, que é a tua autoridade, seriedade, que está em risco, qualidade no fim do dia, fluxo de caixa, que é o quanto você consegue precisar no acelerador ou tem que segurar.\n[52:19] Qual que é a tua dica para a galera que está ouvindo a gente das métricas que eles deveriam ver?\n[52:34] Eu sei que é muito genérico.\n[52:38] Cara, tentando olhar para o caso geral que a gente hoje atende quando fala de dados.\n[52:51] Então, sei lá, vai envolver alguma coisa relacionada ao comercial, então vai ter sim algum indicador que determine o forecast desse cara, quanto de vagas na etapa de prospecção do CRM, do que você está negociando.\n[53:25] Existe, dá para ter uma noção se os próximos meses serão bons ou ruins, se o teu forecast está apresentando mais ou menos grana.\n[53:45] Então, eu olharia para isso.\n[53:49] Olharia para, cara, lucro líquido no final do dia, não acredito muito em empresa que ela não gera lucro.\n[54:05] Essa operação pode ser momentaneamente não tão eficaz, efetiva também, mas tem que dar lucro.\n[54:20] Então, é um indicador que eu acho bem genérico e deveria estar sendo olhado.\n[54:32] E, cara, eu olharia o NPS, acho que independente do segmento que o teu cliente está te avaliando, determina muito.\n[54:50] No começo da tecla, cara, de novo, a gente não tinha grana.\n[54:59] Eu dependia demais da minha indicação.\n[55:05] Cara, o NPS era o que eu olhava todo dia.\n[55:11] Eu pedia todo dia, cara, para pessoas que poderiam avaliar o nosso serviço.\n[55:23] Cara, me fala aí o que eu posso melhorar.\n[55:29] Me fala aí como é que foi a minha prestação.\n[55:36] Pô, tu indicaria para outra pessoa?\n[55:42] Pô, indicaria?\n[55:44] Pô, então indica.\n[55:46] Então, me ajuda a abrir essa porta.\n[55:52] Cara, era a forma mais barata que eu tinha de crescer.\n[56:00] Era essa.\n[56:02] Então, eu olharia o NPS.\n[56:06] E como que você mantém hoje o nível de satisfação e produtividade do time teu alocado e do teu cliente?\n[56:22] Na prática, fazendo as mesmas coisas.\n[56:27] Só mudou a escala.\n[56:30] Mas esse cara continua muito próximo da gente com eventos, com ações.\n[56:41] Pô, eu tento de toda forma, cara, ativar esse cara durante o ano todo.\n[56:52] Então, eu penso de fato como um grande cronograma.\n[57:00] Pô, vai ter festa junina.\n[57:04] Vai ter que ter alguma coisa nossa, cara.\n[57:10] Seja para o cliente, seja para o colaborador.\n[57:17] Vai ter alguma lembrança nossa.\n[57:22] Pô, vai ter dia das mães.\n[57:26] Pô, vai ter dia dos pais agora no próximo fim de semana.\n[57:35] Cara, ontem todos os clientes, pais, levaram seus filhos para conhecer o CT do time de futebol do Fortaleza, pô.\n[57:52] Que massa.\n[57:54] Os caras entraram em campo, fizeram pô, super isso.\n[58:02] Então, cara, teoricamente não tem nada a ver Tecla T.\n[58:10] Mas, pô, foram três horas que tinham lá 50 famílias e os garotinhos todos falando, cara, Tecla T, Tecla T.\n[58:27] Pô, papai, Tecla T, eu gostei.\n[58:31] Quando é que é o próximo?\n[58:35] Então, a gente tem hoje de fato um cronograma presente na vida do colaborador e do cliente, cara, para marcar momentos.\n[58:54] Cara, isso é algo que às vezes as pessoas passam desapercebido, mas quando é o sonho da pessoa ter um impacto tão profundo que transcede a relação cliente-fornecedor.\n[59:20] De fato.\n[59:21] Total.\n[59:22] Eu tenho um exemplo agora, eu sou viciado em ciclismo, corrida, natação, tipo, triatlon e tal, mas, cara, ciclismo das três modalidades é uma das que eu mais gosto.\n[59:48] E veio um amigo meu alemão que eu fiz lá em Harvard aqui para o Brasil e ele tem uma marca que se chama Opessin que patrocina uma das principais equipes de ciclismo do mundo e do Tour de France.\n[01:00:18] Estava rolando o Tour de France quando ele veio aqui.\n[01:00:26] E ele me convidou para ir lá.\n[01:00:31] E, cara, eu passei quatro, cinco dias lá com a turma, com clientes dele, com fornecedores dele, com amigos, a turma que foi viver isso de estar junto com a Opessin acompanhando o Tour de France.\n[01:01:01] Cara, esquece.\n[01:01:03] Qual a chance desse cara não lembrar desse cara, ser grato?\n[01:01:13] Qual a chance eu não ser grato por ele?\n[01:01:19] Então ele nem me pediu ajuda, eu estou ajudando a Opessin aqui no Brasil com a General Manager deles aqui apresentando gente.\n[01:01:38] Cara, assim, eu já era amigo do cara, eu já estava ajudando ele na boa.\n[01:01:49] Mas, cara, depois disso eu quero que eles entrem no Brasil e tenham o máximo de sucesso possível aqui, entendeu?\n[01:02:07] Não porque eu quero ser convidado para o ano que vem, porque ele já disse que vai me convidar.\n[01:02:21] Já tem registrado.\n[01:02:24] É, mas tem a Copa do Mundo ano que vem, então eu não sei se eu vou ter agenda.\n[01:02:37] Tá bom.\n[01:02:38] Mas...\n[01:02:39] Mas marca, cara, é isso.\n[01:02:42] Marca, é assim, é o negócio.\n[01:02:47] E, pô, eu estou repetindo, contando, gravei um vídeo sobre o tema.\n[01:02:57] Cara, 30 mil pessoas quase assistiram o vídeo que eu fiz no YouTube.\n[01:03:08] Cara, 20 e tantos, quase 30 minutos falando sobre o Tour de France.\n[01:03:18] Cara, um monte de gente que não conhecia o PC não conhece.\n[01:03:27] Animal, animal.\n[01:03:30] É...\n[01:03:30] Marca.\n[01:03:31] Transcede.\n[01:03:33] Se liga nesse caso.\n[01:03:36] A gente é patrocinador do Fortaleza.\n[01:03:41] Então a gente tem, nos jogos do Fortaleza, a gente tem todos o camarote lá para receber clientes.\n[01:03:56] Fortaleza e Boca Juniors, ano passado, ingressos esgotados",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.38,
+      "timestamp": "00:00",
+      "text": "São mais de 600 profissionais hoje diretamente alocados, né?"
+    },
+    {
+      "start": 9.38,
+      "end": 26.74,
+      "timestamp": "00:09",
+      "text": "Deve ter um time de back office aí de, pô, somando duas sedes, que é Fortaleza e São Paulo, mais de 60 pessoas."
+    },
+    {
+      "start": 26.74,
+      "end": 40.97,
+      "timestamp": "00:26",
+      "text": "O cliente falou pra gente assim, Rafa, vou te abrir, eu não queria vocês irem com a Magalu."
+    },
+    {
+      "start": 40.97,
+      "end": 49.58,
+      "timestamp": "00:40",
+      "text": "Eu comecei a usar os canais de vocês também pra vender."
+    },
+    {
+      "start": 49.58,
+      "end": 57.87,
+      "timestamp": "00:49",
+      "text": "Isso mudou no Vale, a gente era muito atacando, cara."
+    },
+    {
+      "start": 57.87,
+      "end": 66.78,
+      "timestamp": "00:57",
+      "text": "Vou atacar hoje esse ramo, vou atacar hoje esse segmento."
+    },
+    {
+      "start": 66.78,
+      "end": 71.31,
+      "timestamp": "01:06",
+      "text": "Não funcionava tão bem assim."
+    },
+    {
+      "start": 71.31,
+      "end": 87.27,
+      "timestamp": "01:11",
+      "text": "Cara, eu estive no Vale do Silício ano passado e, assim como todo canto, era todo mundo falando de Iá."
+    },
+    {
+      "start": 87.27,
+      "end": 96.65,
+      "timestamp": "01:27",
+      "text": "Todo mundo falava de Iá, qualquer palestra era voltado a Iá."
+    },
+    {
+      "start": 96.65,
+      "end": 148.89,
+      "timestamp": "01:36",
+      "text": "Bem-vindos ao Papo de Gestão, podcast aqui do G4 Podcasts, onde a gente traz donos de empresas, fundadores, C-levels e gente que tá construindo o Brasil pra contar pra você um pouquinho daquilo que eles têm feito certo pra você aprender, o que eles têm feito errado pra você evitar e, logicamente, dar risada durante esse aprendizado."
+    },
+    {
+      "start": 148.89,
+      "end": 169.84,
+      "timestamp": "02:28",
+      "text": "Então já pega a tua caneta, papel, e se você tá na academia, já abre aí o bloquinho de notas, que hoje vai ser uma aula de tecnologia."
+    },
+    {
+      "start": 169.84,
+      "end": 180.79,
+      "timestamp": "02:49",
+      "text": "A gente recebe aqui um cara que saiu lá do Ceará, o Terra Maravilhosa."
+    },
+    {
+      "start": 180.79,
+      "end": 183.6,
+      "timestamp": "03:00",
+      "text": "Gostosa, né, cara?"
+    },
+    {
+      "start": 183.6,
+      "end": 184.86,
+      "timestamp": "03:03",
+      "text": "Gostosa."
+    },
+    {
+      "start": 184.86,
+      "end": 195.96,
+      "timestamp": "03:04",
+      "text": "Passei agora um pedacinho das minhas férias lá com a criançada no Preá."
+    },
+    {
+      "start": 195.96,
+      "end": 211.91,
+      "timestamp": "03:15",
+      "text": "Cara, cheguei lá, tirei o tênis, coloquei o pé na areia e não coloquei nem tênis nem chinelo pra nada."
+    },
+    {
+      "start": 211.91,
+      "end": 215.2,
+      "timestamp": "03:31",
+      "text": "E nem calça, imagino."
+    },
+    {
+      "start": 215.2,
+      "end": 219.89,
+      "timestamp": "03:35",
+      "text": "Só bermuda, cara, maravilhoso."
+    },
+    {
+      "start": 219.89,
+      "end": 221.76,
+      "timestamp": "03:39",
+      "text": "Pô, delícia."
+    },
+    {
+      "start": 221.76,
+      "end": 237.25,
+      "timestamp": "03:41",
+      "text": "E ele saiu lá do Ceará com uma missão, galera, hackear o jeito que a tecnologia chega nas empresas."
+    },
+    {
+      "start": 237.25,
+      "end": 261.33,
+      "timestamp": "03:57",
+      "text": "Ele não quis esperar a próxima tendência, prefiro programar o próprio futuro, e fundou a Tecla T, e com ela ele criou uma nova experiência em outsourcing."
+    },
+    {
+      "start": 261.33,
+      "end": 267.74,
+      "timestamp": "04:21",
+      "text": "Mais humano, mais rápido, mais eficiente."
+    },
+    {
+      "start": 267.74,
+      "end": 290.73,
+      "timestamp": "04:27",
+      "text": "Rafael Figueiredo, ele é engenheiro, CEO, membro do G4 Club, e o nome por trás de todos esses cases de grande crescimento no mercado de tecnologia."
+    },
+    {
+      "start": 290.73,
+      "end": 297.15,
+      "timestamp": "04:50",
+      "text": "Bem-vindo ao Papo de Gestão, meu querido."
+    },
+    {
+      "start": 297.15,
+      "end": 298.87,
+      "timestamp": "04:57",
+      "text": "Tamo junto."
+    },
+    {
+      "start": 298.87,
+      "end": 303.24,
+      "timestamp": "04:58",
+      "text": "Obrigado pelo convite, cara."
+    },
+    {
+      "start": 303.24,
+      "end": 309.03,
+      "timestamp": "05:03",
+      "text": "É isso aí, vamos falar de tecnologia."
+    },
+    {
+      "start": 309.03,
+      "end": 314.19,
+      "timestamp": "05:09",
+      "text": "Não sei por onde tu quer começar."
+    },
+    {
+      "start": 314.19,
+      "end": 334.52,
+      "timestamp": "05:14",
+      "text": "Eu quero começar você explicando o que é a Tecla T e o que é esse tal de outsourcing que um monte de gente fala e ninguém entende."
+    },
+    {
+      "start": 334.52,
+      "end": 340.31,
+      "timestamp": "05:34",
+      "text": "Cara, é um termo difícil pra caramba."
+    },
+    {
+      "start": 340.31,
+      "end": 361.58,
+      "timestamp": "05:40",
+      "text": "A gente fica ainda bem, porra, no formato educativo, nem todo mundo sabe de fato o que é outsourcing, mas basicamente é a terceirização."
+    },
+    {
+      "start": 361.58,
+      "end": 380.97,
+      "timestamp": "06:01",
+      "text": "A gente hoje ajuda empresas que não necessariamente são de tecnologia, mas que precisam de soluções que envolvam tecnologia."
+    },
+    {
+      "start": 380.97,
+      "end": 403.96,
+      "timestamp": "06:20",
+      "text": "Então a gente aloca times pra fazer o que eles precisarem, seja desenvolvimento de apps, site, integração, pra testar, pra fazer gestão de projeto."
+    },
+    {
+      "start": 403.96,
+      "end": 418.98,
+      "timestamp": "06:43",
+      "text": "Eu só não saio da linha de tecnologia, mas de ponta a ponta a gente ajuda empresas nesse modelo."
+    },
+    {
+      "start": 418.98,
+      "end": 424.92,
+      "timestamp": "06:58",
+      "text": "Então deixa eu ver se eu entendi aqui."
+    },
+    {
+      "start": 424.92,
+      "end": 436.02,
+      "timestamp": "07:04",
+      "text": "Eu tenho aqui o G4, a gente terceiriza alguma coisa, mas eu tenho o G4."
+    },
+    {
+      "start": 436.02,
+      "end": 444.62,
+      "timestamp": "07:16",
+      "text": "Não vou falar do G4, vou falar de um caso mais difícil."
+    },
+    {
+      "start": 444.62,
+      "end": 459.32,
+      "timestamp": "07:24",
+      "text": "Cara, eu tenho uma empresa de engenharia que tem umas máquinas que foram programadas em COBOL."
+    },
+    {
+      "start": 459.32,
+      "end": 466.83,
+      "timestamp": "07:39",
+      "text": "Pra quem não entende COBOL, é uma programação..."
+    },
+    {
+      "start": 466.83,
+      "end": 471.84,
+      "timestamp": "07:46",
+      "text": "Beleza, só o bancão antigo aqui."
+    },
+    {
+      "start": 471.84,
+      "end": 483.57,
+      "timestamp": "07:51",
+      "text": "Beleza, sou um banco antigo que tem um mainframe que é programado em COBOL."
+    },
+    {
+      "start": 483.57,
+      "end": 490.13,
+      "timestamp": "08:03",
+      "text": "E ninguém mais hoje em dia programa COBOL."
+    },
+    {
+      "start": 490.13,
+      "end": 495.92,
+      "timestamp": "08:10",
+      "text": "E eu preciso de gente pra fazer isso."
+    },
+    {
+      "start": 495.92,
+      "end": 498.42,
+      "timestamp": "08:15",
+      "text": "Vocês conseguem?"
+    },
+    {
+      "start": 498.42,
+      "end": 500.61,
+      "timestamp": "08:18",
+      "text": "Cara, consigo."
+    },
+    {
+      "start": 500.61,
+      "end": 504.37,
+      "timestamp": "08:20",
+      "text": "Como você consegue isso?"
+    },
+    {
+      "start": 504.37,
+      "end": 507.96,
+      "timestamp": "08:24",
+      "text": "Cara, esse é o segredo."
+    },
+    {
+      "start": 507.96,
+      "end": 512.65,
+      "timestamp": "08:27",
+      "text": "Por exemplo, um caso parecido."
+    },
+    {
+      "start": 512.65,
+      "end": 520.0,
+      "timestamp": "08:32",
+      "text": "Não chegou a ser COBOL não, mas o Grupo Mateus."
+    },
+    {
+      "start": 520.0,
+      "end": 539.24,
+      "timestamp": "08:40",
+      "text": "Cara, o Grupo Mateus em 2020, eu estava com o desafio de alocar profissional em São Luís do Maranhão que programava em C++."
+    },
+    {
+      "start": 539.24,
+      "end": 553.0,
+      "timestamp": "08:59",
+      "text": "Hoje o moleque que entra na faculdade não vê mais nada de C++ e eu precisava fazer isso."
+    },
+    {
+      "start": 553.0,
+      "end": 568.8,
+      "timestamp": "09:13",
+      "text": "Cara, a gente desenvolveu um modelo que eu sou muito bom em conversar com a comunidade de tecnologia."
+    },
+    {
+      "start": 568.8,
+      "end": 590.07,
+      "timestamp": "09:28",
+      "text": "Eu tenho que fazer com que a tecla T seja um ambiente atrativo pra essa galera e que ele veja valor em estar com a gente não no mercado."
+    },
+    {
+      "start": 590.07,
+      "end": 601.33,
+      "timestamp": "09:50",
+      "text": "Mas esse é o desafio, é um motor de recrutamento e seleção bem aplicado."
+    },
+    {
+      "start": 601.33,
+      "end": 612.28,
+      "timestamp": "10:01",
+      "text": "Perfeito, então você recruta e seleciona pra qualquer tipo de demanda."
+    },
+    {
+      "start": 612.28,
+      "end": 631.36,
+      "timestamp": "10:12",
+      "text": "Eu dei esse extremo de COBOL, C++, até as mais avançadas, pode ser front-end, back-end, infraestrutura, data center, tudo."
+    },
+    {
+      "start": 631.36,
+      "end": 637.14,
+      "timestamp": "10:31",
+      "text": "E aí tem uma pitadinha que dificulta."
+    },
+    {
+      "start": 637.14,
+      "end": 663.42,
+      "timestamp": "10:37",
+      "text": "Há nove meses eu estou prometendo pra galera que não importa a tecnologia, não importa se é presencial, se é remoto, se é em Fortaleza, se é em uma capital no interior."
+    },
+    {
+      "start": 663.42,
+      "end": 672.33,
+      "timestamp": "11:03",
+      "text": "Cara, em sete dias tem que estar começando o teu projeto."
+    },
+    {
+      "start": 672.33,
+      "end": 673.11,
+      "timestamp": "11:12",
+      "text": "E aí?"
+    },
+    {
+      "start": 673.11,
+      "end": 680.78,
+      "timestamp": "11:13",
+      "text": "Cara, há nove meses eu não quebro minha promessa."
+    },
+    {
+      "start": 680.78,
+      "end": 682.97,
+      "timestamp": "11:20",
+      "text": "Caramba, hein?"
+    },
+    {
+      "start": 682.97,
+      "end": 687.97,
+      "timestamp": "11:22",
+      "text": "Há nove meses eu estou honrando."
+    },
+    {
+      "start": 687.97,
+      "end": 690.94,
+      "timestamp": "11:27",
+      "text": "E quem te contrata?"
+    },
+    {
+      "start": 690.94,
+      "end": 705.64,
+      "timestamp": "11:30",
+      "text": "Empresa grande, empresa média, empresa pequena, precisa ter um contrato mínimo, não precisa..."
+    },
+    {
+      "start": 705.64,
+      "end": 710.65,
+      "timestamp": "11:45",
+      "text": "Não precisa ter contrato mínimo."
+    },
+    {
+      "start": 710.65,
+      "end": 724.25,
+      "timestamp": "11:50",
+      "text": "E isso acho que é o que faz com que tanto o pequeno quanto o gigante consiga contratar."
+    },
+    {
+      "start": 724.25,
+      "end": 728.63,
+      "timestamp": "12:04",
+      "text": "O que vai variar é o volume."
+    },
+    {
+      "start": 728.63,
+      "end": 735.67,
+      "timestamp": "12:08",
+      "text": "O App Vida me pede mais de 200 profissionais."
+    },
+    {
+      "start": 735.67,
+      "end": 748.65,
+      "timestamp": "12:15",
+      "text": "Uma empresa de bairro que vende tintas, talvez vai ter meio profissional part-time."
+    },
+    {
+      "start": 748.65,
+      "end": 774.3,
+      "timestamp": "12:28",
+      "text": "Essa temática, essa proposta de entregar com sete dias, ela me traz um problema, porque aparentemente eu vou entregar qualquer profissional só pra te atender o SLA."
+    },
+    {
+      "start": 774.3,
+      "end": 788.06,
+      "timestamp": "12:54",
+      "text": "E aí eu tenho que trazer algum outro benefício pra ele, que é eu nunca mudei isso, cara."
+    },
+    {
+      "start": 788.06,
+      "end": 798.85,
+      "timestamp": "13:08",
+      "text": "Até hoje a gente nunca teve contrato de fidelidade, nunca teve multa."
+    },
+    {
+      "start": 798.85,
+      "end": 816.21,
+      "timestamp": "13:18",
+      "text": "Então assim, não adianta eu ser rápido e te entregar qualquer pessoa, porque o meu contrato não me prende a ti."
+    },
+    {
+      "start": 816.21,
+      "end": 819.96,
+      "timestamp": "13:36",
+      "text": "Todo mês ele é renovado."
+    },
+    {
+      "start": 819.96,
+      "end": 838.73,
+      "timestamp": "13:39",
+      "text": "E esse contrato é igual pra App Vida, Grupo Mateus, Magalu, M Dias Branco, Ernest Young, todos estão nesse modelo, cara."
+    },
+    {
+      "start": 838.73,
+      "end": 849.21,
+      "timestamp": "13:58",
+      "text": "Então se você não entregar qualidade, ele pode te tirar o contrato."
+    },
+    {
+      "start": 849.21,
+      "end": 851.24,
+      "timestamp": "14:09",
+      "text": "Total, total."
+    },
+    {
+      "start": 851.24,
+      "end": 865.01,
+      "timestamp": "14:11",
+      "text": "E eu sou muito orgulhoso de falar que o meu primeiro cliente está comigo até hoje, cara."
+    },
+    {
+      "start": 865.01,
+      "end": 868.13,
+      "timestamp": "14:25",
+      "text": "E está nesse modelo."
+    },
+    {
+      "start": 868.13,
+      "end": 869.7,
+      "timestamp": "14:28",
+      "text": "Que irado."
+    },
+    {
+      "start": 869.7,
+      "end": 905.04,
+      "timestamp": "14:29",
+      "text": "Então, e daí você terceiriza isso pra ele, mas daí você terceiriza e aloca na empresa do cara, e daí ele vai ser tocado por um gestor da empresa, ou você faz a própria gestão daquele projeto, ou pode ser também o que que já..."
+    },
+    {
+      "start": 905.04,
+      "end": 906.92,
+      "timestamp": "15:05",
+      "text": "Tem de tudo."
+    },
+    {
+      "start": 906.92,
+      "end": 920.53,
+      "timestamp": "15:06",
+      "text": "O que normalmente tem acontecido é que quanto maior a empresa, menos eu entrego gestão."
+    },
+    {
+      "start": 920.53,
+      "end": 936.16,
+      "timestamp": "15:20",
+      "text": "Quanto maior o grupo, eu vou entregar a mão de obra que vai produzir, mas a gestão está na mão dele."
+    },
+    {
+      "start": 936.16,
+      "end": 943.51,
+      "timestamp": "15:36",
+      "text": "Quanto menor, aí o pequeno e médio se encaixam."
+    },
+    {
+      "start": 943.51,
+      "end": 949.3,
+      "timestamp": "15:43",
+      "text": "Cara, eu vou entrar de ponta a ponta."
+    },
+    {
+      "start": 949.3,
+      "end": 968.22,
+      "timestamp": "15:49",
+      "text": "A gente está desenvolvendo um formato, cara, que é o meu sonho que isso dê certo, mesmo que encarar a TI como um serviço."
+    },
+    {
+      "start": 968.22,
+      "end": 972.29,
+      "timestamp": "16:08",
+      "text": "Cara, a TI é as a service."
+    },
+    {
+      "start": 972.29,
+      "end": 978.39,
+      "timestamp": "16:12",
+      "text": "Cara, não faz sentido uma empresa de..."
+    },
+    {
+      "start": 978.39,
+      "end": 986.37,
+      "timestamp": "16:18",
+      "text": "Vou usar o exemplo de tinta de novo, uma funerária."
+    },
+    {
+      "start": 986.37,
+      "end": 1001.07,
+      "timestamp": "16:26",
+      "text": "Porra, pra que a funerária quer ter o problema de lidar com a gestão de um time de tecnologia?"
+    },
+    {
+      "start": 1001.07,
+      "end": 1021.87,
+      "timestamp": "16:41",
+      "text": "Cara, ela vai me passar a demanda, dali pra frente é uma caixa preta que eu toco e vai ter só a saída, que é o que ela está buscando."
+    },
+    {
+      "start": 1021.87,
+      "end": 1030.63,
+      "timestamp": "17:01",
+      "text": "E, cara, tem muita tecnologia dentro de casa pra apoiar."
+    },
+    {
+      "start": 1030.63,
+      "end": 1048.77,
+      "timestamp": "17:10",
+      "text": "Então, o meu profissional que vai cuidar de gestão, que vai ter essa conversa, ele não precisa lembrar de tudo isso."
+    },
+    {
+      "start": 1048.77,
+      "end": 1066.28,
+      "timestamp": "17:28",
+      "text": "Do outro lado tem um robozinho nosso que vai dizendo, porra, fala daquele tema que ele falou na reunião passada."
+    },
+    {
+      "start": 1066.28,
+      "end": 1068.32,
+      "timestamp": "17:46",
+      "text": "Lembra disso."
+    },
+    {
+      "start": 1068.32,
+      "end": 1073.16,
+      "timestamp": "17:48",
+      "text": "Pô, ele falou que vai se mudar?"
+    },
+    {
+      "start": 1073.16,
+      "end": 1086.77,
+      "timestamp": "17:53",
+      "text": "Então já disparo a mensagenzinha, cara, que tem que ter alguma ação pra casa nova dele."
+    },
+    {
+      "start": 1086.77,
+      "end": 1095.53,
+      "timestamp": "18:06",
+      "text": "E aí vai um brinde surpresa pra casa desse profissional."
+    },
+    {
+      "start": 1095.53,
+      "end": 1105.54,
+      "timestamp": "18:15",
+      "text": "Então, cara, tem muita tecnologia envolvida pra cuidar de gente."
+    },
+    {
+      "start": 1105.54,
+      "end": 1113.51,
+      "timestamp": "18:25",
+      "text": "Quantos profissionais você tem hoje dentro de casa?"
+    },
+    {
+      "start": 1113.51,
+      "end": 1123.84,
+      "timestamp": "18:33",
+      "text": "Cara, são mais de 600 profissionais hoje diretamente alocados, né?"
+    },
+    {
+      "start": 1123.84,
+      "end": 1129.31,
+      "timestamp": "18:43",
+      "text": "Então são 600 alocados em clientes."
+    },
+    {
+      "start": 1129.31,
+      "end": 1130.25,
+      "timestamp": "18:49",
+      "text": "Exato."
+    },
+    {
+      "start": 1130.25,
+      "end": 1147.14,
+      "timestamp": "18:50",
+      "text": "Deve ter um time de back-office aí de, pô, somando duas sedes, que é Fortaleza e São Paulo, mais 60 pessoas."
+    },
+    {
+      "start": 1147.14,
+      "end": 1155.74,
+      "timestamp": "19:07",
+      "text": "Então 60 pessoas dentro desses 600, ou a par desses 60?"
+    },
+    {
+      "start": 1155.74,
+      "end": 1156.68,
+      "timestamp": "19:15",
+      "text": "A par."
+    },
+    {
+      "start": 1156.68,
+      "end": 1174.51,
+      "timestamp": "19:16",
+      "text": "Então você tem hoje 660 pessoas no total, sendo 60 dedicadas no cliente, 60 que faz a gestão de toda essa loucura."
+    },
+    {
+      "start": 1174.51,
+      "end": 1190.3,
+      "timestamp": "19:34",
+      "text": "E, cara, antes da tecla T, você passou ali por experiências difíceis como profissional de tecnologia."
+    },
+    {
+      "start": 1190.3,
+      "end": 1205.94,
+      "timestamp": "19:50",
+      "text": "O que que fez você decidir, falar, meu, eu acho que tem um jeito melhor e eu vou fazer do meu jeito?"
+    },
+    {
+      "start": 1205.94,
+      "end": 1212.2,
+      "timestamp": "20:05",
+      "text": "De onde veio essa fagulha de empreender?"
+    },
+    {
+      "start": 1212.2,
+      "end": 1219.55,
+      "timestamp": "20:12",
+      "text": "Cara, eu fui desenvolvedor por muito tempo, né?"
+    },
+    {
+      "start": 1219.55,
+      "end": 1227.21,
+      "timestamp": "20:19",
+      "text": "Fui engenheiro de computação e fui desenvolvedor."
+    },
+    {
+      "start": 1227.21,
+      "end": 1243.48,
+      "timestamp": "20:27",
+      "text": "Mas tinha alguma coisa estranha, cara, porque eu não era o melhor aluno da sala, mas eu era desenrolado."
+    },
+    {
+      "start": 1243.48,
+      "end": 1265.37,
+      "timestamp": "20:43",
+      "text": "Eu tava na sala, eu entrei na faculdade sem saber programar e me sentia, porra, completamente estranho, porque meus amigos entraram sabendo."
+    },
+    {
+      "start": 1265.37,
+      "end": 1282.42,
+      "timestamp": "21:05",
+      "text": "E aí eu tava na sala, o time de tecnologia mais diferentão, todo mundo gostava de rock e eu gostava de forró."
+    },
+    {
+      "start": 1282.42,
+      "end": 1295.08,
+      "timestamp": "21:22",
+      "text": "A galera gostava de olhar pra tela do computador, porra, eu gostava de conversar."
+    },
+    {
+      "start": 1295.08,
+      "end": 1321.2,
+      "timestamp": "21:35",
+      "text": "E aí, cara, mas fui indo, aluno seis e meio, sete\n\nE depois de ter dado certo, o cliente falou pra gente assim, Rafa, vou te abrir, eu não queria vocês aqui na Magalu."
+    },
+    {
+      "start": 1321.2,
+      "end": 1325.11,
+      "timestamp": "22:01",
+      "text": "Eu falei, porra, por quê?"
+    },
+    {
+      "start": 1325.11,
+      "end": 1328.08,
+      "timestamp": "22:05",
+      "text": "O que é que eu fiz?"
+    },
+    {
+      "start": 1328.08,
+      "end": 1335.28,
+      "timestamp": "22:08",
+      "text": "Ele, não, é porque eu já tinha resolvido tudo."
+    },
+    {
+      "start": 1335.28,
+      "end": 1362.33,
+      "timestamp": "22:15",
+      "text": "Ano passado a gente fez uma reestruturação, tirei todos os fornecedores que não faziam mais sentido, deixamos fixos esses, eu não podia incluir mais um, mas eu incluí vocês."
+    },
+    {
+      "start": 1362.33,
+      "end": 1368.9,
+      "timestamp": "22:42",
+      "text": "Eu falei, tá bom, agora me conta o porquê."
+    },
+    {
+      "start": 1368.9,
+      "end": 1379.69,
+      "timestamp": "22:48",
+      "text": "Eu senti que vocês têm, eu estava com saudade de empresa de dono, pô."
+    },
+    {
+      "start": 1379.69,
+      "end": 1391.89,
+      "timestamp": "22:59",
+      "text": "Que se der merda, eu vou te ligar, tu vai atender, tu vai resolver o problema."
+    },
+    {
+      "start": 1391.89,
+      "end": 1400.81,
+      "timestamp": "23:11",
+      "text": "E essa foi a primeira coisinha que eu fiz lá em 2019, né?"
+    },
+    {
+      "start": 1400.81,
+      "end": 1418.63,
+      "timestamp": "23:20",
+      "text": "Então, o que mudou no processo, cara, eu estava muito presente e esse profissional era muito ativado pela tecla T."
+    },
+    {
+      "start": 1418.63,
+      "end": 1428.8,
+      "timestamp": "23:38",
+      "text": "Ele participava dos nossos eventos, participava da nossa cultura."
+    },
+    {
+      "start": 1428.8,
+      "end": 1434.12,
+      "timestamp": "23:48",
+      "text": "Então, ele fala, eu sou o tecla T."
+    },
+    {
+      "start": 1434.12,
+      "end": 1442.41,
+      "timestamp": "23:54",
+      "text": "Até hoje ele fala, esses 600 falam, eu sou o tecla T."
+    },
+    {
+      "start": 1442.41,
+      "end": 1452.26,
+      "timestamp": "24:02",
+      "text": "Só que você não leva os 600 no primeiro dia de aula a mais, né?"
+    },
+    {
+      "start": 1452.26,
+      "end": 1454.45,
+      "timestamp": "24:12",
+      "text": "Não levo mais."
+    },
+    {
+      "start": 1454.45,
+      "end": 1458.05,
+      "timestamp": "24:14",
+      "text": "Mas tem alguém que faz?"
+    },
+    {
+      "start": 1458.05,
+      "end": 1462.27,
+      "timestamp": "24:18",
+      "text": "Eu nem conheço os 600 hoje."
+    },
+    {
+      "start": 1462.27,
+      "end": 1465.24,
+      "timestamp": "24:22",
+      "text": "Tem alguém que faz?"
+    },
+    {
+      "start": 1465.24,
+      "end": 1466.65,
+      "timestamp": "24:25",
+      "text": "Tem, tem."
+    },
+    {
+      "start": 1466.65,
+      "end": 1483.85,
+      "timestamp": "24:26",
+      "text": "Dentro desse time de gente de gestão que conversa, vai ter alguém que vai acompanhar, isso a gente não perdeu."
+    },
+    {
+      "start": 1483.85,
+      "end": 1484.79,
+      "timestamp": "24:43",
+      "text": "Legal."
+    },
+    {
+      "start": 1484.79,
+      "end": 1488.54,
+      "timestamp": "24:44",
+      "text": "Isso a gente não perdeu."
+    },
+    {
+      "start": 1488.54,
+      "end": 1491.04,
+      "timestamp": "24:48",
+      "text": "Muito bom, cara."
+    },
+    {
+      "start": 1491.04,
+      "end": 1495.58,
+      "timestamp": "24:51",
+      "text": "E aí, Brunão, tem um detalhe."
+    },
+    {
+      "start": 1495.58,
+      "end": 1507.15,
+      "timestamp": "24:55",
+      "text": "De novo, se esse cara contratasse melhor do que eu, ele não me contratava."
+    },
+    {
+      "start": 1507.15,
+      "end": 1514.82,
+      "timestamp": "25:07",
+      "text": "Como é que eu faço para ter o mesmo profissional?"
+    },
+    {
+      "start": 1514.82,
+      "end": 1517.79,
+      "timestamp": "25:14",
+      "text": "Eu sou muito claro."
+    },
+    {
+      "start": 1517.79,
+      "end": 1532.8,
+      "timestamp": "25:17",
+      "text": "Eu contrato o profissional que ele quer e muitas vezes eu vou pagar menos do que o que ele quer."
+    },
+    {
+      "start": 1532.8,
+      "end": 1539.21,
+      "timestamp": "25:32",
+      "text": "Porque esse cara quer vir para a tecla T."
+    },
+    {
+      "start": 1539.21,
+      "end": 1557.82,
+      "timestamp": "25:39",
+      "text": "Esse ano, nós estamos em agosto falando, já passaram mais de 5 mil pessoas do nosso banco de talentos levantando a mão."
+    },
+    {
+      "start": 1557.82,
+      "end": 1562.05,
+      "timestamp": "25:57",
+      "text": "Quero trabalhar na tecla T."
+    },
+    {
+      "start": 1562.05,
+      "end": 1564.55,
+      "timestamp": "26:02",
+      "text": "E você fala não?"
+    },
+    {
+      "start": 1564.55,
+      "end": 1567.99,
+      "timestamp": "26:04",
+      "text": "Não, não, eu falo sim."
+    },
+    {
+      "start": 1567.99,
+      "end": 1582.22,
+      "timestamp": "26:07",
+      "text": "Óbvio que vamos entender a demanda de mercado, mas é por isso que eu sou rápido nos 7 dias."
+    },
+    {
+      "start": 1582.22,
+      "end": 1588.63,
+      "timestamp": "26:22",
+      "text": "O meu banco de talentos está muito forte."
+    },
+    {
+      "start": 1588.63,
+      "end": 1601.3,
+      "timestamp": "26:28",
+      "text": "E como que você criou essa love brand, essa marca desejada pelos desenvolvedores?"
+    },
+    {
+      "start": 1601.3,
+      "end": 1610.68,
+      "timestamp": "26:41",
+      "text": "De novo, eu não sabia o que fazer, eu sabia o que não fazer."
+    },
+    {
+      "start": 1610.68,
+      "end": 1628.83,
+      "timestamp": "26:50",
+      "text": "Eu comecei a perder profissional e aí vamos lá, eu comecei a tecla T em 19, em fevereiro de 20 começou uma pandemia."
+    },
+    {
+      "start": 1628.83,
+      "end": 1639.3,
+      "timestamp": "27:08",
+      "text": "E a gente veio todo mundo indo para fora, salários muito atrativos."
+    },
+    {
+      "start": 1639.3,
+      "end": 1654.32,
+      "timestamp": "27:19",
+      "text": "E aí eu comecei a perceber, pera, por que eu estou perdendo um profissional para trabalhar fora?"
+    },
+    {
+      "start": 1654.32,
+      "end": 1674.65,
+      "timestamp": "27:34",
+      "text": "Ah não, Rafa, é porque eu quero trabalhar num projeto para falar inglês, é um projeto que vai fazer sentido para a minha carreira."
+    },
+    {
+      "start": 1674.65,
+      "end": 1688.57,
+      "timestamp": "27:54",
+      "text": "Aí eu falei, tá bom, então o que é que eu preciso fazer para que a tecla T seja atraente?"
+    },
+    {
+      "start": 1688.57,
+      "end": 1694.82,
+      "timestamp": "28:08",
+      "text": "Eu vou trazer um contrato internacional."
+    },
+    {
+      "start": 1694.82,
+      "end": 1695.76,
+      "timestamp": "28:14",
+      "text": "Legal."
+    },
+    {
+      "start": 1695.76,
+      "end": 1702.02,
+      "timestamp": "28:15",
+      "text": "Trouxe o primeiro contrato da Austrália."
+    },
+    {
+      "start": 1702.02,
+      "end": 1719.06,
+      "timestamp": "28:22",
+      "text": "Primeira vez que a Heineken terceirizou um projeto de tecnologia fora do ambiente Heineken e foi com a gente."
+    },
+    {
+      "start": 1719.06,
+      "end": 1724.38,
+      "timestamp": "28:39",
+      "text": "Falei, cara, tu quer falar inglês?"
+    },
+    {
+      "start": 1724.38,
+      "end": 1727.98,
+      "timestamp": "28:44",
+      "text": "Pois tá aqui o projeto."
+    },
+    {
+      "start": 1727.98,
+      "end": 1743.93,
+      "timestamp": "28:47",
+      "text": "Eu me associei a empresas de fora dizendo, cara, meu preço é cinco vezes mais barato do que o teu, pô."
+    },
+    {
+      "start": 1743.93,
+      "end": 1754.88,
+      "timestamp": "29:03",
+      "text": "É um preço Brasil, tu vai ganhar na moeda que for, tu me paga em real."
+    },
+    {
+      "start": 1754.88,
+      "end": 1765.98,
+      "timestamp": "29:14",
+      "text": "O meu cliente, o meu colaborador vai trabalhar no projeto que ele quer."
+    },
+    {
+      "start": 1765.98,
+      "end": 1769.74,
+      "timestamp": "29:25",
+      "text": "Eu comecei a não perder."
+    },
+    {
+      "start": 1769.74,
+      "end": 1784.12,
+      "timestamp": "29:29",
+      "text": "Então eu fui entendendo, esse cara tá saindo por esse motivo, eu vou contornar essa objeção."
+    },
+    {
+      "start": 1784.12,
+      "end": 1792.1,
+      "timestamp": "29:44",
+      "text": "No final das contas, é comercial de toda ponta, pô."
+    },
+    {
+      "start": 1792.1,
+      "end": 1798.04,
+      "timestamp": "29:52",
+      "text": "Só que é um comercial com colaborador."
+    },
+    {
+      "start": 1798.04,
+      "end": 1823.38,
+      "timestamp": "29:58",
+      "text": "A objeção desse colaborador, que poderia ser de um cliente, só que ele é um cliente interno, a dor naquele momento era, eu preciso trabalhar numa empresa maneira."
+    },
+    {
+      "start": 1823.38,
+      "end": 1829.63,
+      "timestamp": "30:23",
+      "text": "O desenvolvedor, cara, o profissional..."
+    },
+    {
+      "start": 1829.63,
+      "end": 1831.82,
+      "timestamp": "30:29",
+      "text": "Porrada, hein?"
+    },
+    {
+      "start": 1831.82,
+      "end": 1833.07,
+      "timestamp": "30:31",
+      "text": "Porrada."
+    },
+    {
+      "start": 1833.07,
+      "end": 1842.77,
+      "timestamp": "30:33",
+      "text": "O profissional de tecnologia, ele tem uma veia meio artística."
+    },
+    {
+      "start": 1842.77,
+      "end": 1851.06,
+      "timestamp": "30:42",
+      "text": "Pô, eu falo, eu fui desenvolvedor e falo abertamente."
+    },
+    {
+      "start": 1851.06,
+      "end": 1855.44,
+      "timestamp": "30:51",
+      "text": "Cara, eu acho babozeira, tá?"
+    },
+    {
+      "start": 1855.44,
+      "end": 1862.79,
+      "timestamp": "30:55",
+      "text": "O que me motivava era pagar a conta, era grana."
+    },
+    {
+      "start": 1862.79,
+      "end": 1868.26,
+      "timestamp": "31:02",
+      "text": "Não tava muito ligando pra projeto."
+    },
+    {
+      "start": 1868.26,
+      "end": 1872.49,
+      "timestamp": "31:08",
+      "text": "Mas tem muita gente que tá."
+    },
+    {
+      "start": 1872.49,
+      "end": 1876.08,
+      "timestamp": "31:12",
+      "text": "Tem muita gente que tá."
+    },
+    {
+      "start": 1876.08,
+      "end": 1878.27,
+      "timestamp": "31:16",
+      "text": "E tá tudo bem."
+    },
+    {
+      "start": 1878.27,
+      "end": 1892.19,
+      "timestamp": "31:18",
+      "text": "E aí eu entendi que pra eles é uma atividade meio artística, o projeto faz sim diferença."
+    },
+    {
+      "start": 1892.19,
+      "end": 1909.24,
+      "timestamp": "31:32",
+      "text": "Ele topa, às vezes, ganhar menos, porque o projeto vai trazer uma repercussão pra carreira dele diferenciada."
+    },
+    {
+      "start": 1909.24,
+      "end": 1911.27,
+      "timestamp": "31:49",
+      "text": "Então tá bom."
+    },
+    {
+      "start": 1911.27,
+      "end": 1932.7,
+      "timestamp": "31:51",
+      "text": "Seja de aprender uma nova linguagem, seja de desenvolver um negócio pra uma empresa bacana, que ele fala, cara, olha o que eu desenvolvi."
+    },
+    {
+      "start": 1932.7,
+      "end": 1942.24,
+      "timestamp": "32:12",
+      "text": "Tem muito mais o lance do desafio do que de fato do dinheiro."
+    },
+    {
+      "start": 1942.24,
+      "end": 1943.96,
+      "timestamp": "32:22",
+      "text": "Exatamente."
+    },
+    {
+      "start": 1943.96,
+      "end": 1950.06,
+      "timestamp": "32:23",
+      "text": "Então eu comecei a trazer esse projeto."
+    },
+    {
+      "start": 1950.06,
+      "end": 1981.18,
+      "timestamp": "32:30",
+      "text": "Mas daí são perfis de colaboradores dentro desses 600, que tem os que querem dinheiro, tem os que querem falar inglês, tem os que querem o desafio, tem os que querem programar em COBOL, tem os que..."
+    },
+    {
+      "start": 1981.18,
+      "end": 1984.15,
+      "timestamp": "33:01",
+      "text": "E assim por diante."
+    },
+    {
+      "start": 1984.15,
+      "end": 1986.65,
+      "timestamp": "33:04",
+      "text": "E aí por diante."
+    },
+    {
+      "start": 1986.65,
+      "end": 1989.15,
+      "timestamp": "33:06",
+      "text": "Que legal, cara."
+    },
+    {
+      "start": 1989.15,
+      "end": 1999.16,
+      "timestamp": "33:09",
+      "text": "Quando que foi o momento que você falou, meu, o Teclatev vingou?"
+    },
+    {
+      "start": 1999.16,
+      "end": 2004.32,
+      "timestamp": "33:19",
+      "text": "Pô, não faz muito tempo não, viu?"
+    },
+    {
+      "start": 2004.32,
+      "end": 2025.44,
+      "timestamp": "33:24",
+      "text": "Eu tenho uma característica, cara, e eu acho de fato que não é vantagem não, é só uma característica, de não comemorar muito as coisas."
+    },
+    {
+      "start": 2025.44,
+      "end": 2060.94,
+      "timestamp": "33:45",
+      "text": "E talvez, cara, por como tudo começou a Teclatev, eu não vim de um beijo de pais empresários, meu pai é professor da rede pública, minha mãe é enfermeira da rede pública, concursados, não tem nenhum pezinho no empreendedorismo."
+    },
+    {
+      "start": 2060.94,
+      "end": 2072.98,
+      "timestamp": "34:20",
+      "text": "E, cara, então quando eu fundei a Teclatev, a qualquer momento podia quebrar."
+    },
+    {
+      "start": 2072.98,
+      "end": 2077.67,
+      "timestamp": "34:32",
+      "text": "Eu não tinha plano B, de fato."
+    },
+    {
+      "start": 2077.67,
+      "end": 2083.77,
+      "timestamp": "34:37",
+      "text": "Então a qualquer momento podia quebrar."
+    },
+    {
+      "start": 2083.77,
+      "end": 2091.12,
+      "timestamp": "34:43",
+      "text": "E então eu adotei uma postura de não comemorar."
+    },
+    {
+      "start": 2091.12,
+      "end": 2104.57,
+      "timestamp": "34:51",
+      "text": "Eu falei, cara, não vou comemorar agora não, porque vai que daqui a dois meses quebra."
+    },
+    {
+      "start": 2104.57,
+      "end": 2107.54,
+      "timestamp": "35:04",
+      "text": "Então deixa quieto."
+    },
+    {
+      "start": 2107.54,
+      "end": 2114.27,
+      "timestamp": "35:07",
+      "text": "E aí a gente fechou esse primeiro contrato."
+    },
+    {
+      "start": 2114.27,
+      "end": 2118.8,
+      "timestamp": "35:14",
+      "text": "Isso é igualzinho você, cara."
+    },
+    {
+      "start": 2118.8,
+      "end": 2121.62,
+      "timestamp": "35:18",
+      "text": "É muito doido, pô."
+    },
+    {
+      "start": 2121.62,
+      "end": 2123.81,
+      "timestamp": "35:21",
+      "text": "É muito doido."
+    },
+    {
+      "start": 2123.81,
+      "end": 2129.28,
+      "timestamp": "35:23",
+      "text": "E aí eu fechei o primeiro contrato."
+    },
+    {
+      "start": 2129.28,
+      "end": 2133.66,
+      "timestamp": "35:29",
+      "text": "Você tá paranoico toda hora."
+    },
+    {
+      "start": 2133.66,
+      "end": 2135.22,
+      "timestamp": "35:33",
+      "text": "Toda hora."
+    },
+    {
+      "start": 2135.22,
+      "end": 2140.23,
+      "timestamp": "35:35",
+      "text": "Cara, hoje eu ainda não desligo."
+    },
+    {
+      "start": 2140.23,
+      "end": 2148.52,
+      "timestamp": "35:40",
+      "text": "Mas assim, fechei o primeiro contrato, não comemorei."
+    },
+    {
+      "start": 2148.52,
+      "end": 2153.21,
+      "timestamp": "35:48",
+      "text": "Ah, me pediu 12 profissionais."
+    },
+    {
+      "start": 2153.21,
+      "end": 2156.96,
+      "timestamp": "35:53",
+      "text": "Cara, não comemorei não."
+    },
+    {
+      "start": 2156.96,
+      "end": 2161.65,
+      "timestamp": "35:56",
+      "text": "Vou comemorar quando tiver 20."
+    },
+    {
+      "start": 2161.65,
+      "end": 2166.5,
+      "timestamp": "36:01",
+      "text": "Chegou os 20, eu não comemorei."
+    },
+    {
+      "start": 2166.5,
+      "end": 2173.7,
+      "timestamp": "36:06",
+      "text": "A gente fechou a Pivida, cara, acho que em 21."
+    },
+    {
+      "start": 2173.7,
+      "end": 2178.7,
+      "timestamp": "36:13",
+      "text": "Cara, já chegou com uma pancada."
+    },
+    {
+      "start": 2178.7,
+      "end": 2190.12,
+      "timestamp": "36:18",
+      "text": "Sei lá, eram quase 100 profissionais de cara, assim, pra gente implantar."
+    },
+    {
+      "start": 2190.12,
+      "end": 2195.44,
+      "timestamp": "36:30",
+      "text": "Falei, assinei o contrato, Brunão."
+    },
+    {
+      "start": 2195.44,
+      "end": 2197.62,
+      "timestamp": "36:35",
+      "text": "Não comemorei."
+    },
+    {
+      "start": 2197.62,
+      "end": 2206.85,
+      "timestamp": "36:37",
+      "text": "Eu falei, só vou comemorar quando preencher essas posições."
+    },
+    {
+      "start": 2206.85,
+      "end": 2211.54,
+      "timestamp": "36:46",
+      "text": "Preenchemos, eu não comemorei."
+    },
+    {
+      "start": 2211.54,
+      "end": 2219.05,
+      "timestamp": "36:51",
+      "text": "Eu falei, só vou comemorar quando chegar em 100."
+    },
+    {
+      "start": 2219.05,
+      "end": 2223.59,
+      "timestamp": "36:59",
+      "text": "Chegou 100, eu não comemorei."
+    },
+    {
+      "start": 2223.59,
+      "end": 2228.12,
+      "timestamp": "37:03",
+      "text": "Chegou 200, eu não comemorei."
+    },
+    {
+      "start": 2228.12,
+      "end": 2237.04,
+      "timestamp": "37:08",
+      "text": "A parte ruim disso é que vai ficando pesada essa jornada."
+    },
+    {
+      "start": 2237.04,
+      "end": 2240.63,
+      "timestamp": "37:17",
+      "text": "Vai ficando meio que..."
+    },
+    {
+      "start": 2240.63,
+      "end": 2245.79,
+      "timestamp": "37:20",
+      "text": "Não vai ter uma linha de chegada."
+    },
+    {
+      "start": 2245.79,
+      "end": 2252.52,
+      "timestamp": "37:25",
+      "text": "Mas ao mesmo tempo, cara, vai me fazendo..."
+    },
+    {
+      "start": 2252.52,
+      "end": 2256.74,
+      "timestamp": "37:32",
+      "text": "Tá toda hora querendo mais."
+    },
+    {
+      "start": 2256.74,
+      "end": 2258.93,
+      "timestamp": "37:36",
+      "text": "Querendo mais."
+    },
+    {
+      "start": 2258.93,
+      "end": 2266.59,
+      "timestamp": "37:38",
+      "text": "Então, talvez eu percebi que a tecla T deu certo."
+    },
+    {
+      "start": 2266.59,
+      "end": 2272.22,
+      "timestamp": "37:46",
+      "text": "Porra, sei lá, junho do ano passado?"
+    },
+    {
+      "start": 2272.22,
+      "end": 2273.32,
+      "timestamp": "37:52",
+      "text": "Talvez."
+    },
+    {
+      "start": 2273.32,
+      "end": 2275.2,
+      "timestamp": "37:53",
+      "text": "Mas por quê?"
+    },
+    {
+      "start": 2275.2,
+      "end": 2283.8,
+      "timestamp": "37:55",
+      "text": "Porque eu vi que ela conseguia andar por conta própria."
+    },
+    {
+      "start": 2283.8,
+      "end": 2293.96,
+      "timestamp": "38:03",
+      "text": "Eu não tava mais sendo extremamente necessário pra essa operação."
+    },
+    {
+      "start": 2293.96,
+      "end": 2329.78,
+      "timestamp": "38:13",
+      "text": "Tanto que hoje, entre um profissional, eu não preciso recrutar ele, eu não preciso conhecer ele, eu não levei ele no primeiro dia, ele passou o primeiro mês, o cliente não reportou nada pra mim, às vezes ele nem sabe quem eu sou."
+    },
+    {
+      "start": 2329.78,
+      "end": 2332.59,
+      "timestamp": "38:49",
+      "text": "Funcionou sem mim."
+    },
+    {
+      "start": 2332.59,
+      "end": 2344.32,
+      "timestamp": "38:52",
+      "text": "Então, aí eu senti que virou uma empresa, parou de estar uma dependência..."
+    },
+    {
+      "start": 2344.32,
+      "end": 2348.07,
+      "timestamp": "39:04",
+      "text": "Uma founder dependência."
+    },
+    {
+      "start": 2348.07,
+      "end": 2349.01,
+      "timestamp": "39:08",
+      "text": "Exato."
+    },
+    {
+      "start": 2349.01,
+      "end": 2363.87,
+      "timestamp": "39:09",
+      "text": "Óbvio que hoje essas maiores contas, cara, eu faço questão de conhecer, de fazer esse processo."
+    },
+    {
+      "start": 2363.87,
+      "end": 2375.76,
+      "timestamp": "39:23",
+      "text": "O maior canal de aquisição hoje tá passando por mim ainda nessa aproximação."
+    },
+    {
+      "start": 2375.76,
+      "end": 2380.76,
+      "timestamp": "39:35",
+      "text": "E eu acho que talvez nunca mude."
+    },
+    {
+      "start": 2380.76,
+      "end": 2384.67,
+      "timestamp": "39:40",
+      "text": "Mas ela não depende mais."
+    },
+    {
+      "start": 2384.67,
+      "end": 2392.8,
+      "timestamp": "39:44",
+      "text": "E, cara, como é que é vender pra uma empresa grande?"
+    },
+    {
+      "start": 2392.8,
+      "end": 2395.3,
+      "timestamp": "39:52",
+      "text": "Cara, é difícil."
+    },
+    {
+      "start": 2395.3,
+      "end": 2405.31,
+      "timestamp": "39:55",
+      "text": "E talvez isso foi a parte frustrante de ter vindo pra São Paulo."
+    },
+    {
+      "start": 2405.31,
+      "end": 2411.73,
+      "timestamp": "40:05",
+      "text": "Eu abro o site aqui em São Paulo em 2022."
+    },
+    {
+      "start": 2411.73,
+      "end": 2414.85,
+      "timestamp": "40:11",
+      "text": "Pô, cheguei grandão."
+    },
+    {
+      "start": 2414.85,
+      "end": 2432.68,
+      "timestamp": "40:14",
+      "text": "Já tendo o grupo Matheus, M.Dias Branco, Beach Park, os maiores do Nordeste já estavam na minha lista de clientes."
+    },
+    {
+      "start": 2432.68,
+      "end": 2438.0,
+      "timestamp": "40:32",
+      "text": "Cheguei aqui, ninguém abriu porta."
+    },
+    {
+      "start": 2438.0,
+      "end": 2443.16,
+      "timestamp": "40:37",
+      "text": "Cheguei aqui, ok, tá bom, beleza."
+    },
+    {
+      "start": 2443.16,
+      "end": 2481.16,
+      "timestamp": "40:43",
+      "text": "Eu entendo que também era finalzinho de pandemia, a rotina de escritório ainda não tava 100%, e eu me vi ali, primeiro, sem as empresas abrirem as portas como eu achei que elas abririam, e segundo, conseguindo tocar a minha agenda toda remota."
+    },
+    {
+      "start": 2481.16,
+      "end": 2488.2,
+      "timestamp": "41:21",
+      "text": "Eu falei, por que que eu tô em São Paulo, pô?"
+    },
+    {
+      "start": 2488.2,
+      "end": 2501.03,
+      "timestamp": "41:28",
+      "text": "Tô longe de praia, longe da minha família, pagando caro, minha agenda toda online."
+    },
+    {
+      "start": 2501.03,
+      "end": 2504.62,
+      "timestamp": "41:41",
+      "text": "Não preciso estar aqui."
+    },
+    {
+      "start": 2504.62,
+      "end": 2507.28,
+      "timestamp": "41:44",
+      "text": "Voltei pro Ceará."
+    },
+    {
+      "start": 2507.28,
+      "end": 2512.76,
+      "timestamp": "41:47",
+      "text": "Durou 4, 5 meses, voltei pro Ceará."
+    },
+    {
+      "start": 2512.76,
+      "end": 2514.94,
+      "timestamp": "41:52",
+      "text": "Como casa, né?"
+    },
+    {
+      "start": 2514.94,
+      "end": 2521.83,
+      "timestamp": "41:54",
+      "text": "E aí fiquei indo e voltando até o fim de 23."
+    },
+    {
+      "start": 2521.83,
+      "end": 2526.83,
+      "timestamp": "42:01",
+      "text": "E aí eu vim em 24 de novo, cara."
+    },
+    {
+      "start": 2526.83,
+      "end": 2541.22,
+      "timestamp": "42:06",
+      "text": "A terceira tentativa, e hoje, pô, é incrível, o melhor momento pessoal e profissional nosso."
+    },
+    {
+      "start": 2541.22,
+      "end": 2550.45,
+      "timestamp": "42:21",
+      "text": "Mas porque eu entendi como é que é o game de São Paulo, pô."
+    },
+    {
+      "start": 2550.45,
+      "end": 2564.52,
+      "timestamp": "42:30",
+      "text": "Tá\n\nmais logicamente que depois que você já está um pouquinho maior, isso não faz sentido."
+    },
+    {
+      "start": 2564.52,
+      "end": 2566.24,
+      "timestamp": "42:44",
+      "text": "Exatamente."
+    },
+    {
+      "start": 2566.24,
+      "end": 2570.15,
+      "timestamp": "42:46",
+      "text": "Precificação é uma delas."
+    },
+    {
+      "start": 2570.15,
+      "end": 2580.79,
+      "timestamp": "42:50",
+      "text": "E fluxo de caixa, para quem aqui não entendeu, galera, é o seguinte."
+    },
+    {
+      "start": 2580.79,
+      "end": 2589.39,
+      "timestamp": "43:00",
+      "text": "Imagina que ele vai alocar 20 pessoas num projeto novo."
+    },
+    {
+      "start": 2589.39,
+      "end": 2599.08,
+      "timestamp": "43:09",
+      "text": "E esse cliente vai pagar ele daqui 120 dias, ou seja, 4 meses."
+    },
+    {
+      "start": 2599.08,
+      "end": 2606.28,
+      "timestamp": "43:19",
+      "text": "O que ele tem que fazer durante esses 4 meses?"
+    },
+    {
+      "start": 2606.28,
+      "end": 2616.91,
+      "timestamp": "43:26",
+      "text": "Ele tem que ter dinheiro para sustentar o salário dessas 20 pessoas."
+    },
+    {
+      "start": 2616.91,
+      "end": 2641.0,
+      "timestamp": "43:36",
+      "text": "Então, se cada uma ganha 10 mil reais, provavelmente é mais, provavelmente é menos, você está falando de 200 mil reais por mês, vezes 4, dá 800 mil reais."
+    },
+    {
+      "start": 2641.0,
+      "end": 2654.6,
+      "timestamp": "44:00",
+      "text": "Então, se ele não tiver 800 mil reais em caixa para bancar esses 4 meses, vai dar ruim."
+    },
+    {
+      "start": 2654.6,
+      "end": 2674.47,
+      "timestamp": "44:14",
+      "text": "E além disso, isso daqui é uma medida importante do quanto você também pode crescer e de que tipo de projeto você pode aceitar."
+    },
+    {
+      "start": 2674.47,
+      "end": 2691.82,
+      "timestamp": "44:34",
+      "text": "E às vezes o que acaba acontecendo, já deve ter acontecido com vocês, o quão desesperado também está o cliente."
+    },
+    {
+      "start": 2691.82,
+      "end": 2724.04,
+      "timestamp": "44:51",
+      "text": "Se o cliente vem para você e fala, cara, eu quero 50 devs para amanhã, você fala, tá bom, e eu quero pagar só daqui a 4 meses, então eu não vou conseguir para amanhã, eu vou conseguir para daqui 2, 3 meses."
+    },
+    {
+      "start": 2724.04,
+      "end": 2728.11,
+      "timestamp": "45:24",
+      "text": "Aí você fala, mas por quê?"
+    },
+    {
+      "start": 2728.11,
+      "end": 2738.27,
+      "timestamp": "45:28",
+      "text": "Porque, cara, isso daqui vai descasar muito o meu fluxo de caixa."
+    },
+    {
+      "start": 2738.27,
+      "end": 2770.18,
+      "timestamp": "45:38",
+      "text": "Tudo bem que 50 hoje para você, como você está em um tamanho de 600, você cabe, mas se alguém chegar e pedir 200, não dá hoje, a não ser que você vai antecipar no banco, tomar um empréstimo ou o que seja."
+    },
+    {
+      "start": 2770.18,
+      "end": 2847.59,
+      "timestamp": "46:10",
+      "text": "Que daí são outras vezes que você conseguiria bancar, mas você chega para falar, meu amigo, eu não consigo, a não ser que você pague antecipado ou pague a cada mês e daqui tanto tempo a gente vai alongando esse contrato para em algum momento chegar nos 120 dias, mas no começo você vai ter que pagar ali mês a mês e conforme vai crescendo com a própria margem do teu projeto, eu consigo ir te dando mais prazo até chegar no prazo que você quer, mas se descasar o meu fluxo de caixa, dá problema."
+    },
+    {
+      "start": 2847.59,
+      "end": 2855.88,
+      "timestamp": "47:27",
+      "text": "E é muito normal isso acontecer em empresa de varejo."
+    },
+    {
+      "start": 2855.88,
+      "end": 2857.91,
+      "timestamp": "47:35",
+      "text": "Muito, muito."
+    },
+    {
+      "start": 2857.91,
+      "end": 2865.89,
+      "timestamp": "47:37",
+      "text": "O cara vai quebrar com tudo descasado o fluxo dele."
+    },
+    {
+      "start": 2865.89,
+      "end": 2889.04,
+      "timestamp": "47:45",
+      "text": "Com tudo descasado, porque ele recebe do cliente em sei lá tanto tempo, porque ele parcelou em 12 vezes, tem que pagar o fornecedor dele em 90 dias."
+    },
+    {
+      "start": 2889.04,
+      "end": 2892.16,
+      "timestamp": "48:09",
+      "text": "Tem que ter estoque."
+    },
+    {
+      "start": 2892.16,
+      "end": 2935.48,
+      "timestamp": "48:12",
+      "text": "Tem que ter estoque e daí ele pode ter tido lucro, 30%, 40% de lucro, mas ele não vê isso porque às vezes ele antecipou o fornecedor dele para pagar, para conseguir uma negociação melhor, mas o prazo de recebimento dele está maior do que o prazo de pagamento para o fornecedor."
+    },
+    {
+      "start": 2935.48,
+      "end": 2958.47,
+      "timestamp": "48:55",
+      "text": "Então, é um caso que até quem quiser ouvir aí, eu gravei aqui um podcast no Papo de Gestão com o Richard Aramis, gente boa que ele fala sobre isso."
+    },
+    {
+      "start": 2958.47,
+      "end": 2974.58,
+      "timestamp": "49:18",
+      "text": "Teve um ano que ele teve o maior lucro da história dele e chegou no fim do ano com quase zero de caixa."
+    },
+    {
+      "start": 2974.58,
+      "end": 2975.68,
+      "timestamp": "49:34",
+      "text": "Caraca."
+    },
+    {
+      "start": 2975.68,
+      "end": 3021.66,
+      "timestamp": "49:35",
+      "text": "Mas exatamente por isso, porque ele descasou, para ele conseguir melhores negociações, como ele estava crescendo muito rápido, ele teve que antecipar o pagamento para o fornecedor dele conseguir produzir mais rápido, ele teve melhores margens, mas descasou tudo e como ele vende muito para o..."
+    },
+    {
+      "start": 3021.66,
+      "end": 3039.33,
+      "timestamp": "50:21",
+      "text": "como ele tem outros lugares que ele vende além das lojas próprias, ele também deu mais prazo para o cara comprar."
+    },
+    {
+      "start": 3039.33,
+      "end": 3043.71,
+      "timestamp": "50:39",
+      "text": "Então, descasou o pagamento."
+    },
+    {
+      "start": 3043.71,
+      "end": 3046.52,
+      "timestamp": "50:43",
+      "text": "Cara, muito legal."
+    },
+    {
+      "start": 3046.52,
+      "end": 3061.54,
+      "timestamp": "50:46",
+      "text": "Então, fluxo de caixa, faturamento, vagas em aberto, tempo para fechar as vagas, fluxo de caixa."
+    },
+    {
+      "start": 3061.54,
+      "end": 3062.47,
+      "timestamp": "51:01",
+      "text": "Legal."
+    },
+    {
+      "start": 3062.47,
+      "end": 3077.49,
+      "timestamp": "51:02",
+      "text": "Qual lição você daria para o cara que está ouvindo a gente aqui que ele mais tem que se atentar?"
+    },
+    {
+      "start": 3077.49,
+      "end": 3092.03,
+      "timestamp": "51:17",
+      "text": "Porque pelos quadros que você falou, são os 4 pontos de fato mais importantes do teu negócio."
+    },
+    {
+      "start": 3092.03,
+      "end": 3139.26,
+      "timestamp": "51:32",
+      "text": "Faturamento para ver teu crescimento, vagas abertas que você precisa alocar, que o teu negócio é gente, tempo para cumprir essas vagas, que é a tua autoridade, seriedade, que está em risco, qualidade no fim do dia, fluxo de caixa, que é o quanto você consegue precisar no acelerador ou tem que segurar."
+    },
+    {
+      "start": 3139.26,
+      "end": 3154.28,
+      "timestamp": "52:19",
+      "text": "Qual que é a tua dica para a galera que está ouvindo a gente das métricas que eles deveriam ver?"
+    },
+    {
+      "start": 3154.28,
+      "end": 3158.66,
+      "timestamp": "52:34",
+      "text": "Eu sei que é muito genérico."
+    },
+    {
+      "start": 3158.66,
+      "end": 3171.79,
+      "timestamp": "52:38",
+      "text": "Cara, tentando olhar para o caso geral que a gente hoje atende quando fala de dados."
+    },
+    {
+      "start": 3171.79,
+      "end": 3205.1,
+      "timestamp": "52:51",
+      "text": "Então, sei lá, vai envolver alguma coisa relacionada ao comercial, então vai ter sim algum indicador que determine o forecast desse cara, quanto de vagas na etapa de prospecção do CRM, do que você está negociando."
+    },
+    {
+      "start": 3205.1,
+      "end": 3225.12,
+      "timestamp": "53:25",
+      "text": "Existe, dá para ter uma noção se os próximos meses serão bons ou ruins, se o teu forecast está apresentando mais ou menos grana."
+    },
+    {
+      "start": 3225.12,
+      "end": 3229.5,
+      "timestamp": "53:45",
+      "text": "Então, eu olharia para isso."
+    },
+    {
+      "start": 3229.5,
+      "end": 3245.77,
+      "timestamp": "53:49",
+      "text": "Olharia para, cara, lucro líquido no final do dia, não acredito muito em empresa que ela não gera lucro."
+    },
+    {
+      "start": 3245.77,
+      "end": 3260.31,
+      "timestamp": "54:05",
+      "text": "Essa operação pode ser momentaneamente não tão eficaz, efetiva também, mas tem que dar lucro."
+    },
+    {
+      "start": 3260.31,
+      "end": 3272.2,
+      "timestamp": "54:20",
+      "text": "Então, é um indicador que eu acho bem genérico e deveria estar sendo olhado."
+    },
+    {
+      "start": 3272.2,
+      "end": 3290.03,
+      "timestamp": "54:32",
+      "text": "E, cara, eu olharia o NPS, acho que independente do segmento que o teu cliente está te avaliando, determina muito."
+    },
+    {
+      "start": 3290.03,
+      "end": 3299.25,
+      "timestamp": "54:50",
+      "text": "No começo da tecla, cara, de novo, a gente não tinha grana."
+    },
+    {
+      "start": 3299.25,
+      "end": 3305.2,
+      "timestamp": "54:59",
+      "text": "Eu dependia demais da minha indicação."
+    },
+    {
+      "start": 3305.2,
+      "end": 3311.61,
+      "timestamp": "55:05",
+      "text": "Cara, o NPS era o que eu olhava todo dia."
+    },
+    {
+      "start": 3311.61,
+      "end": 3323.34,
+      "timestamp": "55:11",
+      "text": "Eu pedia todo dia, cara, para pessoas que poderiam avaliar o nosso serviço."
+    },
+    {
+      "start": 3323.34,
+      "end": 3329.75,
+      "timestamp": "55:23",
+      "text": "Cara, me fala aí o que eu posso melhorar."
+    },
+    {
+      "start": 3329.75,
+      "end": 3336.63,
+      "timestamp": "55:29",
+      "text": "Me fala aí como é que foi a minha prestação."
+    },
+    {
+      "start": 3336.63,
+      "end": 3342.1,
+      "timestamp": "55:36",
+      "text": "Pô, tu indicaria para outra pessoa?"
+    },
+    {
+      "start": 3342.1,
+      "end": 3344.29,
+      "timestamp": "55:42",
+      "text": "Pô, indicaria?"
+    },
+    {
+      "start": 3344.29,
+      "end": 3346.95,
+      "timestamp": "55:44",
+      "text": "Pô, então indica."
+    },
+    {
+      "start": 3346.95,
+      "end": 3352.43,
+      "timestamp": "55:46",
+      "text": "Então, me ajuda a abrir essa porta."
+    },
+    {
+      "start": 3352.43,
+      "end": 3360.87,
+      "timestamp": "55:52",
+      "text": "Cara, era a forma mais barata que eu tinha de crescer."
+    },
+    {
+      "start": 3360.87,
+      "end": 3362.28,
+      "timestamp": "56:00",
+      "text": "Era essa."
+    },
+    {
+      "start": 3362.28,
+      "end": 3366.03,
+      "timestamp": "56:02",
+      "text": "Então, eu olharia o NPS."
+    },
+    {
+      "start": 3366.03,
+      "end": 3382.14,
+      "timestamp": "56:06",
+      "text": "E como que você mantém hoje o nível de satisfação e produtividade do time teu alocado e do teu cliente?"
+    },
+    {
+      "start": 3382.14,
+      "end": 3387.93,
+      "timestamp": "56:22",
+      "text": "Na prática, fazendo as mesmas coisas."
+    },
+    {
+      "start": 3387.93,
+      "end": 3390.74,
+      "timestamp": "56:27",
+      "text": "Só mudou a escala."
+    },
+    {
+      "start": 3390.74,
+      "end": 3401.53,
+      "timestamp": "56:30",
+      "text": "Mas esse cara continua muito próximo da gente com eventos, com ações."
+    },
+    {
+      "start": 3401.53,
+      "end": 3412.48,
+      "timestamp": "56:41",
+      "text": "Pô, eu tento de toda forma, cara, ativar esse cara durante o ano todo."
+    },
+    {
+      "start": 3412.48,
+      "end": 3420.3,
+      "timestamp": "56:52",
+      "text": "Então, eu penso de fato como um grande cronograma."
+    },
+    {
+      "start": 3420.3,
+      "end": 3424.21,
+      "timestamp": "57:00",
+      "text": "Pô, vai ter festa junina."
+    },
+    {
+      "start": 3424.21,
+      "end": 3430.62,
+      "timestamp": "57:04",
+      "text": "Vai ter que ter alguma coisa nossa, cara."
+    },
+    {
+      "start": 3430.62,
+      "end": 3437.66,
+      "timestamp": "57:10",
+      "text": "Seja para o cliente, seja para o colaborador."
+    },
+    {
+      "start": 3437.66,
+      "end": 3442.51,
+      "timestamp": "57:17",
+      "text": "Vai ter alguma lembrança nossa."
+    },
+    {
+      "start": 3442.51,
+      "end": 3446.42,
+      "timestamp": "57:22",
+      "text": "Pô, vai ter dia das mães."
+    },
+    {
+      "start": 3446.42,
+      "end": 3455.18,
+      "timestamp": "57:26",
+      "text": "Pô, vai ter dia dos pais agora no próximo fim de semana."
+    },
+    {
+      "start": 3455.18,
+      "end": 3472.69,
+      "timestamp": "57:35",
+      "text": "Cara, ontem todos os clientes, pais, levaram seus filhos para conhecer o CT do time de futebol do Fortaleza, pô."
+    },
+    {
+      "start": 3472.69,
+      "end": 3474.26,
+      "timestamp": "57:52",
+      "text": "Que massa."
+    },
+    {
+      "start": 3474.26,
+      "end": 3482.23,
+      "timestamp": "57:54",
+      "text": "Os caras entraram em campo, fizeram pô, super isso."
+    },
+    {
+      "start": 3482.23,
+      "end": 3490.52,
+      "timestamp": "58:02",
+      "text": "Então, cara, teoricamente não tem nada a ver Tecla T."
+    },
+    {
+      "start": 3490.52,
+      "end": 3507.1,
+      "timestamp": "58:10",
+      "text": "Mas, pô, foram três horas que tinham lá 50 famílias e os garotinhos todos falando, cara, Tecla T, Tecla T."
+    },
+    {
+      "start": 3507.1,
+      "end": 3511.79,
+      "timestamp": "58:27",
+      "text": "Pô, papai, Tecla T, eu gostei."
+    },
+    {
+      "start": 3511.79,
+      "end": 3515.7,
+      "timestamp": "58:31",
+      "text": "Quando é que é o próximo?"
+    },
+    {
+      "start": 3515.7,
+      "end": 3534.31,
+      "timestamp": "58:35",
+      "text": "Então, a gente tem hoje de fato um cronograma presente na vida do colaborador e do cliente, cara, para marcar momentos."
+    },
+    {
+      "start": 3534.31,
+      "end": 3560.27,
+      "timestamp": "58:54",
+      "text": "Cara, isso é algo que às vezes as pessoas passam desapercebido, mas quando é o sonho da pessoa ter um impacto tão profundo que transcede a relação cliente-fornecedor."
+    },
+    {
+      "start": 3560.27,
+      "end": 3561.52,
+      "timestamp": "59:20",
+      "text": "De fato."
+    },
+    {
+      "start": 3561.52,
+      "end": 3562.46,
+      "timestamp": "59:21",
+      "text": "Total."
+    },
+    {
+      "start": 3562.46,
+      "end": 3588.11,
+      "timestamp": "59:22",
+      "text": "Eu tenho um exemplo agora, eu sou viciado em ciclismo, corrida, natação, tipo, triatlon e tal, mas, cara, ciclismo das três modalidades é uma das que eu mais gosto."
+    },
+    {
+      "start": 3588.11,
+      "end": 3618.45,
+      "timestamp": "59:48",
+      "text": "E veio um amigo meu alemão que eu fiz lá em Harvard aqui para o Brasil e ele tem uma marca que se chama Opessin que patrocina uma das principais equipes de ciclismo do mundo e do Tour de France."
+    },
+    {
+      "start": 3618.45,
+      "end": 3626.74,
+      "timestamp": "01:00:18",
+      "text": "Estava rolando o Tour de France quando ele veio aqui."
+    },
+    {
+      "start": 3626.74,
+      "end": 3631.27,
+      "timestamp": "01:00:26",
+      "text": "E ele me convidou para ir lá."
+    },
+    {
+      "start": 3631.27,
+      "end": 3661.61,
+      "timestamp": "01:00:31",
+      "text": "E, cara, eu passei quatro, cinco dias lá com a turma, com clientes dele, com fornecedores dele, com amigos, a turma que foi viver isso de estar junto com a Opessin acompanhando o Tour de France."
+    },
+    {
+      "start": 3661.61,
+      "end": 3663.8,
+      "timestamp": "01:01:01",
+      "text": "Cara, esquece."
+    },
+    {
+      "start": 3663.8,
+      "end": 3673.03,
+      "timestamp": "01:01:03",
+      "text": "Qual a chance desse cara não lembrar desse cara, ser grato?"
+    },
+    {
+      "start": 3673.03,
+      "end": 3679.13,
+      "timestamp": "01:01:13",
+      "text": "Qual a chance eu não ser grato por ele?"
+    },
+    {
+      "start": 3679.13,
+      "end": 3698.68,
+      "timestamp": "01:01:19",
+      "text": "Então ele nem me pediu ajuda, eu estou ajudando a Opessin aqui no Brasil com a General Manager deles aqui apresentando gente."
+    },
+    {
+      "start": 3698.68,
+      "end": 3709.78,
+      "timestamp": "01:01:38",
+      "text": "Cara, assim, eu já era amigo do cara, eu já estava ajudando ele na boa."
+    },
+    {
+      "start": 3709.78,
+      "end": 3727.3,
+      "timestamp": "01:01:49",
+      "text": "Mas, cara, depois disso eu quero que eles entrem no Brasil e tenham o máximo de sucesso possível aqui, entendeu?"
+    },
+    {
+      "start": 3727.3,
+      "end": 3742.0,
+      "timestamp": "01:02:07",
+      "text": "Não porque eu quero ser convidado para o ano que vem, porque ele já disse que vai me convidar."
+    },
+    {
+      "start": 3742.0,
+      "end": 3744.81,
+      "timestamp": "01:02:21",
+      "text": "Já tem registrado."
+    },
+    {
+      "start": 3744.81,
+      "end": 3757.01,
+      "timestamp": "01:02:24",
+      "text": "É, mas tem a Copa do Mundo ano que vem, então eu não sei se eu vou ter agenda."
+    },
+    {
+      "start": 3757.01,
+      "end": 3758.11,
+      "timestamp": "01:02:37",
+      "text": "Tá bom."
+    },
+    {
+      "start": 3758.11,
+      "end": 3759.05,
+      "timestamp": "01:02:38",
+      "text": "Mas..."
+    },
+    {
+      "start": 3759.05,
+      "end": 3762.8,
+      "timestamp": "01:02:39",
+      "text": "Mas marca, cara, é isso."
+    },
+    {
+      "start": 3762.8,
+      "end": 3767.18,
+      "timestamp": "01:02:42",
+      "text": "Marca, é assim, é o negócio."
+    },
+    {
+      "start": 3767.18,
+      "end": 3777.5,
+      "timestamp": "01:02:47",
+      "text": "E, pô, eu estou repetindo, contando, gravei um vídeo sobre o tema."
+    },
+    {
+      "start": 3777.5,
+      "end": 3788.13,
+      "timestamp": "01:02:57",
+      "text": "Cara, 30 mil pessoas quase assistiram o vídeo que eu fiz no YouTube."
+    },
+    {
+      "start": 3788.13,
+      "end": 3798.61,
+      "timestamp": "01:03:08",
+      "text": "Cara, 20 e tantos, quase 30 minutos falando sobre o Tour de France."
+    },
+    {
+      "start": 3798.61,
+      "end": 3807.68,
+      "timestamp": "01:03:18",
+      "text": "Cara, um monte de gente que não conhecia o PC não conhece."
+    },
+    {
+      "start": 3807.68,
+      "end": 3810.03,
+      "timestamp": "01:03:27",
+      "text": "Animal, animal."
+    },
+    {
+      "start": 3810.03,
+      "end": 3810.66,
+      "timestamp": "01:03:30",
+      "text": "É..."
+    },
+    {
+      "start": 3810.66,
+      "end": 3811.59,
+      "timestamp": "01:03:30",
+      "text": "Marca."
+    },
+    {
+      "start": 3811.59,
+      "end": 3813.16,
+      "timestamp": "01:03:31",
+      "text": "Transcede."
+    },
+    {
+      "start": 3813.16,
+      "end": 3816.13,
+      "timestamp": "01:03:33",
+      "text": "Se liga nesse caso."
+    },
+    {
+      "start": 3816.13,
+      "end": 3821.76,
+      "timestamp": "01:03:36",
+      "text": "A gente é patrocinador do Fortaleza."
+    },
+    {
+      "start": 3821.76,
+      "end": 3836.93,
+      "timestamp": "01:03:41",
+      "text": "Então a gente tem, nos jogos do Fortaleza, a gente tem todos o camarote lá para receber clientes."
+    },
+    {
+      "start": 3836.93,
+      "end": 3846.0,
+      "timestamp": "01:03:56",
+      "text": "Fortaleza e Boca Juniors, ano passado, ingressos esgotados"
+    }
+  ],
+  "word_count": 4606,
+  "segment_count": 380,
+  "chunks_used": 3,
+  "timestamps_estimated": true
+}

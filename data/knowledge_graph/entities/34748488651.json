@@ -1,0 +1,621 @@
+{
+  "episode_id": "34748488651",
+  "title": "#027 - Criando sua própria sorte, um papo sobre meritocracia com Hélio Beltrão",
+  "date_published": 1631694613,
+  "duration": 3704,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Hélio Beltrão",
+      "role": "guest",
+      "company": "Instituto Mises Brasil",
+      "title": "Mentor e Estudioso da Escola Austríaca de Economia"
+    },
+    {
+      "name": "Ayn Rand",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autora de 'A Revolta de Atlas'"
+    },
+    {
+      "name": "Erick",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ludwig Von Mises",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Florian Hagenbach",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mark Roberge",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jorge Paulo Lemann",
+      "role": "mentioned",
+      "company": "Banco Garantia",
+      "title": "Empresário e Investidor"
+    },
+    {
+      "name": "Beto Sicupira",
+      "role": "mentioned",
+      "company": "Banco Garantia",
+      "title": ""
+    },
+    {
+      "name": "Zé Olimpio",
+      "role": "mentioned",
+      "company": "Credit Suisse",
+      "title": "Presidente"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "Gestão 4.0",
+      "title": "Sócio"
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "Gestão 4.0",
+      "title": "CEO"
+    },
+    {
+      "name": "Adam Smith",
+      "role": "mentioned",
+      "company": "",
+      "title": "Economista"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "Apple Inc.",
+      "title": "Fundador"
+    },
+    {
+      "name": "Vinícius Poit",
+      "role": "mentioned",
+      "company": "Governo de São Paulo",
+      "title": "Candidato ao governo"
+    },
+    {
+      "name": "Nelson Mandela",
+      "role": "mentioned",
+      "company": "Governo da África do Sul",
+      "title": "Ex-presidente"
+    },
+    {
+      "name": "William Ernest Henley",
+      "role": "mentioned",
+      "company": "",
+      "title": "Poeta"
+    },
+    {
+      "name": "Bolsonaro",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Lula",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação para negócios e gestão"
+    },
+    {
+      "name": "Instituto Mises Brasil",
+      "industry": "Educação e Pesquisa",
+      "context": "Focado na disseminação da Escola Austríaca de Economia"
+    },
+    {
+      "name": "Lvm Editora",
+      "industry": "Publicação",
+      "context": "Publicação de livros relacionados ao pensamento liberal"
+    },
+    {
+      "name": "Banco Garantia",
+      "industry": "Financeiro",
+      "context": "Banco de investimentos associado à meritocracia e gestão liberal"
+    },
+    {
+      "name": "Credit Suisse",
+      "industry": "Financeiro",
+      "context": "Banco que adquiriu o Banco Garantia"
+    },
+    {
+      "name": "Transpés",
+      "industry": "Logística",
+      "context": "Empresa mencionada como parte do conselho de Hélio Beltrão"
+    },
+    {
+      "name": "Espaço Laser",
+      "industry": "Estética",
+      "context": "Empresa mencionada como parte do conselho de Hélio Beltrão"
+    },
+    {
+      "name": "Hope",
+      "industry": "Moda",
+      "context": "Empresa mencionada como parte do conselho de Hélio Beltrão"
+    },
+    {
+      "name": "Gestão 4.0",
+      "industry": "Educação e Consultoria",
+      "context": "Organização mencionada como exemplo de complementaridade entre sócios."
+    },
+    {
+      "name": "Apple Inc.",
+      "industry": "Tecnologia",
+      "context": "Empresa fundada por Steve Jobs."
+    },
+    {
+      "name": "3G Capital",
+      "industry": "Investimentos",
+      "context": "Fundada por Jorge Paulo Lemann."
+    },
+    {
+      "name": "Governo De São Paulo",
+      "industry": "Administração Pública",
+      "context": "Vinícius Poit é candidato ao governo."
+    },
+    {
+      "name": "Governo Da África Do Sul",
+      "industry": "Administração Pública",
+      "context": "Nelson Mandela foi ex-presidente."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Escola Austríaca de Economia",
+      "category": "Economia"
+    },
+    {
+      "name": "Libertarianismo",
+      "category": "Filosofia Política"
+    },
+    {
+      "name": "Gestão Libertária",
+      "category": "Gestão e Negócios"
+    },
+    {
+      "name": "Protagonismo",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Framework de Gestão",
+      "category": "Gestão e Negócios"
+    },
+    {
+      "name": "Stakeholders",
+      "category": "Gestão e Negócios"
+    },
+    {
+      "name": "Inflação",
+      "category": "Economia"
+    },
+    {
+      "name": "Taxa de Juros",
+      "category": "Economia"
+    },
+    {
+      "name": "PIB",
+      "category": "Economia"
+    },
+    {
+      "name": "escola austríaca",
+      "category": "Economia"
+    },
+    {
+      "name": "AAA (habilidades socioemocionais e técnicas)",
+      "category": "Recrutamento e seleção"
+    },
+    {
+      "name": "feedback regular",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "meritocracia",
+      "category": "Gestão empresarial"
+    },
+    {
+      "name": "Feedback",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Fit cultural",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Framework de entrevista baseado na primeira infância",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "PSD (Poor, Smart and Desperate to Get Rich)",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "Juros Compostos",
+      "category": "Finanças e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Teoria de Livres Trocas",
+      "category": "Economia"
+    },
+    {
+      "name": "Egoísmo Positivo",
+      "category": "Filosofia de Negócios"
+    },
+    {
+      "name": "Intraempreendedorismo",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Complementaridade entre Sócios",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Gestão",
+      "category": "Administração"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "crescimento contínuo",
+      "category": "strategy"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Revolta de Atlas",
+      "author": "Ayn Rand"
+    },
+    {
+      "title": "As Seis Lições",
+      "author": "Ludwig von Mises"
+    },
+    {
+      "title": "Riqueza das Nações",
+      "author": "Adam Smith"
+    },
+    {
+      "title": "Seis Lições",
+      "author": "Ludwig von Mises"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "7% a 8%",
+      "context": "Inflação no Brasil mencionada no episódio"
+    },
+    {
+      "value": "3,6%",
+      "context": "Crescimento do PIB brasileiro mencionado no episódio"
+    },
+    {
+      "value": "35 países",
+      "context": "Expansão mencionada por Hélio Beltrão"
+    },
+    {
+      "value": "5 bilhões de reais",
+      "context": "Valoração da empresa Espaço Laser"
+    },
+    {
+      "value": "95%",
+      "context": "Taxa de falência de empresas nos primeiros dois anos."
+    },
+    {
+      "value": "10 páginas por dia",
+      "context": "Meta de leitura sugerida para desenvolvimento pessoal."
+    },
+    {
+      "value": "11 vezes mais",
+      "context": "Comparação de leitura anual com a média brasileira."
+    },
+    {
+      "value": "26 anos",
+      "context": "Tempo que Nelson Mandela ficou preso."
+    },
+    {
+      "value": "1% ao dia",
+      "context": "crescimento pessoal sugerido"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Escola Austríaca De Economia",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Libertarianismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "invested_in",
+      "target": "Lvm Editora",
+      "target_type": "company"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Espaço Laser",
+      "target_type": "company"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Juros Compostos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Protagonismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Instituto Mises Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hope",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Instituto Mises Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fit Cultural",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Teoria De Livres Trocas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Tallis Gomes",
+      "target_type": "person"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Meritocracia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Feedback",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Revolta De Atlas",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Revolta De Atlas",
+      "target_type": "company"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Seis Lições",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Paulo Lemann",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "3G Capital",
+      "target_type": "company"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Psd (Poor, Smart And Desperate To Get Rich)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Egoísmo Positivo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Zé Olimpio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Credit Suisse",
+      "target_type": "company"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Framework De Entrevista Baseado Na Primeira Infância",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jorge Paulo Lemann",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Banco Garantia",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Adam Smith",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Riqueza Das Nações",
+      "target_type": "company"
+    },
+    {
+      "source": "Vinícius Poit",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Governo De São Paulo",
+      "target_type": "company"
+    },
+    {
+      "source": "Nelson Mandela",
+      "source_type": "person",
+      "relation": "operates_in",
+      "target": "Governo Da África Do Sul",
+      "target_type": "company"
+    },
+    {
+      "source": "Banco Garantia",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Credit Suisse",
+      "target_type": "company"
+    },
+    {
+      "source": "Ludwig Von Mises",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "As Seis Lições",
+      "target_type": "company"
+    },
+    {
+      "source": "Steve Jobs",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Apple Inc.",
+      "target_type": "company"
+    },
+    {
+      "source": "A Revolta De Atlas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Escola Austríaca De Economia",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hélio Beltrão",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Transpés",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    }
+  ]
+}

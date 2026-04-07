@@ -1,0 +1,278 @@
+{
+  "episode_id": "34748488348",
+  "title": "POR QUE TODO EMPRESÁRIO DEVERIA DISPUTAR UM ESPORTE DE ALTA PERFORMANCE | PAPO DE GESTÃO",
+  "date_published": 1736758200,
+  "duration": 5010,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Denis Wang",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rafael Belmonte",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Júlio De Angeli",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rafa",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Júlio",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Denis",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rian",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": ""
+    },
+    {
+      "name": "Sérgio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dave Scott",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mark Allen",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Amanda",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Caio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Plataforma de educação para empreendedores mencionada no podcast."
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Financeiro",
+      "context": "Mencionada em relação a um participante chamado Rian."
+    },
+    {
+      "name": "Ironman",
+      "industry": "Sports Events",
+      "context": "Triathlon competitions"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Ironman 70.3",
+      "category": "Evento Esportivo"
+    },
+    {
+      "name": "Troféu Brasil de Triatlo",
+      "category": "Evento Esportivo"
+    },
+    {
+      "name": "Cultura de Alta Performance",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Triatlon",
+      "category": "Esporte"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Habilidade Pessoal"
+    },
+    {
+      "name": "Preparação Física",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "Nutrição Esportiva",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "Qualidade de Vida",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "Triathlon",
+      "category": "Sports"
+    },
+    {
+      "name": "Performance Training",
+      "category": "Sports"
+    },
+    {
+      "name": "Endurance Sports",
+      "category": "Sports"
+    },
+    {
+      "name": "endurance",
+      "category": "sports"
+    },
+    {
+      "name": "mindset curto prazista",
+      "category": "psychology"
+    },
+    {
+      "name": "decisões de médio e longo prazo",
+      "category": "strategy"
+    },
+    {
+      "name": "ingestão de carboidratos",
+      "category": "nutrition"
+    }
+  ],
+  "books": [
+    {
+      "title": "Iron War",
+      "author": "Matt Fitzgerald"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1.900 metros",
+      "context": "Distância de natação mencionada na prova de triatlo."
+    },
+    {
+      "value": "90 km",
+      "context": "Distância de ciclismo mencionada na prova de triatlo."
+    },
+    {
+      "value": "11 horas e 34 minutos",
+      "context": "Tempo de prova de triatlon mencionado por Rafa."
+    },
+    {
+      "value": "8 anos",
+      "context": "Tempo de acompanhamento médico mencionado por Júlio."
+    },
+    {
+      "value": "5 a 6 horas",
+      "context": "Duração de prova de 70.3 no nível mencionado"
+    },
+    {
+      "value": "11 a 13 horas",
+      "context": "Duração de prova de full triathlon no nível mencionado"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ironman",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Triathlon",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Dave Scott",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Mark Allen",
+      "target_type": "person"
+    },
+    {
+      "source": "Ironman 70.3",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Ironman",
+      "target_type": "company"
+    },
+    {
+      "source": "Rian",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

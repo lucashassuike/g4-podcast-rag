@@ -1,0 +1,525 @@
+{
+  "episode_id": "34748488465",
+  "title": "DIEGO RIBAS - COMO SER O LÍDER QUE O SEU TIME PRECISA | EXTREMOS",
+  "date_published": 1708502400,
+  "duration": 7992,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Diego Ribas",
+      "role": "guest",
+      "company": "Santos Futebol Clube",
+      "title": "Professional Football Player"
+    },
+    {
+      "name": "Jorge Jesus",
+      "role": "mentioned",
+      "company": "Flamengo",
+      "title": "Football Coach"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Founder"
+    },
+    {
+      "name": "Pelé",
+      "role": "mentioned",
+      "company": "Santos Futebol Clube",
+      "title": "Professional Football Player"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Romário",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Abel Ferreira",
+      "role": "mentioned",
+      "company": "Sociedade Esportiva Palmeiras",
+      "title": "Treinador"
+    },
+    {
+      "name": "Zico",
+      "role": "mentioned",
+      "company": "Clube de Regatas do Flamengo",
+      "title": ""
+    },
+    {
+      "name": "Simeone",
+      "role": "mentioned",
+      "company": "Atlético de Madrid",
+      "title": "Treinador"
+    },
+    {
+      "name": "Felix Magath",
+      "role": "mentioned",
+      "company": "",
+      "title": "Treinador"
+    },
+    {
+      "name": "Buffon",
+      "role": "mentioned",
+      "company": "Juventus Football Club",
+      "title": "Jogador"
+    },
+    {
+      "name": "Del Piero",
+      "role": "mentioned",
+      "company": "Juventus Football Club",
+      "title": "Jogador"
+    },
+    {
+      "name": "Gianluigi Buffon",
+      "role": "mentioned",
+      "company": "Juventus",
+      "title": "Capitão"
+    },
+    {
+      "name": "Alessandro Del Piero",
+      "role": "mentioned",
+      "company": "Juventus",
+      "title": "Jogador"
+    },
+    {
+      "name": "Diego Simeone",
+      "role": "mentioned",
+      "company": "Atlético de Madrid",
+      "title": "Treinador"
+    },
+    {
+      "name": "Gabriel Barbosa",
+      "role": "mentioned",
+      "company": "Flamengo",
+      "title": "Jogador"
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "",
+      "title": "Mentor"
+    },
+    {
+      "name": "Ronaldo Fenômeno",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ronaldinho Gaúcho",
+      "role": "mentioned",
+      "company": "",
+      "title": "Ex-jogador de futebol"
+    },
+    {
+      "name": "Neymar",
+      "role": "mentioned",
+      "company": "",
+      "title": "Jogador de futebol"
+    },
+    {
+      "name": "Casagrande",
+      "role": "mentioned",
+      "company": "",
+      "title": "Comentarista esportivo"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Santos Futebol Clube",
+      "industry": "Sports",
+      "context": "Diego Ribas started his professional football career here."
+    },
+    {
+      "name": "Flamengo",
+      "industry": "Sports",
+      "context": "Diego Ribas made history playing for this team."
+    },
+    {
+      "name": "Clivo",
+      "industry": "Healthcare",
+      "context": "Founded by Marcelo Toledo."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Sponsor of the G4 Podcast."
+    },
+    {
+      "name": "Seleção Brasileira",
+      "industry": "Esportes",
+      "context": "Equipe nacional onde Diego Ribas vestiu a camisa 10."
+    },
+    {
+      "name": "Clube De Regatas Do Flamengo",
+      "industry": "Esportes",
+      "context": "Clube onde Diego Ribas vestiu a camisa 10."
+    },
+    {
+      "name": "Werder Bremen",
+      "industry": "Esportes",
+      "context": "Clube onde Diego Ribas jogou na Alemanha."
+    },
+    {
+      "name": "Atlético De Madrid",
+      "industry": "Esportes",
+      "context": "Clube onde Simeone é treinador."
+    },
+    {
+      "name": "Juventus Football Club",
+      "industry": "Esportes",
+      "context": "Clube onde Buffon e Del Piero jogaram."
+    },
+    {
+      "name": "Sociedade Esportiva Palmeiras",
+      "industry": "Esportes",
+      "context": "Clube mencionado em relação a Abel Ferreira."
+    },
+    {
+      "name": "Juventus",
+      "industry": "Esportes",
+      "context": "Clube onde Diego Ribas jogou e mencionou interações com Buffon e Del Piero."
+    },
+    {
+      "name": "Porto",
+      "industry": "Esportes",
+      "context": "Clube de futebol mencionado em relação à carreira de Diego Ribas"
+    },
+    {
+      "name": "11 Caldas",
+      "industry": "Esportes",
+      "context": "Clube de futebol mencionado em relação a uma disputa de Diego Ribas"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Leadership",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Mentorship",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Spirituality",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Track Record",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Adaptability",
+      "category": "Leadership Skills"
+    },
+    {
+      "name": "Liderança",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão de pessoas",
+      "category": "Gestão"
+    },
+    {
+      "name": "Paixão e entusiasmo",
+      "category": "Motivação"
+    },
+    {
+      "name": "Skin in the game",
+      "category": "Estratégia"
+    },
+    {
+      "name": "Independência financeira",
+      "category": "Finanças pessoais"
+    },
+    {
+      "name": "Estilo de vida",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Gestão de equipes",
+      "category": "Gestão"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Esportes e negócios"
+    },
+    {
+      "name": "Resiliência",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "pressão psicológica",
+      "category": "Psicologia esportiva"
+    },
+    {
+      "name": "capitão de equipe",
+      "category": "Esportes"
+    }
+  ],
+  "books": [
+    {
+      "title": "Legacy",
+      "author": "James Kerr"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "200 hours",
+      "context": "Content available for seven team members for one week, sponsored by G4 Educação."
+    },
+    {
+      "value": "Melhor jogador da Bundesliga",
+      "context": "Título recebido por Diego Ribas durante sua carreira."
+    },
+    {
+      "value": "12 títulos",
+      "context": "Diego Ribas mencionou os títulos conquistados enquanto usava a camisa 10."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Flamengo",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alessandro Del Piero",
+      "target_type": "person"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Liderança",
+      "target_type": "concept"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Santos Futebol Clube",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Simeone",
+      "target_type": "person"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Pelé",
+      "target_type": "person"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gabriel Barbosa",
+      "target_type": "person"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Romário",
+      "target_type": "person"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Felix Magath",
+      "target_type": "person"
+    },
+    {
+      "source": "Abel Ferreira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Sociedade Esportiva Palmeiras",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Seleção Brasileira",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gianluigi Buffon",
+      "target_type": "person"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Clube De Regatas Do Flamengo",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Diego Simeone",
+      "target_type": "person"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Legacy",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alta Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "competed_with",
+      "target": "Flamengo",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Ronaldo Fenômeno",
+      "target_type": "person"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Juventus",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Resiliência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Atlético De Madrid",
+      "target_type": "company"
+    },
+    {
+      "source": "Jorge Jesus",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Flamengo",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Buffon",
+      "target_type": "person"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Del Piero",
+      "target_type": "person"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Zico",
+      "target_type": "person"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Santos Futebol Clube",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Equipes",
+      "target_type": "concept"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Werder Bremen",
+      "target_type": "company"
+    },
+    {
+      "source": "Diego Ribas",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Mariano",
+      "target_type": "person"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "sponsors",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    }
+  ]
+}

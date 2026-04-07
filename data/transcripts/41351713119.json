@@ -1,0 +1,1011 @@
+{
+  "id": 41351713119,
+  "title": "[CORTE] DESCUBRA O CONCEITO QUE A INTELIGÊNCIA ARTIFICIAL TROUXE E MUDOU O JOGO DAS EMPRESAS",
+  "guest": "",
+  "date_published": 1755291600,
+  "duration": 574,
+  "text": "E aí entra um conceito muito interessante, que só a inteligência artificial trouxe no mercado, que é hiperpersonalização em escala. O que é isso? É o seguinte, olha só, no mundo a gente tem aquele modelo de negócio padrão, indústria, processo, que tem que ser muito repetivo para ter escala. E a gente tem aquela agência de viagem mega customizada, que precisa entender quem você é e tudo mais. Com o IA, eu consigo unir as duas coisas. Ou seja, eu consigo hiperpersonalizar a experiência de cada pessoa que entra no frio, só que de forma automática. Se entrar mil pessoas no meu funil agora, cada um vai ter uma experiência completamente diferente. Sem inteligência artificial era só automação, e isso era meio árvore de decisão, não ficava tão bom. Talvez você ia ter dez diferentes. Isso. Não mil diferentes. Só que agora mil diferentes. Exatamente. Ou seja, eu dou escala para a personalização. Então, por exemplo, o cara já chega, ele coloca o nome dele. Mas é um chat que você abre na sua página? Isso, um chat na minha página. Tipo, representando uma conversa ali com um ser humano, basicamente. E aí ele coloca assim, meu nome é Bruno Nardon, e aí eu já vou pegar o IP da sua localização e já vou pegar o nome. Então ele já vai fazer uma brincadeira com o IP da sua localização. Fala, Bruno, tô vendo que você tá aí em São Paulo, e Bruno, me lembra um empreendedor, Bruno, e aí vai fazendo brincadeiras ali, tornando a conversa humanizada e seguindo pela jornada. Depois, à medida que você vai interagindo com o fluxo, vai ter no processo que você falou de lead scoring. Quem faz o lead scoring? IA. Então a própria IA já faz o lead scoring. Mas você tem perguntas específicas que você colocou no sistema para fazer o lead scoring. Exatamente. No teu caso, quais perguntas são mais relevantes? Faturamento anual. Segmento da empresa. Quem é aquela pessoa? Ou seja, ele é um empresário que aplica a IA no negócio dele, ele quer aprender sobre IA, qual que é o objetivo dele? Perguntas de qualificação. Isso, é legal você tocar nesse ponto que eu falo que IA é meio. A IA não muda o fato de você ter que entender de business igual. Perfeito. Saber perguntar, saber... O conhecimento de business, a IA vai potencializar ele. Nesse caso, você não precisaria talvez ter a IA, você poderia ter um type form ali com as cinco perguntas que você quer fazer. Nome, telefone, e-mail. A próxima pergunta, seu faturamento com cinco faixas. A próxima pergunta, qual a sua posição na empresa com o soldor, não sei o que, só o analista. Depois, qual o seu objetivo com IA? Daí você talvez ter cinco, seis, aprender, aplicar no negócio. Daí você foi melhorando essa pergunta ao longo do tempo e beleza, essas três perguntas você já consegue saber bem o que esse cara consegue ter. Só que nesse caso, você pegou isso e jogou para o chat. Só que aí eu pego essas variáveis da resposta dele e mando para IA. Então a partir desse momento a IA consegue calcular o lead scoring e a gente faz... Você dá um lead scoring por nota, tipo de zero a 100. Hoje, é um questionamento que eu estou deixando até para o Iago tocar isso, se vai ser quente, morno ou zero a 100. Aí já vai mais para a parte da definição de vendas. Eles me passam isso e eu automatizo com a parte da IA. Até para eu ficar na minha zona de potência ali, de construir a lógica do fluxo. Só que eu já integro também, de novo, é um jogo de automação IA. A partir do momento que eu capturei, por exemplo, nome, telefone e e-mail, já crio o pipe no CRM. E que CRM você usar hoje mesmo sendo meio? Exatamente. Qual o melhor CRM? Aquele que está preenchido, setado para o seu negócio. Mas qual que você usa hoje? Pipe Drive. Hoje a gente usa o Pipe Drive. O Pipe Drive tem uma API muito boa, uma facilidade de conexão de dados para mapear os campos. Então assim, hoje nos atende. Eu até pensei, cara, eu hoje consigo desenvolver o CRM próprio com IA. Só que eu falei, putz, vai ser muito tempo alocado aqui. Vai dar um trabalho que não faz sentido para você. Agora não. No futuro faz. Perfeito. Então, o que eu faço? O cara colocou nome, telefone e e-mail. Ele cai na primeira etapa do funil como lead. Ele foi qualificando, o lead scoring colocou. Na próxima etapa do funil, a própria IA já muda ele de lugar. Aí virou oportunidade, virou OP. Então é isso que você está falando. É um jogo de automação e IA. Isso. Se o próprio IA já, pô, ele passou uma etapa no funil, eu já mudei o card lá no Pipe Drive. Perfeito. Ou seja, o time de vendas define. Cara, o nosso lead que é oportunidade, ele segue esse lead scoring. A IA define o lead scoring. Se atingiu o valor determinado, a gente muda a automação dele para lead oportunidade. No final do fluxo, a gente tem um modelo em bound, então ele pode, se tiver qualificado, agendar a reunião com o closer. Então, se tiver qualificado, você quer dizer o seguinte, se ele passou no nível teu de corte, você já abre um lugar, você quer marcar aqui uma agenda de reunião com um dos nossos vendedores para entender mais dos nossos produtos. Você ganhou uma consultoria gratuita. Você ganhou uma consultoria gratuita com o nosso time, quer aqui agendar para conversar com eles? Exatamente. E se ele não passou na régua, você já botou o fluxo. Legal. Calma. Olha só. Estou ansioso. Essa cabeça já pensou lá até o fim. Mas olha só. Se ele chegou e agendou, ele já muda para o estágio CRM de reunião agendada e já preenche o CRM com a data, com o dia e tudo mais. Se ele não agendou, olha que legal. Pensa no processo. O que teria que acontecer? O SDR tem que recuperar esse cara. Sim. Passou 15 minutos... Ele vai para o caminho de recuperação. 15 minutos tem um fluxo de automação que verifica se aquele lead agendou. Se não agendou, aí a vida fala assim, pô Bruno, você passou por nossa experiência e não agendou a sua consulta. Não perde a oportunidade. O nosso time está te esperando. E a SDR chama. Ou seja, se o cara preencheu há uma hora da manhã, deu uma e quinze, a IA está fazendo follow up com ele. Ou seja, eu desenho o processo. E aí depois de seis horas, ela chama de novo. Depois de um dia, ela chama de novo. Cara, vi que não faz sentido. Esse cara estava testando. O que eu faço? Mando um conteúdo para ele continuar engajado com a base. Perfeito. Eu desenho o processo. Eu paro de apagar incêndio e começo... Eu tiro a cabeça da água e começo a pensar no processo. Só que esse processo se torna escalável. Porque tem assistentes e agentes de ar executando aquele processo. Eu não dependo mais de pessoas. E o mais legal, o mais legal, eu nivelo o treinamento. Perfeito. Pelo prompt. Então, a IA vai lá e recupera. Mas não recupera. Com pessoas você sabe. Um cara vai chamar de um jeito, o cara vai chamar de outro. Ah, o cara faltou no outro dia, ele esquece de chamar. Então, com a IA, ela respeita o processo que eu defini. O cara agendou a reunião. O que eu faço? O meu close é só em rei. Com a reunião agendada no CRM, o histórico do cara todo configurado. Eu coloco uma IA para entrar dentro da reunião. Então, o closer entra no call. A IA participa do call. Participa gravando. Entra dentro do meet. E daí você faz online, não é telefone. Se for via telefone, você tem que fazer algum VoIP que vai conseguir exportar o áudio para você fazer a automação da transcrição depois para jogar para IA. Então, eu pego a transcrição do call. Vamos supor que eu sou o closer, você é meu lead. A gente faz a reunião aqui, o nosso podcast. Acaba a reunião, é disparado um webhook, um envio de dados, para quem não sabe o termo técnico, um envio de dados da reunião com a transcrição daquela chamada que vai para um agente de IA. Esse agente de IA, o que eu pensei? Cara, esse cara tem que ser o gerente. Ele tem que virar e falar assim, cara, como é que foi essa reunião? Quais objeções o cliente fez? E aí, eu já vou dar uma dica para quem está nos ouvindo. Nessa hora, você tem que entender o seguinte, com inteligência artificial, o céu virou limite. Porque você não precisa ter só o gerente da sua cidade. Você pode criar a análise do gerente como se fosse o melhor gerente do mundo. Então, a gente usa a análise de spin selling, metodologia bunch, objeções. Ou seja, eu coloco uma análise com as melhores técnicas de venda do mundo e essa análise também é escalável e imediata e entra no nosso processo. Legal. Quem recebe essa análise? O meu vendedor. Passa cinco minutos que ele acabou a reunião. Ele tem a análise no e-mail. Os gestores da empresa. Eu recebo em qualquer lugar do mundo que eu",
+  "word_count": 1591,
+  "chunks_used": 1,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.02,
+      "timestamp": "00:00",
+      "text": "E aí entra um conceito muito interessante, que só a inteligência artificial trouxe no mercado, que é hiperpersonalização em escala."
+    },
+    {
+      "start": 9.02,
+      "end": 9.92,
+      "timestamp": "00:09",
+      "text": "O que é isso?"
+    },
+    {
+      "start": 9.92,
+      "end": 19.91,
+      "timestamp": "00:09",
+      "text": "É o seguinte, olha só, no mundo a gente tem aquele modelo de negócio padrão, indústria, processo, que tem que ser muito repetivo para ter escala."
+    },
+    {
+      "start": 19.91,
+      "end": 26.94,
+      "timestamp": "00:19",
+      "text": "E a gente tem aquela agência de viagem mega customizada, que precisa entender quem você é e tudo mais."
+    },
+    {
+      "start": 26.94,
+      "end": 29.76,
+      "timestamp": "00:26",
+      "text": "Com o IA, eu consigo unir as duas coisas."
+    },
+    {
+      "start": 29.76,
+      "end": 37.55,
+      "timestamp": "00:29",
+      "text": "Ou seja, eu consigo hiperpersonalizar a experiência de cada pessoa que entra no frio, só que de forma automática."
+    },
+    {
+      "start": 37.55,
+      "end": 44.3,
+      "timestamp": "00:37",
+      "text": "Se entrar mil pessoas no meu funil agora, cada um vai ter uma experiência completamente diferente."
+    },
+    {
+      "start": 44.3,
+      "end": 51.19,
+      "timestamp": "00:44",
+      "text": "Sem inteligência artificial era só automação, e isso era meio árvore de decisão, não ficava tão bom."
+    },
+    {
+      "start": 51.19,
+      "end": 53.53,
+      "timestamp": "00:51",
+      "text": "Talvez você ia ter dez diferentes."
+    },
+    {
+      "start": 53.53,
+      "end": 53.87,
+      "timestamp": "00:53",
+      "text": "Isso."
+    },
+    {
+      "start": 53.87,
+      "end": 55.18,
+      "timestamp": "00:53",
+      "text": "Não mil diferentes."
+    },
+    {
+      "start": 55.18,
+      "end": 57.11,
+      "timestamp": "00:55",
+      "text": "Só que agora mil diferentes."
+    },
+    {
+      "start": 57.11,
+      "end": 57.87,
+      "timestamp": "00:57",
+      "text": "Exatamente."
+    },
+    {
+      "start": 57.87,
+      "end": 60.97,
+      "timestamp": "00:57",
+      "text": "Ou seja, eu dou escala para a personalização."
+    },
+    {
+      "start": 60.97,
+      "end": 65.1,
+      "timestamp": "01:00",
+      "text": "Então, por exemplo, o cara já chega, ele coloca o nome dele."
+    },
+    {
+      "start": 65.1,
+      "end": 68.0,
+      "timestamp": "01:05",
+      "text": "Mas é um chat que você abre na sua página?"
+    },
+    {
+      "start": 68.0,
+      "end": 70.06,
+      "timestamp": "01:07",
+      "text": "Isso, um chat na minha página."
+    },
+    {
+      "start": 70.06,
+      "end": 74.75,
+      "timestamp": "01:10",
+      "text": "Tipo, representando uma conversa ali com um ser humano, basicamente."
+    },
+    {
+      "start": 74.75,
+      "end": 82.67,
+      "timestamp": "01:14",
+      "text": "E aí ele coloca assim, meu nome é Bruno Nardon, e aí eu já vou pegar o IP da sua localização e já vou pegar o nome."
+    },
+    {
+      "start": 82.67,
+      "end": 87.28,
+      "timestamp": "01:22",
+      "text": "Então ele já vai fazer uma brincadeira com o IP da sua localização."
+    },
+    {
+      "start": 87.28,
+      "end": 99.96,
+      "timestamp": "01:27",
+      "text": "Fala, Bruno, tô vendo que você tá aí em São Paulo, e Bruno, me lembra um empreendedor, Bruno, e aí vai fazendo brincadeiras ali, tornando a conversa humanizada e seguindo pela jornada."
+    },
+    {
+      "start": 99.96,
+      "end": 107.26,
+      "timestamp": "01:39",
+      "text": "Depois, à medida que você vai interagindo com o fluxo, vai ter no processo que você falou de lead scoring."
+    },
+    {
+      "start": 107.26,
+      "end": 108.92,
+      "timestamp": "01:47",
+      "text": "Quem faz o lead scoring?"
+    },
+    {
+      "start": 108.92,
+      "end": 109.12,
+      "timestamp": "01:48",
+      "text": "IA."
+    },
+    {
+      "start": 109.12,
+      "end": 111.95,
+      "timestamp": "01:49",
+      "text": "Então a própria IA já faz o lead scoring."
+    },
+    {
+      "start": 111.95,
+      "end": 118.08,
+      "timestamp": "01:51",
+      "text": "Mas você tem perguntas específicas que você colocou no sistema para fazer o lead scoring."
+    },
+    {
+      "start": 118.08,
+      "end": 118.84,
+      "timestamp": "01:58",
+      "text": "Exatamente."
+    },
+    {
+      "start": 118.84,
+      "end": 122.21,
+      "timestamp": "01:58",
+      "text": "No teu caso, quais perguntas são mais relevantes?"
+    },
+    {
+      "start": 122.21,
+      "end": 123.45,
+      "timestamp": "02:02",
+      "text": "Faturamento anual."
+    },
+    {
+      "start": 123.45,
+      "end": 124.83,
+      "timestamp": "02:03",
+      "text": "Segmento da empresa."
+    },
+    {
+      "start": 124.83,
+      "end": 126.28,
+      "timestamp": "02:04",
+      "text": "Quem é aquela pessoa?"
+    },
+    {
+      "start": 126.28,
+      "end": 134.34,
+      "timestamp": "02:06",
+      "text": "Ou seja, ele é um empresário que aplica a IA no negócio dele, ele quer aprender sobre IA, qual que é o objetivo dele?"
+    },
+    {
+      "start": 134.34,
+      "end": 136.13,
+      "timestamp": "02:14",
+      "text": "Perguntas de qualificação."
+    },
+    {
+      "start": 136.13,
+      "end": 140.47,
+      "timestamp": "02:16",
+      "text": "Isso, é legal você tocar nesse ponto que eu falo que IA é meio."
+    },
+    {
+      "start": 140.47,
+      "end": 144.88,
+      "timestamp": "02:20",
+      "text": "A IA não muda o fato de você ter que entender de business igual."
+    },
+    {
+      "start": 144.88,
+      "end": 145.5,
+      "timestamp": "02:24",
+      "text": "Perfeito."
+    },
+    {
+      "start": 145.5,
+      "end": 147.22,
+      "timestamp": "02:25",
+      "text": "Saber perguntar, saber..."
+    },
+    {
+      "start": 147.22,
+      "end": 151.01,
+      "timestamp": "02:27",
+      "text": "O conhecimento de business, a IA vai potencializar ele."
+    },
+    {
+      "start": 151.01,
+      "end": 159.69,
+      "timestamp": "02:31",
+      "text": "Nesse caso, você não precisaria talvez ter a IA, você poderia ter um type form ali com as cinco perguntas que você quer fazer."
+    },
+    {
+      "start": 159.69,
+      "end": 161.27,
+      "timestamp": "02:39",
+      "text": "Nome, telefone, e-mail."
+    },
+    {
+      "start": 161.27,
+      "end": 164.93,
+      "timestamp": "02:41",
+      "text": "A próxima pergunta, seu faturamento com cinco faixas."
+    },
+    {
+      "start": 164.93,
+      "end": 171.33,
+      "timestamp": "02:44",
+      "text": "A próxima pergunta, qual a sua posição na empresa com o soldor, não sei o que, só o analista."
+    },
+    {
+      "start": 171.33,
+      "end": 173.74,
+      "timestamp": "02:51",
+      "text": "Depois, qual o seu objetivo com IA?"
+    },
+    {
+      "start": 173.74,
+      "end": 178.01,
+      "timestamp": "02:53",
+      "text": "Daí você talvez ter cinco, seis, aprender, aplicar no negócio."
+    },
+    {
+      "start": 178.01,
+      "end": 187.87,
+      "timestamp": "02:58",
+      "text": "Daí você foi melhorando essa pergunta ao longo do tempo e beleza, essas três perguntas você já consegue saber bem o que esse cara consegue ter."
+    },
+    {
+      "start": 187.87,
+      "end": 191.65,
+      "timestamp": "03:07",
+      "text": "Só que nesse caso, você pegou isso e jogou para o chat."
+    },
+    {
+      "start": 191.65,
+      "end": 196.27,
+      "timestamp": "03:11",
+      "text": "Só que aí eu pego essas variáveis da resposta dele e mando para IA."
+    },
+    {
+      "start": 196.27,
+      "end": 201.99,
+      "timestamp": "03:16",
+      "text": "Então a partir desse momento a IA consegue calcular o lead scoring e a gente faz..."
+    },
+    {
+      "start": 201.99,
+      "end": 205.64,
+      "timestamp": "03:21",
+      "text": "Você dá um lead scoring por nota, tipo de zero a 100."
+    },
+    {
+      "start": 205.64,
+      "end": 213.56,
+      "timestamp": "03:25",
+      "text": "Hoje, é um questionamento que eu estou deixando até para o Iago tocar isso, se vai ser quente, morno ou zero a 100."
+    },
+    {
+      "start": 213.56,
+      "end": 217.08,
+      "timestamp": "03:33",
+      "text": "Aí já vai mais para a parte da definição de vendas."
+    },
+    {
+      "start": 217.08,
+      "end": 220.8,
+      "timestamp": "03:37",
+      "text": "Eles me passam isso e eu automatizo com a parte da IA."
+    },
+    {
+      "start": 220.8,
+      "end": 226.31,
+      "timestamp": "03:40",
+      "text": "Até para eu ficar na minha zona de potência ali, de construir a lógica do fluxo."
+    },
+    {
+      "start": 226.31,
+      "end": 230.72,
+      "timestamp": "03:46",
+      "text": "Só que eu já integro também, de novo, é um jogo de automação IA."
+    },
+    {
+      "start": 230.72,
+      "end": 237.4,
+      "timestamp": "03:50",
+      "text": "A partir do momento que eu capturei, por exemplo, nome, telefone e e-mail, já crio o pipe no CRM."
+    },
+    {
+      "start": 237.4,
+      "end": 240.29,
+      "timestamp": "03:57",
+      "text": "E que CRM você usar hoje mesmo sendo meio?"
+    },
+    {
+      "start": 240.29,
+      "end": 241.05,
+      "timestamp": "04:00",
+      "text": "Exatamente."
+    },
+    {
+      "start": 241.05,
+      "end": 242.29,
+      "timestamp": "04:01",
+      "text": "Qual o melhor CRM?"
+    },
+    {
+      "start": 242.29,
+      "end": 246.01,
+      "timestamp": "04:02",
+      "text": "Aquele que está preenchido, setado para o seu negócio."
+    },
+    {
+      "start": 246.01,
+      "end": 247.87,
+      "timestamp": "04:06",
+      "text": "Mas qual que você usa hoje?"
+    },
+    {
+      "start": 247.87,
+      "end": 248.63,
+      "timestamp": "04:07",
+      "text": "Pipe Drive."
+    },
+    {
+      "start": 248.63,
+      "end": 250.69,
+      "timestamp": "04:08",
+      "text": "Hoje a gente usa o Pipe Drive."
+    },
+    {
+      "start": 250.69,
+      "end": 257.1,
+      "timestamp": "04:10",
+      "text": "O Pipe Drive tem uma API muito boa, uma facilidade de conexão de dados para mapear os campos."
+    },
+    {
+      "start": 257.1,
+      "end": 259.1,
+      "timestamp": "04:17",
+      "text": "Então assim, hoje nos atende."
+    },
+    {
+      "start": 259.1,
+      "end": 263.92,
+      "timestamp": "04:19",
+      "text": "Eu até pensei, cara, eu hoje consigo desenvolver o CRM próprio com IA."
+    },
+    {
+      "start": 263.92,
+      "end": 267.78,
+      "timestamp": "04:23",
+      "text": "Só que eu falei, putz, vai ser muito tempo alocado aqui."
+    },
+    {
+      "start": 267.78,
+      "end": 271.22,
+      "timestamp": "04:27",
+      "text": "Vai dar um trabalho que não faz sentido para você."
+    },
+    {
+      "start": 271.22,
+      "end": 271.91,
+      "timestamp": "04:31",
+      "text": "Agora não."
+    },
+    {
+      "start": 271.91,
+      "end": 272.88,
+      "timestamp": "04:31",
+      "text": "No futuro faz."
+    },
+    {
+      "start": 272.88,
+      "end": 273.5,
+      "timestamp": "04:32",
+      "text": "Perfeito."
+    },
+    {
+      "start": 273.5,
+      "end": 274.94,
+      "timestamp": "04:33",
+      "text": "Então, o que eu faço?"
+    },
+    {
+      "start": 274.94,
+      "end": 277.63,
+      "timestamp": "04:34",
+      "text": "O cara colocou nome, telefone e e-mail."
+    },
+    {
+      "start": 277.63,
+      "end": 280.73,
+      "timestamp": "04:37",
+      "text": "Ele cai na primeira etapa do funil como lead."
+    },
+    {
+      "start": 280.73,
+      "end": 283.83,
+      "timestamp": "04:40",
+      "text": "Ele foi qualificando, o lead scoring colocou."
+    },
+    {
+      "start": 283.83,
+      "end": 288.03,
+      "timestamp": "04:43",
+      "text": "Na próxima etapa do funil, a própria IA já muda ele de lugar."
+    },
+    {
+      "start": 288.03,
+      "end": 290.24,
+      "timestamp": "04:48",
+      "text": "Aí virou oportunidade, virou OP."
+    },
+    {
+      "start": 290.24,
+      "end": 292.65,
+      "timestamp": "04:50",
+      "text": "Então é isso que você está falando."
+    },
+    {
+      "start": 292.65,
+      "end": 294.58,
+      "timestamp": "04:52",
+      "text": "É um jogo de automação e IA."
+    },
+    {
+      "start": 294.58,
+      "end": 294.92,
+      "timestamp": "04:54",
+      "text": "Isso."
+    },
+    {
+      "start": 294.92,
+      "end": 301.19,
+      "timestamp": "04:54",
+      "text": "Se o próprio IA já, pô, ele passou uma etapa no funil, eu já mudei o card lá no Pipe Drive."
+    },
+    {
+      "start": 301.19,
+      "end": 301.81,
+      "timestamp": "05:01",
+      "text": "Perfeito."
+    },
+    {
+      "start": 301.81,
+      "end": 304.08,
+      "timestamp": "05:01",
+      "text": "Ou seja, o time de vendas define."
+    },
+    {
+      "start": 304.08,
+      "end": 308.7,
+      "timestamp": "05:04",
+      "text": "Cara, o nosso lead que é oportunidade, ele segue esse lead scoring."
+    },
+    {
+      "start": 308.7,
+      "end": 310.56,
+      "timestamp": "05:08",
+      "text": "A IA define o lead scoring."
+    },
+    {
+      "start": 310.56,
+      "end": 316.42,
+      "timestamp": "05:10",
+      "text": "Se atingiu o valor determinado, a gente muda a automação dele para lead oportunidade."
+    },
+    {
+      "start": 316.42,
+      "end": 324.68,
+      "timestamp": "05:16",
+      "text": "No final do fluxo, a gente tem um modelo em bound, então ele pode, se tiver qualificado, agendar a reunião com o closer."
+    },
+    {
+      "start": 324.68,
+      "end": 340.46,
+      "timestamp": "05:24",
+      "text": "Então, se tiver qualificado, você quer dizer o seguinte, se ele passou no nível teu de corte, você já abre um lugar, você quer marcar aqui uma agenda de reunião com um dos nossos vendedores para entender mais dos nossos produtos."
+    },
+    {
+      "start": 340.46,
+      "end": 343.01,
+      "timestamp": "05:40",
+      "text": "Você ganhou uma consultoria gratuita."
+    },
+    {
+      "start": 343.01,
+      "end": 349.69,
+      "timestamp": "05:43",
+      "text": "Você ganhou uma consultoria gratuita com o nosso time, quer aqui agendar para conversar com eles?"
+    },
+    {
+      "start": 349.69,
+      "end": 350.45,
+      "timestamp": "05:49",
+      "text": "Exatamente."
+    },
+    {
+      "start": 350.45,
+      "end": 354.03,
+      "timestamp": "05:50",
+      "text": "E se ele não passou na régua, você já botou o fluxo."
+    },
+    {
+      "start": 354.03,
+      "end": 354.44,
+      "timestamp": "05:54",
+      "text": "Legal."
+    },
+    {
+      "start": 354.44,
+      "end": 354.86,
+      "timestamp": "05:54",
+      "text": "Calma."
+    },
+    {
+      "start": 354.86,
+      "end": 355.41,
+      "timestamp": "05:54",
+      "text": "Olha só."
+    },
+    {
+      "start": 355.41,
+      "end": 356.37,
+      "timestamp": "05:55",
+      "text": "Estou ansioso."
+    },
+    {
+      "start": 356.37,
+      "end": 358.78,
+      "timestamp": "05:56",
+      "text": "Essa cabeça já pensou lá até o fim."
+    },
+    {
+      "start": 358.78,
+      "end": 359.61,
+      "timestamp": "05:58",
+      "text": "Mas olha só."
+    },
+    {
+      "start": 359.61,
+      "end": 368.57,
+      "timestamp": "05:59",
+      "text": "Se ele chegou e agendou, ele já muda para o estágio CRM de reunião agendada e já preenche o CRM com a data, com o dia e tudo mais."
+    },
+    {
+      "start": 368.57,
+      "end": 370.98,
+      "timestamp": "06:08",
+      "text": "Se ele não agendou, olha que legal."
+    },
+    {
+      "start": 370.98,
+      "end": 372.22,
+      "timestamp": "06:10",
+      "text": "Pensa no processo."
+    },
+    {
+      "start": 372.22,
+      "end": 374.01,
+      "timestamp": "06:12",
+      "text": "O que teria que acontecer?"
+    },
+    {
+      "start": 374.01,
+      "end": 376.35,
+      "timestamp": "06:14",
+      "text": "O SDR tem que recuperar esse cara."
+    },
+    {
+      "start": 376.35,
+      "end": 376.63,
+      "timestamp": "06:16",
+      "text": "Sim."
+    },
+    {
+      "start": 376.63,
+      "end": 378.01,
+      "timestamp": "06:16",
+      "text": "Passou 15 minutos..."
+    },
+    {
+      "start": 378.01,
+      "end": 380.62,
+      "timestamp": "06:18",
+      "text": "Ele vai para o caminho de recuperação."
+    },
+    {
+      "start": 380.62,
+      "end": 385.65,
+      "timestamp": "06:20",
+      "text": "15 minutos tem um fluxo de automação que verifica se aquele lead agendou."
+    },
+    {
+      "start": 385.65,
+      "end": 393.3,
+      "timestamp": "06:25",
+      "text": "Se não agendou, aí a vida fala assim, pô Bruno, você passou por nossa experiência e não agendou a sua consulta."
+    },
+    {
+      "start": 393.3,
+      "end": 395.02,
+      "timestamp": "06:33",
+      "text": "Não perde a oportunidade."
+    },
+    {
+      "start": 395.02,
+      "end": 397.16,
+      "timestamp": "06:35",
+      "text": "O nosso time está te esperando."
+    },
+    {
+      "start": 397.16,
+      "end": 398.12,
+      "timestamp": "06:37",
+      "text": "E a SDR chama."
+    },
+    {
+      "start": 398.12,
+      "end": 405.35,
+      "timestamp": "06:38",
+      "text": "Ou seja, se o cara preencheu há uma hora da manhã, deu uma e quinze, a IA está fazendo follow up com ele."
+    },
+    {
+      "start": 405.35,
+      "end": 407.49,
+      "timestamp": "06:45",
+      "text": "Ou seja, eu desenho o processo."
+    },
+    {
+      "start": 407.49,
+      "end": 410.59,
+      "timestamp": "06:47",
+      "text": "E aí depois de seis horas, ela chama de novo."
+    },
+    {
+      "start": 410.59,
+      "end": 413.07,
+      "timestamp": "06:50",
+      "text": "Depois de um dia, ela chama de novo."
+    },
+    {
+      "start": 413.07,
+      "end": 415.07,
+      "timestamp": "06:53",
+      "text": "Cara, vi que não faz sentido."
+    },
+    {
+      "start": 415.07,
+      "end": 416.86,
+      "timestamp": "06:55",
+      "text": "Esse cara estava testando."
+    },
+    {
+      "start": 416.86,
+      "end": 417.82,
+      "timestamp": "06:56",
+      "text": "O que eu faço?"
+    },
+    {
+      "start": 417.82,
+      "end": 421.75,
+      "timestamp": "06:57",
+      "text": "Mando um conteúdo para ele continuar engajado com a base."
+    },
+    {
+      "start": 421.75,
+      "end": 422.37,
+      "timestamp": "07:01",
+      "text": "Perfeito."
+    },
+    {
+      "start": 422.37,
+      "end": 423.89,
+      "timestamp": "07:02",
+      "text": "Eu desenho o processo."
+    },
+    {
+      "start": 423.89,
+      "end": 426.5,
+      "timestamp": "07:03",
+      "text": "Eu paro de apagar incêndio e começo..."
+    },
+    {
+      "start": 426.5,
+      "end": 430.29,
+      "timestamp": "07:06",
+      "text": "Eu tiro a cabeça da água e começo a pensar no processo."
+    },
+    {
+      "start": 430.29,
+      "end": 433.05,
+      "timestamp": "07:10",
+      "text": "Só que esse processo se torna escalável."
+    },
+    {
+      "start": 433.05,
+      "end": 437.6,
+      "timestamp": "07:13",
+      "text": "Porque tem assistentes e agentes de ar executando aquele processo."
+    },
+    {
+      "start": 437.6,
+      "end": 439.73,
+      "timestamp": "07:17",
+      "text": "Eu não dependo mais de pessoas."
+    },
+    {
+      "start": 439.73,
+      "end": 443.45,
+      "timestamp": "07:19",
+      "text": "E o mais legal, o mais legal, eu nivelo o treinamento."
+    },
+    {
+      "start": 443.45,
+      "end": 444.07,
+      "timestamp": "07:23",
+      "text": "Perfeito."
+    },
+    {
+      "start": 444.07,
+      "end": 444.9,
+      "timestamp": "07:24",
+      "text": "Pelo prompt."
+    },
+    {
+      "start": 444.9,
+      "end": 446.96,
+      "timestamp": "07:24",
+      "text": "Então, a IA vai lá e recupera."
+    },
+    {
+      "start": 446.96,
+      "end": 448.14,
+      "timestamp": "07:26",
+      "text": "Mas não recupera."
+    },
+    {
+      "start": 448.14,
+      "end": 449.65,
+      "timestamp": "07:28",
+      "text": "Com pessoas você sabe."
+    },
+    {
+      "start": 449.65,
+      "end": 453.72,
+      "timestamp": "07:29",
+      "text": "Um cara vai chamar de um jeito, o cara vai chamar de outro."
+    },
+    {
+      "start": 453.72,
+      "end": 457.44,
+      "timestamp": "07:33",
+      "text": "Ah, o cara faltou no outro dia, ele esquece de chamar."
+    },
+    {
+      "start": 457.44,
+      "end": 461.23,
+      "timestamp": "07:37",
+      "text": "Então, com a IA, ela respeita o processo que eu defini."
+    },
+    {
+      "start": 461.23,
+      "end": 462.95,
+      "timestamp": "07:41",
+      "text": "O cara agendou a reunião."
+    },
+    {
+      "start": 462.95,
+      "end": 463.91,
+      "timestamp": "07:42",
+      "text": "O que eu faço?"
+    },
+    {
+      "start": 463.91,
+      "end": 465.57,
+      "timestamp": "07:43",
+      "text": "O meu close é só em rei."
+    },
+    {
+      "start": 465.57,
+      "end": 470.25,
+      "timestamp": "07:45",
+      "text": "Com a reunião agendada no CRM, o histórico do cara todo configurado."
+    },
+    {
+      "start": 470.25,
+      "end": 473.49,
+      "timestamp": "07:50",
+      "text": "Eu coloco uma IA para entrar dentro da reunião."
+    },
+    {
+      "start": 473.49,
+      "end": 475.55,
+      "timestamp": "07:53",
+      "text": "Então, o closer entra no call."
+    },
+    {
+      "start": 475.55,
+      "end": 477.14,
+      "timestamp": "07:55",
+      "text": "A IA participa do call."
+    },
+    {
+      "start": 477.14,
+      "end": 478.45,
+      "timestamp": "07:57",
+      "text": "Participa gravando."
+    },
+    {
+      "start": 478.45,
+      "end": 479.89,
+      "timestamp": "07:58",
+      "text": "Entra dentro do meet."
+    },
+    {
+      "start": 479.89,
+      "end": 482.51,
+      "timestamp": "07:59",
+      "text": "E daí você faz online, não é telefone."
+    },
+    {
+      "start": 482.51,
+      "end": 493.19,
+      "timestamp": "08:02",
+      "text": "Se for via telefone, você tem que fazer algum VoIP que vai conseguir exportar o áudio para você fazer a automação da transcrição depois para jogar para IA."
+    },
+    {
+      "start": 493.19,
+      "end": 495.74,
+      "timestamp": "08:13",
+      "text": "Então, eu pego a transcrição do call."
+    },
+    {
+      "start": 495.74,
+      "end": 499.12,
+      "timestamp": "08:15",
+      "text": "Vamos supor que eu sou o closer, você é meu lead."
+    },
+    {
+      "start": 499.12,
+      "end": 502.15,
+      "timestamp": "08:19",
+      "text": "A gente faz a reunião aqui, o nosso podcast."
+    },
+    {
+      "start": 502.15,
+      "end": 515.1,
+      "timestamp": "08:22",
+      "text": "Acaba a reunião, é disparado um webhook, um envio de dados, para quem não sabe o termo técnico, um envio de dados da reunião com a transcrição daquela chamada que vai para um agente de IA."
+    },
+    {
+      "start": 515.1,
+      "end": 517.51,
+      "timestamp": "08:35",
+      "text": "Esse agente de IA, o que eu pensei?"
+    },
+    {
+      "start": 517.51,
+      "end": 520.13,
+      "timestamp": "08:37",
+      "text": "Cara, esse cara tem que ser o gerente."
+    },
+    {
+      "start": 520.13,
+      "end": 524.74,
+      "timestamp": "08:40",
+      "text": "Ele tem que virar e falar assim, cara, como é que foi essa reunião?"
+    },
+    {
+      "start": 524.74,
+      "end": 526.74,
+      "timestamp": "08:44",
+      "text": "Quais objeções o cliente fez?"
+    },
+    {
+      "start": 526.74,
+      "end": 530.6,
+      "timestamp": "08:46",
+      "text": "E aí, eu já vou dar uma dica para quem está nos ouvindo."
+    },
+    {
+      "start": 530.6,
+      "end": 537.07,
+      "timestamp": "08:50",
+      "text": "Nessa hora, você tem que entender o seguinte, com inteligência artificial, o céu virou limite."
+    },
+    {
+      "start": 537.07,
+      "end": 540.86,
+      "timestamp": "08:57",
+      "text": "Porque você não precisa ter só o gerente da sua cidade."
+    },
+    {
+      "start": 540.86,
+      "end": 546.17,
+      "timestamp": "09:00",
+      "text": "Você pode criar a análise do gerente como se fosse o melhor gerente do mundo."
+    },
+    {
+      "start": 546.17,
+      "end": 551.27,
+      "timestamp": "09:06",
+      "text": "Então, a gente usa a análise de spin selling, metodologia bunch, objeções."
+    },
+    {
+      "start": 551.27,
+      "end": 561.26,
+      "timestamp": "09:11",
+      "text": "Ou seja, eu coloco uma análise com as melhores técnicas de venda do mundo e essa análise também é escalável e imediata e entra no nosso processo."
+    },
+    {
+      "start": 561.26,
+      "end": 561.67,
+      "timestamp": "09:21",
+      "text": "Legal."
+    },
+    {
+      "start": 561.67,
+      "end": 563.39,
+      "timestamp": "09:21",
+      "text": "Quem recebe essa análise?"
+    },
+    {
+      "start": 563.39,
+      "end": 564.42,
+      "timestamp": "09:23",
+      "text": "O meu vendedor."
+    },
+    {
+      "start": 564.42,
+      "end": 567.52,
+      "timestamp": "09:24",
+      "text": "Passa cinco minutos que ele acabou a reunião."
+    },
+    {
+      "start": 567.52,
+      "end": 569.45,
+      "timestamp": "09:27",
+      "text": "Ele tem a análise no e-mail."
+    },
+    {
+      "start": 569.45,
+      "end": 571.04,
+      "timestamp": "09:29",
+      "text": "Os gestores da empresa."
+    },
+    {
+      "start": 571.04,
+      "end": 574.0,
+      "timestamp": "09:31",
+      "text": "Eu recebo em qualquer lugar do mundo que eu"
+    }
+  ],
+  "segment_count": 166,
+  "text_timestamped": "[00:00] E aí entra um conceito muito interessante, que só a inteligência artificial trouxe no mercado, que é hiperpersonalização em escala.\n[00:09] O que é isso?\n[00:09] É o seguinte, olha só, no mundo a gente tem aquele modelo de negócio padrão, indústria, processo, que tem que ser muito repetivo para ter escala.\n[00:19] E a gente tem aquela agência de viagem mega customizada, que precisa entender quem você é e tudo mais.\n[00:26] Com o IA, eu consigo unir as duas coisas.\n[00:29] Ou seja, eu consigo hiperpersonalizar a experiência de cada pessoa que entra no frio, só que de forma automática.\n[00:37] Se entrar mil pessoas no meu funil agora, cada um vai ter uma experiência completamente diferente.\n[00:44] Sem inteligência artificial era só automação, e isso era meio árvore de decisão, não ficava tão bom.\n[00:51] Talvez você ia ter dez diferentes.\n[00:53] Isso.\n[00:53] Não mil diferentes.\n[00:55] Só que agora mil diferentes.\n[00:57] Exatamente.\n[00:57] Ou seja, eu dou escala para a personalização.\n[01:00] Então, por exemplo, o cara já chega, ele coloca o nome dele.\n[01:05] Mas é um chat que você abre na sua página?\n[01:07] Isso, um chat na minha página.\n[01:10] Tipo, representando uma conversa ali com um ser humano, basicamente.\n[01:14] E aí ele coloca assim, meu nome é Bruno Nardon, e aí eu já vou pegar o IP da sua localização e já vou pegar o nome.\n[01:22] Então ele já vai fazer uma brincadeira com o IP da sua localização.\n[01:27] Fala, Bruno, tô vendo que você tá aí em São Paulo, e Bruno, me lembra um empreendedor, Bruno, e aí vai fazendo brincadeiras ali, tornando a conversa humanizada e seguindo pela jornada.\n[01:39] Depois, à medida que você vai interagindo com o fluxo, vai ter no processo que você falou de lead scoring.\n[01:47] Quem faz o lead scoring?\n[01:48] IA.\n[01:49] Então a própria IA já faz o lead scoring.\n[01:51] Mas você tem perguntas específicas que você colocou no sistema para fazer o lead scoring.\n[01:58] Exatamente.\n[01:58] No teu caso, quais perguntas são mais relevantes?\n[02:02] Faturamento anual.\n[02:03] Segmento da empresa.\n[02:04] Quem é aquela pessoa?\n[02:06] Ou seja, ele é um empresário que aplica a IA no negócio dele, ele quer aprender sobre IA, qual que é o objetivo dele?\n[02:14] Perguntas de qualificação.\n[02:16] Isso, é legal você tocar nesse ponto que eu falo que IA é meio.\n[02:20] A IA não muda o fato de você ter que entender de business igual.\n[02:24] Perfeito.\n[02:25] Saber perguntar, saber...\n[02:27] O conhecimento de business, a IA vai potencializar ele.\n[02:31] Nesse caso, você não precisaria talvez ter a IA, você poderia ter um type form ali com as cinco perguntas que você quer fazer.\n[02:39] Nome, telefone, e-mail.\n[02:41] A próxima pergunta, seu faturamento com cinco faixas.\n[02:44] A próxima pergunta, qual a sua posição na empresa com o soldor, não sei o que, só o analista.\n[02:51] Depois, qual o seu objetivo com IA?\n[02:53] Daí você talvez ter cinco, seis, aprender, aplicar no negócio.\n[02:58] Daí você foi melhorando essa pergunta ao longo do tempo e beleza, essas três perguntas você já consegue saber bem o que esse cara consegue ter.\n[03:07] Só que nesse caso, você pegou isso e jogou para o chat.\n[03:11] Só que aí eu pego essas variáveis da resposta dele e mando para IA.\n[03:16] Então a partir desse momento a IA consegue calcular o lead scoring e a gente faz...\n[03:21] Você dá um lead scoring por nota, tipo de zero a 100.\n[03:25] Hoje, é um questionamento que eu estou deixando até para o Iago tocar isso, se vai ser quente, morno ou zero a 100.\n[03:33] Aí já vai mais para a parte da definição de vendas.\n[03:37] Eles me passam isso e eu automatizo com a parte da IA.\n[03:40] Até para eu ficar na minha zona de potência ali, de construir a lógica do fluxo.\n[03:46] Só que eu já integro também, de novo, é um jogo de automação IA.\n[03:50] A partir do momento que eu capturei, por exemplo, nome, telefone e e-mail, já crio o pipe no CRM.\n[03:57] E que CRM você usar hoje mesmo sendo meio?\n[04:00] Exatamente.\n[04:01] Qual o melhor CRM?\n[04:02] Aquele que está preenchido, setado para o seu negócio.\n[04:06] Mas qual que você usa hoje?\n[04:07] Pipe Drive.\n[04:08] Hoje a gente usa o Pipe Drive.\n[04:10] O Pipe Drive tem uma API muito boa, uma facilidade de conexão de dados para mapear os campos.\n[04:17] Então assim, hoje nos atende.\n[04:19] Eu até pensei, cara, eu hoje consigo desenvolver o CRM próprio com IA.\n[04:23] Só que eu falei, putz, vai ser muito tempo alocado aqui.\n[04:27] Vai dar um trabalho que não faz sentido para você.\n[04:31] Agora não.\n[04:31] No futuro faz.\n[04:32] Perfeito.\n[04:33] Então, o que eu faço?\n[04:34] O cara colocou nome, telefone e e-mail.\n[04:37] Ele cai na primeira etapa do funil como lead.\n[04:40] Ele foi qualificando, o lead scoring colocou.\n[04:43] Na próxima etapa do funil, a própria IA já muda ele de lugar.\n[04:48] Aí virou oportunidade, virou OP.\n[04:50] Então é isso que você está falando.\n[04:52] É um jogo de automação e IA.\n[04:54] Isso.\n[04:54] Se o próprio IA já, pô, ele passou uma etapa no funil, eu já mudei o card lá no Pipe Drive.\n[05:01] Perfeito.\n[05:01] Ou seja, o time de vendas define.\n[05:04] Cara, o nosso lead que é oportunidade, ele segue esse lead scoring.\n[05:08] A IA define o lead scoring.\n[05:10] Se atingiu o valor determinado, a gente muda a automação dele para lead oportunidade.\n[05:16] No final do fluxo, a gente tem um modelo em bound, então ele pode, se tiver qualificado, agendar a reunião com o closer.\n[05:24] Então, se tiver qualificado, você quer dizer o seguinte, se ele passou no nível teu de corte, você já abre um lugar, você quer marcar aqui uma agenda de reunião com um dos nossos vendedores para entender mais dos nossos produtos.\n[05:40] Você ganhou uma consultoria gratuita.\n[05:43] Você ganhou uma consultoria gratuita com o nosso time, quer aqui agendar para conversar com eles?\n[05:49] Exatamente.\n[05:50] E se ele não passou na régua, você já botou o fluxo.\n[05:54] Legal.\n[05:54] Calma.\n[05:54] Olha só.\n[05:55] Estou ansioso.\n[05:56] Essa cabeça já pensou lá até o fim.\n[05:58] Mas olha só.\n[05:59] Se ele chegou e agendou, ele já muda para o estágio CRM de reunião agendada e já preenche o CRM com a data, com o dia e tudo mais.\n[06:08] Se ele não agendou, olha que legal.\n[06:10] Pensa no processo.\n[06:12] O que teria que acontecer?\n[06:14] O SDR tem que recuperar esse cara.\n[06:16] Sim.\n[06:16] Passou 15 minutos...\n[06:18] Ele vai para o caminho de recuperação.\n[06:20] 15 minutos tem um fluxo de automação que verifica se aquele lead agendou.\n[06:25] Se não agendou, aí a vida fala assim, pô Bruno, você passou por nossa experiência e não agendou a sua consulta.\n[06:33] Não perde a oportunidade.\n[06:35] O nosso time está te esperando.\n[06:37] E a SDR chama.\n[06:38] Ou seja, se o cara preencheu há uma hora da manhã, deu uma e quinze, a IA está fazendo follow up com ele.\n[06:45] Ou seja, eu desenho o processo.\n[06:47] E aí depois de seis horas, ela chama de novo.\n[06:50] Depois de um dia, ela chama de novo.\n[06:53] Cara, vi que não faz sentido.\n[06:55] Esse cara estava testando.\n[06:56] O que eu faço?\n[06:57] Mando um conteúdo para ele continuar engajado com a base.\n[07:01] Perfeito.\n[07:02] Eu desenho o processo.\n[07:03] Eu paro de apagar incêndio e começo...\n[07:06] Eu tiro a cabeça da água e começo a pensar no processo.\n[07:10] Só que esse processo se torna escalável.\n[07:13] Porque tem assistentes e agentes de ar executando aquele processo.\n[07:17] Eu não dependo mais de pessoas.\n[07:19] E o mais legal, o mais legal, eu nivelo o treinamento.\n[07:23] Perfeito.\n[07:24] Pelo prompt.\n[07:24] Então, a IA vai lá e recupera.\n[07:26] Mas não recupera.\n[07:28] Com pessoas você sabe.\n[07:29] Um cara vai chamar de um jeito, o cara vai chamar de outro.\n[07:33] Ah, o cara faltou no outro dia, ele esquece de chamar.\n[07:37] Então, com a IA, ela respeita o processo que eu defini.\n[07:41] O cara agendou a reunião.\n[07:42] O que eu faço?\n[07:43] O meu close é só em rei.\n[07:45] Com a reunião agendada no CRM, o histórico do cara todo configurado.\n[07:50] Eu coloco uma IA para entrar dentro da reunião.\n[07:53] Então, o closer entra no call.\n[07:55] A IA participa do call.\n[07:57] Participa gravando.\n[07:58] Entra dentro do meet.\n[07:59] E daí você faz online, não é telefone.\n[08:02] Se for via telefone, você tem que fazer algum VoIP que vai conseguir exportar o áudio para você fazer a automação da transcrição depois para jogar para IA.\n[08:13] Então, eu pego a transcrição do call.\n[08:15] Vamos supor que eu sou o closer, você é meu lead.\n[08:19] A gente faz a reunião aqui, o nosso podcast.\n[08:22] Acaba a reunião, é disparado um webhook, um envio de dados, para quem não sabe o termo técnico, um envio de dados da reunião com a transcrição daquela chamada que vai para um agente de IA.\n[08:35] Esse agente de IA, o que eu pensei?\n[08:37] Cara, esse cara tem que ser o gerente.\n[08:40] Ele tem que virar e falar assim, cara, como é que foi essa reunião?\n[08:44] Quais objeções o cliente fez?\n[08:46] E aí, eu já vou dar uma dica para quem está nos ouvindo.\n[08:50] Nessa hora, você tem que entender o seguinte, com inteligência artificial, o céu virou limite.\n[08:57] Porque você não precisa ter só o gerente da sua cidade.\n[09:00] Você pode criar a análise do gerente como se fosse o melhor gerente do mundo.\n[09:06] Então, a gente usa a análise de spin selling, metodologia bunch, objeções.\n[09:11] Ou seja, eu coloco uma análise com as melhores técnicas de venda do mundo e essa análise também é escalável e imediata e entra no nosso processo.\n[09:21] Legal.\n[09:21] Quem recebe essa análise?\n[09:23] O meu vendedor.\n[09:24] Passa cinco minutos que ele acabou a reunião.\n[09:27] Ele tem a análise no e-mail.\n[09:29] Os gestores da empresa.\n[09:31] Eu recebo em qualquer lugar do mundo que eu",
+  "timestamps_estimated": true
+}

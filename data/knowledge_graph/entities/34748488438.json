@@ -1,0 +1,627 @@
+{
+  "episode_id": "34748488438",
+  "title": "TRANSFORME O RESULTADO DO SEU TIME DE VENDAS - COM GUSTAVO PAGOTTO | PAPO DE GESTÃO",
+  "date_published": 1716193800,
+  "duration": 4517,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Gustavo Pagotto",
+      "role": "guest",
+      "company": "Pipe Lovers",
+      "title": "Fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Aaron Ross",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Reid Hoffman",
+      "role": "mentioned",
+      "company": "LinkedIn",
+      "title": "Founder"
+    },
+    {
+      "name": "Rafael",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Lários Cossentino",
+      "role": "mentioned",
+      "company": "TOTS",
+      "title": "Founder"
+    },
+    {
+      "name": "Marília Roca",
+      "role": "mentioned",
+      "company": "Endeavor Brasil",
+      "title": "Executive"
+    },
+    {
+      "name": "Hans Charan",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor"
+    },
+    {
+      "name": "Simon Sinek",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Organizadora do podcast e cursos mencionados"
+    },
+    {
+      "name": "Pipe Lovers",
+      "industry": "Educação em vendas",
+      "context": "Fundada por Gustavo Pagotto, maior comunidade de educação em vendas B2B do Brasil"
+    },
+    {
+      "name": "Linkedin",
+      "industry": "Tecnologia",
+      "context": "Empresa onde Gustavo Pagotto trabalhou"
+    },
+    {
+      "name": "Créditas",
+      "industry": "Fintech",
+      "context": "Empresa onde Gustavo Pagotto trabalhou"
+    },
+    {
+      "name": "Tots",
+      "industry": "Tecnologia",
+      "context": "Empresa onde Gustavo Pagotto trabalhou"
+    },
+    {
+      "name": "Bayer",
+      "industry": "Farmacêutica",
+      "context": "Empresa onde Gustavo Pagotto iniciou sua carreira"
+    },
+    {
+      "name": "Pipeline",
+      "industry": "Sales Consulting",
+      "context": "Discussed as the company founded by Gustavo Pagotto."
+    },
+    {
+      "name": "Creditas",
+      "industry": "Financial Services",
+      "context": "Gustavo Pagotto expanded the sales team and revenue significantly."
+    },
+    {
+      "name": "Endeavor Brasil",
+      "industry": "Entrepreneurship",
+      "context": "Marília Roca brought Endeavor to Brazil."
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia",
+      "context": "Empresa que adquiriu o LinkedIn durante o período de Gustavo Pagotto."
+    },
+    {
+      "name": "Acreditas",
+      "industry": "Finanças",
+      "context": "Empresa onde Gustavo Pagotto expandiu a equipe de vendas de 40 para 240 pessoas."
+    },
+    {
+      "name": "Piper Lovers",
+      "industry": "Educação",
+      "context": "Empresa fundada por Gustavo Pagotto, focada em treinamento de vendas."
+    },
+    {
+      "name": "Google",
+      "industry": "Technology",
+      "context": "Mentioned as the dream workplace of an unnamed individual."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Time de vendas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Educação em vendas B2B",
+      "category": "Educação"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Desenvolvimento profissional"
+    },
+    {
+      "name": "Visão de negócio",
+      "category": "Habilidade profissional"
+    },
+    {
+      "name": "Conhecimento técnico",
+      "category": "Habilidade profissional"
+    },
+    {
+      "name": "Relacionamento interpessoal",
+      "category": "Habilidade profissional"
+    },
+    {
+      "name": "Autodesenvolvimento",
+      "category": "Habilidade profissional"
+    },
+    {
+      "name": "Trabalho duro",
+      "category": "Habilidade profissional"
+    },
+    {
+      "name": "Product-Market Fit",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "CRM",
+      "category": "Sales Tools"
+    },
+    {
+      "name": "Playbook de Vendas",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Onboarding",
+      "category": "HR and Training"
+    },
+    {
+      "name": "Modelo de Comissionamento",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Receita Previsível",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "SDR (Sales Development Representative)",
+      "category": "Sales Roles"
+    },
+    {
+      "name": "Funil de Vendas",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Capacity do Funil de Vendas",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "OTE (On Target Earnings)",
+      "category": "Modelo de Remuneração"
+    },
+    {
+      "name": "Soft Skills e Hard Skills",
+      "category": "Avaliação de Competências"
+    },
+    {
+      "name": "Processo Seletivo",
+      "category": "Recrutamento"
+    },
+    {
+      "name": "Tour of Duty",
+      "category": "Gestão de Carreira"
+    },
+    {
+      "name": "Sales Pipeline",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "One-on-One Meetings",
+      "category": "Management Practices"
+    },
+    {
+      "name": "Pipeline Review",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Forecasting",
+      "category": "Sales Strategy"
+    },
+    {
+      "name": "Sales Training",
+      "category": "Skill Development"
+    },
+    {
+      "name": "Tenure",
+      "category": "Employee Retention"
+    },
+    {
+      "name": "Individual Development Plan (IDP)",
+      "category": "Employee Development"
+    },
+    {
+      "name": "Sales Navigator",
+      "category": "Sales Tool"
+    },
+    {
+      "name": "SaaS (Software as a Service)",
+      "category": "Business Model"
+    },
+    {
+      "name": "Sails Navigator",
+      "category": "Produto"
+    },
+    {
+      "name": "Account-Based Marketing",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Vendas B2B",
+      "category": "Estratégia de Vendas"
+    },
+    {
+      "name": "Lifelong Learning",
+      "category": "Conceito de Educação"
+    },
+    {
+      "name": "Universidade Corporativa",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Pipeline da Liderança",
+      "category": "Modelo de Gestão"
+    },
+    {
+      "name": "Performance Review",
+      "category": "Management"
+    },
+    {
+      "name": "Quarterly Revenue Target",
+      "category": "Metrics"
+    },
+    {
+      "name": "Career Transformation",
+      "category": "Personal Development"
+    }
+  ],
+  "books": [
+    {
+      "title": "Receita Previsível",
+      "author": "Aaron Ross"
+    },
+    {
+      "title": "Blitzscaling",
+      "author": "Reid Hoffman"
+    },
+    {
+      "title": "Como Fazer Amigos e Influenciar Pessoas",
+      "author": "Dale Carnegie"
+    },
+    {
+      "title": "Pipeline da Liderança",
+      "author": "Hans Charan"
+    },
+    {
+      "title": "O Jogo Infinito",
+      "author": "Simon Sinek"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "45,000",
+      "context": "Number of daily readers of Gustavo Pagotto's B2B sales newsletter."
+    },
+    {
+      "value": "20 months",
+      "context": "Age of the company Pipeline."
+    },
+    {
+      "value": "4 to 6 months",
+      "context": "Time required for a salesperson to become fully operational."
+    },
+    {
+      "value": "30 minutes per week",
+      "context": "Recommended duration for one-on-one meetings between managers and salespeople."
+    },
+    {
+      "value": "15 hours per week",
+      "context": "Time needed for a manager to conduct one-on-one and pipeline review meetings for a team of 10 salespeople."
+    },
+    {
+      "value": "15 hours per week",
+      "context": "Time spent by a sales manager on pipeline reviews and one-on-one meetings."
+    },
+    {
+      "value": "240 employees",
+      "context": "Size of the sales team at Creditas under Gustavo Pagotto's leadership."
+    },
+    {
+      "value": "24 million per month",
+      "context": "Revenue achieved by Creditas during Gustavo Pagotto's tenure."
+    },
+    {
+      "value": "7 anos",
+      "context": "Tempo que Gustavo Pagotto trabalhou na TOTS."
+    },
+    {
+      "value": "4 anos",
+      "context": "Tempo que Gustavo Pagotto trabalhou no LinkedIn."
+    },
+    {
+      "value": "40 para 240 pessoas",
+      "context": "Crescimento da equipe de vendas na Acreditas sob liderança de Gustavo Pagotto."
+    },
+    {
+      "value": "2 milhões para 24 milhões por mês",
+      "context": "Crescimento do faturamento na Acreditas sob liderança de Gustavo Pagotto."
+    },
+    {
+      "value": "75 reais por mês por pessoa",
+      "context": "Custo do serviço da Piper Lovers."
+    },
+    {
+      "value": "500 membros",
+      "context": "Número inicial de membros no modelo B2C da Piper Lovers."
+    },
+    {
+      "value": "100 clientes",
+      "context": "Número de clientes corporativos alcançados pela Piper Lovers."
+    },
+    {
+      "value": "One year and a few months",
+      "context": "Duration the unnamed individual worked at Google."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Linkedin",
+      "target_type": "company"
+    },
+    {
+      "source": "Receita Previsível",
+      "source_type": "concept",
+      "relation": "recommends",
+      "target": "Aaron Ross",
+      "target_type": "person"
+    },
+    {
+      "source": "Reid Hoffman",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Linkedin",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Crm",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Tots",
+      "target_type": "company"
+    },
+    {
+      "source": "Aaron Ross",
+      "source_type": "person",
+      "relation": "author_of",
+      "target": "Receita Previsível",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Linkedin",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Piper Lovers",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Bayer",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Onboarding",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marília Roca",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Endeavor Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Lários Cossentino",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Tots",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Tots",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Creditas",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Pipeline",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sales Pipeline",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Forecasting",
+      "target_type": "concept"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "One-On-One Meetings",
+      "target_type": "concept"
+    },
+    {
+      "source": "Unnamed Individual",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bayer",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Créditas",
+      "target_type": "company"
+    },
+    {
+      "source": "Pipeline Da Liderança",
+      "source_type": "concept",
+      "relation": "recommends",
+      "target": "Hans Charan",
+      "target_type": "person"
+    },
+    {
+      "source": "O Jogo Infinito",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Simon Sinek",
+      "target_type": "person"
+    },
+    {
+      "source": "Linkedin",
+      "source_type": "company",
+      "relation": "acquired_by",
+      "target": "Microsoft",
+      "target_type": "company"
+    },
+    {
+      "source": "Unnamed Individual",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Linkedin",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Pipe Lovers",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Pipeline Review",
+      "target_type": "concept"
+    },
+    {
+      "source": "Reid Hoffman",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Blitzscaling",
+      "target_type": "company"
+    },
+    {
+      "source": "Gustavo Pagotto",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Acreditas",
+      "target_type": "company"
+    }
+  ]
+}

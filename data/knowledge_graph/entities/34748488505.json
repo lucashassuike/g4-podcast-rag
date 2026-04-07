@@ -1,0 +1,153 @@
+{
+  "episode_id": "34748488505",
+  "title": "O Seu Time Entende o Que Você Diz? - Com Luis Vabo Jr | Extremos",
+  "date_published": 1700211600,
+  "duration": 5666,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Luis Vabo Jr",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Fundador"
+    },
+    {
+      "name": "Carol Dweck",
+      "role": "mentioned",
+      "company": "Stanford",
+      "title": "Professora"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Clivo",
+      "industry": "Healthcare",
+      "context": "Fundada por Marcelo Toledo"
+    },
+    {
+      "name": "Oi",
+      "industry": "Telecomunicações",
+      "context": "Empresa onde o palestrante trabalhou com centenas de pessoas"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "People Skills",
+      "category": "Habilidades de Liderança"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Mindset de Crescimento",
+      "category": "Psicologia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Mindset Fixo",
+      "category": "Psicologia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Protagonismo",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Zona de Conforto",
+      "category": "Psicologia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Crenças Limitantes",
+      "category": "Psicologia e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Três P's",
+      "category": "Educação e Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Geração Z",
+      "category": "demografia"
+    },
+    {
+      "name": "Geração Y",
+      "category": "demografia"
+    },
+    {
+      "name": "Geração X",
+      "category": "demografia"
+    },
+    {
+      "name": "Empatia",
+      "category": "habilidade interpessoal"
+    },
+    {
+      "name": "Saúde mental",
+      "category": "bem-estar"
+    },
+    {
+      "name": "Gestão emocional",
+      "category": "habilidade interpessoal"
+    },
+    {
+      "name": "Neurociência",
+      "category": "ciência"
+    },
+    {
+      "name": "Comparação social",
+      "category": "comportamento"
+    },
+    {
+      "name": "Burnout",
+      "category": "saúde mental"
+    },
+    {
+      "name": "Ansiedade",
+      "category": "saúde mental"
+    },
+    {
+      "name": "Depressão",
+      "category": "saúde mental"
+    },
+    {
+      "name": "Tomada de decisão",
+      "category": "habilidade interpessoal"
+    }
+  ],
+  "books": [
+    {
+      "title": "Mindset: The New Psychology of Success",
+      "author": "Carol Dweck"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "90%",
+      "context": "Porcentagem do inconsciente na mente humana segundo neurociência"
+    },
+    {
+      "value": "10%",
+      "context": "Porcentagem do consciente na mente humana segundo neurociência"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Carol Dweck",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stanford",
+      "target_type": "company"
+    }
+  ]
+}

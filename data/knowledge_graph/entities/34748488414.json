@@ -1,0 +1,330 @@
+{
+  "episode_id": "34748488414",
+  "title": "OS EXTREMOS DE ALFREDO SOARES E BRUNO NARDON | #EXTREMOS100",
+  "date_published": 1721723400,
+  "duration": 5651,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "guest",
+      "company": "Clivo",
+      "title": "Fundador"
+    },
+    {
+      "name": "Ricardo De Oliveira",
+      "role": "mentioned",
+      "company": "Xtech",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Felipe",
+      "role": "mentioned",
+      "company": "Real",
+      "title": "Funcionário"
+    },
+    {
+      "name": "Bruno Oliveira",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Especialista em e-commerce"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Adib",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Renata",
+      "role": "mentioned",
+      "company": "Copenhagen",
+      "title": ""
+    },
+    {
+      "name": "Joel Jota",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mariano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Luciano",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Amanda",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Podcast host and business education"
+    },
+    {
+      "name": "Clivo",
+      "industry": "Healthcare Technology",
+      "context": "Founded by guest Marcelo Toledo"
+    },
+    {
+      "name": "Nubank",
+      "industry": "Financial Technology",
+      "context": "Previous workplace of guest Marcelo Toledo"
+    },
+    {
+      "name": "Oi",
+      "industry": "Telecommunications",
+      "context": "Previous workplace of guest Marcelo Toledo"
+    },
+    {
+      "name": "Xtech",
+      "industry": "E-commerce Technology",
+      "context": "Founded by Ricardo de Oliveira"
+    },
+    {
+      "name": "Real",
+      "industry": "Não especificado",
+      "context": "Empresa onde Felipe trabalhou após colaborar com Alfredo Soares."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Alta performance",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Estratégia",
+      "category": "Business"
+    },
+    {
+      "name": "Gestão",
+      "category": "Business"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Education"
+    },
+    {
+      "name": "Mindset orientado ao cliente",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "PDCA",
+      "category": "Framework de gestão"
+    },
+    {
+      "name": "Máquina de vendas",
+      "category": "Estratégia de vendas"
+    },
+    {
+      "name": "Canal de aquisição por educação",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Podcast",
+      "category": "Mídia"
+    },
+    {
+      "name": "Relação saudável",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Extremos",
+      "category": "Podcast"
+    },
+    {
+      "name": "Sangue Amarelo",
+      "category": "Livro"
+    },
+    {
+      "name": "Compreensão",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Organização",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Bom senso",
+      "category": "Philosophy"
+    },
+    {
+      "name": "Comunicação",
+      "category": "Skills"
+    }
+  ],
+  "books": [
+    {
+      "title": "Sangue Amarelo",
+      "author": "Adib"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "100",
+      "context": "Number of episodes of the Extremos podcast"
+    },
+    {
+      "value": "46 lojas",
+      "context": "Número de lojas vendidas por Alfredo Soares antes de enfrentar problemas técnicos."
+    },
+    {
+      "value": "3.500 reais",
+      "context": "Valor pelo qual Alfredo Soares vendeu um sistema de e-commerce."
+    },
+    {
+      "value": "300 layers de Photoshop",
+      "context": "Quantidade de camadas necessárias para um projeto de design mencionado."
+    },
+    {
+      "value": "100 episódios",
+      "context": "Número de episódios do podcast Extremos"
+    },
+    {
+      "value": "100 episodes",
+      "context": "Milestone for the podcast"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Renata",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Copenhagen",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Real",
+      "target_type": "company"
+    },
+    {
+      "source": "Joel Jota",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Extremos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Adib",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Sangue Amarelo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luciano",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Oi",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xtech",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nubank",
+      "target_type": "company"
+    },
+    {
+      "source": "Ricardo De Oliveira",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Xtech",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Mariano",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Extremos",
+      "target_type": "concept"
+    }
+  ]
+}

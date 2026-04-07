@@ -1,0 +1,192 @@
+{
+  "episode_id": "34748488498",
+  "title": "Melhores Momentos de Novembro - Com Carlos Burle, Cris Arcangeli, Juliano Tubino e Arthur Grynbaum",
+  "date_published": 1701268692,
+  "duration": 1673,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Carlos Burle",
+      "role": "guest",
+      "company": "",
+      "title": "Surfista campeão mundial"
+    },
+    {
+      "name": "Cris Arcangeli",
+      "role": "guest",
+      "company": "",
+      "title": "Empresária e investidora"
+    },
+    {
+      "name": "Juliano Tubino",
+      "role": "guest",
+      "company": "",
+      "title": "Vice-presidente do conselho do Boticário"
+    },
+    {
+      "name": "Arthur Grynbaum",
+      "role": "guest",
+      "company": "Boticário",
+      "title": "Vice-presidente do conselho"
+    },
+    {
+      "name": "Marcelo Toledo",
+      "role": "mentioned",
+      "company": "Clivo",
+      "title": "Fundador"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Thay",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e negócios",
+      "context": "Produtora do podcast e cursos de negócios"
+    },
+    {
+      "name": "Clivo",
+      "industry": "Saúde",
+      "context": "Fundada por Marcelo Toledo"
+    },
+    {
+      "name": "Boticário",
+      "industry": "Cosméticos",
+      "context": "Discussão sobre experiência do cliente e gestão"
+    },
+    {
+      "name": "Ebite",
+      "industry": "Tecnologia",
+      "context": "Comentada por Cris Arcangeli"
+    },
+    {
+      "name": "Red Bull",
+      "industry": "Bebidas energéticas",
+      "context": "Patrocinadora de Carlos Burle em competições de surf"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Pitch",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Experiência do cliente",
+      "category": "Gestão e marketing"
+    },
+    {
+      "name": "Inovação",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Disciplina",
+      "category": "Liderança e desenvolvimento pessoal"
+    },
+    {
+      "name": "Rotina profissional",
+      "category": "Estratégia de produtividade"
+    },
+    {
+      "name": "Preparação mental",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "Equilíbrio de vida",
+      "category": "Bem-estar e liderança"
+    },
+    {
+      "name": "Liderança",
+      "category": "Gestão e liderança"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "20 empresas",
+      "context": "Número de empresas investidas por Cris Arcangeli"
+    },
+    {
+      "value": "Mais de 20 metros",
+      "context": "Comprimento da maior onda enfrentada por Carlos Burle"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Marcelo Toledo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clivo",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Carlos Burle",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Red Bull",
+      "target_type": "company"
+    },
+    {
+      "source": "Arthur Grynbaum",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Boticário",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

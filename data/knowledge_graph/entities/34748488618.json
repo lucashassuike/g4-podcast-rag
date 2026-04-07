@@ -1,0 +1,452 @@
+{
+  "episode_id": "34748488618",
+  "title": "Rita Castro - Biohacking, Epigenética, Jejum e Como dormir melhor | Sem Atalhos",
+  "date_published": 1678266022,
+  "duration": 4655,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Rita Castro",
+      "role": "guest",
+      "company": "Amazing You",
+      "title": "Nutricionista e Mestre pela USP"
+    },
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretora de Marca"
+    },
+    {
+      "name": "Thay",
+      "role": "host",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Fundador"
+    },
+    {
+      "name": "Walter Longo",
+      "role": "mentioned",
+      "company": "",
+      "title": "Researcher"
+    },
+    {
+      "name": "David Sinclair",
+      "role": "mentioned",
+      "company": "",
+      "title": "Researcher"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Renan",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Produtora do podcast Sem Atalhos"
+    },
+    {
+      "name": "Amazing You",
+      "industry": "Health and Wellness",
+      "context": "Marca de chás mencionada por Rita Castro"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Epigenética",
+      "category": "Ciência"
+    },
+    {
+      "name": "Biohacking",
+      "category": "Saúde e Performance"
+    },
+    {
+      "name": "Jejum Intermitente",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Alta Performance",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "Longevidade",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Ritmo circadiano",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Grounding",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Banho de Floresta",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "Mindfulness",
+      "category": "Saúde Mental"
+    },
+    {
+      "name": "Yoga Nidra",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "Jejum",
+      "category": "Saúde e Bem-Estar"
+    },
+    {
+      "name": "Corpos cetônicos",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Autofagia",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Telômeros",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Estresse oxidativo",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Radicais livres",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Suplementação",
+      "category": "Saúde e Nutrição"
+    },
+    {
+      "name": "Nootrópicos",
+      "category": "Saúde e Cognição"
+    },
+    {
+      "name": "Microbiota",
+      "category": "Saúde e Nutrição"
+    },
+    {
+      "name": "Adaptógenos",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Neurotransmissores",
+      "category": "Ciência e Saúde"
+    },
+    {
+      "name": "Fitoquímicos",
+      "category": "Ciência e Saúde"
+    },
+    {
+      "name": "Progesterona",
+      "category": "Ciência e Saúde"
+    },
+    {
+      "name": "Serotonina",
+      "category": "Ciência e Saúde"
+    },
+    {
+      "name": "Magnésio",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Triptofano",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "5-HTP",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Vitamina C",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Sono de qualidade",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Luz azul",
+      "category": "Tecnologia e Saúde"
+    },
+    {
+      "name": "Qualidade do sono",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Meditação",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Poluição eletromagnética",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Doenças autoimunes",
+      "category": "Saúde e Bem-estar"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "1 a 2 gramas de proteína por quilo de peso",
+      "context": "Recomendação de ingestão proteica diária para manutenção e saúde."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jejum Intermitente",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Nootrópicos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vitamina C",
+      "target_type": "concept"
+    },
+    {
+      "source": "David Sinclair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Telômeros",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Biohacking",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Amazing You",
+      "target_type": "company"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jejum",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alta Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "Sem Atalhos",
+      "target_type": "company"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Serotonina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Jejum Intermitente",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Ritmo Circadiano",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Microbiota",
+      "target_type": "concept"
+    },
+    {
+      "source": "David Sinclair",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jejum",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Epigenética",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sono De Qualidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Biohacking",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Epigenética",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Neurotransmissores",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Magnésio",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Progesterona",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "host",
+      "target": "Sem Atalhos",
+      "target_type": "company"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Longevidade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Luz Azul",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "5-Htp",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Triptofano",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rita Castro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Fitoquímicos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Walter Longo",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Jejum",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "episode_id": "34748488399",
+  "title": "APRENDA A INOVAR SEM COMPLICAÇÃO COM IGOR MAZAKI, HEAD GLOBAL DE INOVAÇÃO DA JLR | EXTREMOS",
+  "date_published": 1725483600,
+  "duration": 2805,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": "Co-Host"
+    },
+    {
+      "name": "Igor Mazaki Inderhaus",
+      "role": "guest",
+      "company": "Jaguar Land Rover",
+      "title": "Head Global de Inovação"
+    },
+    {
+      "name": "Carlos Ghosn",
+      "role": "mentioned",
+      "company": "Aliança Renault-Nissan-Mitsubishi",
+      "title": "Ex-Presidente"
+    },
+    {
+      "name": "François Dossat",
+      "role": "mentioned",
+      "company": "Nissan",
+      "title": "Ex-Presidente"
+    },
+    {
+      "name": "Marco Silva",
+      "role": "mentioned",
+      "company": "Nissan",
+      "title": "Ex-Presidente"
+    },
+    {
+      "name": "Thierry Bolloré",
+      "role": "mentioned",
+      "company": "Renault",
+      "title": "Ex-Presidente"
+    },
+    {
+      "name": "Luca De Meo",
+      "role": "mentioned",
+      "company": "Renault",
+      "title": "Presidente"
+    },
+    {
+      "name": "Igor Mazaki",
+      "role": "guest",
+      "company": "JLR",
+      "title": "Head Global de Inovação"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Jaguar Land Rover",
+      "industry": "Automotivo",
+      "context": "Igor Mazaki Inderhaus é Head Global de Inovação na empresa."
+    },
+    {
+      "name": "Aliança Renault-Nissan-Mitsubishi",
+      "industry": "Automotivo",
+      "context": "Carlos Ghosn foi presidente e envolvido em escândalos."
+    },
+    {
+      "name": "Honda",
+      "industry": "Automotivo",
+      "context": "Primeiro emprego de Igor Mazaki Inderhaus como analista financeiro."
+    },
+    {
+      "name": "General Motors (Gm)",
+      "industry": "Automotivo",
+      "context": "Igor Mazaki Inderhaus trabalhou como analista financeiro."
+    },
+    {
+      "name": "Nissan",
+      "industry": "Automotivo",
+      "context": "Igor Mazaki Inderhaus trabalhou organizando a parte financeira dos concessionários."
+    },
+    {
+      "name": "Renault",
+      "industry": "Automotivo",
+      "context": "Igor Mazaki Inderhaus trabalhou em projetos de transformação e inovação."
+    },
+    {
+      "name": "Société Générale",
+      "industry": "Financeiro",
+      "context": "François Dossat foi ex-presidente no Brasil."
+    },
+    {
+      "name": "Jlr",
+      "industry": "Automotivo",
+      "context": "Empresa onde Igor Mazaki atua como Head Global de Inovação"
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação Empresarial",
+      "context": "Empresa organizadora do podcast e programas de educação para empreendedores"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Inovação",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Chief of Staff",
+      "category": "Função Executiva"
+    },
+    {
+      "name": "Economia Circular",
+      "category": "Sustentabilidade"
+    },
+    {
+      "name": "Ágil",
+      "category": "Metodologia de Trabalho"
+    },
+    {
+      "name": "Ecossistema de Startups",
+      "category": "Empreendedorismo"
+    },
+    {
+      "name": "Modelo de Negócios",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Inovação Incremental",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Inovação Disruptiva",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Nexialismo",
+      "category": "Conceito de Gestão"
+    },
+    {
+      "name": "Método T da Inovação",
+      "category": "Framework de Inovação"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Método T da Inovação",
+      "author": "Igor Mazaki"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1 bilhão",
+      "context": "Fundo de investimento gerido por Igor Mazaki Inderhaus na Aliança Renault-Nissan-Mitsubishi."
+    },
+    {
+      "value": "500 mil",
+      "context": "Orçamento sugerido para inovação em uma empresa durante um ano"
+    },
+    {
+      "value": "50 a 100 milhões",
+      "context": "Impacto financeiro potencial de implementar inovações incrementais em escala global"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Carlos Ghosn",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aliança Renault-Nissan-Mitsubishi",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marco Silva",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nissan",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Inovação Incremental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Luca De Meo",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Renault",
+      "target_type": "company"
+    },
+    {
+      "source": "François Dossat",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Nissan",
+      "target_type": "company"
+    },
+    {
+      "source": "François Dossat",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Société Générale",
+      "target_type": "company"
+    },
+    {
+      "source": "Igor Mazaki",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Jlr",
+      "target_type": "company"
+    },
+    {
+      "source": "Método T Da Inovação",
+      "source_type": "concept",
+      "relation": "related_to",
+      "target": "Igor Mazaki",
+      "target_type": "person"
+    },
+    {
+      "source": "Igor Mazaki Inderhaus",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Jaguar Land Rover",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Inovação Disruptiva",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thierry Bolloré",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Renault",
+      "target_type": "company"
+    }
+  ]
+}

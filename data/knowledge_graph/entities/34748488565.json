@@ -1,0 +1,174 @@
+{
+  "episode_id": "34748488565",
+  "title": "Entenda e Evite as Doenças Cardiovasculares - Com Silvio Reggi, Cardiologista | Sem Atalhos",
+  "date_published": 1691485200,
+  "duration": 3877,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Silvio Reggi",
+      "role": "guest",
+      "company": "",
+      "title": "Cardiologista"
+    },
+    {
+      "name": "Lara Kensteruk",
+      "role": "mentioned",
+      "company": "",
+      "title": "Nutricionista"
+    }
+  ],
+  "companies": [],
+  "concepts": [
+    {
+      "name": "Doenças cardiovasculares",
+      "category": "Saúde"
+    },
+    {
+      "name": "Testosterona exógena",
+      "category": "Saúde"
+    },
+    {
+      "name": "Trombose",
+      "category": "Saúde"
+    },
+    {
+      "name": "Alimentos ultraprocessados",
+      "category": "Nutrição"
+    },
+    {
+      "name": "Atividade física aeróbica",
+      "category": "Saúde"
+    },
+    {
+      "name": "Hipertensão",
+      "category": "Saúde"
+    },
+    {
+      "name": "Overtraining",
+      "category": "Health and Fitness"
+    },
+    {
+      "name": "VO2 máximo",
+      "category": "Health and Fitness"
+    },
+    {
+      "name": "LDL (Low-Density Lipoprotein)",
+      "category": "Health and Fitness"
+    },
+    {
+      "name": "Estatinas",
+      "category": "Pharmaceuticals"
+    },
+    {
+      "name": "Teste ergométrico",
+      "category": "Medical Diagnostics"
+    },
+    {
+      "name": "Ecocardiograma",
+      "category": "Medical Diagnostics"
+    },
+    {
+      "name": "Cintilografia",
+      "category": "Medical Diagnostics"
+    },
+    {
+      "name": "Tomografia de coronária",
+      "category": "Medical Diagnostics"
+    },
+    {
+      "name": "Ressonância cardíaca",
+      "category": "Medical Diagnostics"
+    },
+    {
+      "name": "Colonoscopia",
+      "category": "Medical Diagnostics"
+    },
+    {
+      "name": "estresse agudo",
+      "category": "health factor"
+    },
+    {
+      "name": "estresse crônico",
+      "category": "health factor"
+    },
+    {
+      "name": "ômega 3",
+      "category": "supplement"
+    },
+    {
+      "name": "magnésio",
+      "category": "supplement"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "150 minutos por semana",
+      "context": "Tempo recomendado de atividade física aeróbica para prevenção cardiovascular"
+    },
+    {
+      "value": "50% da população adulta hipertensa",
+      "context": "Proporção de adultos hipertensos no Brasil que desconhecem sua condição"
+    },
+    {
+      "value": "45 anos",
+      "context": "Idade recomendada para a primeira colonoscopia"
+    },
+    {
+      "value": "5 a 10 anos",
+      "context": "Intervalo recomendado para a segunda colonoscopia após uma normal"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Silvio Reggi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Trombose",
+      "target_type": "concept"
+    },
+    {
+      "source": "Silvio Reggi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Doenças Cardiovasculares",
+      "target_type": "concept"
+    },
+    {
+      "source": "Silvio Reggi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alimentos Ultraprocessados",
+      "target_type": "concept"
+    },
+    {
+      "source": "Silvio Reggi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Testosterona Exógena",
+      "target_type": "concept"
+    },
+    {
+      "source": "Silvio Reggi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Atividade Física Aeróbica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Lara Kensteruk",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Alimentos Ultraprocessados",
+      "target_type": "concept"
+    },
+    {
+      "source": "Silvio Reggi",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hipertensão",
+      "target_type": "concept"
+    }
+  ]
+}

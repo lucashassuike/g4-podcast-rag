@@ -1,0 +1,319 @@
+{
+  "episode_id": "34748488595",
+  "title": "Dr. Renato Tomioka - Caminhos para uma vida longa e com qualidade | Sem Atalhos",
+  "date_published": 1684746045,
+  "duration": 5395,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Diretora de marca e marketing de produto"
+    },
+    {
+      "name": "Renato Tomioka",
+      "role": "guest",
+      "company": "Hospital das Clínicas da USP",
+      "title": "Médico especialista em ginecologia e obstetrícia"
+    },
+    {
+      "name": "Dr. Renato Tomioka",
+      "role": "guest",
+      "company": "",
+      "title": "Médico e pesquisador"
+    },
+    {
+      "name": "Peter Attia",
+      "role": "mentioned",
+      "company": "",
+      "title": "Médico"
+    },
+    {
+      "name": "Dr. Maurício Abraão",
+      "role": "mentioned",
+      "company": "",
+      "title": "Médico especialista em endometriose"
+    },
+    {
+      "name": "Nir Barzilay",
+      "role": "mentioned",
+      "company": "",
+      "title": "Pesquisador em longevidade"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e treinamento",
+      "context": "Plataforma de aprendizado e alta performance"
+    },
+    {
+      "name": "Hospital Das Clínicas Da Usp",
+      "industry": "Saúde",
+      "context": "Local de formação e residência médica de Renato Tomioka"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "longevidade saudável",
+      "category": "Saúde e bem-estar"
+    },
+    {
+      "name": "alta performance",
+      "category": "Desenvolvimento pessoal"
+    },
+    {
+      "name": "HIIT (High-Intensity Interval Training)",
+      "category": "Fitness"
+    },
+    {
+      "name": "zone 2 training",
+      "category": "Fitness"
+    },
+    {
+      "name": "apolipoproteína B",
+      "category": "Saúde e nutrição"
+    },
+    {
+      "name": "colesterol LDL",
+      "category": "Saúde e nutrição"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Educação e treinamento"
+    },
+    {
+      "name": "Decátlon dos Centenários",
+      "category": "conceito"
+    },
+    {
+      "name": "Longevidade",
+      "category": "conceito"
+    },
+    {
+      "name": "Sarcopenia",
+      "category": "conceito"
+    },
+    {
+      "name": "Terapia Hormonal",
+      "category": "conceito"
+    },
+    {
+      "name": "Reposição Hormonal",
+      "category": "conceito"
+    },
+    {
+      "name": "Estradiol",
+      "category": "conceito"
+    },
+    {
+      "name": "Testosterona",
+      "category": "conceito"
+    },
+    {
+      "name": "Progesterona",
+      "category": "conceito"
+    },
+    {
+      "name": "Alopregnenolona",
+      "category": "conceito"
+    },
+    {
+      "name": "Hipoatividade Sexual",
+      "category": "conceito"
+    },
+    {
+      "name": "Modulação hormonal",
+      "category": "Medicina e longevidade"
+    },
+    {
+      "name": "Polipoproteína B",
+      "category": "Medicina e longevidade"
+    },
+    {
+      "name": "Centenários",
+      "category": "Demografia e longevidade"
+    },
+    {
+      "name": "Same trial",
+      "category": "Pesquisa científica"
+    },
+    {
+      "name": "Metformina",
+      "category": "Medicina e longevidade"
+    },
+    {
+      "name": "Dieta Mediterrânea",
+      "category": "nutrição"
+    },
+    {
+      "name": "Zona 2",
+      "category": "atividade física"
+    },
+    {
+      "name": "VO2 máximo",
+      "category": "atividade física"
+    },
+    {
+      "name": "eficiência mitocondrial",
+      "category": "biologia"
+    },
+    {
+      "name": "treino de resistência muscular",
+      "category": "atividade física"
+    }
+  ],
+  "books": [
+    {
+      "title": "Outlive",
+      "author": "Peter Attia"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "3 anos e 3 meses",
+      "context": "Idade do filho de Renato Tomioka"
+    },
+    {
+      "value": "78 anos",
+      "context": "Expectativa de vida média atual"
+    },
+    {
+      "value": "115 anos",
+      "context": "Limite plausível da longevidade humana"
+    },
+    {
+      "value": "122 anos",
+      "context": "Idade máxima registrada no Guinness Book"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Eficiência Mitocondrial",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Dr. Renato Tomioka",
+      "target_type": "person"
+    },
+    {
+      "source": "Dieta Mediterrânea",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Dr. Renato Tomioka",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Tomioka",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Apolipoproteína B",
+      "target_type": "concept"
+    },
+    {
+      "source": "Nir Barzilay",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Metformina",
+      "target_type": "concept"
+    },
+    {
+      "source": "Renato Tomioka",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Longevidade Saudável",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Tomioka",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alta Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vo2 Máximo",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Dr. Renato Tomioka",
+      "target_type": "person"
+    },
+    {
+      "source": "Treino De Resistência Muscular",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Dr. Renato Tomioka",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Tomioka",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Colesterol Ldl",
+      "target_type": "concept"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "authored",
+      "target": "Outlive",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Tomioka",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Hiit (High-Intensity Interval Training)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Peter Attia",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Outlive",
+      "target_type": "company"
+    },
+    {
+      "source": "Renato Tomioka",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Hospital Das Clínicas Da Usp",
+      "target_type": "company"
+    },
+    {
+      "source": "Nir Barzilay",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Same Trial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Zona 2",
+      "source_type": "concept",
+      "relation": "discussed",
+      "target": "Dr. Renato Tomioka",
+      "target_type": "person"
+    },
+    {
+      "source": "Renato Tomioka",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Zone 2 Training",
+      "target_type": "concept"
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "episode_id": "34748488583",
+  "title": "Matt Montenegro - Propósito Inicial da Internet, Home Office e As Diferenças Geracionais | Papo de Gestão",
+  "date_published": 1687165219,
+  "duration": 6488,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Empreendedor Serial"
+    },
+    {
+      "name": "Mati Montenegro",
+      "role": "guest",
+      "company": "Pingback",
+      "title": "Empreendedor Serial"
+    },
+    {
+      "name": "Jp",
+      "role": "mentioned",
+      "company": "Hotmart",
+      "title": ""
+    },
+    {
+      "name": "Marissa Mayer",
+      "role": "mentioned",
+      "company": "Yahoo",
+      "title": "Ex-CEO"
+    },
+    {
+      "name": "Paulo Guedes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Matt Montenegro",
+      "role": "guest",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tom Brady",
+      "role": "mentioned",
+      "company": "",
+      "title": "Quarterback"
+    },
+    {
+      "name": "Joe Montana",
+      "role": "mentioned",
+      "company": "",
+      "title": "Quarterback"
+    },
+    {
+      "name": "Platão",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo"
+    },
+    {
+      "name": "Aristóteles",
+      "role": "mentioned",
+      "company": "",
+      "title": "Filósofo"
+    },
+    {
+      "name": "Alexandre",
+      "role": "mentioned",
+      "company": "",
+      "title": "Conquistador"
+    },
+    {
+      "name": "Carlos Magno",
+      "role": "mentioned",
+      "company": "",
+      "title": "Conquistador"
+    },
+    {
+      "name": "Júlio César",
+      "role": "mentioned",
+      "company": "",
+      "title": "Conquistador"
+    },
+    {
+      "name": "Dante Alighieri",
+      "role": "mentioned",
+      "company": "",
+      "title": "Escritor"
+    },
+    {
+      "name": "Santo Agostinho",
+      "role": "mentioned",
+      "company": "",
+      "title": "Teólogo"
+    },
+    {
+      "name": "Guilherme Benchimol",
+      "role": "mentioned",
+      "company": "XP Inc",
+      "title": "Founder"
+    },
+    {
+      "name": "João Pedro",
+      "role": "mentioned",
+      "company": "Hotmart",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Matheus",
+      "role": "mentioned",
+      "company": "Hotmart",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Diego",
+      "role": "mentioned",
+      "company": "Rock Content",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Edmar",
+      "role": "mentioned",
+      "company": "Rock Content",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bernardo Porto",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Peçanha",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Twitter",
+      "title": "Owner"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Treinamento",
+      "context": "Produtora do podcast e desenvolvedora do G4 Skills"
+    },
+    {
+      "name": "Vidmonster",
+      "industry": "Tecnologia e Mídia",
+      "context": "Empresa fundada por Mati Montenegro e adquirida pela Hotmart"
+    },
+    {
+      "name": "Hotmart",
+      "industry": "Tecnologia e Mídia",
+      "context": "Compradora da VidMonster"
+    },
+    {
+      "name": "Pingback",
+      "industry": "Tecnologia e Mídia",
+      "context": "Empresa fundada por Mati Montenegro"
+    },
+    {
+      "name": "Yahoo",
+      "industry": "Tecnologia e Internet",
+      "context": "Empresa mencionada em relação à política de home office"
+    },
+    {
+      "name": "Bevid",
+      "industry": "Startup",
+      "context": "Primeira grande startup mencionada"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Mobilidade",
+      "context": "Startup fundada em 2011"
+    },
+    {
+      "name": "Microsoft",
+      "industry": "Tecnologia",
+      "context": "Exemplo de empresa com presidentes que ascenderam com trabalho duro"
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Exemplo de empresa que adquire tecnologias inovadoras"
+    },
+    {
+      "name": "Google",
+      "industry": "Tecnologia",
+      "context": "Exemplo de empresa que adquire tecnologias inovadoras"
+    },
+    {
+      "name": "Rock Content",
+      "industry": "Marketing",
+      "context": "Startup founded by Diego and Edmar, part of São Pedro Vale community."
+    },
+    {
+      "name": "Twitter",
+      "industry": "Social Media",
+      "context": "Discussed in relation to algorithm manipulation and changes under Elon Musk's ownership."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Home Office",
+      "category": "Modelo de Trabalho"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Treinamento"
+    },
+    {
+      "name": "Teletrabalho",
+      "category": "Modelo de Trabalho"
+    },
+    {
+      "name": "Indicadores de Desempenho",
+      "category": "Gestão"
+    },
+    {
+      "name": "Diferenças Geracionais",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Anywhere Office",
+      "category": "Trabalho remoto"
+    },
+    {
+      "name": "Patrimônio do Sofrimento",
+      "category": "Psicologia e Resiliência"
+    },
+    {
+      "name": "Early Exit",
+      "category": "Estratégia de M&A"
+    },
+    {
+      "name": "Acquihire",
+      "category": "Estratégia de M&A"
+    },
+    {
+      "name": "Earn-out",
+      "category": "Finance"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Cristianismo",
+      "category": "Religion"
+    },
+    {
+      "name": "Filosofia",
+      "category": "Philosophy"
+    },
+    {
+      "name": "São Pedro Vale",
+      "category": "Community"
+    },
+    {
+      "name": "Internet",
+      "category": "Technology"
+    },
+    {
+      "name": "Social Media Algorithms",
+      "category": "Technology"
+    },
+    {
+      "name": "Community Building",
+      "category": "Strategy"
+    },
+    {
+      "name": "Quarto Poder",
+      "category": "Political"
+    },
+    {
+      "name": "Sopa e Pipa",
+      "category": "Legislation"
+    },
+    {
+      "name": "Marco Legal da Internet no Brasil",
+      "category": "Legislation"
+    },
+    {
+      "name": "Censura",
+      "category": "Political"
+    },
+    {
+      "name": "Criadores de Conteúdo",
+      "category": "Digital Media"
+    },
+    {
+      "name": "Independência Financeira",
+      "category": "Finance"
+    },
+    {
+      "name": "Newsletter Individual",
+      "category": "Digital Media"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Magic Box Paradise",
+      "author": "Não mencionado"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "420 escritórios em 35 países",
+      "context": "Modelo de trabalho remoto mencionado por Mati Montenegro"
+    },
+    {
+      "value": "2017",
+      "context": "Ano de fundação de uma empresa mencionada"
+    },
+    {
+      "value": "2019",
+      "context": "Ano de venda de uma empresa mencionada"
+    },
+    {
+      "value": "2010, 2011",
+      "context": "Período de fundação da Bevid e Easy Taxi"
+    },
+    {
+      "value": "2012",
+      "context": "Year São Pedro Vale community was founded."
+    },
+    {
+      "value": "90%",
+      "context": "Percentage of Twitter employees dismissed by Elon Musk."
+    },
+    {
+      "value": "40 conto",
+      "context": "Income potential for individuals working remotely."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Diego",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rock Content",
+      "target_type": "company"
+    },
+    {
+      "source": "Apple",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Google",
+      "target_type": "company"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Independência Financeira",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mati Montenegro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Pingback",
+      "target_type": "company"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Filosofia",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Pedro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Hotmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Bevid",
+      "target_type": "company"
+    },
+    {
+      "source": "Matheus",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Hotmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Mati Montenegro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vidmonster",
+      "target_type": "company"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Marco Legal Da Internet No Brasil",
+      "target_type": "concept"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "owns",
+      "target": "Twitter",
+      "target_type": "company"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Edmar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Rock Content",
+      "target_type": "company"
+    },
+    {
+      "source": "Vidmonster",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Hotmart",
+      "target_type": "company"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Criadores De Conteúdo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Elon Musk",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Twitter",
+      "target_type": "company"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Quarto Poder",
+      "target_type": "concept"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Newsletter Individual",
+      "target_type": "concept"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Sopa E Pipa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Censura",
+      "target_type": "concept"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cristianismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marissa Mayer",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Yahoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Matt Montenegro",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Earn-Out",
+      "target_type": "concept"
+    }
+  ]
+}

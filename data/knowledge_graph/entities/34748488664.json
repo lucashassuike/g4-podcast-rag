@@ -1,0 +1,477 @@
+{
+  "episode_id": "34748488664",
+  "title": "#014 - Negócios digitais e momentos de crise, com Stelleo Tolda ex- COO e atual presidente do Mercado Livre",
+  "date_published": 1606928596,
+  "duration": 3137,
+  "chunks_processed": 5,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Stelleo Tolda",
+      "role": "guest",
+      "company": "Mercado Livre",
+      "title": "Presidente"
+    },
+    {
+      "name": "Marcos Galperin",
+      "role": "mentioned",
+      "company": "Mercado Livre",
+      "title": "Fundador"
+    },
+    {
+      "name": "Hernan Casar",
+      "role": "mentioned",
+      "company": "Kasek",
+      "title": "Fundador"
+    },
+    {
+      "name": "Adam Neumann",
+      "role": "mentioned",
+      "company": "WeWork",
+      "title": "Founder"
+    },
+    {
+      "name": "Eric Acher",
+      "role": "mentioned",
+      "company": "Monashees",
+      "title": "Fundador"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "mentioned",
+      "company": "Amazon",
+      "title": "Fundador"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "Apple",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Elon Musk",
+      "role": "mentioned",
+      "company": "Tesla, SpaceX",
+      "title": "CEO"
+    },
+    {
+      "name": "Gabriel Garcia Marques",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Plataforma de educação para negócios"
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Empresa de comércio eletrônico e tecnologia"
+    },
+    {
+      "name": "Lehman Brothers",
+      "industry": "Serviços financeiros",
+      "context": "Banco de investimento"
+    },
+    {
+      "name": "Kasek",
+      "industry": "Investimentos",
+      "context": "Fundo de investimento"
+    },
+    {
+      "name": "Wework",
+      "industry": "Coworking",
+      "context": "Mencionada em relação a práticas de gestão e investimentos controversos"
+    },
+    {
+      "name": "Monashees",
+      "industry": "Venture Capital",
+      "context": "Mencionada como uma das principais VCs no Brasil durante períodos de crise."
+    },
+    {
+      "name": "99",
+      "industry": "Transporte",
+      "context": "Mencionada como um exemplo de sucesso de investimento da Monashees."
+    },
+    {
+      "name": "Singoo",
+      "industry": "Serviços",
+      "context": "Mencionada como exemplo de empresa admirada."
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Mobilidade urbana",
+      "context": "Discussão sobre expansão global e investimento"
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Investimentos e startups",
+      "context": "Investidor inicial da Easy Taxi"
+    },
+    {
+      "name": "Uber",
+      "industry": "Mobilidade urbana",
+      "context": "Comparação com Easy Taxi em termos de expansão global"
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entretenimento",
+      "context": "Exemplo de adaptação ao consumo de vídeo"
+    },
+    {
+      "name": "Amazon",
+      "industry": "E-commerce e tecnologia",
+      "context": "Exemplo de adaptação ao consumo de vídeo"
+    },
+    {
+      "name": "Apple Tv",
+      "industry": "Entretenimento",
+      "context": "Exemplo de adaptação ao consumo de vídeo"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "MBA",
+      "category": "Educação"
+    },
+    {
+      "name": "OPM (Owner/President Management Program)",
+      "category": "Educação"
+    },
+    {
+      "name": "Series A",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Series B",
+      "category": "Investimentos"
+    },
+    {
+      "name": "Bolha da Internet",
+      "category": "Eventos econômicos"
+    },
+    {
+      "name": "Marketplace",
+      "category": "Modelos de negócio"
+    },
+    {
+      "name": "IPO",
+      "category": "Financiamento"
+    },
+    {
+      "name": "Rentabilidade",
+      "category": "Finanças"
+    },
+    {
+      "name": "Liquidez",
+      "category": "Finanças"
+    },
+    {
+      "name": "Unicórnios",
+      "category": "Startups"
+    },
+    {
+      "name": "Camelo",
+      "category": "Startups"
+    },
+    {
+      "name": "Nasdaq",
+      "category": "Mercado financeiro"
+    },
+    {
+      "name": "Fundraising",
+      "category": "Financiamento"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finanças"
+    },
+    {
+      "name": "Cultura organizacional",
+      "category": "Gestão"
+    },
+    {
+      "name": "Runway",
+      "category": "Funding"
+    },
+    {
+      "name": "Down Round",
+      "category": "Funding"
+    },
+    {
+      "name": "Unit Economics",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Margem de Contribuição",
+      "category": "Business Metrics"
+    },
+    {
+      "name": "Capital de Risco",
+      "category": "Funding"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Funding"
+    },
+    {
+      "name": "Crise Econômica de 2008",
+      "category": "Historical Event"
+    },
+    {
+      "name": "ROI (Return on Investment)",
+      "category": "Métrica financeira"
+    },
+    {
+      "name": "Low Touch Economy",
+      "category": "Economia e comportamento do consumidor"
+    },
+    {
+      "name": "Camelos",
+      "category": "Empresas resilientes"
+    },
+    {
+      "name": "Gestão 4.0",
+      "category": "Educação e liderança"
+    },
+    {
+      "name": "Resiliência organizacional",
+      "category": "Estratégia empresarial"
+    },
+    {
+      "name": "Biografia de empreendedor",
+      "category": "Literatura"
+    },
+    {
+      "name": "Mudança de hábito",
+      "category": "Comportamento"
+    },
+    {
+      "name": "Mentoria",
+      "category": "Educação"
+    }
+  ],
+  "books": [
+    {
+      "title": "O Amor no Tempo do Cólera",
+      "author": "Gabriel Garcia Marques"
+    },
+    {
+      "title": "Biografias de Steve Jobs, Jeff Bezos e Elon Musk",
+      "author": "Diversos"
+    },
+    {
+      "title": "Cem Anos de Solidão",
+      "author": "Gabriel Garcia Marques"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "30 bilhões de dólares",
+      "context": "Valoração do Mercado Livre"
+    },
+    {
+      "value": "100-150 milhões",
+      "context": "Faturamento anual de uma distribuidora média mencionada como exemplo"
+    },
+    {
+      "value": "600 mil empresas",
+      "context": "Número de empresas que quebraram no Brasil em um ano, segundo o Sebrae."
+    },
+    {
+      "value": "10 mil reais por mês",
+      "context": "Salário de engenheiro júnior em São Paulo."
+    },
+    {
+      "value": "500 mil reais",
+      "context": "Valor típico de Series A no Brasil em 2012."
+    },
+    {
+      "value": "10 milhões de reais",
+      "context": "Investimento da Rocket na Easy em 2012."
+    },
+    {
+      "value": "500 mil reais",
+      "context": "Tamanho do Series A mencionado"
+    },
+    {
+      "value": "85 milhões",
+      "context": "Número de corridas realizadas pela Easy Taxi"
+    },
+    {
+      "value": "420 cidades",
+      "context": "Expansão global da Easy Taxi"
+    },
+    {
+      "value": "35 países",
+      "context": "Presença global da Easy Taxi"
+    },
+    {
+      "value": "1 bilhão de dólares",
+      "context": "Capital levantado pelo Uber"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Stelleo Tolda",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Jeff Bezos",
+      "target_type": "person"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Amazon",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Low Touch Economy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcos Galperin",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Stelleo Tolda",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Gabriel Garcia Marques",
+      "target_type": "person"
+    },
+    {
+      "source": "Monashees",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "99",
+      "target_type": "company"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Eric Acher",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Monashees",
+      "target_type": "company"
+    },
+    {
+      "source": "Mercado Livre",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Low Touch Economy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Netflix",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Low Touch Economy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Uber",
+      "target_type": "company"
+    },
+    {
+      "source": "Stelleo Tolda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mercado Livre",
+      "target_type": "company"
+    },
+    {
+      "source": "Stelleo Tolda",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Elon Musk",
+      "target_type": "person"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Stelleo Tolda",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Steve Jobs",
+      "target_type": "person"
+    },
+    {
+      "source": "Adam Neumann",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Wework",
+      "target_type": "company"
+    },
+    {
+      "source": "Apple Tv",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Low Touch Economy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Hernan Casar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Kasek",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "episode_id": "40708111725",
+  "title": "[CORTE] \"JÁ EXISTIAM 50 MIL ADVOGADOS ANTES DE MIM\"",
+  "date_published": 1754082000,
+  "duration": 684,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Theodor Levitt",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Gregory Ryan",
+      "role": "mentioned",
+      "company": "McDonald's Brasil",
+      "title": "Presidente"
+    },
+    {
+      "name": "Marcos Cobra",
+      "role": "mentioned",
+      "company": "Fundação Getulio Vargas (FGV)",
+      "title": "Professor de Marketing"
+    },
+    {
+      "name": "Nizan Guanaes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Milton Mira",
+      "role": "mentioned",
+      "company": "Magro Hill",
+      "title": "Diretor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Ordem Dos Advogados Do Brasil (Oab)",
+      "industry": "Legal",
+      "context": "Registro profissional de advogados no Brasil"
+    },
+    {
+      "name": "Universidade De Nova Iorque (Nyu)",
+      "industry": "Educação",
+      "context": "Instituição onde o narrador realizou seu mestrado em Direito"
+    },
+    {
+      "name": "Playcenter",
+      "industry": "Entretenimento",
+      "context": "Empresa para a qual o narrador atuou como advogado"
+    },
+    {
+      "name": "Associação Brasileira De Anunciantes",
+      "industry": "Publicidade e Marketing",
+      "context": "Organização onde o narrador foi diretor jurídico"
+    },
+    {
+      "name": "Mcdonald'S Brasil",
+      "industry": "Alimentação",
+      "context": "Empresa mencionada em relação ao Gregory Ryan"
+    },
+    {
+      "name": "Magro Hill",
+      "industry": "Publicação",
+      "context": "Editora que publicou o livro do narrador"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Nicho de mercado",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Franchising",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Contratos atípicos do direito anglo-saxão",
+      "category": "Direito"
+    },
+    {
+      "name": "Aspectos jurídicos do marketing",
+      "category": "Direito e Marketing"
+    }
+  ],
+  "books": [
+    {
+      "title": "Aspectos Jurídicos do Franchising",
+      "author": "Cherto"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "52 mil",
+      "context": "Número de advogados registrados na OAB São Paulo antes do narrador"
+    },
+    {
+      "value": "600 mil a 800 mil",
+      "context": "Estimativa do número de advogados no Brasil atualmente"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gregory Ryan",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Mcdonald'S Brasil",
+      "target_type": "company"
+    },
+    {
+      "source": "Theodor Levitt",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Nicho De Mercado",
+      "target_type": "concept"
+    },
+    {
+      "source": "Cherto",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Aspectos Jurídicos Do Franchising",
+      "target_type": "company"
+    },
+    {
+      "source": "Milton Mira",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Magro Hill",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcos Cobra",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Fundação Getulio Vargas (Fgv)",
+      "target_type": "company"
+    }
+  ]
+}

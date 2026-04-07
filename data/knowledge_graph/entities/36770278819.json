@@ -1,0 +1,287 @@
+{
+  "episode_id": "36770278819",
+  "title": "MENTORIA ESTRATÉGICA: OS PILARES DA YOURH PARA O SUCESSO COM MAGNUN BARCAROL | EXTREMOS",
+  "date_published": 1746014400,
+  "duration": 3489,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Magno Barcarol",
+      "role": "guest",
+      "company": "URH by Umentor",
+      "title": "Cofundador"
+    },
+    {
+      "name": "Magnun Barcarol",
+      "role": "guest",
+      "company": "URH",
+      "title": "Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Urh By Umentor",
+      "industry": "Software de RH",
+      "context": "Startup mencionada como inovadora no mercado de software de RH."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Empresa associada aos hosts do podcast."
+    },
+    {
+      "name": "Urh",
+      "industry": "Human Resources",
+      "context": "Discussed as the company founded by Magnun Barcarol, focusing on productivity and culture."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Beverage",
+      "context": "Mentioned as a company where Magnun Barcarol gained significant experience in management and commercial roles."
+    },
+    {
+      "name": "Yourh",
+      "industry": "Consultoria e Estratégia",
+      "context": "Empresa associada ao convidado Magnun Barcarol."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Pivotação",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Cultura Organizacional",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Produtividade",
+      "category": "Gestão de Pessoas"
+    },
+    {
+      "name": "Rituais de Gestão",
+      "category": "Gestão de Negócios"
+    },
+    {
+      "name": "Productivity",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "ROI (Return on Investment)",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "M&A (Mergers and Acquisitions)",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Resilience",
+      "category": "Entrepreneurship"
+    },
+    {
+      "name": "Culture of Error Acceptance",
+      "category": "Organizational Culture"
+    },
+    {
+      "name": "Intensity and Process (IUP)",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Cap table",
+      "category": "Finanças"
+    },
+    {
+      "name": "Delegar vs. Delargar",
+      "category": "Gestão"
+    },
+    {
+      "name": "Microgerenciamento",
+      "category": "Gestão"
+    },
+    {
+      "name": "Gestão de talentos",
+      "category": "Recursos Humanos"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "50 colaboradores",
+      "context": "Número atual de funcionários da URH by Umentor."
+    },
+    {
+      "value": "Dobro de tamanho em um ano",
+      "context": "Crescimento da URH by Umentor em termos de equipe."
+    },
+    {
+      "value": "6 novas contratações",
+      "context": "Número de novas contratações feitas pela URH by Umentor no último ano."
+    },
+    {
+      "value": "150 milhões de reais",
+      "context": "Valor de vendas de um empreendimento em uma hora, mencionado no contexto de um lançamento."
+    },
+    {
+      "value": "50 collaborators",
+      "context": "Current team size of URH."
+    },
+    {
+      "value": "10.1 (currency unspecified)",
+      "context": "Projected revenue for the current year for URH."
+    },
+    {
+      "value": "Doubling revenue next year",
+      "context": "Growth projection for URH."
+    },
+    {
+      "value": "95% cap table",
+      "context": "Ownership structure of URH."
+    },
+    {
+      "value": "95%",
+      "context": "Participação no cap table mencionada como parte do sucesso da empresa."
+    },
+    {
+      "value": "4 anos",
+      "context": "Período de crescimento contínuo da empresa mencionada."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Magnun Barcarol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Roi (Return On Investment)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Magnun Barcarol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Resilience",
+      "target_type": "concept"
+    },
+    {
+      "source": "Magnun Barcarol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Productivity",
+      "target_type": "concept"
+    },
+    {
+      "source": "Magnun Barcarol",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Yourh",
+      "target_type": "company"
+    },
+    {
+      "source": "Magnun Barcarol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Intensity And Process (Iup)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Magnun Barcarol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Urh",
+      "target_type": "company"
+    },
+    {
+      "source": "Urh By Umentor",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Software De Rh",
+      "target_type": "company"
+    },
+    {
+      "source": "Magno Barcarol",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Urh By Umentor",
+      "target_type": "company"
+    },
+    {
+      "source": "Magnun Barcarol",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Magnun Barcarol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "M&A (Mergers And Acquisitions)",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "mentored_by",
+      "target": "Magnun Barcarol",
+      "target_type": "person"
+    },
+    {
+      "source": "Magnun Barcarol",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Culture Of Error Acceptance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

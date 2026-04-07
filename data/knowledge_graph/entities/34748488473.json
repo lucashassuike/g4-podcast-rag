@@ -1,0 +1,73 @@
+{
+  "episode_id": "34748488473",
+  "title": "COMO A INSIDER DOMINOU O MERCADO DE INFLUENCIADORES? - CAROL MATSUSE E YURI GRICHENO (FUNDADORES) | PAPO DE GESTÃO",
+  "date_published": 1705938675,
+  "duration": 4638,
+  "chunks_processed": 1,
+  "people": [
+    {
+      "name": "Carol Matsuse",
+      "role": "guest",
+      "company": "Insider",
+      "title": "Founder"
+    },
+    {
+      "name": "Yuri Gricheno",
+      "role": "guest",
+      "company": "Insider",
+      "title": "Founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Mentioned as the provider of the G4 Skills platform."
+    },
+    {
+      "name": "Insider",
+      "industry": "Fashion and Influencer Marketing",
+      "context": "Founded by Carol Matsuse and Yuri Gricheno."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Training Platform"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "7 days",
+      "context": "Free access period to the G4 Skills platform."
+    },
+    {
+      "value": "793 assentos",
+      "context": "Capacity of the second floor for passengers of second class."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Yuri Gricheno",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Insider",
+      "target_type": "company"
+    },
+    {
+      "source": "Carol Matsuse",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Insider",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "G4 Skills",
+      "target_type": "concept"
+    }
+  ]
+}

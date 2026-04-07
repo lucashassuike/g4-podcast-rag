@@ -1,0 +1,542 @@
+{
+  "episode_id": "37392508763",
+  "title": "COMO DOMINAR O MERCADO DIGITAL COM LEANDRO AGUIARI | EXTREMOS",
+  "date_published": 1747224000,
+  "duration": 4486,
+  "chunks_processed": 6,
+  "people": [
+    {
+      "name": "Leandro Aguiari",
+      "role": "guest",
+      "company": "Fly Music",
+      "title": "Founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Juarez Leite",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Jerônimo Temio",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ricardinho Paraíso",
+      "role": "mentioned",
+      "company": "",
+      "title": "Baixista"
+    },
+    {
+      "name": "Érico Rocha",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "Apple",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Augusto Cury",
+      "role": "mentioned",
+      "company": "",
+      "title": "Autor e Psiquiatra"
+    },
+    {
+      "name": "Murilo Gann",
+      "role": "mentioned",
+      "company": "Keep Learning School",
+      "title": "Fundador"
+    },
+    {
+      "name": "Felipe Miranda",
+      "role": "mentioned",
+      "company": "Empiricus",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Tony Robbins",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Grant Cardone",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Matheus Costa",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tiago Reis",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Rodrigo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Marçal",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Walter White",
+      "role": "mentioned",
+      "company": "",
+      "title": "Character in Breaking Bad"
+    },
+    {
+      "name": "Heisenberg",
+      "role": "mentioned",
+      "company": "",
+      "title": "Alias of Walter White"
+    },
+    {
+      "name": "Guilherme De Sá",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ryan Holiday",
+      "role": "mentioned",
+      "company": "",
+      "title": "Author"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Diego",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dom Lorenzo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "André Fernandes",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Fly Music",
+      "industry": "Music Production",
+      "context": "Founded by Leandro Aguiari in 2011 as a music label."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Hosts the G4 Podcast and is co-founded by Bruno Nardon."
+    },
+    {
+      "name": "Infomoney",
+      "industry": "Finance",
+      "context": "Desenvolvimento de MBAs digitais"
+    },
+    {
+      "name": "Xp Inc",
+      "industry": "Finance",
+      "context": "Parceria com InfoMoney para MBAs"
+    },
+    {
+      "name": "Empiricus",
+      "industry": "Finance",
+      "context": "Realização de lançamentos digitais"
+    },
+    {
+      "name": "Keep Learning School",
+      "industry": "Education",
+      "context": "Escola digital fundada por Murilo Gann"
+    },
+    {
+      "name": "Meta",
+      "industry": "Technology",
+      "context": "Discussed in relation to its algorithm for social media engagement"
+    },
+    {
+      "name": "Tiktok",
+      "industry": "Technology",
+      "context": "Discussed in relation to its algorithm for social media engagement"
+    },
+    {
+      "name": "Itaú",
+      "industry": "Finance",
+      "context": "Mentioned as hiring a Head of Narratives and Image."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Storytelling",
+      "category": "Communication"
+    },
+    {
+      "name": "Infoproduto",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Lançamento Digital",
+      "category": "Digital Marketing"
+    },
+    {
+      "name": "Ponto de Inflexão",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Fórmula de Lançamento",
+      "category": "Marketing"
+    },
+    {
+      "name": "Skin in the Game",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "mercado digital",
+      "category": "industry"
+    },
+    {
+      "name": "lançamento",
+      "category": "marketing strategy"
+    },
+    {
+      "name": "ROI (Retorno sobre Investimento)",
+      "category": "metric"
+    },
+    {
+      "name": "produção de conteúdo",
+      "category": "business strategy"
+    },
+    {
+      "name": "criativos criativos",
+      "category": "marketing concept"
+    },
+    {
+      "name": "80-20 rule",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "infotainment",
+      "category": "Content Creation"
+    },
+    {
+      "name": "conversion",
+      "category": "Marketing"
+    },
+    {
+      "name": "CPM (Cost Per Thousand Impressions)",
+      "category": "Advertising Metrics"
+    },
+    {
+      "name": "creator economy",
+      "category": "Economic Model"
+    },
+    {
+      "name": "economy of attention",
+      "category": "Marketing"
+    },
+    {
+      "name": "sketch",
+      "category": "Content Creation"
+    },
+    {
+      "name": "Framework de storytelling",
+      "category": "Framework"
+    },
+    {
+      "name": "Estratégia de narrativas",
+      "category": "Marketing"
+    },
+    {
+      "name": "Watch time",
+      "category": "Metrics"
+    },
+    {
+      "name": "Especificidade",
+      "category": "Marketing"
+    },
+    {
+      "name": "Funil de vendas",
+      "category": "Sales"
+    },
+    {
+      "name": "Lançamento perpétuo",
+      "category": "Estratégia de marketing"
+    },
+    {
+      "name": "Narrativa",
+      "category": "Estratégia de comunicação"
+    }
+  ],
+  "books": [
+    {
+      "title": "Academia de Gestão da Emoção",
+      "author": "Augusto Cury"
+    },
+    {
+      "title": "O Ego é Seu Inimigo",
+      "author": "Ryan Holiday"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "300,000 BRL",
+      "context": "Debt incurred by Fly Music in 2011."
+    },
+    {
+      "value": "40 bands",
+      "context": "Number of bands included in the Up Bands compilation."
+    },
+    {
+      "value": "R$3.500",
+      "context": "Investimento inicial em lançamento digital"
+    },
+    {
+      "value": "R$120.000",
+      "context": "Receita do primeiro lançamento digital em setembro de 2014"
+    },
+    {
+      "value": "180",
+      "context": "Número de lançamentos realizados entre 2015 e 2019"
+    },
+    {
+      "value": "R$400 milhões",
+      "context": "Receita total gerada por lançamentos até 2019"
+    },
+    {
+      "value": "400 milhões",
+      "context": "Valor de vendas mencionado no contexto de negócios digitais"
+    },
+    {
+      "value": "30% a 50 milhões",
+      "context": "Lucro estimado de vendas nos Estados Unidos"
+    },
+    {
+      "value": "30 and 9.52",
+      "context": "Cost per lead in high-ticket sales using creative strategies"
+    },
+    {
+      "value": "200 milhões",
+      "context": "Meta atingida em 2023."
+    },
+    {
+      "value": "5 milhões de visualizações",
+      "context": "Visualizações no YouTube para a música 'Cassino Boulevard'."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Meta",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cpm (Cost Per Thousand Impressions)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leandro Aguiari",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Steve Jobs",
+      "target_type": "person"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Leandro Aguiari",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Creator Economy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "co-founded",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Leandro Aguiari",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Conversion",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leandro Aguiari",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Augusto Cury",
+      "target_type": "person"
+    },
+    {
+      "source": "Infomoney",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Xp Inc",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Storytelling",
+      "target_type": "concept"
+    },
+    {
+      "source": "Leandro Aguiari",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Érico Rocha",
+      "target_type": "person"
+    },
+    {
+      "source": "Leandro Aguiari",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Itaú",
+      "source_type": "company",
+      "relation": "mentioned",
+      "target": "Estratégia De Narrativas",
+      "target_type": "concept"
+    },
+    {
+      "source": "Walter White",
+      "source_type": "person",
+      "relation": "related_to",
+      "target": "Heisenberg",
+      "target_type": "person"
+    },
+    {
+      "source": "Tony Robbins",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Grant Cardone",
+      "target_type": "person"
+    },
+    {
+      "source": "Leandro Aguiari",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Ricardinho Paraíso",
+      "target_type": "person"
+    },
+    {
+      "source": "Ryan Holiday",
+      "source_type": "person",
+      "relation": "author_of",
+      "target": "O Ego É Seu Inimigo",
+      "target_type": "company"
+    },
+    {
+      "source": "Leandro Aguiari",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "host",
+      "target": "G4 Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Leandro Aguiari",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Storytelling",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tiktok",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Cpm (Cost Per Thousand Impressions)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Murilo Gann",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Keep Learning School",
+      "target_type": "company"
+    },
+    {
+      "source": "Felipe Miranda",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Empiricus",
+      "target_type": "company"
+    },
+    {
+      "source": "Leandro Aguiari",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Murilo Gann",
+      "target_type": "person"
+    },
+    {
+      "source": "Leandro Aguiari",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Felipe Miranda",
+      "target_type": "person"
+    },
+    {
+      "source": "Leandro Aguiari",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Fly Music",
+      "target_type": "company"
+    }
+  ]
+}

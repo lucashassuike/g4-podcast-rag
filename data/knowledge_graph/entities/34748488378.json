@@ -1,0 +1,276 @@
+{
+  "episode_id": "34748488378",
+  "title": "O QUE TODO E-COMMERCE PRECISA SABER PARA BLACK FRIDAY 2024 - COM VICTOR POPPER (LOJA INTEGRADA)",
+  "date_published": 1730444400,
+  "duration": 1501,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio"
+    },
+    {
+      "name": "Victor Popper",
+      "role": "guest",
+      "company": "Loja Integrada",
+      "title": "CEO"
+    },
+    {
+      "name": "Pedro Iron Man",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pedro Escripilite",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Cadu",
+      "role": "mentioned",
+      "company": "LocalWeb",
+      "title": ""
+    },
+    {
+      "name": "Fred",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Pedro",
+      "role": "mentioned",
+      "company": "Clear Sale",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Loja Integrada",
+      "industry": "E-commerce",
+      "context": "Discussão sobre estratégias para Black Friday"
+    },
+    {
+      "name": "Apple",
+      "industry": "Tecnologia",
+      "context": "Discussão sobre produtos como Apple Watch e estratégias de valor percebido"
+    },
+    {
+      "name": "Minimal",
+      "industry": "Moda",
+      "context": "Discussão sobre auto-expressão e patrocínio"
+    },
+    {
+      "name": "Forbes",
+      "industry": "Mídia",
+      "context": "Discussão sobre listas como Forbes Under 30"
+    },
+    {
+      "name": "Localweb",
+      "industry": "Technology",
+      "context": "Mentioned as the company that acquired a CRM business."
+    },
+    {
+      "name": "Clear Sale",
+      "industry": "Fraud prevention",
+      "context": "Discussed as a company originating from Submarino's antifraud tool."
+    },
+    {
+      "name": "Submarino",
+      "industry": "E-commerce",
+      "context": "Mentioned as the origin of Clear Sale's antifraud tool."
+    },
+    {
+      "name": "Magalu",
+      "industry": "Retail",
+      "context": "Mentioned in the context of CRM and media strategies."
+    },
+    {
+      "name": "Mercado Livre",
+      "industry": "E-commerce",
+      "context": "Discussed in relation to marketplace strategies and commissions."
+    },
+    {
+      "name": "Zoom",
+      "industry": "Price comparison",
+      "context": "Mentioned as a platform for price comparison during Black Friday."
+    },
+    {
+      "name": "Buscapé",
+      "industry": "Price comparison",
+      "context": "Mentioned as a platform for price comparison during Black Friday."
+    },
+    {
+      "name": "G4 Educação",
+      "industry": "Education and Business Consulting",
+      "context": "Mentioned as the producer of the G4 Podcast"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Black Friday",
+      "category": "Evento de varejo"
+    },
+    {
+      "name": "Customer Value Proposition",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Auto-expressão",
+      "category": "Comportamento do consumidor"
+    },
+    {
+      "name": "NPS (Net Promoter Score)",
+      "category": "Métrica de satisfação do cliente"
+    },
+    {
+      "name": "CSAT (Customer Satisfaction Score)",
+      "category": "Métrica de satisfação do cliente"
+    },
+    {
+      "name": "CRM (Customer Relationship Management)",
+      "category": "Ferramenta de gestão de relacionamento com clientes"
+    },
+    {
+      "name": "ROI (Return on Investment)",
+      "category": "Métrica financeira"
+    },
+    {
+      "name": "Lifetime Value (LTV)",
+      "category": "Metric"
+    },
+    {
+      "name": "Cohort analysis",
+      "category": "Analytical framework"
+    },
+    {
+      "name": "Buy Box",
+      "category": "E-commerce strategy"
+    },
+    {
+      "name": "Frete grátis",
+      "category": "Promotional strategy"
+    },
+    {
+      "name": "Lightbox",
+      "category": "Web design element"
+    },
+    {
+      "name": "VIP membership",
+      "category": "Customer engagement strategy"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Industry"
+    },
+    {
+      "name": "Planning",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Strategy",
+      "category": "Business Framework"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "30 anos",
+      "context": "Experiência de Victor Popper no varejo"
+    },
+    {
+      "value": "18",
+      "context": "ROI achieved after implementing CRM strategies."
+    },
+    {
+      "value": "25%",
+      "context": "Increase in sales after updating marketplace product listings."
+    },
+    {
+      "value": "50%",
+      "context": "Discount margin discussed for Black Friday promotions."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Apple",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Customer Value Proposition",
+      "target_type": "concept"
+    },
+    {
+      "source": "Clear Sale",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Submarino",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Fred",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Victor Popper",
+      "target_type": "person"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Black Friday",
+      "target_type": "concept"
+    },
+    {
+      "source": "Cadu",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Localweb",
+      "target_type": "company"
+    },
+    {
+      "source": "Pedro",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Clear Sale",
+      "target_type": "company"
+    },
+    {
+      "source": "Minimal",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Auto-Expressão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Victor Popper",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Loja Integrada",
+      "target_type": "company"
+    }
+  ]
+}

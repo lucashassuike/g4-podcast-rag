@@ -1,0 +1,128 @@
+{
+  "episode_id": "34748488629",
+  "title": "Israel Salmen - Cultura da Méliuz, Contratação, Incertezas da Black Friday | Papo de Gestão",
+  "date_published": 1668415247,
+  "duration": 2395,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Founder"
+    },
+    {
+      "name": "Israel Salmen",
+      "role": "guest",
+      "company": "Méliuz",
+      "title": "Founder and CEO"
+    },
+    {
+      "name": "Lucas",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ofli",
+      "role": "mentioned",
+      "company": "Méliuz",
+      "title": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Podcast host and business education"
+    },
+    {
+      "name": "Méliuz",
+      "industry": "Technology/Finance",
+      "context": "Discussed as a company disrupting loyalty programs with cashback model"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cultura Organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Cashback",
+      "category": "Business Model"
+    },
+    {
+      "name": "Programas de Fidelidade",
+      "category": "Business Model"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "Código Cultural",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Off-site",
+      "category": "Business Practice"
+    },
+    {
+      "name": "Desenvolvimento de liderança",
+      "category": "Gestão"
+    },
+    {
+      "name": "Espírito empreendedor",
+      "category": "Características pessoais"
+    },
+    {
+      "name": "Autodidatismo",
+      "category": "Características pessoais"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "44 países",
+      "context": "Operação da Méliuz"
+    },
+    {
+      "value": "Primeira startup brasileira a fazer IPO na Bovespa",
+      "context": "Marco financeiro da Méliuz"
+    },
+    {
+      "value": "44 países",
+      "context": "Operação mencionada por Israel Salmen ao discutir a escala de sua responsabilidade como CEO."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ofli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Méliuz",
+      "target_type": "company"
+    },
+    {
+      "source": "Israel Salmen",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Méliuz",
+      "target_type": "company"
+    },
+    {
+      "source": "Israel Salmen",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Méliuz",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

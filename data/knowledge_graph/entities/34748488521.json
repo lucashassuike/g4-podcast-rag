@@ -1,0 +1,507 @@
+{
+  "episode_id": "34748488521",
+  "title": "A Saúde Mental do Time Impacta a Sua Receita - Com Tatiana Pimenta | Sem Atalhos",
+  "date_published": 1698222540,
+  "duration": 4715,
+  "chunks_processed": 7,
+  "people": [
+    {
+      "name": "Thay Dantas",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia, Diretora de Marca e Marketing de Produto"
+    },
+    {
+      "name": "Tatiana Pimenta",
+      "role": "guest",
+      "company": "Vitude",
+      "title": "Fundadora e CEO"
+    },
+    {
+      "name": "Márcio Atala",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Mayna",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Mariano Godoy",
+      "role": "mentioned",
+      "company": "VTex",
+      "title": "None"
+    },
+    {
+      "name": "João Vitor",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "CEO"
+    },
+    {
+      "name": "Preta Gil",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Blogueirinha Do Fim Do Mundo",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "David Beckham",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Gabriel Medina",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Não especificado"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Escola de negócios e desenvolvimento de habilidades profissionais"
+    },
+    {
+      "name": "Vitude",
+      "industry": "Saúde Mental",
+      "context": "Plataforma de saúde mental"
+    },
+    {
+      "name": "Vtex",
+      "industry": "Technology",
+      "context": "Mentioned in relation to leadership practices."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "G4 Skills",
+      "category": "Plataforma de Treinamento e Desenvolvimento"
+    },
+    {
+      "name": "Saúde Mental",
+      "category": "Bem-estar e Produtividade"
+    },
+    {
+      "name": "Burnout",
+      "category": "Transtorno Mental"
+    },
+    {
+      "name": "Ansiedade",
+      "category": "Transtorno Mental"
+    },
+    {
+      "name": "Depressão",
+      "category": "Transtorno Mental"
+    },
+    {
+      "name": "Estresse",
+      "category": "Transtorno Mental"
+    },
+    {
+      "name": "Marca Pessoal",
+      "category": "Desenvolvimento Profissional"
+    },
+    {
+      "name": "Redes Sociais",
+      "category": "Tecnologia e Comunicação"
+    },
+    {
+      "name": "Atividade Física",
+      "category": "Bem-estar e Saúde"
+    },
+    {
+      "name": "gestão de tempo",
+      "category": "estratégia"
+    },
+    {
+      "name": "produtividade",
+      "category": "conceito"
+    },
+    {
+      "name": "terapia cognitivo-comportamental",
+      "category": "metodologia"
+    },
+    {
+      "name": "vício em redes sociais",
+      "category": "comportamento"
+    },
+    {
+      "name": "promoção de saúde mental",
+      "category": "conceito"
+    },
+    {
+      "name": "Segurança Psicológica",
+      "category": "Workplace Culture"
+    },
+    {
+      "name": "Transtornos Mentais",
+      "category": "Health and Wellness"
+    },
+    {
+      "name": "Desinformação",
+      "category": "Education"
+    },
+    {
+      "name": "Influencers",
+      "category": "Marketing"
+    },
+    {
+      "name": "Essencialismo",
+      "category": "Productivity"
+    },
+    {
+      "name": "cultura organizacional",
+      "category": "Workplace Culture"
+    },
+    {
+      "name": "competitividade",
+      "category": "Workplace Dynamics"
+    },
+    {
+      "name": "psicodinâmica do trabalho",
+      "category": "Workplace Psychology"
+    },
+    {
+      "name": "alta performance",
+      "category": "Leadership Strategy"
+    },
+    {
+      "name": "Diagnóstico Organizacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Educação em Saúde Mental",
+      "category": "Training and Development"
+    },
+    {
+      "name": "ROI (Return on Investment)",
+      "category": "Finance"
+    },
+    {
+      "name": "Plano de Saúde",
+      "category": "Healthcare"
+    },
+    {
+      "name": "Saúde mental no ambiente de trabalho",
+      "category": "Conceito de negócios"
+    },
+    {
+      "name": "ROI (Retorno sobre Investimento)",
+      "category": "Métrica financeira"
+    },
+    {
+      "name": "Vitude Insights",
+      "category": "Ferramenta de análise de dados"
+    },
+    {
+      "name": "transtorno de ansiedade",
+      "category": "health"
+    }
+  ],
+  "books": [
+    {
+      "title": "Nação Dopamina",
+      "author": ""
+    },
+    {
+      "title": "Essencialismo",
+      "author": "Greg McKeown"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1 bilhão",
+      "context": "Número de pessoas no mundo sofrendo com transtornos mentais"
+    },
+    {
+      "value": "60 milhões",
+      "context": "Número de pessoas no Brasil convivendo com transtornos mentais"
+    },
+    {
+      "value": "1 trilhão de dólares",
+      "context": "Custo anual global devido a transtornos mentais"
+    },
+    {
+      "value": "6 trilhões de dólares",
+      "context": "Custo projetado para 2030 devido a transtornos mentais"
+    },
+    {
+      "value": "5 horas por dia",
+      "context": "tempo médio que os brasileiros passam conectados em redes sociais"
+    },
+    {
+      "value": "1 bilhão",
+      "context": "Número de pessoas no mundo sofrendo com transtornos mentais."
+    },
+    {
+      "value": "60 milhões",
+      "context": "Número de pessoas no Brasil convivendo com transtornos mentais."
+    },
+    {
+      "value": "1 trilhão de dólares por ano",
+      "context": "Custo global de improdutividade devido a transtornos mentais."
+    },
+    {
+      "value": "6 trilhões de dólares",
+      "context": "Projeção de custo global em 2030 devido a transtornos mentais."
+    },
+    {
+      "value": "20%",
+      "context": "Percentage of the population experiencing mental health issues."
+    },
+    {
+      "value": "2023",
+      "context": "Year mentioned as challenging for various industries."
+    },
+    {
+      "value": "Trilhões de reais",
+      "context": "Desperdício anual devido à falta de produtividade por doenças mentais"
+    },
+    {
+      "value": "20%",
+      "context": "Porcentagem estimada da população brasileira com algum transtorno mental."
+    },
+    {
+      "value": "5%",
+      "context": "Porcentagem de funcionários que apresentam atestados relacionados a transtornos mentais."
+    },
+    {
+      "value": "40% a 70%",
+      "context": "Porcentagem de atestados sem CID que podem estar relacionados a transtornos mentais."
+    },
+    {
+      "value": "20%",
+      "context": "População que enfrenta problemas psicológicos"
+    },
+    {
+      "value": "300%",
+      "context": "Meta atingida por um funcionário mencionado"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Preta Gil",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Depressão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Vitude",
+      "target_type": "company"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Diagnóstico Organizacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Terapia Cognitivo-Comportamental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vitude",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Vitude Insights",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Vitude",
+      "target_type": "company"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Nação Dopamina",
+      "target_type": "company"
+    },
+    {
+      "source": "Gabriel Medina",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Depressão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Transtornos Mentais",
+      "target_type": "concept"
+    },
+    {
+      "source": "Blogueirinha Do Fim Do Mundo",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Depressão",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Saúde Mental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "guest",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "client_of",
+      "target": "Vitude",
+      "target_type": "company"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Promoção De Saúde Mental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Educação Em Saúde Mental",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "Essencialismo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão De Tempo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Roi (Return On Investment)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Vício Em Redes Sociais",
+      "target_type": "concept"
+    },
+    {
+      "source": "João Vitor",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Burnout",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Produtividade",
+      "target_type": "concept"
+    },
+    {
+      "source": "Vitude",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Saúde Mental No Ambiente De Trabalho",
+      "target_type": "concept"
+    },
+    {
+      "source": "Mariano Godoy",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Vtex",
+      "target_type": "company"
+    },
+    {
+      "source": "Thay Dantas",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Desinformação",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tatiana Pimenta",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Segurança Psicológica",
+      "target_type": "concept"
+    },
+    {
+      "source": "David Beckham",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Depressão",
+      "target_type": "concept"
+    }
+  ]
+}

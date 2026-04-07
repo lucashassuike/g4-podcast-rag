@@ -1,0 +1,226 @@
+{
+  "episode_id": "34748488346",
+  "title": "COMO A COMUNICAÇÃO CORRETA COM O CLIENTE ALAVANCA OS RESULTADOS | PAPO DE GESTÃO",
+  "date_published": 1737363600,
+  "duration": 3898,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Alan Wilke",
+      "role": "guest",
+      "company": "Skeps",
+      "title": "CEO e Founder"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alan",
+      "role": "guest",
+      "company": "Skeps",
+      "title": "Empreendedor"
+    },
+    {
+      "name": "Vitor Brito",
+      "role": "mentioned",
+      "company": "Skeps",
+      "title": "CTO"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Education",
+      "context": "Host company of the G4 Podcast and client of Skeps"
+    },
+    {
+      "name": "Skeps",
+      "industry": "Technology",
+      "context": "Provides intelligent contact solutions and conversational strategies"
+    },
+    {
+      "name": "Blip",
+      "industry": "Technology",
+      "context": "Partner platform for messaging services used by Skeps"
+    },
+    {
+      "name": "Bleep",
+      "industry": "Tecnologia",
+      "context": "Empresa onde Alan trabalhou antes de fundar a Skeps"
+    },
+    {
+      "name": "Meta",
+      "industry": "Technology",
+      "context": "Discussed changes in WhatsApp functionalities"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Estratégia Conversacional",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Social Listening",
+      "category": "Market Analysis"
+    },
+    {
+      "name": "CRM",
+      "category": "Customer Relationship Management"
+    },
+    {
+      "name": "Business Tech",
+      "category": "Technology and Business Integration"
+    },
+    {
+      "name": "Gestão de equipes",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Delegação de tarefas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Retenção de talentos",
+      "category": "Gestão de pessoas"
+    },
+    {
+      "name": "Imersão presencial",
+      "category": "Educação executiva"
+    },
+    {
+      "name": "Benchmarking",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Integração de tecnologia, marketing e vendas",
+      "category": "Estratégia de negócios"
+    },
+    {
+      "name": "Omnichannel",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "ICP (Ideal Customer Profile)",
+      "category": "Marketing"
+    },
+    {
+      "name": "CRM (Customer Relationship Management)",
+      "category": "Technology"
+    },
+    {
+      "name": "Automation",
+      "category": "Technology"
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "category": "Technology"
+    }
+  ],
+  "books": [
+    {
+      "title": "Como escolher o melhor canal de crescimento para o seu negócio",
+      "author": "G4 Educação"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "100+ clientes ativos",
+      "context": "Current client base of Skeps"
+    },
+    {
+      "value": "90+ colaboradores",
+      "context": "Current team size of Skeps"
+    },
+    {
+      "value": "Dezenas de milhões por ano",
+      "context": "Annual revenue of Skeps"
+    },
+    {
+      "value": "90 pessoas",
+      "context": "Tamanho da equipe da Skeps"
+    },
+    {
+      "value": "Crescimento de 10 vezes",
+      "context": "Crescimento da Skeps em 2022"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Meta",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Whatsapp",
+      "target_type": "company"
+    },
+    {
+      "source": "Alan",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Skeps",
+      "target_type": "company"
+    },
+    {
+      "source": "Vitor Brito",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Skeps",
+      "target_type": "company"
+    },
+    {
+      "source": "Skeps",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Blip",
+      "target_type": "company"
+    },
+    {
+      "source": "Alan Wilke",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Skeps",
+      "target_type": "company"
+    },
+    {
+      "source": "Skeps",
+      "source_type": "company",
+      "relation": "provides_service_to",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alan",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Skeps",
+      "target_type": "company"
+    }
+  ]
+}

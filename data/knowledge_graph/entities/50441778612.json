@@ -1,0 +1,250 @@
+{
+  "episode_id": "50441778612",
+  "title": "FALCON HOTÉIS: A ESTRATÉGIA POR TRÁS DA EXPANSÃO COM A ACCOR | PAPO DE GESTÃO",
+  "date_published": 1771513200,
+  "duration": 4176,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Fernando Fonseca",
+      "role": "guest",
+      "company": "Falcon Hotels",
+      "title": "Founder"
+    },
+    {
+      "name": "Rodrigão",
+      "role": "mentioned",
+      "company": "Onix Hotel",
+      "title": "Owner"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Podcast",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "Falcon Hotels",
+      "industry": "Hospitality",
+      "context": "Founded by Fernando Fonseca in 2017, operates hotels in Brazil."
+    },
+    {
+      "name": "Accor",
+      "industry": "Hospitality",
+      "context": "Partnered with Falcon Hotels, provides international hotel brands like Ibis, Mercury, and Novo Hotel."
+    },
+    {
+      "name": "Direcional Engenharia",
+      "industry": "Construction",
+      "context": "Developed hotels in Brazil, where Fernando Fonseca worked before founding Falcon Hotels."
+    },
+    {
+      "name": "Ambev",
+      "industry": "Beverages",
+      "context": "Fernando Fonseca participated in its trainee program, which influenced his entrepreneurial mindset."
+    },
+    {
+      "name": "Onix Hotel",
+      "industry": "Hospitality",
+      "context": "Mentioned as an example of traditional hotel ownership in Brazil."
+    },
+    {
+      "name": "Falcon Hotéis",
+      "industry": "Hotelaria",
+      "context": "Empresa discutida como exemplo de administração de hotéis."
+    },
+    {
+      "name": "Booking",
+      "industry": "Tecnologia e Turismo",
+      "context": "Plataforma de reservas mencionada como exemplo de custos de distribuição."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Condo Hotel",
+      "category": "Business Model"
+    },
+    {
+      "name": "Hotel Administration",
+      "category": "Business Practice"
+    },
+    {
+      "name": "Verticalization in Hospitality",
+      "category": "Industry Trend"
+    },
+    {
+      "name": "SCP (Sociedade em Conta de Participação)",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Taxa de Franquia",
+      "category": "Estratégia de Negócio"
+    },
+    {
+      "name": "PERSI (Programa Emergencial de Retomada do Setor de Eventos)",
+      "category": "Política Pública"
+    },
+    {
+      "name": "Arrendamento",
+      "category": "Business Model"
+    },
+    {
+      "name": "Administração por procuração",
+      "category": "Business Model"
+    },
+    {
+      "name": "CAPEX",
+      "category": "Financial Metric"
+    },
+    {
+      "name": "Ocupação média",
+      "category": "Operational Metric"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "22",
+      "context": "Number of hotel operations managed by Falcon Hotels as of the conversation."
+    },
+    {
+      "value": "10+ years",
+      "context": "Fernando Fonseca's experience as an executive before founding Falcon Hotels."
+    },
+    {
+      "value": "22 operações",
+      "context": "Número de operações administradas pela Falcon Hotéis."
+    },
+    {
+      "value": "1 milhão de reais",
+      "context": "Exemplo de faturamento mensal de um hotel administrado."
+    },
+    {
+      "value": "50% de impacto no lucro",
+      "context": "Impacto da retirada do benefício fiscal PERSI no setor hoteleiro."
+    },
+    {
+      "value": "34% do lucro",
+      "context": "Impacto dos impostos federais sobre a rentabilidade dos hotéis."
+    },
+    {
+      "value": "20% a 30% de rentabilidade",
+      "context": "Rentabilidade média dos hotéis mencionados."
+    },
+    {
+      "value": "100 a 120 quartos",
+      "context": "Tamanho médio dos hotéis discutidos."
+    },
+    {
+      "value": "20 a 35 pessoas",
+      "context": "Equipe necessária para operar hotéis de 100 quartos."
+    },
+    {
+      "value": "600 mil a 1,5 milhão de receita mensal",
+      "context": "Receita mensal de hotéis com 100 quartos."
+    },
+    {
+      "value": "30 milhões",
+      "context": "CAPEX para construir um hotel de 100 quartos."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Fernando Fonseca",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Ambev",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Scp (Sociedade Em Conta De Participação)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Fernando Fonseca",
+      "source_type": "person",
+      "relation": "worked_at",
+      "target": "Direcional Engenharia",
+      "target_type": "company"
+    },
+    {
+      "source": "Fernando Fonseca",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Falcon Hotels",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Administração Por Procuração",
+      "target_type": "concept"
+    },
+    {
+      "source": "Falcon Hotels",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Accor",
+      "target_type": "company"
+    },
+    {
+      "source": "Accor",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Falcon Hotéis",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Arrendamento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Accor",
+      "source_type": "company",
+      "relation": "competes_with",
+      "target": "Booking",
+      "target_type": "company"
+    },
+    {
+      "source": "Falcon Hotéis",
+      "source_type": "company",
+      "relation": "utilizes",
+      "target": "Scp (Sociedade Em Conta De Participação)",
+      "target_type": "concept"
+    },
+    {
+      "source": "Falcon Hotéis",
+      "source_type": "company",
+      "relation": "partnered_with",
+      "target": "Accor",
+      "target_type": "company"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "episode_id": "34748488623",
+  "title": "O que aconteceu com o Uber? | Conectando os Pontos",
+  "date_published": 1676451600,
+  "duration": 1999,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Lucas Riedel",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócio e CEO"
+    },
+    {
+      "name": "João Vítor",
+      "role": "guest",
+      "company": "G4 Educação",
+      "title": "Sócio e CEO"
+    },
+    {
+      "name": "Steve Jobs",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Dara Khosrowshahi",
+      "role": "mentioned",
+      "company": "Uber",
+      "title": "CEO"
+    },
+    {
+      "name": "Julián",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Produtora do podcast e empresa dos hosts"
+    },
+    {
+      "name": "Uber",
+      "industry": "Tecnologia e Transporte",
+      "context": "Principal case discutido no episódio"
+    },
+    {
+      "name": "Lyft",
+      "industry": "Tecnologia e Transporte",
+      "context": "Concorrente do Uber mencionada"
+    },
+    {
+      "name": "99",
+      "industry": "Tecnologia e Transporte",
+      "context": "Concorrente do Uber mencionada"
+    },
+    {
+      "name": "Airbnb",
+      "industry": "Tecnologia e Hospedagem",
+      "context": "Startup mencionada como exemplo de modelo de negócios"
+    },
+    {
+      "name": "Ifood",
+      "industry": "Tecnologia e Delivery",
+      "context": "Startup mencionada como exemplo de modelo de negócios"
+    },
+    {
+      "name": "Didi",
+      "industry": "Transportation and Technology",
+      "context": "Discussed in relation to Uber's operations in China and strategic partnership."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gig Economy",
+      "category": "Modelo Econômico"
+    },
+    {
+      "name": "Valuation",
+      "category": "Finanças e Investimentos"
+    },
+    {
+      "name": "Margem Bruta",
+      "category": "Finanças"
+    },
+    {
+      "name": "Recorrência de Consumo",
+      "category": "Modelo de Negócios"
+    },
+    {
+      "name": "Goodwill",
+      "category": "Contabilidade"
+    },
+    {
+      "name": "Operational Profitability",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Cash Flow",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Goodwill Amortization",
+      "category": "Accounting"
+    },
+    {
+      "name": "Strategic Decision-Making",
+      "category": "Business Strategy"
+    },
+    {
+      "name": "Market Dominance",
+      "category": "Competitive Strategy"
+    },
+    {
+      "name": "LTV (Lifetime Value) over CAC (Customer Acquisition Cost)",
+      "category": "Financial Metrics"
+    },
+    {
+      "name": "Winner Takes All Market",
+      "category": "Market Dynamics"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "21 milhões de corridas por dia",
+      "context": "Operação global do Uber"
+    },
+    {
+      "value": "29 bilhões de dólares",
+      "context": "Faturamento anual do Uber"
+    },
+    {
+      "value": "9 bilhões de dólares",
+      "context": "Prejuízo anual do Uber"
+    },
+    {
+      "value": "70 bilhões de dólares",
+      "context": "Valuation do Uber"
+    },
+    {
+      "value": "87.5%",
+      "context": "Participação de mercado de empresas de ride-sharing nos EUA em 2018"
+    },
+    {
+      "value": "90%",
+      "context": "Margem bruta estimada do Uber"
+    },
+    {
+      "value": "10% profit margin",
+      "context": "Uber's profit margin in Brazil per real earned."
+    },
+    {
+      "value": "3.8 billion USD revenue",
+      "context": "Uber's revenue in 2016."
+    },
+    {
+      "value": "370 million USD loss",
+      "context": "Uber's operational loss in 2016."
+    },
+    {
+      "value": "29 billion USD revenue",
+      "context": "Uber's revenue in 2022."
+    },
+    {
+      "value": "8.8 billion USD loss",
+      "context": "Uber's operational loss in 2022."
+    },
+    {
+      "value": "90% market share",
+      "context": "iFood's dominance in the Brazilian food delivery market."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Gig Economy",
+      "target_type": "concept"
+    },
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Didi",
+      "target_type": "company"
+    },
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "China",
+      "target_type": "company"
+    },
+    {
+      "source": "João Vítor",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Lucas Riedel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Ifood",
+      "target_type": "company"
+    },
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "Brazil",
+      "target_type": "company"
+    },
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "99",
+      "target_type": "company"
+    },
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Didi",
+      "target_type": "company"
+    },
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "competed_with",
+      "target": "Lyft",
+      "target_type": "company"
+    },
+    {
+      "source": "Didi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "99",
+      "target_type": "company"
+    },
+    {
+      "source": "Uber",
+      "source_type": "company",
+      "relation": "operates_in",
+      "target": "India",
+      "target_type": "company"
+    }
+  ]
+}

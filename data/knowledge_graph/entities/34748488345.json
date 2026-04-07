@@ -1,0 +1,297 @@
+{
+  "episode_id": "34748488345",
+  "title": "LUCRO NÃO É CAIXA! OS MAIORES ERROS DO FLUXO DE CAIXA, E COMO EVITÁ-LOS | PAPO DE GESTÃO",
+  "date_published": 1738612848,
+  "duration": 3905,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": ""
+    },
+    {
+      "name": "Julián Toniolli",
+      "role": "guest",
+      "company": "Aldas",
+      "title": "Sócio e Fundador"
+    },
+    {
+      "name": "Juliano",
+      "role": "guest",
+      "company": "Aldas",
+      "title": "Consultor"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria",
+      "context": "Plataforma de educação e mentoria para empresários e líderes."
+    },
+    {
+      "name": "Aldas",
+      "industry": "Consultoria",
+      "context": "Empresa de consultoria fundada por Julián Toniolli."
+    },
+    {
+      "name": "Kanoi",
+      "industry": "E-commerce",
+      "context": "Exemplo de aplicação de conceitos de custos e despesas em e-commerce."
+    },
+    {
+      "name": "Carrefour",
+      "industry": "Varejo",
+      "context": "Exemplo de geração de caixa operacional e desmobilização de ativos"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Fluxo de Caixa",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "DRE (Demonstração do Resultado do Exercício)",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "Balanço Patrimonial",
+      "category": "Gestão Financeira"
+    },
+    {
+      "name": "Gestão Financeira",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Dívida Pós-Fixada",
+      "category": "Finanças"
+    },
+    {
+      "name": "Dívida Pré-Fixada",
+      "category": "Finanças"
+    },
+    {
+      "name": "PMT (Parcela Mensal de Pagamento)",
+      "category": "Finanças"
+    },
+    {
+      "name": "Política de Estoque",
+      "category": "Gestão Operacional"
+    },
+    {
+      "name": "Distribuição de Dividendos",
+      "category": "Finanças"
+    },
+    {
+      "name": "Custo Variável",
+      "category": "Finanças"
+    },
+    {
+      "name": "Custo",
+      "category": "Finanças"
+    },
+    {
+      "name": "Despesa",
+      "category": "Finanças"
+    },
+    {
+      "name": "Margem de Contribuição",
+      "category": "Finanças"
+    },
+    {
+      "name": "Despesa Variável",
+      "category": "Finanças"
+    },
+    {
+      "name": "Despesa Fixa",
+      "category": "Finanças"
+    },
+    {
+      "name": "Receita por Funcionário",
+      "category": "Métricas de Eficiência"
+    },
+    {
+      "name": "Lucro por Funcionário",
+      "category": "Métricas de Eficiência"
+    },
+    {
+      "name": "Despesa por Funcionário",
+      "category": "Métricas de Eficiência"
+    },
+    {
+      "name": "Crescimento de Faturamento",
+      "category": "Métricas de Crescimento"
+    },
+    {
+      "name": "Geração de caixa operacional",
+      "category": "Finanças"
+    },
+    {
+      "name": "Margem unitária",
+      "category": "Finanças"
+    },
+    {
+      "name": "Faturamento",
+      "category": "Finanças"
+    },
+    {
+      "name": "Volume",
+      "category": "Finanças"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "2%",
+      "context": "Taxa de juros em 2021."
+    },
+    {
+      "value": "14%-15%",
+      "context": "Taxa de juros atual mencionada no episódio."
+    },
+    {
+      "value": "20%-24%",
+      "context": "Custo financeiro anual para empresas mencionado no episódio."
+    },
+    {
+      "value": "10,000",
+      "context": "Remuneração fixa mensal de um consultor na Aldas."
+    },
+    {
+      "value": "500",
+      "context": "Custo por hora de um consultor trabalhando 20 horas por mês."
+    },
+    {
+      "value": "250",
+      "context": "Custo por hora de um consultor trabalhando 40 horas por mês."
+    },
+    {
+      "value": "100 milhões",
+      "context": "Geração de caixa anual do Carrefour"
+    },
+    {
+      "value": "150 milhões",
+      "context": "Venda anual de lojas do Carrefour para fundos imobiliários"
+    },
+    {
+      "value": "20% ao ano",
+      "context": "Taxa de encolhimento do mercado mencionada"
+    },
+    {
+      "value": "10%",
+      "context": "Exemplo de margem unitária em produtos"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Julián Toniolli",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Carrefour",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Volume",
+      "target_type": "concept"
+    },
+    {
+      "source": "Julián Toniolli",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Aldas",
+      "target_type": "company"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Margem De Contribuição",
+      "target_type": "concept"
+    },
+    {
+      "source": "Kanoi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Fluxo De Caixa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carrefour",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Despesa Fixa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Aldas",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Custo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Carrefour",
+      "source_type": "company",
+      "relation": "discussed",
+      "target": "Geração De Caixa Operacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Juliano",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Aldas",
+      "target_type": "company"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

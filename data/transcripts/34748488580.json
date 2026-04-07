@@ -1,0 +1,1527 @@
+{
+  "id": 34748488580,
+  "title": "Inteligência Artificial para Gerir e Escalar negócios - Afonso Menegola e Kleber Rodrigues (Microsoft) | Papo de Gestão",
+  "guest": "",
+  "date_published": 1687510834,
+  "duration": 3196,
+  "text": "AI não é novidade. A foto boa do seu celular não é porque você tem uma baita câmera, é que tem uma AI especializada em otimizar a imagem que você tirou mesmo com sensor pequeno. O que aparece no feed da rede social tem uma AI ali por trás. O que mudou? Ali em novembro nasceu um negocinho chamado ChatGPT, que falou, olha, agora você pode conversar com uma entidade super inteligente aqui do outro lado, que entre aspas sabe de tudo o tempo inteiro. Isso mudou muito a forma como as pessoas enxergam a adoção de AI e o uso no dia a dia para a produtividade. A AI hoje, o grande benefício é o que você está trazendo hoje dentro do G4 e eu acho que é a condição de otimizar e fazer mais com menos. Agora, o desconforto para os profissionais e realmente gerar essa zona cinzenta e nesse momento até se acomodar, aprender e realmente a gente vai precisar entrar numa nova mindset. E é o mindset do que? Da curiosidade, saber perguntar, saber de como que a gente faz as questões certas no momento certo. Pessoal que está em casa, segue essa dica, por favor. Estudem a respeito de inteligência artificial e como que utiliza ela. Esse é o primeiro passo. E os empreendedores que estão ouvindo também, não gastem cabeça com a pergunta se eu vou utilizar no meu produto. Gastem esforço de como eu vou utilizar isso no meu produto. Seja muito bem-vindo, muito bem-vinda a mais um episódio do Papo de Gestão. E sim, não é o Tales Gomes aqui, sou eu, João Vitor, um dos sócios CEO aqui do G4 Educação. E esse é um papo muito especial de um dos assuntos que eu mais tenho me dedicado ultimamente, que o G4 tem investido muito também. Que a gente trouxe aqui dois representantes de uma grande parceira nossa, que é a Microsoft, para falar sobre AI, inteligência artificial e como que a gente pode usar ela no nosso dia a dia para ganhar mais produtividade enquanto empreendedor, enquanto gestor, enquanto um profissional. Então não é um papo técnico de AI, mas sim como que você usa isso no seu dia a dia. E para compartilhar com a gente, a gente tem o Afonso, que é arquiteto de soluções da Microsoft, e o Kleber, que é o CEO da Qualyserve, membro do G4 Club. Os dois são grandes parceiros nossos que têm ajudado o G4 a desenvolver as soluções que a gente tem usado, como o Tutor AI, o G4 AI, as soluções internas aqui. Então sejam muito bem-vindos, apresentem-se também para quem não conhece vocês e bora para esse papo. Legal, obrigado João pela introdução, é o maior prazer estar aqui, obrigado pelo convite da G4, seu convite. Prazer aqui também estar com o Kleber, que é parceiraço aí Microsoft, e espero aí que o pessoal aí de casa goste bastante do papo de hoje. Bom, agradecer ao Afonso aí, porque o homem da inteligência artificial hoje da Microsoft no Brasil, te trazer ele aqui para o nosso papo, eu acho que é muito legal, né João? E obrigado aí pelo convite, muito feliz aí com a parceria e a evolução hoje do que vocês e o G4 estão fazendo, que a gente está podendo ajudar vocês aí também nessa nova revolução. Cara, acho que um contexto que algumas pessoas podem não ter, né? Pô, vamos falar de AI, por que que a Microsoft é quem está aqui? E muita gente não sabe ainda que a Open AI, que é quem a gente mais vê falando de AI hoje, chat EPT, essas coisas, ela foi investida pela Microsoft, toda a infraestrutura por trás, né? Para fazer as APIs funcionarem, o próprio chat EPT, ela é powered by Microsoft. Agora o G4, o nosso tutor AI, é powered by Microsoft via o Azure Cognitive Services. Acho que talvez o primeiro ponto seja falar um pouco disso, né? O que que é essa AI em específico que a gente está falando, que tem AI de tudo que é tipo, a gente está falando aqui da generativa, e por que que a Microsoft avançou para isso? Como que a Microsoft está olhando para esse meio hoje? Legal. A gente está investindo bastante, né? Isso é bem claro. A gente está olhando de diversas formas, por exemplo, você mencionou a infraestrutura, certo? Que a própria Open AI, ela está utilizando, né? O Satya Nadella, né? Que é o nosso presidente, ele se demonstrou que ele fez muitos acertos ao longo dos últimos anos, assim, né? Por exemplo, a gente fez compras muito relevantes, né? LinkedIn, o GitHub, certo? E aí, do LinkedIn veio o nosso CTO atual, né? Que é o Kevin Scott. E a gente fez a compra do GitHub, né? Que serviu como base, por exemplo, de treinamento do modelo Codex, do Open AI, né? Que ele é um modelo, para quem não conhece muito, é um tipo de modelo GPT, tá? Que é mais focado em código fonte, né? Geração de produtividade para desenvolvedores, por exemplo, certo? Então, essa sequência de compras, né? Ela culminou com o investimento na Open AI, certo? Então, o que eu acredito que foi muito importante ali para essa parceria ter dado certo, né? É claro, né? O investimento ali que a gente fez, né? Em financeiro, certo? Mas também a gente desenvolveu data centers específicos, né? Para processar a inteligência artificial. Então, é cluster de AI mesmo, né? E essa base de investimento somado com a questão de infraestrutura que a gente está fornecendo, né? A gente se tornou um bom parceiro para a Open AI, que é, de fato, as pessoas lá dentro que criam esses modelos GPT, né? Que desenvolvem os modelos, que treinam os modelos, né? Então, eles que são as principais cabeças por trás desse modelo que a gente tem hoje, né? E essa parceria tem sido muito rica para a Microsoft, porque como vocês também estão vendo, né? A gente está embutindo Open AI nos nossos produtos. No 365, no Dynamics, etc e tal, né? Desses tipos de produtos. Justamente com essa ideia de copiloto, que é uma coisa bem alinhada com o Tutor AI, com o G4 AI, né? Que é criar tutores, por exemplo, né? Criar meios de você utilizar esse modelo para poder ajudar na produtividade ou alguma outra tarefa que o ser humano precise, né? Isso é uma coisa legal e aí eu acho que o Kleber, a gente conversa muito sobre isso. Tem os membros do clube, tem os clientes da Qualyserve que AI não é novidade. Eu falo na palestra quando eu vou explicar sobre... Cara, a foto boa do seu celular não é porque você tem uma baita câmera. É que tem uma AI especializada em otimizar a imagem que você tirou mesmo com sensor pequeno. O que aparece no feed da rede social tem uma AI ali por trás. Só que ele fala, pô, João, então para que está servindo? Porque imagina o tamanho da base de dados que eu tenho de milhares de horas de conteúdo. Estou falando só de curso, só de educação. Se eu fosse pedir uma pessoa para ficar procurando, para organizar, para não sei o quê, para deixar disponível, para depois ainda raciocinar de como aplicar, cara, eu ia perder muito tempo. A gente fez um teste, né? Quando a gente lançou no primeiro dia do Tutor AI que a gente liberou para todo mundo, a gente teve 1.200 pessoas usando. E se a gente pega o número de tokens...\n\ne os caracteres lá, a resposta, não sei o quê, e transforma, traduzindo para a velocidade que uma pessoa fala, foram 940 horas de mentoria para 1.200 pessoas em 24 horas. Assim, dava para ter pessoas fazendo? Dava, mas a que custo? 940 horas de mentoria para 1.200 pessoas? Eu ia ter que literalmente ter alguma coisa perto de 900 mentores conversando com essas 1.200 pessoas ao longo de um dia, 24 horas. Duas da manhã tinha gente falando com o negócio. Esse que é o ganho, porque se você tentasse replicar esse mesmo acesso à base de informação, então quer dizer que eu vou ter que pegar os dados? Qual que é o valor? É isso, como que você disponibiliza, deixa mais fácil, e aí entra as combinações. Porque uma das coisas que é muito legal é falar, putz, como é que eu pego esse conhecimento específico e uso ele em cima de uma base mais generalista para gerar não um novo conhecimento per si, mas uma nova forma de combinar isso, que é uma outra coisa que é muito legal. E é difícil de pensar, é difícil das empresas entenderem isso e é mais difícil ainda das empresas terem os dados para poder fazer isso. Então é difícil. E só um ponto, eu acho que essa condição vem muito lá da base, que é a estrutura da cultura Data Driven das empresas. Nós passamos isso com o ambiente de criação de Power BI, todo mundo, pô, queria dashboard, queria estrutura, mas o dado ali por si só, se ele não estiver íntegro, não estiver apresentando a realidade da empresa, ele vira um dado e principalmente se você não tomar alguma atitude perante aquele dado, vira um nada. Então eu acho que essa construção da cultura Data Driven das empresas e bem feitas, a gente está vendo que hoje estão colhendo bons frutos. Então eu acho que essa base aí dentro dessa evolução, porque é uma jornada, não adianta querer pegar atalho. Pegou atalho, a gente não consegue ter sucesso dentro da jornada. Mas aí, trazendo aqui para vocês nisso, vamos lá, a maioria das empresas não tem uma boa base de conhecimento para fazer o que a gente está fazendo no G4. Mas ainda assim, os modelos são úteis para elas. Como que vocês imaginam que pode ser os primeiros passos, além de começa então agora a fazer o dever de casa de daqui para frente pelo menos você ter uma boa base de dados, mas mesmo não tendo, o que eu posso usar? O Codex, por exemplo, é um que você tem em dev, você não precisa ter uma puta base de códigos ali. Cara, ele já tem, porque ele foi treinado na base, e código, bem ou mal, código é código, a função que chama alguma coisa vai ser igual em qualquer programa que você for escrever. O Codex é um, dá para usar, seja via o copilote, seja direto no chat EPT, já dá para você ter o acesso ali para isso. Quais outras coisas vocês enxergam de first steps que dá para qualquer um começar? Eu acredito que inteligência artificial vai ser um catalisador da cultura data-driven no final das contas, entendeu? Porque como agora com o OpenAI, por exemplo, a gente consegue interpretar dados também num determinado framework, utilizar o OpenAI como copiloto para produtividade, só que vocês estão percebendo aí em casa que você precisa ter os dados, que é isso que o Kleber está falando, de uma forma estruturada. E agora é um pouco até diferente do formato que a gente vinha fazendo para BI, etc. e tal. Agora é você estruturar o dado, estruturar essa informação para inteligência artificial conseguir processar melhor esses dados, certo? Então é até um novo jeito, um jeito diferente um pouco de fazer, mas eu entendo que vai ser um catalisador. Por quê? Porque vai valer muito a pena agora estruturar esses dados e criar a documentação sobre as coisas, certo? Criar texto que explica bem como é que as coisas têm que ser feitas. Porque se você criar um bom texto, uma boa documentação de como é que você faz determinada coisa, ou você estrutura melhor o seu dado com uma boa qualidade, a inteligência artificial vai plugar muito mais facilmente nessa informação e aí você vai conseguir ser cada vez mais data-driven. Por isso que eu acredito que as empresas agora vão enxergar esse valor nessa facilidade e vai ter uma tendência de ter um desenvolvimento muito maior em relação a essas coisas. Então, emprego de desenvolvedor ainda está garantido do que eu estou vendo, porque ainda... Porque ainda o pessoal vai ter que estruturar essa informação, entendeu? Aliás, isso foi uma sacada bem legal. Eu mandei lá para vocês como a gente montou o tutorial. Uma das etapas é, eu não simplesmente transcrevi minha aula e coloquei, pega a transcrição. A gente pegou aquele material e formatou, usou aquele processo lá de reforço por feedback humano, tem integrado lá cada vez que alguém dá um joinha ou não. Isso já vai gerando insight para a gente atualizar nossas bases. Mas o primeiro desafio que eu tive com o time, que eu falei, galera, a gente precisa resumir a aula na informação mais relevante, porque na aula tem muita coisa ali que não é tão relevante. Para uma aula é bom, para AI é irrelevante. Aí quando eles estavam fazendo a primeira vez e validando, eles estavam fazendo para outro humano ler. Aí o primeiro trabalho foi, não, calma, você não está fazendo isso para outro humano, você está fazendo isso para uma AI. Então, por exemplo, ficar contando historinha para AI é ruim. Você está colocando informação inútil que vai poluir o output. Você tem que deixar mais direto. E é uma mudança de paradigma. Eu estava, por exemplo, com uma boa prática de código, que eu nem sei se é boa prática, mas eu sei que o meu time aqui adora fazer isso. Você pega o código que está todo compartimentalizado, são 50 arquivos ao invés de ter um arquivo único gigante fazendo referência. Para AI isso é uma porcaria. Para ela é melhor menos diferentes files, que ela consegue ler tudo integrado, que várias coisas separadas. Então, é uma mudança de paradigma complexa nisso. Não é só salvar informação, é salvar informação de um jeito que a inteligência artificial consiga entender ela de maneira otimizada para depois a AI te ajudar a fazer mais coisas melhor. E aí eu acho que talvez essa é mais para o Kleber. O que você tem visto as empresas fazerem? E dois, você pudesse falar além do... Não, comece a organizar e tal. Por onde eu talvez tenha alguma dica para iniciar? Que é um pouquinho assustador quase, cara. É um puta desafio. Nossa, dentro desses últimos principalmente três anos, a gente já nasceu com uma cultura data-driven, até porque nós temos isso dentro do nosso DNA internamente lá como empresa mesmo. A gente se absorve muito de dados e de indicadores. Mas o que a gente procura construir com os clientes e junto com a Microsoft é uma construção de uma arquitetura inicial bem feita. Porque se eu tenho uma arquitetura bem feita, o aprendizado de máquina ou o aprendizado das próprias pessoas dentro de todo o ambiente corporativo vai ser muito mais fácil, muito mais rápido e muito mais adaptativo. E você vai tornar o seu time muito mais produtivo. Quando você tem dispersão de dados, quando você tem isso descontrolado ou basicamente você não tem estrutura de governança ou isso está pulverizado em vários cílios que a gente fala das empresas, a gente não consegue construir uma cultura de dados forte. Então esse é o primeiro ponto. Então o primeiro passo, arquitetura bem feita. Não só a tecnologia, mas a criação realmente hoje de processos e estruturas que dê essa sustentabilidade para a evolução. E principalmente olhando hoje já IA nessa condição do aprendizado, de como se tornar isso também, esse aprendizado dela mais fácil, porque você vai ter possibilidades. Segundo, hoje eu acho que o poder da cloud computing, da nuvem, das features que a gente tem à disposição para a gente poder organizar tudo isso através dos serviços que a própria Microsoft possui para poder fazer essa gestão, essa governança de dados e essa estrutura de dados de uma maneira que isso esteja na maneira que foi arquitetada, mas principalmente que ela tenha uma tecnologia que vai dar condições, escalabilidade, não vai ficar lento na hora que você precisar, na hora que você precisar criar uma adoção de serviço cognitivo, de identificação, você vai poder utilizar. E isso, obviamente, hoje Microsoft, a gente consegue, vamos dizer assim, estar um passo à frente pela condição também da integração. Porque hoje não adianta os dados estarem nesses cílios que eu coloquei para vocês e não terem esse poder de integração. Então, arquitetura, uma boa tecnologia que dê escalabilidade, esse poder da integração, acho que faz a diferença para a gente poder ter um sucesso nessa nossa jornada de evolução com a IA. Legal, cara. Um ponto que você comentou que foi curioso, foi, por enquanto, o emprego do programador está salvo. Aí eu estava conversando com o Kleber antes, sobre o Power BI agora com copilots, você literalmente consegue chegar e perguntar, monta esse dashboard para mim. Então, aquela função do analista de BI de ficar montando o dashboard é uma coisa que, daqui a pouco, não tem porquê. Esse cara não vai ficar montando o dashboard, ele vai analisar o dashboard para poder montar um plano de ação no mundo real com aquilo depois. E aí, acho que essa talvez seja uma das grandes preocupações, quase toda grande tecnologia gerou isso, que é, mas e os empregos? Mas a pessoa quer fazer... Eu postei um vídeo no meu Instagram esses dias que foi feito em partes do NAI e tinha lá alguns artistas falando, é muito triste\n\nHoje para poder estar começando. Mas assim, tem que ser dado um start. Por mais embrionário que tenha, começa pequeno. E hoje o poder da nuvem, o poder de consumo, o poder hoje da plataforma, as a service, você consumir isso apenas por um processo de você estar, dar uma assinatura e ter a possibilidade de fazer esse consumo, isso te dá as opções e a oportunidade de errar. E a gente poder aprender. Porque você está aqui, né, João? Acho que melhor do que ninguém aí para poder falar o quanto que você errou, o quanto que você acertou dentro dessa construção. Eu acho que todos nós aí também como empreendedores e empresários, a gente erra e acerta muito. E dentro desse caminho da adoção da nova tecnologia, a gente precisa testar, a gente precisa validar, a gente precisa entender os melhores caminhos, mas eu acho que não é mais o se eu vou ou se eu não vou. É quando eu vou. E aí falando nisso, é uma coisa que eu acho muito legal do que a Microsoft está fazendo, que é facilitar a adoção colocando dentro do fluxo natural de trabalho das pessoas. Então o que é legal, eu não testei ainda o Copilot no Excel, no PowerPoint, quero testar se tiver ali como furar a fila e tal, mas deixa ele abaixo. Como eu falei, eu uso muito no Bing. Cara, no Edge, né, que é Bing AI conectado. Eu não preciso ficar copiando da página que eu estou e colocando no chat APT. Cara, eu literalmente clico ali, abro o painelzinho lateral e eu falo, me tira, considerando que eu sou uma empresa de educação, como é que eu poderia aplicar? Eu já fiz várias perguntas assim, cara, na minha realidade como é que você faria? Ele me dá um start de conversa do que fazer, dá outros sites que falam, outros links que falam de um tema parecido para eu continuar meus estudos. E isso é uma coisa que eu vejo que vocês estão fazendo muito bem na Microsoft, que ficou muito natural e até bizarro pensar que no fim do dia a interface que está funcionando bem é literalmente um chat para perguntar. Ninguém imaginava, né? Ninguém imaginava. Todo mundo achando que era o óculos gigante de realidade. Cara, não, é só um chatzinho ali que você vai lá e pede como você faria no Teams ali ou no WhatsApp. Você pede agora, só que ao invés de ser um ser humano é AI. O que vocês estão vendo de mais legal assim de experiências com o Copilot, que ainda está em preview? Eu não sei, até assim, eu coloquei os nossos convidados talvez nessa e a Jússica que como está em preview tem muita coisa que eles não podem falar, mas do que dá para falar. O que vocês estão vendo de legal para a galera pensar também, falar, tá, ainda não tem o Copilot, daqui a pouco vou ter, mas pelo menos assim, a linha de raciocínio, sabe, de facilitar. Tem uma demonstração do time de produto que eu vi, né? Isso também é tudo, né? Já está todo mundo já bem público, né? Esse tipo de informação. Eu fiz, eu vi uma demonstração do time de produto que era bem legal assim, porque a gente estava no Teams, certo? Fazendo a reunião e aí eles estavam apresentando o Copilot, certo? Do 365, que daí, para quem não sabe ainda, o Copilot do 365 ele vai ser o OpenAI, né? Basicamente, né? O chat ali, né? Chat de PT conectado no Word, no Excel, no PowerPoint e assim por diante, tá? E aí no Teams é também um produto do 365, ele também funciona dessa forma. Aí galera, olhem que coisa interessante. Todo o áudio que está sendo falado na reunião, você consegue pegar o áudio e transcrever para texto. Então, todo o áudio que está sendo falado estava sendo transcrito para texto e aí ele abria o copiloto dentro da reunião, por exemplo, e aí ele falava assim, o que que eu falei até o momento nessa reunião, entendeu? E aí, como está sendo transcrito o áudio, o GPT, né, o OpenAI, ele consegue pegar o áudio que foi transcrito até o momento e gerar um resumo em bullet point mesmo, assim, para o usuário, para ele, pessoas que chegaram atrasadas, né? Quais foram os combinados da reunião? Aí está integrado com o Outlook, já manda todos os invites que a gente falou que ia mandar. Exatamente. Qualquer pergunta. E no futuro, a expectativa é que ele inclusive dê sugestões de próximas agendas e que já marque os horários e etc e tal, né? Então, esse é um tipo de exemplo ali, né, integrado no Teams. Outra coisa é o Outlook também, né, que vai ser uma mão na roda, que é o quê, né? Tem a thread de e-mail acontecendo, então o GPT, o OpenAI, ele vai ter todo o contexto do que foi falado de e-mails trocados. Então, você diz assim, me gera um draft, né, de resposta de e-mail para essa thread. E aí, ele já vai gerar para você, né, aquele e-mail. Inclusive, você pode anexar documentos, por exemplo, anexar uma planilha, e aí ele já plota um gráfico que está lá no Excel, por exemplo, no corpo do e-mail, entendeu? Então, como isso vai trazer velocidade na construção do e-mail, que, convenhamos, construir um e-mail desse, de pegar um gráfico no Excel e colocar lá no corpo, demora alguns bons minutos, né, para você escrever um bom e-mail, uns 15, 20 minutos, eventualmente, né? E agora, com o OpenAI, que vai demorar ali em torno de um, talvez agora, finalmente, a reunião vai ser um e-mail, né? E vamos ter ata, né? Vai ter ata, vai ter to-do no final direitinho, ninguém vai esquecer que tinha combinado de fazer tal coisa, isso é maravilhoso. Maravilhoso. Eu acho que um ponto importante é que, assim, eu acho que isso, para nós que somos parceiros aí e acompanhamos, estão com o Microsoft nessa jornada há muito tempo, as criações dos produtos e das ideologias da Microsoft sempre, ela surge de muitas dores. O pacote Office, até pegar uma curiosidade pro pessoal que está nos acompanhando aqui, o Word, ele nasceu de uma Xerox que o Bill Gates tirou, teve uma dor ali que ele queria editar aquele documento antes de enviar e ele falou, pô, tenho que criar. E aí, obviamente, nasceu o famoso Word, né, dentro desse processo. E muito do que está acontecendo agora, eu entendo que também são dores que vêm acontecendo ao longo dessas jornadas de identificação da própria Microsoft, mas com certeza agora é o poder de fazer o mais com menos, né? E todas essas ferramentas que a gente tem e elas resolvem dores. Assim como eu dei o exemplo ali da Xerox que queria fazer essa edição, eu acho que hoje nós temos uma dor do preenchimento do CRM que o VivaSales já está resolvendo hoje da integração e colocando as informações, pegando do e-mail e colocando isso dentro do CRM, do Dynamics, do Salesforce, dentro da estrutura. O próprio Teams Premium que o Alfonso está colocando vai transcrever as reuniões porque a gente tem uma dificuldade como empresa de fazer atas. O pessoal chega atrasado na reunião, tem que voltar, recapitular, identificar dentro desse processo. O processo com o VivaGoals hoje na estrutura de OKRs e o processo da inteligência artificial integralizado hoje com os KPIs e os OKRs dentro dessa estrutura. Ou seja, então, todo esse movimento que a gente percebe realmente é de otimização, mas principalmente integração. Eu acho que aí é o grande ganho que a gente tem também nesse novo momento que a gente está passando com essas ferramentas. Então, eu acho que é um facilitador. Isso que a gente tem que identificar. Eu tenho mais duas perguntas aqui, uma sobre o presente e uma sobre o futuro. A do presente hoje, se vocês fossem falar, cara, as três principais áreas de uma empresa que eu falaria, estuda sobre a área de modo geral, mas tenta ir atrás de exemplo e buscar para a área A, B, C, porque tem muita coisa quick win. Quais seriam na visão de vocês? Vamos começar com essa. Eu acho que marketing hoje tem um ganho exponencial na condição hoje de geração de conteúdo, otimização. A gente estava conversando com o time de produto lá, o quanto que o G4 está se beneficiando na condição de lançamento hoje de novas mentorias ou novos conteúdos e produtos dentro com esse processo. E efetivamente, eu acho que um outro movimento que a gente tem é a escala no processo operacional do dia a dia. Então, os processos repetitivos, o que eu consigo utilizar? Então, desde o financeiro, na possibilidade dele ler o boleto e já inserir direto no sistema através de uma identificação, um processo. Eu acho que esses são grandes ganhos aí, pequenos wins que a gente tem hoje já de otimização, que a gente tem ganho. Mas assim, em vez de ser só o RPA, que é o Robotic Process Automation, ser o IPA. IPA, que a gente estava conversando, que o pessoal, hoje é um novo movimento, porque o Robotic é aquele processo operacional de dia a dia, tudo. E esse novo movimento do IPA, do Intelligence Process Automation, é a condição mesmo de trazer o insight e trazer o seguinte, a partir daquela ação, eu já vou gerar um insight e vou trazer a coisa meio que pronta e falar, ó, a coisa tá aqui, o indicador é esse, o processo, na verdade, já",
+  "word_count": 4556,
+  "chunks_used": 3,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "timestamp": "00:00",
+      "text": "AI não é novidade."
+    },
+    {
+      "start": 2.32,
+      "end": 22.71,
+      "timestamp": "00:02",
+      "text": "A foto boa do seu celular não é porque você tem uma baita câmera, é que tem uma AI especializada em otimizar a imagem que você tirou mesmo com sensor pequeno."
+    },
+    {
+      "start": 22.71,
+      "end": 30.59,
+      "timestamp": "00:22",
+      "text": "O que aparece no feed da rede social tem uma AI ali por trás."
+    },
+    {
+      "start": 30.59,
+      "end": 32.14,
+      "timestamp": "00:30",
+      "text": "O que mudou?"
+    },
+    {
+      "start": 32.14,
+      "end": 57.43,
+      "timestamp": "00:32",
+      "text": "Ali em novembro nasceu um negocinho chamado ChatGPT, que falou, olha, agora você pode conversar com uma entidade super inteligente aqui do outro lado, que entre aspas sabe de tudo o tempo inteiro."
+    },
+    {
+      "start": 57.43,
+      "end": 71.24,
+      "timestamp": "00:57",
+      "text": "Isso mudou muito a forma como as pessoas enxergam a adoção de AI e o uso no dia a dia para a produtividade."
+    },
+    {
+      "start": 71.24,
+      "end": 88.92,
+      "timestamp": "01:11",
+      "text": "A AI hoje, o grande benefício é o que você está trazendo hoje dentro do G4 e eu acho que é a condição de otimizar e fazer mais com menos."
+    },
+    {
+      "start": 88.92,
+      "end": 112.15,
+      "timestamp": "01:28",
+      "text": "Agora, o desconforto para os profissionais e realmente gerar essa zona cinzenta e nesse momento até se acomodar, aprender e realmente a gente vai precisar entrar numa nova mindset."
+    },
+    {
+      "start": 112.15,
+      "end": 114.86,
+      "timestamp": "01:52",
+      "text": "E é o mindset do que?"
+    },
+    {
+      "start": 114.86,
+      "end": 127.64,
+      "timestamp": "01:54",
+      "text": "Da curiosidade, saber perguntar, saber de como que a gente faz as questões certas no momento certo."
+    },
+    {
+      "start": 127.64,
+      "end": 134.48,
+      "timestamp": "02:07",
+      "text": "Pessoal que está em casa, segue essa dica, por favor."
+    },
+    {
+      "start": 134.48,
+      "end": 143.38,
+      "timestamp": "02:14",
+      "text": "Estudem a respeito de inteligência artificial e como que utiliza ela."
+    },
+    {
+      "start": 143.38,
+      "end": 146.48,
+      "timestamp": "02:23",
+      "text": "Esse é o primeiro passo."
+    },
+    {
+      "start": 146.48,
+      "end": 161.06,
+      "timestamp": "02:26",
+      "text": "E os empreendedores que estão ouvindo também, não gastem cabeça com a pergunta se eu vou utilizar no meu produto."
+    },
+    {
+      "start": 161.06,
+      "end": 168.68,
+      "timestamp": "02:41",
+      "text": "Gastem esforço de como eu vou utilizar isso no meu produto."
+    },
+    {
+      "start": 168.68,
+      "end": 178.36,
+      "timestamp": "02:48",
+      "text": "Seja muito bem-vindo, muito bem-vinda a mais um episódio do Papo de Gestão."
+    },
+    {
+      "start": 178.36,
+      "end": 190.1,
+      "timestamp": "02:58",
+      "text": "E sim, não é o Tales Gomes aqui, sou eu, João Vitor, um dos sócios CEO aqui do G4 Educação."
+    },
+    {
+      "start": 190.1,
+      "end": 206.88,
+      "timestamp": "03:10",
+      "text": "E esse é um papo muito especial de um dos assuntos que eu mais tenho me dedicado ultimamente, que o G4 tem investido muito também."
+    },
+    {
+      "start": 206.88,
+      "end": 243.79,
+      "timestamp": "03:26",
+      "text": "Que a gente trouxe aqui dois representantes de uma grande parceira nossa, que é a Microsoft, para falar sobre AI, inteligência artificial e como que a gente pode usar ela no nosso dia a dia para ganhar mais produtividade enquanto empreendedor, enquanto gestor, enquanto um profissional."
+    },
+    {
+      "start": 243.79,
+      "end": 254.5,
+      "timestamp": "04:03",
+      "text": "Então não é um papo técnico de AI, mas sim como que você usa isso no seu dia a dia."
+    },
+    {
+      "start": 254.5,
+      "end": 274.38,
+      "timestamp": "04:14",
+      "text": "E para compartilhar com a gente, a gente tem o Afonso, que é arquiteto de soluções da Microsoft, e o Kleber, que é o CEO da Qualyserve, membro do G4 Club."
+    },
+    {
+      "start": 274.38,
+      "end": 294.9,
+      "timestamp": "04:34",
+      "text": "Os dois são grandes parceiros nossos que têm ajudado o G4 a desenvolver as soluções que a gente tem usado, como o Tutor AI, o G4 AI, as soluções internas aqui."
+    },
+    {
+      "start": 294.9,
+      "end": 307.93,
+      "timestamp": "04:54",
+      "text": "Então sejam muito bem-vindos, apresentem-se também para quem não conhece vocês e bora para esse papo."
+    },
+    {
+      "start": 307.93,
+      "end": 321.87,
+      "timestamp": "05:07",
+      "text": "Legal, obrigado João pela introdução, é o maior prazer estar aqui, obrigado pelo convite da G4, seu convite."
+    },
+    {
+      "start": 321.87,
+      "end": 339.68,
+      "timestamp": "05:21",
+      "text": "Prazer aqui também estar com o Kleber, que é parceiraço aí Microsoft, e espero aí que o pessoal aí de casa goste bastante do papo de hoje."
+    },
+    {
+      "start": 339.68,
+      "end": 362.01,
+      "timestamp": "05:39",
+      "text": "Bom, agradecer ao Afonso aí, porque o homem da inteligência artificial hoje da Microsoft no Brasil, te trazer ele aqui para o nosso papo, eu acho que é muito legal, né João?"
+    },
+    {
+      "start": 362.01,
+      "end": 385.24,
+      "timestamp": "06:02",
+      "text": "E obrigado aí pelo convite, muito feliz aí com a parceria e a evolução hoje do que vocês e o G4 estão fazendo, que a gente está podendo ajudar vocês aí também nessa nova revolução."
+    },
+    {
+      "start": 385.24,
+      "end": 393.63,
+      "timestamp": "06:25",
+      "text": "Cara, acho que um contexto que algumas pessoas podem não ter, né?"
+    },
+    {
+      "start": 393.63,
+      "end": 401.89,
+      "timestamp": "06:33",
+      "text": "Pô, vamos falar de AI, por que que a Microsoft é quem está aqui?"
+    },
+    {
+      "start": 401.89,
+      "end": 425.63,
+      "timestamp": "06:41",
+      "text": "E muita gente não sabe ainda que a Open AI, que é quem a gente mais vê falando de AI hoje, chat EPT, essas coisas, ela foi investida pela Microsoft, toda a infraestrutura por trás, né?"
+    },
+    {
+      "start": 425.63,
+      "end": 435.83,
+      "timestamp": "07:05",
+      "text": "Para fazer as APIs funcionarem, o próprio chat EPT, ela é powered by Microsoft."
+    },
+    {
+      "start": 435.83,
+      "end": 446.67,
+      "timestamp": "07:15",
+      "text": "Agora o G4, o nosso tutor AI, é powered by Microsoft via o Azure Cognitive Services."
+    },
+    {
+      "start": 446.67,
+      "end": 454.8,
+      "timestamp": "07:26",
+      "text": "Acho que talvez o primeiro ponto seja falar um pouco disso, né?"
+    },
+    {
+      "start": 454.8,
+      "end": 477.52,
+      "timestamp": "07:34",
+      "text": "O que que é essa AI em específico que a gente está falando, que tem AI de tudo que é tipo, a gente está falando aqui da generativa, e por que que a Microsoft avançou para isso?"
+    },
+    {
+      "start": 477.52,
+      "end": 484.48,
+      "timestamp": "07:57",
+      "text": "Como que a Microsoft está olhando para esse meio hoje?"
+    },
+    {
+      "start": 484.48,
+      "end": 485.26,
+      "timestamp": "08:04",
+      "text": "Legal."
+    },
+    {
+      "start": 485.26,
+      "end": 490.03,
+      "timestamp": "08:05",
+      "text": "A gente está investindo bastante, né?"
+    },
+    {
+      "start": 490.03,
+      "end": 492.23,
+      "timestamp": "08:10",
+      "text": "Isso é bem claro."
+    },
+    {
+      "start": 492.23,
+      "end": 504.23,
+      "timestamp": "08:12",
+      "text": "A gente está olhando de diversas formas, por exemplo, você mencionou a infraestrutura, certo?"
+    },
+    {
+      "start": 504.23,
+      "end": 510.3,
+      "timestamp": "08:24",
+      "text": "Que a própria Open AI, ela está utilizando, né?"
+    },
+    {
+      "start": 510.3,
+      "end": 512.88,
+      "timestamp": "08:30",
+      "text": "O Satya Nadella, né?"
+    },
+    {
+      "start": 512.88,
+      "end": 526.82,
+      "timestamp": "08:32",
+      "text": "Que é o nosso presidente, ele se demonstrou que ele fez muitos acertos ao longo dos últimos anos, assim, né?"
+    },
+    {
+      "start": 526.82,
+      "end": 533.79,
+      "timestamp": "08:46",
+      "text": "Por exemplo, a gente fez compras muito relevantes, né?"
+    },
+    {
+      "start": 533.79,
+      "end": 537.14,
+      "timestamp": "08:53",
+      "text": "LinkedIn, o GitHub, certo?"
+    },
+    {
+      "start": 537.14,
+      "end": 542.95,
+      "timestamp": "08:57",
+      "text": "E aí, do LinkedIn veio o nosso CTO atual, né?"
+    },
+    {
+      "start": 542.95,
+      "end": 545.53,
+      "timestamp": "09:02",
+      "text": "Que é o Kevin Scott."
+    },
+    {
+      "start": 545.53,
+      "end": 550.3,
+      "timestamp": "09:05",
+      "text": "E a gente fez a compra do GitHub, né?"
+    },
+    {
+      "start": 550.3,
+      "end": 560.89,
+      "timestamp": "09:10",
+      "text": "Que serviu como base, por exemplo, de treinamento do modelo Codex, do Open AI, né?"
+    },
+    {
+      "start": 560.89,
+      "end": 570.95,
+      "timestamp": "09:20",
+      "text": "Que ele é um modelo, para quem não conhece muito, é um tipo de modelo GPT, tá?"
+    },
+    {
+      "start": 570.95,
+      "end": 575.86,
+      "timestamp": "09:30",
+      "text": "Que é mais focado em código fonte, né?"
+    },
+    {
+      "start": 575.86,
+      "end": 584.38,
+      "timestamp": "09:35",
+      "text": "Geração de produtividade para desenvolvedores, por exemplo, certo?"
+    },
+    {
+      "start": 584.38,
+      "end": 589.15,
+      "timestamp": "09:44",
+      "text": "Então, essa sequência de compras, né?"
+    },
+    {
+      "start": 589.15,
+      "end": 595.6,
+      "timestamp": "09:49",
+      "text": "Ela culminou com o investimento na Open AI, certo?"
+    },
+    {
+      "start": 595.6,
+      "end": 607.48,
+      "timestamp": "09:55",
+      "text": "Então, o que eu acredito que foi muito importante ali para essa parceria ter dado certo, né?"
+    },
+    {
+      "start": 607.48,
+      "end": 609.03,
+      "timestamp": "10:07",
+      "text": "É claro, né?"
+    },
+    {
+      "start": 609.03,
+      "end": 614.06,
+      "timestamp": "10:09",
+      "text": "O investimento ali que a gente fez, né?"
+    },
+    {
+      "start": 614.06,
+      "end": 616.77,
+      "timestamp": "10:14",
+      "text": "Em financeiro, certo?"
+    },
+    {
+      "start": 616.77,
+      "end": 624.51,
+      "timestamp": "10:16",
+      "text": "Mas também a gente desenvolveu data centers específicos, né?"
+    },
+    {
+      "start": 624.51,
+      "end": 629.8,
+      "timestamp": "10:24",
+      "text": "Para processar a inteligência artificial."
+    },
+    {
+      "start": 629.8,
+      "end": 634.06,
+      "timestamp": "10:29",
+      "text": "Então, é cluster de AI mesmo, né?"
+    },
+    {
+      "start": 634.06,
+      "end": 646.84,
+      "timestamp": "10:34",
+      "text": "E essa base de investimento somado com a questão de infraestrutura que a gente está fornecendo, né?"
+    },
+    {
+      "start": 646.84,
+      "end": 662.2,
+      "timestamp": "10:46",
+      "text": "A gente se tornou um bom parceiro para a Open AI, que é, de fato, as pessoas lá dentro que criam esses modelos GPT, né?"
+    },
+    {
+      "start": 662.2,
+      "end": 669.3,
+      "timestamp": "11:02",
+      "text": "Que desenvolvem os modelos, que treinam os modelos, né?"
+    },
+    {
+      "start": 669.3,
+      "end": 680.78,
+      "timestamp": "11:09",
+      "text": "Então, eles que são as principais cabeças por trás desse modelo que a gente tem hoje, né?"
+    },
+    {
+      "start": 680.78,
+      "end": 693.04,
+      "timestamp": "11:20",
+      "text": "E essa parceria tem sido muito rica para a Microsoft, porque como vocês também estão vendo, né?"
+    },
+    {
+      "start": 693.04,
+      "end": 699.63,
+      "timestamp": "11:33",
+      "text": "A gente está embutindo Open AI nos nossos produtos."
+    },
+    {
+      "start": 699.63,
+      "end": 704.14,
+      "timestamp": "11:39",
+      "text": "No 365, no Dynamics, etc e tal, né?"
+    },
+    {
+      "start": 704.14,
+      "end": 707.37,
+      "timestamp": "11:44",
+      "text": "Desses tipos de produtos."
+    },
+    {
+      "start": 707.37,
+      "end": 720.27,
+      "timestamp": "11:47",
+      "text": "Justamente com essa ideia de copiloto, que é uma coisa bem alinhada com o Tutor AI, com o G4 AI, né?"
+    },
+    {
+      "start": 720.27,
+      "end": 725.05,
+      "timestamp": "12:00",
+      "text": "Que é criar tutores, por exemplo, né?"
+    },
+    {
+      "start": 725.05,
+      "end": 741.57,
+      "timestamp": "12:05",
+      "text": "Criar meios de você utilizar esse modelo para poder ajudar na produtividade ou alguma outra tarefa que o ser humano precise, né?"
+    },
+    {
+      "start": 741.57,
+      "end": 752.41,
+      "timestamp": "12:21",
+      "text": "Isso é uma coisa legal e aí eu acho que o Kleber, a gente conversa muito sobre isso."
+    },
+    {
+      "start": 752.41,
+      "end": 762.35,
+      "timestamp": "12:32",
+      "text": "Tem os membros do clube, tem os clientes da Qualyserve que AI não é novidade."
+    },
+    {
+      "start": 762.35,
+      "end": 768.93,
+      "timestamp": "12:42",
+      "text": "Eu falo na palestra quando eu vou explicar sobre..."
+    },
+    {
+      "start": 768.93,
+      "end": 778.09,
+      "timestamp": "12:48",
+      "text": "Cara, a foto boa do seu celular não é porque você tem uma baita câmera."
+    },
+    {
+      "start": 778.09,
+      "end": 789.97,
+      "timestamp": "12:58",
+      "text": "É que tem uma AI especializada em otimizar a imagem que você tirou mesmo com sensor pequeno."
+    },
+    {
+      "start": 789.97,
+      "end": 797.84,
+      "timestamp": "13:09",
+      "text": "O que aparece no feed da rede social tem uma AI ali por trás."
+    },
+    {
+      "start": 797.84,
+      "end": 805.07,
+      "timestamp": "13:17",
+      "text": "Só que ele fala, pô, João, então para que está servindo?"
+    },
+    {
+      "start": 805.07,
+      "end": 816.42,
+      "timestamp": "13:25",
+      "text": "Porque imagina o tamanho da base de dados que eu tenho de milhares de horas de conteúdo."
+    },
+    {
+      "start": 816.42,
+      "end": 821.84,
+      "timestamp": "13:36",
+      "text": "Estou falando só de curso, só de educação."
+    },
+    {
+      "start": 821.84,
+      "end": 846.24,
+      "timestamp": "13:41",
+      "text": "Se eu fosse pedir uma pessoa para ficar procurando, para organizar, para não sei o quê, para deixar disponível, para depois ainda raciocinar de como aplicar, cara, eu ia perder muito tempo."
+    },
+    {
+      "start": 846.24,
+      "end": 849.46,
+      "timestamp": "14:06",
+      "text": "A gente fez um teste, né?"
+    },
+    {
+      "start": 849.46,
+      "end": 865.08,
+      "timestamp": "14:09",
+      "text": "Quando a gente lançou no primeiro dia do Tutor AI que a gente liberou para todo mundo, a gente teve 1.200 pessoas usando."
+    },
+    {
+      "start": 865.08,
+      "end": 870.11,
+      "timestamp": "14:25",
+      "text": "E se a gente pega o número de tokens..."
+    },
+    {
+      "start": 870.11,
+      "end": 892.05,
+      "timestamp": "14:30",
+      "text": "e os caracteres lá, a resposta, não sei o quê, e transforma, traduzindo para a velocidade que uma pessoa fala, foram 940 horas de mentoria para 1.200 pessoas em 24 horas."
+    },
+    {
+      "start": 892.05,
+      "end": 896.83,
+      "timestamp": "14:52",
+      "text": "Assim, dava para ter pessoas fazendo?"
+    },
+    {
+      "start": 896.83,
+      "end": 899.67,
+      "timestamp": "14:56",
+      "text": "Dava, mas a que custo?"
+    },
+    {
+      "start": 899.67,
+      "end": 904.96,
+      "timestamp": "14:59",
+      "text": "940 horas de mentoria para 1.200 pessoas?"
+    },
+    {
+      "start": 904.96,
+      "end": 921.86,
+      "timestamp": "15:04",
+      "text": "Eu ia ter que literalmente ter alguma coisa perto de 900 mentores conversando com essas 1.200 pessoas ao longo de um dia, 24 horas."
+    },
+    {
+      "start": 921.86,
+      "end": 928.06,
+      "timestamp": "15:21",
+      "text": "Duas da manhã tinha gente falando com o negócio."
+    },
+    {
+      "start": 928.06,
+      "end": 946.64,
+      "timestamp": "15:28",
+      "text": "Esse que é o ganho, porque se você tentasse replicar esse mesmo acesso à base de informação, então quer dizer que eu vou ter que pegar os dados?"
+    },
+    {
+      "start": 946.64,
+      "end": 949.09,
+      "timestamp": "15:46",
+      "text": "Qual que é o valor?"
+    },
+    {
+      "start": 949.09,
+      "end": 959.55,
+      "timestamp": "15:49",
+      "text": "É isso, como que você disponibiliza, deixa mais fácil, e aí entra as combinações."
+    },
+    {
+      "start": 959.55,
+      "end": 994.52,
+      "timestamp": "15:59",
+      "text": "Porque uma das coisas que é muito legal é falar, putz, como é que eu pego esse conhecimento específico e uso ele em cima de uma base mais generalista para gerar não um novo conhecimento per si, mas uma nova forma de combinar isso, que é uma outra coisa que é muito legal."
+    },
+    {
+      "start": 994.52,
+      "end": 1011.95,
+      "timestamp": "16:34",
+      "text": "E é difícil de pensar, é difícil das empresas entenderem isso e é mais difícil ainda das empresas terem os dados para poder fazer isso."
+    },
+    {
+      "start": 1011.95,
+      "end": 1014.01,
+      "timestamp": "16:51",
+      "text": "Então é difícil."
+    },
+    {
+      "start": 1014.01,
+      "end": 1029.11,
+      "timestamp": "16:54",
+      "text": "E só um ponto, eu acho que essa condição vem muito lá da base, que é a estrutura da cultura Data Driven das empresas."
+    },
+    {
+      "start": 1029.11,
+      "end": 1069.51,
+      "timestamp": "17:09",
+      "text": "Nós passamos isso com o ambiente de criação de Power BI, todo mundo, pô, queria dashboard, queria estrutura, mas o dado ali por si só, se ele não estiver íntegro, não estiver apresentando a realidade da empresa, ele vira um dado e principalmente se você não tomar alguma atitude perante aquele dado, vira um nada."
+    },
+    {
+      "start": 1069.51,
+      "end": 1087.45,
+      "timestamp": "17:49",
+      "text": "Então eu acho que essa construção da cultura Data Driven das empresas e bem feitas, a gente está vendo que hoje estão colhendo bons frutos."
+    },
+    {
+      "start": 1087.45,
+      "end": 1101.38,
+      "timestamp": "18:07",
+      "text": "Então eu acho que essa base aí dentro dessa evolução, porque é uma jornada, não adianta querer pegar atalho."
+    },
+    {
+      "start": 1101.38,
+      "end": 1109.77,
+      "timestamp": "18:21",
+      "text": "Pegou atalho, a gente não consegue ter sucesso dentro da jornada."
+    },
+    {
+      "start": 1109.77,
+      "end": 1129.65,
+      "timestamp": "18:29",
+      "text": "Mas aí, trazendo aqui para vocês nisso, vamos lá, a maioria das empresas não tem uma boa base de conhecimento para fazer o que a gente está fazendo no G4."
+    },
+    {
+      "start": 1129.65,
+      "end": 1135.84,
+      "timestamp": "18:49",
+      "text": "Mas ainda assim, os modelos são úteis para elas."
+    },
+    {
+      "start": 1135.84,
+      "end": 1163.46,
+      "timestamp": "18:55",
+      "text": "Como que vocês imaginam que pode ser os primeiros passos, além de começa então agora a fazer o dever de casa de daqui para frente pelo menos você ter uma boa base de dados, mas mesmo não tendo, o que eu posso usar?"
+    },
+    {
+      "start": 1163.46,
+      "end": 1176.11,
+      "timestamp": "19:23",
+      "text": "O Codex, por exemplo, é um que você tem em dev, você não precisa ter uma puta base de códigos ali."
+    },
+    {
+      "start": 1176.11,
+      "end": 1199.21,
+      "timestamp": "19:36",
+      "text": "Cara, ele já tem, porque ele foi treinado na base, e código, bem ou mal, código é código, a função que chama alguma coisa vai ser igual em qualquer programa que você for escrever."
+    },
+    {
+      "start": 1199.21,
+      "end": 1214.31,
+      "timestamp": "19:59",
+      "text": "O Codex é um, dá para usar, seja via o copilote, seja direto no chat EPT, já dá para você ter o acesso ali para isso."
+    },
+    {
+      "start": 1214.31,
+      "end": 1224.89,
+      "timestamp": "20:14",
+      "text": "Quais outras coisas vocês enxergam de first steps que dá para qualquer um começar?"
+    },
+    {
+      "start": 1224.89,
+      "end": 1239.86,
+      "timestamp": "20:24",
+      "text": "Eu acredito que inteligência artificial vai ser um catalisador da cultura data-driven no final das contas, entendeu?"
+    },
+    {
+      "start": 1239.86,
+      "end": 1278.71,
+      "timestamp": "20:39",
+      "text": "Porque como agora com o OpenAI, por exemplo, a gente consegue interpretar dados também num determinado framework, utilizar o OpenAI como copiloto para produtividade, só que vocês estão percebendo aí em casa que você precisa ter os dados, que é isso que o Kleber está falando, de uma forma estruturada."
+    },
+    {
+      "start": 1278.71,
+      "end": 1289.42,
+      "timestamp": "21:18",
+      "text": "E agora é um pouco até diferente do formato que a gente vinha fazendo para BI, etc."
+    },
+    {
+      "start": 1289.42,
+      "end": 1290.2,
+      "timestamp": "21:29",
+      "text": "e tal."
+    },
+    {
+      "start": 1290.2,
+      "end": 1307.49,
+      "timestamp": "21:30",
+      "text": "Agora é você estruturar o dado, estruturar essa informação para inteligência artificial conseguir processar melhor esses dados, certo?"
+    },
+    {
+      "start": 1307.49,
+      "end": 1321.3,
+      "timestamp": "21:47",
+      "text": "Então é até um novo jeito, um jeito diferente um pouco de fazer, mas eu entendo que vai ser um catalisador."
+    },
+    {
+      "start": 1321.3,
+      "end": 1322.33,
+      "timestamp": "22:01",
+      "text": "Por quê?"
+    },
+    {
+      "start": 1322.33,
+      "end": 1335.88,
+      "timestamp": "22:02",
+      "text": "Porque vai valer muito a pena agora estruturar esses dados e criar a documentação sobre as coisas, certo?"
+    },
+    {
+      "start": 1335.88,
+      "end": 1344.66,
+      "timestamp": "22:15",
+      "text": "Criar texto que explica bem como é que as coisas têm que ser feitas."
+    },
+    {
+      "start": 1344.66,
+      "end": 1381.7,
+      "timestamp": "22:24",
+      "text": "Porque se você criar um bom texto, uma boa documentação de como é que você faz determinada coisa, ou você estrutura melhor o seu dado com uma boa qualidade, a inteligência artificial vai plugar muito mais facilmente nessa informação e aí você vai conseguir ser cada vez mais data-driven."
+    },
+    {
+      "start": 1381.7,
+      "end": 1404.41,
+      "timestamp": "23:01",
+      "text": "Por isso que eu acredito que as empresas agora vão enxergar esse valor nessa facilidade e vai ter uma tendência de ter um desenvolvimento muito maior em relação a essas coisas."
+    },
+    {
+      "start": 1404.41,
+      "end": 1416.16,
+      "timestamp": "23:24",
+      "text": "Então, emprego de desenvolvedor ainda está garantido do que eu estou vendo, porque ainda..."
+    },
+    {
+      "start": 1416.16,
+      "end": 1425.45,
+      "timestamp": "23:36",
+      "text": "Porque ainda o pessoal vai ter que estruturar essa informação, entendeu?"
+    },
+    {
+      "start": 1425.45,
+      "end": 1430.22,
+      "timestamp": "23:45",
+      "text": "Aliás, isso foi uma sacada bem legal."
+    },
+    {
+      "start": 1430.22,
+      "end": 1437.32,
+      "timestamp": "23:50",
+      "text": "Eu mandei lá para vocês como a gente montou o tutorial."
+    },
+    {
+      "start": 1437.32,
+      "end": 1449.07,
+      "timestamp": "23:57",
+      "text": "Uma das etapas é, eu não simplesmente transcrevi minha aula e coloquei, pega a transcrição."
+    },
+    {
+      "start": 1449.07,
+      "end": 1469.07,
+      "timestamp": "24:09",
+      "text": "A gente pegou aquele material e formatou, usou aquele processo lá de reforço por feedback humano, tem integrado lá cada vez que alguém dá um joinha ou não."
+    },
+    {
+      "start": 1469.07,
+      "end": 1477.33,
+      "timestamp": "24:29",
+      "text": "Isso já vai gerando insight para a gente atualizar nossas bases."
+    },
+    {
+      "start": 1477.33,
+      "end": 1501.72,
+      "timestamp": "24:37",
+      "text": "Mas o primeiro desafio que eu tive com o time, que eu falei, galera, a gente precisa resumir a aula na informação mais relevante, porque na aula tem muita coisa ali que não é tão relevante."
+    },
+    {
+      "start": 1501.72,
+      "end": 1507.27,
+      "timestamp": "25:01",
+      "text": "Para uma aula é bom, para AI é irrelevante."
+    },
+    {
+      "start": 1507.27,
+      "end": 1520.44,
+      "timestamp": "25:07",
+      "text": "Aí quando eles estavam fazendo a primeira vez e validando, eles estavam fazendo para outro humano ler."
+    },
+    {
+      "start": 1520.44,
+      "end": 1536.05,
+      "timestamp": "25:20",
+      "text": "Aí o primeiro trabalho foi, não, calma, você não está fazendo isso para outro humano, você está fazendo isso para uma AI."
+    },
+    {
+      "start": 1536.05,
+      "end": 1543.92,
+      "timestamp": "25:36",
+      "text": "Então, por exemplo, ficar contando historinha para AI é ruim."
+    },
+    {
+      "start": 1543.92,
+      "end": 1551.93,
+      "timestamp": "25:43",
+      "text": "Você está colocando informação inútil que vai poluir o output."
+    },
+    {
+      "start": 1551.93,
+      "end": 1556.06,
+      "timestamp": "25:51",
+      "text": "Você tem que deixar mais direto."
+    },
+    {
+      "start": 1556.06,
+      "end": 1559.8,
+      "timestamp": "25:56",
+      "text": "E é uma mudança de paradigma."
+    },
+    {
+      "start": 1559.8,
+      "end": 1577.35,
+      "timestamp": "25:59",
+      "text": "Eu estava, por exemplo, com uma boa prática de código, que eu nem sei se é boa prática, mas eu sei que o meu time aqui adora fazer isso."
+    },
+    {
+      "start": 1577.35,
+      "end": 1594.13,
+      "timestamp": "26:17",
+      "text": "Você pega o código que está todo compartimentalizado, são 50 arquivos ao invés de ter um arquivo único gigante fazendo referência."
+    },
+    {
+      "start": 1594.13,
+      "end": 1597.74,
+      "timestamp": "26:34",
+      "text": "Para AI isso é uma porcaria."
+    },
+    {
+      "start": 1597.74,
+      "end": 1611.55,
+      "timestamp": "26:37",
+      "text": "Para ela é melhor menos diferentes files, que ela consegue ler tudo integrado, que várias coisas separadas."
+    },
+    {
+      "start": 1611.55,
+      "end": 1617.87,
+      "timestamp": "26:51",
+      "text": "Então, é uma mudança de paradigma complexa nisso."
+    },
+    {
+      "start": 1617.87,
+      "end": 1641.88,
+      "timestamp": "26:57",
+      "text": "Não é só salvar informação, é salvar informação de um jeito que a inteligência artificial consiga entender ela de maneira otimizada para depois a AI te ajudar a fazer mais coisas melhor."
+    },
+    {
+      "start": 1641.88,
+      "end": 1648.33,
+      "timestamp": "27:21",
+      "text": "E aí eu acho que talvez essa é mais para o Kleber."
+    },
+    {
+      "start": 1648.33,
+      "end": 1653.62,
+      "timestamp": "27:28",
+      "text": "O que você tem visto as empresas fazerem?"
+    },
+    {
+      "start": 1653.62,
+      "end": 1658.4,
+      "timestamp": "27:33",
+      "text": "E dois, você pudesse falar além do..."
+    },
+    {
+      "start": 1658.4,
+      "end": 1662.27,
+      "timestamp": "27:38",
+      "text": "Não, comece a organizar e tal."
+    },
+    {
+      "start": 1662.27,
+      "end": 1668.72,
+      "timestamp": "27:42",
+      "text": "Por onde eu talvez tenha alguma dica para iniciar?"
+    },
+    {
+      "start": 1668.72,
+      "end": 1674.14,
+      "timestamp": "27:48",
+      "text": "Que é um pouquinho assustador quase, cara."
+    },
+    {
+      "start": 1674.14,
+      "end": 1676.47,
+      "timestamp": "27:54",
+      "text": "É um puta desafio."
+    },
+    {
+      "start": 1676.47,
+      "end": 1700.09,
+      "timestamp": "27:56",
+      "text": "Nossa, dentro desses últimos principalmente três anos, a gente já nasceu com uma cultura data-driven, até porque nós temos isso dentro do nosso DNA internamente lá como empresa mesmo."
+    },
+    {
+      "start": 1700.09,
+      "end": 1706.67,
+      "timestamp": "28:20",
+      "text": "A gente se absorve muito de dados e de indicadores."
+    },
+    {
+      "start": 1706.67,
+      "end": 1723.44,
+      "timestamp": "28:26",
+      "text": "Mas o que a gente procura construir com os clientes e junto com a Microsoft é uma construção de uma arquitetura inicial bem feita."
+    },
+    {
+      "start": 1723.44,
+      "end": 1751.19,
+      "timestamp": "28:43",
+      "text": "Porque se eu tenho uma arquitetura bem feita, o aprendizado de máquina ou o aprendizado das próprias pessoas dentro de todo o ambiente corporativo vai ser muito mais fácil, muito mais rápido e muito mais adaptativo."
+    },
+    {
+      "start": 1751.19,
+      "end": 1757.65,
+      "timestamp": "29:11",
+      "text": "E você vai tornar o seu time muito mais produtivo."
+    },
+    {
+      "start": 1757.65,
+      "end": 1790.43,
+      "timestamp": "29:17",
+      "text": "Quando você tem dispersão de dados, quando você tem isso descontrolado ou basicamente você não tem estrutura de governança ou isso está pulverizado em vários cílios que a gente fala das empresas, a gente não consegue construir uma cultura de dados forte."
+    },
+    {
+      "start": 1790.43,
+      "end": 1794.3,
+      "timestamp": "29:50",
+      "text": "Então esse é o primeiro ponto."
+    },
+    {
+      "start": 1794.3,
+      "end": 1800.23,
+      "timestamp": "29:54",
+      "text": "Então o primeiro passo, arquitetura bem feita."
+    },
+    {
+      "start": 1800.23,
+      "end": 1815.85,
+      "timestamp": "30:00",
+      "text": "Não só a tecnologia, mas a criação realmente hoje de processos e estruturas que dê essa sustentabilidade para a evolução."
+    },
+    {
+      "start": 1815.85,
+      "end": 1837.4,
+      "timestamp": "30:15",
+      "text": "E principalmente olhando hoje já IA nessa condição do aprendizado, de como se tornar isso também, esse aprendizado dela mais fácil, porque você vai ter possibilidades."
+    },
+    {
+      "start": 1837.4,
+      "end": 1912.52,
+      "timestamp": "30:37",
+      "text": "Segundo, hoje eu acho que o poder da cloud computing, da nuvem, das features que a gente tem à disposição para a gente poder organizar tudo isso através dos serviços que a própria Microsoft possui para poder fazer essa gestão, essa governança de dados e essa estrutura de dados de uma maneira que isso esteja na maneira que foi arquitetada, mas principalmente que ela tenha uma tecnologia que vai dar condições, escalabilidade, não vai ficar lento na hora que você precisar, na hora que você precisar criar uma adoção de serviço cognitivo, de identificação, você vai poder utilizar."
+    },
+    {
+      "start": 1912.52,
+      "end": 1929.55,
+      "timestamp": "31:52",
+      "text": "E isso, obviamente, hoje Microsoft, a gente consegue, vamos dizer assim, estar um passo à frente pela condição também da integração."
+    },
+    {
+      "start": 1929.55,
+      "end": 1944.91,
+      "timestamp": "32:09",
+      "text": "Porque hoje não adianta os dados estarem nesses cílios que eu coloquei para vocês e não terem esse poder de integração."
+    },
+    {
+      "start": 1944.91,
+      "end": 1969.17,
+      "timestamp": "32:24",
+      "text": "Então, arquitetura, uma boa tecnologia que dê escalabilidade, esse poder da integração, acho que faz a diferença para a gente poder ter um sucesso nessa nossa jornada de evolução com a IA."
+    },
+    {
+      "start": 1969.17,
+      "end": 1970.72,
+      "timestamp": "32:49",
+      "text": "Legal, cara."
+    },
+    {
+      "start": 1970.72,
+      "end": 1983.5,
+      "timestamp": "32:50",
+      "text": "Um ponto que você comentou que foi curioso, foi, por enquanto, o emprego do programador está salvo."
+    },
+    {
+      "start": 1983.5,
+      "end": 2004.02,
+      "timestamp": "33:03",
+      "text": "Aí eu estava conversando com o Kleber antes, sobre o Power BI agora com copilots, você literalmente consegue chegar e perguntar, monta esse dashboard para mim."
+    },
+    {
+      "start": 2004.02,
+      "end": 2018.99,
+      "timestamp": "33:24",
+      "text": "Então, aquela função do analista de BI de ficar montando o dashboard é uma coisa que, daqui a pouco, não tem porquê."
+    },
+    {
+      "start": 2018.99,
+      "end": 2037.31,
+      "timestamp": "33:38",
+      "text": "Esse cara não vai ficar montando o dashboard, ele vai analisar o dashboard para poder montar um plano de ação no mundo real com aquilo depois."
+    },
+    {
+      "start": 2037.31,
+      "end": 2053.83,
+      "timestamp": "33:57",
+      "text": "E aí, acho que essa talvez seja uma das grandes preocupações, quase toda grande tecnologia gerou isso, que é, mas e os empregos?"
+    },
+    {
+      "start": 2053.83,
+      "end": 2057.19,
+      "timestamp": "34:13",
+      "text": "Mas a pessoa quer fazer..."
+    },
+    {
+      "start": 2057.19,
+      "end": 2078.1,
+      "timestamp": "34:17",
+      "text": "Eu postei um vídeo no meu Instagram esses dias que foi feito em partes do NAI e tinha lá alguns artistas falando, é muito triste\n\nHoje para poder estar começando."
+    },
+    {
+      "start": 2078.1,
+      "end": 2082.87,
+      "timestamp": "34:38",
+      "text": "Mas assim, tem que ser dado um start."
+    },
+    {
+      "start": 2082.87,
+      "end": 2088.94,
+      "timestamp": "34:42",
+      "text": "Por mais embrionário que tenha, começa pequeno."
+    },
+    {
+      "start": 2088.94,
+      "end": 2121.85,
+      "timestamp": "34:48",
+      "text": "E hoje o poder da nuvem, o poder de consumo, o poder hoje da plataforma, as a service, você consumir isso apenas por um processo de você estar, dar uma assinatura e ter a possibilidade de fazer esse consumo, isso te dá as opções e a oportunidade de errar."
+    },
+    {
+      "start": 2121.85,
+      "end": 2125.07,
+      "timestamp": "35:21",
+      "text": "E a gente poder aprender."
+    },
+    {
+      "start": 2125.07,
+      "end": 2129.2,
+      "timestamp": "35:25",
+      "text": "Porque você está aqui, né, João?"
+    },
+    {
+      "start": 2129.2,
+      "end": 2145.47,
+      "timestamp": "35:29",
+      "text": "Acho que melhor do que ninguém aí para poder falar o quanto que você errou, o quanto que você acertou dentro dessa construção."
+    },
+    {
+      "start": 2145.47,
+      "end": 2157.73,
+      "timestamp": "35:45",
+      "text": "Eu acho que todos nós aí também como empreendedores e empresários, a gente erra e acerta muito."
+    },
+    {
+      "start": 2157.73,
+      "end": 2184.18,
+      "timestamp": "35:57",
+      "text": "E dentro desse caminho da adoção da nova tecnologia, a gente precisa testar, a gente precisa validar, a gente precisa entender os melhores caminhos, mas eu acho que não é mais o se eu vou ou se eu não vou."
+    },
+    {
+      "start": 2184.18,
+      "end": 2186.25,
+      "timestamp": "36:24",
+      "text": "É quando eu vou."
+    },
+    {
+      "start": 2186.25,
+      "end": 2208.45,
+      "timestamp": "36:26",
+      "text": "E aí falando nisso, é uma coisa que eu acho muito legal do que a Microsoft está fazendo, que é facilitar a adoção colocando dentro do fluxo natural de trabalho das pessoas."
+    },
+    {
+      "start": 2208.45,
+      "end": 2227.55,
+      "timestamp": "36:48",
+      "text": "Então o que é legal, eu não testei ainda o Copilot no Excel, no PowerPoint, quero testar se tiver ali como furar a fila e tal, mas deixa ele abaixo."
+    },
+    {
+      "start": 2227.55,
+      "end": 2232.19,
+      "timestamp": "37:07",
+      "text": "Como eu falei, eu uso muito no Bing."
+    },
+    {
+      "start": 2232.19,
+      "end": 2237.74,
+      "timestamp": "37:12",
+      "text": "Cara, no Edge, né, que é Bing AI conectado."
+    },
+    {
+      "start": 2237.74,
+      "end": 2247.68,
+      "timestamp": "37:17",
+      "text": "Eu não preciso ficar copiando da página que eu estou e colocando no chat APT."
+    },
+    {
+      "start": 2247.68,
+      "end": 2268.2,
+      "timestamp": "37:27",
+      "text": "Cara, eu literalmente clico ali, abro o painelzinho lateral e eu falo, me tira, considerando que eu sou uma empresa de educação, como é que eu poderia aplicar?"
+    },
+    {
+      "start": 2268.2,
+      "end": 2278.65,
+      "timestamp": "37:48",
+      "text": "Eu já fiz várias perguntas assim, cara, na minha realidade como é que você faria?"
+    },
+    {
+      "start": 2278.65,
+      "end": 2297.5,
+      "timestamp": "37:58",
+      "text": "Ele me dá um start de conversa do que fazer, dá outros sites que falam, outros links que falam de um tema parecido para eu continuar meus estudos."
+    },
+    {
+      "start": 2297.5,
+      "end": 2325.5,
+      "timestamp": "38:17",
+      "text": "E isso é uma coisa que eu vejo que vocês estão fazendo muito bem na Microsoft, que ficou muito natural e até bizarro pensar que no fim do dia a interface que está funcionando bem é literalmente um chat para perguntar."
+    },
+    {
+      "start": 2325.5,
+      "end": 2328.34,
+      "timestamp": "38:45",
+      "text": "Ninguém imaginava, né?"
+    },
+    {
+      "start": 2328.34,
+      "end": 2330.66,
+      "timestamp": "38:48",
+      "text": "Ninguém imaginava."
+    },
+    {
+      "start": 2330.66,
+      "end": 2338.02,
+      "timestamp": "38:50",
+      "text": "Todo mundo achando que era o óculos gigante de realidade."
+    },
+    {
+      "start": 2338.02,
+      "end": 2350.93,
+      "timestamp": "38:58",
+      "text": "Cara, não, é só um chatzinho ali que você vai lá e pede como você faria no Teams ali ou no WhatsApp."
+    },
+    {
+      "start": 2350.93,
+      "end": 2358.54,
+      "timestamp": "39:10",
+      "text": "Você pede agora, só que ao invés de ser um ser humano é AI."
+    },
+    {
+      "start": 2358.54,
+      "end": 2371.58,
+      "timestamp": "39:18",
+      "text": "O que vocês estão vendo de mais legal assim de experiências com o Copilot, que ainda está em preview?"
+    },
+    {
+      "start": 2371.58,
+      "end": 2393.9,
+      "timestamp": "39:31",
+      "text": "Eu não sei, até assim, eu coloquei os nossos convidados talvez nessa e a Jússica que como está em preview tem muita coisa que eles não podem falar, mas do que dá para falar."
+    },
+    {
+      "start": 2393.9,
+      "end": 2417.78,
+      "timestamp": "39:53",
+      "text": "O que vocês estão vendo de legal para a galera pensar também, falar, tá, ainda não tem o Copilot, daqui a pouco vou ter, mas pelo menos assim, a linha de raciocínio, sabe, de facilitar."
+    },
+    {
+      "start": 2417.78,
+      "end": 2424.75,
+      "timestamp": "40:17",
+      "text": "Tem uma demonstração do time de produto que eu vi, né?"
+    },
+    {
+      "start": 2424.75,
+      "end": 2427.72,
+      "timestamp": "40:24",
+      "text": "Isso também é tudo, né?"
+    },
+    {
+      "start": 2427.72,
+      "end": 2432.62,
+      "timestamp": "40:27",
+      "text": "Já está todo mundo já bem público, né?"
+    },
+    {
+      "start": 2432.62,
+      "end": 2435.72,
+      "timestamp": "40:32",
+      "text": "Esse tipo de informação."
+    },
+    {
+      "start": 2435.72,
+      "end": 2450.3,
+      "timestamp": "40:35",
+      "text": "Eu fiz, eu vi uma demonstração do time de produto que era bem legal assim, porque a gente estava no Teams, certo?"
+    },
+    {
+      "start": 2450.3,
+      "end": 2458.82,
+      "timestamp": "40:50",
+      "text": "Fazendo a reunião e aí eles estavam apresentando o Copilot, certo?"
+    },
+    {
+      "start": 2458.82,
+      "end": 2469.79,
+      "timestamp": "40:58",
+      "text": "Do 365, que daí, para quem não sabe ainda, o Copilot do 365 ele vai ser o OpenAI, né?"
+    },
+    {
+      "start": 2469.79,
+      "end": 2471.85,
+      "timestamp": "41:09",
+      "text": "Basicamente, né?"
+    },
+    {
+      "start": 2471.85,
+      "end": 2473.79,
+      "timestamp": "41:11",
+      "text": "O chat ali, né?"
+    },
+    {
+      "start": 2473.79,
+      "end": 2483.73,
+      "timestamp": "41:13",
+      "text": "Chat de PT conectado no Word, no Excel, no PowerPoint e assim por diante, tá?"
+    },
+    {
+      "start": 2483.73,
+      "end": 2493.28,
+      "timestamp": "41:23",
+      "text": "E aí no Teams é também um produto do 365, ele também funciona dessa forma."
+    },
+    {
+      "start": 2493.28,
+      "end": 2498.44,
+      "timestamp": "41:33",
+      "text": "Aí galera, olhem que coisa interessante."
+    },
+    {
+      "start": 2498.44,
+      "end": 2511.35,
+      "timestamp": "41:38",
+      "text": "Todo o áudio que está sendo falado na reunião, você consegue pegar o áudio e transcrever para texto."
+    },
+    {
+      "start": 2511.35,
+      "end": 2539.09,
+      "timestamp": "41:51",
+      "text": "Então, todo o áudio que está sendo falado estava sendo transcrito para texto e aí ele abria o copiloto dentro da reunião, por exemplo, e aí ele falava assim, o que que eu falei até o momento nessa reunião, entendeu?"
+    },
+    {
+      "start": 2539.09,
+      "end": 2569.03,
+      "timestamp": "42:19",
+      "text": "E aí, como está sendo transcrito o áudio, o GPT, né, o OpenAI, ele consegue pegar o áudio que foi transcrito até o momento e gerar um resumo em bullet point mesmo, assim, para o usuário, para ele, pessoas que chegaram atrasadas, né?"
+    },
+    {
+      "start": 2569.03,
+      "end": 2573.81,
+      "timestamp": "42:49",
+      "text": "Quais foram os combinados da reunião?"
+    },
+    {
+      "start": 2573.81,
+      "end": 2585.55,
+      "timestamp": "42:53",
+      "text": "Aí está integrado com o Outlook, já manda todos os invites que a gente falou que ia mandar."
+    },
+    {
+      "start": 2585.55,
+      "end": 2586.97,
+      "timestamp": "43:05",
+      "text": "Exatamente."
+    },
+    {
+      "start": 2586.97,
+      "end": 2589.3,
+      "timestamp": "43:06",
+      "text": "Qualquer pergunta."
+    },
+    {
+      "start": 2589.3,
+      "end": 2605.3,
+      "timestamp": "43:09",
+      "text": "E no futuro, a expectativa é que ele inclusive dê sugestões de próximas agendas e que já marque os horários e etc e tal, né?"
+    },
+    {
+      "start": 2605.3,
+      "end": 2613.17,
+      "timestamp": "43:25",
+      "text": "Então, esse é um tipo de exemplo ali, né, integrado no Teams."
+    },
+    {
+      "start": 2613.17,
+      "end": 2623.63,
+      "timestamp": "43:33",
+      "text": "Outra coisa é o Outlook também, né, que vai ser uma mão na roda, que é o quê, né?"
+    },
+    {
+      "start": 2623.63,
+      "end": 2639.76,
+      "timestamp": "43:43",
+      "text": "Tem a thread de e-mail acontecendo, então o GPT, o OpenAI, ele vai ter todo o contexto do que foi falado de e-mails trocados."
+    },
+    {
+      "start": 2639.76,
+      "end": 2650.6,
+      "timestamp": "43:59",
+      "text": "Então, você diz assim, me gera um draft, né, de resposta de e-mail para essa thread."
+    },
+    {
+      "start": 2650.6,
+      "end": 2657.31,
+      "timestamp": "44:10",
+      "text": "E aí, ele já vai gerar para você, né, aquele e-mail."
+    },
+    {
+      "start": 2657.31,
+      "end": 2678.86,
+      "timestamp": "44:17",
+      "text": "Inclusive, você pode anexar documentos, por exemplo, anexar uma planilha, e aí ele já plota um gráfico que está lá no Excel, por exemplo, no corpo do e-mail, entendeu?"
+    },
+    {
+      "start": 2678.86,
+      "end": 2713.06,
+      "timestamp": "44:38",
+      "text": "Então, como isso vai trazer velocidade na construção do e-mail, que, convenhamos, construir um e-mail desse, de pegar um gráfico no Excel e colocar lá no corpo, demora alguns bons minutos, né, para você escrever um bom e-mail, uns 15, 20 minutos, eventualmente, né?"
+    },
+    {
+      "start": 2713.06,
+      "end": 2728.16,
+      "timestamp": "45:13",
+      "text": "E agora, com o OpenAI, que vai demorar ali em torno de um, talvez agora, finalmente, a reunião vai ser um e-mail, né?"
+    },
+    {
+      "start": 2728.16,
+      "end": 2730.74,
+      "timestamp": "45:28",
+      "text": "E vamos ter ata, né?"
+    },
+    {
+      "start": 2730.74,
+      "end": 2747.26,
+      "timestamp": "45:30",
+      "text": "Vai ter ata, vai ter to-do no final direitinho, ninguém vai esquecer que tinha combinado de fazer tal coisa, isso é maravilhoso."
+    },
+    {
+      "start": 2747.26,
+      "end": 2748.81,
+      "timestamp": "45:47",
+      "text": "Maravilhoso."
+    },
+    {
+      "start": 2748.81,
+      "end": 2781.46,
+      "timestamp": "45:48",
+      "text": "Eu acho que um ponto importante é que, assim, eu acho que isso, para nós que somos parceiros aí e acompanhamos, estão com o Microsoft nessa jornada há muito tempo, as criações dos produtos e das ideologias da Microsoft sempre, ela surge de muitas dores."
+    },
+    {
+      "start": 2781.46,
+      "end": 2813.47,
+      "timestamp": "46:21",
+      "text": "O pacote Office, até pegar uma curiosidade pro pessoal que está nos acompanhando aqui, o Word, ele nasceu de uma Xerox que o Bill Gates tirou, teve uma dor ali que ele queria editar aquele documento antes de enviar e ele falou, pô, tenho que criar."
+    },
+    {
+      "start": 2813.47,
+      "end": 2821.99,
+      "timestamp": "46:53",
+      "text": "E aí, obviamente, nasceu o famoso Word, né, dentro desse processo."
+    },
+    {
+      "start": 2821.99,
+      "end": 2849.99,
+      "timestamp": "47:01",
+      "text": "E muito do que está acontecendo agora, eu entendo que também são dores que vêm acontecendo ao longo dessas jornadas de identificação da própria Microsoft, mas com certeza agora é o poder de fazer o mais com menos, né?"
+    },
+    {
+      "start": 2849.99,
+      "end": 2858.25,
+      "timestamp": "47:29",
+      "text": "E todas essas ferramentas que a gente tem e elas resolvem dores."
+    },
+    {
+      "start": 2858.25,
+      "end": 2898.26,
+      "timestamp": "47:38",
+      "text": "Assim como eu dei o exemplo ali da Xerox que queria fazer essa edição, eu acho que hoje nós temos uma dor do preenchimento do CRM que o VivaSales já está resolvendo hoje da integração e colocando as informações, pegando do e-mail e colocando isso dentro do CRM, do Dynamics, do Salesforce, dentro da estrutura."
+    },
+    {
+      "start": 2898.26,
+      "end": 2916.72,
+      "timestamp": "48:18",
+      "text": "O próprio Teams Premium que o Alfonso está colocando vai transcrever as reuniões porque a gente tem uma dificuldade como empresa de fazer atas."
+    },
+    {
+      "start": 2916.72,
+      "end": 2929.62,
+      "timestamp": "48:36",
+      "text": "O pessoal chega atrasado na reunião, tem que voltar, recapitular, identificar dentro desse processo."
+    },
+    {
+      "start": 2929.62,
+      "end": 2949.89,
+      "timestamp": "48:49",
+      "text": "O processo com o VivaGoals hoje na estrutura de OKRs e o processo da inteligência artificial integralizado hoje com os KPIs e os OKRs dentro dessa estrutura."
+    },
+    {
+      "start": 2949.89,
+      "end": 2964.47,
+      "timestamp": "49:09",
+      "text": "Ou seja, então, todo esse movimento que a gente percebe realmente é de otimização, mas principalmente integração."
+    },
+    {
+      "start": 2964.47,
+      "end": 2980.21,
+      "timestamp": "49:24",
+      "text": "Eu acho que aí é o grande ganho que a gente tem também nesse novo momento que a gente está passando com essas ferramentas."
+    },
+    {
+      "start": 2980.21,
+      "end": 2984.86,
+      "timestamp": "49:40",
+      "text": "Então, eu acho que é um facilitador."
+    },
+    {
+      "start": 2984.86,
+      "end": 2989.64,
+      "timestamp": "49:44",
+      "text": "Isso que a gente tem que identificar."
+    },
+    {
+      "start": 2989.64,
+      "end": 2999.57,
+      "timestamp": "49:49",
+      "text": "Eu tenho mais duas perguntas aqui, uma sobre o presente e uma sobre o futuro."
+    },
+    {
+      "start": 2999.57,
+      "end": 3029.64,
+      "timestamp": "49:59",
+      "text": "A do presente hoje, se vocês fossem falar, cara, as três principais áreas de uma empresa que eu falaria, estuda sobre a área de modo geral, mas tenta ir atrás de exemplo e buscar para a área A, B, C, porque tem muita coisa quick win."
+    },
+    {
+      "start": 3029.64,
+      "end": 3033.64,
+      "timestamp": "50:29",
+      "text": "Quais seriam na visão de vocês?"
+    },
+    {
+      "start": 3033.64,
+      "end": 3036.61,
+      "timestamp": "50:33",
+      "text": "Vamos começar com essa."
+    },
+    {
+      "start": 3036.61,
+      "end": 3050.04,
+      "timestamp": "50:36",
+      "text": "Eu acho que marketing hoje tem um ganho exponencial na condição hoje de geração de conteúdo, otimização."
+    },
+    {
+      "start": 3050.04,
+      "end": 3075.46,
+      "timestamp": "50:50",
+      "text": "A gente estava conversando com o time de produto lá, o quanto que o G4 está se beneficiando na condição de lançamento hoje de novas mentorias ou novos conteúdos e produtos dentro com esse processo."
+    },
+    {
+      "start": 3075.46,
+      "end": 3089.79,
+      "timestamp": "51:15",
+      "text": "E efetivamente, eu acho que um outro movimento que a gente tem é a escala no processo operacional do dia a dia."
+    },
+    {
+      "start": 3089.79,
+      "end": 3097.4,
+      "timestamp": "51:29",
+      "text": "Então, os processos repetitivos, o que eu consigo utilizar?"
+    },
+    {
+      "start": 3097.4,
+      "end": 3114.82,
+      "timestamp": "51:37",
+      "text": "Então, desde o financeiro, na possibilidade dele ler o boleto e já inserir direto no sistema através de uma identificação, um processo."
+    },
+    {
+      "start": 3114.82,
+      "end": 3129.79,
+      "timestamp": "51:54",
+      "text": "Eu acho que esses são grandes ganhos aí, pequenos wins que a gente tem hoje já de otimização, que a gente tem ganho."
+    },
+    {
+      "start": 3129.79,
+      "end": 3140.25,
+      "timestamp": "52:09",
+      "text": "Mas assim, em vez de ser só o RPA, que é o Robotic Process Automation, ser o IPA."
+    },
+    {
+      "start": 3140.25,
+      "end": 3158.83,
+      "timestamp": "52:20",
+      "text": "IPA, que a gente estava conversando, que o pessoal, hoje é um novo movimento, porque o Robotic é aquele processo operacional de dia a dia, tudo."
+    },
+    {
+      "start": 3158.83,
+      "end": 3196.0,
+      "timestamp": "52:38",
+      "text": "E esse novo movimento do IPA, do Intelligence Process Automation, é a condição mesmo de trazer o insight e trazer o seguinte, a partir daquela ação, eu já vou gerar um insight e vou trazer a coisa meio que pronta e falar, ó, a coisa tá aqui, o indicador é esse, o processo, na verdade, já"
+    }
+  ],
+  "segment_count": 252,
+  "text_timestamped": "[00:00] AI não é novidade.\n[00:02] A foto boa do seu celular não é porque você tem uma baita câmera, é que tem uma AI especializada em otimizar a imagem que você tirou mesmo com sensor pequeno.\n[00:22] O que aparece no feed da rede social tem uma AI ali por trás.\n[00:30] O que mudou?\n[00:32] Ali em novembro nasceu um negocinho chamado ChatGPT, que falou, olha, agora você pode conversar com uma entidade super inteligente aqui do outro lado, que entre aspas sabe de tudo o tempo inteiro.\n[00:57] Isso mudou muito a forma como as pessoas enxergam a adoção de AI e o uso no dia a dia para a produtividade.\n[01:11] A AI hoje, o grande benefício é o que você está trazendo hoje dentro do G4 e eu acho que é a condição de otimizar e fazer mais com menos.\n[01:28] Agora, o desconforto para os profissionais e realmente gerar essa zona cinzenta e nesse momento até se acomodar, aprender e realmente a gente vai precisar entrar numa nova mindset.\n[01:52] E é o mindset do que?\n[01:54] Da curiosidade, saber perguntar, saber de como que a gente faz as questões certas no momento certo.\n[02:07] Pessoal que está em casa, segue essa dica, por favor.\n[02:14] Estudem a respeito de inteligência artificial e como que utiliza ela.\n[02:23] Esse é o primeiro passo.\n[02:26] E os empreendedores que estão ouvindo também, não gastem cabeça com a pergunta se eu vou utilizar no meu produto.\n[02:41] Gastem esforço de como eu vou utilizar isso no meu produto.\n[02:48] Seja muito bem-vindo, muito bem-vinda a mais um episódio do Papo de Gestão.\n[02:58] E sim, não é o Tales Gomes aqui, sou eu, João Vitor, um dos sócios CEO aqui do G4 Educação.\n[03:10] E esse é um papo muito especial de um dos assuntos que eu mais tenho me dedicado ultimamente, que o G4 tem investido muito também.\n[03:26] Que a gente trouxe aqui dois representantes de uma grande parceira nossa, que é a Microsoft, para falar sobre AI, inteligência artificial e como que a gente pode usar ela no nosso dia a dia para ganhar mais produtividade enquanto empreendedor, enquanto gestor, enquanto um profissional.\n[04:03] Então não é um papo técnico de AI, mas sim como que você usa isso no seu dia a dia.\n[04:14] E para compartilhar com a gente, a gente tem o Afonso, que é arquiteto de soluções da Microsoft, e o Kleber, que é o CEO da Qualyserve, membro do G4 Club.\n[04:34] Os dois são grandes parceiros nossos que têm ajudado o G4 a desenvolver as soluções que a gente tem usado, como o Tutor AI, o G4 AI, as soluções internas aqui.\n[04:54] Então sejam muito bem-vindos, apresentem-se também para quem não conhece vocês e bora para esse papo.\n[05:07] Legal, obrigado João pela introdução, é o maior prazer estar aqui, obrigado pelo convite da G4, seu convite.\n[05:21] Prazer aqui também estar com o Kleber, que é parceiraço aí Microsoft, e espero aí que o pessoal aí de casa goste bastante do papo de hoje.\n[05:39] Bom, agradecer ao Afonso aí, porque o homem da inteligência artificial hoje da Microsoft no Brasil, te trazer ele aqui para o nosso papo, eu acho que é muito legal, né João?\n[06:02] E obrigado aí pelo convite, muito feliz aí com a parceria e a evolução hoje do que vocês e o G4 estão fazendo, que a gente está podendo ajudar vocês aí também nessa nova revolução.\n[06:25] Cara, acho que um contexto que algumas pessoas podem não ter, né?\n[06:33] Pô, vamos falar de AI, por que que a Microsoft é quem está aqui?\n[06:41] E muita gente não sabe ainda que a Open AI, que é quem a gente mais vê falando de AI hoje, chat EPT, essas coisas, ela foi investida pela Microsoft, toda a infraestrutura por trás, né?\n[07:05] Para fazer as APIs funcionarem, o próprio chat EPT, ela é powered by Microsoft.\n[07:15] Agora o G4, o nosso tutor AI, é powered by Microsoft via o Azure Cognitive Services.\n[07:26] Acho que talvez o primeiro ponto seja falar um pouco disso, né?\n[07:34] O que que é essa AI em específico que a gente está falando, que tem AI de tudo que é tipo, a gente está falando aqui da generativa, e por que que a Microsoft avançou para isso?\n[07:57] Como que a Microsoft está olhando para esse meio hoje?\n[08:04] Legal.\n[08:05] A gente está investindo bastante, né?\n[08:10] Isso é bem claro.\n[08:12] A gente está olhando de diversas formas, por exemplo, você mencionou a infraestrutura, certo?\n[08:24] Que a própria Open AI, ela está utilizando, né?\n[08:30] O Satya Nadella, né?\n[08:32] Que é o nosso presidente, ele se demonstrou que ele fez muitos acertos ao longo dos últimos anos, assim, né?\n[08:46] Por exemplo, a gente fez compras muito relevantes, né?\n[08:53] LinkedIn, o GitHub, certo?\n[08:57] E aí, do LinkedIn veio o nosso CTO atual, né?\n[09:02] Que é o Kevin Scott.\n[09:05] E a gente fez a compra do GitHub, né?\n[09:10] Que serviu como base, por exemplo, de treinamento do modelo Codex, do Open AI, né?\n[09:20] Que ele é um modelo, para quem não conhece muito, é um tipo de modelo GPT, tá?\n[09:30] Que é mais focado em código fonte, né?\n[09:35] Geração de produtividade para desenvolvedores, por exemplo, certo?\n[09:44] Então, essa sequência de compras, né?\n[09:49] Ela culminou com o investimento na Open AI, certo?\n[09:55] Então, o que eu acredito que foi muito importante ali para essa parceria ter dado certo, né?\n[10:07] É claro, né?\n[10:09] O investimento ali que a gente fez, né?\n[10:14] Em financeiro, certo?\n[10:16] Mas também a gente desenvolveu data centers específicos, né?\n[10:24] Para processar a inteligência artificial.\n[10:29] Então, é cluster de AI mesmo, né?\n[10:34] E essa base de investimento somado com a questão de infraestrutura que a gente está fornecendo, né?\n[10:46] A gente se tornou um bom parceiro para a Open AI, que é, de fato, as pessoas lá dentro que criam esses modelos GPT, né?\n[11:02] Que desenvolvem os modelos, que treinam os modelos, né?\n[11:09] Então, eles que são as principais cabeças por trás desse modelo que a gente tem hoje, né?\n[11:20] E essa parceria tem sido muito rica para a Microsoft, porque como vocês também estão vendo, né?\n[11:33] A gente está embutindo Open AI nos nossos produtos.\n[11:39] No 365, no Dynamics, etc e tal, né?\n[11:44] Desses tipos de produtos.\n[11:47] Justamente com essa ideia de copiloto, que é uma coisa bem alinhada com o Tutor AI, com o G4 AI, né?\n[12:00] Que é criar tutores, por exemplo, né?\n[12:05] Criar meios de você utilizar esse modelo para poder ajudar na produtividade ou alguma outra tarefa que o ser humano precise, né?\n[12:21] Isso é uma coisa legal e aí eu acho que o Kleber, a gente conversa muito sobre isso.\n[12:32] Tem os membros do clube, tem os clientes da Qualyserve que AI não é novidade.\n[12:42] Eu falo na palestra quando eu vou explicar sobre...\n[12:48] Cara, a foto boa do seu celular não é porque você tem uma baita câmera.\n[12:58] É que tem uma AI especializada em otimizar a imagem que você tirou mesmo com sensor pequeno.\n[13:09] O que aparece no feed da rede social tem uma AI ali por trás.\n[13:17] Só que ele fala, pô, João, então para que está servindo?\n[13:25] Porque imagina o tamanho da base de dados que eu tenho de milhares de horas de conteúdo.\n[13:36] Estou falando só de curso, só de educação.\n[13:41] Se eu fosse pedir uma pessoa para ficar procurando, para organizar, para não sei o quê, para deixar disponível, para depois ainda raciocinar de como aplicar, cara, eu ia perder muito tempo.\n[14:06] A gente fez um teste, né?\n[14:09] Quando a gente lançou no primeiro dia do Tutor AI que a gente liberou para todo mundo, a gente teve 1.200 pessoas usando.\n[14:25] E se a gente pega o número de tokens...\n[14:30] e os caracteres lá, a resposta, não sei o quê, e transforma, traduzindo para a velocidade que uma pessoa fala, foram 940 horas de mentoria para 1.200 pessoas em 24 horas.\n[14:52] Assim, dava para ter pessoas fazendo?\n[14:56] Dava, mas a que custo?\n[14:59] 940 horas de mentoria para 1.200 pessoas?\n[15:04] Eu ia ter que literalmente ter alguma coisa perto de 900 mentores conversando com essas 1.200 pessoas ao longo de um dia, 24 horas.\n[15:21] Duas da manhã tinha gente falando com o negócio.\n[15:28] Esse que é o ganho, porque se você tentasse replicar esse mesmo acesso à base de informação, então quer dizer que eu vou ter que pegar os dados?\n[15:46] Qual que é o valor?\n[15:49] É isso, como que você disponibiliza, deixa mais fácil, e aí entra as combinações.\n[15:59] Porque uma das coisas que é muito legal é falar, putz, como é que eu pego esse conhecimento específico e uso ele em cima de uma base mais generalista para gerar não um novo conhecimento per si, mas uma nova forma de combinar isso, que é uma outra coisa que é muito legal.\n[16:34] E é difícil de pensar, é difícil das empresas entenderem isso e é mais difícil ainda das empresas terem os dados para poder fazer isso.\n[16:51] Então é difícil.\n[16:54] E só um ponto, eu acho que essa condição vem muito lá da base, que é a estrutura da cultura Data Driven das empresas.\n[17:09] Nós passamos isso com o ambiente de criação de Power BI, todo mundo, pô, queria dashboard, queria estrutura, mas o dado ali por si só, se ele não estiver íntegro, não estiver apresentando a realidade da empresa, ele vira um dado e principalmente se você não tomar alguma atitude perante aquele dado, vira um nada.\n[17:49] Então eu acho que essa construção da cultura Data Driven das empresas e bem feitas, a gente está vendo que hoje estão colhendo bons frutos.\n[18:07] Então eu acho que essa base aí dentro dessa evolução, porque é uma jornada, não adianta querer pegar atalho.\n[18:21] Pegou atalho, a gente não consegue ter sucesso dentro da jornada.\n[18:29] Mas aí, trazendo aqui para vocês nisso, vamos lá, a maioria das empresas não tem uma boa base de conhecimento para fazer o que a gente está fazendo no G4.\n[18:49] Mas ainda assim, os modelos são úteis para elas.\n[18:55] Como que vocês imaginam que pode ser os primeiros passos, além de começa então agora a fazer o dever de casa de daqui para frente pelo menos você ter uma boa base de dados, mas mesmo não tendo, o que eu posso usar?\n[19:23] O Codex, por exemplo, é um que você tem em dev, você não precisa ter uma puta base de códigos ali.\n[19:36] Cara, ele já tem, porque ele foi treinado na base, e código, bem ou mal, código é código, a função que chama alguma coisa vai ser igual em qualquer programa que você for escrever.\n[19:59] O Codex é um, dá para usar, seja via o copilote, seja direto no chat EPT, já dá para você ter o acesso ali para isso.\n[20:14] Quais outras coisas vocês enxergam de first steps que dá para qualquer um começar?\n[20:24] Eu acredito que inteligência artificial vai ser um catalisador da cultura data-driven no final das contas, entendeu?\n[20:39] Porque como agora com o OpenAI, por exemplo, a gente consegue interpretar dados também num determinado framework, utilizar o OpenAI como copiloto para produtividade, só que vocês estão percebendo aí em casa que você precisa ter os dados, que é isso que o Kleber está falando, de uma forma estruturada.\n[21:18] E agora é um pouco até diferente do formato que a gente vinha fazendo para BI, etc.\n[21:29] e tal.\n[21:30] Agora é você estruturar o dado, estruturar essa informação para inteligência artificial conseguir processar melhor esses dados, certo?\n[21:47] Então é até um novo jeito, um jeito diferente um pouco de fazer, mas eu entendo que vai ser um catalisador.\n[22:01] Por quê?\n[22:02] Porque vai valer muito a pena agora estruturar esses dados e criar a documentação sobre as coisas, certo?\n[22:15] Criar texto que explica bem como é que as coisas têm que ser feitas.\n[22:24] Porque se você criar um bom texto, uma boa documentação de como é que você faz determinada coisa, ou você estrutura melhor o seu dado com uma boa qualidade, a inteligência artificial vai plugar muito mais facilmente nessa informação e aí você vai conseguir ser cada vez mais data-driven.\n[23:01] Por isso que eu acredito que as empresas agora vão enxergar esse valor nessa facilidade e vai ter uma tendência de ter um desenvolvimento muito maior em relação a essas coisas.\n[23:24] Então, emprego de desenvolvedor ainda está garantido do que eu estou vendo, porque ainda...\n[23:36] Porque ainda o pessoal vai ter que estruturar essa informação, entendeu?\n[23:45] Aliás, isso foi uma sacada bem legal.\n[23:50] Eu mandei lá para vocês como a gente montou o tutorial.\n[23:57] Uma das etapas é, eu não simplesmente transcrevi minha aula e coloquei, pega a transcrição.\n[24:09] A gente pegou aquele material e formatou, usou aquele processo lá de reforço por feedback humano, tem integrado lá cada vez que alguém dá um joinha ou não.\n[24:29] Isso já vai gerando insight para a gente atualizar nossas bases.\n[24:37] Mas o primeiro desafio que eu tive com o time, que eu falei, galera, a gente precisa resumir a aula na informação mais relevante, porque na aula tem muita coisa ali que não é tão relevante.\n[25:01] Para uma aula é bom, para AI é irrelevante.\n[25:07] Aí quando eles estavam fazendo a primeira vez e validando, eles estavam fazendo para outro humano ler.\n[25:20] Aí o primeiro trabalho foi, não, calma, você não está fazendo isso para outro humano, você está fazendo isso para uma AI.\n[25:36] Então, por exemplo, ficar contando historinha para AI é ruim.\n[25:43] Você está colocando informação inútil que vai poluir o output.\n[25:51] Você tem que deixar mais direto.\n[25:56] E é uma mudança de paradigma.\n[25:59] Eu estava, por exemplo, com uma boa prática de código, que eu nem sei se é boa prática, mas eu sei que o meu time aqui adora fazer isso.\n[26:17] Você pega o código que está todo compartimentalizado, são 50 arquivos ao invés de ter um arquivo único gigante fazendo referência.\n[26:34] Para AI isso é uma porcaria.\n[26:37] Para ela é melhor menos diferentes files, que ela consegue ler tudo integrado, que várias coisas separadas.\n[26:51] Então, é uma mudança de paradigma complexa nisso.\n[26:57] Não é só salvar informação, é salvar informação de um jeito que a inteligência artificial consiga entender ela de maneira otimizada para depois a AI te ajudar a fazer mais coisas melhor.\n[27:21] E aí eu acho que talvez essa é mais para o Kleber.\n[27:28] O que você tem visto as empresas fazerem?\n[27:33] E dois, você pudesse falar além do...\n[27:38] Não, comece a organizar e tal.\n[27:42] Por onde eu talvez tenha alguma dica para iniciar?\n[27:48] Que é um pouquinho assustador quase, cara.\n[27:54] É um puta desafio.\n[27:56] Nossa, dentro desses últimos principalmente três anos, a gente já nasceu com uma cultura data-driven, até porque nós temos isso dentro do nosso DNA internamente lá como empresa mesmo.\n[28:20] A gente se absorve muito de dados e de indicadores.\n[28:26] Mas o que a gente procura construir com os clientes e junto com a Microsoft é uma construção de uma arquitetura inicial bem feita.\n[28:43] Porque se eu tenho uma arquitetura bem feita, o aprendizado de máquina ou o aprendizado das próprias pessoas dentro de todo o ambiente corporativo vai ser muito mais fácil, muito mais rápido e muito mais adaptativo.\n[29:11] E você vai tornar o seu time muito mais produtivo.\n[29:17] Quando você tem dispersão de dados, quando você tem isso descontrolado ou basicamente você não tem estrutura de governança ou isso está pulverizado em vários cílios que a gente fala das empresas, a gente não consegue construir uma cultura de dados forte.\n[29:50] Então esse é o primeiro ponto.\n[29:54] Então o primeiro passo, arquitetura bem feita.\n[30:00] Não só a tecnologia, mas a criação realmente hoje de processos e estruturas que dê essa sustentabilidade para a evolução.\n[30:15] E principalmente olhando hoje já IA nessa condição do aprendizado, de como se tornar isso também, esse aprendizado dela mais fácil, porque você vai ter possibilidades.\n[30:37] Segundo, hoje eu acho que o poder da cloud computing, da nuvem, das features que a gente tem à disposição para a gente poder organizar tudo isso através dos serviços que a própria Microsoft possui para poder fazer essa gestão, essa governança de dados e essa estrutura de dados de uma maneira que isso esteja na maneira que foi arquitetada, mas principalmente que ela tenha uma tecnologia que vai dar condições, escalabilidade, não vai ficar lento na hora que você precisar, na hora que você precisar criar uma adoção de serviço cognitivo, de identificação, você vai poder utilizar.\n[31:52] E isso, obviamente, hoje Microsoft, a gente consegue, vamos dizer assim, estar um passo à frente pela condição também da integração.\n[32:09] Porque hoje não adianta os dados estarem nesses cílios que eu coloquei para vocês e não terem esse poder de integração.\n[32:24] Então, arquitetura, uma boa tecnologia que dê escalabilidade, esse poder da integração, acho que faz a diferença para a gente poder ter um sucesso nessa nossa jornada de evolução com a IA.\n[32:49] Legal, cara.\n[32:50] Um ponto que você comentou que foi curioso, foi, por enquanto, o emprego do programador está salvo.\n[33:03] Aí eu estava conversando com o Kleber antes, sobre o Power BI agora com copilots, você literalmente consegue chegar e perguntar, monta esse dashboard para mim.\n[33:24] Então, aquela função do analista de BI de ficar montando o dashboard é uma coisa que, daqui a pouco, não tem porquê.\n[33:38] Esse cara não vai ficar montando o dashboard, ele vai analisar o dashboard para poder montar um plano de ação no mundo real com aquilo depois.\n[33:57] E aí, acho que essa talvez seja uma das grandes preocupações, quase toda grande tecnologia gerou isso, que é, mas e os empregos?\n[34:13] Mas a pessoa quer fazer...\n[34:17] Eu postei um vídeo no meu Instagram esses dias que foi feito em partes do NAI e tinha lá alguns artistas falando, é muito triste\n\nHoje para poder estar começando.\n[34:38] Mas assim, tem que ser dado um start.\n[34:42] Por mais embrionário que tenha, começa pequeno.\n[34:48] E hoje o poder da nuvem, o poder de consumo, o poder hoje da plataforma, as a service, você consumir isso apenas por um processo de você estar, dar uma assinatura e ter a possibilidade de fazer esse consumo, isso te dá as opções e a oportunidade de errar.\n[35:21] E a gente poder aprender.\n[35:25] Porque você está aqui, né, João?\n[35:29] Acho que melhor do que ninguém aí para poder falar o quanto que você errou, o quanto que você acertou dentro dessa construção.\n[35:45] Eu acho que todos nós aí também como empreendedores e empresários, a gente erra e acerta muito.\n[35:57] E dentro desse caminho da adoção da nova tecnologia, a gente precisa testar, a gente precisa validar, a gente precisa entender os melhores caminhos, mas eu acho que não é mais o se eu vou ou se eu não vou.\n[36:24] É quando eu vou.\n[36:26] E aí falando nisso, é uma coisa que eu acho muito legal do que a Microsoft está fazendo, que é facilitar a adoção colocando dentro do fluxo natural de trabalho das pessoas.\n[36:48] Então o que é legal, eu não testei ainda o Copilot no Excel, no PowerPoint, quero testar se tiver ali como furar a fila e tal, mas deixa ele abaixo.\n[37:07] Como eu falei, eu uso muito no Bing.\n[37:12] Cara, no Edge, né, que é Bing AI conectado.\n[37:17] Eu não preciso ficar copiando da página que eu estou e colocando no chat APT.\n[37:27] Cara, eu literalmente clico ali, abro o painelzinho lateral e eu falo, me tira, considerando que eu sou uma empresa de educação, como é que eu poderia aplicar?\n[37:48] Eu já fiz várias perguntas assim, cara, na minha realidade como é que você faria?\n[37:58] Ele me dá um start de conversa do que fazer, dá outros sites que falam, outros links que falam de um tema parecido para eu continuar meus estudos.\n[38:17] E isso é uma coisa que eu vejo que vocês estão fazendo muito bem na Microsoft, que ficou muito natural e até bizarro pensar que no fim do dia a interface que está funcionando bem é literalmente um chat para perguntar.\n[38:45] Ninguém imaginava, né?\n[38:48] Ninguém imaginava.\n[38:50] Todo mundo achando que era o óculos gigante de realidade.\n[38:58] Cara, não, é só um chatzinho ali que você vai lá e pede como você faria no Teams ali ou no WhatsApp.\n[39:10] Você pede agora, só que ao invés de ser um ser humano é AI.\n[39:18] O que vocês estão vendo de mais legal assim de experiências com o Copilot, que ainda está em preview?\n[39:31] Eu não sei, até assim, eu coloquei os nossos convidados talvez nessa e a Jússica que como está em preview tem muita coisa que eles não podem falar, mas do que dá para falar.\n[39:53] O que vocês estão vendo de legal para a galera pensar também, falar, tá, ainda não tem o Copilot, daqui a pouco vou ter, mas pelo menos assim, a linha de raciocínio, sabe, de facilitar.\n[40:17] Tem uma demonstração do time de produto que eu vi, né?\n[40:24] Isso também é tudo, né?\n[40:27] Já está todo mundo já bem público, né?\n[40:32] Esse tipo de informação.\n[40:35] Eu fiz, eu vi uma demonstração do time de produto que era bem legal assim, porque a gente estava no Teams, certo?\n[40:50] Fazendo a reunião e aí eles estavam apresentando o Copilot, certo?\n[40:58] Do 365, que daí, para quem não sabe ainda, o Copilot do 365 ele vai ser o OpenAI, né?\n[41:09] Basicamente, né?\n[41:11] O chat ali, né?\n[41:13] Chat de PT conectado no Word, no Excel, no PowerPoint e assim por diante, tá?\n[41:23] E aí no Teams é também um produto do 365, ele também funciona dessa forma.\n[41:33] Aí galera, olhem que coisa interessante.\n[41:38] Todo o áudio que está sendo falado na reunião, você consegue pegar o áudio e transcrever para texto.\n[41:51] Então, todo o áudio que está sendo falado estava sendo transcrito para texto e aí ele abria o copiloto dentro da reunião, por exemplo, e aí ele falava assim, o que que eu falei até o momento nessa reunião, entendeu?\n[42:19] E aí, como está sendo transcrito o áudio, o GPT, né, o OpenAI, ele consegue pegar o áudio que foi transcrito até o momento e gerar um resumo em bullet point mesmo, assim, para o usuário, para ele, pessoas que chegaram atrasadas, né?\n[42:49] Quais foram os combinados da reunião?\n[42:53] Aí está integrado com o Outlook, já manda todos os invites que a gente falou que ia mandar.\n[43:05] Exatamente.\n[43:06] Qualquer pergunta.\n[43:09] E no futuro, a expectativa é que ele inclusive dê sugestões de próximas agendas e que já marque os horários e etc e tal, né?\n[43:25] Então, esse é um tipo de exemplo ali, né, integrado no Teams.\n[43:33] Outra coisa é o Outlook também, né, que vai ser uma mão na roda, que é o quê, né?\n[43:43] Tem a thread de e-mail acontecendo, então o GPT, o OpenAI, ele vai ter todo o contexto do que foi falado de e-mails trocados.\n[43:59] Então, você diz assim, me gera um draft, né, de resposta de e-mail para essa thread.\n[44:10] E aí, ele já vai gerar para você, né, aquele e-mail.\n[44:17] Inclusive, você pode anexar documentos, por exemplo, anexar uma planilha, e aí ele já plota um gráfico que está lá no Excel, por exemplo, no corpo do e-mail, entendeu?\n[44:38] Então, como isso vai trazer velocidade na construção do e-mail, que, convenhamos, construir um e-mail desse, de pegar um gráfico no Excel e colocar lá no corpo, demora alguns bons minutos, né, para você escrever um bom e-mail, uns 15, 20 minutos, eventualmente, né?\n[45:13] E agora, com o OpenAI, que vai demorar ali em torno de um, talvez agora, finalmente, a reunião vai ser um e-mail, né?\n[45:28] E vamos ter ata, né?\n[45:30] Vai ter ata, vai ter to-do no final direitinho, ninguém vai esquecer que tinha combinado de fazer tal coisa, isso é maravilhoso.\n[45:47] Maravilhoso.\n[45:48] Eu acho que um ponto importante é que, assim, eu acho que isso, para nós que somos parceiros aí e acompanhamos, estão com o Microsoft nessa jornada há muito tempo, as criações dos produtos e das ideologias da Microsoft sempre, ela surge de muitas dores.\n[46:21] O pacote Office, até pegar uma curiosidade pro pessoal que está nos acompanhando aqui, o Word, ele nasceu de uma Xerox que o Bill Gates tirou, teve uma dor ali que ele queria editar aquele documento antes de enviar e ele falou, pô, tenho que criar.\n[46:53] E aí, obviamente, nasceu o famoso Word, né, dentro desse processo.\n[47:01] E muito do que está acontecendo agora, eu entendo que também são dores que vêm acontecendo ao longo dessas jornadas de identificação da própria Microsoft, mas com certeza agora é o poder de fazer o mais com menos, né?\n[47:29] E todas essas ferramentas que a gente tem e elas resolvem dores.\n[47:38] Assim como eu dei o exemplo ali da Xerox que queria fazer essa edição, eu acho que hoje nós temos uma dor do preenchimento do CRM que o VivaSales já está resolvendo hoje da integração e colocando as informações, pegando do e-mail e colocando isso dentro do CRM, do Dynamics, do Salesforce, dentro da estrutura.\n[48:18] O próprio Teams Premium que o Alfonso está colocando vai transcrever as reuniões porque a gente tem uma dificuldade como empresa de fazer atas.\n[48:36] O pessoal chega atrasado na reunião, tem que voltar, recapitular, identificar dentro desse processo.\n[48:49] O processo com o VivaGoals hoje na estrutura de OKRs e o processo da inteligência artificial integralizado hoje com os KPIs e os OKRs dentro dessa estrutura.\n[49:09] Ou seja, então, todo esse movimento que a gente percebe realmente é de otimização, mas principalmente integração.\n[49:24] Eu acho que aí é o grande ganho que a gente tem também nesse novo momento que a gente está passando com essas ferramentas.\n[49:40] Então, eu acho que é um facilitador.\n[49:44] Isso que a gente tem que identificar.\n[49:49] Eu tenho mais duas perguntas aqui, uma sobre o presente e uma sobre o futuro.\n[49:59] A do presente hoje, se vocês fossem falar, cara, as três principais áreas de uma empresa que eu falaria, estuda sobre a área de modo geral, mas tenta ir atrás de exemplo e buscar para a área A, B, C, porque tem muita coisa quick win.\n[50:29] Quais seriam na visão de vocês?\n[50:33] Vamos começar com essa.\n[50:36] Eu acho que marketing hoje tem um ganho exponencial na condição hoje de geração de conteúdo, otimização.\n[50:50] A gente estava conversando com o time de produto lá, o quanto que o G4 está se beneficiando na condição de lançamento hoje de novas mentorias ou novos conteúdos e produtos dentro com esse processo.\n[51:15] E efetivamente, eu acho que um outro movimento que a gente tem é a escala no processo operacional do dia a dia.\n[51:29] Então, os processos repetitivos, o que eu consigo utilizar?\n[51:37] Então, desde o financeiro, na possibilidade dele ler o boleto e já inserir direto no sistema através de uma identificação, um processo.\n[51:54] Eu acho que esses são grandes ganhos aí, pequenos wins que a gente tem hoje já de otimização, que a gente tem ganho.\n[52:09] Mas assim, em vez de ser só o RPA, que é o Robotic Process Automation, ser o IPA.\n[52:20] IPA, que a gente estava conversando, que o pessoal, hoje é um novo movimento, porque o Robotic é aquele processo operacional de dia a dia, tudo.\n[52:38] E esse novo movimento do IPA, do Intelligence Process Automation, é a condição mesmo de trazer o insight e trazer o seguinte, a partir daquela ação, eu já vou gerar um insight e vou trazer a coisa meio que pronta e falar, ó, a coisa tá aqui, o indicador é esse, o processo, na verdade, já",
+  "timestamps_estimated": true
+}

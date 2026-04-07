@@ -1,0 +1,224 @@
+{
+  "episode_id": "34748488494",
+  "title": "Como Criar Bons Hábitos para 2024? - Com Dr. Rodrigo Duprat | G4 Podcasts",
+  "date_published": 1701875191,
+  "duration": 3537,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "mentioned",
+      "company": "G4 Educação",
+      "title": "Chairman e Cofundador"
+    },
+    {
+      "name": "Marcela",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Sócia e Diretora de Pessoas"
+    },
+    {
+      "name": "Rodrigo Duprat",
+      "role": "guest",
+      "company": "",
+      "title": "Médico Cirurgião Plástico"
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Consultoria Empresarial",
+      "context": "Discussão sobre hábitos e alta performance"
+    },
+    {
+      "name": "Rd Summit",
+      "industry": "Eventos e Conferências",
+      "context": "Evento mencionado como local de gravação"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Medicina Integrativa",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "Alta Performance",
+      "category": "Desempenho Pessoal e Profissional"
+    },
+    {
+      "name": "Gestão de Pessoas",
+      "category": "Recursos Humanos"
+    },
+    {
+      "name": "Neurociência",
+      "category": "Ciência e Saúde"
+    },
+    {
+      "name": "Comportamento Funcional",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Dharma",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Taoísmo",
+      "category": "Filosofia"
+    },
+    {
+      "name": "Inteligência Emocional",
+      "category": "Psicologia"
+    },
+    {
+      "name": "Soft Skills",
+      "category": "Habilidades Profissionais"
+    },
+    {
+      "name": "Autoconhecimento",
+      "category": "Desenvolvimento Pessoal"
+    },
+    {
+      "name": "telômero",
+      "category": "biologia"
+    },
+    {
+      "name": "retiro pessoal",
+      "category": "prática de autoconhecimento"
+    },
+    {
+      "name": "criação de hábitos",
+      "category": "psicologia e desenvolvimento pessoal"
+    },
+    {
+      "name": "disciplina",
+      "category": "habilidade pessoal"
+    },
+    {
+      "name": "ambiente",
+      "category": "fatores de influência comportamental"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "18 a 250 dias",
+      "context": "Tempo médio para criar um hábito"
+    },
+    {
+      "value": "70%",
+      "context": "Proporção de dias em que a pessoa não acorda motivada"
+    },
+    {
+      "value": "86 bilhões",
+      "context": "Número médio de neurônios no cérebro humano"
+    },
+    {
+      "value": "70 bilhões",
+      "context": "Número estimado de neurônios automáticos no cérebro humano"
+    },
+    {
+      "value": "18 dias a 250 dias",
+      "context": "tempo necessário para criar um hábito"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Dharma",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Autoconhecimento",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Inteligência Emocional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Marcela",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Criação De Hábitos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Alta Performance",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Disciplina",
+      "target_type": "concept"
+    },
+    {
+      "source": "G4 Educação",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rd Summit",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Telômero",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Medicina Integrativa",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Neurociência",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Retiro Pessoal",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rodrigo Duprat",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ambiente",
+      "target_type": "concept"
+    }
+  ]
+}

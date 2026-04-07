@@ -1,0 +1,405 @@
+{
+  "episode_id": "35054371806",
+  "title": "O BOOM DAS PRÓTESES CAPILARES COM STANLEY BITTAR | EXTREMOS",
+  "date_published": 1742389200,
+  "duration": 4275,
+  "chunks_processed": 3,
+  "people": [
+    {
+      "name": "Stanley Bittar",
+      "role": "guest",
+      "company": "Não especificado",
+      "title": "Empreendedor e especialista em saúde masculina"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador e Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Cofundador e Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Igor",
+      "role": "mentioned",
+      "company": "Flow Podcast",
+      "title": "Podcaster"
+    },
+    {
+      "name": "Rafa",
+      "role": "mentioned",
+      "company": "Stark Bank",
+      "title": "Não especificado"
+    },
+    {
+      "name": "Marcela",
+      "role": "mentioned",
+      "company": "Stark Bank",
+      "title": "Não especificado"
+    },
+    {
+      "name": "André Fernandes",
+      "role": "mentioned",
+      "company": "Não especificado",
+      "title": "Pastor"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-fundador"
+    },
+    {
+      "name": "Janguier",
+      "role": "mentioned",
+      "company": "Holden",
+      "title": "Sócio"
+    },
+    {
+      "name": "Janguê",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação e Negócios",
+      "context": "Plataforma de educação e negócios, mencionada como organizadora do podcast."
+    },
+    {
+      "name": "Flow Podcast",
+      "industry": "Mídia e Entretenimento",
+      "context": "Podcast mencionado como case de sucesso."
+    },
+    {
+      "name": "Stark Bank",
+      "industry": "Serviços Financeiros",
+      "context": "Mencionado em relação a uma ação em Mônaco."
+    },
+    {
+      "name": "Espaço Laser",
+      "industry": "Estética e Beleza",
+      "context": "Mencionado em relação a serviços de depilação."
+    },
+    {
+      "name": "Holden",
+      "industry": "Saúde e Estética",
+      "context": "Empresa mencionada como holding que administra clínicas e unidades de saúde e estética."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Transplante Capilar",
+      "category": "Saúde e Estética"
+    },
+    {
+      "name": "Marketing de Influência",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Humanização dos Negócios",
+      "category": "Estratégia de Negócios"
+    },
+    {
+      "name": "Beleza e Autoestima",
+      "category": "Saúde e Bem-estar"
+    },
+    {
+      "name": "G4 Skills",
+      "category": "Educação e Tecnologia"
+    },
+    {
+      "name": "Franchising",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Rede Própria",
+      "category": "Modelo de Negócio"
+    },
+    {
+      "name": "Marketing Digital",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Tráfego Pago",
+      "category": "Estratégia de Marketing"
+    },
+    {
+      "name": "Escalabilidade",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "CRM",
+      "category": "Ferramenta de Gestão"
+    },
+    {
+      "name": "Ecossistema",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "Pareto",
+      "category": "Conceito de Negócios"
+    },
+    {
+      "name": "comportamento do consumidor",
+      "category": "marketing"
+    },
+    {
+      "name": "mídia orgânica",
+      "category": "marketing"
+    },
+    {
+      "name": "mídia paga",
+      "category": "marketing"
+    },
+    {
+      "name": "prova social",
+      "category": "marketing"
+    },
+    {
+      "name": "conversão presencial",
+      "category": "vendas"
+    },
+    {
+      "name": "Stanley's Experience",
+      "category": "estratégia de marketing"
+    },
+    {
+      "name": "expansão internacional",
+      "category": "estratégia de negócios"
+    },
+    {
+      "name": "IPO",
+      "category": "finanças"
+    },
+    {
+      "name": "margem de lucro líquido",
+      "category": "finanças"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Beleza Vende",
+      "author": "Stanley Bittar"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "200 milhões",
+      "context": "Faturamento atual mencionado."
+    },
+    {
+      "value": "405 milhões",
+      "context": "Meta de faturamento para o ano."
+    },
+    {
+      "value": "1 bilhão",
+      "context": "Meta de faturamento para o próximo exercício."
+    },
+    {
+      "value": "1 milhão",
+      "context": "Número de pessoas alcançadas pela empresa de Stanley Bittar."
+    },
+    {
+      "value": "54 clínicas",
+      "context": "Número atual de clínicas operadas pela Holden."
+    },
+    {
+      "value": "68 clínicas",
+      "context": "Número de clínicas previstas para o próximo mês."
+    },
+    {
+      "value": "75 clínicas",
+      "context": "Número de clínicas previstas após a próxima expansão."
+    },
+    {
+      "value": "100 clínicas",
+      "context": "Meta de expansão até o final do ano."
+    },
+    {
+      "value": "superior a 50%",
+      "context": "taxa de conversão presencial atual"
+    },
+    {
+      "value": "80%",
+      "context": "meta de taxa de conversão presencial"
+    },
+    {
+      "value": "dois milhões",
+      "context": "meta de base de clientes até o final do ano"
+    },
+    {
+      "value": "20 milhões de dólares",
+      "context": "investimento necessário para expansão para seis países"
+    },
+    {
+      "value": "mais de um bilhão por ano",
+      "context": "meta de faturamento em cinco anos"
+    },
+    {
+      "value": "superior a 30%",
+      "context": "margem de lucro líquido atual"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Expansão Internacional",
+      "target_type": "concept"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Conversão Presencial",
+      "target_type": "concept"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mídia Orgânica",
+      "target_type": "concept"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Maior Rede De Transplante Capilar Da América Latina",
+      "target_type": "company"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "recommends",
+      "target": "A Beleza Vende",
+      "target_type": "company"
+    },
+    {
+      "source": "Bruno Nardon",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Stanley'S Experience",
+      "target_type": "concept"
+    },
+    {
+      "source": "Marcela",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stark Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Holden",
+      "target_type": "company"
+    },
+    {
+      "source": "Rafa",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Stark Bank",
+      "target_type": "company"
+    },
+    {
+      "source": "Janguier",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Holden",
+      "target_type": "company"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Holden",
+      "target_type": "company"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Comportamento Do Consumidor",
+      "target_type": "concept"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Prova Social",
+      "target_type": "concept"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Margem De Lucro Líquido",
+      "target_type": "concept"
+    },
+    {
+      "source": "Alfredo Soares",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Mídia Paga",
+      "target_type": "concept"
+    },
+    {
+      "source": "Igor",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Flow Podcast",
+      "target_type": "company"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "mentioned",
+      "target": "Janguê",
+      "target_type": "person"
+    },
+    {
+      "source": "Stanley Bittar",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Ipo",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tony Celestino",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    }
+  ]
+}

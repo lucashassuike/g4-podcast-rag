@@ -1,0 +1,390 @@
+{
+  "episode_id": "34748488662",
+  "title": "#016 - Erros, acertos e uma trajetória de aprendizados",
+  "date_published": 1608139844,
+  "duration": 2661,
+  "chunks_processed": 4,
+  "people": [
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Mentor"
+    },
+    {
+      "name": "Rodrigo Sampaio",
+      "role": "mentioned",
+      "company": "Rocket Internet",
+      "title": "CEO da Rocket América Latina"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Miguel",
+      "role": "mentioned",
+      "company": "BMA",
+      "title": "Lawyer"
+    },
+    {
+      "name": "Rodolfo",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Israel",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Ricardo Simon",
+      "role": "mentioned",
+      "company": "",
+      "title": ""
+    },
+    {
+      "name": "Thales Gomes",
+      "role": "host",
+      "company": "Singoo",
+      "title": "Founder"
+    },
+    {
+      "name": "Rodrigo",
+      "role": "guest",
+      "company": "ProSolute",
+      "title": "Founder"
+    },
+    {
+      "name": "Denis",
+      "role": "mentioned",
+      "company": "Easy Taxi",
+      "title": "Co-founder"
+    },
+    {
+      "name": "Bruno",
+      "role": "host",
+      "company": "",
+      "title": ""
+    }
+  ],
+  "companies": [
+    {
+      "name": "G4 Educação",
+      "industry": "Educação",
+      "context": "Podcast e escola de negócios"
+    },
+    {
+      "name": "Easy Taxi",
+      "industry": "Mobilidade",
+      "context": "Empresa fundada por Tallis Gomes"
+    },
+    {
+      "name": "Rocket Internet",
+      "industry": "Investimentos e startups",
+      "context": "Investidora da Easy Taxi"
+    },
+    {
+      "name": "Singoo",
+      "industry": "Beleza e bem-estar",
+      "context": "Empresa mencionada por Tallis Gomes"
+    },
+    {
+      "name": "Singu",
+      "industry": "Beauty and Wellness",
+      "context": "Discussed as a startup facing challenges and eventual success"
+    },
+    {
+      "name": "Natura",
+      "industry": "Cosmetics",
+      "context": "Mentioned in relation to a deal with Singu"
+    },
+    {
+      "name": "Zitax",
+      "industry": "Technology",
+      "context": "Discussed as a company where contractual mistakes were made."
+    },
+    {
+      "name": "Singul",
+      "industry": "Technology",
+      "context": "Discussed as a company where contractual and hiring mistakes were made."
+    },
+    {
+      "name": "Gestão 4.0",
+      "industry": "Education",
+      "context": "Referenced as a company where lessons from past mistakes were applied."
+    },
+    {
+      "name": "Prosolute",
+      "industry": "Legal and Financial Services",
+      "context": "Company founded by Rodrigo, focused on the buying and selling of judicial processes."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gestão",
+      "category": "Negócios"
+    },
+    {
+      "name": "Liderança",
+      "category": "Negócios"
+    },
+    {
+      "name": "Alta performance",
+      "category": "Negócios"
+    },
+    {
+      "name": "Transparência",
+      "category": "Valores pessoais"
+    },
+    {
+      "name": "Sinceridade",
+      "category": "Valores pessoais"
+    },
+    {
+      "name": "Hustler",
+      "category": "Perfil empreendedor"
+    },
+    {
+      "name": "Take rate",
+      "category": "Modelo de negócios"
+    },
+    {
+      "name": "Leadership",
+      "category": "Business"
+    },
+    {
+      "name": "Startup Funding",
+      "category": "Finance"
+    },
+    {
+      "name": "Resilience",
+      "category": "Personal Development"
+    },
+    {
+      "name": "Business Scaling",
+      "category": "Strategy"
+    },
+    {
+      "name": "contractual agreements",
+      "category": "Business Practices"
+    },
+    {
+      "name": "hiring strategies",
+      "category": "Human Resources"
+    },
+    {
+      "name": "fraudulent legal actions",
+      "category": "Legal Issues"
+    },
+    {
+      "name": "Gestão Libertária",
+      "category": "Management Framework"
+    },
+    {
+      "name": "Incentivos Corretos",
+      "category": "Management Strategy"
+    },
+    {
+      "name": "Empoderamento Econômico",
+      "category": "Social Impact"
+    },
+    {
+      "name": "Cultura do Erro",
+      "category": "Organizational Culture"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "23 anos",
+      "context": "Idade de Tallis Gomes ao se tornar CEO global"
+    },
+    {
+      "value": "5 anos",
+      "context": "Tempo para provar o modelo de negócio da Singoo"
+    },
+    {
+      "value": "25-26 years",
+      "context": "Age of Tallis Gomes when he sold Easy Taxi"
+    },
+    {
+      "value": "Three years",
+      "context": "Time Tallis Gomes mentioned to rebuild Singu if necessary"
+    },
+    {
+      "value": "millions of reais",
+      "context": "Amount trusted to Tallis Gomes based on his reputation for keeping his word."
+    },
+    {
+      "value": "one million reais",
+      "context": "Amount involved in a fraudulent legal action against Singul."
+    },
+    {
+      "value": "35 países em 18 meses",
+      "context": "Expansion of Easy Taxi under Thales Gomes' leadership."
+    },
+    {
+      "value": "100 milhões de dólares",
+      "context": "Value of a company sale mentioned in the context of the 'Paypal Mafia brasileira' group."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Incentivos Corretos",
+      "target_type": "concept"
+    },
+    {
+      "source": "Singu",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Natura",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Prosolute",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "G4 Educação",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Empoderamento Econômico",
+      "target_type": "concept"
+    },
+    {
+      "source": "Rocket Internet",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Cultura Do Erro",
+      "target_type": "concept"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Miguel",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Bma",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singoo",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singu",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "discussed",
+      "target": "Gestão Libertária",
+      "target_type": "concept"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Singul",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "mentored_by",
+      "target": "Rodrigo",
+      "target_type": "person"
+    },
+    {
+      "source": "Easy Taxi",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Rocket Internet",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Zitax",
+      "target_type": "company"
+    },
+    {
+      "source": "Thales Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Easy Taxi",
+      "target_type": "company"
+    },
+    {
+      "source": "Tallis Gomes",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Gestão 4.0",
+      "target_type": "company"
+    },
+    {
+      "source": "Rodrigo Sampaio",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Rocket Internet",
+      "target_type": "company"
+    }
+  ]
+}

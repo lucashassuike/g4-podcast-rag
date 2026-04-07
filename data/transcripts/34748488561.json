@@ -1,0 +1,3561 @@
+{
+  "id": 34748488561,
+  "title": "Como Eles Criaram um Mercado e Revolucionaram um Hábito - Fundadores da Easy Taxi | G4 Podcasts",
+  "guest": "",
+  "date_published": 1692262800,
+  "duration": 5338,
+  "text": "me responde uma pergunta rápida. Qual é a nota que você dá para o seu time? Cinco? Seis? Sete? Bem, se a sua resposta foi dentro dessa média, saiba que a nota do seu time é a nota da sua empresa. Afinal, uma companhia é formada pelas pessoas que a compõem. E o resultado do negócio depende diretamente da performance desses indivíduos. Sabendo do desafio que é treinar e capacitar gente, nós desenvolvemos o G4 Skills, a plataforma de treinamento de times do G4 Educação que avalia os gaps de habilidades e maturidade do seu colaborador. E além disso, cria uma trilha personalizada de desenvolvimento para cada membro do seu time. Todas essas trilhas são compostas com as mais de centenas de horas que temos nas formações online do G4 Educação. Para você conhecer o G4 Skills, eu liberei sete dias de acesso gratuito à nossa plataforma. Basta escanear o QR Code que está aqui na tela ou clicar no link do descritivo deste episódio. Corre no link e garanta o seu acesso gratuito. E se você se interessar em adquirir o G4 Skills, eu garanti uma condição especial para você, que é ouvinte do G4 Podcast. Agora bora para o episódio. E eu tinha um ódio profundo de ser pobre. Mas um ódio. Eu parecia que eu estava mastigando merda todo dia de manhã quando eu acordava. Falei, velho, que ódio de ser pobre. Eu quero arrumar um jeito para não ser pobre mais. E essa ambição, esse ódio de ser pobre, me fazia o tempo inteiro buscar. E eu só estou aqui por causa desse ódio que eu tinha, sabe? Essa vontade, esse foco bizarro de fazer alguma coisa. Na hora que eu vi a botana da EasyTaxi, eu falei assim, cara, é agora. Eu não posso errar. O business arriscado, eu vi o tempo todo. Uma coisa que a gente concorda muito, a gente falava muito, é assim, cara, ideia não vale nada. Vale você implementar a ideia e botar o negócio para funcionar. O que é o Nubank hoje era a EasyTaxi na época. Cara, vocês tiveram mais acesso que o Facebook. Vocês tiveram mais hit do que o Facebook naquela época. Pois é. A gente trabalhava todo dia até meia-noite, uma hora da manhã. No outro dia, sete da manhã, estava lá. Eu nem dormia, velho. Nós três já passamos por isso. E é engraçado, a geração de hoje parece que rejeita esse tipo de ideia. Cara, para mim era assim, meu irmão. Tem que fazer um negócio extraordinário. Mas é que isso não pode ser o principal, eu concordo. Não dá para você viver dois anos assim. Fala, galera. Esse aqui é o G4 Podcast. E hoje com dois convidados extremamente especiais para mim. Porque Bernardo Bicalho, meu amigo de longa data do Rio de Janeiro, foi o primeiro CTO da EasyTaxi. O cara que quando eu tive a ideia, eu fui falar com ele. E o Vinícius Grácia, o oficial CTO da EasyTaxi. De fato, meu co-founder. Que com ele que a gente criou o negócio e expandiu para o mundo inteiro. Então hoje, nesse podcast, vocês vão de fato conhecer a história de hustling. A história de criar negócios. De deixar passar oportunidades. E eu espero, além de lições, entregar aí a próxima hora, hora e meia de papo. Algo bastante divertido e descontraído para vocês conhecerem o meu passado verdadeiro. Então, Bicalho, obrigado pela presença. Vini, é um prazer estar com você aqui também, cara. É um prazer estar com você também aqui, Thales. Galera, eu queria começar puxando lá atrás. Quando que eu te conheci, Bicalho? Eu mudei para o Rio em 2005, porque eu fui fazer faculdade. Eu conheci o Pedrones. Isso, ESPM. ESPM. E aí eu acho que eu te conheci. Eu estou tentando puxar na memória, velho. O exato momento que eu te conheci. Eu acho que eu te conheci em algum rolê do Pedrones. Eu acho que foi rolê da ESPM. Churrasco da ESPM. Mas você foi no churrasco da ESPM por quê? Pô, porque o Pedrones encabeçava. Eu botava todo dia. Cara, os churrascos da ESPM... Era incrível, né? Um negócio incrível, cara. É só isso que eles fazem bem mesmo, né? Uma festa. Mas fazem muito bem, pelo que eu vou te falar. Eu acho que foi por aí mesmo, cara. E eu acho que nesse momento ele me apresentou. Falou, pô, vou te apresentar o Bicalho, que ele é um cara de tecnologia. Eu já gostava muito de tech também. E a gente começou a trocar uma ideia. E para mim você já era, tipo, aquele cara unreachable, sabe? Eu falava, caralho, o Bicalho, mané. O cara é pica da tecnologia. Já tinha uns empregos maneiros. O que você fazia nessa época mesmo? Cara, a gente tem uma diferença de idade, né? Então, pô, eu já estava num grau sênior ali, gestão e tal. Eu estava trabalhando, se não me engano, era, sei lá, 2006, 2007. É por aí. Eu estava na corretora Ágora. É na Ágora, é isso mesmo. Hoje acho que ela nem está mais aí, porque teve aquisição do Bradesco e tal. Então repaginou e tal. Então eu entrei na Ágora, assim, numa mudança, né? Eu trabalhava em banco privado, assim, bem produto pequeno, né? Conta corrente, fundos. Você trabalhava no Bozano, não foi? Trabalhei no banco Bozano, que foi comprado pelo Santander. Fui parar no Santander. Do Santander teve a site Patagon. A gente foi, o primeiro shopping financeiro foi Patagon. Aí a Patagon deu uma spin-off e virou Lemon Bank. Eu fui trabalhar no Lemon Bank, que era um banco de microcrédito. E aí, pô, cinco anos ali no Lemon Bank, eu cheguei num ponto ali que eu falei assim, pô, zerei meu jogo aqui, cara. Eu já automatizei todas as minhas tarefas e tal. Falei com o presidente. Eu falei, presidente, eu quero mexer com ações, opções, termo. Quero mexer com as paradas avançadas de mercado financeiro. Ele falou assim, cara, não é aqui. Eu me birilitei para ganhar metade do meu valor para trabalhar na Ágora para entrar nesse mercado financeiro. E aí foi legal. Pô, peguei uns projetos bacanas de home broker. Acho que nessa época, mais ou menos, a gente começou a desenvolver uma amizade. É, foi por aí. Na Ágora, eu lembro de você na Ágora, né? Isso. E até o motivo de eu sair da Ágora é interessante, né? Eu fui lá para ganhar o salário baixo, porque mercado financeiro é aquilo, né? Salário baixo, bônus alto. Aí eu topei o salário para aprender. Chegou ali no final do período de um ano. Parabéns, chegou o meu gestor, né? Parabéns, Bicalho. Você ganhou o maior bônus da companhia que uma pessoa de tecnologia pode receber. E quem era quanto? Esse predicado aí, sabe? O cara limitou o meu bônus. Não importava o quanto eu entregasse. Tinha um cap para o quanto uma pessoa de tecnologia recebe de bônus. Na época, foi tipo 40 mil reais em 2006. Que era bastante dinheiro. Sério, né? Mas se fizesse um compound ali do meu salário com o bônus, eu estava ganhando a mercado. Entendi. Aí eu falei, isso aqui não está legal. Fui para a XP, que estava em plena ascensão. Um monte de gente conhecida lá. O tamanho da XP na época? Cara, a XP, quando eu entrei, ela ainda era no Shopping Leblon. Já era uma empresa de expressão, né? Mas a Ágora era líder do mercado ainda. E aí, pô, acompanhei todo o crescimento ali, de 2007 a 2010, para a XP. E foi muito interessante trabalhar com o Benchmol, perto do Guilherme Benchmol, que é um astro realmente, um cara fora de série. E acompanhar a XP durante a maior crise que a gente viu, que foi o super... O subprime, né? Você estava no olho do furacão do subprime, né? Pior até que o olho do furacão, porque eu era responsável por fazer o sistema de risco, que nós tomamos a decisão na XP de descartar as soluções de mercado e desenvolver uma nossa. Por que? Qual foi o efeito? Cara, a gente achava que as soluções de mercado eram ruins, né? E realmente, quando todo mundo no mercado tem a mesma solução, ninguém vai ter... Não tem diferencial, né? Então, peguei esse projeto lá, foi bem bacana. A gente seguiu aquela mesma máxima que a gente sempre conversa muito, né? Contrata engenheiro, que o cara sabe fazer tudo. Ele vai dar um jeito. Eu tinha um canal lá com um cara chamado Rafael Guarilha, um ex... Eu lembro do Guarilha. Pô, o Guarilha, cara. Guarilha. Foi Zita, não foi? IME, sei lá, IME, é. E ele falou, eu conheço uns caras cabeçudíssimos, engenheiros\n\nNa Gap Sabido, que estava virando depois a Xerife, né, virou uma distribuidora junto com o site, eu montei um APM, um Analytics ao vivo ali, cara, que eu te mostrei. Eu lembro. Olha só, é uma tela feiona porque eu não desenhava a tela, né? Eu lembro disso. Mas você conseguia, em tempo real, ver o cliente entrando no site, todos os clientes entrando no site, preenchendo o carrinho, fazendo busca, ao vivo. Era antes do Google Analytics existir, porra. Aí você virou para mim e falou assim, Bicalho, eu vendo isso aí por uns 100 milhões, cara. Vamos botar essa parada, vamos produtizar isso aí, não sei o que. E eu, mais uma vez, falei assim, porra, não, Thales, você não entende, isso aqui foi só para fazer isso para as outras, eu vou precisar trabalhar para caralho. É que eu me lembro de ser um cara muito pragmático. Então você sempre falava para mim, ficava no meu irmão, esse negócio de papel, eu estou fora, eu quero dinheiro. Você sentava na tua mesinha ali, tocando uns programas que você gravava dos Estados Unidos, você ficava ouvindo, o dia inteiro ele, meu irmão, não, eu quero dinheiro, não quero saber dessa porra de papel. E eu tinha isso treinado na cabeça, porque eu falava o seguinte, cara, se eu for começar a caminhada, eu estou tudo errado, eu tive uma educação ruim, eu sou um dropout, eu era um dropout, eu larguei a faculdade, eu falei, pô, eu preciso arrumar algum leapfrog para a minha vida e não vai ser galgando carreira corporativa. Minha formação era uma porcaria que eu decidi fazer SPM, dropei SPM, grandes merda. Tive uma formação de escola muito ruim, escola pública do interior de Minas Gerais. Então eu falei, cara, eu nunca vou arrumar um emprego bom, porque eu não sou chamado para entrevista. O teu círculo, eles tinham uma carreira desenhada, vou estudar SPM e vou trabalhar numa agência. Era o circuito que todo mundo, você não entrou muito, acho que você namorou esse circuito, mas não entrou. É que o ponto é o seguinte, o nego falou assim, porra, mano, você é criativo, nunca tive orientação profissional, né, velho? Porque minha família é muito humilde, os caras não sabiam o que é isso. Então, tipo, eu fui amigo falando na rua, me lembro que foi um radialista da cidade que falou comigo assim, falou, pô, você é muito criativo, sempre escrevi bem, né? Ah, você tem que fazer publicidade. Eu falei, tá bom, vou fazer publicidade, né? Arrumei um jeito de entrar na SPM lá. Só que, pô, não tem nada a ver comigo, tá ligado? Eu teria feito engenharia, sei lá, economia, alguma coisa assim, que são as coisas que tem mais a ver comigo, mas whatever também. Acho que todo ponto aqui, eu falei, eu não vou conseguir galgar uma carreira, eu preciso eu criar o meu próprio negócio, que as pessoas não vão me dar chance de ir para a entrevista. E eu me lembro que é o seguinte, por exemplo, eu me lembro direitinho que eu ia muito bem em entrevista, quando eu conseguia em entrevista. Uma vez eu entrei no processo da Americanas. E aí eu fui na última fase da Americanas. Aí o cara da Americanas foi e falou comigo, falou assim, cara, eu gosto muito de você. Só que tem um problema, né? A minha faculdade estava trancada. Então eu meio que mentia isso, que estava trancada, pra ver se eu arrumava um emprego. Porque, meu irmão, você lembra a situação que eu era? Quase de passar fome ali. Então eu tinha que ter alguma coisa pra pagar o dinheiro. Eu meio que mentia, falei, cara, se eu conseguir entrar na parada, eu pego o dinheiro, posso ir pra faculdade, dou um jeito. E aí o cara falou assim, tua faculdade está trancada, pô. Eu não posso te colocar aqui, nesse estágio. Aí eu falei assim, cara, fodeu, eu não consigo sair desse limbo. Eu vou ter que criar minha parada. Então eu ficava nesse negócio, quero criar alguma coisa, quero fazer alguma coisa, quero fazer alguma coisa, e tentar fazer, porque eu não tinha opção. E quando a gente se conheceu com a Liuda, a gente estava começando a Tec Samurai, né? Não, o Thales entrou na... Entrou, eu estou falando. Não, eu só estou falando. O Thales era a Tec Samurai. Depois vendeu a sua participação. Vendi a participação pro... Aquela fera braba. Mas acho que ali foi o método. Mas eu acho que ali foi também um turning point pra você. Mas foi, sabe por quê? Foi a primeira vez que a gente começou, pelo menos que eu comecei a ganhar um dinheirinho. E eu me lembro que ali, pô, consegui comprar o seu carro, inclusive. O seu carro, eu consegui, porra, mudar pra Barra, eu consegui, tipo, começar a dar uma organizada na minha vida e ter, tipo, um tempo pra sair daquela roda do rato do cheque especial o tempo inteiro e dar uma respirada e falar, porra, o que eu vou fazer agora, né? Qual que é o próximo passo, né? Mas eu estava falando um negócio que pra mim realmente é importante, assim, eu já te falei isso várias vezes em privado, é importante eu falar isso on tape também, da gratidão que eu tenho por você, porque você foi o primeiro cara que eu me recordo que verdadeiramente acreditou em mim. E eu me lembro que você tinha uma relação meio paternal comigo, você me dava uns esporros, uns esculachos, meio que você é um cara muito grosso, né? Você me dava uns esculachos, tipo, você é burro, não sei o que lá, não sei o que lá, não sei o que lá. E eu, como palavras não me tocam mesmo, eu tô cagando pra essa merda, eu falo, ótimo, deixa eu pegar o que ele tá falando comigo e pegar a parte boa. Então, por exemplo, você me ensinou a jogar pôr aqui, que foi um negócio importante pra minha vida, verdadeiramente o pôr que era uma ferramenta que eu usei muito na minha vida, pra negociação e tal. Você me ensinou a pensar sistema, então eu era um cara muito desorganizado, porque o negócio é o seguinte, organização, você não nasce com isso, é só uma habilidade técnica, alguém tem que te ensinar, você tem que treinar. Então eu me lembro que eu chegava, te jogava um monte de ideia, você falava assim, cara, para com essa merda, um monte de buchitagem, calma aí, estrutura teu pensamento, ponto um, ponto dois, você começou a me ensinar, você me ensinou a trabalhar, você foi o primeiro cara que pegou e falou assim, olha, assim, trabalha. Aí quando a gente começou a trabalhar junto, eu também era um cara muito cheio de ideia, falava muito assim, cara, começa a escrever as coisas, escreve esse troço aqui e tal, começa a organizar. Então pra mim foi muito importante, velho, ter passado por esse período com você, porque quando a sorte bateu na minha porta, né, que apareceu a oportunidade, a ideia de fazer o Easy Taxi, eu tava preparado. Porque se o negócio for bom mesmo, e você for o cara certo pra fazer essa parada, você vai dar um jeito de convencer o cara dele a fazer. E aí Easy Taxi a gente chegou até bastante, a gente entrou no risco ali bem, porque a gente tava, quando saiu o deal, a gente tava com a dívida legalzinha, foi um deal de quebrar. Foi quando você pulou fora. Foi um deal dele pular fora, ele falou, cara, Easy Taxi, a segunda pulada fora. Eu deixei o dinheiro na mesa de novo com a Easy Taxi, eu tinha 7,5%, era mais ou menos 100 mesmo. Vini acho que também tinha 7,5%. É, vocês dividiram os caras. Depois eu fiquei com 15, depois eu acertei com o Corrêa. E o que eu acho incrível é que olhando pra história e tal, eu começo a pensar comigo, cara, por que eu fiz isso? Que estupidez, sabe? Porque, beleza, business arriscado, eu via o tempo todo, e uma coisa que a gente concorda muito, a gente falava muito, é assim, cara, ideia não vale nada. Vale você implementar a ideia e botar o negócio pra funcionar. A ideia em si, pô. Vale porra nenhuma. Voa e tal. Você lembra que você me perguntou, porra, Bicalho, vou ter que gastar um dinheiro aqui pra registrar minha ideia e tal, não sei o que. Eu falei, meu irmão, você vai perder tempo. É verdade. Porque não é a ideia em si, é a tua capacidade de fazer ela funcionar. Você ainda falou assim, porra, zero em force no Brasil, não tem por que você fazer essa merda, né? Exatamente. É, ainda tem isso. Você registra sua ideia e alguém vai lá e faz a mesma coisa. Tem que registrar a marca, mas ideia... Lembra assim. E aí, por que eu, olhando pra trás, falo assim, cara, que baita burrice\n\nIsso aí, vamos procurar fundo. Só que não tinha Venture Capital no Brasil, tinha Monax, você lembra? Eu fui na Monax, foi no iniciozinho das Itax, os caras ficaram sabendo da gente e falaram, pô, vem pra cá. A gente foi na Monax e nós fomos de terno, velho, que vexame. Nós fomos de terno na Monax. Você me mandou ir mais ou menos arrumado, porque como eu era de terno, eu não podia ir de terno, eu tinha que ser o nerd brilhante. E eu fui de terno. Você foi de terno. Que é uma cagada, né? Chegou no escritório dos caras, tinha um mapa, assim, na sala gigante, que era de alguma... De drop point. Isso aí. E aí você falou, ó, isso aí é de snowboard. E hoje a gente faz rally ski, tá ligado? Isso é só os caras muito ricos que fazem essa porra, esses caras são muito ricos. O helicóptero é teu lift, né? Mas aí eu me lembro dessa reunião com a Monax, eu expliquei pros caras o negócio. Os caras, tipo assim, eles não ficaram convencidos que a gente poderia fazer aquilo. Eles não ficaram convencidos que a gente poderia fazer aquilo. Agora a Rocket, o Oliver, não sei o que ele te respondeu, mas o Simon uma vez me falou que eles tentaram fazer, não conseguiram, por isso que trouxeram a gente. Porque a gente já tinha o app funcionando. É que a história foi a seguinte. Então o Oliver me respondeu e me apresentou pro Sampaio. Sampaio veio pro Rio. A gente fez toda aquela operação lá de montar o táxi pra esperar. A gente não tinha táxi suficiente, a gente botou um cara no aeroporto. E pior, ele não fechou com o cara que a gente combinou. Ele acabou conseguindo uma pessoa que não tinha sido combinada. Essa foi a parte da sorte. A gente tinha muito pouco táxi, o negócio era muito insuficiente. A gente deixou combinado. E ele conseguiu outro. Foi muita sorte isso. Muita sorte. E porque o negócio é o seguinte, qual que era o problema? Cara, mobile. A gente fez um app que puxava a bateria pra caralho. A bateria já era uma bosta. A gente fez um app que puxava a bateria pra caralho. Não dá pra usar isso. Área de sombra. Área de sombra. Lembra que eu fui palestrante em Las Vegas, no reInvent? Lembro. Que a AWS me chamou. Então, o Waze tava lá. O Waze tava começando. Eles pediram pra falar comigo. Aí o Tam falou, não, o Waze tá querendo conversar com você. A gente surgiu antes do Waze, é verdade. Aí até o Waze chegou a falar... Eles meio que deram uma esnobada em mim na hora. Não, mas o que você quer falar com a gente? Eu falei, não, ele marcou porque você queria. Aí depois eles abriram. Falaram, cara, como é que você consegue rodar o app com as sombras? O nosso app para o tempo inteiro no Brasil. Já era 2013. Eu lembro da Lagoa, que era uma pica, mano. Esse reInvent já foi em 2014. Foi três anos depois das etapas. Eu lembro disso. E aí tinha um problema também que consumia muito bateria. Então, tipo assim, a gente tinha que resolver o... Primeiro, você tem que ter esse telefone. Segundo, você tem que ter o plano de dados. Terceiro, agora você tem que ter o carregador, que o Daniel Coen arrumou lá. A gente começou a montar o kit pro cara e falou, velho, esse é o kit que você tem que ter. Tipo assim, a gente teve que verdadeiramente criar do zero o mercado ali, né? E aí, por sorte... Então, a gente tinha pouco táxi, pouca disponibilidade, cheia de área de sombra. E por um acaso, deu certo. Deu certo, velho. E eu me lembro que o Sampaio fez uma proposta de comprar a empresa primeiro. Comprar a empresa, vocês saem. E a gente ficava como funcionário. A gente ficava como funcionário. A gente, pô... Eu me lembro de eu falar com vocês e você falou, galera, a gente tá fodido mesmo. Esse cara não vem lá da Alemanha pra falar que a gente vale isso. Ele acha que a gente vale 100 vezes isso. Então, vamos falar, não. Eu truquei os caras. Endividado com dois e meio de caixa. Eu lembro. Endividado. A gente tinha combinado. Falou, olha, em dois meses vamos passar a régua e vamos tentar pagar a dívida e é isso. Falei, não. Não vamos vender. E eu me lembro o que ele falou comigo, porque o Sampaio é um cara super agressivo. Ele falou assim, eu era da McKinsey, né? Vou te falar o que eu vou fazer. Eu vou trazer uns McKinsey boys, eu vou enfiar dinheiro nesses caras e você vai competir com eles. Eu falei, boa sorte. Vai fazer um software igual o meu. Eu peitei o maluco, mano. Eu tinha 22 anos. Eu não tinha um real na conta. Eu vinha num cheque especial, mano. Eu peitei esses caras. Eu acho que o cara deve ter me achado tão maluco que depois ele veio procurar a gente. Não, mas eles falaram, ele falou que ele tentou fazer e não conseguiu. Ele botou o cima e falou, ah, a gente tentou desenvolver o app e não conseguiu. O Oliver, eu lembro quando a gente começou, o Márcio fez a versão do Android e eu fiz a versão de iOS. E pra eu fazer a versão de iOS do Easy Taxi, eu fui olhar o código do Márcio, né? Fui aprender com ele. Quando eu olhei o código, eu falei assim, Márcio, você fez trigonometria aqui pra chegar no ponto de localização? É matemática pura? Ele, é. Eu falei, cara, você tem noção de que você é brilhante? O que a gente fez foi sinistro. Foi brilhante do Márcio. Pra quem é técnico, tecnicamente, explica como é que era a solução, então. Cara, no final, o grande ponto era a trigonometria, que foi a solução do Márcio, né? Eu copiei. Eu nem pensei no negócio. Eu tava lá estudando o Google Maps, como é que eu faço, tal, não sei o quê, pra ir do ponto tal. Falei, cara, eu peguei o código fonte do Márcio, fui ler, liguei pra ele na oficina. Aí a gente fez uma reunião lá em casa, não sei se você lembra dessa parada. Eu tenho foto dessa reunião. E ele me ensinou sobre isso. Eu tenho foto dessa reunião. Me lembro de pegar essa foto pra vocês colocarem aqui, porque eu tenho foto no meu favorito. Você tem foto da bicicleta também. Eu tenho poucas fotos da época. Na época, as pessoas não tiravam foto. Não tinha smartphone, né? Não tinha celular. E também a galera não tinha um hábito. Eu não tinha hábito de tirar foto, por exemplo. Então, mas por um acaso, nessa época, eu lembro que eu tirei algumas que eu falei, cara, eu acho que a gente vai ser um baita de um sucesso. Deixa eu botar umas fotos que vai servir pro livro. E realmente serviu, tá ligado? Me direciona. Mas alguns calls foram muito errados. Muito errados. Muito errados. E eu bati de frente, não lembro. Eu sei que você lembra que eu bati de frente com o Sampaio. Eu bati de frente pra caralho. Falei, tá errado essa porra. Eu e você, a gente batia de frente pra caralho com os caras. Mas no final do dia era o seguinte, os caras eram controladores. Eles tinham quatro cadeiras no conselho e a gente uma. Mas quando dava merda, que nem o call do iPhone, não sei se você lembra, que eles ficaram, não, vamos fazer esse iPhone, a versão nova, o UI vendeu pra eles. Cara, eles tiraram o desenvolvedor de iPhone de perto de mim, do Márcio, botaram numa sala em cima e vai lançar. E eu falando, vai dar merda, vai dar merda. A gente lançou, cara, a gente perdeu acho que 50% da nossa base de iOS. Você vê que ia recuperar. Tava tudo cagado o app. Eu não conseguia ver. O cara tinha feito uma biblioteca dentro do app que era no servidor dele. Tinha senha. Eu não tinha acesso pra ver. Loucura, né? Foi muita cagada no início. A Rocket faziam as coisas, fora os outros calls que a gente nem comenta aqui. Não comenta, inclusive tá no Nada Easy, boa parte das paradas. Os caras, mano, os caras eram um caos. Essa que é a verdade. Apesar dos pesares, pra falar que deu certo, teria como ter dado muito mais certo se não fosse esses caras. Mas beleza, mano. Não tinha outra opção também. Não tinha, mas foi aprendizado pra mim. Cara, eu nunca escarei. A gente viveu na época. O que é o Nubank hoje era Easy Taxi na época, né? A gente teve mais acesso que o Facebook. A gente foi o primeiro a ter um TAN da AWS. Tanto que eu virei referência. Eu fui\n\nÉ por essa escolha? Não. Você faz a escolha de curto prazo e você tem um benefício agora. Você paga o preço no longo prazo. A escolha de longo prazo é o contrário. Você paga o preço agora, no curto prazo, para você ter o benefício lá também, no longo prazo. Agora, o cara não quer pagar o preço do curto prazo. Cara, eu não quero dormir na empresa. Eu não quero ralar para poder construir alguma coisa. Eu não quero comer bem. Eu não quero ter que estudar. Eu não quero ter que estar sempre lendo um livro. Beleza. Agora você vai ter uma relação hedonística com a tua vida que é, tá bom, então ao invés de eu ler, eu vou assistir o Netflix. Ao invés de eu treinar, eu vou comer hambúrguer e jogar videogame. Faz isso, cara. Daqui a 10 anos você vai ver onde está a sua vida. Você vai ser um merda. É isso que vai acontecer com a sua vida. E aí, daqui a pouco, o que eles começam a fazer? A culpar os outros. O mundo é injusto. Todo mundo me deve alguma coisa. Mas eu não tenho que fazer nada para essas pessoas me pagarem essa coisa. Aí vira essa relação e fala, agora eu estou com crise de ansiedade. Agora eu estou com depressão. Por quê? Você construiu isso na sua vida por causa das decisões de merda que você tomou. E vira todo um buleta. Se eu posso dizer que o problema é da depressão, o problema não é mais meu. O problema é da depressão que eu estou tendo. Ou eu falo que o problema é do Estado, ou o problema é que o mundo é injusto. Nunca é culpa sua. Nunca é seu. Mas, cara, o sofrimento, a gente sabia virar o sofrimento. Hoje, cara, pra mim, a gente fazia ser legal, cara. A gente zoava. A gente aprendeu a aproveitar a jornada. Eu treino duas vezes por dia. Eu gosto de treinar. Mas por quê? Porque eu comecei a correlacionar o resultado que eu tenho na minha vida com esse treino. Eu falo assim, cara, é ruim quando eu estou levantando 120kg no supino? Dói pra caralho, é ruim. Mas aquela sensação que eu tenho ali me remete a algo bom, que é o estar mais forte, o estar mais fit. E aí você aprende a aproveitar a jornada. O problema é que as pessoas não se dão a chance de aprender a aproveitar a jornada. A gente se divertia pra caramba virando noite. Essas coisas todas que são perrentes, mas... Depois saia todo mundo pra comemorar. Cara, eu vivi uns quatro anos da minha vida ali, cada duas semanas num país. A jornada da Zetax foi muito foda mesmo. Pode ter sido o dia, pode ter sido um dos melhores. E não foi ruim também, não foi a pior coisa do mundo. Não, mas... Ah, eu acho que foi muito bom, viu? Se você olhar o resultado, foi muito bom. Poderia ter sido muito mais do que a gente merecia, né? Beleza, mas cara, você não pode dizer que é ruim. As tomadas de decisões fizeram dar merda também na Zetax. Na verdade, tô falando do nosso deal de venda pra Rocket, a forma como eles operaram a gente foi, cara, dez vezes menos do que a gente merecia, no mínimo. Dez pra vinte vezes menos do que a gente merecia. Mas também, eu me lembro da gente ter essa conversa, eu falei, cara, o negócio é o seguinte, ou a gente fica brigando com esses caras gastando dinheiro... Vamos fazer e se divertir, cara. E foi a melhor coisa que a gente fez, velho. Eu fiz a Singoo, vendi pra Natura, e agora tamo no G4. Eu fiz a Ramesa, vendi a Ramesa, prebei. E é isso, mano. Então ao invés de eu ficar dando murro em ponta de faca, gastando energia com bad vibes, meu irmão... Vendi a Mundi, fiz uma exchange de cripto. Vendi pra Fox Beat. O sistema que roda na Fox Beat foi a primeira exchange de cripto, foi eu que desenvolvi. O meu tech leader é o CTO lá. Tem hora que tem que saber, very good, brother. Fala, mano, esse jogo aqui eu posso até ganhar, mas a quantidade de energia que eu vou ter que gastar pra ganhar esse jogo é melhor investir ali em outras paradas. A recompensa nunca acho que vai ser do tamanho da sua expectativa. Mas ela vai ser bom o suficiente. Às vezes é assim, cara. Às vezes pode ser. Vocês fizeram um baita deal. Um baita. Venderam por um bilhão de reais. 1.3, né? Então estão no earn out lá. Foi um baita deal. Foi fair. Foi no momento bom também. Hoje em dia, tirou da cartola. Hoje em dia não vale o que valia. Eu já falei isso com o Alê várias vezes. Meu irmão, você tirou essa hora certa. Talvez tenha sido melhor que a expectativa, então. Contrariando aqui a tese. Na época, o mercado era assim. Não dá pra falar, não foi nada bom. O mercado tava assim. A gente deu sorte. Não foi estratégico. Nem falou, ninguém sabia o que ia acontecer. O mercado era muito bom, velho. A gente tava no mercado. Ninguém fez um negócio. Ah, vou aproveitar. Foi a sorte. A gente conseguiu. Qual que é a parada que, quando eu era seu CEO, eu mais se irritava que eu fazia? Pode falar mal de mim, vai. Cara, eu acho que você já falou aí. Era isso, de você me dar um prazo. A gente não tá nem pronto pra nada. Isso é pra amanhã. Isso é pra amanhã. E aí, eu falava, cara... Não tem engenheiro cascudo que não tenha vivido uma situação dessa. Qual a situação dessa treta que você já viveu? Eu tive uma quando eu tava na distribuidora de livro digital, a Xerife. E aí, a gente tava expandindo pra educação, né? E aí, veio a Universidade de Estácio, tava em franca expansão ali na época, isso era 2012, eu acho, 2011, 2012. E eles abriram uma concorrência pra empresas que faziam conteúdo digital. A gente entrou no meio dessa concorrência, né? E aí, pô, era... Ó, nós já colocamos no jornal, na TV, em vários veículos aí e tal, digitais e impressos e mídia física, que no semestre que vem, o aluno que se matriculava ia ganhar um tablet com conteúdo digital. Já tá prometido. Agora alguém tem que fazer. E eu via a propaganda, tava ali, eu falei, meu irmão, como é que eu vou fazer esse negócio? A gente tinha, tipo, dois meses pra estar com nada pro produto absolutamente criado e funcionando. E entramos numa concorrência. Pô, a Xerife era, de certa forma, desconhecida ainda, apesar de ser a primeira distribuidora. Pô, salve aí pro Duder Nani, visionário pra caramba, a primeira livraria e primeira distribuidora. O que que tá fazendo hoje? Ele agora tem um aplicativo chamado Toda, com dois ossos, também é um aplicativo, assim, de marketplace. Pô, cara, ele teve até um azar aí, mas já se reinventou e já pivotou, que ele fazia uma conexão entre o praiano, o banhista, e o barraqueiro. Ah, legal. Então, cara, aquele negócio de você ter que chamar o barraqueiro pra chamar... Pô, legal, hein, cara? Muito maneiro. E dá um data mart aí, uma riqueza de dados violenta. Só que ele fez isso, acho que um mês depois da pandemia. Então, coitado. Alguma coisa assim, mas, cara... Não, mas ele dizia, a tomada de decisões fizeram dar merda também na Zetax. Não, mas eu nem lembro, tô falando do nosso deal de venda pra Rocket, a forma como eles operaram a gente, foi, cara, dez vezes menos do que a gente merecia, no mínimo. Dez pra vinte vezes menos do que a gente merecia. Mas também, eu me lembro da gente ter essa conversa, eu falei, cara, o negócio é o seguinte, ou a gente fica brigando com esses caras gastando dinheiro... Vamos fazer e se divertir, cara. E foi a melhor coisa que a gente fez, velho. Eu fiz a Singoo, vendi pra Natura, e agora estamos no G4. Eu fiz a Ramesa, vendi a Ramesa, prebei. Você fez a Mara, agora eu fiz a Remessa, vendei a Remessa, pro Bray Banks. E é isso, mano. Então, ao invés de eu ficar dando murro em ponta de faca, gastando energia com bad vibes, meu irmão... Vendi a Mundi, fiz uma exchange de cripto. Vendi pra Fox Beat. O sistema que roda na Fox Beat foi a primeira exchange de cripto, foi eu que desenvolvi. O meu tech leader é o CTO lá. Tem hora que tem que saber, very good, brother. Fala, mano, esse jogo aqui eu posso até ganhar, mas a quantidade de energia que eu vou ter que gastar pra ganhar esse jogo é melhor investir ali em outras paradas. A recompensa nunca acho que vai ser do tamanho da sua expectativa. Mas ela vai ser bom o suficiente. Às vezes é assim, cara. Às vezes pode ser. Vocês fizeram um baita deal.",
+  "word_count": 6025,
+  "chunks_used": 4,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "timestamp": "00:00",
+      "text": "me responde uma pergunta rápida."
+    },
+    {
+      "start": 5.44,
+      "end": 12.59,
+      "timestamp": "00:05",
+      "text": "Qual é a nota que você dá para o seu time?"
+    },
+    {
+      "start": 12.59,
+      "end": 13.61,
+      "timestamp": "00:12",
+      "text": "Cinco?"
+    },
+    {
+      "start": 13.61,
+      "end": 14.46,
+      "timestamp": "00:13",
+      "text": "Seis?"
+    },
+    {
+      "start": 14.46,
+      "end": 15.31,
+      "timestamp": "00:14",
+      "text": "Sete?"
+    },
+    {
+      "start": 15.31,
+      "end": 32.33,
+      "timestamp": "00:15",
+      "text": "Bem, se a sua resposta foi dentro dessa média, saiba que a nota do seu time é a nota da sua empresa."
+    },
+    {
+      "start": 32.33,
+      "end": 42.54,
+      "timestamp": "00:32",
+      "text": "Afinal, uma companhia é formada pelas pessoas que a compõem."
+    },
+    {
+      "start": 42.54,
+      "end": 55.81,
+      "timestamp": "00:42",
+      "text": "E o resultado do negócio depende diretamente da performance desses indivíduos."
+    },
+    {
+      "start": 55.81,
+      "end": 90.0,
+      "timestamp": "00:55",
+      "text": "Sabendo do desafio que é treinar e capacitar gente, nós desenvolvemos o G4 Skills, a plataforma de treinamento de times do G4 Educação que avalia os gaps de habilidades e maturidade do seu colaborador."
+    },
+    {
+      "start": 90.0,
+      "end": 105.66,
+      "timestamp": "01:30",
+      "text": "E além disso, cria uma trilha personalizada de desenvolvimento para cada membro do seu time."
+    },
+    {
+      "start": 105.66,
+      "end": 124.88,
+      "timestamp": "01:45",
+      "text": "Todas essas trilhas são compostas com as mais de centenas de horas que temos nas formações online do G4 Educação."
+    },
+    {
+      "start": 124.88,
+      "end": 140.37,
+      "timestamp": "02:04",
+      "text": "Para você conhecer o G4 Skills, eu liberei sete dias de acesso gratuito à nossa plataforma."
+    },
+    {
+      "start": 140.37,
+      "end": 156.36,
+      "timestamp": "02:20",
+      "text": "Basta escanear o QR Code que está aqui na tela ou clicar no link do descritivo deste episódio."
+    },
+    {
+      "start": 156.36,
+      "end": 164.19,
+      "timestamp": "02:36",
+      "text": "Corre no link e garanta o seu acesso gratuito."
+    },
+    {
+      "start": 164.19,
+      "end": 184.77,
+      "timestamp": "02:44",
+      "text": "E se você se interessar em adquirir o G4 Skills, eu garanti uma condição especial para você, que é ouvinte do G4 Podcast."
+    },
+    {
+      "start": 184.77,
+      "end": 189.37,
+      "timestamp": "03:04",
+      "text": "Agora bora para o episódio."
+    },
+    {
+      "start": 189.37,
+      "end": 196.34,
+      "timestamp": "03:09",
+      "text": "E eu tinha um ódio profundo de ser pobre."
+    },
+    {
+      "start": 196.34,
+      "end": 198.38,
+      "timestamp": "03:16",
+      "text": "Mas um ódio."
+    },
+    {
+      "start": 198.38,
+      "end": 211.83,
+      "timestamp": "03:18",
+      "text": "Eu parecia que eu estava mastigando merda todo dia de manhã quando eu acordava."
+    },
+    {
+      "start": 211.83,
+      "end": 217.95,
+      "timestamp": "03:31",
+      "text": "Falei, velho, que ódio de ser pobre."
+    },
+    {
+      "start": 217.95,
+      "end": 226.46,
+      "timestamp": "03:37",
+      "text": "Eu quero arrumar um jeito para não ser pobre mais."
+    },
+    {
+      "start": 226.46,
+      "end": 238.71,
+      "timestamp": "03:46",
+      "text": "E essa ambição, esse ódio de ser pobre, me fazia o tempo inteiro buscar."
+    },
+    {
+      "start": 238.71,
+      "end": 248.75,
+      "timestamp": "03:58",
+      "text": "E eu só estou aqui por causa desse ódio que eu tinha, sabe?"
+    },
+    {
+      "start": 248.75,
+      "end": 257.93,
+      "timestamp": "04:08",
+      "text": "Essa vontade, esse foco bizarro de fazer alguma coisa."
+    },
+    {
+      "start": 257.93,
+      "end": 269.84,
+      "timestamp": "04:17",
+      "text": "Na hora que eu vi a botana da EasyTaxi, eu falei assim, cara, é agora."
+    },
+    {
+      "start": 269.84,
+      "end": 273.08,
+      "timestamp": "04:29",
+      "text": "Eu não posso errar."
+    },
+    {
+      "start": 273.08,
+      "end": 280.05,
+      "timestamp": "04:33",
+      "text": "O business arriscado, eu vi o tempo todo."
+    },
+    {
+      "start": 280.05,
+      "end": 296.22,
+      "timestamp": "04:40",
+      "text": "Uma coisa que a gente concorda muito, a gente falava muito, é assim, cara, ideia não vale nada."
+    },
+    {
+      "start": 296.22,
+      "end": 306.93,
+      "timestamp": "04:56",
+      "text": "Vale você implementar a ideia e botar o negócio para funcionar."
+    },
+    {
+      "start": 306.93,
+      "end": 314.76,
+      "timestamp": "05:06",
+      "text": "O que é o Nubank hoje era a EasyTaxi na época."
+    },
+    {
+      "start": 314.76,
+      "end": 322.76,
+      "timestamp": "05:14",
+      "text": "Cara, vocês tiveram mais acesso que o Facebook."
+    },
+    {
+      "start": 322.76,
+      "end": 332.11,
+      "timestamp": "05:22",
+      "text": "Vocês tiveram mais hit do que o Facebook naquela época."
+    },
+    {
+      "start": 332.11,
+      "end": 333.31,
+      "timestamp": "05:32",
+      "text": "Pois é."
+    },
+    {
+      "start": 333.31,
+      "end": 343.85,
+      "timestamp": "05:33",
+      "text": "A gente trabalhava todo dia até meia-noite, uma hora da manhã."
+    },
+    {
+      "start": 343.85,
+      "end": 350.49,
+      "timestamp": "05:43",
+      "text": "No outro dia, sete da manhã, estava lá."
+    },
+    {
+      "start": 350.49,
+      "end": 354.06,
+      "timestamp": "05:50",
+      "text": "Eu nem dormia, velho."
+    },
+    {
+      "start": 354.06,
+      "end": 359.17,
+      "timestamp": "05:54",
+      "text": "Nós três já passamos por isso."
+    },
+    {
+      "start": 359.17,
+      "end": 371.25,
+      "timestamp": "05:59",
+      "text": "E é engraçado, a geração de hoje parece que rejeita esse tipo de ideia."
+    },
+    {
+      "start": 371.25,
+      "end": 377.37,
+      "timestamp": "06:11",
+      "text": "Cara, para mim era assim, meu irmão."
+    },
+    {
+      "start": 377.37,
+      "end": 384.18,
+      "timestamp": "06:17",
+      "text": "Tem que fazer um negócio extraordinário."
+    },
+    {
+      "start": 384.18,
+      "end": 393.2,
+      "timestamp": "06:24",
+      "text": "Mas é que isso não pode ser o principal, eu concordo."
+    },
+    {
+      "start": 393.2,
+      "end": 399.83,
+      "timestamp": "06:33",
+      "text": "Não dá para você viver dois anos assim."
+    },
+    {
+      "start": 399.83,
+      "end": 402.04,
+      "timestamp": "06:39",
+      "text": "Fala, galera."
+    },
+    {
+      "start": 402.04,
+      "end": 406.3,
+      "timestamp": "06:42",
+      "text": "Esse aqui é o G4 Podcast."
+    },
+    {
+      "start": 406.3,
+      "end": 416.33,
+      "timestamp": "06:46",
+      "text": "E hoje com dois convidados extremamente especiais para mim."
+    },
+    {
+      "start": 416.33,
+      "end": 433.18,
+      "timestamp": "06:56",
+      "text": "Porque Bernardo Bicalho, meu amigo de longa data do Rio de Janeiro, foi o primeiro CTO da EasyTaxi."
+    },
+    {
+      "start": 433.18,
+      "end": 442.71,
+      "timestamp": "07:13",
+      "text": "O cara que quando eu tive a ideia, eu fui falar com ele."
+    },
+    {
+      "start": 442.71,
+      "end": 450.7,
+      "timestamp": "07:22",
+      "text": "E o Vinícius Grácia, o oficial CTO da EasyTaxi."
+    },
+    {
+      "start": 450.7,
+      "end": 454.79,
+      "timestamp": "07:30",
+      "text": "De fato, meu co-founder."
+    },
+    {
+      "start": 454.79,
+      "end": 467.04,
+      "timestamp": "07:34",
+      "text": "Que com ele que a gente criou o negócio e expandiu para o mundo inteiro."
+    },
+    {
+      "start": 467.04,
+      "end": 480.14,
+      "timestamp": "07:47",
+      "text": "Então hoje, nesse podcast, vocês vão de fato conhecer a história de hustling."
+    },
+    {
+      "start": 480.14,
+      "end": 485.07,
+      "timestamp": "08:00",
+      "text": "A história de criar negócios."
+    },
+    {
+      "start": 485.07,
+      "end": 490.35,
+      "timestamp": "08:05",
+      "text": "De deixar passar oportunidades."
+    },
+    {
+      "start": 490.35,
+      "end": 503.45,
+      "timestamp": "08:10",
+      "text": "E eu espero, além de lições, entregar aí a próxima hora, hora e meia de papo."
+    },
+    {
+      "start": 503.45,
+      "end": 518.08,
+      "timestamp": "08:23",
+      "text": "Algo bastante divertido e descontraído para vocês conhecerem o meu passado verdadeiro."
+    },
+    {
+      "start": 518.08,
+      "end": 524.71,
+      "timestamp": "08:38",
+      "text": "Então, Bicalho, obrigado pela presença."
+    },
+    {
+      "start": 524.71,
+      "end": 533.39,
+      "timestamp": "08:44",
+      "text": "Vini, é um prazer estar com você aqui também, cara."
+    },
+    {
+      "start": 533.39,
+      "end": 541.39,
+      "timestamp": "08:53",
+      "text": "É um prazer estar com você também aqui, Thales."
+    },
+    {
+      "start": 541.39,
+      "end": 548.7,
+      "timestamp": "09:01",
+      "text": "Galera, eu queria começar puxando lá atrás."
+    },
+    {
+      "start": 548.7,
+      "end": 554.49,
+      "timestamp": "09:08",
+      "text": "Quando que eu te conheci, Bicalho?"
+    },
+    {
+      "start": 554.49,
+      "end": 564.53,
+      "timestamp": "09:14",
+      "text": "Eu mudei para o Rio em 2005, porque eu fui fazer faculdade."
+    },
+    {
+      "start": 564.53,
+      "end": 568.27,
+      "timestamp": "09:24",
+      "text": "Eu conheci o Pedrones."
+    },
+    {
+      "start": 568.27,
+      "end": 570.14,
+      "timestamp": "09:28",
+      "text": "Isso, ESPM."
+    },
+    {
+      "start": 570.14,
+      "end": 570.99,
+      "timestamp": "09:30",
+      "text": "ESPM."
+    },
+    {
+      "start": 570.99,
+      "end": 576.27,
+      "timestamp": "09:30",
+      "text": "E aí eu acho que eu te conheci."
+    },
+    {
+      "start": 576.27,
+      "end": 583.41,
+      "timestamp": "09:36",
+      "text": "Eu estou tentando puxar na memória, velho."
+    },
+    {
+      "start": 583.41,
+      "end": 589.2,
+      "timestamp": "09:43",
+      "text": "O exato momento que eu te conheci."
+    },
+    {
+      "start": 589.2,
+      "end": 598.05,
+      "timestamp": "09:49",
+      "text": "Eu acho que eu te conheci em algum rolê do Pedrones."
+    },
+    {
+      "start": 598.05,
+      "end": 602.98,
+      "timestamp": "09:58",
+      "text": "Eu acho que foi rolê da ESPM."
+    },
+    {
+      "start": 602.98,
+      "end": 606.04,
+      "timestamp": "10:02",
+      "text": "Churrasco da ESPM."
+    },
+    {
+      "start": 606.04,
+      "end": 613.19,
+      "timestamp": "10:06",
+      "text": "Mas você foi no churrasco da ESPM por quê?"
+    },
+    {
+      "start": 613.19,
+      "end": 618.8,
+      "timestamp": "10:13",
+      "text": "Pô, porque o Pedrones encabeçava."
+    },
+    {
+      "start": 618.8,
+      "end": 622.04,
+      "timestamp": "10:18",
+      "text": "Eu botava todo dia."
+    },
+    {
+      "start": 622.04,
+      "end": 627.14,
+      "timestamp": "10:22",
+      "text": "Cara, os churrascos da ESPM..."
+    },
+    {
+      "start": 627.14,
+      "end": 630.03,
+      "timestamp": "10:27",
+      "text": "Era incrível, né?"
+    },
+    {
+      "start": 630.03,
+      "end": 634.46,
+      "timestamp": "10:30",
+      "text": "Um negócio incrível, cara."
+    },
+    {
+      "start": 634.46,
+      "end": 641.09,
+      "timestamp": "10:34",
+      "text": "É só isso que eles fazem bem mesmo, né?"
+    },
+    {
+      "start": 641.09,
+      "end": 642.79,
+      "timestamp": "10:41",
+      "text": "Uma festa."
+    },
+    {
+      "start": 642.79,
+      "end": 650.62,
+      "timestamp": "10:42",
+      "text": "Mas fazem muito bem, pelo que eu vou te falar."
+    },
+    {
+      "start": 650.62,
+      "end": 656.57,
+      "timestamp": "10:50",
+      "text": "Eu acho que foi por aí mesmo, cara."
+    },
+    {
+      "start": 656.57,
+      "end": 664.4,
+      "timestamp": "10:56",
+      "text": "E eu acho que nesse momento ele me apresentou."
+    },
+    {
+      "start": 664.4,
+      "end": 676.65,
+      "timestamp": "11:04",
+      "text": "Falou, pô, vou te apresentar o Bicalho, que ele é um cara de tecnologia."
+    },
+    {
+      "start": 676.65,
+      "end": 682.61,
+      "timestamp": "11:16",
+      "text": "Eu já gostava muito de tech também."
+    },
+    {
+      "start": 682.61,
+      "end": 688.9,
+      "timestamp": "11:22",
+      "text": "E a gente começou a trocar uma ideia."
+    },
+    {
+      "start": 688.9,
+      "end": 699.11,
+      "timestamp": "11:28",
+      "text": "E para mim você já era, tipo, aquele cara unreachable, sabe?"
+    },
+    {
+      "start": 699.11,
+      "end": 705.23,
+      "timestamp": "11:39",
+      "text": "Eu falava, caralho, o Bicalho, mané."
+    },
+    {
+      "start": 705.23,
+      "end": 710.0,
+      "timestamp": "11:45",
+      "text": "O cara é pica da tecnologia."
+    },
+    {
+      "start": 710.0,
+      "end": 715.27,
+      "timestamp": "11:49",
+      "text": "Já tinha uns empregos maneiros."
+    },
+    {
+      "start": 715.27,
+      "end": 721.23,
+      "timestamp": "11:55",
+      "text": "O que você fazia nessa época mesmo?"
+    },
+    {
+      "start": 721.23,
+      "end": 728.88,
+      "timestamp": "12:01",
+      "text": "Cara, a gente tem uma diferença de idade, né?"
+    },
+    {
+      "start": 728.88,
+      "end": 738.75,
+      "timestamp": "12:08",
+      "text": "Então, pô, eu já estava num grau sênior ali, gestão e tal."
+    },
+    {
+      "start": 738.75,
+      "end": 749.81,
+      "timestamp": "12:18",
+      "text": "Eu estava trabalhando, se não me engano, era, sei lá, 2006, 2007."
+    },
+    {
+      "start": 749.81,
+      "end": 751.34,
+      "timestamp": "12:29",
+      "text": "É por aí."
+    },
+    {
+      "start": 751.34,
+      "end": 756.28,
+      "timestamp": "12:31",
+      "text": "Eu estava na corretora Ágora."
+    },
+    {
+      "start": 756.28,
+      "end": 760.53,
+      "timestamp": "12:36",
+      "text": "É na Ágora, é isso mesmo."
+    },
+    {
+      "start": 760.53,
+      "end": 773.46,
+      "timestamp": "12:40",
+      "text": "Hoje acho que ela nem está mais aí, porque teve aquisição do Bradesco e tal."
+    },
+    {
+      "start": 773.46,
+      "end": 777.2,
+      "timestamp": "12:53",
+      "text": "Então repaginou e tal."
+    },
+    {
+      "start": 777.2,
+      "end": 785.71,
+      "timestamp": "12:57",
+      "text": "Então eu entrei na Ágora, assim, numa mudança, né?"
+    },
+    {
+      "start": 785.71,
+      "end": 796.43,
+      "timestamp": "13:05",
+      "text": "Eu trabalhava em banco privado, assim, bem produto pequeno, né?"
+    },
+    {
+      "start": 796.43,
+      "end": 800.34,
+      "timestamp": "13:16",
+      "text": "Conta corrente, fundos."
+    },
+    {
+      "start": 800.34,
+      "end": 806.3,
+      "timestamp": "13:20",
+      "text": "Você trabalhava no Bozano, não foi?"
+    },
+    {
+      "start": 806.3,
+      "end": 816.34,
+      "timestamp": "13:26",
+      "text": "Trabalhei no banco Bozano, que foi comprado pelo Santander."
+    },
+    {
+      "start": 816.34,
+      "end": 820.25,
+      "timestamp": "13:36",
+      "text": "Fui parar no Santander."
+    },
+    {
+      "start": 820.25,
+      "end": 825.86,
+      "timestamp": "13:40",
+      "text": "Do Santander teve a site Patagon."
+    },
+    {
+      "start": 825.86,
+      "end": 835.39,
+      "timestamp": "13:45",
+      "text": "A gente foi, o primeiro shopping financeiro foi Patagon."
+    },
+    {
+      "start": 835.39,
+      "end": 843.73,
+      "timestamp": "13:55",
+      "text": "Aí a Patagon deu uma spin-off e virou Lemon Bank."
+    },
+    {
+      "start": 843.73,
+      "end": 854.79,
+      "timestamp": "14:03",
+      "text": "Eu fui trabalhar no Lemon Bank, que era um banco de microcrédito."
+    },
+    {
+      "start": 854.79,
+      "end": 874.35,
+      "timestamp": "14:14",
+      "text": "E aí, pô, cinco anos ali no Lemon Bank, eu cheguei num ponto ali que eu falei assim, pô, zerei meu jogo aqui, cara."
+    },
+    {
+      "start": 874.35,
+      "end": 882.52,
+      "timestamp": "14:34",
+      "text": "Eu já automatizei todas as minhas tarefas e tal."
+    },
+    {
+      "start": 882.52,
+      "end": 886.43,
+      "timestamp": "14:42",
+      "text": "Falei com o presidente."
+    },
+    {
+      "start": 886.43,
+      "end": 896.98,
+      "timestamp": "14:46",
+      "text": "Eu falei, presidente, eu quero mexer com ações, opções, termo."
+    },
+    {
+      "start": 896.98,
+      "end": 907.02,
+      "timestamp": "14:56",
+      "text": "Quero mexer com as paradas avançadas de mercado financeiro."
+    },
+    {
+      "start": 907.02,
+      "end": 912.81,
+      "timestamp": "15:07",
+      "text": "Ele falou assim, cara, não é aqui."
+    },
+    {
+      "start": 912.81,
+      "end": 931.35,
+      "timestamp": "15:12",
+      "text": "Eu me birilitei para ganhar metade do meu valor para trabalhar na Ágora para entrar nesse mercado financeiro."
+    },
+    {
+      "start": 931.35,
+      "end": 933.9,
+      "timestamp": "15:31",
+      "text": "E aí foi legal."
+    },
+    {
+      "start": 933.9,
+      "end": 941.9,
+      "timestamp": "15:33",
+      "text": "Pô, peguei uns projetos bacanas de home broker."
+    },
+    {
+      "start": 941.9,
+      "end": 955.34,
+      "timestamp": "15:41",
+      "text": "Acho que nessa época, mais ou menos, a gente começou a desenvolver uma amizade."
+    },
+    {
+      "start": 955.34,
+      "end": 957.72,
+      "timestamp": "15:55",
+      "text": "É, foi por aí."
+    },
+    {
+      "start": 957.72,
+      "end": 964.7,
+      "timestamp": "15:57",
+      "text": "Na Ágora, eu lembro de você na Ágora, né?"
+    },
+    {
+      "start": 964.7,
+      "end": 965.55,
+      "timestamp": "16:04",
+      "text": "Isso."
+    },
+    {
+      "start": 965.55,
+      "end": 974.74,
+      "timestamp": "16:05",
+      "text": "E até o motivo de eu sair da Ágora é interessante, né?"
+    },
+    {
+      "start": 974.74,
+      "end": 988.01,
+      "timestamp": "16:14",
+      "text": "Eu fui lá para ganhar o salário baixo, porque mercado financeiro é aquilo, né?"
+    },
+    {
+      "start": 988.01,
+      "end": 992.43,
+      "timestamp": "16:28",
+      "text": "Salário baixo, bônus alto."
+    },
+    {
+      "start": 992.43,
+      "end": 998.56,
+      "timestamp": "16:32",
+      "text": "Aí eu topei o salário para aprender."
+    },
+    {
+      "start": 998.56,
+      "end": 1005.53,
+      "timestamp": "16:38",
+      "text": "Chegou ali no final do período de um ano."
+    },
+    {
+      "start": 1005.53,
+      "end": 1011.32,
+      "timestamp": "16:45",
+      "text": "Parabéns, chegou o meu gestor, né?"
+    },
+    {
+      "start": 1011.32,
+      "end": 1014.38,
+      "timestamp": "16:51",
+      "text": "Parabéns, Bicalho."
+    },
+    {
+      "start": 1014.38,
+      "end": 1028.16,
+      "timestamp": "16:54",
+      "text": "Você ganhou o maior bônus da companhia que uma pessoa de tecnologia pode receber."
+    },
+    {
+      "start": 1028.16,
+      "end": 1031.22,
+      "timestamp": "17:08",
+      "text": "E quem era quanto?"
+    },
+    {
+      "start": 1031.22,
+      "end": 1035.31,
+      "timestamp": "17:11",
+      "text": "Esse predicado aí, sabe?"
+    },
+    {
+      "start": 1035.31,
+      "end": 1039.9,
+      "timestamp": "17:15",
+      "text": "O cara limitou o meu bônus."
+    },
+    {
+      "start": 1039.9,
+      "end": 1046.2,
+      "timestamp": "17:19",
+      "text": "Não importava o quanto eu entregasse."
+    },
+    {
+      "start": 1046.2,
+      "end": 1057.77,
+      "timestamp": "17:26",
+      "text": "Tinha um cap para o quanto uma pessoa de tecnologia recebe de bônus."
+    },
+    {
+      "start": 1057.77,
+      "end": 1064.57,
+      "timestamp": "17:37",
+      "text": "Na época, foi tipo 40 mil reais em 2006."
+    },
+    {
+      "start": 1064.57,
+      "end": 1069.0,
+      "timestamp": "17:44",
+      "text": "Que era bastante dinheiro."
+    },
+    {
+      "start": 1069.0,
+      "end": 1070.7,
+      "timestamp": "17:48",
+      "text": "Sério, né?"
+    },
+    {
+      "start": 1070.7,
+      "end": 1085.67,
+      "timestamp": "17:50",
+      "text": "Mas se fizesse um compound ali do meu salário com o bônus, eu estava ganhando a mercado."
+    },
+    {
+      "start": 1085.67,
+      "end": 1087.03,
+      "timestamp": "18:05",
+      "text": "Entendi."
+    },
+    {
+      "start": 1087.03,
+      "end": 1093.5,
+      "timestamp": "18:07",
+      "text": "Aí eu falei, isso aqui não está legal."
+    },
+    {
+      "start": 1093.5,
+      "end": 1100.98,
+      "timestamp": "18:13",
+      "text": "Fui para a XP, que estava em plena ascensão."
+    },
+    {
+      "start": 1100.98,
+      "end": 1106.26,
+      "timestamp": "18:20",
+      "text": "Um monte de gente conhecida lá."
+    },
+    {
+      "start": 1106.26,
+      "end": 1110.51,
+      "timestamp": "18:26",
+      "text": "O tamanho da XP na época?"
+    },
+    {
+      "start": 1110.51,
+      "end": 1121.23,
+      "timestamp": "18:30",
+      "text": "Cara, a XP, quando eu entrei, ela ainda era no Shopping Leblon."
+    },
+    {
+      "start": 1121.23,
+      "end": 1127.35,
+      "timestamp": "18:41",
+      "text": "Já era uma empresa de expressão, né?"
+    },
+    {
+      "start": 1127.35,
+      "end": 1133.99,
+      "timestamp": "18:47",
+      "text": "Mas a Ágora era líder do mercado ainda."
+    },
+    {
+      "start": 1133.99,
+      "end": 1146.07,
+      "timestamp": "18:53",
+      "text": "E aí, pô, acompanhei todo o crescimento ali, de 2007 a 2010, para a XP."
+    },
+    {
+      "start": 1146.07,
+      "end": 1167.85,
+      "timestamp": "19:06",
+      "text": "E foi muito interessante trabalhar com o Benchmol, perto do Guilherme Benchmol, que é um astro realmente, um cara fora de série."
+    },
+    {
+      "start": 1167.85,
+      "end": 1180.61,
+      "timestamp": "19:27",
+      "text": "E acompanhar a XP durante a maior crise que a gente viu, que foi o super..."
+    },
+    {
+      "start": 1180.61,
+      "end": 1183.16,
+      "timestamp": "19:40",
+      "text": "O subprime, né?"
+    },
+    {
+      "start": 1183.16,
+      "end": 1191.16,
+      "timestamp": "19:43",
+      "text": "Você estava no olho do furacão do subprime, né?"
+    },
+    {
+      "start": 1191.16,
+      "end": 1221.78,
+      "timestamp": "19:51",
+      "text": "Pior até que o olho do furacão, porque eu era responsável por fazer o sistema de risco, que nós tomamos a decisão na XP de descartar as soluções de mercado e desenvolver uma nossa."
+    },
+    {
+      "start": 1221.78,
+      "end": 1223.14,
+      "timestamp": "20:21",
+      "text": "Por que?"
+    },
+    {
+      "start": 1223.14,
+      "end": 1226.21,
+      "timestamp": "20:23",
+      "text": "Qual foi o efeito?"
+    },
+    {
+      "start": 1226.21,
+      "end": 1236.92,
+      "timestamp": "20:26",
+      "text": "Cara, a gente achava que as soluções de mercado eram ruins, né?"
+    },
+    {
+      "start": 1236.92,
+      "end": 1250.71,
+      "timestamp": "20:36",
+      "text": "E realmente, quando todo mundo no mercado tem a mesma solução, ninguém vai ter..."
+    },
+    {
+      "start": 1250.71,
+      "end": 1254.79,
+      "timestamp": "20:50",
+      "text": "Não tem diferencial, né?"
+    },
+    {
+      "start": 1254.79,
+      "end": 1262.62,
+      "timestamp": "20:54",
+      "text": "Então, peguei esse projeto lá, foi bem bacana."
+    },
+    {
+      "start": 1262.62,
+      "end": 1275.04,
+      "timestamp": "21:02",
+      "text": "A gente seguiu aquela mesma máxima que a gente sempre conversa muito, né?"
+    },
+    {
+      "start": 1275.04,
+      "end": 1283.2,
+      "timestamp": "21:15",
+      "text": "Contrata engenheiro, que o cara sabe fazer tudo."
+    },
+    {
+      "start": 1283.2,
+      "end": 1286.78,
+      "timestamp": "21:23",
+      "text": "Ele vai dar um jeito."
+    },
+    {
+      "start": 1286.78,
+      "end": 1298.0,
+      "timestamp": "21:26",
+      "text": "Eu tinha um canal lá com um cara chamado Rafael Guarilha, um ex..."
+    },
+    {
+      "start": 1298.0,
+      "end": 1301.75,
+      "timestamp": "21:38",
+      "text": "Eu lembro do Guarilha."
+    },
+    {
+      "start": 1301.75,
+      "end": 1305.32,
+      "timestamp": "21:41",
+      "text": "Pô, o Guarilha, cara."
+    },
+    {
+      "start": 1305.32,
+      "end": 1306.85,
+      "timestamp": "21:45",
+      "text": "Guarilha."
+    },
+    {
+      "start": 1306.85,
+      "end": 1309.91,
+      "timestamp": "21:46",
+      "text": "Foi Zita, não foi?"
+    },
+    {
+      "start": 1309.91,
+      "end": 1313.32,
+      "timestamp": "21:49",
+      "text": "IME, sei lá, IME, é."
+    },
+    {
+      "start": 1313.32,
+      "end": 1352.11,
+      "timestamp": "21:53",
+      "text": "E ele falou, eu conheço uns caras cabeçudíssimos, engenheiros\n\nNa Gap Sabido, que estava virando depois a Xerife, né, virou uma distribuidora junto com o site, eu montei um APM, um Analytics ao vivo ali, cara, que eu te mostrei."
+    },
+    {
+      "start": 1352.11,
+      "end": 1353.81,
+      "timestamp": "22:32",
+      "text": "Eu lembro."
+    },
+    {
+      "start": 1353.81,
+      "end": 1364.36,
+      "timestamp": "22:33",
+      "text": "Olha só, é uma tela feiona porque eu não desenhava a tela, né?"
+    },
+    {
+      "start": 1364.36,
+      "end": 1367.08,
+      "timestamp": "22:44",
+      "text": "Eu lembro disso."
+    },
+    {
+      "start": 1367.08,
+      "end": 1392.6,
+      "timestamp": "22:47",
+      "text": "Mas você conseguia, em tempo real, ver o cliente entrando no site, todos os clientes entrando no site, preenchendo o carrinho, fazendo busca, ao vivo."
+    },
+    {
+      "start": 1392.6,
+      "end": 1400.26,
+      "timestamp": "23:12",
+      "text": "Era antes do Google Analytics existir, porra."
+    },
+    {
+      "start": 1400.26,
+      "end": 1415.57,
+      "timestamp": "23:20",
+      "text": "Aí você virou para mim e falou assim, Bicalho, eu vendo isso aí por uns 100 milhões, cara."
+    },
+    {
+      "start": 1415.57,
+      "end": 1426.63,
+      "timestamp": "23:35",
+      "text": "Vamos botar essa parada, vamos produtizar isso aí, não sei o que."
+    },
+    {
+      "start": 1426.63,
+      "end": 1453.68,
+      "timestamp": "23:46",
+      "text": "E eu, mais uma vez, falei assim, porra, não, Thales, você não entende, isso aqui foi só para fazer isso para as outras, eu vou precisar trabalhar para caralho."
+    },
+    {
+      "start": 1453.68,
+      "end": 1462.36,
+      "timestamp": "24:13",
+      "text": "É que eu me lembro de ser um cara muito pragmático."
+    },
+    {
+      "start": 1462.36,
+      "end": 1481.42,
+      "timestamp": "24:22",
+      "text": "Então você sempre falava para mim, ficava no meu irmão, esse negócio de papel, eu estou fora, eu quero dinheiro."
+    },
+    {
+      "start": 1481.42,
+      "end": 1516.13,
+      "timestamp": "24:41",
+      "text": "Você sentava na tua mesinha ali, tocando uns programas que você gravava dos Estados Unidos, você ficava ouvindo, o dia inteiro ele, meu irmão, não, eu quero dinheiro, não quero saber dessa porra de papel."
+    },
+    {
+      "start": 1516.13,
+      "end": 1571.08,
+      "timestamp": "25:16",
+      "text": "E eu tinha isso treinado na cabeça, porque eu falava o seguinte, cara, se eu for começar a caminhada, eu estou tudo errado, eu tive uma educação ruim, eu sou um dropout, eu era um dropout, eu larguei a faculdade, eu falei, pô, eu preciso arrumar algum leapfrog para a minha vida e não vai ser galgando carreira corporativa."
+    },
+    {
+      "start": 1571.08,
+      "end": 1585.2,
+      "timestamp": "26:11",
+      "text": "Minha formação era uma porcaria que eu decidi fazer SPM, dropei SPM, grandes merda."
+    },
+    {
+      "start": 1585.2,
+      "end": 1599.32,
+      "timestamp": "26:25",
+      "text": "Tive uma formação de escola muito ruim, escola pública do interior de Minas Gerais."
+    },
+    {
+      "start": 1599.32,
+      "end": 1616.51,
+      "timestamp": "26:39",
+      "text": "Então eu falei, cara, eu nunca vou arrumar um emprego bom, porque eu não sou chamado para entrevista."
+    },
+    {
+      "start": 1616.51,
+      "end": 1632.84,
+      "timestamp": "26:56",
+      "text": "O teu círculo, eles tinham uma carreira desenhada, vou estudar SPM e vou trabalhar numa agência."
+    },
+    {
+      "start": 1632.84,
+      "end": 1650.88,
+      "timestamp": "27:12",
+      "text": "Era o circuito que todo mundo, você não entrou muito, acho que você namorou esse circuito, mas não entrou."
+    },
+    {
+      "start": 1650.88,
+      "end": 1671.97,
+      "timestamp": "27:30",
+      "text": "É que o ponto é o seguinte, o nego falou assim, porra, mano, você é criativo, nunca tive orientação profissional, né, velho?"
+    },
+    {
+      "start": 1671.97,
+      "end": 1684.05,
+      "timestamp": "27:51",
+      "text": "Porque minha família é muito humilde, os caras não sabiam o que é isso."
+    },
+    {
+      "start": 1684.05,
+      "end": 1712.13,
+      "timestamp": "28:04",
+      "text": "Então, tipo, eu fui amigo falando na rua, me lembro que foi um radialista da cidade que falou comigo assim, falou, pô, você é muito criativo, sempre escrevi bem, né?"
+    },
+    {
+      "start": 1712.13,
+      "end": 1718.08,
+      "timestamp": "28:32",
+      "text": "Ah, você tem que fazer publicidade."
+    },
+    {
+      "start": 1718.08,
+      "end": 1725.57,
+      "timestamp": "28:38",
+      "text": "Eu falei, tá bom, vou fazer publicidade, né?"
+    },
+    {
+      "start": 1725.57,
+      "end": 1731.86,
+      "timestamp": "28:45",
+      "text": "Arrumei um jeito de entrar na SPM lá."
+    },
+    {
+      "start": 1731.86,
+      "end": 1740.2,
+      "timestamp": "28:51",
+      "text": "Só que, pô, não tem nada a ver comigo, tá ligado?"
+    },
+    {
+      "start": 1740.2,
+      "end": 1762.32,
+      "timestamp": "29:00",
+      "text": "Eu teria feito engenharia, sei lá, economia, alguma coisa assim, que são as coisas que tem mais a ver comigo, mas whatever também."
+    },
+    {
+      "start": 1762.32,
+      "end": 1793.28,
+      "timestamp": "29:22",
+      "text": "Acho que todo ponto aqui, eu falei, eu não vou conseguir galgar uma carreira, eu preciso eu criar o meu próprio negócio, que as pessoas não vão me dar chance de ir para a entrevista."
+    },
+    {
+      "start": 1793.28,
+      "end": 1816.93,
+      "timestamp": "29:53",
+      "text": "E eu me lembro que é o seguinte, por exemplo, eu me lembro direitinho que eu ia muito bem em entrevista, quando eu conseguia em entrevista."
+    },
+    {
+      "start": 1816.93,
+      "end": 1824.42,
+      "timestamp": "30:16",
+      "text": "Uma vez eu entrei no processo da Americanas."
+    },
+    {
+      "start": 1824.42,
+      "end": 1831.4,
+      "timestamp": "30:24",
+      "text": "E aí eu fui na última fase da Americanas."
+    },
+    {
+      "start": 1831.4,
+      "end": 1846.03,
+      "timestamp": "30:31",
+      "text": "Aí o cara da Americanas foi e falou comigo, falou assim, cara, eu gosto muito de você."
+    },
+    {
+      "start": 1846.03,
+      "end": 1850.62,
+      "timestamp": "30:46",
+      "text": "Só que tem um problema, né?"
+    },
+    {
+      "start": 1850.62,
+      "end": 1856.41,
+      "timestamp": "30:50",
+      "text": "A minha faculdade estava trancada."
+    },
+    {
+      "start": 1856.41,
+      "end": 1871.04,
+      "timestamp": "30:56",
+      "text": "Então eu meio que mentia isso, que estava trancada, pra ver se eu arrumava um emprego."
+    },
+    {
+      "start": 1871.04,
+      "end": 1880.06,
+      "timestamp": "31:11",
+      "text": "Porque, meu irmão, você lembra a situação que eu era?"
+    },
+    {
+      "start": 1880.06,
+      "end": 1884.31,
+      "timestamp": "31:20",
+      "text": "Quase de passar fome ali."
+    },
+    {
+      "start": 1884.31,
+      "end": 1894.01,
+      "timestamp": "31:24",
+      "text": "Então eu tinha que ter alguma coisa pra pagar o dinheiro."
+    },
+    {
+      "start": 1894.01,
+      "end": 1915.11,
+      "timestamp": "31:34",
+      "text": "Eu meio que mentia, falei, cara, se eu conseguir entrar na parada, eu pego o dinheiro, posso ir pra faculdade, dou um jeito."
+    },
+    {
+      "start": 1915.11,
+      "end": 1924.8,
+      "timestamp": "31:55",
+      "text": "E aí o cara falou assim, tua faculdade está trancada, pô."
+    },
+    {
+      "start": 1924.8,
+      "end": 1932.29,
+      "timestamp": "32:04",
+      "text": "Eu não posso te colocar aqui, nesse estágio."
+    },
+    {
+      "start": 1932.29,
+      "end": 1943.18,
+      "timestamp": "32:12",
+      "text": "Aí eu falei assim, cara, fodeu, eu não consigo sair desse limbo."
+    },
+    {
+      "start": 1943.18,
+      "end": 1948.96,
+      "timestamp": "32:23",
+      "text": "Eu vou ter que criar minha parada."
+    },
+    {
+      "start": 1948.96,
+      "end": 1974.66,
+      "timestamp": "32:28",
+      "text": "Então eu ficava nesse negócio, quero criar alguma coisa, quero fazer alguma coisa, quero fazer alguma coisa, e tentar fazer, porque eu não tinha opção."
+    },
+    {
+      "start": 1974.66,
+      "end": 1989.12,
+      "timestamp": "32:54",
+      "text": "E quando a gente se conheceu com a Liuda, a gente estava começando a Tec Samurai, né?"
+    },
+    {
+      "start": 1989.12,
+      "end": 1993.54,
+      "timestamp": "33:09",
+      "text": "Não, o Thales entrou na..."
+    },
+    {
+      "start": 1993.54,
+      "end": 1997.79,
+      "timestamp": "33:13",
+      "text": "Entrou, eu estou falando."
+    },
+    {
+      "start": 1997.79,
+      "end": 2002.05,
+      "timestamp": "33:17",
+      "text": "Não, eu só estou falando."
+    },
+    {
+      "start": 2002.05,
+      "end": 2006.64,
+      "timestamp": "33:22",
+      "text": "O Thales era a Tec Samurai."
+    },
+    {
+      "start": 2006.64,
+      "end": 2012.26,
+      "timestamp": "33:26",
+      "text": "Depois vendeu a sua participação."
+    },
+    {
+      "start": 2012.26,
+      "end": 2016.85,
+      "timestamp": "33:32",
+      "text": "Vendi a participação pro..."
+    },
+    {
+      "start": 2016.85,
+      "end": 2019.91,
+      "timestamp": "33:36",
+      "text": "Aquela fera braba."
+    },
+    {
+      "start": 2019.91,
+      "end": 2025.02,
+      "timestamp": "33:39",
+      "text": "Mas acho que ali foi o método."
+    },
+    {
+      "start": 2025.02,
+      "end": 2034.71,
+      "timestamp": "33:45",
+      "text": "Mas eu acho que ali foi também um turning point pra você."
+    },
+    {
+      "start": 2034.71,
+      "end": 2038.46,
+      "timestamp": "33:54",
+      "text": "Mas foi, sabe por quê?"
+    },
+    {
+      "start": 2038.46,
+      "end": 2053.77,
+      "timestamp": "33:58",
+      "text": "Foi a primeira vez que a gente começou, pelo menos que eu comecei a ganhar um dinheirinho."
+    },
+    {
+      "start": 2053.77,
+      "end": 2065.34,
+      "timestamp": "34:13",
+      "text": "E eu me lembro que ali, pô, consegui comprar o seu carro, inclusive."
+    },
+    {
+      "start": 2065.34,
+      "end": 2110.26,
+      "timestamp": "34:25",
+      "text": "O seu carro, eu consegui, porra, mudar pra Barra, eu consegui, tipo, começar a dar uma organizada na minha vida e ter, tipo, um tempo pra sair daquela roda do rato do cheque especial o tempo inteiro e dar uma respirada e falar, porra, o que eu vou fazer agora, né?"
+    },
+    {
+      "start": 2110.26,
+      "end": 2115.53,
+      "timestamp": "35:10",
+      "text": "Qual que é o próximo passo, né?"
+    },
+    {
+      "start": 2115.53,
+      "end": 2164.19,
+      "timestamp": "35:15",
+      "text": "Mas eu estava falando um negócio que pra mim realmente é importante, assim, eu já te falei isso várias vezes em privado, é importante eu falar isso on tape também, da gratidão que eu tenho por você, porque você foi o primeiro cara que eu me recordo que verdadeiramente acreditou em mim."
+    },
+    {
+      "start": 2164.19,
+      "end": 2189.37,
+      "timestamp": "36:04",
+      "text": "E eu me lembro que você tinha uma relação meio paternal comigo, você me dava uns esporros, uns esculachos, meio que você é um cara muito grosso, né?"
+    },
+    {
+      "start": 2189.37,
+      "end": 2206.73,
+      "timestamp": "36:29",
+      "text": "Você me dava uns esculachos, tipo, você é burro, não sei o que lá, não sei o que lá, não sei o que lá."
+    },
+    {
+      "start": 2206.73,
+      "end": 2232.08,
+      "timestamp": "36:46",
+      "text": "E eu, como palavras não me tocam mesmo, eu tô cagando pra essa merda, eu falo, ótimo, deixa eu pegar o que ele tá falando comigo e pegar a parte boa."
+    },
+    {
+      "start": 2232.08,
+      "end": 2265.94,
+      "timestamp": "37:12",
+      "text": "Então, por exemplo, você me ensinou a jogar pôr aqui, que foi um negócio importante pra minha vida, verdadeiramente o pôr que era uma ferramenta que eu usei muito na minha vida, pra negociação e tal."
+    },
+    {
+      "start": 2265.94,
+      "end": 2303.71,
+      "timestamp": "37:45",
+      "text": "Você me ensinou a pensar sistema, então eu era um cara muito desorganizado, porque o negócio é o seguinte, organização, você não nasce com isso, é só uma habilidade técnica, alguém tem que te ensinar, você tem que treinar."
+    },
+    {
+      "start": 2303.71,
+      "end": 2358.15,
+      "timestamp": "38:23",
+      "text": "Então eu me lembro que eu chegava, te jogava um monte de ideia, você falava assim, cara, para com essa merda, um monte de buchitagem, calma aí, estrutura teu pensamento, ponto um, ponto dois, você começou a me ensinar, você me ensinou a trabalhar, você foi o primeiro cara que pegou e falou assim, olha, assim, trabalha."
+    },
+    {
+      "start": 2358.15,
+      "end": 2391.16,
+      "timestamp": "39:18",
+      "text": "Aí quando a gente começou a trabalhar junto, eu também era um cara muito cheio de ideia, falava muito assim, cara, começa a escrever as coisas, escreve esse troço aqui e tal, começa a organizar."
+    },
+    {
+      "start": 2391.16,
+      "end": 2426.38,
+      "timestamp": "39:51",
+      "text": "Então pra mim foi muito importante, velho, ter passado por esse período com você, porque quando a sorte bateu na minha porta, né, que apareceu a oportunidade, a ideia de fazer o Easy Taxi, eu tava preparado."
+    },
+    {
+      "start": 2426.38,
+      "end": 2449.69,
+      "timestamp": "40:26",
+      "text": "Porque se o negócio for bom mesmo, e você for o cara certo pra fazer essa parada, você vai dar um jeito de convencer o cara dele a fazer."
+    },
+    {
+      "start": 2449.69,
+      "end": 2480.14,
+      "timestamp": "40:49",
+      "text": "E aí Easy Taxi a gente chegou até bastante, a gente entrou no risco ali bem, porque a gente tava, quando saiu o deal, a gente tava com a dívida legalzinha, foi um deal de quebrar."
+    },
+    {
+      "start": 2480.14,
+      "end": 2484.74,
+      "timestamp": "41:20",
+      "text": "Foi quando você pulou fora."
+    },
+    {
+      "start": 2484.74,
+      "end": 2498.18,
+      "timestamp": "41:24",
+      "text": "Foi um deal dele pular fora, ele falou, cara, Easy Taxi, a segunda pulada fora."
+    },
+    {
+      "start": 2498.18,
+      "end": 2514.68,
+      "timestamp": "41:38",
+      "text": "Eu deixei o dinheiro na mesa de novo com a Easy Taxi, eu tinha 7,5%, era mais ou menos 100 mesmo."
+    },
+    {
+      "start": 2514.68,
+      "end": 2520.13,
+      "timestamp": "41:54",
+      "text": "Vini acho que também tinha 7,5%."
+    },
+    {
+      "start": 2520.13,
+      "end": 2524.89,
+      "timestamp": "42:00",
+      "text": "É, vocês dividiram os caras."
+    },
+    {
+      "start": 2524.89,
+      "end": 2534.42,
+      "timestamp": "42:04",
+      "text": "Depois eu fiquei com 15, depois eu acertei com o Corrêa."
+    },
+    {
+      "start": 2534.42,
+      "end": 2553.47,
+      "timestamp": "42:14",
+      "text": "E o que eu acho incrível é que olhando pra história e tal, eu começo a pensar comigo, cara, por que eu fiz isso?"
+    },
+    {
+      "start": 2553.47,
+      "end": 2556.88,
+      "timestamp": "42:33",
+      "text": "Que estupidez, sabe?"
+    },
+    {
+      "start": 2556.88,
+      "end": 2583.08,
+      "timestamp": "42:36",
+      "text": "Porque, beleza, business arriscado, eu via o tempo todo, e uma coisa que a gente concorda muito, a gente falava muito, é assim, cara, ideia não vale nada."
+    },
+    {
+      "start": 2583.08,
+      "end": 2593.63,
+      "timestamp": "43:03",
+      "text": "Vale você implementar a ideia e botar o negócio pra funcionar."
+    },
+    {
+      "start": 2593.63,
+      "end": 2596.69,
+      "timestamp": "43:13",
+      "text": "A ideia em si, pô."
+    },
+    {
+      "start": 2596.69,
+      "end": 2599.92,
+      "timestamp": "43:16",
+      "text": "Vale porra nenhuma."
+    },
+    {
+      "start": 2599.92,
+      "end": 2601.62,
+      "timestamp": "43:19",
+      "text": "Voa e tal."
+    },
+    {
+      "start": 2601.62,
+      "end": 2624.42,
+      "timestamp": "43:21",
+      "text": "Você lembra que você me perguntou, porra, Bicalho, vou ter que gastar um dinheiro aqui pra registrar minha ideia e tal, não sei o que."
+    },
+    {
+      "start": 2624.42,
+      "end": 2631.74,
+      "timestamp": "43:44",
+      "text": "Eu falei, meu irmão, você vai perder tempo."
+    },
+    {
+      "start": 2631.74,
+      "end": 2633.44,
+      "timestamp": "43:51",
+      "text": "É verdade."
+    },
+    {
+      "start": 2633.44,
+      "end": 2645.35,
+      "timestamp": "43:53",
+      "text": "Porque não é a ideia em si, é a tua capacidade de fazer ela funcionar."
+    },
+    {
+      "start": 2645.35,
+      "end": 2662.02,
+      "timestamp": "44:05",
+      "text": "Você ainda falou assim, porra, zero em force no Brasil, não tem por que você fazer essa merda, né?"
+    },
+    {
+      "start": 2662.02,
+      "end": 2663.9,
+      "timestamp": "44:22",
+      "text": "Exatamente."
+    },
+    {
+      "start": 2663.9,
+      "end": 2666.96,
+      "timestamp": "44:23",
+      "text": "É, ainda tem isso."
+    },
+    {
+      "start": 2666.96,
+      "end": 2677.17,
+      "timestamp": "44:26",
+      "text": "Você registra sua ideia e alguém vai lá e faz a mesma coisa."
+    },
+    {
+      "start": 2677.17,
+      "end": 2683.8,
+      "timestamp": "44:37",
+      "text": "Tem que registrar a marca, mas ideia..."
+    },
+    {
+      "start": 2683.8,
+      "end": 2686.01,
+      "timestamp": "44:43",
+      "text": "Lembra assim."
+    },
+    {
+      "start": 2686.01,
+      "end": 2703.54,
+      "timestamp": "44:46",
+      "text": "E aí, por que eu, olhando pra trás, falo assim, cara, que baita burrice\n\nIsso aí, vamos procurar fundo."
+    },
+    {
+      "start": 2703.54,
+      "end": 2715.28,
+      "timestamp": "45:03",
+      "text": "Só que não tinha Venture Capital no Brasil, tinha Monax, você lembra?"
+    },
+    {
+      "start": 2715.28,
+      "end": 2733.31,
+      "timestamp": "45:15",
+      "text": "Eu fui na Monax, foi no iniciozinho das Itax, os caras ficaram sabendo da gente e falaram, pô, vem pra cá."
+    },
+    {
+      "start": 2733.31,
+      "end": 2743.69,
+      "timestamp": "45:33",
+      "text": "A gente foi na Monax e nós fomos de terno, velho, que vexame."
+    },
+    {
+      "start": 2743.69,
+      "end": 2748.46,
+      "timestamp": "45:43",
+      "text": "Nós fomos de terno na Monax."
+    },
+    {
+      "start": 2748.46,
+      "end": 2770.74,
+      "timestamp": "45:48",
+      "text": "Você me mandou ir mais ou menos arrumado, porque como eu era de terno, eu não podia ir de terno, eu tinha que ser o nerd brilhante."
+    },
+    {
+      "start": 2770.74,
+      "end": 2773.81,
+      "timestamp": "46:10",
+      "text": "E eu fui de terno."
+    },
+    {
+      "start": 2773.81,
+      "end": 2776.87,
+      "timestamp": "46:13",
+      "text": "Você foi de terno."
+    },
+    {
+      "start": 2776.87,
+      "end": 2780.44,
+      "timestamp": "46:16",
+      "text": "Que é uma cagada, né?"
+    },
+    {
+      "start": 2780.44,
+      "end": 2795.93,
+      "timestamp": "46:20",
+      "text": "Chegou no escritório dos caras, tinha um mapa, assim, na sala gigante, que era de alguma..."
+    },
+    {
+      "start": 2795.93,
+      "end": 2798.31,
+      "timestamp": "46:35",
+      "text": "De drop point."
+    },
+    {
+      "start": 2798.31,
+      "end": 2799.67,
+      "timestamp": "46:38",
+      "text": "Isso aí."
+    },
+    {
+      "start": 2799.67,
+      "end": 2806.98,
+      "timestamp": "46:39",
+      "text": "E aí você falou, ó, isso aí é de snowboard."
+    },
+    {
+      "start": 2806.98,
+      "end": 2813.79,
+      "timestamp": "46:46",
+      "text": "E hoje a gente faz rally ski, tá ligado?"
+    },
+    {
+      "start": 2813.79,
+      "end": 2827.57,
+      "timestamp": "46:53",
+      "text": "Isso é só os caras muito ricos que fazem essa porra, esses caras são muito ricos."
+    },
+    {
+      "start": 2827.57,
+      "end": 2832.51,
+      "timestamp": "47:07",
+      "text": "O helicóptero é teu lift, né?"
+    },
+    {
+      "start": 2832.51,
+      "end": 2846.29,
+      "timestamp": "47:12",
+      "text": "Mas aí eu me lembro dessa reunião com a Monax, eu expliquei pros caras o negócio."
+    },
+    {
+      "start": 2846.29,
+      "end": 2860.58,
+      "timestamp": "47:26",
+      "text": "Os caras, tipo assim, eles não ficaram convencidos que a gente poderia fazer aquilo."
+    },
+    {
+      "start": 2860.58,
+      "end": 2871.13,
+      "timestamp": "47:40",
+      "text": "Eles não ficaram convencidos que a gente poderia fazer aquilo."
+    },
+    {
+      "start": 2871.13,
+      "end": 2898.35,
+      "timestamp": "47:51",
+      "text": "Agora a Rocket, o Oliver, não sei o que ele te respondeu, mas o Simon uma vez me falou que eles tentaram fazer, não conseguiram, por isso que trouxeram a gente."
+    },
+    {
+      "start": 2898.35,
+      "end": 2905.5,
+      "timestamp": "48:18",
+      "text": "Porque a gente já tinha o app funcionando."
+    },
+    {
+      "start": 2905.5,
+      "end": 2910.94,
+      "timestamp": "48:25",
+      "text": "É que a história foi a seguinte."
+    },
+    {
+      "start": 2910.94,
+      "end": 2920.47,
+      "timestamp": "48:30",
+      "text": "Então o Oliver me respondeu e me apresentou pro Sampaio."
+    },
+    {
+      "start": 2920.47,
+      "end": 2924.04,
+      "timestamp": "48:40",
+      "text": "Sampaio veio pro Rio."
+    },
+    {
+      "start": 2924.04,
+      "end": 2935.1,
+      "timestamp": "48:44",
+      "text": "A gente fez toda aquela operação lá de montar o táxi pra esperar."
+    },
+    {
+      "start": 2935.1,
+      "end": 2947.01,
+      "timestamp": "48:55",
+      "text": "A gente não tinha táxi suficiente, a gente botou um cara no aeroporto."
+    },
+    {
+      "start": 2947.01,
+      "end": 2956.37,
+      "timestamp": "49:07",
+      "text": "E pior, ele não fechou com o cara que a gente combinou."
+    },
+    {
+      "start": 2956.37,
+      "end": 2967.09,
+      "timestamp": "49:16",
+      "text": "Ele acabou conseguindo uma pessoa que não tinha sido combinada."
+    },
+    {
+      "start": 2967.09,
+      "end": 2971.51,
+      "timestamp": "49:27",
+      "text": "Essa foi a parte da sorte."
+    },
+    {
+      "start": 2971.51,
+      "end": 2982.57,
+      "timestamp": "49:31",
+      "text": "A gente tinha muito pouco táxi, o negócio era muito insuficiente."
+    },
+    {
+      "start": 2982.57,
+      "end": 2986.82,
+      "timestamp": "49:42",
+      "text": "A gente deixou combinado."
+    },
+    {
+      "start": 2986.82,
+      "end": 2990.57,
+      "timestamp": "49:46",
+      "text": "E ele conseguiu outro."
+    },
+    {
+      "start": 2990.57,
+      "end": 2994.14,
+      "timestamp": "49:50",
+      "text": "Foi muita sorte isso."
+    },
+    {
+      "start": 2994.14,
+      "end": 2996.18,
+      "timestamp": "49:54",
+      "text": "Muita sorte."
+    },
+    {
+      "start": 2996.18,
+      "end": 3005.88,
+      "timestamp": "49:56",
+      "text": "E porque o negócio é o seguinte, qual que era o problema?"
+    },
+    {
+      "start": 3005.88,
+      "end": 3008.09,
+      "timestamp": "50:05",
+      "text": "Cara, mobile."
+    },
+    {
+      "start": 3008.09,
+      "end": 3016.94,
+      "timestamp": "50:08",
+      "text": "A gente fez um app que puxava a bateria pra caralho."
+    },
+    {
+      "start": 3016.94,
+      "end": 3021.53,
+      "timestamp": "50:16",
+      "text": "A bateria já era uma bosta."
+    },
+    {
+      "start": 3021.53,
+      "end": 3030.38,
+      "timestamp": "50:21",
+      "text": "A gente fez um app que puxava a bateria pra caralho."
+    },
+    {
+      "start": 3030.38,
+      "end": 3033.95,
+      "timestamp": "50:30",
+      "text": "Não dá pra usar isso."
+    },
+    {
+      "start": 3033.95,
+      "end": 3036.5,
+      "timestamp": "50:33",
+      "text": "Área de sombra."
+    },
+    {
+      "start": 3036.5,
+      "end": 3039.06,
+      "timestamp": "50:36",
+      "text": "Área de sombra."
+    },
+    {
+      "start": 3039.06,
+      "end": 3048.58,
+      "timestamp": "50:39",
+      "text": "Lembra que eu fui palestrante em Las Vegas, no reInvent?"
+    },
+    {
+      "start": 3048.58,
+      "end": 3049.78,
+      "timestamp": "50:48",
+      "text": "Lembro."
+    },
+    {
+      "start": 3049.78,
+      "end": 3053.18,
+      "timestamp": "50:49",
+      "text": "Que a AWS me chamou."
+    },
+    {
+      "start": 3053.18,
+      "end": 3056.92,
+      "timestamp": "50:53",
+      "text": "Então, o Waze tava lá."
+    },
+    {
+      "start": 3056.92,
+      "end": 3060.66,
+      "timestamp": "50:56",
+      "text": "O Waze tava começando."
+    },
+    {
+      "start": 3060.66,
+      "end": 3065.77,
+      "timestamp": "51:00",
+      "text": "Eles pediram pra falar comigo."
+    },
+    {
+      "start": 3065.77,
+      "end": 3075.81,
+      "timestamp": "51:05",
+      "text": "Aí o Tam falou, não, o Waze tá querendo conversar com você."
+    },
+    {
+      "start": 3075.81,
+      "end": 3082.61,
+      "timestamp": "51:15",
+      "text": "A gente surgiu antes do Waze, é verdade."
+    },
+    {
+      "start": 3082.61,
+      "end": 3087.89,
+      "timestamp": "51:22",
+      "text": "Aí até o Waze chegou a falar..."
+    },
+    {
+      "start": 3087.89,
+      "end": 3096.05,
+      "timestamp": "51:27",
+      "text": "Eles meio que deram uma esnobada em mim na hora."
+    },
+    {
+      "start": 3096.05,
+      "end": 3103.37,
+      "timestamp": "51:36",
+      "text": "Não, mas o que você quer falar com a gente?"
+    },
+    {
+      "start": 3103.37,
+      "end": 3111.03,
+      "timestamp": "51:43",
+      "text": "Eu falei, não, ele marcou porque você queria."
+    },
+    {
+      "start": 3111.03,
+      "end": 3114.94,
+      "timestamp": "51:51",
+      "text": "Aí depois eles abriram."
+    },
+    {
+      "start": 3114.94,
+      "end": 3126.34,
+      "timestamp": "51:54",
+      "text": "Falaram, cara, como é que você consegue rodar o app com as sombras?"
+    },
+    {
+      "start": 3126.34,
+      "end": 3133.65,
+      "timestamp": "52:06",
+      "text": "O nosso app para o tempo inteiro no Brasil."
+    },
+    {
+      "start": 3133.65,
+      "end": 3135.7,
+      "timestamp": "52:13",
+      "text": "Já era 2013."
+    },
+    {
+      "start": 3135.7,
+      "end": 3143.01,
+      "timestamp": "52:15",
+      "text": "Eu lembro da Lagoa, que era uma pica, mano."
+    },
+    {
+      "start": 3143.01,
+      "end": 3147.95,
+      "timestamp": "52:23",
+      "text": "Esse reInvent já foi em 2014."
+    },
+    {
+      "start": 3147.95,
+      "end": 3153.39,
+      "timestamp": "52:27",
+      "text": "Foi três anos depois das etapas."
+    },
+    {
+      "start": 3153.39,
+      "end": 3156.11,
+      "timestamp": "52:33",
+      "text": "Eu lembro disso."
+    },
+    {
+      "start": 3156.11,
+      "end": 3165.81,
+      "timestamp": "52:36",
+      "text": "E aí tinha um problema também que consumia muito bateria."
+    },
+    {
+      "start": 3165.81,
+      "end": 3174.32,
+      "timestamp": "52:45",
+      "text": "Então, tipo assim, a gente tinha que resolver o..."
+    },
+    {
+      "start": 3174.32,
+      "end": 3181.29,
+      "timestamp": "52:54",
+      "text": "Primeiro, você tem que ter esse telefone."
+    },
+    {
+      "start": 3181.29,
+      "end": 3188.61,
+      "timestamp": "53:01",
+      "text": "Segundo, você tem que ter o plano de dados."
+    },
+    {
+      "start": 3188.61,
+      "end": 3201.54,
+      "timestamp": "53:08",
+      "text": "Terceiro, agora você tem que ter o carregador, que o Daniel Coen arrumou lá."
+    },
+    {
+      "start": 3201.54,
+      "end": 3216.85,
+      "timestamp": "53:21",
+      "text": "A gente começou a montar o kit pro cara e falou, velho, esse é o kit que você tem que ter."
+    },
+    {
+      "start": 3216.85,
+      "end": 3229.95,
+      "timestamp": "53:36",
+      "text": "Tipo assim, a gente teve que verdadeiramente criar do zero o mercado ali, né?"
+    },
+    {
+      "start": 3229.95,
+      "end": 3233.02,
+      "timestamp": "53:49",
+      "text": "E aí, por sorte..."
+    },
+    {
+      "start": 3233.02,
+      "end": 3246.63,
+      "timestamp": "53:53",
+      "text": "Então, a gente tinha pouco táxi, pouca disponibilidade, cheia de área de sombra."
+    },
+    {
+      "start": 3246.63,
+      "end": 3251.05,
+      "timestamp": "54:06",
+      "text": "E por um acaso, deu certo."
+    },
+    {
+      "start": 3251.05,
+      "end": 3253.94,
+      "timestamp": "54:11",
+      "text": "Deu certo, velho."
+    },
+    {
+      "start": 3253.94,
+      "end": 3266.88,
+      "timestamp": "54:13",
+      "text": "E eu me lembro que o Sampaio fez uma proposta de comprar a empresa primeiro."
+    },
+    {
+      "start": 3266.88,
+      "end": 3271.98,
+      "timestamp": "54:26",
+      "text": "Comprar a empresa, vocês saem."
+    },
+    {
+      "start": 3271.98,
+      "end": 3277.76,
+      "timestamp": "54:31",
+      "text": "E a gente ficava como funcionário."
+    },
+    {
+      "start": 3277.76,
+      "end": 3283.21,
+      "timestamp": "54:37",
+      "text": "A gente ficava como funcionário."
+    },
+    {
+      "start": 3283.21,
+      "end": 3285.59,
+      "timestamp": "54:43",
+      "text": "A gente, pô..."
+    },
+    {
+      "start": 3285.59,
+      "end": 3299.37,
+      "timestamp": "54:45",
+      "text": "Eu me lembro de eu falar com vocês e você falou, galera, a gente tá fodido mesmo."
+    },
+    {
+      "start": 3299.37,
+      "end": 3310.43,
+      "timestamp": "54:59",
+      "text": "Esse cara não vem lá da Alemanha pra falar que a gente vale isso."
+    },
+    {
+      "start": 3310.43,
+      "end": 3317.41,
+      "timestamp": "55:10",
+      "text": "Ele acha que a gente vale 100 vezes isso."
+    },
+    {
+      "start": 3317.41,
+      "end": 3321.49,
+      "timestamp": "55:17",
+      "text": "Então, vamos falar, não."
+    },
+    {
+      "start": 3321.49,
+      "end": 3324.89,
+      "timestamp": "55:21",
+      "text": "Eu truquei os caras."
+    },
+    {
+      "start": 3324.89,
+      "end": 3331.02,
+      "timestamp": "55:24",
+      "text": "Endividado com dois e meio de caixa."
+    },
+    {
+      "start": 3331.02,
+      "end": 3332.72,
+      "timestamp": "55:31",
+      "text": "Eu lembro."
+    },
+    {
+      "start": 3332.72,
+      "end": 3334.59,
+      "timestamp": "55:32",
+      "text": "Endividado."
+    },
+    {
+      "start": 3334.59,
+      "end": 3338.67,
+      "timestamp": "55:34",
+      "text": "A gente tinha combinado."
+    },
+    {
+      "start": 3338.67,
+      "end": 3353.48,
+      "timestamp": "55:38",
+      "text": "Falou, olha, em dois meses vamos passar a régua e vamos tentar pagar a dívida e é isso."
+    },
+    {
+      "start": 3353.48,
+      "end": 3355.35,
+      "timestamp": "55:53",
+      "text": "Falei, não."
+    },
+    {
+      "start": 3355.35,
+      "end": 3358.24,
+      "timestamp": "55:55",
+      "text": "Não vamos vender."
+    },
+    {
+      "start": 3358.24,
+      "end": 3372.19,
+      "timestamp": "55:58",
+      "text": "E eu me lembro o que ele falou comigo, porque o Sampaio é um cara super agressivo."
+    },
+    {
+      "start": 3372.19,
+      "end": 3379.0,
+      "timestamp": "56:12",
+      "text": "Ele falou assim, eu era da McKinsey, né?"
+    },
+    {
+      "start": 3379.0,
+      "end": 3384.44,
+      "timestamp": "56:18",
+      "text": "Vou te falar o que eu vou fazer."
+    },
+    {
+      "start": 3384.44,
+      "end": 3401.12,
+      "timestamp": "56:24",
+      "text": "Eu vou trazer uns McKinsey boys, eu vou enfiar dinheiro nesses caras e você vai competir com eles."
+    },
+    {
+      "start": 3401.12,
+      "end": 3404.52,
+      "timestamp": "56:41",
+      "text": "Eu falei, boa sorte."
+    },
+    {
+      "start": 3404.52,
+      "end": 3410.3,
+      "timestamp": "56:44",
+      "text": "Vai fazer um software igual o meu."
+    },
+    {
+      "start": 3410.3,
+      "end": 3414.56,
+      "timestamp": "56:50",
+      "text": "Eu peitei o maluco, mano."
+    },
+    {
+      "start": 3414.56,
+      "end": 3417.45,
+      "timestamp": "56:54",
+      "text": "Eu tinha 22 anos."
+    },
+    {
+      "start": 3417.45,
+      "end": 3422.55,
+      "timestamp": "56:57",
+      "text": "Eu não tinha um real na conta."
+    },
+    {
+      "start": 3422.55,
+      "end": 3428.51,
+      "timestamp": "57:02",
+      "text": "Eu vinha num cheque especial, mano."
+    },
+    {
+      "start": 3428.51,
+      "end": 3432.25,
+      "timestamp": "57:08",
+      "text": "Eu peitei esses caras."
+    },
+    {
+      "start": 3432.25,
+      "end": 3446.88,
+      "timestamp": "57:12",
+      "text": "Eu acho que o cara deve ter me achado tão maluco que depois ele veio procurar a gente."
+    },
+    {
+      "start": 3446.88,
+      "end": 3458.79,
+      "timestamp": "57:26",
+      "text": "Não, mas eles falaram, ele falou que ele tentou fazer e não conseguiu."
+    },
+    {
+      "start": 3458.79,
+      "end": 3472.24,
+      "timestamp": "57:38",
+      "text": "Ele botou o cima e falou, ah, a gente tentou desenvolver o app e não conseguiu."
+    },
+    {
+      "start": 3472.24,
+      "end": 3489.59,
+      "timestamp": "57:52",
+      "text": "O Oliver, eu lembro quando a gente começou, o Márcio fez a versão do Android e eu fiz a versão de iOS."
+    },
+    {
+      "start": 3489.59,
+      "end": 3503.37,
+      "timestamp": "58:09",
+      "text": "E pra eu fazer a versão de iOS do Easy Taxi, eu fui olhar o código do Márcio, né?"
+    },
+    {
+      "start": 3503.37,
+      "end": 3506.94,
+      "timestamp": "58:23",
+      "text": "Fui aprender com ele."
+    },
+    {
+      "start": 3506.94,
+      "end": 3526.17,
+      "timestamp": "58:26",
+      "text": "Quando eu olhei o código, eu falei assim, Márcio, você fez trigonometria aqui pra chegar no ponto de localização?"
+    },
+    {
+      "start": 3526.17,
+      "end": 3529.23,
+      "timestamp": "58:46",
+      "text": "É matemática pura?"
+    },
+    {
+      "start": 3529.23,
+      "end": 3530.42,
+      "timestamp": "58:49",
+      "text": "Ele, é."
+    },
+    {
+      "start": 3530.42,
+      "end": 3539.78,
+      "timestamp": "58:50",
+      "text": "Eu falei, cara, você tem noção de que você é brilhante?"
+    },
+    {
+      "start": 3539.78,
+      "end": 3545.06,
+      "timestamp": "58:59",
+      "text": "O que a gente fez foi sinistro."
+    },
+    {
+      "start": 3545.06,
+      "end": 3549.14,
+      "timestamp": "59:05",
+      "text": "Foi brilhante do Márcio."
+    },
+    {
+      "start": 3549.14,
+      "end": 3561.73,
+      "timestamp": "59:09",
+      "text": "Pra quem é técnico, tecnicamente, explica como é que era a solução, então."
+    },
+    {
+      "start": 3561.73,
+      "end": 3576.02,
+      "timestamp": "59:21",
+      "text": "Cara, no final, o grande ponto era a trigonometria, que foi a solução do Márcio, né?"
+    },
+    {
+      "start": 3576.02,
+      "end": 3577.72,
+      "timestamp": "59:36",
+      "text": "Eu copiei."
+    },
+    {
+      "start": 3577.72,
+      "end": 3581.98,
+      "timestamp": "59:37",
+      "text": "Eu nem pensei no negócio."
+    },
+    {
+      "start": 3581.98,
+      "end": 3598.31,
+      "timestamp": "59:41",
+      "text": "Eu tava lá estudando o Google Maps, como é que eu faço, tal, não sei o quê, pra ir do ponto tal."
+    },
+    {
+      "start": 3598.31,
+      "end": 3612.6,
+      "timestamp": "59:58",
+      "text": "Falei, cara, eu peguei o código fonte do Márcio, fui ler, liguei pra ele na oficina."
+    },
+    {
+      "start": 3612.6,
+      "end": 3625.36,
+      "timestamp": "01:00:12",
+      "text": "Aí a gente fez uma reunião lá em casa, não sei se você lembra dessa parada."
+    },
+    {
+      "start": 3625.36,
+      "end": 3630.13,
+      "timestamp": "01:00:25",
+      "text": "Eu tenho foto dessa reunião."
+    },
+    {
+      "start": 3630.13,
+      "end": 3634.89,
+      "timestamp": "01:00:30",
+      "text": "E ele me ensinou sobre isso."
+    },
+    {
+      "start": 3634.89,
+      "end": 3639.65,
+      "timestamp": "01:00:34",
+      "text": "Eu tenho foto dessa reunião."
+    },
+    {
+      "start": 3639.65,
+      "end": 3655.31,
+      "timestamp": "01:00:39",
+      "text": "Me lembro de pegar essa foto pra vocês colocarem aqui, porque eu tenho foto no meu favorito."
+    },
+    {
+      "start": 3655.31,
+      "end": 3661.09,
+      "timestamp": "01:00:55",
+      "text": "Você tem foto da bicicleta também."
+    },
+    {
+      "start": 3661.09,
+      "end": 3666.37,
+      "timestamp": "01:01:01",
+      "text": "Eu tenho poucas fotos da época."
+    },
+    {
+      "start": 3666.37,
+      "end": 3672.83,
+      "timestamp": "01:01:06",
+      "text": "Na época, as pessoas não tiravam foto."
+    },
+    {
+      "start": 3672.83,
+      "end": 3677.08,
+      "timestamp": "01:01:12",
+      "text": "Não tinha smartphone, né?"
+    },
+    {
+      "start": 3677.08,
+      "end": 3680.15,
+      "timestamp": "01:01:17",
+      "text": "Não tinha celular."
+    },
+    {
+      "start": 3680.15,
+      "end": 3686.61,
+      "timestamp": "01:01:20",
+      "text": "E também a galera não tinha um hábito."
+    },
+    {
+      "start": 3686.61,
+      "end": 3694.61,
+      "timestamp": "01:01:26",
+      "text": "Eu não tinha hábito de tirar foto, por exemplo."
+    },
+    {
+      "start": 3694.61,
+      "end": 3718.43,
+      "timestamp": "01:01:34",
+      "text": "Então, mas por um acaso, nessa época, eu lembro que eu tirei algumas que eu falei, cara, eu acho que a gente vai ser um baita de um sucesso."
+    },
+    {
+      "start": 3718.43,
+      "end": 3727.11,
+      "timestamp": "01:01:58",
+      "text": "Deixa eu botar umas fotos que vai servir pro livro."
+    },
+    {
+      "start": 3727.11,
+      "end": 3732.21,
+      "timestamp": "01:02:07",
+      "text": "E realmente serviu, tá ligado?"
+    },
+    {
+      "start": 3732.21,
+      "end": 3734.42,
+      "timestamp": "01:02:12",
+      "text": "Me direciona."
+    },
+    {
+      "start": 3734.42,
+      "end": 3740.72,
+      "timestamp": "01:02:14",
+      "text": "Mas alguns calls foram muito errados."
+    },
+    {
+      "start": 3740.72,
+      "end": 3743.1,
+      "timestamp": "01:02:20",
+      "text": "Muito errados."
+    },
+    {
+      "start": 3743.1,
+      "end": 3745.48,
+      "timestamp": "01:02:23",
+      "text": "Muito errados."
+    },
+    {
+      "start": 3745.48,
+      "end": 3750.93,
+      "timestamp": "01:02:25",
+      "text": "E eu bati de frente, não lembro."
+    },
+    {
+      "start": 3750.93,
+      "end": 3760.96,
+      "timestamp": "01:02:30",
+      "text": "Eu sei que você lembra que eu bati de frente com o Sampaio."
+    },
+    {
+      "start": 3760.96,
+      "end": 3766.07,
+      "timestamp": "01:02:40",
+      "text": "Eu bati de frente pra caralho."
+    },
+    {
+      "start": 3766.07,
+      "end": 3770.83,
+      "timestamp": "01:02:46",
+      "text": "Falei, tá errado essa porra."
+    },
+    {
+      "start": 3770.83,
+      "end": 3781.04,
+      "timestamp": "01:02:50",
+      "text": "Eu e você, a gente batia de frente pra caralho com os caras."
+    },
+    {
+      "start": 3781.04,
+      "end": 3791.93,
+      "timestamp": "01:03:01",
+      "text": "Mas no final do dia era o seguinte, os caras eram controladores."
+    },
+    {
+      "start": 3791.93,
+      "end": 3801.12,
+      "timestamp": "01:03:11",
+      "text": "Eles tinham quatro cadeiras no conselho e a gente uma."
+    },
+    {
+      "start": 3801.12,
+      "end": 3827.83,
+      "timestamp": "01:03:21",
+      "text": "Mas quando dava merda, que nem o call do iPhone, não sei se você lembra, que eles ficaram, não, vamos fazer esse iPhone, a versão nova, o UI vendeu pra eles."
+    },
+    {
+      "start": 3827.83,
+      "end": 3846.89,
+      "timestamp": "01:03:47",
+      "text": "Cara, eles tiraram o desenvolvedor de iPhone de perto de mim, do Márcio, botaram numa sala em cima e vai lançar."
+    },
+    {
+      "start": 3846.89,
+      "end": 3854.2,
+      "timestamp": "01:04:06",
+      "text": "E eu falando, vai dar merda, vai dar merda."
+    },
+    {
+      "start": 3854.2,
+      "end": 3866.28,
+      "timestamp": "01:04:14",
+      "text": "A gente lançou, cara, a gente perdeu acho que 50% da nossa base de iOS."
+    },
+    {
+      "start": 3866.28,
+      "end": 3870.53,
+      "timestamp": "01:04:26",
+      "text": "Você vê que ia recuperar."
+    },
+    {
+      "start": 3870.53,
+      "end": 3874.45,
+      "timestamp": "01:04:30",
+      "text": "Tava tudo cagado o app."
+    },
+    {
+      "start": 3874.45,
+      "end": 3878.02,
+      "timestamp": "01:04:34",
+      "text": "Eu não conseguia ver."
+    },
+    {
+      "start": 3878.02,
+      "end": 3890.44,
+      "timestamp": "01:04:38",
+      "text": "O cara tinha feito uma biblioteca dentro do app que era no servidor dele."
+    },
+    {
+      "start": 3890.44,
+      "end": 3892.48,
+      "timestamp": "01:04:50",
+      "text": "Tinha senha."
+    },
+    {
+      "start": 3892.48,
+      "end": 3897.25,
+      "timestamp": "01:04:52",
+      "text": "Eu não tinha acesso pra ver."
+    },
+    {
+      "start": 3897.25,
+      "end": 3899.29,
+      "timestamp": "01:04:57",
+      "text": "Loucura, né?"
+    },
+    {
+      "start": 3899.29,
+      "end": 3903.88,
+      "timestamp": "01:04:59",
+      "text": "Foi muita cagada no início."
+    },
+    {
+      "start": 3903.88,
+      "end": 3916.98,
+      "timestamp": "01:05:03",
+      "text": "A Rocket faziam as coisas, fora os outros calls que a gente nem comenta aqui."
+    },
+    {
+      "start": 3916.98,
+      "end": 3927.53,
+      "timestamp": "01:05:16",
+      "text": "Não comenta, inclusive tá no Nada Easy, boa parte das paradas."
+    },
+    {
+      "start": 3927.53,
+      "end": 3934.0,
+      "timestamp": "01:05:27",
+      "text": "Os caras, mano, os caras eram um caos."
+    },
+    {
+      "start": 3934.0,
+      "end": 3937.57,
+      "timestamp": "01:05:33",
+      "text": "Essa que é a verdade."
+    },
+    {
+      "start": 3937.57,
+      "end": 3955.78,
+      "timestamp": "01:05:37",
+      "text": "Apesar dos pesares, pra falar que deu certo, teria como ter dado muito mais certo se não fosse esses caras."
+    },
+    {
+      "start": 3955.78,
+      "end": 3958.67,
+      "timestamp": "01:05:55",
+      "text": "Mas beleza, mano."
+    },
+    {
+      "start": 3958.67,
+      "end": 3963.6,
+      "timestamp": "01:05:58",
+      "text": "Não tinha outra opção também."
+    },
+    {
+      "start": 3963.6,
+      "end": 3970.24,
+      "timestamp": "01:06:03",
+      "text": "Não tinha, mas foi aprendizado pra mim."
+    },
+    {
+      "start": 3970.24,
+      "end": 3974.15,
+      "timestamp": "01:06:10",
+      "text": "Cara, eu nunca escarei."
+    },
+    {
+      "start": 3974.15,
+      "end": 3978.06,
+      "timestamp": "01:06:14",
+      "text": "A gente viveu na época."
+    },
+    {
+      "start": 3978.06,
+      "end": 3986.4,
+      "timestamp": "01:06:18",
+      "text": "O que é o Nubank hoje era Easy Taxi na época, né?"
+    },
+    {
+      "start": 3986.4,
+      "end": 3993.21,
+      "timestamp": "01:06:26",
+      "text": "A gente teve mais acesso que o Facebook."
+    },
+    {
+      "start": 3993.21,
+      "end": 4000.52,
+      "timestamp": "01:06:33",
+      "text": "A gente foi o primeiro a ter um TAN da AWS."
+    },
+    {
+      "start": 4000.52,
+      "end": 4005.63,
+      "timestamp": "01:06:40",
+      "text": "Tanto que eu virei referência."
+    },
+    {
+      "start": 4005.63,
+      "end": 4010.22,
+      "timestamp": "01:06:45",
+      "text": "Eu fui\n\nÉ por essa escolha?"
+    },
+    {
+      "start": 4010.22,
+      "end": 4010.9,
+      "timestamp": "01:06:50",
+      "text": "Não."
+    },
+    {
+      "start": 4010.9,
+      "end": 4021.79,
+      "timestamp": "01:06:50",
+      "text": "Você faz a escolha de curto prazo e você tem um benefício agora."
+    },
+    {
+      "start": 4021.79,
+      "end": 4027.4,
+      "timestamp": "01:07:01",
+      "text": "Você paga o preço no longo prazo."
+    },
+    {
+      "start": 4027.4,
+      "end": 4034.04,
+      "timestamp": "01:07:07",
+      "text": "A escolha de longo prazo é o contrário."
+    },
+    {
+      "start": 4034.04,
+      "end": 4049.86,
+      "timestamp": "01:07:14",
+      "text": "Você paga o preço agora, no curto prazo, para você ter o benefício lá também, no longo prazo."
+    },
+    {
+      "start": 4049.86,
+      "end": 4058.71,
+      "timestamp": "01:07:29",
+      "text": "Agora, o cara não quer pagar o preço do curto prazo."
+    },
+    {
+      "start": 4058.71,
+      "end": 4065.01,
+      "timestamp": "01:07:38",
+      "text": "Cara, eu não quero dormir na empresa."
+    },
+    {
+      "start": 4065.01,
+      "end": 4074.02,
+      "timestamp": "01:07:45",
+      "text": "Eu não quero ralar para poder construir alguma coisa."
+    },
+    {
+      "start": 4074.02,
+      "end": 4077.94,
+      "timestamp": "01:07:54",
+      "text": "Eu não quero comer bem."
+    },
+    {
+      "start": 4077.94,
+      "end": 4082.87,
+      "timestamp": "01:07:57",
+      "text": "Eu não quero ter que estudar."
+    },
+    {
+      "start": 4082.87,
+      "end": 4091.21,
+      "timestamp": "01:08:02",
+      "text": "Eu não quero ter que estar sempre lendo um livro."
+    },
+    {
+      "start": 4091.21,
+      "end": 4092.4,
+      "timestamp": "01:08:11",
+      "text": "Beleza."
+    },
+    {
+      "start": 4092.4,
+      "end": 4113.67,
+      "timestamp": "01:08:12",
+      "text": "Agora você vai ter uma relação hedonística com a tua vida que é, tá bom, então ao invés de eu ler, eu vou assistir o Netflix."
+    },
+    {
+      "start": 4113.67,
+      "end": 4124.9,
+      "timestamp": "01:08:33",
+      "text": "Ao invés de eu treinar, eu vou comer hambúrguer e jogar videogame."
+    },
+    {
+      "start": 4124.9,
+      "end": 4127.45,
+      "timestamp": "01:08:44",
+      "text": "Faz isso, cara."
+    },
+    {
+      "start": 4127.45,
+      "end": 4135.95,
+      "timestamp": "01:08:47",
+      "text": "Daqui a 10 anos você vai ver onde está a sua vida."
+    },
+    {
+      "start": 4135.95,
+      "end": 4139.7,
+      "timestamp": "01:08:55",
+      "text": "Você vai ser um merda."
+    },
+    {
+      "start": 4139.7,
+      "end": 4146.5,
+      "timestamp": "01:08:59",
+      "text": "É isso que vai acontecer com a sua vida."
+    },
+    {
+      "start": 4146.5,
+      "end": 4154.67,
+      "timestamp": "01:09:06",
+      "text": "E aí, daqui a pouco, o que eles começam a fazer?"
+    },
+    {
+      "start": 4154.67,
+      "end": 4157.9,
+      "timestamp": "01:09:14",
+      "text": "A culpar os outros."
+    },
+    {
+      "start": 4157.9,
+      "end": 4160.97,
+      "timestamp": "01:09:17",
+      "text": "O mundo é injusto."
+    },
+    {
+      "start": 4160.97,
+      "end": 4166.41,
+      "timestamp": "01:09:20",
+      "text": "Todo mundo me deve alguma coisa."
+    },
+    {
+      "start": 4166.41,
+      "end": 4178.83,
+      "timestamp": "01:09:26",
+      "text": "Mas eu não tenho que fazer nada para essas pessoas me pagarem essa coisa."
+    },
+    {
+      "start": 4178.83,
+      "end": 4190.23,
+      "timestamp": "01:09:38",
+      "text": "Aí vira essa relação e fala, agora eu estou com crise de ansiedade."
+    },
+    {
+      "start": 4190.23,
+      "end": 4195.16,
+      "timestamp": "01:09:50",
+      "text": "Agora eu estou com depressão."
+    },
+    {
+      "start": 4195.16,
+      "end": 4196.52,
+      "timestamp": "01:09:55",
+      "text": "Por quê?"
+    },
+    {
+      "start": 4196.52,
+      "end": 4209.97,
+      "timestamp": "01:09:56",
+      "text": "Você construiu isso na sua vida por causa das decisões de merda que você tomou."
+    },
+    {
+      "start": 4209.97,
+      "end": 4213.71,
+      "timestamp": "01:10:09",
+      "text": "E vira todo um buleta."
+    },
+    {
+      "start": 4213.71,
+      "end": 4226.47,
+      "timestamp": "01:10:13",
+      "text": "Se eu posso dizer que o problema é da depressão, o problema não é mais meu."
+    },
+    {
+      "start": 4226.47,
+      "end": 4234.13,
+      "timestamp": "01:10:26",
+      "text": "O problema é da depressão que eu estou tendo."
+    },
+    {
+      "start": 4234.13,
+      "end": 4247.23,
+      "timestamp": "01:10:34",
+      "text": "Ou eu falo que o problema é do Estado, ou o problema é que o mundo é injusto."
+    },
+    {
+      "start": 4247.23,
+      "end": 4250.29,
+      "timestamp": "01:10:47",
+      "text": "Nunca é culpa sua."
+    },
+    {
+      "start": 4250.29,
+      "end": 4252.33,
+      "timestamp": "01:10:50",
+      "text": "Nunca é seu."
+    },
+    {
+      "start": 4252.33,
+      "end": 4262.2,
+      "timestamp": "01:10:52",
+      "text": "Mas, cara, o sofrimento, a gente sabia virar o sofrimento."
+    },
+    {
+      "start": 4262.2,
+      "end": 4270.88,
+      "timestamp": "01:11:02",
+      "text": "Hoje, cara, pra mim, a gente fazia ser legal, cara."
+    },
+    {
+      "start": 4270.88,
+      "end": 4273.26,
+      "timestamp": "01:11:10",
+      "text": "A gente zoava."
+    },
+    {
+      "start": 4273.26,
+      "end": 4280.06,
+      "timestamp": "01:11:13",
+      "text": "A gente aprendeu a aproveitar a jornada."
+    },
+    {
+      "start": 4280.06,
+      "end": 4285.0,
+      "timestamp": "01:11:20",
+      "text": "Eu treino duas vezes por dia."
+    },
+    {
+      "start": 4285.0,
+      "end": 4288.4,
+      "timestamp": "01:11:24",
+      "text": "Eu gosto de treinar."
+    },
+    {
+      "start": 4288.4,
+      "end": 4290.44,
+      "timestamp": "01:11:28",
+      "text": "Mas por quê?"
+    },
+    {
+      "start": 4290.44,
+      "end": 4305.59,
+      "timestamp": "01:11:30",
+      "text": "Porque eu comecei a correlacionar o resultado que eu tenho na minha vida com esse treino."
+    },
+    {
+      "start": 4305.59,
+      "end": 4317.67,
+      "timestamp": "01:11:45",
+      "text": "Eu falo assim, cara, é ruim quando eu estou levantando 120kg no supino?"
+    },
+    {
+      "start": 4317.67,
+      "end": 4321.75,
+      "timestamp": "01:11:57",
+      "text": "Dói pra caralho, é ruim."
+    },
+    {
+      "start": 4321.75,
+      "end": 4339.1,
+      "timestamp": "01:12:01",
+      "text": "Mas aquela sensação que eu tenho ali me remete a algo bom, que é o estar mais forte, o estar mais fit."
+    },
+    {
+      "start": 4339.1,
+      "end": 4346.08,
+      "timestamp": "01:12:19",
+      "text": "E aí você aprende a aproveitar a jornada."
+    },
+    {
+      "start": 4346.08,
+      "end": 4360.2,
+      "timestamp": "01:12:26",
+      "text": "O problema é que as pessoas não se dão a chance de aprender a aproveitar a jornada."
+    },
+    {
+      "start": 4360.2,
+      "end": 4368.03,
+      "timestamp": "01:12:40",
+      "text": "A gente se divertia pra caramba virando noite."
+    },
+    {
+      "start": 4368.03,
+      "end": 4375.51,
+      "timestamp": "01:12:48",
+      "text": "Essas coisas todas que são perrentes, mas..."
+    },
+    {
+      "start": 4375.51,
+      "end": 4381.81,
+      "timestamp": "01:12:55",
+      "text": "Depois saia todo mundo pra comemorar."
+    },
+    {
+      "start": 4381.81,
+      "end": 4394.74,
+      "timestamp": "01:13:01",
+      "text": "Cara, eu vivi uns quatro anos da minha vida ali, cada duas semanas num país."
+    },
+    {
+      "start": 4394.74,
+      "end": 4401.54,
+      "timestamp": "01:13:14",
+      "text": "A jornada da Zetax foi muito foda mesmo."
+    },
+    {
+      "start": 4401.54,
+      "end": 4410.22,
+      "timestamp": "01:13:21",
+      "text": "Pode ter sido o dia, pode ter sido um dos melhores."
+    },
+    {
+      "start": 4410.22,
+      "end": 4419.24,
+      "timestamp": "01:13:30",
+      "text": "E não foi ruim também, não foi a pior coisa do mundo."
+    },
+    {
+      "start": 4419.24,
+      "end": 4421.11,
+      "timestamp": "01:13:39",
+      "text": "Não, mas..."
+    },
+    {
+      "start": 4421.11,
+      "end": 4427.07,
+      "timestamp": "01:13:41",
+      "text": "Ah, eu acho que foi muito bom, viu?"
+    },
+    {
+      "start": 4427.07,
+      "end": 4434.04,
+      "timestamp": "01:13:47",
+      "text": "Se você olhar o resultado, foi muito bom."
+    },
+    {
+      "start": 4434.04,
+      "end": 4443.4,
+      "timestamp": "01:13:54",
+      "text": "Poderia ter sido muito mais do que a gente merecia, né?"
+    },
+    {
+      "start": 4443.4,
+      "end": 4451.74,
+      "timestamp": "01:14:03",
+      "text": "Beleza, mas cara, você não pode dizer que é ruim."
+    },
+    {
+      "start": 4451.74,
+      "end": 4461.43,
+      "timestamp": "01:14:11",
+      "text": "As tomadas de decisões fizeram dar merda também na Zetax."
+    },
+    {
+      "start": 4461.43,
+      "end": 4487.64,
+      "timestamp": "01:14:21",
+      "text": "Na verdade, tô falando do nosso deal de venda pra Rocket, a forma como eles operaram a gente foi, cara, dez vezes menos do que a gente merecia, no mínimo."
+    },
+    {
+      "start": 4487.64,
+      "end": 4495.97,
+      "timestamp": "01:14:47",
+      "text": "Dez pra vinte vezes menos do que a gente merecia."
+    },
+    {
+      "start": 4495.97,
+      "end": 4522.17,
+      "timestamp": "01:14:55",
+      "text": "Mas também, eu me lembro da gente ter essa conversa, eu falei, cara, o negócio é o seguinte, ou a gente fica brigando com esses caras gastando dinheiro..."
+    },
+    {
+      "start": 4522.17,
+      "end": 4527.62,
+      "timestamp": "01:15:22",
+      "text": "Vamos fazer e se divertir, cara."
+    },
+    {
+      "start": 4527.62,
+      "end": 4535.11,
+      "timestamp": "01:15:27",
+      "text": "E foi a melhor coisa que a gente fez, velho."
+    },
+    {
+      "start": 4535.11,
+      "end": 4544.29,
+      "timestamp": "01:15:35",
+      "text": "Eu fiz a Singoo, vendi pra Natura, e agora tamo no G4."
+    },
+    {
+      "start": 4544.29,
+      "end": 4551.1,
+      "timestamp": "01:15:44",
+      "text": "Eu fiz a Ramesa, vendi a Ramesa, prebei."
+    },
+    {
+      "start": 4551.1,
+      "end": 4553.65,
+      "timestamp": "01:15:51",
+      "text": "E é isso, mano."
+    },
+    {
+      "start": 4553.65,
+      "end": 4570.83,
+      "timestamp": "01:15:53",
+      "text": "Então ao invés de eu ficar dando murro em ponta de faca, gastando energia com bad vibes, meu irmão..."
+    },
+    {
+      "start": 4570.83,
+      "end": 4577.98,
+      "timestamp": "01:16:10",
+      "text": "Vendi a Mundi, fiz uma exchange de cripto."
+    },
+    {
+      "start": 4577.98,
+      "end": 4581.21,
+      "timestamp": "01:16:17",
+      "text": "Vendi pra Fox Beat."
+    },
+    {
+      "start": 4581.21,
+      "end": 4596.19,
+      "timestamp": "01:16:21",
+      "text": "O sistema que roda na Fox Beat foi a primeira exchange de cripto, foi eu que desenvolvi."
+    },
+    {
+      "start": 4596.19,
+      "end": 4601.12,
+      "timestamp": "01:16:36",
+      "text": "O meu tech leader é o CTO lá."
+    },
+    {
+      "start": 4601.12,
+      "end": 4609.12,
+      "timestamp": "01:16:41",
+      "text": "Tem hora que tem que saber, very good, brother."
+    },
+    {
+      "start": 4609.12,
+      "end": 4636.85,
+      "timestamp": "01:16:49",
+      "text": "Fala, mano, esse jogo aqui eu posso até ganhar, mas a quantidade de energia que eu vou ter que gastar pra ganhar esse jogo é melhor investir ali em outras paradas."
+    },
+    {
+      "start": 4636.85,
+      "end": 4648.08,
+      "timestamp": "01:17:16",
+      "text": "A recompensa nunca acho que vai ser do tamanho da sua expectativa."
+    },
+    {
+      "start": 4648.08,
+      "end": 4653.69,
+      "timestamp": "01:17:28",
+      "text": "Mas ela vai ser bom o suficiente."
+    },
+    {
+      "start": 4653.69,
+      "end": 4657.61,
+      "timestamp": "01:17:33",
+      "text": "Às vezes é assim, cara."
+    },
+    {
+      "start": 4657.61,
+      "end": 4660.67,
+      "timestamp": "01:17:37",
+      "text": "Às vezes pode ser."
+    },
+    {
+      "start": 4660.67,
+      "end": 4665.43,
+      "timestamp": "01:17:40",
+      "text": "Vocês fizeram um baita deal."
+    },
+    {
+      "start": 4665.43,
+      "end": 4666.96,
+      "timestamp": "01:17:45",
+      "text": "Um baita."
+    },
+    {
+      "start": 4666.96,
+      "end": 4672.41,
+      "timestamp": "01:17:46",
+      "text": "Venderam por um bilhão de reais."
+    },
+    {
+      "start": 4672.41,
+      "end": 4673.77,
+      "timestamp": "01:17:52",
+      "text": "1.3, né?"
+    },
+    {
+      "start": 4673.77,
+      "end": 4678.36,
+      "timestamp": "01:17:53",
+      "text": "Então estão no earn out lá."
+    },
+    {
+      "start": 4678.36,
+      "end": 4681.43,
+      "timestamp": "01:17:58",
+      "text": "Foi um baita deal."
+    },
+    {
+      "start": 4681.43,
+      "end": 4682.96,
+      "timestamp": "01:18:01",
+      "text": "Foi fair."
+    },
+    {
+      "start": 4682.96,
+      "end": 4687.38,
+      "timestamp": "01:18:02",
+      "text": "Foi no momento bom também."
+    },
+    {
+      "start": 4687.38,
+      "end": 4692.49,
+      "timestamp": "01:18:07",
+      "text": "Hoje em dia, tirou da cartola."
+    },
+    {
+      "start": 4692.49,
+      "end": 4698.1,
+      "timestamp": "01:18:12",
+      "text": "Hoje em dia não vale o que valia."
+    },
+    {
+      "start": 4698.1,
+      "end": 4704.91,
+      "timestamp": "01:18:18",
+      "text": "Eu já falei isso com o Alê várias vezes."
+    },
+    {
+      "start": 4704.91,
+      "end": 4711.37,
+      "timestamp": "01:18:24",
+      "text": "Meu irmão, você tirou essa hora certa."
+    },
+    {
+      "start": 4711.37,
+      "end": 4719.88,
+      "timestamp": "01:18:31",
+      "text": "Talvez tenha sido melhor que a expectativa, então."
+    },
+    {
+      "start": 4719.88,
+      "end": 4724.13,
+      "timestamp": "01:18:39",
+      "text": "Contrariando aqui a tese."
+    },
+    {
+      "start": 4724.13,
+      "end": 4729.24,
+      "timestamp": "01:18:44",
+      "text": "Na época, o mercado era assim."
+    },
+    {
+      "start": 4729.24,
+      "end": 4735.19,
+      "timestamp": "01:18:49",
+      "text": "Não dá pra falar, não foi nada bom."
+    },
+    {
+      "start": 4735.19,
+      "end": 4738.76,
+      "timestamp": "01:18:55",
+      "text": "O mercado tava assim."
+    },
+    {
+      "start": 4738.76,
+      "end": 4741.83,
+      "timestamp": "01:18:58",
+      "text": "A gente deu sorte."
+    },
+    {
+      "start": 4741.83,
+      "end": 4745.23,
+      "timestamp": "01:19:01",
+      "text": "Não foi estratégico."
+    },
+    {
+      "start": 4745.23,
+      "end": 4752.72,
+      "timestamp": "01:19:05",
+      "text": "Nem falou, ninguém sabia o que ia acontecer."
+    },
+    {
+      "start": 4752.72,
+      "end": 4757.99,
+      "timestamp": "01:19:12",
+      "text": "O mercado era muito bom, velho."
+    },
+    {
+      "start": 4757.99,
+      "end": 4762.07,
+      "timestamp": "01:19:17",
+      "text": "A gente tava no mercado."
+    },
+    {
+      "start": 4762.07,
+      "end": 4765.99,
+      "timestamp": "01:19:22",
+      "text": "Ninguém fez um negócio."
+    },
+    {
+      "start": 4765.99,
+      "end": 4769.22,
+      "timestamp": "01:19:25",
+      "text": "Ah, vou aproveitar."
+    },
+    {
+      "start": 4769.22,
+      "end": 4771.26,
+      "timestamp": "01:19:29",
+      "text": "Foi a sorte."
+    },
+    {
+      "start": 4771.26,
+      "end": 4774.32,
+      "timestamp": "01:19:31",
+      "text": "A gente conseguiu."
+    },
+    {
+      "start": 4774.32,
+      "end": 4788.1,
+      "timestamp": "01:19:34",
+      "text": "Qual que é a parada que, quando eu era seu CEO, eu mais se irritava que eu fazia?"
+    },
+    {
+      "start": 4788.1,
+      "end": 4792.7,
+      "timestamp": "01:19:48",
+      "text": "Pode falar mal de mim, vai."
+    },
+    {
+      "start": 4792.7,
+      "end": 4798.65,
+      "timestamp": "01:19:52",
+      "text": "Cara, eu acho que você já falou aí."
+    },
+    {
+      "start": 4798.65,
+      "end": 4804.44,
+      "timestamp": "01:19:58",
+      "text": "Era isso, de você me dar um prazo."
+    },
+    {
+      "start": 4804.44,
+      "end": 4810.39,
+      "timestamp": "01:20:04",
+      "text": "A gente não tá nem pronto pra nada."
+    },
+    {
+      "start": 4810.39,
+      "end": 4813.46,
+      "timestamp": "01:20:10",
+      "text": "Isso é pra amanhã."
+    },
+    {
+      "start": 4813.46,
+      "end": 4816.52,
+      "timestamp": "01:20:13",
+      "text": "Isso é pra amanhã."
+    },
+    {
+      "start": 4816.52,
+      "end": 4820.6,
+      "timestamp": "01:20:16",
+      "text": "E aí, eu falava, cara..."
+    },
+    {
+      "start": 4820.6,
+      "end": 4832.0,
+      "timestamp": "01:20:20",
+      "text": "Não tem engenheiro cascudo que não tenha vivido uma situação dessa."
+    },
+    {
+      "start": 4832.0,
+      "end": 4839.83,
+      "timestamp": "01:20:32",
+      "text": "Qual a situação dessa treta que você já viveu?"
+    },
+    {
+      "start": 4839.83,
+      "end": 4851.91,
+      "timestamp": "01:20:39",
+      "text": "Eu tive uma quando eu tava na distribuidora de livro digital, a Xerife."
+    },
+    {
+      "start": 4851.91,
+      "end": 4859.9,
+      "timestamp": "01:20:51",
+      "text": "E aí, a gente tava expandindo pra educação, né?"
+    },
+    {
+      "start": 4859.9,
+      "end": 4878.79,
+      "timestamp": "01:20:59",
+      "text": "E aí, veio a Universidade de Estácio, tava em franca expansão ali na época, isso era 2012, eu acho, 2011, 2012."
+    },
+    {
+      "start": 4878.79,
+      "end": 4891.21,
+      "timestamp": "01:21:18",
+      "text": "E eles abriram uma concorrência pra empresas que faziam conteúdo digital."
+    },
+    {
+      "start": 4891.21,
+      "end": 4899.04,
+      "timestamp": "01:21:31",
+      "text": "A gente entrou no meio dessa concorrência, né?"
+    },
+    {
+      "start": 4899.04,
+      "end": 4901.76,
+      "timestamp": "01:21:39",
+      "text": "E aí, pô, era..."
+    },
+    {
+      "start": 4901.76,
+      "end": 4935.28,
+      "timestamp": "01:21:41",
+      "text": "Ó, nós já colocamos no jornal, na TV, em vários veículos aí e tal, digitais e impressos e mídia física, que no semestre que vem, o aluno que se matriculava ia ganhar um tablet com conteúdo digital."
+    },
+    {
+      "start": 4935.28,
+      "end": 4938.0,
+      "timestamp": "01:22:15",
+      "text": "Já tá prometido."
+    },
+    {
+      "start": 4938.0,
+      "end": 4942.59,
+      "timestamp": "01:22:17",
+      "text": "Agora alguém tem que fazer."
+    },
+    {
+      "start": 4942.59,
+      "end": 4958.08,
+      "timestamp": "01:22:22",
+      "text": "E eu via a propaganda, tava ali, eu falei, meu irmão, como é que eu vou fazer esse negócio?"
+    },
+    {
+      "start": 4958.08,
+      "end": 4974.75,
+      "timestamp": "01:22:38",
+      "text": "A gente tinha, tipo, dois meses pra estar com nada pro produto absolutamente criado e funcionando."
+    },
+    {
+      "start": 4974.75,
+      "end": 4979.68,
+      "timestamp": "01:22:54",
+      "text": "E entramos numa concorrência."
+    },
+    {
+      "start": 4979.68,
+      "end": 4995.51,
+      "timestamp": "01:22:59",
+      "text": "Pô, a Xerife era, de certa forma, desconhecida ainda, apesar de ser a primeira distribuidora."
+    },
+    {
+      "start": 4995.51,
+      "end": 5012.18,
+      "timestamp": "01:23:15",
+      "text": "Pô, salve aí pro Duder Nani, visionário pra caramba, a primeira livraria e primeira distribuidora."
+    },
+    {
+      "start": 5012.18,
+      "end": 5016.6,
+      "timestamp": "01:23:32",
+      "text": "O que que tá fazendo hoje?"
+    },
+    {
+      "start": 5016.6,
+      "end": 5034.3,
+      "timestamp": "01:23:36",
+      "text": "Ele agora tem um aplicativo chamado Toda, com dois ossos, também é um aplicativo, assim, de marketplace."
+    },
+    {
+      "start": 5034.3,
+      "end": 5058.29,
+      "timestamp": "01:23:54",
+      "text": "Pô, cara, ele teve até um azar aí, mas já se reinventou e já pivotou, que ele fazia uma conexão entre o praiano, o banhista, e o barraqueiro."
+    },
+    {
+      "start": 5058.29,
+      "end": 5059.99,
+      "timestamp": "01:24:18",
+      "text": "Ah, legal."
+    },
+    {
+      "start": 5059.99,
+      "end": 5073.26,
+      "timestamp": "01:24:19",
+      "text": "Então, cara, aquele negócio de você ter que chamar o barraqueiro pra chamar..."
+    },
+    {
+      "start": 5073.26,
+      "end": 5077.0,
+      "timestamp": "01:24:33",
+      "text": "Pô, legal, hein, cara?"
+    },
+    {
+      "start": 5077.0,
+      "end": 5079.39,
+      "timestamp": "01:24:37",
+      "text": "Muito maneiro."
+    },
+    {
+      "start": 5079.39,
+      "end": 5088.23,
+      "timestamp": "01:24:39",
+      "text": "E dá um data mart aí, uma riqueza de dados violenta."
+    },
+    {
+      "start": 5088.23,
+      "end": 5097.76,
+      "timestamp": "01:24:48",
+      "text": "Só que ele fez isso, acho que um mês depois da pandemia."
+    },
+    {
+      "start": 5097.76,
+      "end": 5100.31,
+      "timestamp": "01:24:57",
+      "text": "Então, coitado."
+    },
+    {
+      "start": 5100.31,
+      "end": 5105.76,
+      "timestamp": "01:25:00",
+      "text": "Alguma coisa assim, mas, cara..."
+    },
+    {
+      "start": 5105.76,
+      "end": 5118.52,
+      "timestamp": "01:25:05",
+      "text": "Não, mas ele dizia, a tomada de decisões fizeram dar merda também na Zetax."
+    },
+    {
+      "start": 5118.52,
+      "end": 5146.93,
+      "timestamp": "01:25:18",
+      "text": "Não, mas eu nem lembro, tô falando do nosso deal de venda pra Rocket, a forma como eles operaram a gente, foi, cara, dez vezes menos do que a gente merecia, no mínimo."
+    },
+    {
+      "start": 5146.93,
+      "end": 5155.27,
+      "timestamp": "01:25:46",
+      "text": "Dez pra vinte vezes menos do que a gente merecia."
+    },
+    {
+      "start": 5155.27,
+      "end": 5181.47,
+      "timestamp": "01:25:55",
+      "text": "Mas também, eu me lembro da gente ter essa conversa, eu falei, cara, o negócio é o seguinte, ou a gente fica brigando com esses caras gastando dinheiro..."
+    },
+    {
+      "start": 5181.47,
+      "end": 5186.91,
+      "timestamp": "01:26:21",
+      "text": "Vamos fazer e se divertir, cara."
+    },
+    {
+      "start": 5186.91,
+      "end": 5194.4,
+      "timestamp": "01:26:26",
+      "text": "E foi a melhor coisa que a gente fez, velho."
+    },
+    {
+      "start": 5194.4,
+      "end": 5204.1,
+      "timestamp": "01:26:34",
+      "text": "Eu fiz a Singoo, vendi pra Natura, e agora estamos no G4."
+    },
+    {
+      "start": 5204.1,
+      "end": 5210.9,
+      "timestamp": "01:26:44",
+      "text": "Eu fiz a Ramesa, vendi a Ramesa, prebei."
+    },
+    {
+      "start": 5210.9,
+      "end": 5223.5,
+      "timestamp": "01:26:50",
+      "text": "Você fez a Mara, agora eu fiz a Remessa, vendei a Remessa, pro Bray Banks."
+    },
+    {
+      "start": 5223.5,
+      "end": 5226.05,
+      "timestamp": "01:27:03",
+      "text": "E é isso, mano."
+    },
+    {
+      "start": 5226.05,
+      "end": 5243.4,
+      "timestamp": "01:27:06",
+      "text": "Então, ao invés de eu ficar dando murro em ponta de faca, gastando energia com bad vibes, meu irmão..."
+    },
+    {
+      "start": 5243.4,
+      "end": 5250.55,
+      "timestamp": "01:27:23",
+      "text": "Vendi a Mundi, fiz uma exchange de cripto."
+    },
+    {
+      "start": 5250.55,
+      "end": 5253.78,
+      "timestamp": "01:27:30",
+      "text": "Vendi pra Fox Beat."
+    },
+    {
+      "start": 5253.78,
+      "end": 5268.75,
+      "timestamp": "01:27:33",
+      "text": "O sistema que roda na Fox Beat foi a primeira exchange de cripto, foi eu que desenvolvi."
+    },
+    {
+      "start": 5268.75,
+      "end": 5273.69,
+      "timestamp": "01:27:48",
+      "text": "O meu tech leader é o CTO lá."
+    },
+    {
+      "start": 5273.69,
+      "end": 5281.68,
+      "timestamp": "01:27:53",
+      "text": "Tem hora que tem que saber, very good, brother."
+    },
+    {
+      "start": 5281.68,
+      "end": 5309.42,
+      "timestamp": "01:28:01",
+      "text": "Fala, mano, esse jogo aqui eu posso até ganhar, mas a quantidade de energia que eu vou ter que gastar pra ganhar esse jogo é melhor investir ali em outras paradas."
+    },
+    {
+      "start": 5309.42,
+      "end": 5320.65,
+      "timestamp": "01:28:29",
+      "text": "A recompensa nunca acho que vai ser do tamanho da sua expectativa."
+    },
+    {
+      "start": 5320.65,
+      "end": 5326.26,
+      "timestamp": "01:28:40",
+      "text": "Mas ela vai ser bom o suficiente."
+    },
+    {
+      "start": 5326.26,
+      "end": 5330.17,
+      "timestamp": "01:28:46",
+      "text": "Às vezes é assim, cara."
+    },
+    {
+      "start": 5330.17,
+      "end": 5333.24,
+      "timestamp": "01:28:50",
+      "text": "Às vezes pode ser."
+    },
+    {
+      "start": 5333.24,
+      "end": 5338.0,
+      "timestamp": "01:28:53",
+      "text": "Vocês fizeram um baita deal."
+    }
+  ],
+  "segment_count": 591,
+  "text_timestamped": "[00:00] me responde uma pergunta rápida.\n[00:05] Qual é a nota que você dá para o seu time?\n[00:12] Cinco?\n[00:13] Seis?\n[00:14] Sete?\n[00:15] Bem, se a sua resposta foi dentro dessa média, saiba que a nota do seu time é a nota da sua empresa.\n[00:32] Afinal, uma companhia é formada pelas pessoas que a compõem.\n[00:42] E o resultado do negócio depende diretamente da performance desses indivíduos.\n[00:55] Sabendo do desafio que é treinar e capacitar gente, nós desenvolvemos o G4 Skills, a plataforma de treinamento de times do G4 Educação que avalia os gaps de habilidades e maturidade do seu colaborador.\n[01:30] E além disso, cria uma trilha personalizada de desenvolvimento para cada membro do seu time.\n[01:45] Todas essas trilhas são compostas com as mais de centenas de horas que temos nas formações online do G4 Educação.\n[02:04] Para você conhecer o G4 Skills, eu liberei sete dias de acesso gratuito à nossa plataforma.\n[02:20] Basta escanear o QR Code que está aqui na tela ou clicar no link do descritivo deste episódio.\n[02:36] Corre no link e garanta o seu acesso gratuito.\n[02:44] E se você se interessar em adquirir o G4 Skills, eu garanti uma condição especial para você, que é ouvinte do G4 Podcast.\n[03:04] Agora bora para o episódio.\n[03:09] E eu tinha um ódio profundo de ser pobre.\n[03:16] Mas um ódio.\n[03:18] Eu parecia que eu estava mastigando merda todo dia de manhã quando eu acordava.\n[03:31] Falei, velho, que ódio de ser pobre.\n[03:37] Eu quero arrumar um jeito para não ser pobre mais.\n[03:46] E essa ambição, esse ódio de ser pobre, me fazia o tempo inteiro buscar.\n[03:58] E eu só estou aqui por causa desse ódio que eu tinha, sabe?\n[04:08] Essa vontade, esse foco bizarro de fazer alguma coisa.\n[04:17] Na hora que eu vi a botana da EasyTaxi, eu falei assim, cara, é agora.\n[04:29] Eu não posso errar.\n[04:33] O business arriscado, eu vi o tempo todo.\n[04:40] Uma coisa que a gente concorda muito, a gente falava muito, é assim, cara, ideia não vale nada.\n[04:56] Vale você implementar a ideia e botar o negócio para funcionar.\n[05:06] O que é o Nubank hoje era a EasyTaxi na época.\n[05:14] Cara, vocês tiveram mais acesso que o Facebook.\n[05:22] Vocês tiveram mais hit do que o Facebook naquela época.\n[05:32] Pois é.\n[05:33] A gente trabalhava todo dia até meia-noite, uma hora da manhã.\n[05:43] No outro dia, sete da manhã, estava lá.\n[05:50] Eu nem dormia, velho.\n[05:54] Nós três já passamos por isso.\n[05:59] E é engraçado, a geração de hoje parece que rejeita esse tipo de ideia.\n[06:11] Cara, para mim era assim, meu irmão.\n[06:17] Tem que fazer um negócio extraordinário.\n[06:24] Mas é que isso não pode ser o principal, eu concordo.\n[06:33] Não dá para você viver dois anos assim.\n[06:39] Fala, galera.\n[06:42] Esse aqui é o G4 Podcast.\n[06:46] E hoje com dois convidados extremamente especiais para mim.\n[06:56] Porque Bernardo Bicalho, meu amigo de longa data do Rio de Janeiro, foi o primeiro CTO da EasyTaxi.\n[07:13] O cara que quando eu tive a ideia, eu fui falar com ele.\n[07:22] E o Vinícius Grácia, o oficial CTO da EasyTaxi.\n[07:30] De fato, meu co-founder.\n[07:34] Que com ele que a gente criou o negócio e expandiu para o mundo inteiro.\n[07:47] Então hoje, nesse podcast, vocês vão de fato conhecer a história de hustling.\n[08:00] A história de criar negócios.\n[08:05] De deixar passar oportunidades.\n[08:10] E eu espero, além de lições, entregar aí a próxima hora, hora e meia de papo.\n[08:23] Algo bastante divertido e descontraído para vocês conhecerem o meu passado verdadeiro.\n[08:38] Então, Bicalho, obrigado pela presença.\n[08:44] Vini, é um prazer estar com você aqui também, cara.\n[08:53] É um prazer estar com você também aqui, Thales.\n[09:01] Galera, eu queria começar puxando lá atrás.\n[09:08] Quando que eu te conheci, Bicalho?\n[09:14] Eu mudei para o Rio em 2005, porque eu fui fazer faculdade.\n[09:24] Eu conheci o Pedrones.\n[09:28] Isso, ESPM.\n[09:30] ESPM.\n[09:30] E aí eu acho que eu te conheci.\n[09:36] Eu estou tentando puxar na memória, velho.\n[09:43] O exato momento que eu te conheci.\n[09:49] Eu acho que eu te conheci em algum rolê do Pedrones.\n[09:58] Eu acho que foi rolê da ESPM.\n[10:02] Churrasco da ESPM.\n[10:06] Mas você foi no churrasco da ESPM por quê?\n[10:13] Pô, porque o Pedrones encabeçava.\n[10:18] Eu botava todo dia.\n[10:22] Cara, os churrascos da ESPM...\n[10:27] Era incrível, né?\n[10:30] Um negócio incrível, cara.\n[10:34] É só isso que eles fazem bem mesmo, né?\n[10:41] Uma festa.\n[10:42] Mas fazem muito bem, pelo que eu vou te falar.\n[10:50] Eu acho que foi por aí mesmo, cara.\n[10:56] E eu acho que nesse momento ele me apresentou.\n[11:04] Falou, pô, vou te apresentar o Bicalho, que ele é um cara de tecnologia.\n[11:16] Eu já gostava muito de tech também.\n[11:22] E a gente começou a trocar uma ideia.\n[11:28] E para mim você já era, tipo, aquele cara unreachable, sabe?\n[11:39] Eu falava, caralho, o Bicalho, mané.\n[11:45] O cara é pica da tecnologia.\n[11:49] Já tinha uns empregos maneiros.\n[11:55] O que você fazia nessa época mesmo?\n[12:01] Cara, a gente tem uma diferença de idade, né?\n[12:08] Então, pô, eu já estava num grau sênior ali, gestão e tal.\n[12:18] Eu estava trabalhando, se não me engano, era, sei lá, 2006, 2007.\n[12:29] É por aí.\n[12:31] Eu estava na corretora Ágora.\n[12:36] É na Ágora, é isso mesmo.\n[12:40] Hoje acho que ela nem está mais aí, porque teve aquisição do Bradesco e tal.\n[12:53] Então repaginou e tal.\n[12:57] Então eu entrei na Ágora, assim, numa mudança, né?\n[13:05] Eu trabalhava em banco privado, assim, bem produto pequeno, né?\n[13:16] Conta corrente, fundos.\n[13:20] Você trabalhava no Bozano, não foi?\n[13:26] Trabalhei no banco Bozano, que foi comprado pelo Santander.\n[13:36] Fui parar no Santander.\n[13:40] Do Santander teve a site Patagon.\n[13:45] A gente foi, o primeiro shopping financeiro foi Patagon.\n[13:55] Aí a Patagon deu uma spin-off e virou Lemon Bank.\n[14:03] Eu fui trabalhar no Lemon Bank, que era um banco de microcrédito.\n[14:14] E aí, pô, cinco anos ali no Lemon Bank, eu cheguei num ponto ali que eu falei assim, pô, zerei meu jogo aqui, cara.\n[14:34] Eu já automatizei todas as minhas tarefas e tal.\n[14:42] Falei com o presidente.\n[14:46] Eu falei, presidente, eu quero mexer com ações, opções, termo.\n[14:56] Quero mexer com as paradas avançadas de mercado financeiro.\n[15:07] Ele falou assim, cara, não é aqui.\n[15:12] Eu me birilitei para ganhar metade do meu valor para trabalhar na Ágora para entrar nesse mercado financeiro.\n[15:31] E aí foi legal.\n[15:33] Pô, peguei uns projetos bacanas de home broker.\n[15:41] Acho que nessa época, mais ou menos, a gente começou a desenvolver uma amizade.\n[15:55] É, foi por aí.\n[15:57] Na Ágora, eu lembro de você na Ágora, né?\n[16:04] Isso.\n[16:05] E até o motivo de eu sair da Ágora é interessante, né?\n[16:14] Eu fui lá para ganhar o salário baixo, porque mercado financeiro é aquilo, né?\n[16:28] Salário baixo, bônus alto.\n[16:32] Aí eu topei o salário para aprender.\n[16:38] Chegou ali no final do período de um ano.\n[16:45] Parabéns, chegou o meu gestor, né?\n[16:51] Parabéns, Bicalho.\n[16:54] Você ganhou o maior bônus da companhia que uma pessoa de tecnologia pode receber.\n[17:08] E quem era quanto?\n[17:11] Esse predicado aí, sabe?\n[17:15] O cara limitou o meu bônus.\n[17:19] Não importava o quanto eu entregasse.\n[17:26] Tinha um cap para o quanto uma pessoa de tecnologia recebe de bônus.\n[17:37] Na época, foi tipo 40 mil reais em 2006.\n[17:44] Que era bastante dinheiro.\n[17:48] Sério, né?\n[17:50] Mas se fizesse um compound ali do meu salário com o bônus, eu estava ganhando a mercado.\n[18:05] Entendi.\n[18:07] Aí eu falei, isso aqui não está legal.\n[18:13] Fui para a XP, que estava em plena ascensão.\n[18:20] Um monte de gente conhecida lá.\n[18:26] O tamanho da XP na época?\n[18:30] Cara, a XP, quando eu entrei, ela ainda era no Shopping Leblon.\n[18:41] Já era uma empresa de expressão, né?\n[18:47] Mas a Ágora era líder do mercado ainda.\n[18:53] E aí, pô, acompanhei todo o crescimento ali, de 2007 a 2010, para a XP.\n[19:06] E foi muito interessante trabalhar com o Benchmol, perto do Guilherme Benchmol, que é um astro realmente, um cara fora de série.\n[19:27] E acompanhar a XP durante a maior crise que a gente viu, que foi o super...\n[19:40] O subprime, né?\n[19:43] Você estava no olho do furacão do subprime, né?\n[19:51] Pior até que o olho do furacão, porque eu era responsável por fazer o sistema de risco, que nós tomamos a decisão na XP de descartar as soluções de mercado e desenvolver uma nossa.\n[20:21] Por que?\n[20:23] Qual foi o efeito?\n[20:26] Cara, a gente achava que as soluções de mercado eram ruins, né?\n[20:36] E realmente, quando todo mundo no mercado tem a mesma solução, ninguém vai ter...\n[20:50] Não tem diferencial, né?\n[20:54] Então, peguei esse projeto lá, foi bem bacana.\n[21:02] A gente seguiu aquela mesma máxima que a gente sempre conversa muito, né?\n[21:15] Contrata engenheiro, que o cara sabe fazer tudo.\n[21:23] Ele vai dar um jeito.\n[21:26] Eu tinha um canal lá com um cara chamado Rafael Guarilha, um ex...\n[21:38] Eu lembro do Guarilha.\n[21:41] Pô, o Guarilha, cara.\n[21:45] Guarilha.\n[21:46] Foi Zita, não foi?\n[21:49] IME, sei lá, IME, é.\n[21:53] E ele falou, eu conheço uns caras cabeçudíssimos, engenheiros\n\nNa Gap Sabido, que estava virando depois a Xerife, né, virou uma distribuidora junto com o site, eu montei um APM, um Analytics ao vivo ali, cara, que eu te mostrei.\n[22:32] Eu lembro.\n[22:33] Olha só, é uma tela feiona porque eu não desenhava a tela, né?\n[22:44] Eu lembro disso.\n[22:47] Mas você conseguia, em tempo real, ver o cliente entrando no site, todos os clientes entrando no site, preenchendo o carrinho, fazendo busca, ao vivo.\n[23:12] Era antes do Google Analytics existir, porra.\n[23:20] Aí você virou para mim e falou assim, Bicalho, eu vendo isso aí por uns 100 milhões, cara.\n[23:35] Vamos botar essa parada, vamos produtizar isso aí, não sei o que.\n[23:46] E eu, mais uma vez, falei assim, porra, não, Thales, você não entende, isso aqui foi só para fazer isso para as outras, eu vou precisar trabalhar para caralho.\n[24:13] É que eu me lembro de ser um cara muito pragmático.\n[24:22] Então você sempre falava para mim, ficava no meu irmão, esse negócio de papel, eu estou fora, eu quero dinheiro.\n[24:41] Você sentava na tua mesinha ali, tocando uns programas que você gravava dos Estados Unidos, você ficava ouvindo, o dia inteiro ele, meu irmão, não, eu quero dinheiro, não quero saber dessa porra de papel.\n[25:16] E eu tinha isso treinado na cabeça, porque eu falava o seguinte, cara, se eu for começar a caminhada, eu estou tudo errado, eu tive uma educação ruim, eu sou um dropout, eu era um dropout, eu larguei a faculdade, eu falei, pô, eu preciso arrumar algum leapfrog para a minha vida e não vai ser galgando carreira corporativa.\n[26:11] Minha formação era uma porcaria que eu decidi fazer SPM, dropei SPM, grandes merda.\n[26:25] Tive uma formação de escola muito ruim, escola pública do interior de Minas Gerais.\n[26:39] Então eu falei, cara, eu nunca vou arrumar um emprego bom, porque eu não sou chamado para entrevista.\n[26:56] O teu círculo, eles tinham uma carreira desenhada, vou estudar SPM e vou trabalhar numa agência.\n[27:12] Era o circuito que todo mundo, você não entrou muito, acho que você namorou esse circuito, mas não entrou.\n[27:30] É que o ponto é o seguinte, o nego falou assim, porra, mano, você é criativo, nunca tive orientação profissional, né, velho?\n[27:51] Porque minha família é muito humilde, os caras não sabiam o que é isso.\n[28:04] Então, tipo, eu fui amigo falando na rua, me lembro que foi um radialista da cidade que falou comigo assim, falou, pô, você é muito criativo, sempre escrevi bem, né?\n[28:32] Ah, você tem que fazer publicidade.\n[28:38] Eu falei, tá bom, vou fazer publicidade, né?\n[28:45] Arrumei um jeito de entrar na SPM lá.\n[28:51] Só que, pô, não tem nada a ver comigo, tá ligado?\n[29:00] Eu teria feito engenharia, sei lá, economia, alguma coisa assim, que são as coisas que tem mais a ver comigo, mas whatever também.\n[29:22] Acho que todo ponto aqui, eu falei, eu não vou conseguir galgar uma carreira, eu preciso eu criar o meu próprio negócio, que as pessoas não vão me dar chance de ir para a entrevista.\n[29:53] E eu me lembro que é o seguinte, por exemplo, eu me lembro direitinho que eu ia muito bem em entrevista, quando eu conseguia em entrevista.\n[30:16] Uma vez eu entrei no processo da Americanas.\n[30:24] E aí eu fui na última fase da Americanas.\n[30:31] Aí o cara da Americanas foi e falou comigo, falou assim, cara, eu gosto muito de você.\n[30:46] Só que tem um problema, né?\n[30:50] A minha faculdade estava trancada.\n[30:56] Então eu meio que mentia isso, que estava trancada, pra ver se eu arrumava um emprego.\n[31:11] Porque, meu irmão, você lembra a situação que eu era?\n[31:20] Quase de passar fome ali.\n[31:24] Então eu tinha que ter alguma coisa pra pagar o dinheiro.\n[31:34] Eu meio que mentia, falei, cara, se eu conseguir entrar na parada, eu pego o dinheiro, posso ir pra faculdade, dou um jeito.\n[31:55] E aí o cara falou assim, tua faculdade está trancada, pô.\n[32:04] Eu não posso te colocar aqui, nesse estágio.\n[32:12] Aí eu falei assim, cara, fodeu, eu não consigo sair desse limbo.\n[32:23] Eu vou ter que criar minha parada.\n[32:28] Então eu ficava nesse negócio, quero criar alguma coisa, quero fazer alguma coisa, quero fazer alguma coisa, e tentar fazer, porque eu não tinha opção.\n[32:54] E quando a gente se conheceu com a Liuda, a gente estava começando a Tec Samurai, né?\n[33:09] Não, o Thales entrou na...\n[33:13] Entrou, eu estou falando.\n[33:17] Não, eu só estou falando.\n[33:22] O Thales era a Tec Samurai.\n[33:26] Depois vendeu a sua participação.\n[33:32] Vendi a participação pro...\n[33:36] Aquela fera braba.\n[33:39] Mas acho que ali foi o método.\n[33:45] Mas eu acho que ali foi também um turning point pra você.\n[33:54] Mas foi, sabe por quê?\n[33:58] Foi a primeira vez que a gente começou, pelo menos que eu comecei a ganhar um dinheirinho.\n[34:13] E eu me lembro que ali, pô, consegui comprar o seu carro, inclusive.\n[34:25] O seu carro, eu consegui, porra, mudar pra Barra, eu consegui, tipo, começar a dar uma organizada na minha vida e ter, tipo, um tempo pra sair daquela roda do rato do cheque especial o tempo inteiro e dar uma respirada e falar, porra, o que eu vou fazer agora, né?\n[35:10] Qual que é o próximo passo, né?\n[35:15] Mas eu estava falando um negócio que pra mim realmente é importante, assim, eu já te falei isso várias vezes em privado, é importante eu falar isso on tape também, da gratidão que eu tenho por você, porque você foi o primeiro cara que eu me recordo que verdadeiramente acreditou em mim.\n[36:04] E eu me lembro que você tinha uma relação meio paternal comigo, você me dava uns esporros, uns esculachos, meio que você é um cara muito grosso, né?\n[36:29] Você me dava uns esculachos, tipo, você é burro, não sei o que lá, não sei o que lá, não sei o que lá.\n[36:46] E eu, como palavras não me tocam mesmo, eu tô cagando pra essa merda, eu falo, ótimo, deixa eu pegar o que ele tá falando comigo e pegar a parte boa.\n[37:12] Então, por exemplo, você me ensinou a jogar pôr aqui, que foi um negócio importante pra minha vida, verdadeiramente o pôr que era uma ferramenta que eu usei muito na minha vida, pra negociação e tal.\n[37:45] Você me ensinou a pensar sistema, então eu era um cara muito desorganizado, porque o negócio é o seguinte, organização, você não nasce com isso, é só uma habilidade técnica, alguém tem que te ensinar, você tem que treinar.\n[38:23] Então eu me lembro que eu chegava, te jogava um monte de ideia, você falava assim, cara, para com essa merda, um monte de buchitagem, calma aí, estrutura teu pensamento, ponto um, ponto dois, você começou a me ensinar, você me ensinou a trabalhar, você foi o primeiro cara que pegou e falou assim, olha, assim, trabalha.\n[39:18] Aí quando a gente começou a trabalhar junto, eu também era um cara muito cheio de ideia, falava muito assim, cara, começa a escrever as coisas, escreve esse troço aqui e tal, começa a organizar.\n[39:51] Então pra mim foi muito importante, velho, ter passado por esse período com você, porque quando a sorte bateu na minha porta, né, que apareceu a oportunidade, a ideia de fazer o Easy Taxi, eu tava preparado.\n[40:26] Porque se o negócio for bom mesmo, e você for o cara certo pra fazer essa parada, você vai dar um jeito de convencer o cara dele a fazer.\n[40:49] E aí Easy Taxi a gente chegou até bastante, a gente entrou no risco ali bem, porque a gente tava, quando saiu o deal, a gente tava com a dívida legalzinha, foi um deal de quebrar.\n[41:20] Foi quando você pulou fora.\n[41:24] Foi um deal dele pular fora, ele falou, cara, Easy Taxi, a segunda pulada fora.\n[41:38] Eu deixei o dinheiro na mesa de novo com a Easy Taxi, eu tinha 7,5%, era mais ou menos 100 mesmo.\n[41:54] Vini acho que também tinha 7,5%.\n[42:00] É, vocês dividiram os caras.\n[42:04] Depois eu fiquei com 15, depois eu acertei com o Corrêa.\n[42:14] E o que eu acho incrível é que olhando pra história e tal, eu começo a pensar comigo, cara, por que eu fiz isso?\n[42:33] Que estupidez, sabe?\n[42:36] Porque, beleza, business arriscado, eu via o tempo todo, e uma coisa que a gente concorda muito, a gente falava muito, é assim, cara, ideia não vale nada.\n[43:03] Vale você implementar a ideia e botar o negócio pra funcionar.\n[43:13] A ideia em si, pô.\n[43:16] Vale porra nenhuma.\n[43:19] Voa e tal.\n[43:21] Você lembra que você me perguntou, porra, Bicalho, vou ter que gastar um dinheiro aqui pra registrar minha ideia e tal, não sei o que.\n[43:44] Eu falei, meu irmão, você vai perder tempo.\n[43:51] É verdade.\n[43:53] Porque não é a ideia em si, é a tua capacidade de fazer ela funcionar.\n[44:05] Você ainda falou assim, porra, zero em force no Brasil, não tem por que você fazer essa merda, né?\n[44:22] Exatamente.\n[44:23] É, ainda tem isso.\n[44:26] Você registra sua ideia e alguém vai lá e faz a mesma coisa.\n[44:37] Tem que registrar a marca, mas ideia...\n[44:43] Lembra assim.\n[44:46] E aí, por que eu, olhando pra trás, falo assim, cara, que baita burrice\n\nIsso aí, vamos procurar fundo.\n[45:03] Só que não tinha Venture Capital no Brasil, tinha Monax, você lembra?\n[45:15] Eu fui na Monax, foi no iniciozinho das Itax, os caras ficaram sabendo da gente e falaram, pô, vem pra cá.\n[45:33] A gente foi na Monax e nós fomos de terno, velho, que vexame.\n[45:43] Nós fomos de terno na Monax.\n[45:48] Você me mandou ir mais ou menos arrumado, porque como eu era de terno, eu não podia ir de terno, eu tinha que ser o nerd brilhante.\n[46:10] E eu fui de terno.\n[46:13] Você foi de terno.\n[46:16] Que é uma cagada, né?\n[46:20] Chegou no escritório dos caras, tinha um mapa, assim, na sala gigante, que era de alguma...\n[46:35] De drop point.\n[46:38] Isso aí.\n[46:39] E aí você falou, ó, isso aí é de snowboard.\n[46:46] E hoje a gente faz rally ski, tá ligado?\n[46:53] Isso é só os caras muito ricos que fazem essa porra, esses caras são muito ricos.\n[47:07] O helicóptero é teu lift, né?\n[47:12] Mas aí eu me lembro dessa reunião com a Monax, eu expliquei pros caras o negócio.\n[47:26] Os caras, tipo assim, eles não ficaram convencidos que a gente poderia fazer aquilo.\n[47:40] Eles não ficaram convencidos que a gente poderia fazer aquilo.\n[47:51] Agora a Rocket, o Oliver, não sei o que ele te respondeu, mas o Simon uma vez me falou que eles tentaram fazer, não conseguiram, por isso que trouxeram a gente.\n[48:18] Porque a gente já tinha o app funcionando.\n[48:25] É que a história foi a seguinte.\n[48:30] Então o Oliver me respondeu e me apresentou pro Sampaio.\n[48:40] Sampaio veio pro Rio.\n[48:44] A gente fez toda aquela operação lá de montar o táxi pra esperar.\n[48:55] A gente não tinha táxi suficiente, a gente botou um cara no aeroporto.\n[49:07] E pior, ele não fechou com o cara que a gente combinou.\n[49:16] Ele acabou conseguindo uma pessoa que não tinha sido combinada.\n[49:27] Essa foi a parte da sorte.\n[49:31] A gente tinha muito pouco táxi, o negócio era muito insuficiente.\n[49:42] A gente deixou combinado.\n[49:46] E ele conseguiu outro.\n[49:50] Foi muita sorte isso.\n[49:54] Muita sorte.\n[49:56] E porque o negócio é o seguinte, qual que era o problema?\n[50:05] Cara, mobile.\n[50:08] A gente fez um app que puxava a bateria pra caralho.\n[50:16] A bateria já era uma bosta.\n[50:21] A gente fez um app que puxava a bateria pra caralho.\n[50:30] Não dá pra usar isso.\n[50:33] Área de sombra.\n[50:36] Área de sombra.\n[50:39] Lembra que eu fui palestrante em Las Vegas, no reInvent?\n[50:48] Lembro.\n[50:49] Que a AWS me chamou.\n[50:53] Então, o Waze tava lá.\n[50:56] O Waze tava começando.\n[51:00] Eles pediram pra falar comigo.\n[51:05] Aí o Tam falou, não, o Waze tá querendo conversar com você.\n[51:15] A gente surgiu antes do Waze, é verdade.\n[51:22] Aí até o Waze chegou a falar...\n[51:27] Eles meio que deram uma esnobada em mim na hora.\n[51:36] Não, mas o que você quer falar com a gente?\n[51:43] Eu falei, não, ele marcou porque você queria.\n[51:51] Aí depois eles abriram.\n[51:54] Falaram, cara, como é que você consegue rodar o app com as sombras?\n[52:06] O nosso app para o tempo inteiro no Brasil.\n[52:13] Já era 2013.\n[52:15] Eu lembro da Lagoa, que era uma pica, mano.\n[52:23] Esse reInvent já foi em 2014.\n[52:27] Foi três anos depois das etapas.\n[52:33] Eu lembro disso.\n[52:36] E aí tinha um problema também que consumia muito bateria.\n[52:45] Então, tipo assim, a gente tinha que resolver o...\n[52:54] Primeiro, você tem que ter esse telefone.\n[53:01] Segundo, você tem que ter o plano de dados.\n[53:08] Terceiro, agora você tem que ter o carregador, que o Daniel Coen arrumou lá.\n[53:21] A gente começou a montar o kit pro cara e falou, velho, esse é o kit que você tem que ter.\n[53:36] Tipo assim, a gente teve que verdadeiramente criar do zero o mercado ali, né?\n[53:49] E aí, por sorte...\n[53:53] Então, a gente tinha pouco táxi, pouca disponibilidade, cheia de área de sombra.\n[54:06] E por um acaso, deu certo.\n[54:11] Deu certo, velho.\n[54:13] E eu me lembro que o Sampaio fez uma proposta de comprar a empresa primeiro.\n[54:26] Comprar a empresa, vocês saem.\n[54:31] E a gente ficava como funcionário.\n[54:37] A gente ficava como funcionário.\n[54:43] A gente, pô...\n[54:45] Eu me lembro de eu falar com vocês e você falou, galera, a gente tá fodido mesmo.\n[54:59] Esse cara não vem lá da Alemanha pra falar que a gente vale isso.\n[55:10] Ele acha que a gente vale 100 vezes isso.\n[55:17] Então, vamos falar, não.\n[55:21] Eu truquei os caras.\n[55:24] Endividado com dois e meio de caixa.\n[55:31] Eu lembro.\n[55:32] Endividado.\n[55:34] A gente tinha combinado.\n[55:38] Falou, olha, em dois meses vamos passar a régua e vamos tentar pagar a dívida e é isso.\n[55:53] Falei, não.\n[55:55] Não vamos vender.\n[55:58] E eu me lembro o que ele falou comigo, porque o Sampaio é um cara super agressivo.\n[56:12] Ele falou assim, eu era da McKinsey, né?\n[56:18] Vou te falar o que eu vou fazer.\n[56:24] Eu vou trazer uns McKinsey boys, eu vou enfiar dinheiro nesses caras e você vai competir com eles.\n[56:41] Eu falei, boa sorte.\n[56:44] Vai fazer um software igual o meu.\n[56:50] Eu peitei o maluco, mano.\n[56:54] Eu tinha 22 anos.\n[56:57] Eu não tinha um real na conta.\n[57:02] Eu vinha num cheque especial, mano.\n[57:08] Eu peitei esses caras.\n[57:12] Eu acho que o cara deve ter me achado tão maluco que depois ele veio procurar a gente.\n[57:26] Não, mas eles falaram, ele falou que ele tentou fazer e não conseguiu.\n[57:38] Ele botou o cima e falou, ah, a gente tentou desenvolver o app e não conseguiu.\n[57:52] O Oliver, eu lembro quando a gente começou, o Márcio fez a versão do Android e eu fiz a versão de iOS.\n[58:09] E pra eu fazer a versão de iOS do Easy Taxi, eu fui olhar o código do Márcio, né?\n[58:23] Fui aprender com ele.\n[58:26] Quando eu olhei o código, eu falei assim, Márcio, você fez trigonometria aqui pra chegar no ponto de localização?\n[58:46] É matemática pura?\n[58:49] Ele, é.\n[58:50] Eu falei, cara, você tem noção de que você é brilhante?\n[58:59] O que a gente fez foi sinistro.\n[59:05] Foi brilhante do Márcio.\n[59:09] Pra quem é técnico, tecnicamente, explica como é que era a solução, então.\n[59:21] Cara, no final, o grande ponto era a trigonometria, que foi a solução do Márcio, né?\n[59:36] Eu copiei.\n[59:37] Eu nem pensei no negócio.\n[59:41] Eu tava lá estudando o Google Maps, como é que eu faço, tal, não sei o quê, pra ir do ponto tal.\n[59:58] Falei, cara, eu peguei o código fonte do Márcio, fui ler, liguei pra ele na oficina.\n[01:00:12] Aí a gente fez uma reunião lá em casa, não sei se você lembra dessa parada.\n[01:00:25] Eu tenho foto dessa reunião.\n[01:00:30] E ele me ensinou sobre isso.\n[01:00:34] Eu tenho foto dessa reunião.\n[01:00:39] Me lembro de pegar essa foto pra vocês colocarem aqui, porque eu tenho foto no meu favorito.\n[01:00:55] Você tem foto da bicicleta também.\n[01:01:01] Eu tenho poucas fotos da época.\n[01:01:06] Na época, as pessoas não tiravam foto.\n[01:01:12] Não tinha smartphone, né?\n[01:01:17] Não tinha celular.\n[01:01:20] E também a galera não tinha um hábito.\n[01:01:26] Eu não tinha hábito de tirar foto, por exemplo.\n[01:01:34] Então, mas por um acaso, nessa época, eu lembro que eu tirei algumas que eu falei, cara, eu acho que a gente vai ser um baita de um sucesso.\n[01:01:58] Deixa eu botar umas fotos que vai servir pro livro.\n[01:02:07] E realmente serviu, tá ligado?\n[01:02:12] Me direciona.\n[01:02:14] Mas alguns calls foram muito errados.\n[01:02:20] Muito errados.\n[01:02:23] Muito errados.\n[01:02:25] E eu bati de frente, não lembro.\n[01:02:30] Eu sei que você lembra que eu bati de frente com o Sampaio.\n[01:02:40] Eu bati de frente pra caralho.\n[01:02:46] Falei, tá errado essa porra.\n[01:02:50] Eu e você, a gente batia de frente pra caralho com os caras.\n[01:03:01] Mas no final do dia era o seguinte, os caras eram controladores.\n[01:03:11] Eles tinham quatro cadeiras no conselho e a gente uma.\n[01:03:21] Mas quando dava merda, que nem o call do iPhone, não sei se você lembra, que eles ficaram, não, vamos fazer esse iPhone, a versão nova, o UI vendeu pra eles.\n[01:03:47] Cara, eles tiraram o desenvolvedor de iPhone de perto de mim, do Márcio, botaram numa sala em cima e vai lançar.\n[01:04:06] E eu falando, vai dar merda, vai dar merda.\n[01:04:14] A gente lançou, cara, a gente perdeu acho que 50% da nossa base de iOS.\n[01:04:26] Você vê que ia recuperar.\n[01:04:30] Tava tudo cagado o app.\n[01:04:34] Eu não conseguia ver.\n[01:04:38] O cara tinha feito uma biblioteca dentro do app que era no servidor dele.\n[01:04:50] Tinha senha.\n[01:04:52] Eu não tinha acesso pra ver.\n[01:04:57] Loucura, né?\n[01:04:59] Foi muita cagada no início.\n[01:05:03] A Rocket faziam as coisas, fora os outros calls que a gente nem comenta aqui.\n[01:05:16] Não comenta, inclusive tá no Nada Easy, boa parte das paradas.\n[01:05:27] Os caras, mano, os caras eram um caos.\n[01:05:33] Essa que é a verdade.\n[01:05:37] Apesar dos pesares, pra falar que deu certo, teria como ter dado muito mais certo se não fosse esses caras.\n[01:05:55] Mas beleza, mano.\n[01:05:58] Não tinha outra opção também.\n[01:06:03] Não tinha, mas foi aprendizado pra mim.\n[01:06:10] Cara, eu nunca escarei.\n[01:06:14] A gente viveu na época.\n[01:06:18] O que é o Nubank hoje era Easy Taxi na época, né?\n[01:06:26] A gente teve mais acesso que o Facebook.\n[01:06:33] A gente foi o primeiro a ter um TAN da AWS.\n[01:06:40] Tanto que eu virei referência.\n[01:06:45] Eu fui\n\nÉ por essa escolha?\n[01:06:50] Não.\n[01:06:50] Você faz a escolha de curto prazo e você tem um benefício agora.\n[01:07:01] Você paga o preço no longo prazo.\n[01:07:07] A escolha de longo prazo é o contrário.\n[01:07:14] Você paga o preço agora, no curto prazo, para você ter o benefício lá também, no longo prazo.\n[01:07:29] Agora, o cara não quer pagar o preço do curto prazo.\n[01:07:38] Cara, eu não quero dormir na empresa.\n[01:07:45] Eu não quero ralar para poder construir alguma coisa.\n[01:07:54] Eu não quero comer bem.\n[01:07:57] Eu não quero ter que estudar.\n[01:08:02] Eu não quero ter que estar sempre lendo um livro.\n[01:08:11] Beleza.\n[01:08:12] Agora você vai ter uma relação hedonística com a tua vida que é, tá bom, então ao invés de eu ler, eu vou assistir o Netflix.\n[01:08:33] Ao invés de eu treinar, eu vou comer hambúrguer e jogar videogame.\n[01:08:44] Faz isso, cara.\n[01:08:47] Daqui a 10 anos você vai ver onde está a sua vida.\n[01:08:55] Você vai ser um merda.\n[01:08:59] É isso que vai acontecer com a sua vida.\n[01:09:06] E aí, daqui a pouco, o que eles começam a fazer?\n[01:09:14] A culpar os outros.\n[01:09:17] O mundo é injusto.\n[01:09:20] Todo mundo me deve alguma coisa.\n[01:09:26] Mas eu não tenho que fazer nada para essas pessoas me pagarem essa coisa.\n[01:09:38] Aí vira essa relação e fala, agora eu estou com crise de ansiedade.\n[01:09:50] Agora eu estou com depressão.\n[01:09:55] Por quê?\n[01:09:56] Você construiu isso na sua vida por causa das decisões de merda que você tomou.\n[01:10:09] E vira todo um buleta.\n[01:10:13] Se eu posso dizer que o problema é da depressão, o problema não é mais meu.\n[01:10:26] O problema é da depressão que eu estou tendo.\n[01:10:34] Ou eu falo que o problema é do Estado, ou o problema é que o mundo é injusto.\n[01:10:47] Nunca é culpa sua.\n[01:10:50] Nunca é seu.\n[01:10:52] Mas, cara, o sofrimento, a gente sabia virar o sofrimento.\n[01:11:02] Hoje, cara, pra mim, a gente fazia ser legal, cara.\n[01:11:10] A gente zoava.\n[01:11:13] A gente aprendeu a aproveitar a jornada.\n[01:11:20] Eu treino duas vezes por dia.\n[01:11:24] Eu gosto de treinar.\n[01:11:28] Mas por quê?\n[01:11:30] Porque eu comecei a correlacionar o resultado que eu tenho na minha vida com esse treino.\n[01:11:45] Eu falo assim, cara, é ruim quando eu estou levantando 120kg no supino?\n[01:11:57] Dói pra caralho, é ruim.\n[01:12:01] Mas aquela sensação que eu tenho ali me remete a algo bom, que é o estar mais forte, o estar mais fit.\n[01:12:19] E aí você aprende a aproveitar a jornada.\n[01:12:26] O problema é que as pessoas não se dão a chance de aprender a aproveitar a jornada.\n[01:12:40] A gente se divertia pra caramba virando noite.\n[01:12:48] Essas coisas todas que são perrentes, mas...\n[01:12:55] Depois saia todo mundo pra comemorar.\n[01:13:01] Cara, eu vivi uns quatro anos da minha vida ali, cada duas semanas num país.\n[01:13:14] A jornada da Zetax foi muito foda mesmo.\n[01:13:21] Pode ter sido o dia, pode ter sido um dos melhores.\n[01:13:30] E não foi ruim também, não foi a pior coisa do mundo.\n[01:13:39] Não, mas...\n[01:13:41] Ah, eu acho que foi muito bom, viu?\n[01:13:47] Se você olhar o resultado, foi muito bom.\n[01:13:54] Poderia ter sido muito mais do que a gente merecia, né?\n[01:14:03] Beleza, mas cara, você não pode dizer que é ruim.\n[01:14:11] As tomadas de decisões fizeram dar merda também na Zetax.\n[01:14:21] Na verdade, tô falando do nosso deal de venda pra Rocket, a forma como eles operaram a gente foi, cara, dez vezes menos do que a gente merecia, no mínimo.\n[01:14:47] Dez pra vinte vezes menos do que a gente merecia.\n[01:14:55] Mas também, eu me lembro da gente ter essa conversa, eu falei, cara, o negócio é o seguinte, ou a gente fica brigando com esses caras gastando dinheiro...\n[01:15:22] Vamos fazer e se divertir, cara.\n[01:15:27] E foi a melhor coisa que a gente fez, velho.\n[01:15:35] Eu fiz a Singoo, vendi pra Natura, e agora tamo no G4.\n[01:15:44] Eu fiz a Ramesa, vendi a Ramesa, prebei.\n[01:15:51] E é isso, mano.\n[01:15:53] Então ao invés de eu ficar dando murro em ponta de faca, gastando energia com bad vibes, meu irmão...\n[01:16:10] Vendi a Mundi, fiz uma exchange de cripto.\n[01:16:17] Vendi pra Fox Beat.\n[01:16:21] O sistema que roda na Fox Beat foi a primeira exchange de cripto, foi eu que desenvolvi.\n[01:16:36] O meu tech leader é o CTO lá.\n[01:16:41] Tem hora que tem que saber, very good, brother.\n[01:16:49] Fala, mano, esse jogo aqui eu posso até ganhar, mas a quantidade de energia que eu vou ter que gastar pra ganhar esse jogo é melhor investir ali em outras paradas.\n[01:17:16] A recompensa nunca acho que vai ser do tamanho da sua expectativa.\n[01:17:28] Mas ela vai ser bom o suficiente.\n[01:17:33] Às vezes é assim, cara.\n[01:17:37] Às vezes pode ser.\n[01:17:40] Vocês fizeram um baita deal.\n[01:17:45] Um baita.\n[01:17:46] Venderam por um bilhão de reais.\n[01:17:52] 1.3, né?\n[01:17:53] Então estão no earn out lá.\n[01:17:58] Foi um baita deal.\n[01:18:01] Foi fair.\n[01:18:02] Foi no momento bom também.\n[01:18:07] Hoje em dia, tirou da cartola.\n[01:18:12] Hoje em dia não vale o que valia.\n[01:18:18] Eu já falei isso com o Alê várias vezes.\n[01:18:24] Meu irmão, você tirou essa hora certa.\n[01:18:31] Talvez tenha sido melhor que a expectativa, então.\n[01:18:39] Contrariando aqui a tese.\n[01:18:44] Na época, o mercado era assim.\n[01:18:49] Não dá pra falar, não foi nada bom.\n[01:18:55] O mercado tava assim.\n[01:18:58] A gente deu sorte.\n[01:19:01] Não foi estratégico.\n[01:19:05] Nem falou, ninguém sabia o que ia acontecer.\n[01:19:12] O mercado era muito bom, velho.\n[01:19:17] A gente tava no mercado.\n[01:19:22] Ninguém fez um negócio.\n[01:19:25] Ah, vou aproveitar.\n[01:19:29] Foi a sorte.\n[01:19:31] A gente conseguiu.\n[01:19:34] Qual que é a parada que, quando eu era seu CEO, eu mais se irritava que eu fazia?\n[01:19:48] Pode falar mal de mim, vai.\n[01:19:52] Cara, eu acho que você já falou aí.\n[01:19:58] Era isso, de você me dar um prazo.\n[01:20:04] A gente não tá nem pronto pra nada.\n[01:20:10] Isso é pra amanhã.\n[01:20:13] Isso é pra amanhã.\n[01:20:16] E aí, eu falava, cara...\n[01:20:20] Não tem engenheiro cascudo que não tenha vivido uma situação dessa.\n[01:20:32] Qual a situação dessa treta que você já viveu?\n[01:20:39] Eu tive uma quando eu tava na distribuidora de livro digital, a Xerife.\n[01:20:51] E aí, a gente tava expandindo pra educação, né?\n[01:20:59] E aí, veio a Universidade de Estácio, tava em franca expansão ali na época, isso era 2012, eu acho, 2011, 2012.\n[01:21:18] E eles abriram uma concorrência pra empresas que faziam conteúdo digital.\n[01:21:31] A gente entrou no meio dessa concorrência, né?\n[01:21:39] E aí, pô, era...\n[01:21:41] Ó, nós já colocamos no jornal, na TV, em vários veículos aí e tal, digitais e impressos e mídia física, que no semestre que vem, o aluno que se matriculava ia ganhar um tablet com conteúdo digital.\n[01:22:15] Já tá prometido.\n[01:22:17] Agora alguém tem que fazer.\n[01:22:22] E eu via a propaganda, tava ali, eu falei, meu irmão, como é que eu vou fazer esse negócio?\n[01:22:38] A gente tinha, tipo, dois meses pra estar com nada pro produto absolutamente criado e funcionando.\n[01:22:54] E entramos numa concorrência.\n[01:22:59] Pô, a Xerife era, de certa forma, desconhecida ainda, apesar de ser a primeira distribuidora.\n[01:23:15] Pô, salve aí pro Duder Nani, visionário pra caramba, a primeira livraria e primeira distribuidora.\n[01:23:32] O que que tá fazendo hoje?\n[01:23:36] Ele agora tem um aplicativo chamado Toda, com dois ossos, também é um aplicativo, assim, de marketplace.\n[01:23:54] Pô, cara, ele teve até um azar aí, mas já se reinventou e já pivotou, que ele fazia uma conexão entre o praiano, o banhista, e o barraqueiro.\n[01:24:18] Ah, legal.\n[01:24:19] Então, cara, aquele negócio de você ter que chamar o barraqueiro pra chamar...\n[01:24:33] Pô, legal, hein, cara?\n[01:24:37] Muito maneiro.\n[01:24:39] E dá um data mart aí, uma riqueza de dados violenta.\n[01:24:48] Só que ele fez isso, acho que um mês depois da pandemia.\n[01:24:57] Então, coitado.\n[01:25:00] Alguma coisa assim, mas, cara...\n[01:25:05] Não, mas ele dizia, a tomada de decisões fizeram dar merda também na Zetax.\n[01:25:18] Não, mas eu nem lembro, tô falando do nosso deal de venda pra Rocket, a forma como eles operaram a gente, foi, cara, dez vezes menos do que a gente merecia, no mínimo.\n[01:25:46] Dez pra vinte vezes menos do que a gente merecia.\n[01:25:55] Mas também, eu me lembro da gente ter essa conversa, eu falei, cara, o negócio é o seguinte, ou a gente fica brigando com esses caras gastando dinheiro...\n[01:26:21] Vamos fazer e se divertir, cara.\n[01:26:26] E foi a melhor coisa que a gente fez, velho.\n[01:26:34] Eu fiz a Singoo, vendi pra Natura, e agora estamos no G4.\n[01:26:44] Eu fiz a Ramesa, vendi a Ramesa, prebei.\n[01:26:50] Você fez a Mara, agora eu fiz a Remessa, vendei a Remessa, pro Bray Banks.\n[01:27:03] E é isso, mano.\n[01:27:06] Então, ao invés de eu ficar dando murro em ponta de faca, gastando energia com bad vibes, meu irmão...\n[01:27:23] Vendi a Mundi, fiz uma exchange de cripto.\n[01:27:30] Vendi pra Fox Beat.\n[01:27:33] O sistema que roda na Fox Beat foi a primeira exchange de cripto, foi eu que desenvolvi.\n[01:27:48] O meu tech leader é o CTO lá.\n[01:27:53] Tem hora que tem que saber, very good, brother.\n[01:28:01] Fala, mano, esse jogo aqui eu posso até ganhar, mas a quantidade de energia que eu vou ter que gastar pra ganhar esse jogo é melhor investir ali em outras paradas.\n[01:28:29] A recompensa nunca acho que vai ser do tamanho da sua expectativa.\n[01:28:40] Mas ela vai ser bom o suficiente.\n[01:28:46] Às vezes é assim, cara.\n[01:28:50] Às vezes pode ser.\n[01:28:53] Vocês fizeram um baita deal.",
+  "timestamps_estimated": true
+}

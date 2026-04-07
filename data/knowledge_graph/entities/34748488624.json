@@ -1,0 +1,363 @@
+{
+  "episode_id": "34748488624",
+  "title": "O Fim dos Unicórnios | Conectando os Pontos",
+  "date_published": 1675674007,
+  "duration": 2848,
+  "chunks_processed": 2,
+  "people": [
+    {
+      "name": "Aileen Lee",
+      "role": "mentioned",
+      "company": "Cowboy Ventures",
+      "title": "Sócia fundadora"
+    },
+    {
+      "name": "Barack Obama",
+      "role": "mentioned",
+      "company": "",
+      "title": "Presidente dos Estados Unidos"
+    },
+    {
+      "name": "Masayoshi Son",
+      "role": "mentioned",
+      "company": "SoftBank",
+      "title": "Fundador"
+    },
+    {
+      "name": "Jerome Powell",
+      "role": "mentioned",
+      "company": "FED",
+      "title": "Presidente"
+    },
+    {
+      "name": "Tallis Gomes",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Alfredo Soares",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Bruno Nardon",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    },
+    {
+      "name": "Tony Celestino",
+      "role": "host",
+      "company": "G4 Educação",
+      "title": "Host"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Cowboy Ventures",
+      "industry": "Venture Capital",
+      "context": "Fundo de venture capital mencionado como o local de trabalho de Aileen Lee."
+    },
+    {
+      "name": "99 Taxis",
+      "industry": "Mobilidade Urbana",
+      "context": "Primeiro unicórnio brasileiro, vendido por mais de um bilhão de dólares."
+    },
+    {
+      "name": "Netflix",
+      "industry": "Entretenimento",
+      "context": "Exemplo de startup com modelo de negócios escalável."
+    },
+    {
+      "name": "Softbank",
+      "industry": "Venture Capital",
+      "context": "Investidor agressivo em startups como Uber, WeWork e Wirecard."
+    },
+    {
+      "name": "Sequoia Capital",
+      "industry": "Venture Capital",
+      "context": "Investidor em startups como WhatsApp."
+    },
+    {
+      "name": "Uber",
+      "industry": "Mobilidade Urbana",
+      "context": "Startup investida pelo SoftBank."
+    },
+    {
+      "name": "Wework",
+      "industry": "Espaços de Trabalho Compartilhados",
+      "context": "Startup investida pelo SoftBank."
+    },
+    {
+      "name": "Wirecard",
+      "industry": "Pagamentos",
+      "context": "Startup investida pelo SoftBank."
+    },
+    {
+      "name": "Wildlife Studios",
+      "industry": "Jogos",
+      "context": "Startup brasileira que se tornou unicórnio."
+    },
+    {
+      "name": "Ifood",
+      "industry": "Entrega de Alimentos",
+      "context": "Startup brasileira que se tornou unicórnio."
+    },
+    {
+      "name": "Ebanks",
+      "industry": "Pagamentos",
+      "context": "Startup brasileira que se tornou unicórnio."
+    },
+    {
+      "name": "Quinto Andar",
+      "industry": "Imobiliário",
+      "context": "Startup brasileira que se tornou unicórnio."
+    },
+    {
+      "name": "Creditas",
+      "industry": "Fintech",
+      "context": "Startup brasileira que se tornou unicórnio."
+    },
+    {
+      "name": "Gympass",
+      "industry": "Fitness",
+      "context": "Startup brasileira que se tornou unicórnio."
+    },
+    {
+      "name": "Frete.Com",
+      "industry": "Logística",
+      "context": "Startup brasileira que se tornou unicórnio."
+    },
+    {
+      "name": "Nubank",
+      "industry": "Fintech",
+      "context": "Startup brasileira que se tornou unicórnio."
+    },
+    {
+      "name": "Loggi",
+      "industry": "Logística",
+      "context": "Startup brasileira que se tornou unicórnio."
+    },
+    {
+      "name": "99",
+      "industry": "Mobility",
+      "context": "Primeira startup brasileira a se tornar unicórnio"
+    },
+    {
+      "name": "Didi",
+      "industry": "Mobility",
+      "context": "Comprou a 99 em 2018"
+    },
+    {
+      "name": "Apple",
+      "industry": "Technology",
+      "context": "Atingiu 2 trilhões de dólares em valor de mercado em 2020"
+    },
+    {
+      "name": "Zoom",
+      "industry": "Technology",
+      "context": "Valorização de mais de 450% em 2020"
+    },
+    {
+      "name": "Peloton",
+      "industry": "Technology",
+      "context": "Valorização de mais de 400% em 2020"
+    },
+    {
+      "name": "Shopify",
+      "industry": "Technology",
+      "context": "Valorização de mais de 320% em 2020"
+    },
+    {
+      "name": "Airbnb",
+      "industry": "Technology",
+      "context": "Realizou IPO em 2020 e atingiu 100 bilhões de dólares"
+    },
+    {
+      "name": "Snap",
+      "industry": "Technology",
+      "context": "Atingiu 100 bilhões de dólares em valor de mercado em 2021"
+    },
+    {
+      "name": "Vitex",
+      "industry": "Technology",
+      "context": "Realizou IPO na Nise em 2021"
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Unicórnios",
+      "category": "Termo de Negócios"
+    },
+    {
+      "name": "Valuation",
+      "category": "Termo de Negócios"
+    },
+    {
+      "name": "MVP (Produto Mínimo Viável)",
+      "category": "Estratégia de Produto"
+    },
+    {
+      "name": "Venture Capital",
+      "category": "Financiamento"
+    },
+    {
+      "name": "IPO (Oferta Pública Inicial)",
+      "category": "Financiamento"
+    },
+    {
+      "name": "Escalabilidade",
+      "category": "Modelo de Negócios"
+    },
+    {
+      "name": "Crescimento Exponencial",
+      "category": "Modelo de Negócios"
+    },
+    {
+      "name": "IPO",
+      "category": "Finance"
+    },
+    {
+      "name": "FOMO (Fear of Missing Out)",
+      "category": "Investment Psychology"
+    },
+    {
+      "name": "Transformação Digital",
+      "category": "Technology"
+    },
+    {
+      "name": "Pandemia de COVID-19",
+      "category": "Global Event"
+    },
+    {
+      "name": "Auxílio Emergencial",
+      "category": "Economic Policy"
+    },
+    {
+      "name": "Taxa de Juros",
+      "category": "Economic Policy"
+    }
+  ],
+  "books": [],
+  "metrics": [
+    {
+      "value": "39",
+      "context": "Número de startups unicórnios em 2013."
+    },
+    {
+      "value": "270 milhões de dólares",
+      "context": "Custo da última temporada de Stranger Things pela Netflix."
+    },
+    {
+      "value": "19 bilhões de dólares",
+      "context": "Valor da venda do WhatsApp para o Facebook."
+    },
+    {
+      "value": "150 milhões de dólares",
+      "context": "Rodada de investimentos série E do Nubank em 2018"
+    },
+    {
+      "value": "47 bilhões de dólares",
+      "context": "Valor de mercado do WeWork antes do IPO frustrado"
+    },
+    {
+      "value": "10 bilhões de dólares",
+      "context": "Valor de mercado do WeWork após tentativa de IPO"
+    },
+    {
+      "value": "1,24 bilhão de dólares",
+      "context": "Valor de mercado atual do WeWork"
+    },
+    {
+      "value": "2,3 trilhões de dólares",
+      "context": "Injeção na economia americana pelo FED em 2020"
+    },
+    {
+      "value": "70%",
+      "context": "Crescimento do comércio eletrônico no Brasil em 2020"
+    },
+    {
+      "value": "32%",
+      "context": "Crescimento do comércio eletrônico nos EUA em 2020"
+    },
+    {
+      "value": "100 bilhões de dólares",
+      "context": "Valor de mercado do Airbnb após IPO em 2020"
+    },
+    {
+      "value": "541 startups",
+      "context": "Número de startups que se tornaram unicórnios em 2021"
+    },
+    {
+      "value": "10 startups",
+      "context": "Número de startups brasileiras que se tornaram unicórnios em 2021"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Softbank",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Uber",
+      "target_type": "company"
+    },
+    {
+      "source": "Jerome Powell",
+      "source_type": "person",
+      "relation": "works_at",
+      "target": "Fed",
+      "target_type": "company"
+    },
+    {
+      "source": "Aileen Lee",
+      "source_type": "person",
+      "relation": "founded",
+      "target": "Cowboy Ventures",
+      "target_type": "company"
+    },
+    {
+      "source": "Nubank",
+      "source_type": "company",
+      "relation": "related_to",
+      "target": "Vitex",
+      "target_type": "company"
+    },
+    {
+      "source": "Softbank",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Wirecard",
+      "target_type": "company"
+    },
+    {
+      "source": "Softbank",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Wework",
+      "target_type": "company"
+    },
+    {
+      "source": "99 Taxis",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Didi",
+      "target_type": "company"
+    },
+    {
+      "source": "Sequoia Capital",
+      "source_type": "company",
+      "relation": "invested_in",
+      "target": "Whatsapp",
+      "target_type": "company"
+    },
+    {
+      "source": "99",
+      "source_type": "company",
+      "relation": "founded",
+      "target": "Didi",
+      "target_type": "company"
+    }
+  ]
+}
