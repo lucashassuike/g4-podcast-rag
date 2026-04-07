@@ -71,6 +71,20 @@ def load_episodes():
             return json.load(f)
     return []
 
+# ── Debug: mostra diagnostico na sidebar ────────────────────
+_api_key = _secret("AZURE_OPENAI_API_KEY")
+_endpoint = _secret("AZURE_OPENAI_ENDPOINT")
+_embed_model = _secret("AZURE_EMBEDDING_DEPLOYMENT", "text-embedding-ada-002")
+_chat_model = _secret("AZURE_CHAT_DEPLOYMENT", "gpt-4o")
+
+with st.sidebar:
+    with st.expander("Debug - Config", expanded=False):
+        st.text(f"API Key: {_api_key[:8]}...{_api_key[-4:]}" if len(_api_key) > 12 else f"API Key: EMPTY ({len(_api_key)} chars)")
+        st.text(f"Endpoint: {_endpoint}")
+        st.text(f"Embed model: {_embed_model}")
+        st.text(f"Chat model: {_chat_model}")
+        st.text(f"Secrets keys: {list(st.secrets.keys())}")
+
 collection = init_chroma()
 embedding_client = init_openai()
 chat_client = init_chat_client()
