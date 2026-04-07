@@ -6,6 +6,7 @@ Uso: streamlit run app.py
 """
 
 import json
+import os
 import streamlit as st
 import chromadb
 from openai import AzureOpenAI
@@ -22,6 +23,14 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+# ── Helpers para ler secrets ────────────────────────────────
+
+def _secret(key: str, default: str = "") -> str:
+    """Le de st.secrets primeiro, depois os.environ."""
+    if key in st.secrets:
+        return str(st.secrets[key])
+    return os.getenv(key, default)
+
 # ── Init (cached) ───────────────────────────────────────────
 
 @st.cache_resource
@@ -35,17 +44,17 @@ def init_chroma():
 @st.cache_resource
 def init_openai():
     return AzureOpenAI(
-        api_key=config.AZURE_API_KEY,
-        api_version=config.AZURE_EMBEDDING_API_VERSION,
-        azure_endpoint=config.AZURE_ENDPOINT,
+        api_key=_secret("AZURE_OPENAI_API_KEY"),
+        api_version=_secret("AZURE_EMBEDDING_API_VERSION", "2023-05-15"),
+        azure_endpoint=_secret("AZURE_OPENAI_ENDPOINT"),
     )
 
 @st.cache_resource
 def init_chat_client():
     return AzureOpenAI(
-        api_key=config.AZURE_API_KEY,
-        api_version=config.AZURE_CHAT_API_VERSION,
-        azure_endpoint=config.AZURE_ENDPOINT,
+        api_key=_secret("AZURE_OPENAI_API_KEY"),
+        api_version=_secret("AZURE_CHAT_API_VERSION", "2025-03-01-preview"),
+        azure_endpoint=_secret("AZURE_OPENAI_ENDPOINT"),
     )
 
 @st.cache_resource
