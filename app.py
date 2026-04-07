@@ -186,44 +186,19 @@ def generate_ai_answer(query: str, context_chunks: list[dict]) -> str:
 
 # ── Google Sheets (leads) ───────────────────────────────────
 
-SPREADSHEET_ID = "157K7Ps4SIRK9UCZ6jt689PsGmmQREpNH2cYEGTmPRBQ"
+GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwHUi26glIqLx0Pn37RtG-v2bYqjqIGFEZl8yyzO8Eoey2SIeW7sPx42saFGPFsb9xJ/exec"
 
 def save_lead_to_sheets(lead: dict):
-    """Salva lead no Google Sheets via service account."""
+    """Salva lead no Google Sheets via Apps Script webhook."""
+    import requests as req
     try:
-        from google.oauth2.service_account import Credentials
-        from googleapiclient.discovery import build
-
-        creds_dict = dict(st.secrets["gcp_service_account"])
-        creds = Credentials.from_service_account_info(
-            creds_dict,
-            scopes=["https://www.googleapis.com/auth/spreadsheets"],
-        )
-        service = build("sheets", "v4", credentials=creds)
-
-        timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
-        row = [
-            timestamp,
-            lead["name"],
-            lead["email"],
-            lead["company"],
-            lead["role"],
-            lead["revenue"],
-        ]
-
-        service.spreadsheets().values().append(
-            spreadsheetId=SPREADSHEET_ID,
-            range="Leads!A:F",
-            valueInputOption="RAW",
-            body={"values": [row]},
-        ).execute()
-        return True
-    except Exception as e:
-        st.warning(f"Lead salvo localmente (Google Sheets indisponivel: {e})")
-        # Fallback local
-        leads_file = Path(config.DATA_DIR) / "leads.jsonl"
-        with open(leads_file, "a", encoding="utf-8") as f:
-            f.write(json.dumps(lead, ensure_ascii=False) + "\n")
+        payload = {
+            "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S"),
+            **lead,
+        }
+        resp = req.post(GOOGLE_SCRIPT_URL, json=payload, timeout=10)
+        return resp.status_code == 200
+    except Exception:
         return False
 
 
