@@ -9,3 +9,5 @@ mcp>=1.0
 streamlit>=1.30
 networkx>=3.0
 tenacity>=8.0
+google-auth>=2.0
+google-api-python-client>=2.0

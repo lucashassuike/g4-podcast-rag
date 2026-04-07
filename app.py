@@ -7,6 +7,7 @@ Uso: streamlit run app.py
 
 import json
 import os
+from datetime import datetime, timezone
 import streamlit as st
 import chromadb
 from openai import AzureOpenAI
@@ -183,6 +184,49 @@ def generate_ai_answer(query: str, context_chunks: list[dict]) -> str:
     return response.choices[0].message.content
 
 
+# ── Google Sheets (leads) ───────────────────────────────────
+
+SPREADSHEET_ID = "157K7Ps4SIRK9UCZ6jt689PsGmmQREpNH2cYEGTmPRBQ"
+
+def save_lead_to_sheets(lead: dict):
+    """Salva lead no Google Sheets via service account."""
+    try:
+        from google.oauth2.service_account import Credentials
+        from googleapiclient.discovery import build
+
+        creds_dict = dict(st.secrets["gcp_service_account"])
+        creds = Credentials.from_service_account_info(
+            creds_dict,
+            scopes=["https://www.googleapis.com/auth/spreadsheets"],
+        )
+        service = build("sheets", "v4", credentials=creds)
+
+        timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+        row = [
+            timestamp,
+            lead["name"],
+            lead["email"],
+            lead["company"],
+            lead["role"],
+            lead["revenue"],
+        ]
+
+        service.spreadsheets().values().append(
+            spreadsheetId=SPREADSHEET_ID,
+            range="Leads!A:F",
+            valueInputOption="RAW",
+            body={"values": [row]},
+        ).execute()
+        return True
+    except Exception as e:
+        st.warning(f"Lead salvo localmente (Google Sheets indisponivel: {e})")
+        # Fallback local
+        leads_file = Path(config.DATA_DIR) / "leads.jsonl"
+        with open(leads_file, "a", encoding="utf-8") as f:
+            f.write(json.dumps(lead, ensure_ascii=False) + "\n")
+        return False
+
+
 # ── Lead Gate ───────────────────────────────────────────────
 
 def show_lead_gate():
@@ -227,7 +271,6 @@ def show_lead_gate():
                 if not name or not email:
                     st.error("Preencha nome e email para continuar.")
                 else:
-                    # Salva lead (append em arquivo JSON Lines)
                     lead = {
                         "name": name,
                         "email": email,
@@ -235,9 +278,7 @@ def show_lead_gate():
                         "role": role,
                         "revenue": revenue,
                     }
-                    leads_file = Path(config.DATA_DIR) / "leads.jsonl"
-                    with open(leads_file, "a", encoding="utf-8") as f:
-                        f.write(json.dumps(lead, ensure_ascii=False) + "\n")
+                    save_lead_to_sheets(lead)
 
                     st.session_state["authenticated"] = True
                     st.session_state["user_name"] = name
