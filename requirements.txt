@@ -1,0 +1,11 @@
+requests>=2.31
+python-dotenv>=1.0
+openai>=1.30
+chromadb>=0.5
+pydub>=0.25
+tqdm>=4.66
+tiktoken>=0.7
+mcp>=1.0
+streamlit>=1.30
+networkx>=3.0
+tenacity>=8.0
